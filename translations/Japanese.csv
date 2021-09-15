@@ -1,0 +1,4016 @@
+//Input. Needs to be first e.g [I] replaced by click or tap,
+Click,クリック
+Tap,タップ
+,
+//Tower Names,
+DartMonkey,ダーツモンキー
+BoomerangMonkey,ブーメランモンキー
+BombShooter,爆弾シューター
+TackShooter,びょうシューター
+IceMonkey,アイスモンキー
+GlueGunner,グルーガンマン
+SniperMonkey,スナイパーモンキー
+MonkeySub,モンキー潜水艦
+MonkeyBuccaneer,モンキーバッカニア
+MonkeyAce,エースモンキー
+HeliPilot,ヘリパイロット
+MortarMonkey,迫撃砲モンキー
+WizardMonkey,魔法使いモンキー
+DartlingGunner,ダートリング砲手
+SuperMonkey,スーパーモンキー
+NinjaMonkey,忍者モンキー
+Alchemist,錬金術師
+Druid,ドルイド
+BananaFarm,バナナ農園
+EngineerMonkey,エンジニアモンキー
+SpikeFactory,スパイク工場
+MonkeyAcademy,モンキーアカデミー
+MonkeyVillage,モンキー村
+,
+//Tower Descriptions,
+DartMonkey Description,近くのブルーンにダーツを一本投げる。近距離で貫通度も低いが安い。
+BoomerangMonkey Description,カーブしながら飛ぶブーメランを投げる。良い飛距離と貫通度。
+BombShooter Description,パワフルな爆弾をブルーンめがけて発射する。発射率は遅いが、爆破周辺の放射状範囲に影響する。
+TackShooter Description,八方向に尖ったびょうの近距離射撃を一斉発射する。
+IceMonkey Description,短期間、付近のブルーンを割って凍らせる。凍ったブルーンは、尖ったものによるダメージが効かない。白、ゼブラ、鉛のブルーンは凍結できない。
+GlueGunner Description,ブルーンを50％遅くさせるネバネバ接着剤の塊を撃ち放つ。
+SniperMonkey Description,長距離ライフルで、画面上に見える範囲のブルーンを撃つことができ、当たればブルーンの二層分を割る。
+MonkeySub Description,近くのブルーンに向けて、自動誘導魚雷型ダーツを撃つ。水の中に設置しなければならない。
+MonkeyBuccaneer Description,船の両側から重装備のダーツを1本撃つ。水の中に設置しなければならない。
+MonkeyAce Description,地面の上を飛びながら、貫通度の高いダーツを一斉発射する。
+HeliPilot Description,向けた方向にホバリングする。重装備ダブルダーツ銃を発砲する。
+MortarMonkey Description,画面上の任意の定位置めがけて、爆破する迫撃炸裂弾を発射する。
+WizardMonkey Description,ブルーンに向けて、魔法のエネルギーの稲妻を投げる。様々なパワフルな呪文にアップグレードできる。
+DartlingGunner Description,ダーツを撃つマシンガンを使う。どこでも画面上のタップした場所を狙う。
+SuperMonkey Description,超音速スピードで何百ものダーツを投げる。巨大な攻撃範囲。
+NinjaMonkey Description,ブルーンを割る刃つき手裏剣を投げる、素早いステルスモンキー。カモフラージュブルーンを標的にできる。
+Alchemist Description,科学と魔法の力を利用し、ブルーンに酸をかける。また、色々な効果の多様なポーションを作る。
+Druid Description,各攻撃でトゲの爆破を作りだす。アップグレードすると、ジャングル、ストーム、ラスの力を召喚できる。
+BananaFarm Description,各ラウンドで、色々なものを買うためのゲーム内通貨に両替できるバナナを生成する。
+EngineerMonkey Description,ブルーンを割るための、頼れる釘打ちガンを持っている。アップグレードすると、自分の釘打ち番兵砲塔を作れる。
+SpikeFactory Description,近くのトラックに路上スパイクの山を自動的に作り出す。最後の防衛線として最適。
+MonkeyAcademy Description,モンキーたちの教育と訓練の場。軍人、魔法、ヒーローモンキーに有利となるパワフルな力を与える。各ラウンドで、少量のヒーローXPを生成する。
+MonkeyVillage Description,モンキー工業の中心で、全てのモンキーの助けとなる様々な手助けを用意している。全てのモンキーの直径を、15％広げる。
+,
+//Hero Names,
+Quincy,クインシー
+StrikerJones,ストライカー・ジョーンズ
+CaptainChurchill,チャーチル大佐
+Gwendolin,グウェンドリン
+Benjamin,ベンジャミン
+PatFusty,ビッグパット
+Ezili,エジーリ
+ObynGreenfoot,オービン・グリーンフット
+,
+//Hero Short Descriptions,
+Quincy Short Description,アーチャー
+StrikerJones Short Description,砲撃司令官
+CaptainChurchill Short Description,戦車
+Gwendolin Short Description,放火魔
+Benjamin Short Description,コーディングモンキー
+PatFusty Short Description,ジャイアントモンキー
+Ezili Short Description,ブードゥーモンキー
+ObynGreenfoot Short Description,森の守護者
+,
+//Hero Description,
+Quincy Description,自尊心が高く、強く、そして聡明なクインシーは、弓を使って離れ業をやってのける。
+StrikerJones Description,ストライカー・ジョーンズは長距離戦の知識を駆使し、爆破力に輪をかける力強い司令官。
+CaptainChurchill Description,武装した戦車の中にいるこの大佐には、戦場でのナンセンスは一切通用しない。
+Gwendolin Description,グウェンドリンは、炎で解決できないブルーン問題は、これまでに存在しないと信じている。たくさんの火炎で。
+Benjamin Description,ベンジャミンは、エリート級ハッカー技術を使い、目的のために追加のお金を作り出す。
+PatFusty Description,パットはものすごい力を備えた巨大モンキー。彼のユニークな大きさとパワーは、ブルーン戦争では素晴らしい資産だ。
+Ezili Description,エジーリは闇の術の使い手でブルーンを操ることができる。気を付けろ。 
+ObynGreenfoot Description,自然の指令権力を持つオービンは、オオカミの精の攻撃で堅い障害物も打ち抜くことができる。
+,
+//Hero Level Descriptions,
+Quincy Level 1 Description,クインシーの弓矢は、最大3つのターゲットにバウンスする。
+Quincy Level 2 Description,基本攻撃が最大4つのターゲットにバウンスする。
+Quincy Level 3 Description,急速ショット：短期間の間、三倍速で攻撃。
+Quincy Level 4 Description,もう少し長い距離。
+Quincy Level 5 Description,鋭い視力を使ってカモフラージュブルーンを撃ち落とす。
+Quincy Level 6 Description,一度に2本の弓を撃つ。
+Quincy Level 7 Description,3発ごとに爆破する矢を撃つ。
+Quincy Level 8 Description,弓矢がMOAB級ブルーンに3倍ダメージを与える。
+Quincy Level 9 Description,基本攻撃が最大6つのターゲットにバウンスする。
+Quincy Level 10 Description,矢の嵐：広い地域に致命的な弓矢の雨をふらす。
+Quincy Level 11 Description,攻撃速度が増加。
+Quincy Level 12 Description,弓矢ごとの破裂パワーが強くなる。
+Quincy Level 13 Description,少し距離が増える。
+Quincy Level 14 Description,弓矢がMOAB級ブルーンに4倍ダメージを与える。
+Quincy Level 15 Description,急速ショットの攻撃速度が4倍になり、クールダウン期間が短縮する。
+Quincy Level 16 Description,攻撃速度がさらに増加。
+Quincy Level 17 Description,弓矢の持続時間が25％延長。
+Quincy Level 18 Description,クインシーがより素早く攻撃し、矢の嵐のクールダウン時間が短縮され、矢の数が50％増える。
+Quincy Level 19 Description,弓ごとの破裂パワーがさらに強くなる。
+Quincy Level 20 Description,クインシー攻撃はさらに速くなる。 矢の嵐の、弓ごとの破壊力と弓の数が増加し、さらに矢を撃つ。
+,
+StrikerJones Level 1 Description,ストライカー・ジョーンズ強力なバズーカでブルーンを爆破する。
+StrikerJones Level 2 Description,爆破半径が増加。
+StrikerJones Level 3 Description,ブルブル炸裂弾：自動誘導の炸裂弾を画面上の最も大きいブルーンに撃ち、マヒさせる。
+StrikerJones Level 4 Description,画面上のすべての爆弾シューターと迫撃砲モンキーは10％速く撃ちます。
+StrikerJones Level 5 Description,全てのモンキーからの爆破ダメージに対する、全ての黒いブルーンの耐性が減少。
+StrikerJones Level 6 Description,爆破半径とジョーンズの普通攻撃の破裂が大幅にアップ。
+StrikerJones Level 7 Description,撃つごとに2層を割り、迫撃砲モンキーの爆発半径が10％増加します。
+StrikerJones Level 8 Description,ヒーローの近くの爆弾シューターの範囲が+5％、貫通が+25％アップ。
+StrikerJones Level 9 Description,攻撃速度とが増加、ブルブル炸裂弾の貫通度、ダメージ、マヒもアップ。
+StrikerJones Level 10 Description,砲兵コマンド：すべての爆弾シューターと迫撃砲モンキーのクールダウンをリセットします。
+StrikerJones Level 11 Description,攻撃速度が増加。
+StrikerJones Level 12 Description,攻撃範囲が少し増え、もう一つの層を割ることができる。
+StrikerJones Level 13 Description,攻撃速度が増加。
+StrikerJones Level 14 Description,ブルブル炸裂弾が、より広い地域により長い期間影響を与える。
+StrikerJones Level 15 Description,ブルブル炸裂弾のクールダウンが11秒まで減少。
+StrikerJones Level 16 Description,攻撃速度が増加。
+StrikerJones Level 17 Description,範囲が増え、発射ごとに4層を割る。
+StrikerJones Level 18 Description,すべての爆弾シューターと迫撃砲モンキーはさらに10％速く攻撃します。
+StrikerJones Level 19 Description,加速された攻撃スピードで、全ての黒ブルーンの爆破ダメージに対する耐性を下げる。
+StrikerJones Level 20 Description,砲撃コマンドはまた、爆弾シューターと迫撃砲モンキーの両方に2秒間のダメージとポップを10秒間与えます。
+,
+CaptainChurchill Level 1 Description,戦車から撃ち放った爆弾が、最高で3回爆発する。
+CaptainChurchill Level 2 Description,発射ごとの割る力が増加。
+CaptainChurchill Level 3 Description,武装貫通炸裂爆弾：黒ブルーンを割ることができ、陶器ブルーンに追加ダメージを与える。チャーチルのレベルが上がるにつれ、時間も増える。
+CaptainChurchill Level 4 Description,攻撃範囲が拡大。
+CaptainChurchill Level 5 Description,戦車攻撃用の早撃ちマシンガンを追加する。
+CaptainChurchill Level 6 Description,双眼鏡により、チャーチルがカモフラージュブルーンを割れるようになる。
+CaptainChurchill Level 7 Description,炸裂弾の与えるダメージが増え、爆発回数が3回でなく4回になる。
+CaptainChurchill Level 8 Description,攻撃速度が増加。
+CaptainChurchill Level 9 Description,炸裂弾が5回爆発できる。
+CaptainChurchill Level 10 Description,MOAB一斉攻撃：画面上の10個までのMOAB級ブルーンに炸裂弾の一斉攻撃をあびせ、命中するごとに巨大なダメージを与える。
+CaptainChurchill Level 11 Description,炸裂弾ごとの破裂パワーが増加。
+CaptainChurchill Level 12 Description,炸裂弾のダメージが増え、6回爆発できるようになる。
+CaptainChurchill Level 13 Description,武装貫通炸裂弾が、ブルーンを2層分割り、陶器以上の物に対し追加ダメージを与える。
+CaptainChurchill Level 14 Description,マシンガンとメインの銃が、ショットごとに追加で1つの層を割る。
+CaptainChurchill Level 15 Description,全ての攻撃が強化ブルーンに対し追加ダメージを与える。
+CaptainChurchill Level 16 Description,攻撃速度が増加。
+CaptainChurchill Level 17 Description,武装貫通炸裂弾が、さらにダメージ与えるようになる。
+CaptainChurchill Level 18 Description,全ての炸裂弾が、ブルーンの層をもう一層割るようになる。
+CaptainChurchill Level 19 Description,炸裂弾が6回爆発できる。
+CaptainChurchill Level 20 Description,MOAB射撃砲弾とメインのガンは、命中するとダメージを大幅に増加させる。
+,
+Gwendolin Level 1 Description,放火銃からの火でブルーンを爆破する。
+Gwendolin Level 2 Description,発射ごとの割る力が、少し増加。
+Gwendolin Level 3 Description,炎のカクテル：引火性の液体のフラスクを投げつけ、炎を通過するブルーンを燃やす。
+Gwendolin Level 4 Description,ヒートアップ：数秒ごとに協力な炎の爆風を作りだし、ブルーンを割り、付近のMonkeysâ€™攻撃に炎を加える。
+Gwendolin Level 5 Description,破裂パワーが増加。
+Gwendolin Level 6 Description,攻撃すると、狙ったブルーンに燃焼効果を起こす。
+Gwendolin Level 7 Description,ヒートアップの半径が増加。
+Gwendolin Level 8 Description,発射ごとに、2個の火炎弾を撃つ。
+Gwendolin Level 9 Description,爆破ごとの初回の命中で破裂させる層が一層増える。
+Gwendolin Level 10 Description,火の嵐：画面全体に火をつけ全てのブルーンを燃やし、全てのモンキーにヒートアップのバフを与える。
+Gwendolin Level 11 Description,攻撃範囲が拡大。
+Gwendolin Level 12 Description,攻撃速度が増加。
+Gwendolin Level 13 Description,破裂パワーが増加するほか、投射物が高速で移動し長もちするようになる。
+Gwendolin Level 14 Description,炎のカクテルが追加ダメージを与え、MOAB級のブルーンに着火する。
+Gwendolin Level 15 Description,攻撃速度が増加。
+Gwendolin Level 16 Description,火の嵐の期間が増加。紫のブルーンのグウェンドリンの攻撃に対する体制がなくなる。
+Gwendolin Level 17 Description,ヒートアップの影響を受けたモンキーは、追加で一層割れるようになり、また鉛ブルーンに対し+2のダメージを与えられるようになる。
+Gwendolin Level 18 Description,攻撃速度が増加。
+Gwendolin Level 19 Description,発射ごとに、3個の火炎弾を撃つ。
+Gwendolin Level 20 Description,火の嵐の与えるダメージが大幅に増加。
+,
+Benjamin Level 1 Description,ラウンドごとに$100をハッキングで入手。
+Benjamin Level 2 Description,ラウンドごとに$100ではなく、$150の利益をもたらす
+Benjamin Level 3 Description,バイオハック：4つの最も近いモンキーが攻撃ごとに追加の層を6秒間割る。影響を受けたモンキーは効果終了後2秒間攻撃できない。
+Benjamin Level 4 Description,スキミング - 新しいブルーンがスポーンするたびに、+$1獲得する。
+Benjamin Level 5 Description,銀行ハッキング - 全ての銀行が+5％の収入を獲得する。
+Benjamin Level 6 Description,サイバーセキュリティ- 各ラウンドの終わりに、5個のライフを回復する。
+Benjamin Level 7 Description,ブルーントロイの木馬 – 数秒ごとにトロイの木馬のウィルスを無作為にブルーンに送る。感染したブルーンが破壊されると子ブルーンをスポーンせず、二倍のキャッシュを産出する。
+Benjamin Level 8 Description,ラウンドごとの収入が$250に増加。
+Benjamin Level 9 Description,銀行ハッキングが12％に増加。
+Benjamin Level 10 Description,サイホン資金：新しく生まれたブルーンを1ランク下げる。影響を受けるブルーンからは、1ポットあたりの現金は2倍。
+Benjamin Level 11 Description,ラウンドごとの収入が$300に増加。
+Benjamin Level 12 Description,スキミングがブルーンごとに＄2に増加。
+Benjamin Level 13 Description,バイオハックは、ボーナスダメージを増やしてくれる。6匹のモンキーに対し8秒間有効。
+Benjamin Level 14 Description,サイバーセキュリティが、ラウンドごとに10個のライフを追加し、スタート時のライフの100を超えることもある。
+Benjamin Level 15 Description,ラウンドごとの収入が$500に増加。
+Benjamin Level 16 Description,トロイのブルーンでは、もっと多くのブルーンが送り出され、もっと現金を獲得できる。
+Benjamin Level 17 Description,ラウンドごとの収入が$800に増加。
+Benjamin Level 18 Description,ブルーンのトロイの木馬はBFBとDDTブルーンに影響する。
+Benjamin Level 19 Description,バイオハックは9秒間続き、影響を受けたモンキーは2の代わりに3つの追加の層を割る。
+Benjamin Level 20 Description,吸い上げ式資金調達が20秒間続き、影響を受けているブルーンがごとの破裂時のキャッシュが、通常の三倍になる。
+,
+PatFusty Level 1 Description,パットはブルーンを地面へ叩き付ける。
+PatFusty Level 2 Description,スラム攻撃の半径が増加。
+PatFusty Level 3 Description,叫びのスローガン：短時間の間、付近のモンキー全員がもう一層割れるようになる。
+PatFusty Level 4 Description,攻撃速度が増加。
+PatFusty Level 5 Description,ブルーンを出口から遠ざけるパワフルな打撃を与えることがある。
+PatFusty Level 6 Description,パットに攻撃されたブルーンは、短時間マヒする。
+PatFusty Level 7 Description,破裂パワーとダメージが増加。
+PatFusty Level 8 Description,攻撃速度が増加。
+PatFusty Level 9 Description,攻撃範囲が拡大。
+PatFusty Level 10 Description,ビッグスクイーズ：MOAB、BFB、DDT（見える場合）またはZOMGを掴み、5秒間粉々に砕く。
+PatFusty Level 11 Description,攻撃でより多くの層を割れるようになる。
+PatFusty Level 12 Description,攻撃速度が増加。
+PatFusty Level 13 Description,攻撃すると、ブルーンをより長い時間マヒさせ、とても短い間だがMOAB級ブルーンをマヒさせる。
+PatFusty Level 14 Description,叫びのスローガンの半径と期間が増え、影響下にあるモンキーのダメージが増える。
+PatFusty Level 15 Description,スラップ攻撃が、より多くのブルーンに影響を及ぼす。
+PatFusty Level 16 Description,攻撃範囲が増え、陶器にボーナスダメージを与える。
+PatFusty Level 17 Description,攻撃速度が増加。
+PatFusty Level 18 Description,破裂パワーが増加。
+PatFusty Level 19 Description,攻撃でより多くの層を割れるようになる。
+PatFusty Level 20 Description,ビッグスクイーズは、一度に複数の大型ブルーンを掴むことができる。
+,
+ObynGreenfoot Level 1 Description,オオカミの精でブルーンを攻撃。
+ObynGreenfoot Level 2 Description,自然の怒り―範囲内の全てのドルイドの貫通がプラス1に。
+ObynGreenfoot Level 3 Description,トラック上に、一度の50個のブルーンを割れるトゲの茂みを作り出す。
+ObynGreenfoot Level 4 Description,付近の全てのブルーンを30％遅延させるトーテムを、18秒に1回作る。MOAB級ブルーンに対する効果は薄い。
+ObynGreenfoot Level 5 Description,攻撃速度が増加。
+ObynGreenfoot Level 6 Description,破裂パワーが増え、投射物がもっと高速で移動する。
+ObynGreenfoot Level 7 Description,ブランブルは100個のブルーンを割ることができる。
+ObynGreenfoot Level 8 Description,自然区域のトーテムが、ブルーンを40％遅らせる。
+ObynGreenfoot Level 9 Description,攻撃すると余分な層を割れる。
+ObynGreenfoot Level 10 Description,木の壁：通過する全てのブルーンを破壊してくれる木の壁をトラック上に召喚する。一杯になると、木々は破裂してお金になる。
+ObynGreenfoot Level 11 Description,自然の明晰－範囲内の全ての魔法モンキーの範囲がプラス5、貫通がプラス2、そしてドルイドの貫通が追加でプラス1になる。
+ObynGreenfoot Level 12 Description,攻撃速度が増加。
+ObynGreenfoot Level 13 Description,破裂パワーと投射物の速度がさらにアップ。
+ObynGreenfoot Level 14 Description,攻撃すると余分な層を割れる。
+ObynGreenfoot Level 15 Description,自然区域が、ブルーンを60％遅らせる。クールダウンが短縮。
+ObynGreenfoot Level 16 Description,ブランブルはそれぞれ500個のブルーンを割り、全種類のブルーンにダメージを与えられる。
+ObynGreenfoot Level 17 Description,攻撃速度が増加。
+ObynGreenfoot Level 18 Description,怒りの改善₋怒りのドルイド全てが、各ラウンド開始時に200個割る。
+ObynGreenfoot Level 19 Description,攻撃すると余分な層を割れる。
+ObynGreenfoot Level 20 Description,木の壁が、もっとたくさんのブルーンを収容できるようになる。
+,
+Ezili Level 1 Description,エジーリが、闇のブードゥーパワーでブルーンに呪いをかける。
+Ezili Level 2 Description,攻撃範囲が拡大。
+Ezili Level 3 Description,ハートストッパー：6秒の間、再増殖型の発生を防ぐ。
+Ezili Level 4 Description,エジーリのメイン攻撃が、複数のブルーンを呪うようになる。
+Ezili Level 5 Description,攻撃速度が増加。
+Ezili Level 6 Description,時間経過ダメージの期間とダメージ持続時間が増える。
+Ezili Level 7 Description,いけにえのトーテム：付近のモンキーに、カモフラージュ検知、さらなる貫通、攻撃範囲、攻撃スピードを与えるトーテム。10個のライフを消費する、
+Ezili Level 8 Description,エジーリの攻撃はMOAB級ブルーンよりはるかに大きなダメージを与える。
+Ezili Level 9 Description,イージーリの攻撃は、迷彩、再増殖型、および非MOABクラスのブルーンからの武装プロパティを取り除きます。
+Ezili Level 10 Description,MOABヘックス：MOAB級ブルーンの一つに呪いをかけ、全滅するまで一秒ごとにダメージを与える。
+Ezili Level 11 Description,攻撃範囲を増やす。蘇生ブルーンに対する貫通度が50％アップ。
+Ezili Level 12 Description,ハートストッパーのクールダウンが短縮し、期間が増加。
+Ezili Level 13 Description,基本攻撃のスプラッシュ範囲が広がり、貫通も増加。
+Ezili Level 14 Description,時間経過ダメージがよりスピーディーに。
+Ezili Level 15 Description,範囲が拡大。
+Ezili Level 16 Description,いけにえトーテムが長持ちし、使用に必要なのは1ライフのみ。
+Ezili Level 17 Description,基本攻撃のスプラッシュ範囲が広がり、貫通も増加。
+Ezili Level 18 Description,攻撃速度が増加。
+Ezili Level 19 Description,基本攻撃からの各ダメージ数が、2層分割る！
+Ezili Level 20 Description,MOAB Hexはよりスピーディーに働くので、BADブルーンを破壊できる。
+,
+//Hero Ability Names,
+Rapid Shot Ability,急速ショット
+Storm of Arrows Ability,矢の嵐 
+Concussive Shell Ability,ブルブル炸裂弾
+Artillery Command Ability,砲撃指令
+Armor Piercing Shells Ability,武装貫通炸裂弾
+MOAB Barrage Ability,MOAB一斉攻撃
+Cocktail of Fire Ability,炎のカクテル
+Firestorm Ability,火の嵐
+Biohack Ability,バイオハッキング
+Syphon Funding Ability,吸い上げ式資金調達
+Rallying Roar Ability,叫びのスローガン
+Big Squeeze Ability,ビッグスクイーズ
+Brambles Ability,イバラ
+Wall of Trees Ability,木の壁
+,
+//Hero Ability Descriptions,
+Rapid Shot Ability Description,短期間の間、攻撃スピードが三倍。
+Storm of Arrows Ability Description,広い地域に致命的な弓矢の雨をふらす。
+Concussive Shell Ability Description,誘導炸裂弾を画面上の一番大きなブルーンに向けて撃ち、マヒさせる。
+Artillery Command Ability Description,すべての爆弾シューターとモルタルモンキーのクールダウンを短縮する。
+Armor Piercing Shells Ability Description,黒ブルーンを割ることができ、陶器ブルーンに追加ダメージを与える。チャーチルのレベルが上がるにつれ、時間も増える。
+MOAB Barrage Ability Description,画面上の10個までのMOAB級ブルーンに炸裂弾の一斉攻撃をあびせ、命中するごとに巨大なダメージを与える。
+Cocktail of Fire Ability Description,引火性の液体のフラスクを投げつけ、炎を通過するブルーンを燃やす。
+Firestorm Ability Description,画面全体に着火し全てのブルーンを燃やし、ヒートアップのバフを全てのモンキーに与える。
+Biohack Ability Description,一番近くの4匹のモンキーが、6秒間追加の層を割る。影響を受けたモンキーは、効果が切れたあと2秒間攻撃できない。
+Syphon Funding Ability Description,一番新しくスポーンしたブルーンを1ランク分ダウングレードさせる。影響を受けたブルーンを割った時に得られるキャッシュは二倍になる。10秒間有効。
+Rallying Roar Ability Description,短時間の間、付近のモンキー全員がもう一層割れるようになる。
+Big Squeeze Ability Description,MOAB、BFB、DDT（見える場合）またはZOMGをつかみ、5秒間粉々に砕いてしまう。
+Brambles Ability Description,50個のブルーンを割れるトゲの茂みをトラック上に作り出す。
+Wall of Trees Ability Description,通過する全てのブルーンを破壊してくれる木の壁をトラック上に召喚する。一杯になると、木々は破裂してお金になる。
+Heartstopper Ability Description,6秒間に再増殖型が起こらないようにします。
+Sacrificial Totem Ability Description,迷彩の検出、さらなる貫通度、攻撃範囲、攻撃速度、発射速度を近くのモンキーに与えるトーテム。 10ライフ減少。
+MOAB Hex Ability Description,MOAB級ブルーンに呪いをかけると、消滅するまで毎秒ダメージを受ける。
+,
+//Hero Misc,
+Level,レベル
+,
+//Upgrade Names,
+Sharp Shots,シャープショット
+Quick Shots,クイックショット
+Long Range Darts,長距離ダーツ
+Razor Sharp Shots,上級シャープショット
+Very Quick Shots,超クイックショット
+Enhanced Eyesight,アイサイト
+Spike-o-pult,スパイクでつぶせ！
+Triple Shot,トリプルショット
+Crossbow,クロスボウ
+Juggernaut,巨人
+Super Monkey Fan Club,スーパーモンキー\nファンクラブ
+Sharp Shooter,シャープシューター
+Ultra-Juggernaut,巨大ジャガーノート
+Plasma Monkey Fan Club,プラズマモンキー・ファンクラブ
+Crossbow Master,クロスボウ・エキスパート
+,
+Improved Rangs,改良ブーメラン
+Faster Throwing,高速投げ
+Long Range Rangs,長距離ブーメラン
+Glaives,剣
+Faster Rangs,高速ブーメラン
+Red Hot Rangs,炎のブーメラン
+Glaive Ricochet,グレイヴ・リコシェット
+Bionc Boomerang,人工ブーメラン
+Kylie Boomerang,カイリー・ブーメラン
+M.O.A.R Glaives,M.O.A.R剣
+Turbo Charge,ターボチャージ
+MOAB Press,MOABプレス
+Glaive Lord,剣の天王
+Perma Charge,永久チャージ
+MOAB Domination,MOAB天下
+,
+Bigger Bombs,ビッグボム
+Faster Reload,迅速リロード
+Extra Range,射程距離プラス
+Heavy Bombs,巨大ボム
+Missile Launcher,ミサイルランチャー
+Frag Bombs,フラッグ爆弾
+Really Big Bombs,超巨大ボム
+MOAB Mauler,MOAB\nモーラー
+Cluster Bombs,クラスター爆弾
+Bloon Impact,ブルーンインパクト
+MOAB Assassin,MOAB刺客
+Recursive Cluster,再帰的クラスター
+Bloon Crush,ブルーンクラッシュ
+MOAB Eliminator,MOABエリミネーター
+Bomb Blitz,爆弾ブリッツ
+,
+Faster Shooting,高速射撃
+Long Range Tacks,長距離びょう
+More Tacks,もっとびょう
+Even Faster Shooting,超高速射撃
+Super Range Tacks,スーパー長距離びょう
+Even More Tacks,もっともっとびょう
+Hot Shots,ホットショット
+Blade Shooter,ブレードシューター
+Tack Sprayer,びょうスプリンクラー
+Ring of Fire,火の輪
+Blade Maelstrom,ブレード大混乱
+Overdrive,オーバードライブ
+Inferno Ring,猛火の輪
+Super Maelstrom,スーパー大混乱
+The Tack Zone,びょうゾーン
+,
+Permafrost,パーマフロスト
+Enhanced Freeze,強化フリーズ
+Larger Radius,大きな半径
+Metal Freeze,メタルフリーズ
+Deep Freeze,ディープフリーズ
+Re-Freeze,再フリーズ
+Ice Shards,氷の破片
+Arctic Wind,北極風
+Cryo Cannon,低温大砲
+Embrittlement,脆化
+Snowstorm,雪嵐
+Icicles,つらら
+Super Brittle,超脆化
+Absolute Zero,絶対零度
+Icicle Impale,つらら貫通
+,
+Glue Soak,グルー漬け
+Bigger Globs,大きなネバネバ塊
+Stickier Glue,粘着グルー
+Corrosive Glue,腐敗性グルー
+Glue Splatter,グルースプリンクラー
+Stronger Glue,強力グルー
+Bloon Dissolver,ブルーン溶解機
+Glue Hose,グルーホース
+MOAB Glue,MOABグルー
+Bloon Liquefier,ブルーン液化機
+Glue Strike,グルー攻撃
+Relentless Glue,苛酷なグルー
+The Bloon Solver,ブルーン溶解剤
+Glue Storm,グルーストーム
+Super Glue,スーパー接着剤
+,
+Full Metal Jacket,弾丸
+Night Vision Goggles,暗視ゴーグル
+Fast Firing,早撃ち
+Large Calibre,大口径
+Shrapnel Shot,散弾銃ショット
+Even Faster Firing,超早撃ち
+Deadly Precision,恐るべき正確さ
+Bouncing Bullet,跳ね返る銃弾
+Semi-Automatic,セミオートマチック
+Maim MOAB,マイムMOAB
+Supply Drop,供給品ドロップ
+Full Auto Rifle,完全自動ライフル
+Cripple MOAB,MOAB不能化
+Elite Sniper,エリートスナイパー
+Elite Defender,エリートディフェンダー
+,
+Longer Range,長射程距離
+Barbed Darts,とげダーツ
+Twin Guns,ツインガン
+Advanced Intel,上級諜報
+Heat-tipped Darts,加熱性ダーツ
+Airburst Darts,エアバースト・ダーツ
+Submerge and Support,潜水サポート
+Ballistic Missile,弾道ミサイル
+Triple Guns,トリプル銃
+Bloontonium Reactor,ブルーントニウム炉
+First Strike Capability,先制攻撃能力
+Armor Piercing Darts,武装貫通ダーツ
+Energizer,エナジャイザー
+Pre-emptive Strike,先手攻撃
+Sub Commander,潜水艦司令官
+,
+Buccaneer-Faster Shooting,高速射撃
+Buccaneer-Grape Shot,ブドウショット
+Buccaneer-Long Range,長距離
+Buccaneer-Double Shot,ダブルショット
+Buccaneer-Hot Shot,ホットショット
+Buccaneer-Crow's Nest,カラスの巣
+Buccaneer-Destroyer,デストロイヤー
+Buccaneer-Cannon Ship,大砲船
+Buccaneer-Merchantman,商人
+Buccaneer-Aircraft Carrier,空母
+Buccaneer-Monkey Pirates,モンキーパイレーツ
+Buccaneer-Favored Trades,好まれる取引
+Buccaneer-Carrier Flagship,キャリヤー旗船
+Buccaneer-Pirate Lord,海賊の王
+Buccaneer-Trade Empire,貿易帝国
+,
+Rapid Fire,急速発射
+Exploding Pineapple,パイナップル爆弾
+Sharper Darts,シャーパーダーツ
+Lots More Darts,もっとダーツ
+Spy Plane,スパイ航空機
+Centered Path,中央の経路
+Fighter Plane,戦闘機
+Bomber Ace,爆撃エース
+Neva-Miss Targeting,標的ネバ－ミス
+Operation: Dart Storm,オペレーション：ダートストーム
+Ground Zero,爆心地
+Spectre,スペクター
+Sky Shredder,スカイシュレッド
+Tsar Bomba,ツァーボンバー
+Flying Fortress,空飛ぶ要塞
+,
+Quad Darts,クワッドダーツ
+Bigger Jets,大型ジェット
+Faster Firing,高速射撃
+Pursuit,追求する
+IFR,IFR
+Faster Darts,高速ダーツ
+Razor Rotors,回転剃刀
+Downdraft,ダウンドラフト
+MOAB Shove,MOAB押しつけ
+Apache Dartship,アパッチダーツ機
+Support Chinook,チヌーク補佐
+Comanche Defense,コマンチ防衛
+Apache Prime,アパッチプライム
+Special Poperations,特別破裂準備
+Comanche Commander,コマンチ司令官
+,
+Bigger Blast,ビッグブラスト
+Mortar Faster Reload,迅速リロード
+Increased Accuracy,正確さアップ
+Bloon Buster,ブルーンバスター
+Mortar Rapid Reload,高速リロード
+Burny Stuff,バーニースタッフ
+Shockwave,炸裂弾ショック
+Heavy Shells,重装備炸裂弾
+Signal Flare,信号弾
+The Big One,ザ・ビッグ
+Artillery Battery,集中砲火
+Shattering Shells,散弾炸裂弾
+The Biggest One,ザ・ビッグ・プラス
+Pop and Awe,割ってびっくり
+Blooncineration,ブルーン転生
+,
+Focused Firing,照準ファイア
+Advanced Targeting,アドバンス・ターゲティング
+Powerful Darts,強力ダーツ
+Faster Swivel,高速回転
+Faster Barrel Spin,高速銃身スピン
+Depleted Bloontonium,劣化ブルーントニウム
+Laser Shock,レーザーショック
+Laser Cannon,レーザー砲
+Hydra Rocket Pods,ハイドラ･ロケットポッド
+Buckshot,バックショット
+Plasma Accelerator,プラズマアクセル
+Rocket Storm,ロケットストーム
+Bloon Area Denial System,ブルーン地域行動制止システム
+Ray of Doom,ドゥーム光線
+M.A.D,MOAB保証付デストロイヤー
+Bloon Exclusion Zone,ブルーン立入禁止ゾーン
+,
+Guided Magic,誘導マジック
+Fireball,ファイヤーボール
+Intense Magic,強烈なマジック
+Arcane Blast,アーケイン爆破
+Wall of Fire,炎の壁
+Monkey Sense,モンキーセンス
+Arcane Mastery,アーケインのマスター
+Dragon's Breath,ドラゴンの息
+Shimmer,キラキラ
+Arcane Spike,アーケインのスパイク
+Summon Phoenix,不死鳥召喚
+Necromancer: Unpopped Army,ネクロマンサー：非破裂軍隊
+Archmage,アーチメイジ
+Wizard Lord Phoenix,魔法使いの王フェニックス
+Soulbind,暗闇のプリンス
+,
+Laser Blasts,レーザー爆発
+Super Range,スーパーレンジ
+Knockback,ノックバック
+Plasma Blasts,プラズマ爆発
+Epic Range,エピックレンジ
+Ultravision,ウルトラビジョン
+Sun Avatar,太陽アバター
+Robo Monkey,ロボモンキー
+Dark Knight,ダークナイト
+Sun Temple,太陽神殿
+Tech Terror,テクノロジーの恐怖
+Dark Champion,ダークチャンピオン
+True Sun God,真の太陽神
+The Anti-Bloon,アンチブルーン
+Legend of the Night,夜の伝説
+,
+Ninja Discipline,忍者の訓育
+Distraction,注意散漫
+Seeking Shuriken,手裏剣探し
+Sharp Shurikens,鋭い手裏剣
+Counter-Espionage,防諜活動
+Caltrops,鉄菱
+Double Shot,ダブルショット
+Shinobi Tactics,忍び戦術
+Flash Bomb,閃光爆弾
+Bloonjitsu,ブルーンの術
+Bloon Sabotage,ブルーンサボタージ
+Sticky Bomb,ネバネバ爆弾
+Grandmaster Ninja,忍者大師範
+Grand Saboteur,大破壊工作者
+Master Bomber,爆破エキスパート
+,
+Larger Potions,大部分
+Stronger Acid,強化酸
+Acid Pool,酸性プール
+Acidic Mixture Dip,酸性混合物ディップ
+Perishing Potions,枯渇ポーション
+Alchemist Faster Throwing,高速投げ
+Berserker Brew,バーサーカーの醸造酒
+Unstable Concoction,安定しない飲食物
+Lead to Gold,鉛から金へ
+Stronger Stimulant,強い刺激剤
+Transforming Tonic,変身トニック
+Rubber to Gold,ゴムから金へ
+Permanent Brew,永久醸造酒
+Total Transformation,完全変身
+Bloon Master Alchemist,ブルーンマスター錬金術師
+,
+Hard Thorns,硬いトゲ
+Thorn Swarm,トゲ集団
+Druidic Reach,ドルイドの到達範囲
+Heart of Thunder,雷の心
+Heart of Oak,ナラの木の心
+Heart of Vengeance,復讐の心
+Druid of the Storm,嵐のドルイド
+Druid of the Jungle,ジャングルのドルイド
+Druid of Wrath,怒りのドルイド
+Ball Lightning,球電光
+Jungle's Bounty,ジャングルのめぐみ
+Poplust,ポップラスト
+Superstorm,スーパーストーム
+Spirit of the Forest,森の精霊
+Avatar of Wrath,怒りのアバター
+,
+Increased Production,増産
+Long Life Bananas,長寿バナナ
+EZ Collect,簡単採取
+Greater Production,生産量アップ
+Valuable Bananas,高級バナナ
+Banana Salvage,バナナ救済
+Banana Plantation,バナナ大農園
+Monkey Bank,モンキー銀行
+Marketplace,マーケットプレイス
+Banana Research Facility,バナナ研究所
+IMF loan,IMFローン
+Central Market,セントラルマーケット
+Banana Central,バナナセントラル
+Monkey-Nomics,モンキー経済
+Monkey Wall Street,モンキーウオール街
+,
+Sentry Gun,ガードガン
+Larger Service Area,サービス地域拡大
+Oversize Nails,巨大クギ
+Faster Engineering,高速エンジニアリング
+Deconstruction,脱構築
+Pin,ピン
+Sprockets,スプロケッツ
+Cleansing Foam,クレンジング剤
+Double Gun,ダブルガン
+Sentry Expert,見張りエキスパート
+Overclock,オーバー時計
+Bloon Trap,ブルーントラップ
+Sentry Paragon,模範的見張り番
+Ultraboost,ウルトラブースト
+XXXL Trap,XXXLトラップ
+,
+Bigger Stacks,ビッグスびょう
+Faster Production,高速生産
+Long Reach,長距離到達
+White Hot Spikes,白のホットスパイク
+Even Faster Production,超高速生産
+Smart Spikes,スマートスパイク
+Spiked Balls,スパイクボール
+MOAB SHREDR,MOABシュレッダー
+Long Life Spikes,長寿スパイク
+Spiked Mines,スパイク付き地雷
+Spike Storm,スパイク嵐
+Deadly Spikes,致命的スパイク
+Super Mines,スーパー地雷
+Carpet of Spikes,スパイクのカーペット
+Perma-Spike,パーマスパイク
+,
+Military Efficiency,軍隊効率性
+Magic Sciences,魔法の科学
+Private Tuition,私立授業料
+Wider Influence,幅広い影響
+Academic Network,アカデミックネットワーク
+Heroic Presence,ヒーローの孫算
+M.A.S.H,M.A.S.H.
+Wizards Library,魔法使いの図書館
+Heroic Academy,ヒーローアカデミー
+Military Barracks,軍の兵舎
+Magic Arcanum,魔法の奥義
+Power Hero Development (PhD),パワーヒーロー開発（PhD）
+Military HQ,軍の司令本部
+Nexus Crucible,集団るつぼ
+Dynamic Duo,ダイナミックな二人組
+,
+Bigger Radius,ビッグ半径
+Grow Blocker,成長ブロッカー
+Monkey Business,モンキービジネス
+Jungle Drums,ジャングルドラム
+Radar Scanner,レーダースキャナー
+Monkey Commerce,モンキー商業
+Primary Training,基本訓練
+Monkey Intelligence Bureau,モンキー諜報部
+Monkey Town,モンキータウン
+Primary Mentoring,基本メンタリング
+Call to Arms,武器召喚
+Monkey City,モンキーシティー
+Primary Expertise,基本の専門性
+Homeland Defense,国土防衛
+Monkeyopolis,モンキーメトロポリス
+,
+//Power names,
+SuperMonkeyStorm,スーパーモンキー嵐
+MonkeyBoost,モンキーブースト
+Thrive,目標達成
+DartTime,タイムストップ
+CashDrop,キャッシュ投下
+BananaFarmer,バナナ百姓
+PortableLake,ポータブル湖
+Pontoon,ポンツーン
+RoadSpikes,路上スパイク
+MoabMine,MOAB地雷
+CamoTrap,カモフラージュのトラップ
+GlueTrap,接着剤のトラップ
+,
+//Power descriptions,
+SuperMonkeyStorm Description,鳥だ！飛行機だ！画面上の全てのブルーンを破壊し、MOAB級のブルーンに壮大なダメージを与えるスーパーレーザービームを出すの空飛ぶモンキー集団だ。
+MonkeyBoost Description,11に上げてみよう！ {0}秒の間、全てのタワー攻撃が二倍速くなる。
+Thrive Description,現ラウンドの残りと次のラウンドで、全てのタワーとブルーン破裂のキャッシュ生成を{0}％増やす！
+DartTime Description,何か動きが早すぎるものがある場合、ストップタイムを使うと全てのアクションを短時間の間止めることができるので、モンキーの管理に集中できる。
+CashDrop Description,キャッシュを素早く充てんする必要あり？モンキー司令官に、これらのキャッシュをたくさん持っているバッドボーズを今すぐ攻撃してもらおう。
+BananaFarmer Description,自分でバナナを取るのに疲れた？彼も疲れるけどお金をもらっているだけマシ。百姓が自分の範囲内のバナナを全て自動的に集めてくれるので、君はやらずに済む。
+PortableLake Description,ボートを浮かべる場所が無い？地面に携帯式の湖を配置するとどんな水上ユニットでも展開可能になると、賢いモンキーは知っているよ。
+Pontoon Description,ポンツーンがあると、ほぼ全ての陸上タワーを水上に配置できる！ポンツーンを水上に展開してその上に陸上タワーを配置しよう。
+RoadSpikes Description,大量の路上スパイク、どこでも一番必要な場所に配置しよう！
+MoabMine Description,MOAB級ブルーンを検知するパワフルな地雷。爆破すると多大なダメージを与える。
+CamoTrap Description,モンキーエンジニアリングの最高峰、このトラップを触る初めの{0}個のブルーンのカモフラージュ状態を取り除く。
+GlueTrap Description,このベタベタするトラップは、消滅前に触る初めの{0}個のブルーンをスローダウン。
+,
+//Upgrade Descriptions,
+Sharp Shots Description,一発ごとに1個多く\nブルーンを割れる。
+Quick Shots Description,発射速度が15％アップ！
+Long Range Darts Description,ダーツモンキーが\n通常より遠くまで投げられるようになる。
+Razor Sharp Shots Description,一発ごとに2個多く\nブルーンを割れる。
+Very Quick Shots Description,発射速度が33％アップ！
+Enhanced Eyesight Description,さらに遠くまで発射\nでき、カモフラージュを探知できる。
+Spike-o-pult Description,ダートモンキーをスパイクでつぶせ！に変換し、ダーツでなくて大きなスパイクボールを投げられるようになる。なかなかの飛距離だが、攻撃速度は遅い。ボール一個でたくさんのブルーンを割ることができ、障害物から跳ね返ることができる。
+Triple Shot Description,一度に一本でなく三本のダーツを投げる。
+Crossbow Description,命中するたびにブルーンを3層分割れる、長距離クロスボウを使う。
+Juggernaut Description,鉛と陶器ブルーンの粉砕に効果的な、巨大なスパイク付きボールを投げつける。
+Super Monkey Fan Club Description,スーパーモンキーファンクラブ能力：付近の10頭までのダートモンキーを、15秒間スーパーモンキーにする。通常攻撃速度もアップする。
+Sharp Shooter Description,シャープシューターは、より大きなダメージを与えるパワフルなクリティカルショットを数秒ごとに発する。
+Ultra-Juggernaut Description,巨大スパイクボールが2回にわたり、もっと大きな破壊力を持つ6個のジャガーノートに分裂する。
+Plasma Monkey Fan Club Description,このクラブのエリート会員券があると、ダーツモンキーがもっとパワーアップ！
+Crossbow Master Description,クロスボウ・エキスパートの発射スピードはとても速く、ほとんどの種類のブルーンをたやすく破壊する。
+,
+Improved Rangs Description,投げるたびに、最大8個のブルーンを割ることができる。
+Faster Throwing Description,ブーメランをより速く投げる。
+Long Range Rangs Description,普通より遠くまでブーメランを投げられる。
+Glaives Description,ブーメランの代わりに、もっと鋭く、早く、そして大きな剣を投げる。
+Faster Rangs Description,ブーメランがより速く発射され、飛ぶようになる。
+Red Hot Rangs Description,ブーメランが、冷凍および鉛ブルーンを割れるようになるほか、全てに対しもっと大きなダメージを与えるようになる。
+Glaive Ricochet Description,剣が自動的に、ブルーンからブルーンへ攻撃的に跳ね返る。
+Bionc Boomerang Description,腕をパワフルなバイオニック腕に交換し、とても速くブーメランを投げられるようになり、MOAB級ブルーンにもっとダメージを与える。
+Kylie Boomerang Description,カーブせず真っすぐに進む、重たいカイリーブーメランを投げる。
+M.O.A.R Glaives Description,マルチ物体上級跳ね返り(MOAR)は、グレイブ・リコシェット・モンキーの既に素晴らしいパワーをさらに向上させる。
+Turbo Charge Description,ターボチャージ能力：10秒間、このモンキーの攻撃を信じられないほど速くする。
+MOAB Press Description,重たいカイリーブーメランを投げるたびに、MOAB級ブルーンに複数回命中し、戻って来るときにノックダウンすることもある。
+Glaive Lord Description,剣天王は自身を3つの特別な剣で囲み、近づくもの全てを切り裂く。剣天王の剣は、MOAB級ブルーンを内側からゆっくりと切り裂く。
+Perma Charge Description,永久チャージは、永久的な超高速攻撃速度を備えている。アビリティが、致死性をさらに上げる。
+MOAB Domination Description,特別なノックバックブーメランで、しばしばもっと大きなダメージを与え、その頻度も増える。
+,
+Bigger Bombs Description,より大きな爆弾を発射。爆破エリアが広がり、破裂力もアップ。
+Faster Reload Description,リロードがスピーディーになる。
+Extra Range Description,攻撃距離を増やす。
+Heavy Bombs Description,一度にブルーン2層分をつぶし、もっと多くのブルーンを割ることができる頑丈な爆弾。
+Missile Launcher Description,爆弾を、もっとスピーディーに発砲し、さらに長い距離を速く飛べるミサイルに交換しよう。
+Frag Bombs Description,爆破すると鋭い破片を投げつけ、黒ブルーンを含めたブルーンを割ることができる。
+Really Big Bombs Description,巨大爆弾が広範囲でもっと大きなダメージを与え、手りゅう弾がもっと多くのブルーンを割れるようにする。
+MOAB Mauler Description,MOABモーラーは、MOAB級ブルーンと陶器により大きなダメージを与える。
+Cluster Bombs Description,発射のたびに、鋭い破片の代わりに第二の爆弾を投じる。
+Bloon Impact Description,爆破の勢いがとても強いので、当たるとブルーンは短時間マヒする。範囲が増え、手りゅう弾がもっと効果的になる。
+MOAB Assassin Description,暗殺MOAB能力：MOAB級ブルーンにダメージを与える特別なミサイルを発射する。通常の攻撃範囲とMOAB級ダメージも増加する。
+Recursive Cluster Description,撃ったクラスター爆弾が、毎秒もっと沢山のクラスター爆弾を放出し、破壊力が増す。
+Bloon Crush Description,ブルーンを破壊する爆破が巨大なダメージを与え、MOAB級ブルーンをマヒさせる。
+MOAB Eliminator Description,MOABに巨大なダメージを与え、暗殺能力が与えるダメージが6倍になり、クールダウンが短縮される。
+Bomb Blitz Description,より大きなダメージを与え、受け身の爆弾の嵐の能力を得る。殺された場合には、最大のブルーン以外の全部を破壊する爆弾の嵐が自動的にトリガーされる。
+,
+Faster Shooting Description,びょうを撃つのが早くなる。
+Long Range Tacks Description,びょうが通常より遠くへ飛ぶ。
+More Tacks Description,8個でなく10個のびょうを発砲するようになり、さらに火の輪のダメージが増える。
+Even Faster Shooting Description,びょうを撃つのがもっと早くなる。
+Super Range Tacks Description,びょうの飛距離がもっと長くなり、もっとたくさんのブルーンを割れるようになる。
+Even More Tacks Description,一発に12個のびょうを打ち放ち、火の輪のダメージがもっと増える。
+Hot Shots Description,追加ダメージを与え鉛ブルーンを割れるスーパーショットのびょうを撃つ。
+Blade Shooter Description,一度に最大5個のブルーンを割れる鋭い刃を撃つスイッチ。
+Tack Sprayer Description,一斉射撃ごとに16個のびょうを撃ち放つ。
+Ring of Fire Description,びょうの代わりに致死的な炎の輪で、より多くのブルーンにダメージを与える。
+Blade Maelstrom Description,ブレード大混乱能力：地域をブレードの嵐で覆う。
+Overdrive Description,信じられないほどのスピードで撃つ。
+Inferno Ring Description,致命的な猛火がブルーンを忘却の彼方へと焼きつける。
+Super Maelstrom Description,もっとパワフルな大混乱能力で、持続時間も長い。
+The Tack Zone Description,とてもたくさんのびょう。
+,
+Permafrost Description,解凍後もブルーンの動きを遅らせる。
+Enhanced Freeze Description,高速攻撃を行い、凍結時間も長くなる。
+Larger Radius Description,凍結エリアが広くなる。
+Metal Freeze Description,鉛ブルーンを凍結し割れる。
+Deep Freeze Description,ブルーン2層分を凍結する。
+Re-Freeze Description,既に凍結しているブルーンを、再凍結できる。
+Ice Shards Description,凍結ブルーンが割れると剃刀のように鋭い破片が飛び散る。
+Arctic Wind Description,貫通度を大きく上げて、近寄るブルーンの動きを遅らせるとても冷たいオーラを取得する。
+Cryo Cannon Description,もっと遠距離のブルーンめがけて、凍結ボムを発射。
+Embrittlement Description,カモフラージュブルーンを検知して、ブルーンを全部もろくして追加ダメージを与えて、カモフラージュと再増殖の能力を永久に失わせる。
+Snowstorm Description,雪嵐の能力：画面上の全てのブルーンを凍結させる。白、ゼブラ、カモフラージュ、MOAB級は短時間凍結させる。
+Icicles Description,凍結したブルーンは、鋭いつららを作り、触れたブルーンを割ることができる。
+Super Brittle Description,MOAB級ブルーンを含めたブルーンが、凍結中に巨大ダメージを与える。
+Absolute Zero Description,とても冷たい能力なので、白、ゼブラ、カモフラージュを含め全部の通常ブルーンを凍結させてる。MOAB級の遅延度を増やし、アイスモンキーの攻撃速度を大幅に上げる。
+Icicle Impale Description,巨大なつららのスパイクがMOAB級ブルーンに巨大なダメージを与え、凍結する。
+,
+Glue Soak Description,グルーがブルーンの全層に浸透する。
+Bigger Globs Description,一度に2個のブルーンの表面を覆うことができる。
+Stickier Glue Description,グルーの効果がより長く持続する。
+Corrosive Glue Description,迷彩ブルーンや打つと砕けるブルーンを検知し、凍らせている間に追加ダメージを与え、迷彩特性を無効にする。
+Glue Splatter Description,一度に最大6個のブルーンにグルーをまき散らす。
+Stronger Glue Description,ブルーンをもっと遅らせる。
+Bloon Dissolver Description,究極の溶剤は1秒に1層ずつ溶かす。
+Glue Hose Description,グルーを三倍速で発射！
+MOAB Glue Description,改良調合で、MOAB級ブルーンにくっつけるようになった。
+Bloon Liquefier Description,ショットごとにもうひとつずつブルーンをのり付けして、毎秒10個弾ける液化化合物をこすり付ける。
+Glue Strike Description,グルー攻撃能力：画面の全てのブルーンをのり付けして、より多くの全てのダメージを受けるようにする。
+Relentless Glue Description,のり付けされて割れたブルーンが、トラック上にグルーの塊を残していく。
+The Bloon Solver Description,ブルーンが問題だって？ここに解決法があるよ。
+Glue Storm Description,グルーの嵐の能力が、15秒間以上、ノリで画面全体を強打する。接着ブルーンは、接着されている間は追加ダメージを受ける。
+Super Glue Description,とても強力なグルーなので、影響を受けたブルーン全てを一時的に動かなくさせる！
+,
+Full Metal Jacket Description,ブルーンを4層貫通できる射撃。鉛と凍結ブルーンも割れる。
+Night Vision Goggles Description,スナイパーが、迷彩ブルーンを検知し、追加で2ダメージ与えられるようになる。
+Fast Firing Description,通常より速く発射する。
+Large Calibre Description,ブルーンの4層分を貫通できる射撃！
+Shrapnel Shot Description,破壊されたブルーンが、全方向に鋭い散弾をまき散らす。
+Even Faster Firing Description,もっと速く発射。
+Deadly Precision Description,ショットごとに20ダメージ、さらに陶器に対し追加ダメージ。
+Bouncing Bullet Description,最高3回まで、新しい標的めがけてショットが跳ね返る。
+Semi-Automatic Description,三倍速攻撃！
+Maim MOAB Description,さらにより大きなダメージを与えて、MOAB級ブルーンを短時間動かなくする。
+Supply Drop Description,供給品ドロップ能力：箱に一杯のキャッシュを落とす。通常の攻撃で鉛のブルーンを破壊し、散弾銃の破裂パワーが大きくなる。
+Full Auto Rifle Description,鉛のブルーンへのダメージを含め、信じられないほどの破裂パワーがある完全自動式の武器。
+Cripple MOAB Description,打撃をういけたMOABがより長い時間動けなくなり、全てのほかの攻撃から追加ダメージを受ける。
+Elite Sniper Description,供給品ドロップで投下されるキャッシュが増える。全てのスナイパーに、エリート照準プリオとより速いリロードを与えてくれる。
+Elite Defender Description,ライフが一つ失われると、短時間の間、このスナイパーに報復として4倍の攻撃速度が与えられる。
+,
+Longer Range Description,攻撃距離を増やす。
+Barbed Darts Description,潜水艦のダーツが、追加で3個のブルーンを割れる。
+Twin Guns Description,ツインガンを追加すると攻撃スピードが2倍に。弾道ミサイルとブルーントニウム炉を増強する。
+Advanced Intel Description,ほかのタワーの半径内のブルーンを遠くから狙えるようになる。
+Heat-tipped Darts Description,加熱ダーツが命中すると3つに分裂し、巨大な破裂パワーとなる。
+Airburst Darts Description,エアバースト・ダーツは当たると3つに分裂し、巨大な破裂パワーを発する。弾道ミサイルとブルーントニウム炉をさらに増強する。
+Submerge and Support Description,潜水中は攻撃しないが、半径内のカモフラージュブルーンを永久的に見えるようにする潜水照準オプションを加える。
+Ballistic Missile Description,範囲内の標的を探し、追加のMOABおよぼ後期ダメージを与える。
+Triple Guns Description,もっと速く射撃できるように、三番目の銃を追加する。
+Bloontonium Reactor Description,潜水してカモフラージュを検知し、ブルーンを割って水中ベースモンキーのクールダウン能力を15%.短縮する。
+First Strike Capability Description,先制攻撃能力：画面上の最も大きなブルーンに破滅的なミサイル攻撃をし、大きなスプラッシュダメージを与える。
+Armor Piercing Darts Description,特別APダーツのダメージと破裂パワーが増え、MOAB級ブルーンに追加ダメージを与える。
+Energizer Description,あらゆる場所のアビリティクールダウンを20％減らす。半径内では、ヒーローはXPを50％速く獲得でき、水のモンキーアビリティのクールダウンが半分になる。
+Pre-emptive Strike Description,MOAB級ブルーンがブルーン入り口からスポーンする度に、自動的にパワフルなミサイル攻撃をトリガーする。
+Sub Commander Description,半径内の司令官と全ての潜水艦対し、貫通度とダメージを追加する。
+,
+Buccaneer-Faster Shooting Description,搭載された全ての武器が、より高速に発砲する。
+Buccaneer-Grape Shot Description,5個の尖ったブドウ弾からなる噴出を船に追加する。
+Buccaneer-Long Range Description,さらに広い範囲で、発射物がより速く飛ぶ。
+Buccaneer-Double Shot Description,船が発射する武器が二倍になる。
+Buccaneer-Hot Shot Description,燃える厚いブドウ弾が、鉛ブルーンを割り、ブルーンを燃やす。
+Buccaneer-Crow's Nest Description,海賊がカモフラージュブルーンを撃てるようになる。
+Buccaneer-Destroyer Description,スーパー素早い攻撃！
+Buccaneer-Cannon Ship Description,パワフルな爆弾を発射するパワフルな大砲を追加する。
+Buccaneer-Merchantman Description,各ラウンドで自動的にキャッシュを作り出す。
+Buccaneer-Aircraft Carrier Description,ブルーンを機銃掃射する戦闘機団を発動し、MOAB級ブルーンにミサイルを発射する。
+Buccaneer-Monkey Pirates Description,船に2台の大砲と、もっとダメージを与える大砲攻撃を追加する。MOABテイクダウン能力：MOAB級ブルーンにもりを投げつけて倒す。
+Buccaneer-Favored Trades Description,高速攻撃を行い、ラウンドごとにたくさんのお金を生成する。半径内のモンキーの販売価値が上がり、最高売値の95％で好まれる取引を3回まで重ねられる。
+Buccaneer-Carrier Flagship Description,追加ダメージを与える。船の上方の甲板にモンキーを配置でき、全ての水ベースのモンキーとモンキーエースの攻撃速度をアップする。
+Buccaneer-Pirate Lord Description,全ての攻撃速度が大幅に上がり、一度に3つの四爪錨を撃ち、MOAB級ブルーンを倒すと、それぞれから追加のキャッシュを略奪する。
+Buccaneer-Trade Empire Description,各ラウンドでもっと多くのキャッシュを生成し、獲得するキャッシュをほかの商人の数の最大20倍まで増やすほか、全ての商人のダメージをブーストする。
+,
+Rapid Fire Description,通常より速く発射する。
+Exploding Pineapple Description,数秒後に暴発するパイナップルを地面に落とす。
+Sharper Darts Description,手裏剣はそれぞれ8個のブルーンを割ることができる。
+Lots More Darts Description,一度に12本のダーツを発射。
+Spy Plane Description,モンキーエースがカモフラージュブルーンを撃てるようになる。
+Centered Path Description,新しいセントラル飛行経路の最大マップ範囲
+Fighter Plane Description,速く飛行し、MOAB対抗ミサイルを発射する。
+Bomber Ace Description,ブルーンのトラック上を通過する際に一連の爆弾を投下する。
+Neva-Miss Targeting Description,ダーツが自分で自動的にブルーンを探しだして割る。
+Operation: Dart Storm Description,一斉射撃ごとに16本のダーツを二倍速で撃つ。
+Ground Zero Description,爆弾ダメージが大幅に増える。爆心地の能力：画面上のほとんどを破壊する巨大爆弾を落とす。
+Spectre Description,ダーツと爆弾を素早く発射し、ほとんどの種類のブルーンをたやすく片付ける。
+Sky Shredder Description,ブルーンたちは、彼らが来なければ良いのにと願う。
+Tsar Bomba Description,とても、とても大きな爆弾。だれか、この狂気を止めて！
+Flying Fortress Description,これこそ、大型航空機。
+,
+Quad Darts Description,一度に2本でなく4本のダーツを発射する。
+Bigger Jets Description,パワフルなジェットにより、ヘリの移動速度がもっと速くなる。
+Faster Firing Description,ヘリ攻撃の速度が上がる。
+Pursuit Description,新しい照準オプションで、ヘリがブルーンを自動検知し追跡できるようになる。
+IFR Description,ヘリパイロットがカモフラージュブルーンを探知し射撃できるようになる。
+Faster Darts Description,ダーツが空中をもっと速く推進する。
+Razor Rotors Description,回転剃刃ブレードが、触れるブルーンを全て引き裂く。鉛と凍結ブルーンも含む。
+Downdraft Description,ブルーンをヘリから吹き飛ばし、入り口方向へ戻す。
+MOAB Shove Description,MOAB級ブルーンと追突し押しのけ、その動きを逆にしたり遅くしたりする。押しのけパワーは、大型ジェットとIFRアップグレードで増幅する。
+Apache Dartship Description,大きなミサイル配列とパワフルなマシンガンを追加する。
+Support Chinook Description,能力：ライフとキャッシュクレートを落下させる。または、ほとんどの種類のモンキーをピックアップし再展開させることができる。
+Comanche Defense Description,最も必要な時に、自動的に３多くコマンチを呼ぶ。
+Apache Prime Description,アパッチプライムは、ほとんどのブルーンに膨らんだことを後悔させる。
+Special Poperations Description,マシンガンを持つパワフルな特別モンキー海兵隊を展開する。
+Comanche Commander Description,アップグレードした武器。３多くコマンチも自動的に呼ぶ。永久に。
+,
+Bigger Blast Description,ビッグブラストの炸裂弾の爆発半径がもっとビッグに。
+Mortar Faster Reload Description,迫撃砲の攻撃速度を増加する。
+Increased Accuracy Description,より正確な発砲になる。
+Bloon Buster Description,一度に2層のブルーンを砕ける！
+Mortar Rapid Reload Description,リロードがもっと速くなる。
+Burny Stuff Description,ダメージを受けたブルーンは、ヒットごとに一瞬炎上する。
+Shockwave Description,爆発衝撃波が命中時にブルーンをマヒさせ、より広い地域のブルーンを割り、バーニースタッフのダメージを増やす。
+Heavy Shells Description,頑丈な炸裂弾が陶器、鉛、そして全ての強化ブルーンに対し追加ダメージを与える。黒ブルーンを割ることもできる。
+Signal Flare Description,閃光で割られたカモフラージュブルーンが、永久にカモフラージュを失う。
+The Big One Description,破滅的な爆発がブルーンを5層分割り、バーニースタッフのダメージをさらに増やす。
+Artillery Battery Description,砲撃能力：わずかに広いエリアで急速発射攻撃を発動する。主攻撃がとても高速の3バレルにアップグレードされる。
+Shattering Shells Description,散らばる殻は、最大のブルーン以外のすべての特別なブルーンの特性を取り除きます。
+The Biggest One Description,巨大な地域でブルーンを深い層まで爆破するほか、バーニースタッフの強力なダメージをもたらす。
+Pop and Awe Description,割って恐べし能力：スクリーン全体に爆発し、数秒間、すべてのブルーンを割って固定する。
+Blooncineration Description,とても熱いバーニースタッフが、ショットごとにブルーンを5層分溶かしてくれる。MOAB級のブルーンも燃やして追加ダメージを与え、DDT迷彩を取り除く。
+,
+Focused Firing Description,ダートリング砲の精度が上がる。
+Advanced Targeting Description,ダートリング砲手が迷彩ブルーンを打てるようになる。
+Powerful Darts Description,ダーツがより早く動き、それぞれ三個のブルーンを割ることができる。
+Faster Swivel Description,銃身がもっと速く回転できるようになる。
+Faster Barrel Spin Description,銃をより速く撃てるようになる。
+Depleted Bloontonium Description,どの種類のブルーンにもダメージを与えられるようになる。
+Laser Shock Description,先端にレーザーがついたショットがブルーンにショックを与え、命中した1秒後にまた割れるようにする。
+Laser Cannon Description,凍結ブルーンを割ることのできるよりパワフルなレーザー爆破を早撃ち。
+Hydra Rocket Pods Description,全てのタイプのブルーンにダメージを与えて、爆発を複数回引き起こす劣化ブルーントニウムミサイルを発射する。
+Buckshot Description,ダーツの代わりに致命的なバックショットの爆破を発射する。
+Plasma Accelerator Description,一か所に向けてパワフルなエネルギー光線を集中させる。
+Rocket Storm Description,ロケットストーム能力：パワフルなロケットの嵐を幅広い放射状に放つ。
+Bloon Area Denial System Description,4銃身の自動大砲が自動的に攻撃するように設定できる。
+Ray of Doom Description,ブルーン破滅への明確な線を作り出す。気の向くままに、ほとんどのブルーンを消し去ることができる。
+M.A.D Description,MOAB保証付きデストロイヤー。ゆっくり発射するメガミサイルが、MOAB級ブルーンに絶大なダメージを与える。
+Bloon Exclusion Zone Description,6銃身にグレードアップされており、ダメージも大幅に増加。ブルーンの存在自体が排除される。
+,
+Guided Magic Description,魔法攻撃がブルーンを探し出す。隠れているものまでも。
+Fireball Description,数秒ごとに、爆破の火の玉の呪文を唱える。
+Intense Magic Description,もっとパワフルな魔法攻撃
+Arcane Blast Description,より大規模でパワフルな魔法攻撃が、ブルーン2層分を割る。
+Wall of Fire Description,トラック全体に超熱々の炎の壁を作り出し、通過するブルーンを丸焼きにする。
+Monkey Sense Description,海賊がカモフラージュブルーンを撃てるようになる。
+Arcane Mastery Description,範囲、ダメージ、破裂力が増強した高速攻撃。
+Dragon's Breath Description,付近のブルーンにずっと炎を噴射して、ファイヤーボールと炎の壁を強化する。
+Shimmer Description,付近のカモフラージュブルーンの場所が時々見えるようになる黒魔術攻撃を永久に取得する。
+Arcane Spike Description,より高速な発射魔法が、ほとんどの種類のブルーンに巨大ダメージを与える。
+Summon Phoenix Description,フェニックス召喚能力：パワフルなフェニックスが20秒間ブルーンに大惨事をもたらす。
+Necromancer: Unpopped Army Description,最近割った敵を生き返らせ、召使いとしてブルーンを破壊させる。
+Archmage Description,魔法の魔術学の真の導師。
+Wizard Lord Phoenix Description,魔王使いの王が炎の達人となり、短時間の間、パワフルな溶岩フェニックスに変化する。
+Soulbind Description,さらにもっとパワフルなブルーン召使いを生き返らせて敵を消し、ほかの全てのネクロマンサーを強化させる。
+,
+Laser Blasts Description,ダーツの代わりにパワフルなレーザー爆破を発射する。
+Super Range Description,スーパーモンキーには、スーパーレンジが必要。
+Knockback Description,命中するごとにブルーンを後退、そして遅延させる。
+Plasma Blasts Description,プラズマは触れるもの全てを蒸発させる。
+Epic Range Description,壮大なものを入手できるのに、なぜスーパー級で妥協するの？
+Ultravision Description,スーパーモンキーが少し遠くまで射撃できるようになり、カモフラージュブルーンも見えるようにする。
+Sun Avatar Description,太陽の核からの力をチャネリング。
+Robo Monkey Description,スーパーモンキーの半分、イコール、死のキラーロボットの半分。一度に二丁の銃を撃ち、クリティカルにできる。
+Dark Knight Description,ダークブレードはノックバックと貫通を大きくして、MOAB級ブルーンに追加ダメージを与える。近くのロケーションに移動するダークシフト能力を得る。
+Sun Temple Description,タワーが向上性を犠牲にし、神殿の攻撃を変更する。
+Tech Terror Description,全滅の能力：爆破半径内のほとんどのブルーンを完全に徹底的に破壊する。
+Dark Champion Description,チャンピオンダークブレードは、全ての種類のブルーンに穴をあけ代内にするのが得意。
+True Sun God Description,真の太陽神の偉大なる力の前に、震えよ！！
+The Anti-Bloon Description,<プログラム命令> <ブルーン壊滅> <開始>
+Legend of the Night Description,全ての望みを失ったときに頼れる人…
+,
+Ninja Discipline Description,攻撃距離と攻撃スピードを増加する。
+Distraction Description,ブルーンのいくつかが混乱し、後退する。
+Seeking Shuriken Description,手裏剣はブルーンを探して自動的に割る。
+Sharp Shurikens Description,手裏剣はそれぞれ4個のブルーンを割ることができる。
+Counter-Espionage Description,忍者攻撃はダメージを与えたブルーンからカモフラージュを剥ぎ取る。
+Caltrops Description,付近のトラックに、スパイク付き鉄菱を投げる。
+Double Shot Description,一度に二枚の手裏剣を投げる。
+Shinobi Tactics Description,付近の忍者の攻撃速度と貫通度を上げる。20回まで効果を重ねられる。
+Flash Bomb Description,時々複数のブルーンを一時的に動かなくさせる閃光爆弾を投げる。
+Bloonjitsu Description,一度に五枚の手裏剣を投げる！
+Bloon Sabotage Description,サボタージ能力：15秒間有効。サボタージ期間中は、全てのブルーンの移動速度が半分になる。 
+Sticky Bomb Description,パワフルな時さ攻撃をMOAB級ブルーンに投げる。
+Grandmaster Ninja Description,信じられない速さで投げる。一撃の手裏剣数8枚！
+Grand Saboteur Description,能力の期間がもっと長く、サボタージ中にスポーンするMOAB級ブルーンのヘルスが減少する。
+Master Bomber Description,モンキーMOAB破壊マシン。
+,
+Larger Potions Description,より広い地域に、より大量のポーションを散らす。
+Stronger Acid Description,酸性ポーションがブルーンを迅速に溶かしてくれる。
+Acid Pool Description,付近にブルーンがない場合は、錬金術師は近くのトラックを酸で満たすことができる。
+Acidic Mixture Dip Description,鉛のブルーンを破裂させ、セラミックとMOAB級ブルーンに追加ダメージを与えるのに役に立つポーションを、近くのモンキーに投げ与える。数回の攻撃の後、消滅する。
+Perishing Potions Description,攻撃ポーションがMOAB級ブルーンにより大きなダメージを与え、小さめのブルーンの強化を除去する。醸造酒や刺激剤もを強化する。
+Alchemist Faster Throwing Description,ポーションを投げ、より早く攻撃する。
+Berserker Brew Description,この特製醸造品は、モンキーに追加ダメージ、距離、そして攻撃速度を与える。長持ちする。
+Unstable Concoction Description,MOAB級ブルーンの表面を爆破材で覆い、割れると大きな爆破を引き起こす。
+Lead to Gold Description,鉛のブルーンを金に替える！特別な溶液が鉛のブルーンに追加ダメージを与えて、1発で破壊してキャッシュを生み出す。
+Stronger Stimulant Description,強めのバーサーカーの醸造酒で、標的にもっとパワフルな効果をもたらす。さらに長持ち。
+Transforming Tonic Description,変身能力：錬金術師をパワフルな攻撃モンスターに20秒間変身させる。
+Rubber to Gold Description,全てのブルーンの一部をゴールドに変換し、影響を受けたブルーンを割るともっと多くのキャッシュがもらえる。
+Permanent Brew Description,バーサーカーの醸造を飲んだモンキーに、永久的な影響を与える。
+Total Transformation Description,近くの5匹のモンキーを20秒間、狂気の攻撃モンスターに変身させる。
+Bloon Master Alchemist Description,秘密の縮小ポーション。影響を受けたブルーンは全て赤ブルーンになる。
+,
+Hard Thorns Description,硬いトゲは、それぞれ2個のブルーンと凍結ブルーンを割れる。
+Thorn Swarm Description,一度に発射するトゲの数が5個でなく8個になる。
+Druidic Reach Description,大幅に範囲を広げる。
+Heart of Thunder Description,ブルーンからブルーンへと弓状に稲妻の一定間隔の爆破を発動する。
+Heart of Oak Description,攻撃が再増殖型ブルーンを普通のブルーンに変える。
+Heart of Vengeance Description,攻撃スピードが10%アップ、さらにアップグレードするとスタート時点から失たライフ1個につき1%アップする。上限は100%で、ライフが復元されると減っていく。
+Druid of the Storm Description,突風がトラック上に吹き、ブルーンを出口から遠ざける。
+Druid of the Jungle Description,地面からツルを召喚し、一度に一個づつブルーンに絡みつきつぶす。
+Druid of Wrath Description,ドルイドがブルーンを攻撃している間は、ラウンド中に攻撃速度がアップする。
+Ball Lightning Description,追加の稲妻を発射する光の球を作る。 
+Jungle's Bounty Description,ジャングルのめぐみ能力：使うたびに現金を生成するほか、ドルイドの近くのバナナ農園がそれぞれ追加キャッシュを作り出す。
+Poplust Description,半径内の他のドルイドの貫通と攻撃速度をアップさせる。任意のドルイド一体につき、5回まで効果を重ねることができる。
+Superstorm Description,スーパーストームは全種類のブルーンに莫大なダメージを与え、出口から遠ざける。
+Spirit of the Forest Description,常にダメージを与えるほか、陶器にボーナスダメージを加えるトゲのつるを道沿いに生やす。森の精霊に最も近いつるは、より多くのダメージを与える。有効化された能力は、ライフとお金を生成する。
+Avatar of Wrath Description,ブルーンが多いほどダメージも増える。
+,
+Increased Production Description,栽培するバナナの束がラウンドごとに2つ増える。
+Long Life Bananas Description,バナナが腐るまでの時間が15秒でなく30秒になる。
+EZ Collect Description,バナナの回収半径が増加する。モンキーバンクが満タンになり回収準備ができると、光るようになる。
+Greater Production Description,栽培するバナナの束が、ラウンドごとにさらに2つ増える。
+Valuable Bananas Description,バナナの束ごとの価値が25％増える。 
+Banana Salvage Description,未収集のバナナを半分の量で自動回収、満タンになると自動的にバンクへと回収する。
+Banana Plantation Description,ランドごとに16束のバナナを栽培する。
+Monkey Bank Description,この農場が生成した全てのお金がバンクで保管されるようになり、ラウンドごとに15%の利子を得る。
+Marketplace Description,ラウンドごとにお金を作り、合計に加える。いたってシンプル。
+Banana Research Facility Description,ラウンドごとに、各＄300の価値のあるバナナの大箱を生産する。
+IMF loan Description,"IMFローン能力：$10,000くれるが、徐々に返済しなくてはならない。"
+Central Market Description,ラウンドごとにたくさんのお金を獲得し、商人に渡す。収入が+10％増加。
+Banana Central Description,バナナが必要ですか？バナナありますよ！
+Monkey-Nomics Description,失敗できないくらいの大物になったら…
+Monkey Wall Street Description,モンキー貿易の中心地、ラウンドごとにすごい収入を獲得。
+,
+Sentry Gun Description,一時的に見張り番を作り、付近に展開する。
+Larger Service Area Description,より遠くに発射し、もっと広い地域に見張り番を送り出す。見張り番はより長射程距離。
+Oversize Nails Description,マッシビゼーションを使うと、凍結を含む8個のブルーンを、クギで一度に割れるようになる。また、フォームと見張り番の効果が増加する。
+Faster Engineering Description,効率が改善され、見張り番をもっと頻繁に作り出し、泡立ちとブルーンがより頻繁にとらえられるようになる。
+Deconstruction Description,釘打ち機と見張り番の弾が、MOAB級ブルーンと強化ブルーンに対し追加ダメージを与える。
+Pin Description,命中すると、短時間の間、ブルーンをその場に留める。
+Sprockets Description,見張り番の銃とエンジニアの攻撃速度を上げる。
+Cleansing Foam Description,カモフラージュと再増殖型を除去するアワを噴射し、鉛のブルーンを割る。
+Double Gun Description,銃が二丁だと、お楽しみも二倍。
+Sentry Expert Description,見張り番が、必要に応じて異なる種類のダメージを備えて展開する。
+Overclock Description,オーバー時計能力：攻撃速度を短時間スーパーチャージする別のタワーを狙う。
+Bloon Trap Description,満杯になるまで、ブルーントラップがブルーンをとらえる。一杯になったトラップを選択するとキャッシュがもらえる。
+Sentry Paragon Description,超パワフルだけれど、とても不安定な見張り番を作り出す。
+Ultraboost Description,ウルトラオーバー時計能力を備えたモンキーの攻撃範囲とパワーが短時間大きくなり、全タイプのブルーンにダメージを与える。
+XXXL Trap Description,巨大なブルーントラップは、最大級のブルーンさえとらえることができる…
+,
+Bigger Stacks Description,弾ごとにより大きなスパイクの山を作成する。
+Faster Production Description,生産率を素早く増やす。
+Long Reach Description,スパイクの山の投下範囲を増やし、長もちさせる。
+White Hot Spikes Description,鉛ブルーンと凍結ブルーンを切り裂く。
+Even Faster Production Description,生産率をさらに増やす。
+Smart Spikes Description,スパイク工場が特別ターゲットの優先となり、各ラウンドの開始時に生産が加速される。
+Spiked Balls Description,陶器と強化ブルーンに追加ダメージを与えるスパイクボールを生産する。
+MOAB SHREDR Description,エンジンオペレーションの超上級な剃刀が、MOAB級のブルーンを切り裂く。
+Long Life Spikes Description,スパイクの持続時間がもっと長くなり、1ラウンド分、繰り越せる。
+Spiked Mines Description,スパイク付き地雷のスパイクがなくなると、激しく爆破する。
+Spike Storm Description,スパイク嵐の能力：トラック全体に厚い層のスパイクを発射する。
+Deadly Spikes Description,超致命的なスパイクはそれぞれ2層を割ることができ、そして追加で1ラウンド持続する。
+Super Mines Description,ほぼ全てを破壊できる、巨大な爆破スパイク地雷を作る。
+Carpet of Spikes Description,トラック全体に、定期的にスパイクのじゅうたんを設置する。
+Perma-Spike Description,高ダメージスパイクが、ほぼ永久的に持続するようになる。
+,
+Military Efficiency Description,半径内の軍人モンキーの足跡を減らす。
+Magic Sciences Description,半径内の魔法モンキーが、追加の貫通と攻撃スピードを得る。
+Private Tuition Description,ラウンドごとに、もっとたくさんのXPがヒーロー用に生成される。
+Wider Influence Description,アカデミーの影響半径を広げる。
+Academic Network Description,このアップグレードでは、全てアカデミーのアカデミー半径が増える。
+Heroic Presence Description,アカデミーの半径内にいると、ヒーローの射程距離が15％アップする。
+M.A.S.H Description,ブルーンを割ると、モンキー陸軍外科病院が追加ライフをくれる。
+Wizards Library Description,半径内の魔法使い、ドルイド、錬金術師が、3つのアップグレード経路において2段階まで学習できる。
+Heroic Academy Description,ヒーローの能力クールダウンが短縮。
+Military Barracks Description,半径内の軍人モンキーの射程距離が増え、もっとたくさん割って好きな割合で売れるようになる。
+Magic Arcanum Description,アカデミー卒業生の能力：パワフルなモンキーを作り出す。その能力は、近くの魔法モンキーによる。
+Power Hero Development (PhD) Description,ヒーローのために、ラウンドごとにたくさんの追加XPを生成する。
+Military HQ Description,各地の軍人モンキーが、射程距離、破裂パワー、ダメージバフを獲得する。
+Nexus Crucible Description,能力で作られたアカデミー卒業生は、永久的！
+Dynamic Duo Description,二人目のヒーローを取得できる！
+,
+Bigger Radius Description,村の影響半径を広げる。
+Grow Blocker Description,再増殖型ブルーンが村の半径内にいる間は、その作用を防ぐ。
+Monkey Business Description,村の半径で購入した全てのモンキーとアップグレードに10％割引を提供する。
+Jungle Drums Description,半径内の全てのモンキーの攻撃速度を上げる。
+Radar Scanner Description,半径内の全てのモンキーがカモフラージュブルーンを攻撃できるようにする。
+Monkey Commerce Description,この追加のアップグレードで、他の2つの村と5％割引を合わせることができる。
+Primary Training Description,半径内全てのメインモンキーが、射程距離、貫通、投射スピードを得る。
+Monkey Intelligence Bureau Description,当局が特別ブルーン割り知識を与えてくれ、付近のモンキーが全ての種類のブルーンを割れるようになる。
+Monkey Town Description,モンキータウンの半径内のすべてのモンキーが、ブルーンを割るごとに現金を追加で得る。
+Primary Mentoring Description,半径内の全てのメインモンキーが無料で1段階アップグレードを獲得する。
+Call to Arms Description,戦闘召集能力：近くの全てのモンキーに、プラス50％の攻撃速度と風船割りが10秒間与えられる。
+Monkey City Description,影響を及ぼす半径を広げ、半径内のキャッシュ生成を増やし、ラウンドごとにダーツモンキーを1匹無料でもらえる。
+Primary Expertise Description,メガバリスタ攻撃を追加するほか、半径内の全てのメインモンキーの破裂パワーが増え、無料でティア1とティア2のアップグレードを取得する。
+Homeland Defense Description,能力が攻撃速度を増やし、20秒間、全てのモンキーが二倍の速度で風船を割れるようになる。
+Monkeyopolis Description,全ての近隣バナナ農園とその収入を吸収し、新しいモンキー用のスペースを作る。
+,
+//Ability Names,
+Super Monkey Fan Club Ability,スーパーモンキー\nファンクラブ
+Plasma Monkey Fan Club Ability,プラズマモンキー・ファンクラブ
+Turbo Charge Ability,ターボチャージ
+Perma Charge Ability,永久チャージ
+MOAB Assassin Ability,暗殺MOAB
+MOAB Eliminator Ability,消滅MOAB
+Blade Maelstrom Ability,ブレード大混乱
+Super Maelstrom Ability,スーパー大混乱
+Snowstorm Ability,雪嵐
+Absolute Zero Ability,絶対零度
+Glue Strike Ability,グルー攻撃
+Glue Storm Ability,グルーストーム
+Supply Drop Ability,供給品ドロップ
+Elite Sniper Ability,エリート供給品ドロップ
+Elite Defender Ability,エリートディフェンダー
+First Strike Capability Ability,先制攻撃
+Pre-emptive Strike Ability,先手攻撃
+Monkey Pirates Ability,MOABテイクダウン
+Pirate Lord Ability,海賊の王
+Ground Zero Ability,爆心地
+Tsar Bomba Ability,ツァーボンバー
+Support Chinook Redeploy Ability,チヌーク補佐再展開
+Support Chinook Supplies Ability,チヌーク補佐供給
+Special Poperations Ability,特別破裂準備
+Pop and Awe Ability,割ってびっくり
+Rocket Storm Ability,ロケットストーム
+Mauler Storm Ability,モーラー嵐
+Summon Phoenix Ability,不死鳥召喚
+Wizard Lord Phoenix Ability,魔法使いの王フェニックス
+Soulbind Ability,暗闇のプリンス
+Tech Terror Ability,全滅
+The Anti-Bloon Ability,アンチブルーン
+Legend of the Night Ability,夜の伝説
+Bloon Sabotage Ability,サボタージ
+Grand Saboteur Ability,大破壊工作者
+Transforming Tonic Ability,ジャングルのめぐみ
+IMF loan Ability,IMFローン
+Monkey-Nomics Ability,モンキー経済
+Overclock Ability,オーバー時計
+Spike Storm Ability,スパイク嵐
+Carpet of Spikes Ability,スパイクのカーペット
+Magic Arcanum Ability,アカデミー卒業生
+Call to Arms Ability,武器召喚
+Homeland Defense Ability,国土防衛
+,
+//Ability Descriptions,
+Super Monkey Fan Club Ability Description,付近の最高10匹のダーツモンキーを、10秒間スーパーモンキーにする。
+Plasma Monkey Fan Club Ability Description,このクラブのエリート会員券があると、ダーツモンキーがもっとパワーアップ！
+Turbo Charge Ability Description,このモンキーの攻撃を、10秒間とても速くする。
+Perma Charge Ability Description,このモンキーが与えるダメージが、15秒間増える。
+MOAB Assassin Ability Description,特別なミサイルが飛び、MOAB級ブルーンに巨大なダメージを与える。
+MOAB Eliminator Ability Description,暗殺アビリティ―が与えるダメージが6倍になり、クールダウンが短縮される。
+Blade Maelstrom Ability Description,能力：付近を刃の嵐で覆おう。
+Super Maelstrom Ability Description,もっとパワフルな大混乱能力で、持続時間も長い。
+Snowstorm Ability Description,画面上の全てのブルーンを、短時間の間凍結させる。
+Absolute Zero Ability Description,とても冷たい能力なので、冷たさに耐性があるものやMOAB級も含め、全種類のブルーンを凍らせる。
+Glue Strike Ability Description,画面上全てのブルーンを糊付けする。
+Glue Storm Ability Description,グルーの嵐の能力が、10秒間以上、ノリで画面全体を強打する。
+Supply Drop Ability Description,能力：箱一杯のキャッシュをドロップする。
+Elite Sniper Ability Description,供給品ドロップにもっとキャッシュが入っている。
+Elite Defender Ability Description,失われたライフルが、短時間の間、報復としてこのスナイパーに2倍の攻撃速度を与える。
+First Strike Capability Ability Description,能力：画面で一番大きなブルーンに破壊的ミサイル攻撃を行う。一度でZOMGブルーン一つか、沢山の小さいブルーンを破壊する。
+Pre-emptive Strike Ability Description,MOAB級ブルーンがブルーン入り口からスポーンするたびに、追加の対MOABミサイルが自動的にトリガーされる。
+Monkey Pirates Ability Description,MOAB級ブルーンを固定し、倒す。
+Pirate Lord Ability Description,一度に3つの四爪錨を撃ち、MOAB級ブルーンを倒すと、それぞれから追加のキャッシュを略奪する。
+Ground Zero Ability Description,爆弾投下の効果を増強する。グラウンドゼロ能力：画面上のほとんどのものを破壊する巨大爆弾を投下する。
+Tsar Bomba Ability Description,とても、とても大きな爆弾。だれか、この狂気を止めて！
+Support Chinook Redeploy Ability Description,ほとんどの種類のモンキーをピックアップし再展開させることができる。
+Support Chinook Supplies Ability Description,ライフとキャッシュクレートを落下させる。
+Special Poperations Ability Description,マシンガンを持つパワフルな特別モンキー海兵隊を展開する。
+Pop and Awe Ability Description,画面全体に爆破の雨を降らせ、全てのブルーンそ数秒間割って動けなくする。
+Rocket Storm Ability Description,パワフルなロケットの嵐を全方向に送る。
+Mauler Storm Ability Description,各ミサイルがMOAB級ブルーンにすごいダメージを与える。
+Summon Phoenix Ability Description,パワフルなフェニックスが20秒間ブルーンに大惨事をもたらす。
+Wizard Lord Phoenix Ability Description,魔王使いの王が炎の達人となり、短時間の間、パワフルな溶岩フェニックスに変化する。
+Soulbind Ability Description,敵を消し去るための、よりパワフルなブルーン召使いを生き返らせる。
+Tech Terror Ability Description,爆破半径内のほとんどのブルーンを完全に徹底的に破壊する。
+The Anti-Bloon Ability Description,<プログラム命令> <ブルーン壊滅> <開始>
+Legend of the Night Ability Description,全ての望みを失ったときに頼れる人…
+Bloon Sabotage Ability Description,サボタージの間、全てのブルーンの速度が遅くなる。
+Grand Saboteur Ability Description,能力の期間がもっと長く、サボタージ中にスポーンするMOAB級ブルーンのヘルスが減少する。
+Transforming Tonic Ability Description,ドルイドの近くの農場が、短時間に50％増しのキャッシュを獲得する。
+IMF loan Ability Description,"$10,000出してくれるが、時間をかけて返済しなくてはならない。"
+Monkey-Nomics Ability Description,失敗できないくらいの大物になったら…
+Overclock Ability Description,ターゲットモンキーが短時間の間、スーパーパワーを備える。
+Spike Storm Ability Description,トラック全体に厚い層のスパイクを発射する。
+Carpet of Spikes Ability Description,ラウンドごとに、トラック全体にスパイクのじゅうたんを敷き詰める。
+Magic Arcanum Ability Description,パワフルなモンキーを作り出す。その能力は、近くの魔法モンキーによる。
+Call to Arms Ability Description,付近のモンキー全てに、10秒間、二倍の攻撃速度と破裂パワーを与える。
+Homeland Defense Ability Description,能力が全てのモンキーに対し15秒間影響を与える。
+,
+//Maps,
+TownCentre,タウンセンター
+Tutorial,モンキー牧草地
+TreeStump,木の株
+InTheLoop,ループの中
+BTD1,BTD1
+Cubism,キュービズム
+FourCircles,4つの円形
+Cracked,割れ目がある
+Hedge,垣根
+Streambed,川床
+MonkeysInSpace,スペースモンキー
+Underground,地下
+AnotherBrick,別のレンガ
+#ouch,#痛い
+EndOfTheRoad,行き止まり
+Chutes,傾斜
+Rake,熊手
+OffTheCoast,沖合
+MuddyPuddles,泥の水たまり
+ParkPath,公園の小道
+Logs,丸太
+TestMap,テストマップ
+Cornfield,トウモロコシ畑
+SpiceIslands,スパイス島
+FiringRange,射撃練習場
+HighFinance,ハイファイナンス
+Downstream,ダウンストリーム
+DarkCastle,ダークキャッスル
+FrozenOver,フローズン
+Haunted,呪われた
+Quad,中庭
+MoonLanding,月着陸
+AlpineRun,アルパインラン
+Peninsula,半島
+,
+//Tower Groups,
+Primary,メイン
+Military,軍人
+Magic,魔法
+Support,サポート
+Heroes,ヒーロー
+Powers,パワー
+,
+//Misc,
+Crit,クリティカル
+,
+//Target Types,
+TT_Close,近い敵
+TT_First,初めの
+TT_Last,最後の
+TT_Strong,強く
+TT_Track,ノーマル
+TT_Circle,サークル
+TT_CloseTrack,近い敵
+TT_CustomPath,カスタム通路
+TT_Elite,エリート
+TT_FarTrack,遠く
+TT_FigureInfinite,インフィニティ記号
+TT_FigureEight,八の字
+TT_FollowTouch,タッチをフォローする
+TT_LockInPlace,場所をロックする
+TT_NecromancerTarget,ネクロマンサーの標的
+TT_OffsetTrack,外れたトラック
+TT_PatrolPoints,パトロールポイント
+TT_Pursuit,追求する
+TT_RandomPosition,ランダムな位置
+TT_RandomTarget,ランダムな標的
+TT_SmartTrack,賢い
+TT_Submerge,水中
+TT_CloseSharedRange,近くの共有レンジ
+TT_ExpensiveFriendlyTarget,高級な味方の標的
+TT_FirstSharedRange,初めの共有レンジ
+TT_FriendlyTarget,味方の標的
+TT_Grapplable,引っ掛け可能
+TT_TargetIndependant,標的に頼らない
+TT_TargetInFront,前の標的
+TT_LastSharedRange,最後の共有レンジ
+TT_TargetMoab,標的MOAB
+TT_TargetOpposite,標的反対
+TT_TargetPointer,標的ポインター
+TT_SetTarget,狙いを定める
+TT_StrongSharedRange,強い共有レンジ
+TT_TargetTag,標的タグ
+TT_TrackOrDefault,トラックまたはデフォルト
+TT_Centered,中央の経路
+,
+//Currency,
+Cash,キャッシュ
+XP,XP
+Monkey Money,Monkey Money
+Free,無料
+,
+Round,ラウンド：
+Max Tier Reached,最高段階に達しました
+Empty,空
+Not Upgraded,アップグレードしていませｎ
+Owned,所有済み
+Max Upgrades,最大限アップグレード
+Deployed Message,破壊済み{0} 
+,
+//UI Misc,
+OK,OK
+Cancel,キャンセル
+Start,スタート
+Return To Menu,メニュー
+Freeplay,自由プレイ
+Continue,続ける
+Done,完了
+Try Again,もう一度挑戦する？
+Continue?,続ける
+,
+Rewards,報酬
+Change Hero,ヒーロー変更
+Select a Hero,ヒーロー選択
+Select a Map,マップ選択
+Selected,選択済み
+Select a Hero Subheading,ヒーローは、あなたの部隊を戦いへと導く強いモンキーです
+Select Language,言語の選択
+Unlock All,全てアンロックする
+Upgrade Ingame cost,ゲーム内の価格
+Loading,ロード中…
+,
+Defeat,負け
+Defeat Message,もっと低い難易度で試してみてはどうでしょうか
+Victory,勝利
+Victory Message,嫌なブルーンを食い止めました
+,
+,
+//ModeSelectScreen,
+Select a Mode,モード選択
+Mode Standard,標準
+Mode MilitaryOnly,軍人オンリー
+Mode Apopalypse,アポパリプス
+Mode Reverse,リバース
+Mode Sandbox,サンドボックス
+Mode PrimaryOnly,メインオンリー
+Mode Deflation,デフレーション
+Mode Half Cash,キャッシュ半分
+Mode DailyChallenge,日替わりチャレンジ
+,
+//GameTypeScreen,
+Choose a Game,ゲームを選択
+New Game,新しいゲーム
+Daily Challenge,日替わりチャレンジ
+Co-op,協力プレイ
+Random,ランダム
+,
+//HomeScreen,
+HS Monkeys,モンキー
+HS Heroes,ヒーロー
+HS Play,プレイ
+HS Powers,パワー
+HS Knowledge,知識
+,
+//In game screens,
+Upgrades,アップグレード
+Sell,売る
+Get More,もっと入手
+,
+// PauseMenu ,
+Controls,コントロール：
+Drag & Drop,ドラッグ＆ドロップ
+Lock & Drop,ドロップ＆ロック
+Line of Sight,照準線
+Continuous Play,連続プレイ
+Off,オフ
+Store,ショップ
+Home,ホーム
+Restart,やり直し
+You ran out of lives on:,ライフが無くなりました
+Game Over Round,ラウンド{0}
+Victory Body,おめでとう！このトラックをクリアしました：{0}
+,
+// LinK,
+Log out,ログアウト
+Clear Data,データをクリア
+Login,ログイン
+Not logged into LiNK,LiNKにログインしていません
+Logged into LiNK as,{0}としてLiNKにログインしています
+,
+// Map Difficulty,
+MD Beginner,初級
+MD Intermediate,中級
+MD Advanced,上級
+MD Expert,専門家
+MD Extreme,激難
+,
+//Tower Specific Messages,
+Patrol Message,[I]でパトロールポイントを設定
+Sun Temple Title,神殿へのいけにえ
+Sun Temple Body,神殿はいけにえを求めている。付近のタワーが破壊され、神殿のおそるべき力が色々な方法で強化される。たしかに、警告をうけましたね…
+True Sun Temple Title,神殿へのいけにえ
+True Sun Temple Body,真の太陽神を\n召喚したいですか！？
+Heli Pilot Redeploy Message,タワーを再展開にドラッグ＆ドロップ
+Heli Pilot Redeploy Message Banned,このタワーは再展開できません
+Select a tower to Soulbind,ソウルバインド用のタワーを選択
+Select Point,地点を選択
+Select a tower to link,リンクするタワーを選択
+Cannot link to this tower,このタワーにリンクできません
+Tower is already linked,タワーはすでにリンクされています
+Tower must have an ability,タワーには有効な能力が必要です
+Unlink,リンク解除
+,
+//Upgrades Screen,
+Unlock Message,アンロック：
+XP To Spend,{0}XPは使用可能：
+,
+//Tower screen,
+Unlock Hero,レベルをアンロック
+Max Level Hero,最大レベルに達成！
+,
+//Hero Screen,
+InGame Cost,ゲーム内の値段：${0}
+,
+//Knowledge Screen,
+Knowledge Requirement,少なくともあと{0}ポイントを{1}に投資する必要があります
+,
+//Removables,
+Removable Cost,${0}で除去
+,
+// Powers Select Screen,
+Select a Power,パワーを選択
+Add For:,以下で追加：
+,
+// Achievements screen,
+Achievements,実績
+Rewards:,報酬
+,
+//Debug Options,
+Set Health,ヘルスを設定
+Set Health Description,新しいヘルス値として数値を入力してください
+Set Cash,キャッシュを設定
+Set Cash Description,新しいキャッシュ値として数値を入力してください
+,
+//Difficulty,
+Easy,初級
+Medium,中級
+Hard,上級
+Impoppable,インポッパブル
+Sandbox,サンドボックス
+Easy Description,初級では、タワーが通常より安く、ブルーンの動きはゆっくりで200ライフがもらえる。初級でラウンド40をクリアすると銅メダルが授与される。
+Medium Description,中級ではモンキーの値段は通常で、ブルーンの動きは普通で、150個のライフがもらえる。中級でラウンド60をクリアすると、そのトラックで銀メダルが授与される。
+Hard Description,上級ではモンキーの値段は普通より高く、第3ラウンドから開始し、ブルーンの速度も少し速くなり、そして手持ちのライフは100個となります。上級で第80ラウンドをクリアすると、そのトラックで金メダルがもらえます。
+Impoppable Description,インポッパブルではモンキーの値段は普通よりずっと高く、第6ラウンドから開始し、ブルーンの速度も速くなり、そして手持ちのライフは1個となります。インポッパブルで代100ラウンドをクリアすると、そのトラックでプラチナメダルがもらえます。
+Sandbox Description,サンドボックスではモンキーの値段は通常で、ブルーンの動きも普通。ライフとキャッシュは無限にある。
+,
+,
+,
+,
+,
+//Popup Screens,
+Unlock All Title,全てアンロックする
+Unlock All Body,{0}XPで全てのアップグレードをアンロックする。
+Not Enough Cash Title,キャッシュが足りません
+Not Enough Cash Body,もっとブルーンを割って、キャッシュを取得しよう。
+Not Enough XP Title,XPが足りません
+Not Enough XP Body,{0}XPが必要です。\nラウンドを通過するごとに、タワーはXPを獲得します
+Already Own Upgrade Title,既に所有しているアップグレード
+Already Own Upgrade Body,既にこのアップグレードを所有しています。
+Locked Title,ロックされているアップグレード
+Locked Body,これをアップグレードする前に、前のアップグレードを購入しなくてはなりません。
+Quit Title,やめる
+Quit Body,チュートリアルを終了しますか？
+Continue Saved Game Title,最後にセーブしたゲームを続けますか？
+Continue Saved Game Body,{2}モードの難易度{3}でプレイしていた{1}のラウンド{0}から続けますか？
+Continue Saved Game Okay,セーブをロードする
+Continue Saved Game Cancel,新しいゲーム
+,
+,
+//Hero Messages,
+Generic Hero Message,お困りですか？
+,
+//Tutorial,
+Welcome Title,Bloons™タワーディフェンス 6へようこそ
+Welcome Title Partial,モンキー対ブルーンの壮大な冒険
+Welcome Body,へようこそ
+Town Trouble Title,Bloons™タワーディフェンス 6へようこそ
+Town Trouble Body,ブルーンが君の町を侵略した！
+Town Trouble Button,取り戻そう
+Bloon Entry,ブルーンが通過できないように、食い止めよう！
+Bloon Outro,…そして、ここから逃げ出そう。
+Place First Tower,始めるには、ダーツモンキーを配置しよう。
+Place Second Tower,もう一匹のダーツモンキーを配置して、 [I]プレイ
+Press Go,さあ、 [I]レッツゴー！
+Finished Round One,簡単だったでしょ？ 次のラウンドはじめるには [I]プレイ
+Earning Experience,ブルーンを割ると、モンキーが経験を獲得します。
+Unlocking Upgrades,君のダーツモンキーは、アップグレードをアンロックするのに十分な力があります
+Upgrade Details,各モンキーの種類に、3つの進路を進む5つのアップグレードがあります。さあ、一つアンロックしてみよう。
+Upgrade Complete,いい感じ！さあ、そのアップグレードで、既存のモンキーをアップグレードしてみよう。
+Select Monkey,アップグレードをアンロックしましたが、ゲームでモンキーを選択して装備しなければなりません。さあ、モンキーをタップしよう。
+Select Upgrade,そして、アンロックしたアップグレードを選択して購入し、装備します。
+Hero Title,ヒーロー！
+Quincy Intro,お困りですか？
+Hero Info,クインシーはゲーム中に自分でアップグレードするモンキーヒーローです。一撃で数個のブルーンを割ることができます。
+Last Round,あともう1ラウンド！
+Next Map Title,ナイス！
+Next Map Description,逃げてしまったのがいるよ、次はビッグツリーに行こう！
+Next Map Button,レッツゴー
+Big Tree Title,ビッグツリー
+Big Tree Description,この木はモンキーの視野を遮るので、注意深く配置しよう。障害物を超えて射撃できるモンキーもいます。
+Big Tree Victory Title,最後の一押し…
+Big Tree Victory Description,勝利は目前、タウンセンターまでプッシュ！
+Big Tree Victory Button,レッツゴー
+Town Centre Title,タウンセンター
+Town Centre Description,町を救うために、全てのブルーンを壊そう！
+Town Centre Victory Description,やったー！
+Home Description,おかえりなさい。
+Xp Reminder Title,忘れないで！
+Xp Reminder Description,モンキーXPポイントを使って、モンキーのためのアップグレードをもっとアンロックするのをお忘れなく。
+Lose Tutorial Title,あらら！
+Lose Tutorial Description,ライフ切れです！また挑戦してね。モンキーをもっとトラック近くに配置するか、もっとアップグレードしてみてください。
+Select a Monkey,モンキーを選択
+Earning Experience Title,アップグレードをアンロック中
+Unlocking Upgrades Title,アップグレードをアンロック中
+Next,次
+,
+//Loading Messages,
+Loading Message 0,ヒエログラフを調べています…
+Loading Message 1,モンキーをトレーニング中…
+Loading Message 2,ダーツを準備中…
+Loading Message 3,ブルーンを膨らませています…
+Loading Message 4,バナナ集めをしています…
+Loading Message 5,一休み中…
+Loading Message 6,庭のお手入れ中…
+Loading Message 7,モンキークトゥルフを放しています…
+Loading Message 8,太陽の神を起こしています…
+Loading Message 9,ヒーローを召喚中…
+Loading Message 10,新しいコンテンツのダウンロード
+Internet Connection Required Message,新しいゲームのコンテンツをダウンロードするには、インターネット接続が必要です。接続をお確かめくださいお確かめください。
+,
+// Achievements,
+Achievement 1 Name,インポッパブル
+Achievement 1 Description,{0}個のブルーンを割る
+Achievement 2 Name,MOAB刺客
+Achievement 2 Description,{0}のMOABを\n破壊する
+Achievement 3 Name,{0}BFB 乱闘
+Achievement 3 Description,{0}のBFBを\n破壊する
+Achievement 4 Name,ZOMG\nネーター
+Achievement 4 Description,{0}のZOMGを\n破壊する
+Achievement 5 Name,ぼくちゃんDDT、やっつけた
+Achievement 5 Description,DDTを{0}個破壊する
+Achievement 6 Name,工兵
+Achievement 6 Description,強化ブルーンかMOAB級を{0}個割る。最良の結果のために、瞬殺と強化除去を避ける。
+Achievement 7 Name,初めての勝利
+Achievement 7 Description,{0}チュートリアルでない初級マップで勝利する
+Achievement 8 Name,バッタ
+Achievement 8 Description,{0}の別の初級マップで勝つ
+Achievement 9 Name,次のレベル
+Achievement 9 Description,中級マップの{0}試合で勝利する
+Achievement 10 Name,信奉者
+Achievement 10 Description,{0}個の異なる中級マップで勝利する
+Achievement 11 Name,上級プレイヤー
+Achievement 11 Description,上級マップの{0}試合で勝利する
+Achievement 12 Name,究極プレイヤー
+Achievement 12 Description,究極マップの{0}試合で勝利する
+Achievement 13 Name,ビッグモンキー
+Achievement 13 Description,4段階のモンキータワーを展開する
+Achievement 14 Name,メガモンキー
+Achievement 14 Description,5段階のモンキータワーを展開する
+Achievement 15 Name,ヒーロータイム
+Achievement 15 Description,チュートリアルでないマップでヒーローを展開する
+Achievement 16 Name,ヒーローパワー発動
+Achievement 16 Description,任意のヒーローのレベル3能力を使う
+Achievement 17 Name,ビッグ＆バッド
+Achievement 17 Description,任意のヒーローのレベル10能力を使う
+Achievement 18 Name,エピックヒーロー
+Achievement 18 Description,任意のヒーローをレベル{0}にする
+Achievement 19 Name,モンキーアベンジャーリーグ
+Achievement 19 Description, {0}匹の異なるヒーローでゲームに勝つ
+Achievement 20 Name,パワーがあるよ
+Achievement 20 Description,初めてパワーを使う
+Achievement 21 Name,パワー使用者
+Achievement 21 Description,パワーを{0}回使う
+Achievement 22 Name,権限所持者
+Achievement 22 Description,パワーを{0}回使う
+Achievement 23 Name,学生
+Achievement 23 Description,モンキー知識ポイントを初めて適用する
+Achievement 24 Name,学者
+Achievement 24 Description,{0} のモンキー知識ポイントを適用する
+Achievement 25 Name,モンキー博士
+Achievement 25 Description,106モンキーの知識ポイントを使う
+Achievement 26 Name,まずはモンキーから
+Achievement 26 Description,メインモンキーだけを使って、{0}試合勝つ
+Achievement 27 Name,戦争モンキー
+Achievement 27 Description,軍人モンキーだけを使って、{0}試合勝つ
+Achievement 28 Name,アブラカダブラモンキー
+Achievement 28 Description,魔法モンキーだけを使って、{0}試合勝つ
+Achievement 29 Name,裏方モンキー
+Achievement 29 Description,サポートモンキーだけを使って、{0}試合勝つ
+Achievement 30 Name,インフレーション
+Achievement 30 Description,デフレーションモードで{0}ラウンドをクリアする
+Achievement 31 Name,サバイバー
+Achievement 31 Description,アポカリプスモードで{0}ラウンドをクリアする
+Achievement 32 Name,インディー
+Achievement 32 Description,代替えブルーンラウンドで、{0}試合勝つ
+Achievement 33 Name,ポップ可能
+Achievement 33 Description,絶対ポップ不可能の難易度で、{0}試合勝つ
+Achievement 34 Name,倹約家
+Achievement 34 Description,キャッシュ半分モードで{0}試合に勝つ 
+Achievement 35 Name,ブルーンジラ！
+Achievement 35 Description,ダブルHPのMOABに対抗して、{0}試合勝つ
+Achievement 36 Name,ロール・リバーサー
+Achievement 36 Description,リバースモードのゲームに勝つ
+Achievement 37 Name,メダル勝者
+Achievement 37 Description,一つの地図で全てのメダルを取得する
+Achievement 38 Name,飾られたヒーロー
+Achievement 38 Description,初心者マップ上で36個の難易度メダルを獲得する
+Achievement 39 Name,赤と青を混ぜると…
+Achievement 39 Description,{0}個の紫ブルーンを割る
+Achievement 40 Name,赤外線
+Achievement 40 Description,{0}個のカモフラージュ\nブルーンを割る
+Achievement 41 Name,力を合わせて
+Achievement 41 Description,少なくとも12の異なる力を集める
+Achievement 42 Name,チャレンジャー
+Achievement 42 Description,日替わりチャレンジで{0}回勝利する
+Achievement 43 Name,チャレンジ見習い
+Achievement 43 Description,日替わりチャレンジで{0}回勝利する
+Achievement 44 Name,チャレンジ師範
+Achievement 44 Description,日替わりチャレンジで{0}回勝利する
+Achievement 45 Name,パーフェクトな週
+Achievement 45 Description,1週間で全ての日替わりチャレンジをクリアする。
+Achievement 46 Name,物知り霊長類
+Achievement 46 Description,一つの部門のモンキー知識を全てアンロックする
+Achievement 47 Name,ブルーンマスター
+Achievement 47 Description,CHIMPSモードで{0} マップをクリア
+Achievement 48 Name,スペリアブルーンマスター
+Achievement 48 Description,CHIMPSモードで{0} マップをクリア
+Achievement 49 Name,究極のブルーン・マスター
+Achievement 49 Description,CHIMPSモードで{0} マップをクリア
+Achievement 50 Name,超BAD
+Achievement 50 Description,{0}個のBADを破壊する
+Collect,集める
+,
+//Standard Round Messages,
+,
+,
+Hint 2,ブルーンの層を割るごとに1キャッシュもらえます。さらに、ラウンドの最後にボーナスがあります。
+Hint 7,Bloons TD 6を定期的にプレイして、マップ、ヒーロー、チャレンジなどの新しいアップデートをチェックしてね。
+Hint 12,特定のタワーを使えば使うほど、それ用のアップグレードをもっと\nアンロックできます。
+Hint 26,あそこのゼブラ縞のブルーンが見える？白ブルーンと黒ブルーンの意地悪さを足したもので、中に一つづつ入っています。
+Hint 32,カモフラージュブルーンがラウンド24で戻ってきたのを見たでしょ？もっと沢山に立ち向かう準備が出来てるといいけど！
+Hint 38,次のラウンドの終わりに、2個の再増殖型レインボーブルーンがあります。
+Hint 39,次のラウンドでは、初のMOAB級ブルーンが登場。知らなかった、なんて言わせない！
+Hint 41,お次は：再増殖型レインボーブルーンとカモフラージュレインボーブルーン。どっちがどっちか、区別できる？
+Hint 45,次回は、強化陶器ブルーンが登場します。
+Hint 50,沢山のカモフラージュ陶器ブルーンがあったら、最悪な一日になるんじゃない。って言ってみただけ。
+Hint 54,BTD6って最高。人生も最高。たまには、のんびりと何か別のことをするのもお忘れなく。それから、もっとBTD6をプレイしよう！
+Hint 58,鉛って割れる？カモフラージュは割れる？じゃあ…カモフラージュ鉛はどうかな？
+Hint 59,次は、中級難易度の最終ラウンド。おめでとう！BFBブルーンを割れたらの話だけど…
+Hint 62,BTD5をプレイしたなら、ラウンド63がどうだったか覚えているでしょ。このゲームが初めてなら、えっと、鉛ブルーンがぎっしりすし詰め状態、とだけ言っておきます。
+Hint 73,次のラウンド：カモフラージュ・再増殖型強化鉛ブルーン。ふぅー！言うのが大変だった。
+Hint 77,75個の鉛ブルーンを狭い空間に押し込めると、どうなるか？さあ、もうすぐわかるよ。
+Hint 79,次は上級難易度の最終ラウンド。持っているものを全てZOMGブルーンに投げつけよう。大きくて、スローで、とても、とても頑丈だ。
+Hint 89,DDTブルーンって何だと思う？MOABがピンクと、カモフラージュと、鉛ブルーンと混ざった感じ。それも、悪い意味で。
+Hint 100,100ラウンド制覇おめでとう！報酬を楽しんでね！
+,
+//Alternate Round Messages [will comment out duplicates for now / warnings],
+Alternate Hint 3,代替ブルーンラウンド…
+Alternate Hint 4,「代替」ってもっと難しいっていう意味だって、分かってるでしょ？
+Alternate Hint 5,カモフラージュを見た時、パニックになった？
+Alternate Hint 7,まだライフは最大？
+Alternate Hint 8,うーん、初めての鉛はいつ出てくるのかな？
+Alternate Hint 21,それが、「キャッシュ飢餓」ラウンドって呼んでいるやつだよ…
+Alternate Hint 39,次のラウンドは、いつも通りのMOAB。かな？
+Alternate Hint 59,次のラウンドはBFB。または、FBFBって呼ぶべき？
+Alternate Hint 77,次のラウンドは、本当に嫌な感じ…
+Alternate Hint 79,ZOMG、ああ、大変だった…
+Alternate Hint 99,そんなにBADじゃなかったでしょ？
+Alternate Hint 100,100ラウンド制覇おめでとう！報酬を楽しんでね！
+,
+// iap ,
+Max Level,最大レベル
+Processing,プロセス中
+Purchased,購入済み
+Purchase failed,購入に失敗しました
+,
+// Time,
+days,日
+day,日
+hours,時間
+hour,時間
+minutes,分
+minute,分
+seconds,秒
+second,秒
+,
+// Store: standard,
+btd6_monkeymoney,Monkey Money
+btd6_monkeymoney Description,Monkey Moneyが片手に一杯。
+btd6_pileomonkeymoney,山積みのMonkey Money
+btd6_pileomonkeymoney Description,Monkey Moneyの大きな山。
+btd6_vaultomonkeymoney,Monkey Moneyの金庫
+btd6_vaultomonkeymoney Description,Monkey Moneyがあふれるほど詰まっている金庫！
+btd6_mountainomonkeymoney,Monkey Moneyの山
+btd6_mountainomonkeymoney Description,このすばらしいMonkey Moneyの山の頂上に到達するには、シェルパが必要。
+btd6_towerxp,(5000) モンキーXP
+btd6_towerxp Description,今すぐ、お気に入りのモンキータワー用に{0}XPを入手しよう！
+btd6_fulltowerunlock,完全モンキーアンロック
+btd6_fulltowerunlock Description,即時に一つのモンキータワーの全アップグレードをアンロックする。
+btd6_doublecashmode,ダブル\nキャッシュ\nモード
+btd6_doublecashmode Description,ゲーム内のキャッシュが永久に二倍に！無効にもできる。
+btd6_knowledgeunlocked,知識アンロック
+btd6_knowledgeunlocked Description,モンキー知識の秘密をアンロックする！即時にランク{0}になり、また、{1}ボーナス知識ポイントを取得できる。
+btd6_knowledgepoint,知識ポイント
+btd6_knowledgepoint Description,知識ポイントで、モンキー流の賢者になろう。
+btd6_herobooster,ヒーローブースター
+btd6_herobooster Description,現在のゲームで選択したヒーローが、このゲームの終わりまでにレベル{0}になる。
+btd6_powersattackpack,パワーの攻撃セット
+btd6_powersattackpack Description,{0}戦に焦点を当てたモンキーパワーの各種取り合わせ。
+btd6_instatowerspack,インスタモンキーセット
+btd6_instatowerspack Description,ゲーム内キャッシュなしで配置可能なインスタモンキータワーが5基！1段階が2基、2段階が2基、そして3段階が1基。
+btd6_tier3instatowerspack,3段階のインスタモンキーセット
+btd6_tier3instatowerspack Description,ゲーム内キャッシュなしで配置可能な、3段階のインスタモンキータワーが10基！
+btd6_tier4instatowerspack,4段階のインスタモンキーセット
+btd6_tier4instatowerspack Description,ゲーム内キャッシュなしで配置可能な、4段階のインスタモンキータワーが10基！
+btd6_needmoremonkeymoneyprompt,Monkey Moneyが足りません！もっと購入しますか？
+,
+,
+// Store: Limited Time Packs,
+btd6_knowledgepoints,{0}知識ポイント
+btd6_knowledgepoints Description,今すぐ、{0}知識ポイントを手に入れよう！
+btd6_extraTowerxp,追加タワーXP（{0}）
+btd6_extraTowerxp Description,お気に入りタワーのために、今すぐ{0}XPを取得！
+btd6_extramonkeymoney,追加のMonkey Money
+btd6_extramonkeymoney Description,特別オファー！{0} Monkey Moneyをお手頃低価格で。
+btd6_powerspandamonium,パワーのパンダモニウム
+btd6_powerspandamonium Description,我々のパワーを合わせよう！最高のモンキーパワーの{0}が、一つのセットから入手できます。
+btd6_instatowersmegabooster,インスタモンキー・メガブースター
+btd6_instatowersmegabooster Description,このメガパックには、ゲーム内キャッシュなしで配置できるインスタモンキータワーの2段階が5基、3段階が12基、そして4段階が3基入っている。
+btd6_megamonkeycompendiumpack,メガモンキーのビッグセット
+btd6_megamonkeycompendiumpack Description,"素晴らしいグッズで一杯の巨大なセット！Monkey Moneyが25,000、攻撃パワーが100、3段階のインスタモンキータワーが30基、4段階のインスタモンキータワーが15基、5段階のインスタモンキータワーが5基、そして知識をアンロック（ランク30、5ボーナスMKポイント）！"
+btd6_tier5instatowerpack,5段階のインスタモンキーパック
+btd6_tier5instatowerpack Description,ゲーム内キャッシュ無しで配置できる、5段階モンキータワーが10基！
+,
+// Store: Sale packs,
+btd6_pileomonkeymoney_sale,山積みのMonkey Moneyセール
+btd6_pileomonkeymoney_sale Description,Monkey Moneyの大きな山。
+btd6_vaultomonkeymoney_sale,Monkey Moneyの金庫セール
+btd6_vaultomonkeymoney_sale Description,Monkey Moneyがあふれるほど詰まっている金庫！
+btd6_knowledgepoints_sale,{0}知識セール
+btd6_knowledgepoints_sale Description,今すぐ、{0}知識ポイントを手に入れよう！
+btd6_instatowersmegabooster_sale,インスタモンキー・メガブースターのセール
+btd6_instatowersmegabooster_sale Description,このメガパックには、ゲーム内キャッシュなしで配置できるインスタモンキータワーの2段階が5基、3段階が12基、そして4段階が3基入っている。
+btd6_tier3instatowerspack_sale,3段階のインスタモンキーセットのセール
+btd6_tier3instatowerspack_sale Description,ゲーム内キャッシュなしで配置可能な、3段階のインスタモンキータワーが10基！
+btd6_tier4instatowerspack_sale,4段階のインスタモンキーセットのセール
+btd6_tier4instatowerspack_sale Description,ゲーム内キャッシュなしで配置可能な、4段階のインスタモンキータワーが10基！
+,
+Restore,リストアする
+Today,今日
+DailyRewardDay,{0}日
+Sale Ends In,セール終了まで： 
+Offer Ends In,オファー終了まで： 
+Promo Ends In,プロモーション終了まで： 
+Loot.TowerXP.Title,{0}XP
+Loot.Base.Description,x {0}
+Loot.BaseAdd.Description,+ {0}
+Loot.InstaRank.Description,レベル{0}
+Loot.DoubleCashMode.Title,ダブル\nキャッシュ\nモード
+Loot.FullTowerUnlock.Title, {0}のフルタワーアンロック
+Loot.HeroBooster.Title,ヒーローブースター
+Loot.InstaRankToLevel.Title,レベル{0}にインスタントランク
+Loot.PowerPacks.Title,パワーパック
+Loot.KnowledgePoints.Title,知識ポイント
+Loot.MonkeyMoney.Title,Monkey Money
+Loot.RandomInstaTower.Title,ランダムなインスタモンキー
+Loot.RandomAttackPower.Title,ランダムな攻撃パワー
+Loot.RandomBestPower.Title,ランダムな最高パワー
+Loot.RandomInstaTowerTier.Title,{0}段階インスタモンキー
+,
+ExistingData.Title,既存のデータが見つかりました
+ExistingData.Message,レベル{0}\nこのデータを維持しますか、それとも消去しますか？
+ExistingData.Clear,消去する
+ExistingData.Keep,維持する
+,
+Shop.Title,買う
+Shop.SubHeading,さあ、頑張ったから、自分にご褒美！
+Shop.Sale,セール
+Shop.Bonus,ボーナス
+Claimed,回収済み
+Map,マップ
+Difficulty,難易度
+Monkeys Available:,使えるモンキー：
+Go,見に行く
+Knowledge,知識
+Daily Reward,日替わり報酬
+Settings,設定
+Language,言語：
+Events,イベント
+Upgrades:,アップグレード：
+Ingame cost:,ゲーム内コスト：
+Select,選択
+Path Closed,閉鎖された経路
+Store unavailable,ストアにアクセスできません
+,
+// ------------- Monkey Knowledge,
+// Primary,
+IncreasedLifespan,ライフスパン増加
+IncreasedLifespanDescription,ダーツモンキー、爆弾シューター、びょうシューターの自動推進体のライフスパンが、もっと長くなる。
+ExtraDartPops,追加のダーツ割り
+ExtraDartPopsDescription,ダーツモンキーの、発砲ごとの貫通が+1．
+CheapRangs,安物ブーメラン
+CheapRangsDescription,ブーメラン投手の基本コストが50値下げ。
+FraggyFrags,フラフラ破砕性手りゅう弾
+FraggyFragsDescription,手りゅう弾爆弾で、追加のキルが2に。
+FastGlue,スピーディーグルー
+FastGlueDescription,グルーガンマンの攻撃速度が10%アップ。
+IcyChill,アイスチル
+IcyChillDescription,フリーズ半径がわずかに増加した。
+HardTacks,硬いびょう
+HardTacksDescription,びょうシューターが、凍結ブルーンも割れるようになる。
+CrossbowReach,クロスボウの到達
+CrossbowReachDescription,クロスボウの範囲が増加。
+4And4,4＆4
+4And4Description,ダーツモンキーのトリプルショットで、4回発射するごとに4ダーツもらえる。
+ForceVsForce,フォース対フォース
+ForceVsForceDescription,ジャガーノートがMOAB級ブルーンに対し、1発ごとにプラス2ダメージ与える。
+MasterDoubleCross,ダブルクロス・エキスパート
+MasterDoubleCrossDescription,クロスボウ・エキスパートを二人まで所有できる。
+ExtraBounce,エキストラバウンス
+ExtraBounceDescription,ブーメランの跳ね返りを80回まで増加。
+LongTurbo,ロングターボ
+LongTurboDescription,ブーメランターボのチャージ能力が15秒間続く。
+HardPress,ハードプレス
+HardPressDescription,MOABプレスが、30％遠くまで押し戻す。
+MegaMauler,メガモーラー
+MegaMaulerDescription,MOABモーラーは、命中するごとにもっとダメージを与える。
+ViolentImpact,バイオレントな衝撃
+ViolentImpactDescription,爆弾シューターのブルーン衝撃によるマヒが、25％長くなる。
+BudgetClusters,予算クラスター
+BudgetClustersDescription,爆弾シューターのクラスターボムの値段が100下がる。
+FastTackAttacks,高速びょう攻撃
+FastTackAttacksDescription,びょうシューターの攻撃速度が8％アップ。
+PoppyBlades,ポピーブレード
+PoppyBladesDescription,ブレードシューターのアップグレードで、貫通+2を取得。
+BigInferno,大猛火
+BigInfernoDescription,猛火の輪のアップグレードで、バースト半径+3を取得。
+SoCold,とても…寒い…
+SoColdDescription,アイスモンキーのパーマフロストアップグレードで、60%遅らせる。
+BigCryoBlast,大低温爆発
+BigCryoBlastDescription,低温大砲の爆破半径が拡大。
+Hypothermia,低体温
+HypothermiaDescription,雪嵐はブルーンをより長く凍結させる。
+MoreSplattyGlue,もっとグルーをスプラッシュ
+MoreSplattyGlueDescription,グルースプラッターが、一発で最大8個のブルーンに影響を与える。
+AviationGradeGlue,航空グレードグルー
+AviationGradeGlueDescription,MOABグルーによる遅延が通常より大きくなる。
+CheaperSolution,お安い解決策
+CheaperSolutionDescription,ブルーン液化装置の値段が1000下がる。
+BonusMonkey,ボーナスモンキー！
+BonusMonkeyDescription,各ゲームを無料のダーツモンキー1匹とスタート！
+MoreCash,もっとキャッシュ
+MoreCashDescription,開始時のキャッシュを200増加。
+,
+// Support,
+FlatPackBuildings,フラットパックな建物
+FlatPackBuildingsDescription,農場と村のコストが2％減少し、2%アップで売れる。
+FarmSubsidy,農場助成金
+FarmSubsidyDescription,各ゲームで一つ目のバナナ農園の値段が100下がる。
+MoreValuableBananas,もっと高級バナナ
+MoreValuableBananasDescription,高級バナナのアップグレードが30％増加。
+VigilantSentries,慎重な見張り番
+VigilantSentriesDescription,番兵砲塔が通常より長く継続。
+OneMoreSpike,スパイクをもう一つ
+OneMoreSpikeDescription,スパイク工場のびょうに、スパイクが+１追加。
+GlobalAbilityCooldowns,グローバル能力クールダウン
+GlobalAbilityCooldownsDescription,全てのモンキーの全ての能力クールダウンが3％減少。
+EliteTutors,エリート家庭教師
+EliteTutorsDescription,ヒーローに対し、ラウンドごとにさらに+15の追加XPを生成する。
+InsiderTrades,内部取引
+InsiderTradesDescription,モンキービジネス割引が2％増加。
+BiggerBanks,もっと大銀行
+BiggerBanksDescription,モンキー銀行で保管できるお金が2500増える。
+BackroomDeals,裏部屋での取引
+BackroomDealsDescription,IMFローンが$12000まで増え、返済レートが40％に。
+ThickerFoams,分厚い泡
+ThickerFoamsDescription,クレンジング剤の期限が切れるまでに、あと3個のブルーンに命中できる。
+BigTraps,ビッグトラップ
+BigTrapsDescription,ブルーントラップが追加で30個のRBEをとらえられるようになる。
+BetterSellDeals,もっとお買い得
+BetterSellDealsDescription,すべてのモンキーで、販売コストが5％増加。
+VeryShreddy,滅多裂き
+VeryShreddyDescription,MOABシュレッダーのスパイクがMOAB級ブルーンに与えるダメージが、追加+1に。
+HiValueMines,価値ある地雷
+HiValueMinesDescription,スパイク地雷の値段が1500下がる。
+LongGraduation,長い卒業式
+LongGraduationDescription,アカデミー卒業生の持続期間が延長。
+InlandRevenueStreams,国家歳入の流れ
+InlandRevenueStreamsDescription,モンキータウンのキャッシュボーナスが10％増加。
+ToArms,武器を取れ！
+ToArmsDescription,武器召喚の期間が3秒増加。
+VeteranMonkeyTraining,退役モンキー訓練
+VeteranMonkeyTrainingDescription,全てのモンキーのリロード時間が3％短縮。
+MonkeyEducation,モンキー教育
+MonkeyEducationDescription,全てのモンキーXP獲得率が8％増加。
+,
+// Military,
+AdvancedLogistics,上級ロジスティックス
+AdvancedLogisticsDescription,全ての軍人モンキーの基本コストが5％ダウン。
+GunCoolant,銃冷却器
+GunCoolantDescription,モンキーエースの攻撃が10％スピードアップ。
+CeramicShock,陶器ショック
+CeramicShockDescription,スナイパー攻撃が陶器ブルーンに命中すると、短期間動きが遅くなる。
+NavalUpgrades,海軍アップグレード
+NavalUpgradesDescription,購入に失敗しました。インターネット接続とデバイスのログインをご確認ください。
+TradeAgreements,貿易協定
+TradeAgreementsDescription,ラウンドごとに商人が+$20生成するようになる。
+AirforceUpgrades,空軍アップグレード
+AirforceUpgradesDescription,エースモンキーとヘリパイロットが、ショットごとに+1貫通する。
+BroadBladeDartlings,太刃のダートリング
+BroadBladeDartlingsDescription,ダートリング砲から発射すると、ブルーンに命中しやすくなる。
+BreakingBallistic,ブレーキング弾道
+BreakingBallisticDescription,弾道ミサイルの陶器ブルーンに対するダメージが増える。
+AcceleratedAerodarts,加速エアロダーツ
+AcceleratedAerodartsDescription,モンキーエースのダーツの飛行速度がアップ。
+RapidRazors,ラピッドレーザー
+RapidRazorsDescription,回転剃刀がもっと速くブルーンを割るようになる。
+BudgetBattery,予算集中砲火
+BudgetBatteryDescription,大砲集中砲火のコストが600下がる。
+PaintStripper,ペンキ剥離剤
+PaintStripperDescription,迫撃砲の強烈な炸裂弾が、DDTブルーンのカモフラージュを取り去る。
+CheaperMaiming,お買い得マイム
+CheaperMaimingDescription,マイムMOABのコストが1000下がる。
+ChargedChinooks,チャージ済みチヌーク
+ChargedChinooksDescription,チヌークの有効化された能力が、取得ライフとキャッシュを25％増しにしてくれる。
+ExtraBurnyStuff,追加バーニースタッフ
+ExtraBurnyStuffDescription,バーニースタッフが毎秒割ってくれる。
+DartlingCoolant,ダートリング冷却剤
+DartlingCoolantDescription,ダートリング砲攻撃速度が10％増加。
+MoreBuckshot,もっとバックショット
+MoreBuckshotDescription,バックショットが5つの投射物を発射する。
+BigBunch,ビッグバンチ
+BigBunchDescription,ブドウショットが6個のブドウ弾を発射する。
+TargetedPineapples,狙われたパイナップル
+TargetedPineapplesDescription,パイナップルが落ちてくるのが、トラック付近のみになる。
+EliteMilitaryTraining,エリート軍人訓練
+EliteMilitaryTrainingDescription,全ての軍人モンキーが、一度だけ+1000xpを取得し、ゲーム内xpを5％速く永久に取得する。
+MasterDefender,ディフェンスの達人
+MasterDefenderDescription,エリートディフェンダーのクールダウンがなくなる。
+BigBloonSabotage,ビッグ・ブルーン・サボタージ
+BigBloonSabotageDescription,全てのMOAB級ブルーンが、ダメージを受けた状態でスポーンする。
+FasterTakedowns,高速テイクダウン
+FasterTakedownsDescription,MOABテイクダウン能力のクールダウンが５秒短縮。
+SubAdmiral,潜水艦提督
+SubAdmiralDescription,潜水艦司令官が画面上全てのモンキー潜水艦に影響を及ぼす。
+MilitaryConscription,軍隊徴兵
+MilitaryConscriptionDescription,各ゲームにおける一匹目の軍人モンキーの値段が半額に。
+AeronauticSubsidy,航空助成金
+AeronauticSubsidyDescription,モンキーエースの５段階アップグレードが10％値引きされる。
+FocusedPlasma,フォーカスプラズマ
+FocusedPlasmaDescription,プラズマアクセルが即効でダメージを及ぼす。
+QuadBurst,四方向バースト
+QuadBurstDescription,エアバースト・ダーツを3つでなく4つに分裂させる
+,
+// Heroes,
+QuickHands,クイックハンド
+QuickHandsDescription,全てのヒーローの攻撃が4％スピーディーに。
+MoreSplody,もっと’Splody
+MoreSplodyDescription,ヒーローの爆弾が、ショットごとに+2貫通する。
+HeroicReach,ヒーロー的な到達
+HeroicReachDescription,全てのヒーローの射距離が少し増える。
+HeroicVelocity,ヒーロー的な速度
+HeroicVelocityDescription,全てのヒーローの投射物が少しスピードアップ。
+SelfTaughtHeroes,独学ヒーロー
+SelfTaughtHeroesDescription,ヒーローのXP獲得が10％スピードアップ。
+HeroFavors,ヒーローが好き
+HeroFavorsDescription,ヒーローの基本コストが10％割引に。
+Scholarships,奨学金
+ScholarshipsDescription,ヒーローの訓練コストが10％割引に。
+AbilityDiscipline,能力訓練
+AbilityDisciplineDescription,ヒーローレベル10の能力クールダウンが10％減少しり。
+EmpoweredHeroes,権威のヒーロー
+EmpoweredHeroesDescription,各ゲームスタート時のヒーローレベルが3に。
+AbilityMastery,能力熟達
+AbilityMasteryDescription,レベル20で、ヒーローのレベル3能力のクールダウンが30％減少する。
+BigBloonBlueprints,ビッグブルーン設計図
+BigBloonBlueprintsDescription,ヒーローがMOAB級ブルーンに与える基本攻撃ダメージが+1追加される。
+,
+// Magic,
+MagicTricks,魔法のトリック
+MagicTricksDescription,誘導マジックと強烈なマジックの値段が25安くなる。
+LingeringMagic,消えない魔法
+LingeringMagicDescription,魔法使いモンキー、スーパーモンキー、忍者モンキー、ドルイドの投射物の存続期間が長くなる。
+SuperRange,スーパーレンジ
+SuperRangeDescription,スーパーレンジのアップグレードの際の範囲が増える。
+DiversionTactics,けん制作戦
+DiversionTacticsDescription,ブルーンに注意散漫アップグレードさせないようにする機会が増える。
+SpeedyBrewing,スピーディー醸造
+SpeedyBrewingDescription,全ての錬金術師のポーションのリロード時間が5％スピードアップ。
+WarmOak,温かなナラの木
+WarmOakDescription,ナラの木の心のコストが100ダウン。
+CheaperDoubles,お買い得ダブル
+CheaperDoublesDescription,忍者ダブルショットのコストが100ダウン。
+AcidStability,酸の安定性
+AcidStabilityDescription,錬金術師の酸性プール持続時間が、+5秒増える。
+HotMagic,ホットマジック
+HotMagicDescription,全ての魔法タイプのタワーが、凍結ブルーンを割れるようになる。
+ArcaneImpale,アーケイン刺突
+ArcaneImpaleDescription,アーケインのスパイクが、MOAB級と陶器ブルーンに追加ダメージを与える。
+ColdFront,寒冷前線
+ColdFrontDescription,球電光の打撃には、ダメージを与えた後にブルーンをフリーズするチャンスがある。
+FlameJet,炎のジェット
+FlameJetDescription,ドラゴンの息の炎投射物が、もっと早く動く。
+StrikeDownTheFalse,偽物は撃ち落とせ
+StrikeDownTheFalseDescription,太陽のアバターが紫のブルーンを割れるようになる。
+HeavyKnockback,ヘビーノックバック
+HeavyKnockbackDescription,スーパーモンキーからのノックバックに当たるブルーンが、少しハードにノックバックされる。
+StrongTonic,濃厚トニック
+StrongTonicDescription,変身トニックの有効時間が長くなる。
+MoMonkeyMoney,もっとMonkey Money
+MoMonkeyMoneyDescription,どの難易度でもゲーム勝利時に獲得するMonkey Moneyが10％増し。
+DeadlyTranquility,命取りの静けさ
+DeadlyTranquilityDescription,ブルーンの術と忍者大師範
+ManaShield,マナシールド
+ManaShieldDescription,最大25個のライフを吸収する特別なシールドを無料で作る。ブルーンが漏れない場合、各ラウンドでゆっくりリチャージする。
+ThereCanBeOnlyOne,たった一つだけ！
+ThereCanBeOnlyOneDescription,たった一つだけ！
+,
+// Powers,
+JustOneMore,あと一個
+JustOneMoreDescription,路上スパイクの山が21個のスパイクになる。
+LongerBoosts,ロングブースト
+LongerBoostsDescription,モンキーブースト継続時間が延長に。
+PreGamePrep,ゲーム前準備
+PreGamePrepDescription,トラック最後尾に永久路上スパイクの山を配置した状態で各ゲームを開始する。
+SupaGroFertilizer,スーパー目標達成
+SupaGroFertilizerDescription,目標達成による追加が25％でなく30％に。
+BudgetCashDrops,予算キャッシュ投下
+BudgetCashDropsDescription,キャッシュドロップの値段が20Monkey Money下がる。
+LongerDartTime,長めの停止時間
+LongerDartTimeDescription,停止時間が普通より長く続く。
+PowerfulMonkeyStorm,パワフルモンキー嵐
+PowerfulMonkeyStormDescription,スーパーモンキー嵐が、より大きなダメージをもたらす。
+FitFarmers,元気なお百姓さん
+FitFarmersDescription,モンキー百姓の半径が広がる。
+CheaperLakes,お買い得湖
+CheaperLakesDescription,持ち運び可能な湖の値段が、40 Monkey Money。
+BudgetPontoons,手頃なポンツーン
+BudgetPontoonsDescription,ポンツーンの値段が、40 Monkey Money。
+MaulingMoabMines,打撃的MOAB地雷
+MaulingMoabMinesDescription,MOAB地雷が追加のダメージを与える。
+BiggerCamoTrap,カモフラージュの大型トラップ
+BiggerCamoTrapDescription,カモフラージュワナが、600ブルーン分持続する。
+SupersizeGlueTrap,グルーの大型トラップ
+SupersizeGlueTrapDescription,グルーのトラップが、MOAB級ブルーンをスローダウンできるようになる。しかし、ブルーンが大きいほど、使うグルーの量が増える。
+SupaThrive,スーパー目標達成
+SupaThriveDescription,目標達成による追加が25％でなく30％に。
+,
+Monkey Knowledge,モンキー知識
+Unlock More Amazing Skills,もっとたくさんのすごいスキルをアンロック
+Choose a tower to get started,始めるにはタワーを1つ選択します
+Requires Points,{0}ポイント\n必要
+Complete,クリアしよう
+Needs,ニーズ
+Assign+1,+1割り当てる
+NEW HERO!,新しいヒーロー！
+1 Monkey Knowledge Point!,モンキー知識ポイント1！
+Level Up!,レベルアップ！
+Max Level!,最大レベル！
+Set Round,ラウンドを設定する
+Set Round Description,現在のプレイヤーラウンドを設定してください。プレイを押すと、ラウンド数が増えるのでご注意ください
+Buy Insta Monkeys,インスタモンキーを購入する
+,
+Mode Clicks,CHIMPS
+Mode DoubleMoabHealth,HP二倍のMOAB
+Mode AlternateBloonsRounds,ブルーンラウンドを交互にする
+Mode Impoppable,インポッパブル
+Mode HalfStartingCash,スタート時のキャッシュが半分
+Mode MagicOnly,魔法モンキーだけ
+Mode HalfCash,キャッシュ半分
+,
+Requires internet connection,インターネットへの接続が必須です
+Daily chest countdown,{0}時間{1}分後に次の報酬をもらいに戻ろう！
+Daily challenge countdown,{0}時間{1}分後に次のチャレンジに戻って来る
+,
+// Language,
+Chinese Simplified,簡体字中国語
+Chinese Traditional,繁体字中国語
+Danish,デンマーク語
+Dutch,オランダ語
+English,英語
+French,フランス語
+German,ドイツ語
+Italian,イタリア語
+Norwegian,ノルウェー語
+Portuguese,ポルトガル語
+Russian,ロシア語
+Spanish,スペイン語
+Swedish,スウェーデン語
+Turkish,トルコ語
+Korean,韓国語
+Japanese,日本語
+,
+Backup,バックアップ
+Profile,アカウント
+Copyright,© Ninja Kiwi バージョン{0}
+,
+IAP Failed AppNotKnown,購入できません。開発元が未確認のため開けません。
+IAP Failed NoProductsAvailable,購入できません。購入できる商品がありません。
+IAP Failed PurchasingUnavailable,購入できません。続けるには、デバイス設定のアプリ内購入を有効にしてください。
+NaturesWardTotem,ネイチャーズワードのトーテム
+Natures Ward Totem,ネイチャーズワードのトーテム
+Max Level Reached,最大レベルに達しました
+Marine,海兵隊
+,
+Insta monkey roll,インスタモンキーロール
+,
+// Translated 19/2/2018,
+Game Hints,ゲームヒント
+Unavailable,利用不可
+Auto Start,自動スタート
+Double Cash Mode,ダブル\nキャッシュモード
+Choose a monkey to unlock,アンロックするモンキーを選択
+Level up monkeys,{0}モンキー
+Unlock,アンロック
+Upgrade Locked,ロックされているアップグレード
+Pause,一時停止
+Pause Difficulty,{0}難易度
+Military only,軍人オンリー
+Activated Abilities,有効にした能力
+Unlock at level,レベル{0}でアンロック
+Restore Purchases,購入したアイテムをリストア
+,
+// NEW TEXT TO TRANSLATE,
+,
+// First Time Triggers,
+ft_regrowbloonstitle,再生ブルーン 
+ft_regrowbloonsdescription,再生ブルーン！これらのかわいいハート型のブルーンは、数秒ごとに失った層を再生する。
+ft_camobloonstitle,カモフラージュブルーン
+ft_camobloonsdescription,探知する方法がない限り、カモフラージュブルーンは\nモンキーに影響を受けることはない。例えば、クインシーはレベル5ででき、ダーツモンキーはアイサイトのアップグレードで可能になる。
+ft_leadbloonstitle,鉛ブルーン
+ft_leadbloonsdescription,鉛のブルーン。金属製で、鋭いもので傷つけることはできない。爆弾を試してみよう。
+ft_ceramicbloonstitle,陶器ブルーン
+ft_ceramicbloonsdescription,陶器ブルーンは、硬化粘土の殻で覆われていて、割るには何度かの打たなければならない。
+ft_moabclassbloonstitle,M.O.A.B. 級ブルーン
+ft_moabclassbloonsdescription,MOABブルーンは手ごわいぞ！この空中の恐怖の要塞はたくさん打たないと割れず、また割れる時に陶器ブルーンを放出する。
+ft_purplebloonstitle,紫ブルーン
+ft_purplebloonsdescription,紫ブルーンは2個のピンクブルーンを含んでいるほか、スピーディーで、エネルギー、火炎およびプラズマタイプのすべての効果が効かない。
+ft_activatedabilitiestitle,有効にした能力
+ft_activatedabilitiesdescription,有効にした能力を獲得！君が勝つのを手伝ってくれる強力な効果を一時的に作り出してくれる。使用するときは慎重に選択しよう。再び使えるようになる前に、それぞれクールダウン期間がある。
+ft_blackbloonstitle,黒ブルーン
+ft_blackbloonsdescription,黒ブルーンは小さいけれど、ピンクブルーンが2つ入っている！また、黒ブルーンは爆発の影響を受けない。
+ft_whitebloonstitle,白ブルーン
+ft_whitebloonsdescription,白ブルーンは、黒ブルーンに似ているが、氷の影響を受けない。
+ft_fortifiedbloonstitle,強化ブルーン
+ft_fortifiedbloonsdescription,これは何？これらのブルーンはもっと重装備なので、割るのがもっと難しいい！
+ft_trackremovabletitle,除去できるトラック
+ft_trackremovabledescription,一部のトラックには、コストのために削除できる物体がある。中級以上の難しいトラックで、探してみて。
+ft_autostarttitle,自動スタート
+ft_autostartdescription,自動スタートオンは、各ラウンドが自動的に開始されることを意味します。 オプションメニューでこの設定を変更します。
+ft_bananafarmtitle,バナナ農園
+ft_bananafarmdescription,バナナ農園を獲得！各ラウンドで、これらの農園がバナナを自動的に生産します。バナナをタップすると、バナナがキャッシュに変換されます。待ちすぎは禁物だよ。拾わないと、バナナは腐ってしまう。
+ft_powerstitle,パワー
+ft_powersdescription,パワーを獲得！君が勝つのを手伝ってくれる強力な効果を一時的な作り出しますが、だんだんなくなっていきます。 うまく使ってね！
+ft_monkeyknowledgetitle,モンキー知識
+ft_monkeyknowledgedescription,モンキー知識の秘密をアンロックした！各知識は君のモンキーに永続的なメリットをもたらします。
+ft_sandboxmodetitle,サンドボックスモード
+ft_sandboxmodedescription,ドクターモンキーのブルーンシミュレーターの準備ができた！ここでは、モンキーの組み合わせを試し、彼らにブルーンや特定のラウンドに送りつけることができます。
+ft_ultimatepowertitle,究極のパワー
+ft_ultimatepowerdescription,5段階目のモンキーはゲーム内で一番パワフル。一度にそれぞれ1つの経路でしかプレイできません。
+ft_zomgtitle,Z.O.M.G.
+ft_zomgdescription,確かにこれは、ブルーンが送って来るかもしれない最大のもの？でしょ...？
+ft_badtitle,B.A.D.
+ft_baddescription,これは、ビッグエアーシップ・オブ・ドウーム。 大きく、遅く、そして破壊するのがものすごく難しい。
+ft_loginprompttitle,ログイン
+ft_loginpromptdescription,進捗状況をバックアップするには、Ninja Kiwi Cloudにログインしてください！
+ft_camoremindertitle,警告！ カモフラージュブルーンだ！
+ft_camoreminderdescription,もっとカモフラージュブルーンが来るよ–防御の準備を！カモフラージュブルーンを割るには沢山の方法があるのでこれらのアップグレードを試してみて：ダーツモンキーアイサイト、またはスナイパーモンキー、暗視ゴーグル。アップグレードのアイコンでカモフラージュブルーンの他にも探してみよう。
+ft_upgradesremindertitle,モンキーをアップグレードしよう！
+ft_upgradesreminderdescription,モンキーのアップグレードを永久的解除しましたが、各ゲームにモンキーを適用する必要があります。 今すぐモンキーをタップしてアップグレードを適用してください。
+,
+// Every Time Triggers,
+et_clickstitle,C.H.I.M.P.S.
+et_clicksdescription,BTDマスターの真のテスト。続行、ハートは喪失、所得、モンキー知識、パワーまたは売却すべてが無し。
+et_deflationtitle,デフレーション
+et_deflationdescription,{1}現金でラウンド{0}がら始めますが、それ以上稼ぐことはできません。
+et_apopalypsetitle,アポパリプス
+et_apopalypsedescription,ブルーンのウェーブ数が増えて、各ラウンドの終わりに休みはない。どれくらい進めるかな？\n注意：プレイを選択すると、すぐに保存したゲームが始まります。
+et_freeplaytitle,自由プレイ
+et_freeplaydescription,これはフリープレイモードで、ルールは変更されました！進むほどブルーンはさらに強く、速くなります。できるだけ長くプレイしてみて！
+et_impoppabletitle,インポッパブル
+et_impoppabledescription,絶対ポップ不可能は、君のブルーン割り能力が最大まで試されます。フリープレイルールと難易度のいくつかは、後のラウンドで適用されます。幸運を祈る！
+et_halfcashtitle,キャッシュ半分
+et_halfcashdescription,スタート時、ラウンド終了時、そして全ての収入生成のキャッシュが半分になる。注意：キャッシュドロップと継続時も半分に！
+,
+DailyChallengeLocked,ロック中：最低1基のタワーをアンロックする必要がある
+,
+// IAP Promo Strings - not in-game,
+Pile of Monkey Money IAP Promo,3500 MM特売中！
+Vault of Monkey Money IAP Promo,16000 MM特売中！
+Tier 3 Insta-Towers Pack,10段階目のモンキー3匹、特売中！
+,
+Continue Round,アンロックする必要があります。 {0}
+Continue Saved Game?,ゲームをセーブしますか？
+Overwrite save heading,セーブを上書きしますか？
+Overwrite save details,新しくゲームを始めると、セーブしたゲームは書き換えられます。本当に続行しますか？
+Time remaining,残り時間: {0}
+Daily challenge completed,日替わりチャレンジ完了。次のチャレンジは{0} にアンロックされます。
+Try me in the Next Game!,次のゲームで試してみて！
+GooglePlay login failed,Google Playにログインできませんでした。インターネットとログイン情報をご確認ください。
+Knowledge unlock tip,レベル30からモンキー知識を獲得し始められます。
+Daily challenges unlock at,日替わりチャレンジとイベントがレベル{0}でロック解除
+,
+,
+FriendLiNKLoginRequiredBody,Facebookの友達のスコアを見るにはアカウントが必要です。
+FriendLiNKLoginRequiredTitle,ログイン？
+FriendLiNKLoginFailed,Facebookにログインできませんでした。インターネットとログイン情報をご確認ください。
+Do It,試行
+Restart?,再スタート？
+Continue Details,このラウンドをライフとキャッシュを補充して再試行
+Restart Details,本当に終了して再スタートしますか？
+Insta-Monkey!,インスタモンキー！
+Power!,パワー！
+Optimizing,最適化中...
+Task Load Asset Bundles,新しいコンテンツをダウンロード中…
+Task Load global scene,モンキーをトレーニング中…
+Task Get server time,一休み中…
+Task Set up rendering,ブルーンを膨らませています…
+Task Set up cameras,バナナ集めをしています…
+Task Load game model,ダーツを準備中…
+Task Bake meshes,庭のお手入れ中…
+Task Download sku settings,モンキー太陽神を解放中…
+Task Load fonts,太陽の神を起こしています…
+Task Localise,ヒーローを召喚中…
+Loading Step,{1}のステップ{0} ...
+Task failed,失敗
+downloading,ダウンロード中
+Waiting for internet connection,インターネット接続を待機中...
+parsing,解読
+Back up Successful!,成功！
+Backing Up Data,データをバックアップ…
+Failed to Backup,失敗
+Quit Game,ゲームを終了しますか？
+Quit Question,本当にゲームを終了しますか？
+Quit Cancel,キャンセル
+Quit Confirmed,終了
+IAP Failed PurchasingUnavailableAndroid,Googleアカウントにログインして購入
+Gift received,ギフトを受け取る
+Unlocked,アンロック
+Upgrade info,アップグレード情報
+Tap and hold,タップしてアップグレードアイコンを押して、もっと情報をゲットしよう！
+iveplayedbefore,プレイしたことがあります
+notnow,今はやめておく
+Knowledge Unlock,今すぐ知識をアンロックする
+New Version,新しいバージョン
+Update now,モンキーたちが新しいコンテンツと修正を必要としています。今すぐアップデートしてください！アップデートが無い場合は、以下でヘルプを参照してください。https://ninja.kiwi/btd6_update
+Update soon,新しいアップデートがあります。今すぐゲット！
+keep playing,プレイを続ける
+playing on another device,別のデバイスでログイン中
+Applies To This Monkey Only,このモンキーにのみ適用。
+Applies For This Game Only,このゲームにのみ適用。
+All Knowledge On,モンキー知識を有効化する
+All Knowledge Off,モンキー知識を有効化する
+Bonus Rewards,ボーナス報酬：
+FBFriends,友達
+NewLabel,新
+RateGameTitle,今すぐ評価する！
+RateGameBody,ゲームをお楽しみ頂いていますか？ぜひ評価してください！
+UpdatePanelClose,閉じる
+UpdatePanelUpdate,アップデート
+Advanced Daily Challenge,アドバンスチャレンジ
+Max,最大
+Bloon Health Increased,陶器ヘルス増強
+Bloon Health Decreased,陶器ヘルス減少
+Bloon Speed Increased,ブルーンの速度増加
+Bloon Speed Decreased,ブルーンの速度減少
+Monkey Knowledge Disabled,モンキーの知識が無効
+No Lives Lost,失われた人はいない
+ContinuePrevious,前回の続きを続行する
+Monkeys Excluded,モンキーは除外
+Build Map Object,$ {0}で作り上げる
+Hero Audio Toggle,ヒーローオーディオ
+RequiresBananaFarm,バナナ農園が必要
+Respec All Monkey Knowledge Button,全てのモンキー知識を再スペックする
+Respec Monkey Knowledge Confirm Title,モンキー知識を再スペックしますか？
+Respec Monkey Knowledge Confirm Body,全てのポイントを再配分できるように、モンキー知識を全てリセットする。特定の知識のアンロックに使ったモンキーマネーは、そこに投資された状態のまま。
+Respec Button,再スペック
+Insta Monkeys UI Visibility,インスタモンキー
+CoopQuickMatch,クイックマッチ
+CoopCreateMatch,マッチを作る
+CoopJoinMatch,マッチを合わせる
+CoopTwoPlayer,2 プレーヤー
+CoopThreePlayer,3 プレーヤー
+CoopFourPlayer,4 プレーヤー
+CoopTitle,コープ
+CoopLookingForMatch,ゲームを探しています…
+CoopEnterMatchCode,コードを入力する：
+CoopPlayers,プレーヤー：
+CoopTrackType,マップの難易度：
+CoopTrackDifficulty,ゲームの難易度：
+CoopSettings,設定：
+CoopCopyCode,コードをコピー
+CoopPrivate,プライベート
+CoopPublic,公共
+Mode,ゲームモード
+Ready,準備ができました！
+CoopCalloutTowersPositive,マスタービルダー
+CoopCalloutTowersNegative,少ないほうがいい
+CoopCalloutPopsPositive,ポップマスター
+CoopCalloutPopsNegative,"ポップ平和主義者
+"
+CoopCalloutMOABsPositive,ボススキルス
+CoopCalloutMOABsNegative,MOABは何ですか？
+CoopCalloutEcoPositive,モンキーファイナンシャー
+CoopCalloutEcoNegative,君にはバナナなし
+CoopCalloutAbilitiesPositive,アクチベータ
+CoopCalloutPowersPositive,パワーアップ
+CoopCalloutInstasPositive,インスタ勝者
+CoopMonkeyStar,モンキースター
+CoopStatsTowers,配置されたタワー
+CoopStatsPops,割れたブルーン
+CoopStatsEco,生成されたキャッシュ
+CoopStatsMOABs,割れたMOABs
+CoopStatsAbilities,使用された能力
+CoopStatsPowers,使用されたパワー
+CoopStatsInstas,使用されたインスタ
+TechBot,テックボット
+EnergisingTotem,活動的トーテム
+TechBot Description,テックボットは、最適な効率が得られるようになるとすぐに能力をアクティブにすることができます。
+EnergisingTotem Description,エネルギーをつけましょう！ このトーテムは、範囲内のすべてのサルの攻撃速度を25％増加させます。 5ラウンド持続し、充電できます。
+Recharge,再充電する
+InvalidCode,有効なコードを入力してください
+SearchingForPlayer,プレーヤーを検索中…
+WaitingForPlayer,プレーヤーを待っています…
+Request,$を要求
+CyberQuincySkinDescription,クインシーは、邪悪なDDTによってけがをとき、多くの人が恐怖を感じました。 しかし、モンキー博士は彼らが技術を持っていることを知っていて、復帰することができました。 彼はクインシーであり、進化したクインシーなのです。
+CyberQuincySkinName,サイバークインシースキン
+CashRequested,$ {0}がキャッシュを要求しました
+CashReceived,$ {0}さんから$ {1}キャッシュが送られました
+CountDownTimer,ゲーム開始まであと…
+Achievement 51 Name,協力
+Achievement 51 Description,コープモードで1の地図を倒す
+Achievement 52 Name,4倍の楽しみ
+Achievement 52 Description,4プレーヤーのコープモードで1の地図を倒す
+Achievement 53 Name,三拍子
+Achievement 53 Description,3プレーヤーのコープモードで1の地図を倒す
+Achievement 54 Name,コラボレーション！
+Achievement 54 Description,4人のヒーローを一度に画面に表示する
+Achievement 55 Name,行くことが厳しくなると…
+Achievement 55 Description,協力モードの上級難易度で10のゲームをクリアしよう
+Achievement 56 Name,親切な恩人
+Achievement 56 Description,"コープモードで10,000のキャッシュを与える"
+Achievement 57 Name,寛大な恩人
+Achievement 57 Description,"コープモードで50,000のキャッシュを与える"
+Achievement 58 Name,モンキーの貢献者
+Achievement 58 Description,"コープモードで100,000のキャッシュを与える"
+Achievement 59 Name,モンキーの慈善家
+Achievement 59 Description,"コープモードで1,000,000のキャッシュを与える"
+Achievement 60 Name,パワーシェア
+Achievement 60 Description,コープモードで10のパワーを使用する
+Achievement 61 Name,圧倒的なパワー！
+Achievement 61 Description,コープモードで100のパワーを使用する
+Achievement 62 Name,インスタ防衛
+Achievement 62 Description,コープモードで5つのインスタモンキーを使用する
+Achievement 63 Name,コープポッパー
+Achievement 63 Description,"コープモードで10,000,000のブルーンをポップする"
+StaggeredMortarShot,互い違い
+TT_TargetSelectedPoint,ターゲットを設定
+MortarMessage,[I] でターゲットを設定
+RaceEvent,レースイベント
+TopBadgeRewards,トップバッジの報酬
+RaceButton,レース！　
+RaceRewards,レースの報酬
+Leaderboard,リーダーボード
+RaceEventTrigger,プレイを押すとタイマーが始まります。 時間を改善するために早期に次のラウンドを送りましょう。でも気をつけて！レースゲームは保存されないので、ゲームの途中で終了しないでください。 ベストタイムは、世界のランキングで勝ちます – グッドラック！
+ScientistGwendolinSkinName,科学者グウェンドリンスキン
+ScientistGwendolinSkinDescription,計算が正しければ、このベイビーは摂氏1121度に達すると、重度の焼けたゴムになるのがわかるよ！
+RaceAgain,もう一度レースする
+RaceVictoryText,素晴らしいゴール！ 今すぐリーダーボードに移動するためのベストタイムを打ち破ろう！
+RaceNewBestTime,新しいベストの時間！
+RaceLeaderboard,レースリーダーボード
+RaceCurrentRewards,ただいまの報酬
+RaceRewardsButton,報酬
+Click & Drop,クリックでドロップ
+Screen Size,スクリーンサイズ
+Fullscreen,フルスクリーン
+Moab Health Increased,MOABヘルス増加
+Moab Health Decreased,MOABヘルス減少
+Selling Disabled,売却無効
+Powers Disabled,パワー無効
+No Continues,続行しない
+Switching Resolution Body,解像度を切り替えるには、ゲームをリロードする必要があります。
+Switching Resolution Title,解像度切り替え
+RaceEventBanner,レースイベント開催中
+RaceEventBannerRewards,バッジとトロフィーを獲得しよう！
+RacePreviousBestTime,ベストタイム：
+RaceAgainQuestion,もう一度レースしますか？
+RaceAgainDescription,今すぐレースを行い、時間を上げよう！
+TrophiesEarned,獲得したトロフィー：
+FreeEntryIn,無料エントリーまで：
+RaceSubmissionFail,レース結果を送信できません
+LeaderboardRank,ランク
+LeaderboardPlayerName,プレイヤー名
+LeaderboardBadges,バッジ
+LeaderboardBestTime,ベストタイム　
+RaceEventEndsIn,イベント終了まで：
+LoadingPlayer,ロード中プレイヤー　
+Rank1st,１位
+Rank2nd,２位
+Rank3rd,３位
+RewardsTopPercent,優勝{0}%
+RaceEventEnded,レースイベントは終了しました！
+RaceFinishedPlaceAndTime,最高記録{1}で{0}を終了しました。
+Heartstopper Ability,ハートストッパー
+Sacrificial Totem Ability,犠牲トーテム
+MOAB Hex Ability,MOAB 魔術
+RaceClock,レースクロック
+LoginRequiredTitle,ログインが必要
+LoginRequiredBody,この機能を使うにはログインする必要があります
+EventRewardsTitle,イベント報酬
+TT_FollowMouse,マウスを追う
+SteamLoadingMessage,アセットを解凍中
+SentaiCaptainChurchillSkinName,戦隊チャーチルのスキン
+SentaiCaptainChurchillSkinDescription,超絶メガターボなマンガ的量子銀河レーザー爆弾のパワーのご加護がありますように。
+KartsNDarts,カート＆ダーツ
+Upgrade Path 1,アップグレードパス 1
+Upgrade Path 2,アップグレードパス 2
+Upgrade Path 3,アップグレードパス 3
+ChangeTargeting,ターゲティング変更
+ReverseChangeTargeting,逆ターゲティング変更
+PauseDeselect,ポーズ/選択解除
+PlayFastForward,再生/早送り
+SendNextRound,次のラウンドを送る (レース)
+Activated Ability 1,発動させたアビリティ 1
+Activated Ability 2,発動させたアビリティ 2
+Activated Ability 3,発動させたアビリティ 3
+Activated Ability 4,発動させたアビリティ 4
+Activated Ability 5,発動させたアビリティ 5
+Activated Ability 6,発動させたアビリティ 6
+Activated Ability 7,発動させたアビリティ 7
+Activated Ability 8,発動させたアビリティ 8
+Activated Ability 9,発動させたアビリティ 9
+Activated Ability 10,発動させたアビリティ 10
+Activated Ability 11,発動させたアビリティ 11
+Activated Ability 12,発動させたアビリティ 12
+SendRedBloon,赤ブルーンを送る
+SendBlueBloon,青ブルーンを送る
+SendGreenBloon,緑ブルーンを送る
+SendYellowBloon,黄ブルーンを送る
+SendPinkBloon,ピンクブルーンを送る
+SendBlackBloon,黒ブルーンを送る
+SendPurpleBloon,紫ブルーンを送る
+SendWhiteBloon,白ブルーンを送る
+SendLeadBloon,鉛ブルーンを送る
+SendZebraBloon,シマウマブルーンを送る
+SendRainbowBloon,虹色ブルーンを送る
+SendCeramicBloon,陶器ブルーンを送る
+SendTestBloon,テストブルーンを送る
+SendMoabBloon,MOABブルーンを送る
+SendBfbBloon,BFBブルーンを送る
+SendZomgBloon,ZOMGブルーンを送る
+SendDdtBloon,DDTブルーンを送る
+SendBadBloon,BADブルーンを送る
+RestoreDefaults,デフォルトを復元
+SaveHotkeyChanges,ホットキーの変更を保存しますか？
+Hotkeys,ホットキー
+Monkeys,モンキー
+Gameplay,ゲームプレイ
+Revert,取り消す
+Save,保存
+HotkeyModeDescription,ホットキーが使えるのは、クリック＆ドロップモードだけです
+DemoSplashText,このバージョンのBloons TD 6は、実演目的用に作成されています
+EditorClearSaveProgressWarning,チャレンジには、ゲームプレイを変更する修正が含まれますので、これを行うと現在のゲームで保存されている進捗が失われます
+EditorInfiniteMaxTowers,無制限
+EditorDefaultValue,初期設定
+EditorLoadingChallenge,ロード中…
+EditorGeneratingCode,生成中…
+EditorEnterCode,コードを入力
+EditorShareError,このチャレンジを共有する際に問題が発生しました
+EditorSubmitError,このチャレンジを送信する際に問題が発生しました
+EditorLoadError,このチャレンジをロードする際に問題が発生しました
+EditorLevelLockMsg,チャレンジエディターはレベル{0}でアンロックされます
+EditorCreateChallenge,チャレンジを作成
+EditorPlayChallenge,チャレンジをプレイ
+EditorEditChallenge,チャレンジを編集
+EditorShare,共有
+EditorShareChallenge,チャレンジを共有：
+EditorSubmit,送信
+EditorChallengeCode,チャレンジコード：
+EditorEnterChallengeCode,チャレンジコードを入力：
+EditorSubmissionForm,送信フォーム
+EditorSubmissionDescription,チャレンジをNinja Kiwiに送信すると、将来の毎日のチャレンジまたは上級チャレンジとして考慮されます
+EditorFridayStinger,金曜スティンガー
+EditorRemainAnonymous,匿名でいる
+EditorChallengeEditor,チャレンジエディター
+EditorUndo,元に戻す
+EditorReset,リセット
+EditorRandom,ランダム
+EditorDifficulty,難易度：
+EditorGameMode,ゲームモード：
+EditorStartingCash,スタート時点のキャッシュ：
+EditorStartingLives,スタート時点のライフ
+EditorMaxLives,ライフ数上限：
+EditorStartRound,開始ラウンド：
+EditorEndRound,終了ラウンド：
+EditorMonkeysExcluded,除外するモンキー
+EditorMonkeysIncluded,含めるモンキー
+EditorMaxMonkeys,モンキー数上限：
+EditorAdd,追加
+EditorBloonSpeed,ブルーン速度
+EditorMoabSpeed,Moab速度
+EditorCeramicHealth,陶器ヘルス
+EditorMoabHealth,Moabヘルス
+EditorPowers,パワー：
+EditorSelling,売却：
+EditorMonkeyKnowledge,モンキー知識：
+EditorContinues,続行：
+EditorLockedSubmitButtonDescription,このチャレンジは送信済みです
+EditorLockedShareButtonDescription,チャレンジを保存するには、テストモードで勝利画面に到達できることを証明しなくてはなりません！
+ConflictScreenChoose,保存したゲームを選択
+ConflictThisDevice,このデバイス
+ConflictCloud,クラウド上
+ConflictTimeHours,{0}時間前に保存
+ConflictUseButton,使う
+ConflictNoData,データなし
+ConflictTimeMinutes,{0}分前に保存
+ConflictTimeSeconds,{0}秒前に保存
+ConflictTimeDays,{0}日前に保存
+FasterMoabs,MOABスピード増強
+SlowerMoabs,MOABスピード減少
+BikerBonesSkinName,バイカーボーンのスキン
+BikerBonesSkinDescription,太陽神には、鎖を解かれたバイカーボーンのような憤怒はない！
+PatsPond,パットの池
+InappropriateChallengeName,そんなに不適切でないチャレンジを使って、もう一度試してみて
+DCVictoryBody,おめでとう！{0}をクリアした！
+EditorCreateVictoryBody,おめでとう！ほかの人とチャレンジをシェアできるようになった！
+EditorOlderVersion,このチャレンジは{0}バージョンで作られたため、もうクリアできません
+EditorNewerVersion,このチャレンジはゲームのもっと新しいバージョンで作られたので、このチャレンジをプレイするには最新バージョンに更新してください
+DefeatScreenRetryLastRound,前回のラウンドを再度試みる
+CoopDoubleCash,（シングルプレイヤーのみ）
+EditorThanksForSubmission,送信とBloons TBD6のさらなる改善にご協力ありがとう！あなたのチャレンジが選ばれ、将来のロテーションに登場するのを楽しみにしています！
+SpringSpring,春はわくわくジャンプ
+ObynOceanGuardianSkinName,大洋ガーディアンのスキン
+ObynOceanGuardianSkinDescription,大洋から来たので、大洋へと帰るとしよう。
+CollectionEventHeader,コレクションイベント
+CoopTriggerText,全ての協力プレイゲームでキャッシュとヒーローXPを均等に共有する。現在のゲームでは、これをプレイ中：{0} – {1}
+Achievement 64 Name,ビッグブルーン
+Achievement 64 Description,パットはハグしがいのあるビッグブルーンがお気に入り
+OptionsExtras,エクストラ
+DoubleCashHelper,ここにはダブルキャッシュモードがある
+BigBloonsMode,ビッグブルーン
+CollectionMonkeyText,好きなマップで勝利をおさめ、コレクション報酬を獲得しよう！
+CoopQuickGame,短いゲーム
+CoopMediumGame,中くらいのゲーム
+CoopLongGame,長いゲーム
+CoopContinuePrompt,ゲームの継続まであと…
+CoopRestartPrompt,ゲームの再開まであと…
+CoopFreeplayPrompt,フリープレイ開始まであと…
+CollectionRewardsDelivered,コレクションイベントの報酬が箱から出され、インスタモンキーのインベントリの中にある！
+CoopSyncMessage,他のプレイヤーと同期化中…
+CoopPlayerLeftMessage,がゲームから退出した 
+CollectionEventEnded,コレクションイベントは終了した
+CoopPublicGameStart,ゲームがもうすぐ始まるよ…
+CalloutMasterBuild,マスタービルダー
+CalloutLessIsMore,ほどほどに
+CalloutPopMaster,ポップマスター
+CalloutPopPacifist,ポップ平和主義者
+CalloutBossSkillz,ボススキルず
+CalloutWhatMOABs,MOABって何？
+CalloutMonkeyFinancier,モンキーフィナンシェ
+CalloutNoBananas4U,バナナあげないヨン
+CalloutActivator,アクティベータ
+CalloutPoweredUp,パワーアップ済み
+CalloutInstaWinner,インスタ勝者
+CalloutMasterBuildDesc,{0}基のタワーを設置した
+CalloutLessIsMoreDesc,{0}基のタワーを設置した
+CalloutPopMasterDesc,{0}個のブルーンを割った
+CalloutPopPacifistDesc,{0}個のブルーンを割った
+CalloutBossSkillzDesc,{0}個のMOABを割った
+CalloutWhatMOABsDesc,{0}個のMOABを割った
+CalloutMonkeyFinancierDesc,{0}キャッシュを生成した
+CalloutNoBananas4UDesc,{0}キャッシュを生成した
+CalloutActivatorDesc,{0}個の能力を使った
+CalloutPoweredUpDesc,{0}個のパワーを使った
+CalloutInstaWinnerDesc,{0}匹のインスタモンキーを使った
+CoopLobbyNotFound,ゲームが見つかりません
+CoopLobbyIsFull,ゲームは満員です
+CoopLobbyNotCompatible,ゲームのバージョンに適合性がありませんので、ゲームをアップデートしてみてください。
+CheckInternet,接続できません。インターネットへの接続をご確認ください。
+SacrificialTotem,いけにえのトーテム
+SandboxSetRound,セットラウンド：
+SandboxSpacing,スペーシング：
+SandboxCount,カウント：
+CoopDisconnected,切断された
+CoopDisconnectedMessage,残念ながら、ゲームの接続が切れてしまいました。メインメニューに戻ってください。
+CoopCreatingLobby,ゲームを作成中…
+CoopHostDisconnected,ゲームを作成したプレイヤーとの接続が切れました
+CoopNoPublicOption,これらのゲーム設定は、プライベートマッチでのみプレイできます
+CoopBuildZoneMessage,緑のエリアにモンキータワーを建てよう
+Cargo,カーゴ
+BenJamminSkinName,ノリノリDJベンジャミンのスキン
+BenJamminSkinDescription,このパーティーは、はじけちゃう！
+EditorAllCamo,全て迷彩
+EditorAllRegrow,全て再生
+AllCamoDescription,MOAB以外のブルーンが全て迷彩
+AllRegrowDescription,MOAB以外のブルーンが全て再生
+CoopGiveCashText,与える
+CoopWaitingMessage,他のプレイヤーを待機中…
+CoopReconnectMessage,ゲームに再接続中…
+Achievement 65 Name,錬金術マンとブルーンボーイ
+Achievement 65 Description,ワンボのWにするべきだけど、ミニのMで設定されています
+SmudgeCattSkinName,スマッジキャットの皮
+SmudgeCattSkinDescription,スマッジキャットトの催眠術をかけるようなまなざしは、カニツメブルーンを貫通するよ。彼女は復讐と『キャットト』フードに飢えている。
+Workshop,ワークショップ
+SmallBloonsMode,小さいブルーン
+Achievement 66 Name,2TC
+Achievement 66 Description,モンキータワー2塔だけで、CHIMPSの難易度でゲームを1つクリアする。
+Achievement 67 Name,指パチン
+Achievement 67 Description,ゲーム開始時のちょうど半分のライフとキャッシュでゲームをクリアする。
+Achievement 68 Name,億万長者ビル・ゲゲーツ
+Achievement 68 Description,一度に$50万ドルを協力プレイの仲間に送る
+Achievement 69 Name,ブルーントナ500レース
+Achievement 69 Description,500回のレースにエントリー
+Achievement 70 Name,今年の新人
+Achievement 70 Description,10分以下でレースをクリアする
+Achievement 71 Name,注目のスター
+Achievement 71 Description,5分以下でレースをクリアする
+Achievement 72 Name,ゲームの頂点
+Achievement 72 Description,3分以下でレースをクリアする
+Achievement 73 Name,偉大なるチャレンジ
+Achievement 73 Description,200チャレンジを作成またはプレイする
+Achievement 74 Name,ファビュラス的
+Achievement 74 Description,いずれかのヒーローのスキンを使って100ゲーム勝利する
+Achievement 75 Name,風船割り半島
+Achievement 75 Description,半島で{0}のブルーンを割る
+Achievement 76 Name,ブルーンマスター・ポップロス
+Achievement 76 Description,ブルーンマスター錬金術師で10億ダメージを与える
+Achievement 77 Name,見えてるよ
+Achievement 77 Description,キラキラを使って{0}個のブルーンの姿を出現させる
+Achievement 78 Name,テトリミノ
+Achievement 78 Description,マップ上に一度に50塔のモンキータワーを配置する
+Achievement 79 Name,天国からの小銭
+Achievement 79 Description,サイホン資金を使って{0}を獲得する
+Achievement 80 Name,全ては一つ、一つは一つ
+Achievement 80 Description,いずれかのハード難易度のゲームで、画面上に一度に一塔だけのモンキータワーだけ使ってゲームに勝つ
+Achievement 81 Name,ライフの師匠
+Achievement 81 Description,一ゲームで、一度に1000個のライフを所有する
+Achievement 82 Name,虹こそ魔法
+Achievement 82 Description,マジックモンキーを使って、{0}個のレインボーブルーンを割る
+Emote.Hi,やあ！
+Emote.Welldone,上出来
+Emote.Ready,準備して！
+Emote.Slow,遅いっ！
+Emote.Thanks,どーも
+Emote.AFK,離席中
+Emote.Sorry,ごめん！
+Emote.Goodjob,良くできたね
+Emote.Gg,ナイスゲーム
+Emote.Freeplay,フリープレイ
+Emote.Eco,銀行
+CoopGameUnavailable,このゲームはもう存在しません
+CalloutHeadDetective,主任探偵
+CalloutHeadDetectiveDesc,{0}個の迷彩ブルーンを割った
+CalloutMetalMuncher,メタルハンドラー
+CalloutMetalMuncherDesc,{0}個の鉛ブルーンを割った
+CalloutFumigator,燻蒸消毒者
+CalloutFumigatorDesc,{0}個の再生ブルーンを割った
+CalloutFiredUp,ファイアーアップ
+CalloutFiredUpDesc,{0}個の陶器ブルーンを割った
+CalloutBfbBrawler,BFBブラウラー
+CalloutBfbBrawlerDesc,{0}個のBFBを割った
+CalloutZomgZapper,ZOMGザッパー
+CalloutZomgZapperDesc,{0}個のZOMGを割った
+CalloutDdtDestroyer,DDT破壊者
+CalloutDdtDestroyerDesc,{0}個のDDTを割った
+CalloutMostGenerous,とってもゴージャス
+CalloutMostGenerousDesc,{0}キャッシュをギフトした
+CoopDailyChallenge,日替わりプレイチャレンジ
+Spillway,放水路
+Sentry,見張り番
+SentryBoom,ブーム見張り番
+SentryCrushing,トゲ玉見張り番
+SentryCold,冷たい見張り番
+SentryEnergy,エネルギー見張り番
+SentryParagon,パラゴン見張り番
+EditorNumberOfPlayers,プレイヤー数
+EditorCoopAreaDivision,協力プレイエリア分割
+InvalidTarget,無効なターゲット
+Adora,アドラ
+Adora Short Description,位の高い巫女
+Adora Description,アドラの献身さにより、怒りの復讐でブルーンを撃つことができるようになる。
+Adora Level 1 Description,聖なる稲妻が追跡し破壊する。
+Adora Level 2 Description,攻撃範囲が拡大する。
+Adora Level 3 Description,長い光の尾：短時間の間、攻撃範囲とパワーを大幅に増加して、全てのタイプのブルーンにダメージを与える。
+Adora Level 4 Description,聖なる稲妻をダブルで発射する。
+Adora Level 5 Description,聖なる稲妻がより多くのブルーンを貫通する
+Adora Level 6 Description,一度に3個の聖なる稲妻を発射する。
+Adora Level 7 Description,血の犠牲：ターゲットしたタワーを犠牲にすることで、アドラに大量のXPが与えられるほか、短い間、攻撃範囲と発砲率がブーストされる。
+Adora Level 8 Description,一度に4個の聖なる稲妻を発射する。
+Adora Level 9 Description,攻撃範囲が拡大する。
+Adora Level 10 Description,光の玉：ブルーンを攻撃するパワフルなエネルギー玉を召喚する。
+Adora Level 11 Description,アドラの攻撃速度がアップ。
+Adora Level 12 Description,一度に5個の聖なる稲妻を発射する。
+Adora Level 13 Description,聖なる稲妻がさらに多くのブルーンを貫通する
+Adora Level 14 Description,一度に6個の聖なる稲妻を発射する。
+Adora Level 15 Description,聖なる稲妻が貫通するブルーンの層が一層増え、光の玉が与えるダメージが大きくなる。
+Adora Level 16 Description,長い光の尾が、もっと致命的になる。
+Adora Level 17 Description,アドラの攻撃速度がさらにアップ。
+Adora Level 18 Description,一度に8個の聖なる稲妻を発射する。
+Adora Level 19 Description,攻撃範囲が拡大する。
+Adora Level 20 Description,光の玉が大幅に改善され、発射率、射程、犠牲からのバフの持続時間が増加する。
+Carved,ハロウィン風彫刻
+BloodyPuddles,うざい泥沼
+TechBotRequiresAbility,能力が有効化されたモンキータワーが必要です
+AdorasTemple,アドラの神殿
+WinterPark,冬の公園
+FustyTheSnowmanSkinName,雪だるまのファスティーは
+FustyTheSnowmanSkinDescription,明るく愉快なやつだった
+WorkshopReverseMotor,逆流モーターを有効にする
+WorkshopTrackExtensions,トラック拡張を有効にする
+Achievement 83 Name,奇妙なかわいさ
+Achievement 83 Description,惑星がきちんと並ぶ時
+Achievement 84 Name,ジョッシュの定数
+Achievement 84 Description,CHIMPSの任意のエキスパートマップで、スパイク工場1件に$40、870以上費やしてク、ク、クリアする
+Achievement 85 Name,その代償は？何もかもだ！
+Achievement 85 Description,神殿へ向かうゲームで、全てのタワーを犠牲にする
+Achievement 86 Name,2メガポップ
+Achievement 86 Description,一つのタワーで2百万ダメージ以上を与えてCHIMPSのゲームをクリアする
+Achievement 87 Name,クレートの時間
+Achievement 87 Description,任意のコレクションイベントでダイアモンドのクレートを開封する
+Achievement 88 Name,大混乱の枢軸
+Achievement 88 Description,一つのCHIMPSゲームで、T5スナイパーを各種配置する
+Achievement 89 Name,タワーキーパー
+Achievement 89 Description,ある時点で200のインスタモンキーをインベントリで所有する
+Achievement 90 Name,一年が進行中
+Achievement 90 Description,デイリー宝箱を365回開封する
+Achievement 91 Name,カリ・マアアアアアア
+Achievement 91 Description,1ラウンドでアドラに10レベル分獲得させる
+Blood Sacrifice Ability,血の犠牲
+Blood Sacrifice Ability Description,ターゲットしたタワーを犠牲にすることで、アドラに大量のXPが与えられるほか、短い間、攻撃範囲と発砲率がブーストされる。
+The Long Arm of Light Ability,長い光の尾
+The Long Arm of Light Ability Description,攻撃範囲とパワーが短時間大きくなり、全タイプのブルーンにダメージを与える。
+Ball of Light Ability,光の玉
+Ball of Light Ability Description,エネルギーのパワフルな玉をもたらし、ブルーンを打ち落とす。
+SunAvatarMini,太陽のアバター
+TrueSunAvatarMini,太陽のアバター
+ComeOnEverybody,みんな、注目！
+ComeOnEverybodyDescription,プライマリタワーのティアが3以下の場合、攻撃が5%スピードアップし、もしティア3または4の場合、コストも5%減る。
+Wingmonkey,ウィングモンキー
+WingmonkeyDescription,複数のモンキーエースが段階攻撃に出るように調整する高度飛行経路作り
+TT_Wingmonkey,ウィングモンキー
+TinyTornadoes,ミニ竜巻
+TinyTornadoesDescription,ドルイドの竜巻が終わるとき、3つの小さい竜巻をスポーンさせる
+HealthyBananas,ヘルシーバナナ
+HealthyBananasDescription,マーケットプレイスがラウンドごとに1つのライフを、セントラルマーケットでは3つ生成するようになる
+WeakPoint,弱点
+WeakPointDescription,全てのヒーローが陶器および強化ブルーンに₊1のダメージを与える
+WolfpackQuincySkinName,オオカミの群れクインシー
+WolfpackQuincySkinDescription,ハンターたちが皆強く、そして群れはさらに強かったいにしえの野生の時代の名残、その名もクインシー、クインシーの先祖。
+Infernal,地獄的
+DownloadButton,ダウンロード
+DownloadDescription,追加ファイルをダウンロード中です。Wi‐Fiを推奨します。データサイズは{0}MB
+ViewCollectionButton,コレクションを見る
+ViewInventoryButton,インベントリを見る
+CollectionDescription,インスタモンキーは使用後もコレクションに表示される。
+CollectionNoInventory,イベントやチャレンジ、そして日替わり宝箱から回収したインスタモンキーは、ここに表示される。
+MatchIncompatible,ゲームタイプに互換性がありません
+CollectionEventBonusRewards,ボーナス報酬
+SteamOverlay,購入するには、Steamオーバーレイとログインが必要です。
+CollectionEventFeaturedInstas,注目のインスタ
+CollectionEventChangesIn,変更まであと：
+CollectionEventChooseInsta,注目のインスタを選択
+JoanOfArcAdoraSkinName,アドラのジャンヌダルク
+JoanOfArcAdoraSkinDescription,全ての戦いは、まず初めに心の中で勝ち負けが決まる。
+EditorRules,ルール
+EditorModifiers,変更子
+PathRestricted,経路は規制されています
+UpgradeRestricted,アップグレードは制限されています
+ChallengeEditorRestrict,制限
+ConfirmApplyAll,これらの制限を利用可能なモンキータワーに適用しますか？
+ConfirmResetAll,利用可能なモンキータワーを全て5-5-5にリセットしますか？
+Geared,ギアアップ
+ChallengeEditorTowerRestrictions,タワーの制限
+ChallengeEditorApplyAll,全て適用
+ChallengeEditorResetAll,全てリセット
+CandyFalls,キャンディーの滝
+HarlegwenGwendolinSkinName,クレイジーグウェンのスキン
+HarlegwenGwendolinSkinDescription,じらせることで有名！
+CoopLobbyHackerDetected,ゲームに参加できません、互換性の不一致です。ヘルプは以下をご覧ください：https://ninja.kiwi/btd6_coop
+TechBotSetAmbush,待ち伏せ攻撃をしかける
+TechBotSetAmbushInstruction,トラック付近の待ち伏せ攻撃エリアを選択
+AmbushTech,待ち伏せ攻撃工兵
+AmbushTechDescription,工兵ロボットがブルーンが特定のトラック地域に入った時のみトリガーする標的オプションを獲得する。
+DoorGunner,ドア射撃手
+DoorGunnerDescription,特別風船割り作戦ヘリで、ティア4以下のモンキータワーがトランジット中にブルーンを攻撃できるようにする。
+DoorGunnerDenied,このタワーはドア射撃手にできない
+AmbidextrousRangs,両利きブーメラン
+AmbidextrousRangsDescription,知識と訓練でブーメランモンキーが照準によって利き手を変えて、最適なブーメラン攻撃ができるようになる。
+BoomerangTargetingSwitchHands,スイッチハンド
+VineRupture,ツル断絶
+VineRuptureDescription,全てのトラック上のツルを破壊する新しい能力を森の精ドルイドに与え、鉛以外の全ブルーンに大打撃を与える。新しいツルは、断絶後に再生する。
+BankDeposits,銀行入金
+BankDepositsDescription,ゲーム内キャッシュにあるお金からモンキーバンクへの入金を受け付ける。
+MonkeyBankDeposit,入金
+Achievement 92 Name,ゴールデンチケット
+Achievement 92 Description,ブルンパ、ルンパ、ドンパ、デ、ドン！
+SmallMonkeysMode,スモールモンキー
+CaveMonkey,洞窟モンキー
+DarkKnightDarkshift,[I]で範囲内にダークシフト
+DarkChampionDarkshift,[I]で任意の有効な場所にダークシフト
+SmallTowersMode,スモールモンキータワー
+BigTowersMode,ビッグモンキータワー
+UpdatePopupTitle,アップデート27！
+UpdatePopupDescription,エピックボスサイズのコンテンツアップデート！\n• ボスブルーンイベントが到着しました！ 誰がブルーナリウスに挑戦しますか？！\n• パラゴンモンキー！ ダーツとブーメランの新しいパラゴンティアをお試しください！\n• 沼地に勇敢に立ち向かうの新しい中級マップ：ブルーナリウスプライム \n• 新しいトロフィーストアのアイテム：新しいプロフィールバナーを含む！\ n•協力プレイゲーム再参加しよう！\n•新規の実績と報酬！\n• バランス変更：一部のタワーで大きな新規改善。パッチノートで詳細を確認してください
+ResetDailyChest,日替わり宝箱をリセット
+JukeboxName,ジュークボックス
+EnableFunction,有効化
+JukeboxSongs,曲
+JukeboxPlaylist,プレイリスト
+JukeboxAddAll,全て追加
+JukeboxRemoveAll,全て削除
+MonkeysLeft,残りのモンキー
+ChallengeRules,チャレンジルール
+JukeboxMusicFiestaMain,フィエスタフラメンコ
+JukeboxMusicSunshineMain,サンシャインセレナーデ
+JukeboxMusicSunsetMain,サンセットサンバ
+JukeboxMusicTropicalMain,トロピカルカーニバル
+JukeboxMusicTribesMain,トライブ＆トリビューレション
+JukeboxMusicWinterMain,ウィンターナイト
+JukeboxMusicJazzMain,ジャズテーマ
+DoorGunnerSelect,ドア砲手としてのタワーを選択
+PlayerStatsSettings,プレイヤー統計
+PlayerStatsPublicStats,パブリック統計
+HiddenAchievements,隠れ実績
+PlayerStatsTopHeroes,トップヒーロー
+PlayerStatsTopMonkeys,トップモンキー
+PlayerStatsGamesPlayed,プレイしたゲーム
+PlayerStatsGamesWon,勝利したゲーム
+PlayerStatsHighestRound,最高ラウンド
+PlayerStatsMonkeysPlaced,配置済みモンキー
+PlayerStatsPopCount,割った数の合計
+PlayerStatsCoopPopCount,協力プレイで割った数の合計
+PlayerStatsCamoPopped,割った迷彩ブルーン
+PlayerStatsLeadPopped,割った鉛ブルーン
+PlayerStatsPurplePopped,割った紫ブルーン
+PlayerStatsRegrowPopped,割った再増殖型ブルーン
+PlayerStatsCeramicPopped,割った陶器ブルーン
+PlayerStatsMoabsPopped,割ったMOAB級
+PlayerStatsBfbsPopped,割ったBFB
+PlayerStatsZomgsPopped,割ったZOMG
+PlayerStatsDdtsPopped,割ったDDT
+PlayerStatsBadsPopped,割ったBAD
+PlayerStatsBloonsLeaked,逃したブルーン
+PlayerStatsCashGenerated,生成したキャッシュ
+PlayerStatsCashGifted,ギフトしたキャッシュ
+PlayerStatsAbilitiesUsed,使った能力
+PlayerStatsPowersUsed,使ったパワー
+PlayerStatsInstaMonkeysUsed,使ったインスタモンキー
+PlayerStatsDailysOpened,開いた日替わり報酬宝箱
+PlayerStatsChallengesCompleted,クリアしたチャレンジ
+PlayerStatsMaxPublicSelected,選択したパブリック統計は上限です。新しいパブリック統計を追加するには、一つ以上選択を取り消してください。
+PlayerStatsOdysseysCompleted,クリアしたオデッセイ
+PlayerStatsMedals,メダル
+PlayerStatsAvatar,アバター
+PlayerStatsOverallStats,全体の統計
+PlayerStatsSharing,シェア中{0}/7
+JukeboxMusicThemeMain,メインテーマ
+et_odysseytitle,オデッセイイベント！
+et_odysseydescription,ようこそ！オデッセイはマップやチャンレジと連結したセットで、トロフィーや他の報酬があります。主要なルール：\n• ライフは全マップを通じて共有されます\n•オデッセイがいったん始まると、最初からやり直ししない限とクルーや難易度を変更できません。\n• 最終マップをクリアすると、トロフィーやほかの報酬を獲得できます\n• トロフィー報酬は累世しません。トロフィー数が最も多いのは、ハードオデッセイです 最大の報酬があるのは、ハードオデッセイです
+OdysseyEventName,オデッセイイベント
+OdysseyThemeCustomRules,カスタムルール
+OdysseyThemeRapidBloons,スピーディーブルーン
+OdysseyThemeNoReturn,返品ポリシーはありません
+OdysseyThemeInstructions,説明は含まれません
+OdysseyThemeFasterHigher,もっと速く、もっと高く、もっと強く。
+OdysseyThemeGottaGoFast,はやく行かなくちゃ
+OdysseyThemeAllCamo,いつもぜんぶ迷彩
+OdysseyThemeAllRegrow,いつもぜんぶ再増殖
+OdysseyThemeFastTrack,ファーストトラック
+OdysseyThemeHighlander,ハイランダーのオデッセイ
+OdysseyThemeMonkeyTeams,モンキーチーム
+OdysseyThemeExtremeOdyssey,究極のオデッセイ
+OdysseyLives,ライフ数：
+OdysseyLife,ライフ{0}個！
+OdysseyLivesLeft,残りのライフ数：
+OdysseyStart,オデッセイを開始
+CollectAll,全て回収
+OdysseyThemeSlowButDeadly,ゆっくりだけど致命的
+OdysseyIslandRules,島の掟
+OdysseyCrew,クルー
+OdysseyCrewDetails,クルー詳細
+OdysseyCrewDetailsSubtext,運命に選ばれたパワーやモンキーたちで、素晴らしいクルーを作ろう
+OdysseySeats,席数: {0}
+OdysseyMax,上限: {0}
+OdysseyPowersAvailable,利用可能なパワー：
+OdysseySpaces,空席数：{0}
+OdysseySelectCrew,クルーを選ぼう
+OdysseyTotal,合計：{0}
+OdysseyPlay,プレイ
+OdysseyContinue,オデッセイを続ける
+OdysseyAddCrew,オデッセイを開始するには、クルーにモンキーをもっと追加してください
+LeaderboardHacker,データが見つかりません。
+Bazaar,バザール
+FloodedValley,洪水の谷
+AdmiralBrickell,ブリッケル提督
+AdmiralBrickell Short Description,海軍司令官
+AdmiralBrickell Description,全ての水上ベースのモンキーに指令を与え、確固とした勝利へと導こう。配置には水が必要。
+AdmiralBrickell Level 1 Description,パワフルな海の地雷を配置し、ブルーンを見つけて破壊せよ。
+AdmiralBrickell Level 2 Description,攻撃速度が増加。
+AdmiralBrickell Level 3 Description,海軍戦術－短時間の間、ブリッケル提督と付近の水ベースのモンキーの攻撃速度を大幅にアップする。
+AdmiralBrickell Level 4 Description,海の地雷の破裂パワーが増える。
+AdmiralBrickell Level 5 Description,海軍戦術では、破裂パワーが増え、影響を受けたモンキーが迷彩を除く全てのブルーンに命中できるようになる。
+AdmiralBrickell Level 6 Description,海の地雷とピストル攻撃のダメージが増える。
+AdmiralBrickell Level 7 Description,迷彩ブルーン検知と攻撃範囲が増える。
+AdmiralBrickell Level 8 Description,海軍戦術で、影響を受けたモンキーが迷彩ブルーンに命中できるようになる。
+AdmiralBrickell Level 9 Description,海の地雷が追加ダメージを与える。
+AdmiralBrickell Level 10 Description,メガマイン：任意の水域に、MOABでトリガーし付近のブルーンをマヒさせる破壊的な機雷を展開させる。メガマインは3ラウンドの間、継続する。
+AdmiralBrickell Level 11 Description,海の地雷の展開率と展開スピードが、さらに速くなる。
+AdmiralBrickell Level 12 Description,ピストル攻撃のスピードとダメージを増え、海の地雷がダメージを増える。
+AdmiralBrickell Level 13 Description,メガ地雷のクールダウンが短縮。
+AdmiralBrickell Level 14 Description,海軍戦術の期間が延長。
+AdmiralBrickell Level 15 Description,改良版海の地雷は爆破がさらに大規模で、黒ブルーンにダメージを与え、迷彩ブルーンの迷彩効果を除去する。
+AdmiralBrickell Level 16 Description,攻撃と海の地雷の展開範囲が、少し増える。
+AdmiralBrickell Level 17 Description,海の地雷が及ぼすダメージが増える。
+AdmiralBrickell Level 18 Description,メガ地雷のクールダウンが、さらに短縮。
+AdmiralBrickell Level 19 Description,海軍戦術があらゆる場所の水ベースのタワーに影響を与える。
+AdmiralBrickell Level 20 Description,メガマインが与えるダメージは大きく増大しているほか、マヒもより長くなる。
+btd6_moremoneypack,もっとマネーパック
+btd6_moremoneypack Description,お金をもっとスピーディーに取得するための、正しいパワー。キャッシュ投下が20、モンキー百姓が5人、目標達成が5個！期間限定オファー！
+HeroesQuincyCyberQuincyPlacementFireworksName,サイバークインシー花火の設置とアップデート
+HeroesQuincyCyberQuincyPlacementFireworksDescription,クインシーが登場すると花火の時間だって、誰もが知っている。サイバークインシーのみ
+HeroesAdoraPlacementSunbeamName,アドラの日光の配置とアップデート
+HeroesAdoraPlacementSunbeamDescription,やっぱりアドラには空中に浮くような登場がお似合い。オリジナルのアドラのみ
+HeroesChurchillPlacementTankDropName,チャーチルタンク投下の配置とアップデート
+HeroesChurchillPlacementTankDropDescription,65トンのチャーチルを戦闘に投入するほど、素敵なことは他にない。オリジナルのチャーチルのみ
+HeroesBenjamminDJSkinPlacementPartyLightsName,DJベンジャミンのパーティーライトの配置とアップデート
+HeroesBenjamminDJSkinPlacementPartyLightsDescription,完全なパーティーライトなしにDJを働かせないで。DJベンジャミンのみ。
+HeroesStrikerJonesPlacementParadropName,ストライカージョーンズのパラシュート投下の配置とアップデート
+HeroesStrikerJonesPlacementParadropDescription,かっこいいモンキーは、みんなパラシュートで登場する。オリジナルのストライカージョーンズのみ
+HeroesQuincyPetDadOfQuincyName,クインシーパパのペット
+HeroesQuincyPetDadOfQuincyDescription,クインシーの息子は、クインシーの父なくして、あり得ない。オリジナルのクインシーのみ
+HeroesGwendolinPetFirefoxName,グウェンドリンのファイアーフォックスペット
+HeroesGwendolinPetFirefoxDescription,このかわいらしいファイアーフォックスは、いつもグウェンのそばにいる。オリジナルのグエンドリンのみ
+BloonsMOABSkinFootballName,フットボールMOABの競技場
+BloonsMOABSkinFootballDescription,MOABがフットボールみたいに見えたら、迎撃も簡単に思えるかも
+BloonsBFBSkinPizzaName,ピザスライスBFB
+BloonsBFBSkinPizzaDescription,BFBをピザにできたら、飛行船の広告なんてもう要らないね
+BloonsZOMGSkinWatermelonName,スイカZOMG
+BloonsZOMGSkinWatermelonDescription,もっと割りたい衝動にかられちゃう
+BloonsMOABSkinMaulerName,モーラーMOAB
+BloonsMOABSkinMaulerDescription,倒せないなら、仲間になっちゃえ
+BloonsMOABSkinPufferFishName,フグMOAB
+BloonsMOABSkinPufferFishDescription,フグMOABは爆破する前に自分で膨れ上がる
+BloonsAllBloonsDecalGooglyEyesName,ギョロメのブルーン
+BloonsAllBloonsDecalGooglyEyesDescription,通常ブルーンやMOAB級ブルーンに自然な感じにくっついている
+BloonsDDTSkinSharkName,シャークDDT
+BloonsDDTSkinSharkDescription,君のことを殺すか分からないから、どうせならDDTみたいな見かけにしてみた
+BloonsAllBloonsPopsConfettiName,ポップFXのコンフェッティ
+BloonsAllBloonsPopsConfettiDescription,特別なコンフェッティ割りと音響があったら、モンキーは仕事を失ってしまう
+BloonsBADSkinPinataName,ピニャータBAD
+BloonsBADSkinPinataDescription,キャンディポップFX付きの巨大な紫のピニャータほど恐ろしいものはない
+CoopEmoteAnimationDiscoBallName,ミラーボールアニメーション
+CoopEmoteAnimationDiscoBallDescription,協力プレイゲームにミラーボールを投下して、キラキラにしよう。DJベンジャミンのお気に入りのゲームプレイ効果
+CoopEmoteAnimationConfettiName,コンフェッティ大砲のアニメーション
+CoopEmoteAnimationConfettiDescription,協力プレイゲーム中にコンフェッティ大砲を発砲しよう。ゲームプレイ効果はない。モンキーたちがひそかに喜ぶ。
+CoopEmoteTextAmazingName,アメージングのテキストエモーティ
+CoopEmoteTextAmazingDescription,他の協力プレイヤーにプレイがアメージングだったと伝えたり、自分の行いがアメージングだったりを伝えてみよう。つまり、君の存在を彼らが一層ありがたがるてわけ
+CoopEmoteTextPerfectTimingName,完璧タイミングのテキストエモーティ
+CoopEmoteTextPerfectTimingDescription,しっかりしたプレイに、完璧タイミングの声がけをしよう！皮肉な使い方をする機会もある
+CoopEmoteAnimationSirenName,サイレン効果音
+CoopEmoteAnimationSirenDescription,サイレンをオンにして、協力プレイチーム仲間に差し迫る破滅を警告しよう！あるいは、昼休みを告げるのもアリ
+CoopEmoteAnimationLoveHeartsName,ラブハートのアニメーション
+CoopEmoteAnimationLoveHeartsDescription,ふわふわ浮くハートほど、協力プレイヤーたちに君の愛情を伝えられるものはない。ゲームプレイ効果なし
+CoopEmoteIconNoCashDropsName,キャッシュ投下なしアイコンのエモーティ
+CoopEmoteIconNoCashDropsDescription,本当に本当にゲーム開始時のキャッシュ投下が欲しくない時のために。または、反対に使ってキャッシュをゲット
+CoopEmoteTextWhyName,なぜ！？テキストエモーティコン
+CoopEmoteTextWhyDescription,なぜなら、どんなに避けようとしても、たまには聞かなくちゃならない時もあるから
+CoopEmoteSoundAirhornName,エアホーン効果音
+CoopEmoteSoundAirhornDescription,これを持つべき妥当な理由はないけれど。悪い理由しかないけど、でも、楽しいかも…
+CoopEmoteTextAllIsFineName,全て大丈夫！のテキストエモーティ
+CoopEmoteTextAllIsFineDescription,これを出してスクショする機会はたくさんあるよ、ミームジェネレーターはもう要らない
+CoopEmoteIconStopName,ストップのアイコンエモーティ
+CoopEmoteIconStopDescription,この動く大きな赤い八角は、ブルーンやしけたプレイを止める方法を提供してくれる
+CoopEmoteIconDangerName,危険アイコンのエモーティ
+CoopEmoteIconDangerDescription,この動く危険デザインは、恐ろしい物への警告だ（注：チームメイトによる、あまりよくない選択も含む）。ゲーム内のアップグレードパネルでモンキーネームを編集し、メインメニューのプロフィールでステータスを確認しよう。
+GameUIUpgradesDisplayNamedMonkeysName,モンキーネーム
+GameUIUpgradesDisplayNamedMonkeysDescription,各モンキータワーの種類からモンキーの名前を一つ言ってみて！タイプに関わらず、一位になったモンキーがモンキーとして指名され、ライフタイムを通じてステータスが記録されます！
+TrophyHeader,トロフィーストア
+TrophyTabHeroes,ヒーロー
+TrophyTabMonkeys,モンキー
+TrophyTabBloons,ブルーン
+TrophyTabCoop,協力
+TrophyTabGameUI,ゲーム＆UI
+TrophyTabFeatured,特徴
+TrophyTabInventory,インベントリ
+TrophyTrophiesEarned,獲得したトロフィー：
+Naval Tactics Ability,海軍戦術
+Naval Tactics Ability Description,短時間の間、付近の水ベースのモンキーの攻撃速度を大幅にアップする。
+Mega Mine Ability,メガ地雷
+Mega Mine Ability Description,MOABでトリガーし付近のブルーンをマヒさせる破壊的なメガマインを展開させる。
+Confirm,確認
+PlayerStatsTimesPlaced,配置した回数
+Trophies,トロフィー
+RewardsTop50,トップ50
+OdysseyMapComplete,{0}の島をクリア！
+OdysseyComplete,オデッセイクリア！
+HeroesQuincyCyberQuincyPlacementFireworksShortName,サイバー花火
+HeroesAdoraPlacementSunbeamShortName,アドラ・サンビーム
+HeroesChurchillPlacementTankDropShortName,チャーチル戦車ドロップ
+HeroesBenjamminDJSkinPlacementPartyLightsShortName,DJベンのパーティーライト
+HeroesStrikerJonesPlacementParadropShortName,ストライカー・パラドロップ
+HeroesQuincyPetDadOfQuincyShortName,クインシーペットのパパ
+HeroesGwendolinPetFirefoxShortName,グウェン・ファイヤーフォックス・ペット
+BloonsMOABSkinFootballShortName,フットボールMOAB
+BloonsBFBSkinPizzaShortName,ピザスライスMOAB
+BloonsZOMGSkinWatermelonShortName,スイカZOMG
+BloonsMOABSkinMaulerShortName,マウラーMOAB
+BloonsMOABSkinPufferFishShortName,フグMOAB
+BloonsAllBloonsDecalGooglyEyesShortName,ぐるぐる目玉
+BloonsDDTSkinSharkShortName,シャークDDT
+BloonsAllBloonsPopsConfettiShortName,お菓子ポップFX
+BloonsBADSkinPinataShortName,ピニャータ―BAD
+CoopEmoteAnimationDiscoBallShortName,ミラーボール
+CoopEmoteAnimationConfettiShortName,コンフェティ大砲
+CoopEmoteTextAmazingShortName,アメージングテキスト
+CoopEmoteTextPerfectTimingShortName,パーフェクトタイミングテキスト
+CoopEmoteAnimationSirenShortName,サイレン
+CoopEmoteAnimationLoveHeartsShortName,ラブハート
+CoopEmoteIconNoCashDropsShortName,キャッシュ投下無し
+CoopEmoteTextWhyShortName,なぜ？テキスト
+CoopEmoteSoundAirhornShortName,空中
+CoopEmoteTextAllIsFineShortName,万事順調
+CoopEmoteIconStopShortName,ストップ
+CoopEmoteIconDangerShortName,危険
+GameUIUpgradesDisplayNamedMonkeysShortName,モンキーネーム
+GameUIMusicTrackMusicTitleFiestaMixName,ジュークボックス：メインテーマ‐フィエスタミックス
+GameUIMusicTrackMusicTitleFiestaMixShortName,メイン-フィエスタ
+GameUIMusicTrackMusicTitleFiestaMixDescription,パーティータイム・メインテーマのリミックスで踊りながらプレイしよう。\nメインメニューの設定のジュークボックスで音楽を有効にしよう
+GameUIMusicTrackMusicSunshineGameboyMixName,ジュークボックス：サンシャインセレナーデ‐ゲームボーイミックス
+GameUIMusicTrackMusicSunshineGameboyMixShortName,セレナーデ‐ゲームボーイ
+GameUIMusicTrackMusicSunshineGameboyMixDescription,サンシャインセレナーデが伝統的なリミックスをチャネリングするので、8ビット通りの旅を楽しもう。\nメインメニューの設定のジュークボックスで音楽を有効にしよう
+GameUIMusicTrackMusicTropicalComplextroMixName,ジュークボックス：トロピカルカーニバルーコンプレクストロ・ミックス
+GameUIMusicTrackMusicTropicalComplextroMixShortName,カーニバルーコンプレクストロ
+GameUIMusicTrackMusicTropicalComplextroMixDescription,モンキーたちは、ノリノリのコンプレクストロに合わせて割るのが好き、そしてトロピカルカーニバルリミックスはいつも期待に応えてくれる。n\メインメニューの設定のジュークボックスで音楽を有効にしよう
+GameUIMusicTrackMusicTribesFunkedMixName,ジュークボックス：トライブ＆トリビュレ―ション‐ファンキーミックス
+GameUIMusicTrackMusicTribesFunkedMixShortName,トライブ‐ファンキー
+GameUIMusicTrackMusicTribesFunkedMixDescription,ファンキー要素なしに、こんなにたくさんのモンキーを持つなんて不可能。幅広い襟と金のチェーンを身にをつけて、このグルービーリミックスに合わせて割っていこう。n\メインメニューの設定のジュークボックスで音楽を有効にしよう
+GameUIProfileAvatar13Name,カスタムアバター‐バイカーボーン
+GameUIProfileAvatar13ShortName,バイカーボーンのアバター
+GameUIProfileAvatar13Description,「我こそ復讐のモンキーなり！」n\メインメニューのアバターポートレイトで、プレイヤーアバターを設定しよう
+GameUIProfileAvatar14Name,カスタムアバター‐変身トニック錬金術師
+GameUIProfileAvatar14ShortName,変身アバター
+GameUIProfileAvatar14Description,最高のトニックとは強いトニック。n\メインメニューのアバターポートレイトで、プレイヤーアバターを設定しよう
+GameUIProfileAvatar15Name,カスタムアバター‐森の精のドルイド
+GameUIProfileAvatar15ShortName,森のドルイドのアバター
+GameUIProfileAvatar15Description,ドルイド的な平静と自然との一体感。n\メインメニューのアバターポートレイトで、プレイヤーアバターを設定しよう
+GameUIProfileAvatar16Name,カスタムアバター‐ゲットしよう！パット
+GameUIProfileAvatar16ShortName,パットファッツィーのアバター
+GameUIProfileAvatar16Description,これほどのジャイアントモンキーは無いのでは。n\メインメニューのアバターポートレイトで、プレイヤーアバターを設定しよう
+GameUIProfileAvatar17Name,カスタムアバター‐気取ったプロフィールのエジリ
+GameUIProfileAvatar17ShortName,エジリのアバター
+GameUIProfileAvatar17Description,今までで最高に素敵なエジリ。n\メインメニューのアバターポートレイトで、プレイヤーアバターを設定しよう
+GameUIProfileAvatar18Name,チャーチルのアバター‐チャーチルのアクション
+GameUIProfileAvatar18ShortName,チャーチルのアバター
+GameUIProfileAvatar18Description,戦火にあるモンキーヒーローたちにこのオマージュを表示することは、愛国者としての義務かもしれない。n\メインメニューのアバターポートレイトで、プレイヤーアバターを設定しよう
+MonkeyNameHeader,モンキーネームを編集
+MonkeyNameInstruction,それぞれの種類の初モンキーに、カスタムネームを選ぼう。適切に表示されるために、名前は20文字そして2行にしよう。行を分けるにはスペースを使おう
+OdysseyCompleteDescription,おめでとう、勇敢な冒険者よ！おっでっ性をクリアしたので、これらの報酬を獲得しました！
+HeroBoosterDescription,今すぐにヒーローをレベル10にブーストアップする？
+InappropriateNamedMonkeyName,もっと適切なモンキーネームを選んでください
+PatchNotesLink,完全なアップデートについては、こちらでご確認ください
+TrophyPurchaseConfirmation,{1}個のトロフィーで{0}を買いますか？
+TrophyPurchaseInsufficient,このアイテムを買うのに十分なトロフィーがありません。レースやオデッセイモードで、もっとトロフィーを獲得しよう。
+TrophyStoreBought,購入済み
+LotusIsland,ロータスアイランド
+OctoJonesStrikerJonesSkinName,オクトジョーンズのスキン
+OctoJonesStrikerJonesSkinDescription,我こそが海なり！
+OdysseyRestartVoyage,航海を初めらやり直す
+CoopEmoteTextAmazingWord,アメージング！
+CoopEmoteTextPerfectTimingWord,パーフェクトタイミング！
+CoopEmoteTextWhyWord,なぜ？！
+CoopEmoteTextAllIsFineWord,万事順調
+PlayerStatsTimesUpgraded,アップグレードの回数
+PlayerStatsTimesSacrificed,犠牲の回数
+TrophyStoreInfoHeader,トロフィーストア情報
+TrophyStoreInfoBody,トロフィーストアには、もっと素敵なスキンアップグレードがたくさん！\n• オデッセイをクリアしたり、レースで上位入りしてトロフィーを獲得しよう\n• 購入したアイテムのほとんどは、インベントリタブで有効にしたり無効にしたりできます\n• 購入した曲はジュークボックスに表示されます\n• 購入したアバターは、メインメニューのプロフィールに表示されます\n• ネームを付けたモンキーは、ゲーム内のアップグレードパネルで編集できます
+RestartOdysseyBody,本当にオデッセイをやり直しますか？
+OdysseyBannerRewards,報酬やトロフィーを獲得しよう！
+UpdateNotes,アップデートノート
+OdysseyEventEnded,オデッセイイベントが終了しました！
+NamedMonkeysAll,全て
+NamedMonkeysTitle,名前を付けたモンキー
+PlayerStatsLifetimeTrophies,生涯トロフィー
+OdysseyCompletedRewards,コンプ済み！
+OdysseyCrewReset,本当にクルーをリセットしたいのですか？
+Etienne,エティエンヌ
+Etienne Short Description,ドローンディレクター
+Etienne Description,このハイテクヒーローは、リモコンドローンでどこからでもブルーンを追跡できる。
+Etienne Level 1 Description,致命的なミニドローンを飛ばし、ブルーンを襲撃する。
+Etienne Level 2 Description,エティエンヌの範囲が拡大した。
+Etienne Level 3 Description,ドローンの群れ：エティエンヌが追加で4機のドローンを飛ばし、大々的にブルーン割りをする。
+Etienne Level 4 Description,ドローンの割るパワーが増大。
+Etienne Level 5 Description,ドローンの攻撃速度が増加し、赤外線カメラで迷彩ブルーンを撃てるようになる。
+Etienne Level 6 Description,ドローンの群れの能力クールダウンが短縮される。
+Etienne Level 7 Description,エティエンヌが一度に2機のドローンをコントロールするようになる。
+Etienne Level 8 Description,UAV：全てのモンキーが、迷彩ブルーン検知できるようになる。
+Etienne Level 9 Description,ドローンが割れる層が一層増える。
+Etienne Level 10 Description,UCAV：航空監視ドローンが、短い間、戦闘ドローンとして猛威をふるう。
+Etienne Level 11 Description,エティエンヌが一度に3機目のドローンをコントロールできるようになる。
+Etienne Level 12 Description,ドローンアップグレード！破裂パワーと飛行速度がパワーアップ。
+Etienne Level 13 Description,UCAVの能力クールダウンが短縮される。
+Etienne Level 14 Description,ドローンによるダメージが大幅に増大される。
+Etienne Level 15 Description,UCAVダメージ出力と期間が大幅に増大される。
+Etienne Level 16 Description,エティエンヌの範囲、ドローン割りパワー、ドローンの群れのクールダウンが向上する。
+Etienne Level 17 Description,UCAVダメージ出力が、またさらに増大する！
+Etienne Level 18 Description,ドローンのダメージがアップ。
+Etienne Level 19 Description,エティエンヌが常に4機のドローンをコントロールするようになる。
+Etienne Level 20 Description,Perma-UCAV：監視ドローンが永久的なUCAVになる。有効化すると、短い間、もっとパワフルになり全ての種類のブルーンを割れるようになる。
+Drone Swarm Ability,ドローンの群れ
+Drone Swarm Ability Description,エティエンヌが追加で4機の一時的ドローンを発進させ、派手にブルーン割りをする。
+UCAV Ability,UCAV
+UCAV Ability Description,短期間の間、破壊的戦闘ドローンになる高度監視ドローン。
+Mesa,メサ
+DreadPirateBrickellAdmiralBrickellSkinName,ドレッド海賊ブリッケル
+DreadPirateBrickellAdmiralBrickellSkinDescription,七つの海の女王がまた航海へ！
+No Insta Reward,ラウンド100の報酬なし
+GameUIProfileAvatar19Name,カスタムアバター- 休息の表情のアドラ
+GameUIProfileAvatar19ShortName,アドラのアバター
+GameUIProfileAvatar19Description,アドラは真剣そのものなので、このアバターを使うには、それなりの覚悟が必要
+GameUIProfileAvatar20Name,カスタムアバター- 「やればできる」エンジニア
+GameUIProfileAvatar20ShortName,エンジニアのアバター
+GameUIProfileAvatar20Description,自分の仕事が好きなのは前提として当然なので、このエンジニアは喜んでもっとたくさんのブルーンをピン止めしてくれる
+GameUIProfileAvatar21Name,カスタムアバター- B&Wブリッケル
+GameUIProfileAvatar21ShortName,ブリッケルのアバター
+GameUIProfileAvatar21Description,ブリッケル提督が船を勝利へと導く、モノトーンでキャプチャ
+GameUIProfileAvatar22Name,カスタムアバター‐アイコン的DJベン
+GameUIProfileAvatar22ShortName,DJベンのアバター
+GameUIProfileAvatar22Description,DJベンジャミンのアイコン的な特徴あるスタイル
+HeroesObynPetWolfName,オービンのゴースト・ウルフのペット
+HeroesObynPetWolfShortName,オービンのゴースト・ウルフ
+HeroesObynPetWolfDescription,森の精霊たちは、いつもオービンの魔法のゴーストウルフの子供を近くに携えている。オリジナルオービンのみ
+HeroesEziliPetFrogName,エジーリの蛙のペット
+HeroesEziliPetFrogShortName,エジーリの蛙
+HeroesEziliPetFrogDescription,エジーリはヴードゥーの偏見でないと主張している、彼女はたんに、たまたまこの蛙はかっこいいと思っている。オリジナルのエジーリのみ
+BloonsAllBloonsPopsBarrelOfMonkeysName,モーのモンキーポップFX
+BloonsAllBloonsPopsBarrelOfMonkeysShortName,モンキーポップFX
+BloonsAllBloonsPopsBarrelOfMonkeysDescription,モンキーはいくらいても困らない！割るたびに出現する、カラフルなモンキー効果を作り出そう
+BloonsAllBloonsTopHatsName,シルクハットブルーン
+BloonsAllBloonsTopHatsShortName,シルクハット
+BloonsAllBloonsTopHatsDescription,この時代に流されない帽子で、ブルーンにハイクラス感を出そう。
+CoopEmoteSoundCricketsName,クリケットの効果音
+CoopEmoteSoundCricketsShortName,クリケット
+CoopEmoteSoundCricketsDescription,無視されがちな14回目のキャッシュのリクエストのサウンド効果
+CoopEmoteAnimationSparklingHeartsName,キラキラハートのエモーティコン
+CoopEmoteAnimationSparklingHeartsShortName,キラキラハート
+CoopEmoteAnimationSparklingHeartsDescription,ハートがある。そしてキラキラハートがある。その違いが分かる者もいる
+CoopEmoteTextLetsGoName,レッツゴーのテキストエモーティコン
+CoopEmoteTextLetsGoShortName,レッツゴー
+CoopEmoteTextLetsGoDescription,抑えられないやる気満々？ノンストップで割って、割って、割りまくる？！じゃあ、レッツゴー！
+CoopEmoteTextOKName,OKのテキストエモーティコン
+CoopEmoteTextOKShortName,OK
+CoopEmoteTextOKDescription,あらゆるシチュエーションに完璧に対応する。できるだけ少ない文字数で意思疎通！
+OdysseyExtremeModeConfirmCrew,この究極のオデッセイの最大クルーサイズより少なく選択しました。本当に良いのですか？
+OdysseyAllHeroesText,全てのヒーロー
+OdysseyAllTowersText,全てのモンキータワー
+OdysseyAllPowersText,全てのパワー
+CoopEmoteTextOKWord,OK
+CoopEmoteTextLetsGoWord,レッツゴー！
+OdysseyExtremeModeTitle,究極モード！
+OdysseyExtremeModeDescription,• 究極モードでは、モンキークルーが使い捨てになった\n• いったん配置されると、各モンキータワーは最後まで使われ、また利用できなくなる
+OdysseyCrewRemaining,残りのクルー：
+SaveVersionConflict,セーブバージョンの矛盾
+SaveVersionConflictDescription,現在プレイ中のものより新しいゲームバージョンのセーブがあります。\n進捗が失われてしまうので、このバージョンをアップデートしてください。
+OdysseyStatsLivesRemaining,残りのライフ
+OdysseyStatsTimeTaken,かかった時間
+OdysseyStatsTotalMonkeysPlaced,配置済みモンキータワーの合計数
+OdysseyStatsTotalPowersUsed,使用済みパワーの合計
+BloonsZOMGSkinSteampunkName,スチームパンクZOMG
+BloonsZOMGSkinSteampunkShortName,スチームパンクZOMG
+BloonsZOMGSkinSteampunkDescription,スチームエンジンを回転させ、モノクルを磨き、冒険の準備をしよう！
+BloonsBFBSkinSciFiName,SFのBFB
+BloonsBFBSkinSciFiShortName,SFのBFB
+BloonsBFBSkinSciFiDescription,レッド警報！このBFBはゲームオーバーさせるようにフェーザーを備えている。
+TT_DivideAndConquer,分けて制覇
+TT_ZoneDefense,ゾーンディフェンス
+GameUIMusicTrackMusicSunsetSilentNightMixName,ジュークボックス：サンセットサンバ‐静かな夜ミックス
+GameUIMusicTrackMusicSunsetSilentNightMixShortName,サンセット‐静かな夜
+GameUIMusicTrackMusicSunsetSilentNightMixDescription,激しさを和らげるクールな曲‐夜遅く、または早朝のゲームに最適
+ShowLocalNetworkGames,ローカルネットワークでゲームを見せよう
+OdysseyReplayOdyssey,オデッセイをリプレイ
+OdysseyWarnNoTowers,警告！{0}島で使うためのモンキーを全く持っていません。本当に続けますか？
+CoopLobbyNotAvailable,ロビーが使えません
+NotAvailable,使えません
+Achievement 93 Name,冒険家
+Achievement 93 Description,オデッセイをクリアする
+Achievement 94 Name,熟練冒険家
+Achievement 94 Description,上級オデッセイをクリアする
+Achievement 95 Name,全力全開
+Achievement 95 Description,一つのオデッセイを三つの難易度全てでクリアする
+Achievement 96 Name,モンキーの12の使命
+Achievement 96 Description,異なる12個のオデッセイをクリアする
+Achievement 97 Name,モデッセウスの台頭
+Achievement 97 Description,50のオデッセイをクリアする
+Achievement 98 Name,永遠なるモデッセウス
+Achievement 98 Description,100のオデッセイをクリアする
+Achievement 99 Name,この先、速度全開！
+Achievement 99 Description,1時間以内にオデッセイを一つクリアする
+Achievement 100 Name,キラキラが全て
+Achievement 100 Description,トロフィーストアのアイテムを一つ購入する
+Achievement 101 Name,ヒーローが居なければ問題も無し
+Achievement 101 Description,ヒーローなしでオデッセイを一つクリアする
+Heroes Available:,利用可能なヒーロー：
+Encrypted,暗号化済み
+TT_Locked,ロック済み
+TT_Normal,ノーマル
+JukeboxLoopTrack,繰り返し再生
+TrophyStoreLimitedTime,期間限定
+TowerProjectileBombshooterPumpkinName,爆弾シューターかぼちゃ爆弾
+TowerProjectileBombshooterPumpkinShortName,かぼちゃ爆弾
+TowerProjectileBombshooterPumpkinDescription,かぼちゃ割りなんてどうでもいいよ、爆弾シューターが爆破かぼちゃを発射できるようになった。期間限定のコレクターアイテム！
+TowerPetSupermonkeyBatName,スーパーモンキー・コウモリペット
+TowerPetSupermonkeyBatShortName,スーパーモンキー・コウモリ
+TowerPetSupermonkeyBatDescription,怖かわいいのか、可愛こわいのか？スーパーモンキーは、全員ペットのコウモリを飼うべき
+BloonsBADSkinBonesName,ガイコツBAD
+BloonsBADSkinBonesShortName,ガイコツBAD
+BloonsBADSkinBonesDescription,恐ろしいガイコツBADを、畏怖のまなざしで見つめてみよう。または、新しい階級のMOABだと友達教えてあげよう
+BloonsAllBloonsDecalAxeName,斧ブルーン
+BloonsAllBloonsDecalAxeShortName,斧ブルーン
+BloonsAllBloonsDecalAxeDescription,クラシックなハロウィーンのコスチューム、ワンサイズのブルーンフォーマット！期間限定のコレクターアイテム！
+CoopEmoteSoundScreamName,叫び声の音響効果
+CoopEmoteSoundScreamShortName,叫び声
+CoopEmoteSoundScreamDescription,不信感をもって叫ぼう、笑いながら叫ぼう、または現金をシェアしてくれないプレイヤー3に向かって叫ぼう！まさにホラー！
+CoopEmoteTextRound100Name,ラウンド100のテキストエモーティ
+CoopEmoteTextRound100ShortName,ラウンド100
+CoopEmoteTextRound100Description,他の人たちに、ラウンド100に到達してBADを倒してインスタに載せたいって教えて！
+GameUIPowerSkinSuperVampireStormName,カスタムパワー：スーパー・バンパイアストーム
+GameUIPowerSkinSuperVampireStormShortName,スーパー・バンパイアストーム
+GameUIPowerSkinSuperVampireStormDescription,コウモリの群れを引き連れて、バンパイアスタイルでブルーンを一掃しよう
+GameUIProfileAvatar23Name,カスタムアバター：ブライトエティエンヌ
+GameUIProfileAvatar23ShortName,エティエンヌのアバター
+GameUIProfileAvatar23Description,学年でトップ、飛行準備万端、エティエンヌが職場に到着！
+GameUIProfileAvatar24Name,カスタムアバター：迫撃砲QA
+GameUIProfileAvatar24ShortName,迫撃砲のアバター
+GameUIProfileAvatar24Description,重砲のクオリティー保証は、真面目なモンキービジネス！
+GameUIProfileAvatar25Name,カスタムアバター：フランケンモンキー
+GameUIProfileAvatar25ShortName,フランケンモンキーのアバター
+GameUIProfileAvatar25Description,フランケンモンキーのお気に入りの言葉：「ブル～～～ン」。期間限定のコレクターアイテム！
+GameUIProfileAvatar26Name,カスタムアバター：ウルフモンキー
+GameUIProfileAvatar26ShortName,ウルフモンキーのアバター
+GameUIProfileAvatar26Description,学校で一番かっこいいモンキー、ティーンのウルフモンキーは、町で一番おしゃれな子。期間限定のコレクターアイテム！
+GameOverScreen,ゲームオーバー
+TowerProjectileBananaFarmCandyCornName,バナナ農場キャンディコーンのバナナ
+TowerProjectileBananaFarmCandyCornShortName,農場キャンディコーン
+TowerProjectileBananaFarmCandyCornDescription,バナナは甘いけど、キャンディコーンバナナで、ゲームがもっとスイートに。期間限定のコレクターアイテム！
+GameUIPowerSkinHalloweenFarmerName,カスタムパワー：不気味な農夫
+GameUIPowerSkinHalloweenFarmerShortName,不気味な農夫
+GameUIPowerSkinHalloweenFarmerDescription,農作物のための追悼ベルを鳴らし、不気味な農夫が回収に来る。期間限定のコレクターアイテム！
+GameUIPowerSkinCoffinDropName,カスタムパワー：棺桶投下
+GameUIPowerSkinCoffinDropShortName,棺桶投下
+GameUIPowerSkinCoffinDropDescription,コウモリが現金をたくさん届けてくれるのが流行っているから、ドローンなんて一昔前のアップデートのものだ。期間限定のコレクターアイテム！
+GameUIMusicTrackMusicFiestaSynthwaveMixName,ジュークボックス：フィエスタフラメンコ・シンセウェイブミックス
+GameUIMusicTrackMusicFiestaSynthwaveMixShortName,フラメンコ・シンセウェイブ
+GameUIMusicTrackMusicFiestaSynthwaveMixDescription,お気に入りのフラメンコ曲が80年代風に。ビッグヘアもアリ！
+TowerProjectileMonkeyAceBonesName,モンキーエースの骨ダーツ
+TowerProjectileMonkeyAceBonesShortName,エースの骨ダーツ
+TowerProjectileMonkeyAceBonesDescription,モンキーエース全員で、ぞっとする骨ダーツを頭上から降らせよう。期間限定のコレクターアイテム！
+TowerPetMonkeySubRubberDuckName,モンキー潜水艦ラバーダックペット
+TowerPetMonkeySubRubberDuckShortName,潜水艦ダックペット
+TowerPetMonkeySubRubberDuckDescription,クワッ、クワッ、潜水艦用のペット！君の潜水艦のために、かわいいラバーダックをご用意しました。プシュッ！
+PlayerStatsNecroBloons,蘇生ネクロマンサーブルーン
+Achievement 102 Name,チャンキーモンキー
+Achievement 102 Description,大きくてチャンキーなのが好み
+Achievement 103 Name,オースブレイカー
+Achievement 103 Description,ネクロマンサー魔術師を使い、25万個のブルーンを蘇生し君の味方にして戦わせよう
+HiddenAchievementQuestionMarkString,？？？
+Achievement 104 Name,崖っぷち生活
+Achievement 104 Description,残りライフ1個だけで、任意のCHIMPSでないインポッパブルゲームを1つクリアする
+Achievement 105 Name,フリーク・フライデー
+Achievement 105 Description,錬金術師の変身トニック
+PlayerStatsTransformingTonics,変身トニックを使用した
+Achievement 106 Name,モンキーファンクラブ
+Achievement 106 Description,Ninja Kiwiアカウントを作成する、またはアカウントにログインして進捗をクラウドセーブする
+Total Transformation Ability,完全変身
+Jungles Bounty Ability,ジャングルのめぐみ能力：使うたびに現金を生成するほか、ドルイドの近くのバナナ農園がそれぞれ追加キャッシュを作り出す。
+Spirit of the Forest Ability,森の精霊
+Ultraboost Ability,ウルトラブースト
+Dark Knight Ability,ダークシフト
+Dark Champion Ability,ダークシフト
+Door Gunner Ability,ドア射撃手
+SearchText,検索…
+DartlingGunnerLockedIn,ロックインした！
+TowerEffectAllMonkeysPlacementUpgradesGhostsName,ゴースト配置とアップグレード効果
+TowerEffectAllMonkeysPlacementUpgradesGhostsShortName,ゴーストアップグレードFX
+TowerEffectAllMonkeysPlacementUpgradesGhostsDescription,この新しいゴースト効果で、各モンキータワー配置に超自然的フレアとアップグレードを追加する
+BloonsAllBloonsPopsBonesName,骨ポップFX
+BloonsAllBloonsPopsBonesShortName,骨ポップFX
+BloonsAllBloonsPopsBonesDescription,ブルーンには骨があるんだっけ？ブルーン解剖学者は興味深々！期間限定のコレクターアイテム！
+OdysseyThemeBloonRush,ブルーンラッシュ
+OdysseyThemeSpecificBloonRush,{0}個のブルーンラッシュ
+OdysseyThemeMegaBloon,メガ{0}
+OdysseyThemeRoundMashUp,ラウンドマッシュアップ
+OdysseyThemeRoundMixUp,ラウンドミックスアップ
+OdysseyThemeEntryMixUp,エントリーミックスアップ
+OdysseyStars,スター
+DisableNudgeMode,ナッジモードを無効にする
+More Pops To Open,開封のためには、もっと割る必要アリ！
+Most Pops Tip,中級、上級、フリープレイゲームで、最も多く割ろう！
+btd6_churchillbundle,ヒーローパック
+btd6_churchillbundle Description,• ヒーロー\n• ヒーロースキン\n• 配置アニメ\n• アバター
+btd6_ezilibundle,ヒーローパック
+btd6_ezilibundle Description,• ヒーロー\n• ヒーロースキン\n• ヒーローペット\n• アバター
+btd6_benjaminbundle,ヒーローパック
+btd6_benjaminbundle Description,• ヒーロー\n• ヒーロースキン\n• 配置アニメ\n• アバター
+btd6_patfustybundle,ヒーローパック
+btd6_patfustybundle Description,• ヒーロー\n• ヒーロースキン\n• ヒーローペット\n• アバター
+Red,赤
+Blue,青
+Green,緑
+Yellow,黄
+Pink,ピンク
+Purple,紫
+Lead,鉛
+Black,黒
+White,白
+Zebra,シマウマ
+Rainbow,虹色
+Ceramic,陶器
+MOAB,MOAB
+BFB,BFB
+ZOMG,ZOMG
+DDT,DDT
+BAD,BAD
+Insta Monkey Collection,インスタモンキー・コレクション
+Most Experienced Monkey,最も経験を積んだモンキー
+Most Experienced Monkey Xp,最も経験を積んだモンキーXP
+Collection Chests Opened,コレクション宝箱を開封した
+btd6_moremoneypack_sale,もっとマネーのパックセール！
+btd6_moremoneypack_sale Description,マネーを素早く取得するための、適切なパワー全て：キャッシュ投下20個、モンキー百姓5匹、目標達成が5個！期間限定セール！
+EditorRegrowSpeed,再増殖率
+HeroBundle,ヒーローパック
+GetItAllNow,今すぐ全部ゲット！
+PlacementAnimation,配置アニメ
+XFactor,Xファクター
+Skates,スケート
+DartlingGunner Short Description,軍人モンキー
+btd6_starterheroskinbundle Description,• クインシーのスキン2個\n\n• グウェンのスキン2個\n\n• ストライカーのスキン2個\n\n• オービンのスキン2個
+btd6_starterheroskinbundle,メガパック
+ObynMountainGuardianSkinName,山の守護者のスキン
+ObynMountainGuardianSkinDescription,目覚めた山の精霊たち。
+HeroesPatPetPenguinName,雪だるまのファスティーのペンギンペット
+HeroesPatPetPenguinShortName,雪だるまのペンギンペット
+HeroesPatPetPenguinDescription,ペンギンは雪だるまの大親友！でも、この子は何か企てているみだいだ…雪だるまのファスティーのみ。期間限定のコレクターアイテム。
+HeroesAdmiralBrickellPetParrotName,ブリッケルのオウムペット
+HeroesAdmiralBrickellPetParrotShortName,ブリッケルのオウムペット
+HeroesAdmiralBrickellPetParrotDescription,ギャオ！ブルーンたよ、海賊のお出ましさ！恐怖の海賊ブリッケルのみ
+TowerPetMonkeyVillageElfName,モンキー村のエルフのペット
+TowerPetMonkeyVillageElfShortName,村のエルフ
+TowerPetMonkeyVillageElfDescription,これは棚の上のエルフみたいだけれど、違いは髪の毛がもっとあることと、尻尾があること。村のあちこちに「プレゼント」を残していくのが好き。期間限定のコレクターアイテム！
+TowerEffectAllMonkeysPlacementUpgradesPresentsName,プレゼント配置と効果をグレードアップ
+TowerEffectAllMonkeysPlacementUpgradesPresentsShortName,FXのアップグレードをプレゼント
+TowerEffectAllMonkeysPlacementUpgradesPresentsDescription,グレードアップがみんなプレゼントで爆発しちゃうなら、毎日がクリスマス！期間限定のコレクターアイテム！
+TowerProjectileBoomerangCandyCaneName,ブーメランモンキーのキャンディースティック・ブーメラン
+TowerProjectileBoomerangCandyCaneShortName,キャンディースティック・ブーメラン
+TowerProjectileBoomerangCandyCaneDescription,おいしいキャンディースティックのおやつで、ブルーンを割っちゃおう！期間限定のコレクターアイテム！
+BloonsAllBloonsSantaHatsName,サンタの帽子
+BloonsAllBloonsSantaHatsShortName,サンタの帽子
+BloonsAllBloonsSantaHatsDescription,ブルーン＋サンタの帽子＝悪夢、あるいは最高のプレゼント？期間限定のコレクターアイテム！
+BloonsAllBloonsRudolphNoseName,赤鼻のシール
+BloonsAllBloonsRudolphNoseShortName,赤鼻
+BloonsAllBloonsRudolphNoseDescription,他のブルーンのために道を照らす、この光る鼻でMOABに装備をつけよう！期間限定のコレクターアイテム！
+BloonsAllBloonsPopsSnowflakesName,雪の結晶割りFX
+BloonsAllBloonsPopsSnowflakesShortName,雪の結晶割りFX
+BloonsAllBloonsPopsSnowflakesDescription,ブルーンを割ると、一個一個を特別な雪の結晶にする！
+BloonsMOABSkinGlacierName,凍てつく氷河MOAB
+BloonsMOABSkinGlacierShortName,凍てつく氷河MOAB
+BloonsMOABSkinGlacierDescription,洞窟モンキーがほかのモンキーに警告する。大きなブルーンが来ると。大きなブルーン、凍っていて冷たい。洞窟モンキー、おなか空いた。バナナある？
+CoopEmoteAnimationHappyHolidaysName,ハッピーホリデーのエモーティ
+CoopEmoteAnimationHappyHolidaysShortName,ハッピーホリデー
+CoopEmoteAnimationHappyHolidaysDescription,この期間限定コレクター用エモーティで、皆に幸せなホリデーを願おう！
+CoopEmoteAnimationCelebrationName,お祝いのエモーティ
+CoopEmoteAnimationCelebrationShortName,お祝い
+CoopEmoteAnimationCelebrationDescription,新年までカウントダウンそして、個人新記録ラウンドに到達することを新年の抱負にしよう
+CoopEmoteAnimationFacepalmName,顔を手で覆うエモーティ
+CoopEmoteAnimationFacepalmShortName,顔を手で覆う
+CoopEmoteAnimationFacepalmDescription,ベンがキャッシュを分けてくれない？ブルーンがクインシーの矢をすり抜けた？顔を手で覆うエジーリは、いろんな場面で適切に使える！
+GameUIPowerSkinBaubleMineName,カスタムパワー：ツリー飾りの地雷
+GameUIPowerSkinBaubleMineShortName,ツリー飾りの地雷
+GameUIPowerSkinBaubleMineDescription,クリスマスツリーの飾りつけをする前に、MOABを爆破しよう！期間限定のコレクターアイテム！
+GameUIPowerSkinRetroTechbotName,カスタムパワー：レトロテックボット
+GameUIPowerSkinRetroTechbotShortName,レトロテックボット
+GameUIPowerSkinRetroTechbotDescription,この超グルービーなレトロテックボットで、有効化されている能力を最善な状態に整えよう。電池は別売り。期間限定のコレクターアイテム！
+GameUIPowerSkinIcebergPontoonName,カスタムパワー：流氷ポントゥーン
+GameUIPowerSkinIcebergPontoonShortName,流氷ポントゥーン
+GameUIPowerSkinIcebergPontoonDescription,この超クールな流氷ポントゥーンで、ブルーンたちの悩みが溶けていくのを見届けよう。
+GameUIProfileAvatar27Name,カスタムアバター：モンキーエース
+GameUIProfileAvatar27ShortName,モンキーエースのアバター
+GameUIProfileAvatar27Description,モンキーエースが助けに来た！この偉大なアバターで、空を支配しよう
+GameUIProfileAvatar28Name,カスタムアバター：ダートリング砲手
+GameUIProfileAvatar28ShortName,ダートリング砲手のアバター
+GameUIProfileAvatar28Description,モンキータワーを見たことあるでしょ、さあ、アバターを手掴んで！この昔ながらの人気ブルーン割り士に、君の愛情を見せてあげて！
+GameUIProfileAvatar29Name,カスタムアバター：冬の忍者
+GameUIProfileAvatar29ShortName,冬の忍者のアバター
+GameUIProfileAvatar29Description,この氷のように冷たい忍者アパターで、ホリデーの準備をしよう。期間限定のコレクターアイテム！
+GameUIProfileAvatar30Name,カスタムアバター：ホリデーパッチ
+GameUIProfileAvatar30ShortName,ホリデーパッチのアバター
+GameUIProfileAvatar30Description,あなたのために、パッチをアップデートしました、メリークリスマスと明けましておめでとう！期間限定のコレクターアイテム！
+RecurringRangs,繰り返しブーメラン
+RecurringRangsDescription,ブーメランモンキーに戻ってくるブーメランが、二度目に投げられるようになる。
+FirstLastLineOfDefense,初めで最後の防衛線
+FirstLastLineOfDefenseDescription,各ゲームの一つ目のスパイク工場の購入価格が$150ドル安くなる。
+FlankingManeuvers,側面攻撃作戦
+FlankingManeuversDescription,「最後」の標的プライオリティ設定にすると、スナイパー、モンキー潜水艦、モンキーバッカニアの攻撃が10%速くなる。
+EmergencyUnlock,緊急ロック解除
+EmergencyUnlockDescription,有効化された能力：ロック中のダートリング砲手をロック解除し、少しの間、回転台の速度をブーストする。
+GorgonStorm,ゴルゴンの嵐
+GorgonStormDescription,ハイドラ・ロケットストームが、少しの間、ダメージを受けたブルーンをマヒさせる。
+CrossTheStreams,小川渡り
+CrossTheStreamsDescription,プラズマまたはドゥーム光線がトラックを横切り、一時的なプラズマのプールを作る。
+MonkeysTogetherStrong,モンキー団結
+MonkeysTogetherStrongDescription,配置するヒーローの数だけ、ヒーローたちに5%多くの経験が与えられる。
+GrandPrixSpree,グランプリ騒ぎ
+GrandPrixSpreeDescription,レースに参加するためのMonkey Moneyが10%減額。
+ChallengeBrowser,チャレンジ・ブラウザー
+Trending,トレンド中
+Casual,カジュアル
+Newest,最新
+Expert,エキスパート
+MostLiked,一番人気
+Favorites,お気に入り
+Played,プレイ済み
+MyChallenges,自分のチャレンジ
+ChallengeName,チャレンジ名
+Creator,クリエーター
+Likes,いいね
+WinPercent,勝率
+Create,クリエイト
+PageXofY,{1}ページ中{0}
+ChallengeInfo,チャレンジ情報：
+TimeUploaded,アップロードした時間
+Last24Hours,過去24時間
+LastWeek,先週
+LastMonth,先月
+AllTime,全期間
+NoChallengesFound,新しいチャレンジは見つかりませんでした
+Shared,共有済み
+DeleteThisSave,このセーブを削除しますか？
+DeleteThisChallenge,このチャレンジを永久に削除しますか？
+ShareAgainIn,また共有する：
+ShareAgainExplanation,タイマーがカウントダウンしたら、また共有しましょう。共有するにはチャレンジに勝たなければならなりません。
+MySavedGames,セーブしたゲーム
+ConfirmShare,共有を確認しますか？数分以内にコンテンツブラウザーに表示されます。
+Custom,カスタム
+ChallengeSearch,検索・チャレンジコード…
+IncludeOldVersions,古いバージョンを含みます
+Achievement 107 Name,プレイヤーワン、準備はいいですか？
+Achievement 107 Description,協力プレイゲームを10回ホストして勝つ
+Achievement 108 Name,タイタンの破滅
+Achievement 108 Description,強化DDTから3000回強化を取り除く
+Achievement 109 Name,コードをゲット
+Achievement 109 Description,コンテンツブラウザーにチャレンジを提出する
+Achievement 110 Name,ギフトのリサイクル
+Achievement 110 Description,ダートリング砲手で100万個のブルーンを割る
+Achievement 111 Name,割引券クレイジー
+Achievement 111 Description,トロフィーストアで、50個以上のトロフィーを使う
+Achievement 112 Name,インスタント満足
+Achievement 112 Description,ティア5のインスタモンキーを1匹使う。注意：使用後も、インスタは君のコレクションとして数えられます！
+Achievement 113 Name,インスタセンチュリー
+Achievement 113 Description,100匹のインスタモンキーを使う。注意：使用後も、インスタは君のコレクションとして数えられます！
+Achievement 114 Name,限定運行
+Achievement 114 Description,トロフィーストアで、1個以降の期間限定アイテムを購入する
+Achievement 115 Name,ダーウィン進化論
+Achievement 115 Description,タワーを2万回アップロードする
+Achievement 116 Name,頑固な戦略
+Achievement 116 Description,単にある事を出来るからといって、必ずしもそれを行うべきではない
+ChallengeBrowserDescription,遊んで、クリエイトして、コミュニティーコンテンツを評価しよう！
+VerifiedUser,認証済みユーザー
+TrophyBadgesEmpty,ゲームで勝利してメダルを獲得！
+,
+// External cleaning app (not in binary),
+cleaner.oops.title,おっと！
+cleaner.oops.message,有効な選択肢を選んでください…
+cleaner.warning.title,確かですか？
+cleaner.warning.message,警告：元に戻せません！
+cleaner.title,{0}クリーナー
+cleaner.Message,選択肢を選んでください：
+cleaner.RadioButton_CleanAll,全てクリーニング
+cleaner.RadioButton_Keep,設定と進捗を維持する
+cleaner.RadioButton_CleanSelective,選択的クリーニング
+cleaner.CheckBox_Preferences,選択
+cleaner.CheckBox_Progress,進捗
+cleaner.Button_Run,続行
+cleaner.Button_Exit,退出
+cleaner.allDone,全て終了！
+// External cleaning lines complete,
+,
+ChallengeBrowserError,コンテンツブラウザーを読み込み中にエラーが発生しました
+OverwriteChallengeBrowserText,一番古いセーブは、上書きされてしまいます。本当によろしいですか？
+OverwriteChallengeBrowserHeader,セーブを上書きしますか？
+GameUIMusicTrackMusicJingleBloonsName,ジュークボックス：ジングルブルーン
+GameUIMusicTrackMusicJingleBloonsShortName,ジングルブルーン
+GameUIMusicTrackMusicJingleBloonsDescription,この新しく素晴らしいオリジナルブルーントラックで、ホリデーをお祝いしましょう。ジングルベル、鈴が鳴る！\nメインメニューの設定のジュークボックスから音楽を有効にしてください。
+TrophyBadgesEmpty,ゲームに勝ってメダルを獲得する
+Favorite,お気に入り
+FasterRegen,再生率アップ
+SlowerRegen,再生率ダウン
+NewTower,新規タワー
+MapUnlockTutorHeader,マップをロック解除中
+MapUnlockTutorBody,カテゴリーのマップで初めて勝利すると、次のカテゴリーのマップがアンロックされます。\n\n•初級で中級をアンロック\n•中級で上級をアンロック\n•上級でエキスパートをアンロック
+HideCompleted,完了したものは非表示
+Ravine,渓谷
+GameUIProfileAvatar31Name,カスタムアバター-歌舞伎忍者
+GameUIProfileAvatar31ShortName,歌舞伎忍者アバター
+GameUIProfileAvatar31Description,かっこいい隈取メイクの忍者モンキー
+GameUIProfileAvatar32Name,カスタムアバター-ヘリパイロット
+GameUIProfileAvatar32ShortName,ヘリパイロット・アバター
+GameUIProfileAvatar32Description,目指すは大空！このヘリパイロットのアバターは、可愛さと効率を兼ね備えている
+BloonsAllBloonsTruckerHatsName,トラッカーの帽子
+BloonsAllBloonsTruckerHatsShortName,トラッカーの帽子
+BloonsAllBloonsTruckerHatsDescription,これらのブルーンは、長距離専門！相棒、トラック運転を続けようぜ！
+BloonsAllBloonsPopsPowName,パンパン割りFX
+BloonsAllBloonsPopsPowShortName,パンパン割りFX
+BloonsAllBloonsPopsPowDescription,パン！バン！割れた！このすごいパンパン割りアニメーションで、もっとたくさんのブルーンを割ろう
+BloonsBFBSkinLanternName,ランタンBFB
+BloonsBFBSkinLanternShortName,ランタンBFB
+BloonsBFBSkinLanternDescription,このかっこいいBFBスキンで、戦場に幸運、繁栄、そして光をもたらそう
+TowerProjectileSpikeFactoryPineapplesName,スパイク工場パイナップル
+TowerProjectileSpikeFactoryPineapplesShortName,スパイク工場パイナップル
+TowerProjectileSpikeFactoryPineapplesDescription,スパイクボールより刺々しいものは何？もちろんパイナップル！楽しく破裂。スパイクボールのアップグレードのみ。
+GameUIMusicTrackMusicBMCStreetPartyName,ジュークボックス：BMCストリートパーティー
+GameUIMusicTrackMusicBMCStreetPartyShortName,BMCストリートパーティー
+GameUIMusicTrackMusicBMCStreetPartyDescription,戻ってキター！熱い要望に応えて、Bloons Monkey Cityのストリートパーティーです！
+FirstTimeContinue,わ、まずい！ブルーンが通過してしまった！初回は無料で続けられるけれど、それ以降はMonkey Moneyがかかります。
+Follow,フォローする
+Unfollow,フォローをやめる
+Following,フォロー中
+Primary Knowledge,基礎知識
+Military Knowledge,軍事知識
+Magic Knowledge,魔法知識
+Support Knowledge,サポート知識
+Heroes Knowledge,ヒーロー知識
+Powers Knowledge,パワー知識
+Block followers,フォロワーをブロックする
+Unblock followers,フォロワーをブロック解除する
+Followers,フォロワー
+Submitted Challenges,送信済みチャレンジ
+TurnOnNotificationsCreator,このクリエイターからの通知をオンにしますか？
+TurnOffNotificationsCreator,このクリエイターからの通知をオフにしますか？
+TargetingOptionFirstTimePopup,難航しているラウンドでは、標的の選択を変えると上手くいくこともあるよ！
+et_challengefreeplaytitle,チャレンジ自由プレイ！
+et_challengefreeplaydescription,これは、チャレンジの自由プレイモードです。プレイを続けられますが、XPや報酬は受け取れません。
+GameServicesBlockedText,何かにより、ゲームサービスへのアクセスがブロックされています。ゲームプレイに影響が出るかもしれないので、予期せぬ問題を避けるために、ブロックしているサービスを無効にしてください。詳細はこちらでご確認ください：https://ninja.kiwi/btd6_network
+DoubleCashDisabled,ダブルキャッシュ無効
+UnableToAccessDomain,{0}にアクセスできませんので、ブロックしているサービスを無効にして、再度お試しください。
+Custom Rounds,カスタムラウンド
+Warning,警告
+Player Completion Rate,プレイヤー達成率
+Win Rate,勝率
+HeroesBenjaminPlacementMatrixName,ベンジャミンマトリックス配置とアップグレード
+HeroesBenjaminPlacementMatrixShortName,ベンジャミンマトリックス
+HeroesBenjaminPlacementMatrixDescription,わお、カンフーができるようになった！オリジナルのベンジャミンのみ。
+HeroesObynPetBunnyName,オビンバニーペット
+HeroesObynPetBunnyShortName,オビンバニーペット
+HeroesObynPetBunnyDescription,この小さな可愛いうさぎは、オビンの親友。オリジナルのオビンのみ。期間限定のコレクターズアイテム！
+TowerProjectileDartlingEasterEggsName,イースターエッグ弾のダートリング砲
+TowerProjectileDartlingEasterEggsShortName,イースターエッグのダートリング砲
+TowerProjectileDartlingEasterEggsDescription,おいしいチョコを詰め込んで発射！バックショットとロケットのアップグレードのみ。期間限定のコレクターズアイテム！
+TowerPetNinjaMonkeyKiwiName,忍者モンキーキウィペット
+TowerPetNinjaMonkeyKiwiShortName,忍者キウィペット
+TowerPetNinjaMonkeyKiwiDescription,勇敢で飛べない鳥のキウィは、忍者モンキーのいちばん高貴な相棒
+BloonsMOABSkinChocolateName,チョコレートエッグMOAB
+BloonsMOABSkinChocolateShortName,チョコレートMOAB
+BloonsMOABSkinChocolateDescription,チョコレートで覆われていても、このMOABの中にはまだセラミックが4つ入っている！期間限定のコレクターズアイテム！
+BloonsBFBSkinChocolateName,チョコレートエッグBFB
+BloonsBFBSkinChocolateShortName,チョコレートBFB
+BloonsBFBSkinChocolateDescription,チョコレートBFBにチョコレートMOABが入っていたら、ボーナスポイント。期間限定のコレクターズアイテム！
+BloonsAllBloonsBunnyEarsName,ウサギの耳ブルーン
+BloonsAllBloonsBunnyEarsShortName,ウサギの耳ブルーン
+BloonsAllBloonsBunnyEarsDescription,ウサギの耳付きのブルーンで、かわいさアップ！期間限定のコレクターズアイテム！
+BloonsAllBloonsPopsFlowersName,フラワーポップFX
+BloonsAllBloonsPopsFlowersShortName,フラワーポップFX
+BloonsAllBloonsPopsFlowersDescription,フラワーポップfxで、毎回割れるとき色付きの爆発に
+CoopEmoteAnimationPixelMonkeyDanceName,ダンシングモンキーのエモート
+CoopEmoteAnimationPixelMonkeyDanceShortName,ダンシングモンキー
+CoopEmoteAnimationPixelMonkeyDanceDescription,踊って、踊って、踊って、おおお・・・
+CoopEmoteAnimationFlowerBloomName,咲いている花のエモート
+CoopEmoteAnimationFlowerBloomShortName,咲いている花
+CoopEmoteAnimationFlowerBloomDescription,春が来て鳥がさえずり、蜂が飛んで花が咲いている！
+GameUIProfileAvatar33Name,カスタムアバター - オビンのエッグ
+GameUIProfileAvatar33ShortName,オビンのエッグのアバター
+GameUIProfileAvatar33Description,オビンと一緒に、大事なエッグを守ろう。期間限定のコレクターズアイテム！
+GameUIProfileAvatar34Name,カスタムアバター - タックモンキー
+GameUIProfileAvatar34ShortName,タックモンキーのアバター
+GameUIProfileAvatar34Description,mutamarklによるアバターの勝者
+GameUIProfileAvatar35Name,カスタムアバター - パワフル戦隊
+GameUIProfileAvatar35ShortName,パワフル戦隊のアバター
+GameUIProfileAvatar35Description,Kuzuykuによるアバターの勝者
+GameUIProfileAvatar36Name,カスタムアバター - 強烈な魔術師
+GameUIProfileAvatar36ShortName,強烈な魔術師のアバター
+GameUIProfileAvatar36Description,_Concilliabule_によるアバターの勝者
+Balance,バランス
+Blons,ブロンス
+Latest Save,直近の保存
+Sauda,セウダ
+Sauda Short Description,刀剣マスター
+Sauda Description,静かな怒りで、サウダは鋭い剣2本でブルーンを削ることができる。
+Sauda Level 1 Description,両方の剣で近くのブルーンを切り裂く。カモフラージュも破裂できる。
+Sauda Level 2 Description,攻撃ごとにより多くのブルーンを破裂させる。
+Sauda Level 3 Description,跳躍剣の攻撃:サウダーの鉛を破裂するドラマチックな跳躍攻撃は、狙ったブルーンを撃ち落とす。
+Sauda Level 4 Description,サウダの剣はブルーンの2層をスパっと切る。
+Sauda Level 5 Description,より高速にサウダが攻撃する。
+Sauda Level 6 Description,攻撃範囲と破裂パワーが大きくなる。
+Sauda Level 7 Description,サウダはブルーンの弱点を捉えて、気絶すると追加のダメージを与えて、凍ったブルーンを破裂させる。
+Sauda Level 8 Description,サウダの攻撃がさらに高速になる。
+Sauda Level 9 Description,ブルーンの出血：攻撃ごとにブルーンの3層を切って破裂させて、時間と共にゆっくりをダメージを与える。
+Sauda Level 10 Description,剣のチャージ：サウダはトラック全体に沿ってスライドして、ブルーンを破滅させる。
+Sauda Level 11 Description,他のモンキーが遅くしたり、動けなくしたり、時間経過ダメージを与えたりしたブルーンに対し、サウダが追加ダメージを与える。
+Sauda Level 12 Description,跳躍する剣の攻撃で、パワーが大幅にアップする。
+Sauda Level 13 Description,魔法のかかったブレードはより大きなダメージを与え、サウダは全部のブルーンにダメージを与えることができる。
+Sauda Level 14 Description,さらに高速にサウダが攻撃する。
+Sauda Level 15 Description,攻撃範囲が拡大して破裂パワーが大きくなり、跳躍剣の攻撃が与えるダメージが大きくなる。
+Sauda Level 16 Description,剣のチャージでダメージが大きくなる。
+Sauda Level 17 Description,サウダの剣による攻撃は、一度にたくさんのブルーンの層を切り裂く。
+Sauda Level 18 Description,目にもとまらぬ速さでサウダの剣が攻撃する。
+Sauda Level 19 Description,魔法のかかった剣は、再増殖、強化、カモフラージュのブルーンに追加ダメージを与える。
+Sauda Level 20 Description,より強力な剣のチャージがすべてのトラックパスを3回スイープします！ 跳躍する剣のパワーで、大幅にアップする。
+SushiBentoBenjaminSkinName,寿司弁当スキン
+SushiBentoBenjaminSkinDescription,寿司がメニューに。注文して！
+Leaping Sword Attack Ability,跳躍する剣の攻撃
+Leaping Sword Attack Ability Description,サウダーの鉛を破裂するドラマチックな跳躍攻撃は、狙ったブルーンを撃ち落とす。
+Sword Charge Ability,剣のチャージ
+Sword Charge Ability Description,サウダはトラック全体に沿ってスライドして、ブルーンを破滅させる。
+Playing,{0}人プレイ中
+Solo,ソロ
+Custom Challenge,カスタムチャレンジ
+Browsing,{0}人閲覧中 
+Menues,メニュー
+Challenges,チャレンジ
+GoldenBloonsPopped,割った金のブルーン
+ChallengeStats,チャレンジ統計
+Attempts,攻撃
+Wins,勝利
+Fails,失敗
+Unique Players,プレイヤー
+Victorious Players,勝利したプレイヤー
+FirstWinner,最初の勝者
+MostRecentWinner,直近の勝者
+DiskFullMessage,ディスクがいっぱいです。空き容量を確保して、再度お試しください
+RacePassRemaining,残りのレース：
+RacePassHeader,レースパス
+RacePassDescription,毎週のレースで、無制限にレースに参加できます！\nタイマーなし、モンキーマネーなし、ただレースだけ！
+4RacesPass,レースパス4回分
+12RacesPass,レースパス12回分
+ft_goldentitle,金のブルーン
+ft_goldendescription,金のブルーンを割って、追加のモンキーマネーを手に入れよう！割るには少しコツがいるけれど、逃してもライフは無くなりません。\n金のブルーンは各ゲームに数回出てきて、出現の度に進化します！\nグッドラック！
+TapToUnlock,[I]でアンロック
+btd6_4racespass Description,4レース分、思う存分レースしよう！
+btd6_4racespass,レースパス4回分
+btd6_12racespass Description,1レース分、思う存分レースしよう！
+btd6_12racespass,レースパス12回分
+GetHeroBooster,ヒーローブースターを入手
+IntermediateUnlockText,初級マップで初めて勝利して、中級マップをアンロックしよう
+AdvancedUnlockText,中級マップで初めて勝利して、上級マップをアンロックしよう
+ExpertUnlockText,上級マップで初めて勝利して、エキスパートマップをアンロックしよう
+HeroesSaudaPetCraneName,サウダーのペットの鶴
+HeroesSaudaPetCraneShortName,サウダーのペットの鶴
+HeroesSaudaPetCraneDescription,練習、練習。サウダーの新しい優雅な仲間と一緒に、鶴のテクニックを学ぼう！オリジナルのサウダーのみ
+HeroesPatFustyPlacementSuperjumpName,パットのスーパージャンプの配置とアップグレード
+HeroesPatFustyPlacementSuperjumpShortName,パットのスーパージャンプ
+HeroesPatFustyPlacementSuperjumpDescription,パットはMOABをハグするのに興奮して、アクションとアップグレードのたびにスーパージャンプするよ！オリジナルのパット・ファスティーのみ。
+TowerPetBananaFarmChickenName,バナナ農園のニワトリ
+TowerPetBananaFarmChickenShortName,農園のニワトリ
+TowerPetBananaFarmChickenDescription,ニワトリなしでは農場は不完全。なぜニワトリかって？それはニワトリだから！！！わああああ！！！
+TowerPropMonkeyVillageBrazilFlagName,モンキービレッジ・ブラジルの旗
+TowerPropMonkeyVillageBrazilFlagShortName,ビレッジ・ブラジルの旗
+TowerPropMonkeyVillageBrazilFlagDescription,ゴーーーール！このモンキービレッジの旗で、ブラジルの全てを応援していることを示そう。全てのアップグレードで見せる
+TowerPropMonkeyVillageUSAFlagName,モンキービレッジUSAの旗
+TowerPropMonkeyVillageUSAFlagShortName,ビレッジUSAの旗
+TowerPropMonkeyVillageUSAFlagDescription,USA！USA！モンキービレッジの上に、誇りを持って星条旗を掲げよう。全てのアップグレードで見せる。
+BloonsAllBloonsPopsPewpewName,ピューピューポップFX
+BloonsAllBloonsPopsPewpewShortName,ピューピューポップFX
+BloonsAllBloonsPopsPewpewDescription,自分の気持ちを探って - 今これを買え、フォースと共にあらんことを！超期間限定のコレクターズアイテム！
+BloonsMOABSkinBtd4RetroName,BTD4レトロMOAB
+BloonsMOABSkinBtd4RetroShortName,レトロMOAB
+BloonsMOABSkinBtd4RetroDescription,ああ、ノスタルジア。バラ色に見えるメガネをかけて、MOABの初期モデルをチェック。
+BloonsBFBSkinBtd4RetroName,BTD4レトロBFB
+BloonsBFBSkinBtd4RetroShortName,レトロBFB
+BloonsBFBSkinBtd4RetroDescription,これが空でいちばん大きかった頃の、古い習慣は素晴らしい！
+CoopEmoteAnimationTrophyName,トロフィー勝者エモート
+CoopEmoteAnimationTrophyShortName,トロフィー勝者
+CoopEmoteAnimationTrophyDescription,シャンパンを開けて！この輝く金のトロフィーで勝利を祝おう！
+CoopEmoteAnimationPlayerNumbersName,プレイヤー番号エモート
+CoopEmoteAnimationPlayerNumbersShortName,プレイヤー番号
+CoopEmoteAnimationPlayerNumbersDescription,この便利なプレイヤー番号エモートで、他のプレイヤーともっと簡単に話そう。プレイヤー3にはお手柔らかに。
+GameUIProfileAvatar37Name,カスタムアバター - シャープサウダー
+GameUIProfileAvatar37ShortName,シャープサウダーのアバター
+GameUIProfileAvatar37Description,沈黙、スキル、正確さ。この素晴らしいサウダーのアバターで、プレイヤーとしてのあなたを明確に。
+GameUIProfileAvatar38Name,カスタムアバター - ペンギンフレンド
+GameUIProfileAvatar38ShortName,ペンギンフレンドのアバター
+GameUIProfileAvatar38Description,ReconScoutTeemoのアバター勝者
+GameUIProfileAvatar39Name,カスタムアバター - ぐるーガナー
+GameUIProfileAvatar39ShortName,ぐるーガナーのアバター
+GameUIProfileAvatar39Description,Cyliiaのアバター勝者
+GameUIPowerSkinLavaLakeName,カスタムパワー - ポータブル溶岩湖
+GameUIPowerSkinLavaLakeShortName,ポータブル溶岩湖
+GameUIPowerSkinLavaLakeDescription,ここは熱くなってきた！心配事はこの燃える溶岩のプールで沸騰させちゃえ！
+Resort,リゾート
+ETnEtienneSkinName,ETn
+ETnEtienneSkinDescription,リーダーのところに連れて行って。
+VeteranXP,ベテランXP
+GameUIMusicTrackMusicSailsAgain,再航海
+Leaderboards,リーダーボード
+Global,グローバル
+League,リーグ
+Race,レース
+Mini-race,ミニレース
+NoRaceDataYet,レースを完了してミニレースに参加しよう！
+Kick,キック
+MakePublic,公開する
+VeteranLevelsHeader,ベテランレベル
+VeteranLevelsDescription,おめでとうございます。レベル上限に到達しました！ここからはベテランXPを獲得して、ベテランレベルに到達します。これらのレベルは通常より長く、ブルーン破裂へのあなたの莫大な専心の現れです！
+LevelCapIncreasedHeader,レベル上限が上昇！
+LevelCapIncreasedDescription,レベル上限が上昇しました！再びレベル上限に達するまで、通常レベルを獲得します。ベテランXPとレベルはそのままで、次のレベル上限に到達した時に、またベテランXPを獲得します。
+Rejoin,再び参加
+GameHasEnded,ゲームは終了しました
+SlowInternet,インターネットの接続がないか、遅いです
+ErrorRejoining,再び参加する途中で、エラーになりました
+RewardsTopPlacing,トップ{0}
+LostConnectionRejoin,接続が切断されました。協力プレイゲームに再び参加しますか？
+Rejoining,再び参加中・・・
+PlayerPositionClosed,プレイヤーのポジションが閉鎖
+YouFinished,終了：
+BestTime,ベストタイム：
+Claim,回収
+PlayerRejoinedGame,が再びゲームに参加しました
+PlayerKickedFromGame,{0}がゲームから排除されました
+ConfirmKickPlayer,本当に{0}をゲームから排除したいですか?
+Remove,排除
+MiniRacesFirstTimeTitle,ミニレース！
+MiniRacesFirstTimeDescription,レース終了後、ミニレースとメインレースのリーダーボードに名前が載ります。レースが終了したら、ミニレースで他のプレイヤーと対戦して、もっと賞品をもらいましょう！
+SharingCoop,ブルーンTD6で私の協力プレイに参加して！
+SharingChallenge,ブルーンTD6のチャレンジに勝てるかな？
+btd6_racespass,{0}レースパス
+btd6_racepass,1レースパス
+OdysseyCrewConfirmed,乗組員確認済み
+OdysseyCrewModified,変更された乗組員
+Odysseys,オデッセイ
+InviteReceivedTitle,受信した招待
+ChallengeInviteReceivedDescription,チャレンジコードを試すように招待されました：{0}
+CoopInviteReceivedDescription,協力ゲームに招待されました：{0}
+Join,参加する
+AccountPermissionRestriction,このXboxアカウントには、マルチプレイヤーゲームのプレイ許可がありません
+AccountCommunityPermissionRestriction,このXboxアカウントには、コミュニティーコンテンツの閲覧や作成の許可がありません
+dont have bloons,Bloons TD6を持っていないのですか？今すぐダウンロード！
+launch game,ゲームを起動する
+copy code,ここをクリックしてコードをコピー
+game already opened,ゲームはすでに開いていますか？
+Psi,サイ
+Psi Short Description,サイオニックモンキー
+Psi Description,才能に恵まれた子ザルのサイは、マインドパワーだけを使ってブルーンを内側から破壊する。
+Psi Level 1 Description,どのような範囲や障害物があっても、サイはブルーンを一度に一個ずつ完全破壊する致命的な振動を設定する。
+Psi Level 2 Description,少し素早く攻撃するようになる。
+Psi Level 3 Description,サイキック爆破：付近のブルーンを長時間マヒさせる力の波動をサイが発動する。
+Psi Level 4 Description,サイの攻撃は、狙ったブルーンのすぐそばの別のブルーンがある場合、それにも命中する。
+Psi Level 5 Description,サイオニック振動が、通常より素早くブルーンを破壊する。
+Psi Level 6 Description,サイの強力なマインドは、鉛ブルーンをも貫通する。
+Psi Level 7 Description,サイの爆破が二度パルスを出す。サイが付近の陶器ブルーンを破壊できるようになった。
+Psi Level 8 Description,破壊的共振はサイの主攻撃でブルーンを破壊させ、その際、近く別のブルーンにダメージを与える。
+Psi Level 9 Description,マインド分割。サイが一度に2個の異なるブルーンを攻撃できるようになった。
+Psi Level 10 Description,サイオニックの叫び：サイが沈黙の叫びを発し、ブルーンをカオスへといざなう。
+Psi Level 11 Description,サイオニック振動がさらに早くブルーンを破壊する。
+Psi Level 12 Description,サイキックブラストは、3回波動を放出する。
+Psi Level 13 Description,紫ブルーンさえ、サイのマインド攻撃パワーには抵抗できない。
+Psi Level 14 Description,サイの絶大なサイキックパワーで、MOABに対する照準と破壊を可能になる。
+Psi Level 15 Description,破壊的共振が、さらに破壊的に。
+Psi Level 16 Description,サイオニック振動がさらに早くブルーンを破壊する。サイはBFBを攻撃できるようになった。
+Psi Level 17 Description,マインド分割。サイが一度に3個の異なるブルーンを攻撃できるようになった。
+Psi Level 18 Description,サイの攻撃が、さらに広い半径内の標的ブルーンに影響を与える。
+Psi Level 19 Description,破壊的共振が、さらに輪をかけて破壊的に。
+Psi Level 20 Description,サイオニックの叫びは、画面上のすべてのブルーンをおさえ、ダメージを与える。 サイはDDTとZOMGを攻撃できるようになった。
+Sanctuary,サンクチュアリ
+ft_monkeyteamstitle,モンキーチーム
+ft_monkeyteamsdescription,ボーナスモンキーマネーを獲得しよう！
+ModderWarningPopup,ゲームクライアントに変更が検知されました。ゲームモードのいくつかは、ご利用できません。
+ModdedClient,変更されたクライアント
+Achievement 117 Name,実績の実績
+Achievement 117 Description,実績を35個集める
+Achievement 118 Name,釣り針、釣り糸、そしておもり
+Achievement 118 Description,MOABテイクダウンの能力を使い、3000個のMOAB級ブルーンを手繰り寄せる
+Achievement 119 Name,移動する家
+Achievement 119 Description,チヌーク補佐を使って1000個のモンキータワーを再展開させる
+Achievement 120 Name,社交家
+Achievement 120 Description,協力プレイゲームでエモートを100回使う
+Achievement 121 Name,とってもキラキラ！
+Achievement 121 Description,金のブルーンを20個割る
+Achievement 122 Name,金ピカ
+Achievement 122 Description,金のブルーンを100個割る
+Achievement 123 Name,金の栄光
+Achievement 123 Description,金のブルーンを500個割る
+Achievement 124 Name,マジックゴールド
+Achievement 124 Description,マジックモンキー限定モードで、金のブルーンを50個割る
+Achievement 125 Name,チームプレイヤー
+Achievement 125 Description,モンキーチームで25回勝利する
+Achievement 126 Name,チームキャプテン
+Achievement 126 Description,モンキーチームで50回勝利する
+Achievement 127 Name,究極のチームアップ
+Achievement 127 Description,モンキーチームで100回勝利する
+HeroesEtiennePetRoombaName,エティエンヌのルーンバペット
+HeroesEtiennePetRoombaShortName,エティエンヌのルーンバペット
+HeroesEtiennePetRoombaDescription,エティエンヌが好きなのは、ルーンバなのかネコなのか確かでない。セットになっている。オリジナルのエティエンヌのみ
+HeroesEziliPlacementGlyphName,エジーリグリフの具現化配置とアップグレード
+HeroesEziliPlacementGlyphShortName,エジーリグリフ
+HeroesEziliPlacementGlyphDescription,エジーリ、やつらをやっつけろ！オリジナルエジーリのみ
+TowerPropMonkeyVillageNZFlagName,モンキービレッジのニュージーランド国旗
+TowerPropMonkeyVillageNZFlagShortName,ビレッジNZ国旗
+TowerPropMonkeyVillageNZFlagDescription,太陽神に我らが自由の土地を守ってもらい、さらに、モンキービレッジをブルーンたちから守ってもらおう！すべてのアップグレードを示す
+TowerPropMonkeyVillageScotlandFlagName,モンキービレッジのスコットランド国旗
+TowerPropMonkeyVillageScotlandFlagShortName,ビレッジスコットランド国旗
+TowerPropMonkeyVillageScotlandFlagDescription,このモンキービレッジの旗で、立ち上がりフリーダム宣言をしよう。すべてのアップグレードを示す
+TowerPropMonkeyVillageBananaFlagName,モンキービレッジのバナナの旗
+TowerPropMonkeyVillageBananaFlagShortName,ビレッジのバナナの旗
+TowerPropMonkeyVillageBananaFlagDescription,モンキーならみんな大好きなバナナが、君のモンキービレッジに掲げられ、クレイジーな気分に。すべてのアップグレードを示す
+TowerEffectAllMonkeysPlacementUpgradesFireworksName,花火配置とアップグレード効果
+TowerEffectAllMonkeysPlacementUpgradesFireworksShortName,花火アップグレードFX
+TowerEffectAllMonkeysPlacementUpgradesFireworksDescription,新しいモンキーたち全員を、この素敵な花火でお祝いしよう！期間限定のコレクターアイテム！
+TowerProjectileWizardMonkeyFireworksName,魔法使いの花火
+TowerProjectileWizardMonkeyFireworksShortName,魔法使いの花火
+TowerProjectileWizardMonkeyFireworksDescription,自分の内なるガンダルフとチャネリングし、魔法使いモンキーたちにかっこいい花火をあげよう！期間限定のコレクターアイテム！
+BloonsAllBloonsBeardsName,ひげブルーン
+BloonsAllBloonsBeardsShortName,ひげブルーン
+BloonsAllBloonsBeardsDescription,美術監督のひげとして知られている、このおしゃれな顔ひげをお見逃しなく
+BloonsAllMOABSepiaName,なつかしのMOAB級ブルーン
+BloonsAllMOABSepiaShortName,なつかしのMOAB
+BloonsAllMOABSepiaDescription,セットを調整する必要なし、このMOABたちは旧式スタイル
+CoopEmoteAnimationTumbleweedName,回転草のアニメーション
+CoopEmoteAnimationTumbleweedShortName,回転草
+CoopEmoteAnimationTumbleweedDescription,最大インパクトを目指し、コオロギたちと協力しよう
+CoopEmoteIconSkullAndCrossbonesName,頭蓋骨と骨クロスのエモート
+CoopEmoteIconSkullAndCrossbonesShortName,頭蓋骨と骨クロス
+CoopEmoteIconSkullAndCrossbonesDescription,このかっこいいエモートは、歩み寄る危険を警告しているのか、単にあらゆるガイコツを愛しているだけなのか
+CoopEmoteTextActivateName,有効化！エモート
+CoopEmoteTextActivateWord,有効化！
+CoopEmoteTextActivateShortName,有効化！
+CoopEmoteTextActivateDescription,ワークショップで反転マシンをトリガーしよう！MOABテイクダウンを発射！テクノロジーの恐怖を発動しよう！今すぐ、君のメッセージを理解させるんだ
+GameUIProfileAvatar40Name,カスタムアバター：クレイジーグウェンPFP
+GameUIProfileAvatar40ShortName,クレイジーグウェンPFPアバター
+GameUIProfileAvatar40Description,Qqertynnによるアバター受賞作
+GameUIProfileAvatar41Name,カスタムアバター：閃光爆弾忍者
+GameUIProfileAvatar41ShortName,閃光爆弾アバター
+GameUIProfileAvatar41Description, _Concilliabule_によるアバター受賞作
+GameUIProfileAvatar42Name,カスタムアバター：企業パッチ
+GameUIProfileAvatar42ShortName,企業パッチ
+GameUIProfileAvatar42Description,パッチはモンキーダムの企業の階段を静かに上がってきているんだ
+GameUIProfileAvatar43Name,カスタムアバター：花火爆弾シューター
+GameUIProfileAvatar43ShortName,花火爆弾シューター
+GameUIProfileAvatar43Description,これらのロケットを発射するのに、これ以上の方法は無いよね？期間限定のコレクターアイテム！
+GameUIPowerSkinMonkeyBoostFireworksName,カスタムパワー：花火モンキーブースター
+GameUIPowerSkinMonkeyBoostFireworksShortName,花火モンキーブースター
+GameUIPowerSkinMonkeyBoostFireworksDescription,モンキーをブーストし、この巨大花火大会でもっと大きな貢献をするようにインスピレーションを与えよう。期間限定のコレクターアイテム。
+GameUIMusicTrackMusicTropicalOctopusMixName,ジュークボックス：トロピカルカーニバル- 八本足ミックス
+GameUIMusicTrackMusicTropicalOctopusMixShortName,八本足のトロピカルカーニバル
+GameUIMusicTrackMusicTropicalOctopusMixDescription,エレクトロビートを重ねたこのカーニバル音楽は、パーティーの人気曲になること間違いなし。音量を上げて！
+PlaySocial,ソーシャルプレイ
+ContentBrowser,コンテンツブラウザー
+CoopChallenge,協力プレイチャレンジ
+SocialEditChallenge,チャレンジを編集
+SocialEditOdyssey,オデッセイを編集
+SocialViewBrowser,ブラウザーを見る
+MonkeyTeamWins,モンキーチームの勝利
+NewerSaveFound,新しいセーブデータが見つかりました！別のデバイスで、もっと新しいバージョンをプレイしたようです。このデバイスでのプレイを続けるには、今すぐアップデートしてください。アップデートが見つからない？ヘルプはこちらからどうぞ。 https://ninja.kiwi/btd6_outofdate 
+RacePasses,レースパス{0}枚
+FreeEntries,無料エントリー{0}回
+FreeEntry,無料エントリー1回
+PrivateCoopLobby,プライベート協力ロビー
+PublicCoopLobby,協力ロビー[{0}]
+MyOdysseys,私のオデッセイ
+OdysseySearch,検索/オデッセイコード...
+Psychic Blast Ability,サイキックブラスト
+Psychic Blast Ability Description,Psiは、近くのBloonsを長い間気絶させる力の波を解き放ちます。
+Psionic Scream Ability,サイオニックの叫び
+Psionic Scream Ability Description,Psiは、Bloonsを完全な混乱に陥れる静かな悲鳴を解き放ちます。
+EditorMode,エディターモード
+ConfirmMaps,確認するマップ：{0}
+ResetOdysseyProgress,これにより、オデッセイの進行状況が無効になります。本気ですか？
+OdysseyName,オデッセイ名
+OdysseyEditor,オデッセイエディター
+MaxPowers,最大パワー：
+MaxMonkeySlots,最大モンキースロット：
+MaxPowerSlots,最大電源スロット：
+MapNumber,マップ{0}
+ExtremeMode,エクストリームモード：
+Edit,編集
+OdysseyInviteReceivedDescription,オデッセイコードを試すように招待されました：{0}
+SharingOdyssey,このBloonsTD 6オデッセイを打ち負かすことができますか？
+EditorPowersIncluded,含まれる力
+EditorPowersExcluded,除外された電力
+OdysseyDescription,説明：
+SelectDefaultCrew,デフォルトの乗組員を選択
+Completed,完了
+BossStart,ボスイベントを開始
+BloonariusPrime,ブルーナリウスプライム
+OdysseyLockedSubmitButtonDescription,このオデッセイは送信済みです
+OdysseyLockedShareButtonDescription,オデッセイを共有するには、テストモードで勝利画面に到達できることを証明しなくてはなりません！
+OdysseyShareAgainExplanation,タイマーがカウントダウンしたら、また共有しましょう。共有するにはオデッセイに勝たなければならなりません。
+ProfileAvatars,アバター
+ProfileBanners,バナー
+BossNormal,通常
+BossElite,エリート
+BloonariusTagLine,深い沼地から
+BloonariusTagLine2,インフレーターが目覚めた！
+Bloonarius,ブルーナリウス
+TierX,ティア {0}
+HeroesGwendolinPlacementFireballName,グウェンドリンのファイアボールの配置とアップグレード
+HeroesGwendolinPlacementFireballShortName,グウェンのファイアボール
+HeroesGwendolinPlacementFireballDescription,グウェンの到着とアップグレードがこの素晴らしいファイアボール効果で適切に燃えることを確認してください！ オリジナルのグウェンドリンのみ
+TowerPropMonkeyVillageGermanyFlagName,モンキービレッジ・ドイツの旗
+TowerPropMonkeyVillageGermanyFlagShortName,ビレッジ・ドイツの旗
+TowerPropMonkeyVillageGermanyFlagDescription,ドイツのモンキービレッジの技術が優秀であることは誰もが知っています！全てのアップグレードで見せる
+TowerPropMonkeyVillageUKFlagName,モンキービレッジUKの旗
+TowerPropMonkeyVillageUKFlagShortName,ビレッジUKの旗
+TowerPropMonkeyVillageUKFlagDescription,このモンキービレッジは、誇らしい連邦の一部です。 すべてのアップグレードでイギリスのプライドをみせる
+BloonsDDTSkinTronName,ネオンDDT
+BloonsDDTSkinTronShortName,ネオンDDT
+BloonsDDTSkinTronDescription,洗練されてて致命的、このDDTが未来からのものであることを確信するでしょう。 多分そうです。
+BloonsAllBloonsBucketHatName,バケツ帽子ブルーン
+BloonsAllBloonsBucketHatShortName,バケツ帽子ブルーン
+BloonsAllBloonsBucketHatDescription,最新のデジタルバケツ帽子デザインで、これらのブルーンをトレンドにしちゃおう。
+BloonsAllBloonsPopsWaterbloonName,ウォーターブルーンポップFX
+BloonsAllBloonsPopsWaterbloonShortName,ウォーターブルーンポップFX
+BloonsAllBloonsPopsWaterbloonDescription,どんな熱波にもぴったり。このクールなポップ効果で、すべてのブルーンをウォーターブルーンにします。
+CoopEmoteTextNextRoundScaryName,次のラウンド！ 怖い！ 助けて
+CoopEmoteTextNextRoundScaryShortName,次のラウンド！ 怖い！
+CoopEmoteTextNextRoundScaryDescription,仲間の協力プレイチームメンバーに次のラウンドについて警告してください！ ハロウィーンの時期にも特に便利です。
+CoopEmoteTextNextRoundScaryWord,次のラウンド！ 怖い！
+CoopEmoteAnimationFistpumpName,ガッツポーズアニメーション
+CoopEmoteAnimationFistpumpShortName,ガッツポーズ
+CoopEmoteAnimationFistpumpDescription,よくやった仕事を祝おう！
+GameUIProfileAvatar44Name,カスタムアバター　 - 　 　SASモンキー
+GameUIProfileAvatar44ShortName,SASモンキーアバター
+GameUIProfileAvatar44Description,Deaconのアバターの勝者
+GameUIProfileAvatar45Name,カスタムアバター - 設計図
+GameUIProfileAvatar45ShortName,ブループリントアバター
+GameUIProfileAvatar45Description,dungeon-raidedのアバターの勝者
+GameUIProfileAvatar46Name,カスタムアバター - エジリ
+GameUIProfileAvatar46ShortName,エジリアバター
+GameUIProfileAvatar46Description,モーニングヘアエジリとしても知られています
+GameUIProfileAvatar47Name,カスタムアバター - スパイクボール
+GameUIProfileAvatar47ShortName,スパイクボールアバター
+GameUIProfileAvatar47Description,スパイクボールがこれほどカッコ良く見えたことはありません - 持っている必要あり
+GameUIProfileBanner1Name,空中プロファイルバナー
+GameUIProfileBanner1ShortName,空中バナー
+GameUIProfileBanner1Description,このエースに触発されたカスタムプロファイルバナーは、他のプレイヤーの周りを繰り返し回ります
+GameUIProfileBanner2Name,オオカミの精プロフィールバナー
+GameUIProfileBanner2ShortName,オオカミの精バナー
+GameUIProfileBanner2Description,オービンオオカミのカスタムプロファイルバナーで精を目覚めさよう
+GameUIProfileBanner3Name,着信プロファイルバナー
+GameUIProfileBanner3ShortName,着信バナー
+GameUIProfileBanner3Description,このBFBが主導するブルーンストームを、勝利のカスタムプロファイルバナートロフィーとして着用してください
+GameUIProfileBanner4Name,ダートストームプロファイルバナー
+GameUIProfileBanner4ShortName,ダートストームバナー
+GameUIProfileBanner4Description,一般的なダーツは、このなめらかな、暗いカスタムプロファイルバナーでは一般的ではありません
+GameUIProfileBanner5Name,リアクティブプロファイルバナー
+GameUIProfileBanner5ShortName,リアクティブバナー
+GameUIProfileBanner5Description,このさらにインスパイアされたカスタムプロファイルバナーでは、力と危険が組み合わされています
+Paragon Title,パラゴンにアップグレードする
+Paragon Body,このアクションにより、パラゴン{0}が作成されます。 他のすべての{1}はその過程で破壊され、パラゴンの力を供給します！
+ft_paragontitle,パラゴンアップグレードが有効になりました！
+ft_paragondescription,ティア５のモンキーの1匹をパラゴンにアップグレードしてください！ パラゴンは、他の2つのパスからのティア５のモンキーを含む、そのタイプのすべてのモンキーを吸収します。\n\nパラゴンの度合いは、アップグレード時に吸収される電力量に影響されます。
+ParagonDegreeText,バラゴン度
+DartMonkeys,ダーツモンキー
+BoomerangMonkeys,ブーメランモンキー
+BombShooters,爆弾シューター
+TackShooters,びょうシューター
+IceMonkeys,アイスモンキー
+GlueGunners,グルーガンマン
+SniperMonkeys,スナイパーモンキー
+MonkeySubs,モンキー潜水艦
+MonkeyBuccaneers,モンキーバッカニア
+MonkeyAces,エースモンキー
+HeliPilots,ヘリパイロット
+MortarMonkeys,迫撃砲モンキー
+WizardMonkeys,魔法使いモンキー
+DartlingGunners,ダートリング砲手
+SuperMonkeys,スーパーモンキー
+NinjaMonkeys,忍者モンキー
+Alchemists,錬金術師
+Druids,ドルイド
+BananaFarms,バナナ農園
+EngineerMonkeys,エンジニアモンキー
+SpikeFactorys,スパイク工場
+MonkeyVillages,モンキー村
+BossInfoPanelTitle,ボスブルーンイベント
+BossInfoPanelDescription,勇敢な冒険家の皆さん、ボスの領域に入りました。 幸運を祈ります、そして次の重要なルールを覚えておいてください。\n•ボスイベントは、プレイを押すとすぐに始まり、ラウンドの間に一時停止はありません。\n•ボスの5ティアすべてを割り、各ボスモードに勝ちましょう。\n•経済を構築し 、能力を準備し、ティア間の時間を活用しましょう！\n•各ティアを倒すとトロフィーやその他の報酬を獲得できます。\n•ノーマルモードに勝った後、エリートモードのロックを解除します。
+BloonariusInfoPanelDescription,汚泥に住むブルーナリウスは、ダメージを受けるとブルーンを吐き出し、ヘルスバーの各頭蓋骨に到達すると巨大なブルーンクラスターを破壊します。\n\nブルーナリウスの汚泥が注入された殻は、遅くなるが、非常にタフになる。
+NextBossIn,ボスの登場まで：{0}
+ARound,1 ラウンド
+SomeRounds,{0} ラウンド
+DartMonkey Paragon,アペックスプラズマ・マスター
+DartMonkey Paragon Description,何も残さずに、バルーンシュレッダープラズマ巨人ボールで地域を埋める…
+BoomerangMonkey Paragon,剣マスター
+BoomerangMonkey Paragon Description,ブルーンは私の剣を見て、恐れているでしょう。
+TowerEffectAllMonkeysPlacementUpgradesButterfliesName,蝶の配置とアップグレード
+TowerEffectAllMonkeysPlacementUpgradesButterfliesShortName,蝶のアップグレードFX
+TowerEffectAllMonkeysPlacementUpgradesButterfliesDescription,モンキーの配置とアップグレードのたびに蝶が羽ばたく時、自然と美しさを鑑賞してください。
+BossEvent,ボスイベント　
+NewCoopGame,新しい協力プレイゲーム
+Hold,一時停止
+Paragon,パラゴン
+Unlock All (For This Tower),全てアンロック（このタワーのために）
+Purchase Tower XP,タワー XPを購入
+Connect Controller,コントローラーを接続
+BossDefeatedYou,{0} にやられた
+TierBossDefeated,{0} ティアを割った
+BossDefeated,{0}をやっつけた！
+Set Center,中央を設定
+Bombardment Ability,砲撃
+PlayerStatsHighestRoundCHIMPS,CHIMPSの最高のラウンド
+PlayerStatsHighestRoundDeflation,最高のラウンドのデフレ
+Rejoin Coop,協力ゲームに再参加
+WaitingEndRound,現在のラウンドの終了を待っています
+SoftwareCursor,ソフトウェアカーソル
+LargeCursor,大きなカーソル
+Cursor,カーソル
+SandboxCursor,サンドボックス/カーソル
+Achievement 128 Name,この新しいブルーナリーとは何ですか？
+Achievement 128 Description,ティア１のボスを倒す
+Achievement 129 Name,ボスは誰ですか？
+Achievement 129 Description,ティア５のボスを倒す
+Achievement 130 Name,私がボスだ
+Achievement 130 Description,ティア５のエリートボスを倒す
+Achievement 131 Name,神格
+Achievement 131 Description,モンキーパラゴンタワーにアップグレード
+Achievement 132 Name,ボスのように
+Achievement 132 Description,ボスブルーンを50個割る
+Achievement 133 Name,完璧なパラゴン
+Achievement 133 Description,パラゴンのパラゴン
+Log in,ログイン
+Twitch Integration,Twitch統合
+Choose my loadout,ロードアウトを選択してください
+Required polls,必要な投票：
+Total duration,合計時間：
+Duration,時間
+Max winners,投票の勝者の合計（ロードアウト用）
+Loadout Poll,ロードアウト投票
+Initializing,初期化中...
+Running poll,投票の実行
+XofY,{1}の{0}
+Point voting,ポイント投票
+Points per vote,投票あたりのポイント
+Bit voting,ビッツ投票
+Bits per vote,投票あたりのビッツ数
+TwitchTimeout,Twitchの応答に時間がかかりすぎています...
+TwitchInvalidOperation,操作が無効です...後でもう一度やり直してください。
+TwitchAuthFail,Twitchでの認証に失敗しました！ もう一度ログインしてみてください...
+TwitchPartnerFail,申し訳ありませんが、この機能を使用するには、Twitchアフィリエイトまたはパートナーである必要があります。
+TwitchError,問題が発生しました...後でもう一度お試しください。\n{0}
+Monkeys for poll,投票のためのモンキー
+TwitchSignedInInfo,Twitchパートナーまたはアフィリエイトの場合、ロードアウト投票を作成できるようになりました。 ゲーム中にTwitch設定ボタンを探します。
+BestRound,ベストラウンド：
+NewBestRound,新しいベストラウンド！
+CurrentRound,現在のラウンド：
+Select All,すべて選択
+btd6_towerandparagonunlock,フルタワーとパラゴンのアンロック
+btd6_towerandparagonunlock Description,モンキータワーのパラゴンを含むすべてのアップグレードを即座にアンロックします。
+btd6_paragonunlock,パラゴンロック解除
+btd6_paragonunlock Description,モンキータワーのパラゴンアップグレードを即座にアンロックします。
+jukeboxskipbossmusic,ボスミュージックをスキップ
+GameUIMusicTrackMusicBossBloonariusName,プライマルワン
+GameUIMusicTrackMusicBossBloonariusShortName,プライマルワン
+GameUIMusicTrackMusicBossBloonariusDescription,プライマルボストラック
+Play Again,再びプレー
+Retry From Checkpoint,チェックポイントから再試行
+RetryCheckpointText,ラウンド{0}の最後のチェックポイントから再試行しますか？
+Retry From Round,ラウンド{0}から再試行
+EliteBossLockedPopup,通常の難易度でボスを倒し、エリート難易度をアンロックします
