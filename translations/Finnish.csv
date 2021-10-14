@@ -1,4 +1,4 @@
-//Input. Needs to be first e.g [I] replaced by click or tap,
+﻿//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Napsauta
 Tap,Napauta
 ,
@@ -125,7 +125,7 @@ StrikerJones Level 18 Description,Kaikki Pommittajat ja Mörssäriapinat ampuvat
 StrikerJones Level 19 Description,Lisää hyökkäyskantamaa ja tekee kaikista mustista blooneista haavoittuvaisia räjähdysvahingolle.
 StrikerJones Level 20 Description,Tykistön komento antaa myös tuplavahingon ja -poksautukset kaikille Pommittajien ja Mörssäriapinoiden laukauksille 10 sekunniksi.
 ,
-CaptainChurchill Level 1 Description,Tankki ampuu lävistäviä pommeja, jotka voivat räjähtää jopa 3 kertaa.
+CaptainChurchill Level 1 Description,Tankki ampuu lävistäviä pommeja jotka voivat räjähtää jopa 3 kertaa.
 CaptainChurchill Level 2 Description,Suurempi poksautusvoima laukausta kohti.
 CaptainChurchill Level 3 Description,Panssaroinnin lävistävät kranaatit: Laukaukset voivat poksauttaa mustat bloonit ja tekevät lisävahinkoa keraamisille. Kesto lisääntyy Churchillin tasojen myötä.
 CaptainChurchill Level 4 Description,Suurempi hyökkäysalue.
@@ -173,7 +173,7 @@ Benjamin Level 3 Description,Biohakkerointi: 4 lähintä apinaa poksauttaa ylim�
 Benjamin Level 4 Description,Skimmaus: tuottaa 1 $:n enemmän jokaista uutta syntynyttä bloonia kohti.
 Benjamin Level 5 Description,Pankin hakkerointi: kaikki pankit saavat tuloa 5 % enemmän.
 Benjamin Level 6 Description,Kyberturvallisuus: palauttaa 5 elämää kunkin kierroksen lopussa.
-Benjamin Level 7 Description,"Bloonitroijalainen: aina muutaman sekunnin välein lähettää troijalaisen ohjelmistoviruksen satunnaiselle bloonille, joka ei tuota jälkeläisiä tuhoutuessaan ja antaa tuplasti käteistä."
+Benjamin Level 7 Description,"Bloonitroijalainen: aina muutaman sekunnin välein lähettää troijalaisen ohjelmistoviruksen satunnaiselle bloonille. Vaikutuksen alaiset bloonit eivät tuota jälkeläisiä, kun ne tuhotaan, ja niistä saa 1 ylimääräisen rahan kerrosta kohden."
 Benjamin Level 8 Description,Tulot nousevat 250 $:iin kierrosta kohti.
 Benjamin Level 9 Description,Pankin hakkerointi kasvaa 12 %:iin asti
 Benjamin Level 10 Description,Rahoituksen kanavointi: Heikentää useimmpia uusia syntyneitä blooneja 1 tason verran ja antaa niistä tuplasti käteistä poksautusta kohti. Kestää 10 sekuntia.
@@ -248,7 +248,7 @@ Ezili Level 15 Description,Suurempi alue.
 Ezili Level 16 Description,Uhritoteemi kestää pidempään ja sen käyttö maksaa vain 1 elämän.
 Ezili Level 17 Description,Perushyökkäyksellä on suurempi aluevahinkosäde ja tehokkaampi lävistys.
 Ezili Level 18 Description,Suurempi hyökkäysnopeus.
-Ezili Level 19 Description,Kukin perushyökkäyksen vahinkotikitys poksauttaa 2 kerrosta!
+Ezili Level 19 Description,Kukin perushyökkäyksen vahinkotikitys poksauttaa 3 kerrosta!
 Ezili Level 20 Description,MOAB-kirous toimii nopeammin ja voi tuhota BAD-blooneja.
 ,
 //Hero Ability Names,
@@ -357,7 +357,7 @@ The Tack Zone,Nastavyöhyke
 Permafrost,Ikirouta
 Enhanced Freeze,Tehokkaampi jäädytys
 Larger Radius,Laajempi kantama
-Metal Freeze,Metallijäädytys
+Metal Freeze,Kylmä napsahdus
 Deep Freeze,Syväjäädytys
 Re-Freeze,Uudelleenjäädytys
 Ice Shards,Jääsirpaleet
@@ -607,7 +607,7 @@ Double Gun,Tupla-ase
 Sentry Expert,Vartioinnin asiantuntija
 Overclock,Ylikellotus
 Bloon Trap,Blooniansa
-Sentry Paragon,Vartiomiehen perikuva
+Sentry Paragon,Vartiomestari
 Ultraboost,Ultratehostus
 XXXL Trap,XXXL-ansa
 ,
@@ -696,10 +696,10 @@ Very Quick Shots Description,Ampuu 33 % nopeammin.
 Enhanced Eyesight Description,Ampuu entistä kauemmas ja tunnistaa maastokuvioinnin.
 Spike-o-pult Description,"Muuttaa tikka-apinan piikkikatapultiksi, joka ampuu jättimäisiä piikkipalloja tikkojen sijaan. Hyvä kantama, mutta hitaampi hyökkäysnopeus. Jokainen pallo pystyy poksauttamaan paljon blooneja ja kimpoilee esteistä."
 Triple Shot Description,Heittää 3 tikkaa kerrallaan yhden sijaan.
-Crossbow Description,Käyttää pitkäkantoista varsijousta, joka voi poksauttaa bloonista 3 kerrosta kullakin osumalla.
-Juggernaut Description,Heittää valtavia piikkipalloja, jotka poksauttavat lyijyjä ja loistavat keraamisten bloonien tuhoamisessa.
+Crossbow Description,Käyttää pitkäkantoista varsijousta joka voi poksauttaa bloonista 3 kerrosta kullakin osumalla.
+Juggernaut Description,Heittää valtavia piikkipalloja jotka poksauttavat lyijyjä ja loistavat keraamisten bloonien tuhoamisessa.
 Super Monkey Fan Club Description,Superapinan faniklubi -kyky: Muuntaa jopa 10 läheistä Tikka-apinaa itsensä mukaan lukien Superapinaksi 15 sekunnin ajaksi. Myös tavallisten hyökkäysten nopeus on suurempi.
-Sharp Shooter Description,Tarkka-ampuja tulittaa nopeammin ja ampuu muutaman laukauksen välein voimakkaita kriittisiä laukauksia, jotka tekevät huomattavasti enemmän vahinkoa.
+Sharp Shooter Description,Tarkka-ampuja tulittaa nopeammin ja ampuu muutaman laukauksen välein voimakkaita kriittisiä laukauksia jotka tekevät huomattavasti enemmän vahinkoa.
 Ultra-Juggernaut Description,Giganttinen piikkipallo halkeaa kahdesti 6 juggernauttipalloksi entistä suurempaa tuhovoimaa varten.
 Plasma Monkey Fan Club Description,Tämän klubin eliittijäsenyys takaa Tikka-apinoille vieläkin enemmän tehoa!
 Crossbow Master Description,Varsijousimestari ampuu todella nopeasti ja tuhoaa useimpia bloonityyppejä helposti.
@@ -755,13 +755,13 @@ The Tack Zone Description,"Monta, monta nastaa."
 Permafrost Description,Bloonit liikkuvat hitaasti sulamisen jälkeenkin.
 Enhanced Freeze Description,Hyökkää nopeammin ja jäädyttää pidemmäksi ajaksi.
 Larger Radius Description,Suurempi jäädytysalue.
-Metal Freeze Description,Voi jäädyttää ja poksauttaa lyijybloonit.
+Metal Freeze Description,Voi jäädyttää ja poksauttaa maastokuvioidut ja lyijybloonit.
 Deep Freeze Description,Jäädyttää 2 bloonien kerrosta.
 Re-Freeze Description,"Voi jäädyttää uudelleen bloonit, jotka ovat jo jäädytettyjä."
 Ice Shards Description,"Veitsenteräviä sirpaleita lentää, kun jäätyneet bloonit poksahtavat."
 Arctic Wind Description,"Lisää suuresti lävistystä ja saa superkylmän auran, joka hidastaa blooneja ja jäädyttää lähellä olevan veden."
 Cryo Cannon Description,Ampuu jäädytyspommeja blooneihin suuremmalla kantamalla.
-Embrittlement Description,"Tunnistaa maastokuvioidut bloonit ja kaikista blooneista tulee hauraita, ne kärsivät enemmän vahinkoa hetken aikaa ja menettävät maastokuvioinnin ja regeneroinnin lopullisesti."
+Embrittlement Description,"Tunnistaa maastokuvioidut bloonit, ja osuessa kaikista blooneista ja MOABeista tulee hauraita, ne kärsivät enemmän vahinkoa hetken aikaa ja menettävät maastokuvioinnin ja regeneroinnin lopullisesti."
 Snowstorm Description,"Lumimyrsky-kyky: Jäädyttää kaikki tavalliset bloonit näytöllä ja jäähdyttää hetkeksi valkoiset, seeprakuvioidut ja maastokuvioidut bloonit ja hidastaa MOAB-luokkaa."
 Icicles Description,"Jäätyneet bloonit kasvattavat teräviä jääpuikkoja, jotka voivat poksauttaa niihin koskevia blooneja."
 Super Brittle Description,"Jäädytetyt bloonit kärsivät valtavia vahinkoja, mukaan lukien MOAB-luokan bloonit."
@@ -795,7 +795,7 @@ Bouncing Bullet Description,Laukaukset ponnahtavat uusiin kohteisiin jopa 3 kert
 Semi-Automatic Description,Hyökkää 3x nopeammin!
 Maim MOAB Description,Tekee paljon enemmän vahinkoa ja pysäyttää MOAB-luokan bloonit hetkeksi.
 Supply Drop Description,Tarvikepudotus-kyky: pudottaa rahaa täynnä olevan laatikon. Tavalliset hyökkäykset vahingoittavat lyijyblooneja ja sirpaleilla on enemmän poksautustehoa.
-Full Auto Rifle Description,"Täysin automaattinen ase uskomattomalla poksautusteholla, vahingoittaa myös lyijyblooneja."
+Full Auto Rifle Description,Täysin automaattinen ase uskomattomalla poksautusteholla.
 Cripple MOAB Description,Pysäytetyt MOABit ovat liikuntakyvyttömiä pidempään ja vastaanottavat vahinkoa kaikista muista hyökkäyksistä.
 Elite Sniper Description,Tarvikepudotus antaa paljon enemmän käteistä. Antaa eliittikohdeprioriteetin ja nopeamman latauksen kaikille tarkka-ampujille.
 Elite Defender Description,Menetetty elämä antaa tälle tarkka-ampujalle 4x hyökkäysnopeuden lyhyeksi ajaksi kostoa varten.
@@ -827,13 +827,13 @@ Buccaneer-Cannon Ship Description,"Lisää voimakkaan kanuunan, joka ampuu voima
 Buccaneer-Merchantman Description,Generoi käteistä joka kierroksella automaattisesti.
 Buccaneer-Aircraft Carrier Description,"Lähettää liikkeelle aallon hävittäjälentokoneita, jotka tulittavat kohteita ja ampuvat ohjuksia MOAB-luokan blooneihin."
 Buccaneer-Monkey Pirates Description,Lisää 2 tykkiä laivaan ja tykkihyökkäykset tekevät enemmän vahinkoa. MOABin alasveto -kyky: ampuu harppuunan MOAB-luokan blooniin ja kiskoo sen alas.
-Buccaneer-Favored Trades Description,Hyökkää nopeammin ja tuottaa paljon enemmän rahaa joka kierroksella. Alueella olevilla apinoilla on suurempi myyntiarvo ja jopa 3 suosikkikauppatavaraa voidaan kasata 95 %:n maksimimyyntiarvoa varten.
+Buccaneer-Favored Trades Description,Hyökkää nopeammin ja tuottaa paljon enemmän rahaa joka kierroksella. Alueella olevilla apinoilla on suurempi myyntiarvo.
 Buccaneer-Carrier Flagship Description,Tekee lisävahinkoa. Voi asettaa muita apinoita laivan yläkannelle ja lisää kaikkien vesipohjaisten apinoiden ja lentäjä-ässien hyökkäysnopeutta.
 Buccaneer-Pirate Lord Description,"Huomattavasti suurempi hyökkäysnopeus kaikille hyökkäyksille, ja voi ampua 3 heittokoukkua kerralla ryöstäen lisävaroja kultakin alas kiskotulta MOAB-luokan bloonilta."
 Buccaneer-Trade Empire Description,Tuottaa enemmän käteistä kierrosta kohti. Lisää jopa 20 muun kauppiaan ansaitsemaa käteistä kauppiaiden lukumäärän mukaisesti ja tehostaa kaikkien kauppiaiden tekemää vahinkoa.
 ,
 Rapid Fire Description,Ampuu tavallista nopeammin.
-Exploding Pineapple Description,"Pudottaa maahan ananaksia, jotka räjähtävät voimallisesti muutaman sekunnin kuluttua."
+Exploding Pineapple Description,"Pudottaa maahan ananaksia, jotka räjähtävät voimallisesti muutaman sekunnin kuluttua. Ässän räjähdehyökkäykset ovat tehokkaampia."
 Sharper Darts Description,Tikat voivat poksauttaa 8 bloonia.
 Lots More Darts Description,Ampuu 12 tikkaa kerralla.
 Spy Plane Description,Lentäjä-ässä voi osua maastokuvioituihin blooneihin.
@@ -961,17 +961,17 @@ Permanent Brew Description,Berserkkijuoman vaikutus jää PYSYVÄKSI sitä juovi
 Total Transformation Description,Muuntaa viisi lähellä olevaa apinaa hulluiksi hyökkäyshirviöiksi 20 sekunnin ajaksi.
 Bloon Master Alchemist Description,Salainen kutistusjuoma muuntaa kaikki vaikutuksen alaiset bloonit punaisiksi blooneiksi.
 ,
-Hard Thorns Description,Kovat okaat voivat poksauttaa 2 bloonia kukin ja poksauttaa jäätyneet bloonit.
+Hard Thorns Description,Kovat okaat voivat poksauttaa 2 bloonia kukin ja poksauttaa kaikkia bloonityyppejä.
 Thorn Swarm Description,Ampuu 8 tikkaa kerrallaan viiden sijaan.
 Druidic Reach Description,Lisää paljon kantamaa.
 Heart of Thunder Description,"Ampuu säännöllisesti haaroittuvia salamoita, jotka kulkevat valokaaressa bloonista blooniin."
 Heart of Oak Description,Hyökkäykset muuttavat uudistuvat bloonit normaaleiksi blooneiksi.
 Heart of Vengeance Description,"Saa 10 % hyökkäysnopeutta plus 1 %:n jokaisesta menetetystä elämästä päivityksen saamishetken arvosta alkaen. Maksimi 100 %, heikkenee jos elämiä palautetaan."
 Druid of the Storm Description,Tuulenpyörre puhaltaa blooneja taaksepäin pois reitiltä.
-Druid of the Jungle Description,Kutsuu viiniköynnöksiä maasta kietoutumaan ja murskaamaan blooneja yksi kerrallaan.
+Druid of the Jungle Description,"Kutsuu viiniköynnöksiä maasta kietoutumaan ja murskaamaan blooneja yksi kerrallaan, ja jälkeen jää tappavia piikkikasoja."
 Druid of Wrath Description,Lisää hyökkäysnopeutta kierroksen aikana niin pitkään kuin druidi hyökkää bloonien kimppuun.
 Ball Lightning Description,"Luo voimakkaita pallosalamoita, jotka ampuvat lisää salamoita.  "
-Jungle's Bounty Description,"Viidakon anteliaisuus -kyky: luo rahaa jokaisella käyttökerralla, plus lisärahaa jokaista druidin lähellä olevaa banaanifarmia kohden."
+Jungle's Bounty Description,"Viidakon anteliaisuus -kyky: luo rahaa jokaisella käyttökerralla, plus lisärahaa jokaista druidin lähellä olevaa banaanifarmia kohden. Voi myös napata köynnöksellä kaksi bloonia kerrallaan."
 Poplust Description,Tehostaa muiden kantamalla olevien druidien hyökkäysnopeutta ja lävistystä. Voi kerääntyä enintään 5 kertaa kuhunkin yksittäiseen druidiin.
 Superstorm Description,Supermyrsky räjäyttää kaikille bloonityypeille massiivista vahinkoa ja paiskaa ne pois uloskäynnistä.
 Spirit of the Forest Description,"Kasvattaa polun varrelle piikkiköynnöksiä, jotka tekevät jatkuvasti vahinkoa. Tekevät bonusvahinkoa keraamisille blooneille. Metsän henkeä lähimpänä olevat köynnökset tekevät enemmän vahinkoa. Aktivoitava kyky tuottaa lisää elämiä ja rahaa."
@@ -979,10 +979,10 @@ Avatar of Wrath Description,"Mitä enemmän blooneja on, sitä enemmän vahinkoa
 ,
 Increased Production Description,Kasvattaa 2 lisäbanaaniterttua kierrosta kohti.
 Long Life Bananas Description,Banaanit kestävät 30 sekuntia ennen mätänemistä 15:n sijaan.
-EZ Collect Description,"Banaanien keräysalue on suurempi. Apinapankit hohtavat, kun pankki on täynnä ja valmis kerättäväksi."
+EZ Collect Description,"Banaanien keräysalue on suurempi ja keräämättömät banaanit kerätään automaattisesti puolella arvolla. Apinapankit hohtavat, kun ne ovat täysiä ja valmiita kerättäväksi."
 Greater Production Description,Kasvattaa toiset 2 lisäbanaaniterttua kierrosta kohti.
 Valuable Bananas Description,Banaanit ovat 25 % arvokkaampia terttua kohti.  
-Banana Salvage Description,Keräämättömäksi jääneet banaanit kerätään automaattisesti ja ne antavat puolet rahasta.
+Banana Salvage Description,"Keräämättömät banaanit kerätään automaattisesti lähes täyteen hintaan, ja pankit kerätään automaattisesti niiden täyttyessä. Farmien takaisinmyyntihinta kasvaa 10 %."
 Banana Plantation Description,Kasvattaa 16 banaaniterttua joka kierroksella.
 Monkey Bank Description,"Kaikki tämän farmin tuottamat rahat talletetaan pankkiin, ja ne saavat 15 % korkoa kullakin kierroksella."
 Marketplace Description,Tuottaa rahaa kullakin kierroksella ja lisää sen kokonaismäärääsi. Helppoa ja vaivatonta.
@@ -991,7 +991,7 @@ IMF loan Description,"IMF-laina-kyky: saat 10 000 $, mutta sinun täytyy maksaa 
 Central Market Description,Tuottaa roppakaupalla rahaa joka kierroksella ja antaa kauppiaille +10 % tulon.
 Banana Central Description,Haluatko banaanin? Meillä on banaani!
 Monkey-Nomics Description,Kun olet liian suuri epäonnistumaan...
-Monkey Wall Street Description,Apinakauppojen keskiö tuottaa kolossaalisia tuloja joka kierroksella.
+Monkey Wall Street Description,Apinakauppojen keskiö tuottaa kolossaalisia tuloja ja lisää elämiä joka kierroksella.
 ,
 Sentry Gun Description,Luo väliaikaisia vartiotykkejä ja asettaa ne lähelle.
 Larger Service Area Description,Ampuu kauemmas ja asettaa vartiotykkejä suuremmalle alueelle. Vartiotykin kantama kasvaa.
@@ -1053,7 +1053,7 @@ Monkey Town Description,Kaikki Apinakylän kantamalla olevat apinat saavat jokai
 Primary Mentoring Description,"Kaikki alueella olevat perusapinat saavat tason 1 päivitykset veloituksetta, suuremman kantaman ja lyhyemmät kykyjen palautumisajat."
 Call to Arms Description,Aseisiinkutsu-kyky: Antaa läheisille apinoille +50 % hyökkäysnopeuteen ja poksautukseen hetkeksi.
 Monkey City Description,"Lisää vaikutusaluetta, käteisen keräämisaluetta ja antaa ilmaisen Tikka-apinan joka kierros."
-Primary Expertise Description,"Lisää megaballista-hyökkäyksen, ja lisäksi kaikki alueella olevat perusapinat saavat lisää poksautustehoa ja tason 1 ja 2 päivitykset veloituksetta."
+Primary Expertise Description,"Lisää megaballista-hyökkäyksen, ja lisäksi kaikki alueella olevat perusapinat saavat lisää poksautustehoa, kykyjen palautumisaika lyhenee entisestään ja tason 1 ja 2 päivitykset saa veloituksetta."
 Homeland Defense Description,Kyky kasvattaa nyt hyökkäysnopeutta ja poksautusta 100 % kaikille apinoille 20 sekunniksi.
 Monkeyopolis Description,Imee itseensä kaikki lähellä olevat banaanifarmit ja niiden tulot vapauttaen tilaa uusille apinoille.
 ,
@@ -2018,7 +2018,7 @@ Mode DoubleMoabHealth,Tuplakestävät MOABit
 Mode AlternateBloonsRounds,Vaihtoehtoiset bloonikierrokset
 Mode Impoppable,Poksauttamaton
 Mode HalfStartingCash,Puolet aloitusrahaa
-Mode MagicOnly,Magic,Vain maagiset apinat
+Mode MagicOnly,Vain maagiset apinat
 Mode HalfCash,Puolet rahaa
 ,
 Requires internet connection,Vaatii internetyhteyden
@@ -2623,7 +2623,7 @@ SentryBoom,Pokstykki
 SentryCrushing,Piikkipallotykki
 SentryCold,Jäätykki
 SentryEnergy,Energiatykki
-SentryParagon,Esikuvatykki
+SentryParagon,Mestarivartiotykki
 EditorNumberOfPlayers,Pelaajien määrä
 EditorCoopAreaDivision,Yhteistyön aluejako
 InvalidTarget,Kohde ei kelpaa
@@ -2644,12 +2644,12 @@ Adora Level 11 Description,Adoran hyökkäysnopeus kasvaa.
 Adora Level 12 Description,Ampuu 5 ylimaallista vasamaa kerralla.
 Adora Level 13 Description,Ylimaalliset vasamat lävistävät vielä enemmän blooneja.
 Adora Level 14 Description,Ampuu 6 ylimaallista vasamaa kerralla.
-Adora Level 15 Description,Ylimaalliset vasamat polttavat ylimääräisen bloonikerroksen, ja valopallo tekee huomattavasti enemmän vahinkoa.
+Adora Level 15 Description,Ylimaalliset vasamat polttavat ylimääräisen bloonikerroksen ja valopallo tekee huomattavasti enemmän vahinkoa.
 Adora Level 16 Description,Valon pitkästä kourasta tulee entistä tappavampi.
 Adora Level 17 Description,Adoran hyökkäysnopeus kasvaa entistä enemmän.
 Adora Level 18 Description,Ampuu 8 ylimaallista vasamaa kerralla.
 Adora Level 19 Description,Suurempi hyökkäyksen kantama.
-Adora Level 20 Description,Valopallo on huomattavasti parempi, ja se saa uhrilahjoista enemmän tulinopeutta, kantamaa ja pitkäkestoisempia tehosteita.
+Adora Level 20 Description,Valopallo on huomattavasti parempi ja se saa uhrilahjoista enemmän tulinopeutta kantamaa ja pitkäkestoisempia tehosteita.
 Carved,Kaiverrettu
 BloodyPuddles,Vaaralliset lammikot
 TechBotRequiresAbility,"Vaatii apinatornin, jolla on aktivoitavia kykyjä"
@@ -2741,7 +2741,7 @@ BoomerangTargetingSwitchHands,Vaihda käsiä
 VineRupture,Köynnöspurske
 VineRuptureDescription,Antaa Metsän henki -druidille uuden kyvyn purskauttaa kaikki kentän köynnökset tehden suurta vahinkoa kaikille ei-lyijyblooneille. Uusia köynnöksiä kasvaa jokaisen purkauksen jälkeen.
 BankDeposits,Pankkitalletukset
-BankDepositsDescription,Apinapankit voivat ottaa talletuksia saatavilla olevasta pelirahasta.
+BankDepositsDescription,Vähintään tason 4 apinapankit voivat ottaa talletuksia saatavilla olevasta pelirahasta.
 MonkeyBankDeposit,Talletus
 Achievement 92 Name,Kultainen lippu
 Achievement 92 Description,Bloompa-loompa-doompa-dee-doo!
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] synkkäsiirtyäksesi alueella
 DarkChampionDarkshift,[I] synkkäsiirtyäksesi mihin tahansa kelvolliseen sijaintiin
 SmallTowersMode,Pienet apinatornit
 BigTowersMode,Suuret apinatornit
-UpdatePopupTitle,Päivitys 27!
-UpdatePopupDescription,"Suorastaan pomoluokan kokoinen päivitys!\n• Pomoblooni-tapahtumat ovat täällä! Ken uskaltaa haastaa Bloonariuksen?!\n• Esikuva-apinat! Kokeile upouusia esikuvatason tikka- ja bumerangiapinoita!\n• Uskaltaudu uudelle ja kovin kosteikkoiselle keskitason kartalle: Bloonarius Prime\n• Pokaalikauppaan on tullut uusia esineitä, mukaan lukien uuden uutukaiset profiilibannerit!\n•  Yhteistoimintapeleihin palaaminen: Voit nyt palata yhteispeliesi pariin!\n• Uusia saavutuksia ja palkintoja!\n• Tasapainomuutoksia: joidenkin tornien ominaisuuksia on muutettu enemmän kuin toisia, katso lisätietoja päivitystiedoista"
+UpdatePopupTitle,Päivitys 28!
+UpdatePopupDescription,"Suuri sisältöpäivitys!\n• Yhteistoiminnan pomotaistelut! Kokeile pomotapahtumia ystäviesi kanssa maksimaalisia esikuvatasoja varten!\n• Uusi pomoblooni – hautaherra Lych!\n• Pomojen pistetaulukot! Valitse Ranked-tila ja aseta ennätysaika pistetaulukkoon joko soolona tai yhteistoiminnassa\n• Uusi esikuvatorni – Ninja-apina Ylentynyt Varjo on saapunut!\n• Viikinki-Sauda on noussut kehään! Nappaa uusi Sauda-ulkoasu ja ala sivaltaa!\n• Älä joudu eroon muista tai eksy metsään uudessa Aloittelija-kartassa: Mökki\n• 12 uutta pokaalikaupan esinettä sekä 6 upouutta rajallisen ajan halloween-esinettä – nappaa ne, kun vielä voit!\n• Tasapainotusta ja korjauksia – paljon muutoksia, katso päivitystiedoista kaikki yksityiskohdat"
 ResetDailyChest,Nollaa päivittäinen arkku
 JukeboxName,Jukeboksi
 EnableFunction,Ota käyttöön
@@ -2800,15 +2800,15 @@ PlayerStatsInstaMonkeysUsed,Välittömiä apinoita käytetty
 PlayerStatsDailysOpened,Päivittäisiä palkintoarkkuja avattu
 PlayerStatsChallengesCompleted,Haasteita suoritettu
 PlayerStatsMaxPublicSelected,Maksimimäärä julkisia tilastoja valittu. Sinun on poistettava jokin ennen kuin voit lisätä uusia julkisia tilastoja.
-PlayerStatsOdysseysCompleted,Seikkailuretkiä suoritettu
+PlayerStatsOdysseysCompleted,Odysseioja suoritettu
 PlayerStatsMedals,Mitalit
 PlayerStatsAvatar,Avatar
 PlayerStatsOverallStats,Kokonaistilastot
 PlayerStatsSharing,Jaetaan {0}/7
 JukeboxMusicThemeMain,Pääteema
-et_odysseytitle,Seikkailuretki-tapahtuma!
-et_odysseydescription,"Tervetuloa! Jokainen seikkailuretki on sarja yhdistettyjä karttoja ja haasteita, ja palkintona on pokaaleja ja muuta! Avainsäännöt:\n• Elämät ovat yhteiset kaikkien karttojen välillä\n• Kun seikkailuretki on alkanut, et voi muuttaa miehistöäsi tai vaikeustasoa muuten kuin aloittamalla alusta\n• Ansaitse pokaaleja ja muita palkintoja voittamalla viimeinen kartta\n• Pokaalipalkinnot eivät ole kumulatiivisia – vaikea seikkailuretki antaa maksimimäärän pokaaleja"
-OdysseyEventName,Seikkailuretki-tapahtuma
+et_odysseytitle,Odysseia-tapahtuma!
+et_odysseydescription,"Tervetuloa! Jokainen odysseia on sarja yhdistettyjä karttoja ja haasteita, ja palkintona on pokaaleja ja muuta! Avainsäännöt:\n• Elämät ovat yhteiset kaikkien karttojen välillä\n• Kun odysseia on alkanut, et voi muuttaa miehistöäsi tai vaikeustasoa muuten kuin aloittamalla alusta\n• Ansaitse pokaaleja ja muita palkintoja voittamalla viimeinen kartta\n• Pokaalipalkinnot eivät ole kumulatiivisia – vaikea odysseia antaa maksimimäärän pokaaleja"
+OdysseyEventName,Odysseia-tapahtuma
 OdysseyThemeCustomRules,Mukautetut säännöt
 OdysseyThemeRapidBloons,Pikabloonit
 OdysseyThemeNoReturn,Ei palautusta -käytäntö
@@ -2818,13 +2818,13 @@ OdysseyThemeGottaGoFast,Vauhtia piisaa
 OdysseyThemeAllCamo,Pelkkää maastokuviota
 OdysseyThemeAllRegrow,Jatkuvaa uusiutumista
 OdysseyThemeFastTrack,Pikareitti
-OdysseyThemeHighlander,Highlanderin seikkailuretki
+OdysseyThemeHighlander,Highlanderin odysseia
 OdysseyThemeMonkeyTeams,Apinatiimit
-OdysseyThemeExtremeOdyssey,Äärimmäinen seikkailuretki
+OdysseyThemeExtremeOdyssey,Äärimmäinen odysseia
 OdysseyLives,Elämiä:
 OdysseyLife,{0} elämä!
 OdysseyLivesLeft,Elämiä jäljellä:
-OdysseyStart,Aloita seikkailuretki
+OdysseyStart,Aloita odysseia
 CollectAll,Kerää kaikki
 OdysseyThemeSlowButDeadly,Hidas mutta tappava
 OdysseyIslandRules,Saarisäännöt
@@ -2838,8 +2838,8 @@ OdysseySpaces,Tilaa: {0}
 OdysseySelectCrew,Valitse miehistö
 OdysseyTotal,Yhteensä: {0}
 OdysseyPlay,Pelaa
-OdysseyContinue,Jatka seikkailuretkeä
-OdysseyAddCrew,Lisää apinoita miehistöösi seikkailuretken aloittamiseksi
+OdysseyContinue,Jatka odysseiaa
+OdysseyAddCrew,Lisää apinoita miehistöösi odysseian aloittamiseksi
 LeaderboardHacker,Tietoja ei löytynyt.
 Bazaar,Basaari
 FloodedValley,Tulvinut laakso
@@ -2944,7 +2944,7 @@ PlayerStatsTimesPlaced,Asettamiskerrat
 Trophies,Pokaalit
 RewardsTop50,Top 50
 OdysseyMapComplete,Saari {0} suoritettu!
-OdysseyComplete,Seikkailuretki suoritettu!
+OdysseyComplete,Odysseia suoritettu!
 HeroesQuincyCyberQuincyPlacementFireworksShortName,Kyber-ilotulitus
 HeroesAdoraPlacementSunbeamShortName,Adoran auringonsäde
 HeroesChurchillPlacementTankDropShortName,Churchillin tankkipudotus
@@ -3006,12 +3006,12 @@ GameUIProfileAvatar18ShortName,Churchill-avatar
 GameUIProfileAvatar18Description,Voi olla isänmaallinen velvollisuutesi osoittaa kunniaa tulituksessa oleville apinasankareille.\nAseta pelaaja-avatarisi päävalikon avatar-muotokuvan kautta
 MonkeyNameHeader,Muokkaa apinan nimeä
 MonkeyNameInstruction,Valitse oma nimi jokaisen tyypin ensimmäiselle apinalle. Nimien raja on 20 merkkiä ja 2 riviä ihanteellista näkymistä varten. Käytä välilyöntiä rivien erottamiseen
-OdysseyCompleteDescription,"Onnea, urhea seikkailija! Olet suorittanut seikkailuretken ja ansainnut nämä palkkiot!"
+OdysseyCompleteDescription,"Onnea, urhea seikkailija! Olet suorittanut odysseian ja ansainnut nämä palkkiot!"
 HeroBoosterDescription,Tehostetaanko sankari välittömästi tasolle 10?
 InappropriateNamedMonkeyName,Valitse soveliaampi apinan nimi
-PatchNotesLink,Voit katsoa täydet päivitystiedot osoitteesta
+PatchNotesLink,Voit katsoa täydet päivitystiedot osoitteesta:
 TrophyPurchaseConfirmation,Ostetaanko {0} hintaan {1} pokaalia?
-TrophyPurchaseInsufficient,Sinulla ei ole riittävästi pokaaleja tämän esineen ostamiseen. Hanki lisää kilpailuista ja seikkailuretkistä.
+TrophyPurchaseInsufficient,Sinulla ei ole riittävästi pokaaleja tämän esineen ostamiseen. Hanki lisää kilpailuista ja odysseioista.
 TrophyStoreBought,Ostettu
 LotusIsland,Lotussaari
 OctoJonesStrikerJonesSkinName,Octojones-ulkoasu
@@ -3024,11 +3024,11 @@ CoopEmoteTextAllIsFineWord,Kaikki hyvin
 PlayerStatsTimesUpgraded,Päivityskerran
 PlayerStatsTimesSacrificed,Uhrauskerrat
 TrophyStoreInfoHeader,Pokaalikaupan tiedot
-TrophyStoreInfoBody,Pokaalikauppa tarjoaa lukuisia mahtavia kosmeettisia päivityksiä!\n• Ansaitse pokaaleja suorittamalla seikkailuretkiä ja sijoittumalla kisoissa\n• Useimmat ostetut esineet voidaan ottaa käyttöön ja poistaa käytöstä tavaraluettelon välilehdeltä\n• Ostetut musiikkikappaleet ovat saatavilla jukeboksissa\n• Ostetut avatarit näkyvät päävalikon profiilissa\n• Nimettyjä apinoita voi muokata pelin päivitysvalikosta
-RestartOdysseyBody,Haluatko varmasti aloittaa seikkailuretken alusta?
+TrophyStoreInfoBody,Pokaalikauppa tarjoaa lukuisia mahtavia kosmeettisia päivityksiä!\n• Ansaitse pokaaleja suorittamalla odysseioja ja sijoittumalla kisoissa\n• Useimmat ostetut esineet voidaan ottaa käyttöön ja poistaa käytöstä tavaraluettelon välilehdeltä\n• Ostetut musiikkikappaleet ovat saatavilla jukeboksissa\n• Ostetut avatarit näkyvät päävalikon profiilissa\n• Nimettyjä apinoita voi muokata pelin päivitysvalikosta
+RestartOdysseyBody,Haluatko varmasti aloittaa odysseian alusta?
 OdysseyBannerRewards,Ansaitse palkkioita ja pokaaleita!
 UpdateNotes,Päivitystiedot
-OdysseyEventEnded,Seikkailuretki-tapahtuma on päättynyt!
+OdysseyEventEnded,Odysseia-tapahtuma on päättynyt!
 NamedMonkeysAll,Kaikki
 NamedMonkeysTitle,Nimetyt apinat
 PlayerStatsLifetimeTrophies,Kaikkien aikojen pokaalit
@@ -3101,7 +3101,7 @@ CoopEmoteTextLetsGoDescription,Oletko täynnä vaivoin pidäteltyä intoa? Valmi
 CoopEmoteTextOKName,OK-tekstiemote
 CoopEmoteTextOKShortName,OK
 CoopEmoteTextOKDescription,Täydellinen kaikkiin tilanteisiin. Kommunikoi mahdollisimman vähillä kirjaimilla!
-OdysseyExtremeModeConfirmCrew,Olet valinnut alle maksimikoon miehistölle tätä äärimmäistä seikkailuretkeä varten. Oletko varma?
+OdysseyExtremeModeConfirmCrew,Olet valinnut alle maksimikoon miehistölle tätä äärimmäistä odysseiaa varten. Oletko varma?
 OdysseyAllHeroesText,Kaikki sankarit
 OdysseyAllTowersText,Kaikki apinatornit
 OdysseyAllPowersText,Kaikki voimat
@@ -3128,28 +3128,28 @@ GameUIMusicTrackMusicSunsetSilentNightMixName,Jukeboksi: Auringonlaskun samba �
 GameUIMusicTrackMusicSunsetSilentNightMixShortName,Auringonlasku – Hiljainen yö
 GameUIMusicTrackMusicSunsetSilentNightMixDescription,Rento kappale vähentää intensiteettiä – täydellinen myöhäiseen yöhön tai aikaiseen aamuun
 ShowLocalNetworkGames,Näytä paikallisverkon pelit
-OdysseyReplayOdyssey,Pelaa seikkailuretki uudelleen
+OdysseyReplayOdyssey,Pelaa odysseia uudelleen
 OdysseyWarnNoTowers,Varoitus! Sinulle ei jää apinoita käytettäväksi saarelle {0}. Haluatko jatkaa?
 CoopLobbyNotAvailable,Aula ei ole saatavilla
 NotAvailable,Ei saatavilla
 Achievement 93 Name,Seikkailija
-Achievement 93 Description,Suorita seikkailuretki
+Achievement 93 Description,Suorita odysseia
 Achievement 94 Name,Kokenut seikkailija
-Achievement 94 Description,Suorita vaikea seikkailuretki
+Achievement 94 Description,Suorita vaikea odysseia
 Achievement 95 Name,Ei kiveäkään kääntämättä
-Achievement 95 Description,Suorita kaikki 3 vaikeustasoa yhdestä seikkailuretkestä
+Achievement 95 Description,Suorita kaikki 3 vaikeustasoa yhdestä odysseiasta
 Achievement 96 Name,Apinakleen 12 urotyötä
-Achievement 96 Description,Suorita 12 eri seikkailuretkeä
+Achievement 96 Description,Suorita 12 eri odysseiaa
 Achievement 97 Name,Apisseuksen nousu
-Achievement 97 Description,Suorita 50 seikkailuretkeä
+Achievement 97 Description,Suorita 50 odysseiaa
 Achievement 98 Name,Ikuinen Apisseus
-Achievement 98 Description,Suorita 100 seikkailuretkeä
+Achievement 98 Description,Suorita 100 odysseiaa
 Achievement 99 Name,Täyttä vauhtia eteenpäin!
-Achievement 99 Description,Suorita seikkailuretki alle 1 tunnissa
+Achievement 99 Description,Suorita odysseia alle 1 tunnissa
 Achievement 100 Name,Uutta ja näyttävää
 Achievement 100 Description,Osta esine pokaalikaupasta
 Achievement 101 Name,Sankarit tietävät ongelmia
-Achievement 101 Description,Suorita seikkailuretki ilman sankaria
+Achievement 101 Description,Suorita odysseia ilman sankaria
 Heroes Available:,Saatavilla olevat sankarit:
 Encrypted,Salattu
 TT_Locked,Lukittu
@@ -3244,7 +3244,7 @@ OdysseyThemeRoundMixUp,Kierrossekoitus
 OdysseyThemeEntryMixUp,Sisäänkäyntisekoitus
 OdysseyStars,Tähdet
 DisableNudgeMode,Poista tönäisytila käytöstä
-More Pops To Open,enemmän poksautuksia avattavaksi!
+More Pops To Open,Lisää poksautuksia avattavaksi!
 Most Pops Tip,"Hanki useimmat poksautukset keskitason, vaikean tason ja maksuttomissa peleissä!"
 btd6_churchillbundle,Sankaripakkaus
 btd6_churchillbundle Description,• Sankari \n• Sankarin ulkoasu \n• Asetusanimaatio \n• Avatar
@@ -3597,7 +3597,9 @@ btd6_4racespass Description,Kisaa niin paljon kuin haluat 4 kisan ajan!
 btd6_4racespass,4 kisapassia
 btd6_12racespass Description,Kisaa niin paljon kuin haluat 12 kisan ajan!
 btd6_12racespass,12 kisapassia
+AccountPermissionRestriction,Tällä Xbox-tilillä ei ole lupaa pelata moninpelejä
 GetHeroBooster,Hanki sankaritehostin
+AccountCommunityPermissionRestriction,Tällä Xbox-tilillä ei ole lupaa näyttää tai luoda yhteisösisältöä
 IntermediateUnlockText,"Läpäise Aloittelija-kartta ensimmäistä kertaa, jotta saat avattua keskitason kartan"
 AdvancedUnlockText,"Läpäise keskitason kartta ensimmäistä kertaa, jotta saat avattua edistyneen kartan"
 ExpertUnlockText,"Läpäise edistynyt kartta ensimmäistä kertaa, jotta saat avattua asiantuntijan kartan"
@@ -3671,7 +3673,7 @@ PlayerPositionClosed,Pelaajapaikka kiinni
 YouFinished,Sijoituksesi:
 BestTime,Paras aika:
 Claim,Lunasta
-PlayerRejoinedGame,liittyi uudelleen peliin
+PlayerRejoinedGame, liittyi uudelleen peliin
 PlayerKickedFromGame,{0} on poistettu pelistä
 ConfirmKickPlayer,Haluatko varmasti poistaa pelaajan {0}?
 Remove,Poista
@@ -3682,7 +3684,7 @@ SharingChallenge,Selviydytkö tästä Bloons TD 6 -haasteesta?
 btd6_racespass,{0} kisapassia
 btd6_racepass,1 kisapassi
 OdysseyCrewConfirmed,Miehistö vahvistettu
-OdysseyCrewModified,Miehistö muokattu
+OdysseyCrewModified,Miehistöä muokattu
 Odysseys,Odysseiat
 InviteReceivedTitle,Kutsu vastaanotettu
 ChallengeInviteReceivedDescription,Sinut on kutsuttu kokeilemaan haastekoodia: {0}
@@ -3697,7 +3699,7 @@ game already opened,Onko peli jo auki?
 Psi,Psi
 Psi Short Description,Psioninen apina
 Psi Description,"Psi on lahjakas apinalapsi, joka käyttää pelkkää mielenvoimaa tuhoamaan blooneja sisältäpäin."
-Psi Level 1 Description,"Psi pystyy miltä tahansa etäisyydeltä ja esteistä välittämättä luomaan tappavia värinöitä, jotka tuhoavat yhden bloonin kerrallaan."
+Psi Level 1 Description,"Psi pystyy miltä tahansa etäisyydeltä ja esteistä välittämättä luomaan tappavia värinöitä, jotka tuhoavat yhden bloonin kerrallaan. Voi tähdätä maastokuvioituja blooneja."
 Psi Level 2 Description,Hyökkää hieman nopeammin.
 Psi Level 3 Description,"Psyykkinen isku: Psi iskee voima-aallolla, joka tyrmää läheiset bloonit pitkäksi aikaa."
 Psi Level 4 Description,"Psin hyökkäys voi osua toiseen blooniin, jos se on erittäin lähellä kohteena ollutta bloonia."
@@ -3803,43 +3805,43 @@ PlaySocial,Pelaa sosiaalisesti
 ContentBrowser,Sisältöselain
 CoopChallenge,Yhteistoimintahaaste
 SocialEditChallenge,Muokkaa haastetta
-SocialEditOdyssey,Muokkaa seikkailuretkeä
+SocialEditOdyssey,Muokkaa odysseiaa
 SocialViewBrowser,Näytä selain
 MonkeyTeamWins,Apinatiimi voittaa
 NewerSaveFound,"Uudemmat tallennustiedot löydetty! Olet pelannut pelin uudempaa versiota toisella laitteella. Päivitä nyt, jotta voit jatkaa pelaamista tällä laitteella. Ei päivitystä saatavilla? Katso ohjeita osoitteesta https://ninja.kiwi/btd6_outofdate."
 RacePasses,{0} kisapassia
 FreeEntries,{0} ilmaista osallistumista
 FreeEntry,1 ilmainen osallistuminen
-PrivateCoopLobby,Yksityinen osuuskunnan aula
-PublicCoopLobby,Co-op-aula [{0}]
+PrivateCoopLobby,Yksityinen yhteistoiminta-aula
+PublicCoopLobby,Yhteistoiminta-aula {0}
 MyOdysseys,Omat Odysseyt
-OdysseySearch,Haku- / Odysseiakoodi ...
-Psychic Blast Ability,Psyykkinen räjähdys
-Psychic Blast Ability Description,Psi päästää vallan aallon, joka tainnuttaa lähellä olevia Bloonsia pitkään.
+OdysseySearch,Haku- / Odysseiakoodi …
+Psychic Blast Ability,Psyykkinen isku
+Psychic Blast Ability Description,"Psi iskee voima-aallolla, joka tyrmää läheiset bloonit pitkäksi aikaa."
 Psionic Scream Ability,Psioninen huuto
-Psionic Scream Ability Description,Psi päästää hiljaisen huudon, joka heittää Bloonit täydelliseen kaaokseen.
-EditorMode,Editor-tila
+Psionic Scream Ability Description,"Psi hyökkää äänettömällä huudolla, joka saa bloonit kaaokseen."
+EditorMode,Muokkaustila
 ConfirmMaps,Vahvistettavat kartat: {0}
 ResetOdysseyProgress,Tämä mitätöi Odysseian edistymisen. Oletko varma?
 OdysseyName,Odysseian nimi
 OdysseyEditor,Odyssey Editor
-MaxPowers,Max Powers:
-MaxMonkeySlots,Max Monkey -paikat:
-MaxPowerSlots,Enimmäisvirta-paikat:
+MaxPowers,Voimia enintään:
+MaxMonkeySlots,Paikkoja apinoille enintään:
+MaxPowerSlots,Paikkoja kyvyille enintään:
 MapNumber,Kartta {0}
 ExtremeMode,Äärimmäinen tila:
-Edit,Muokata
+Edit,Muokkaa
 OdysseyInviteReceivedDescription,Sinut on kutsuttu kokeilemaan odysseiakoodia: {0}
 SharingOdyssey,Voitko voittaa tämän Bloons TD 6-Odysseian?
-EditorPowersIncluded,Mukana valta
-EditorPowersExcluded,Virta pois
+EditorPowersIncluded,Sisällytetyt voimat
+EditorPowersExcluded,Pois suljetut voimat
 OdysseyDescription,Kuvaus:
 SelectDefaultCrew,Valitse oletusmiehistö
-Completed,Valmistunut
+Completed,Valmis
 BossStart,Aloita pomotapahtuma
 BloonariusPrime,Bloonarius Prime
-OdysseyLockedSubmitButtonDescription,Olet jo lähettänyt tämän seikkailun
-OdysseyLockedShareButtonDescription,"Seikkailun jakamista varten sinun saavutettava voittonäyttö testitilassa, jotta todistat läpäisyn mahdolliseksi!"
+OdysseyLockedSubmitButtonDescription,Olet jo lähettänyt tämän odysseian
+OdysseyLockedShareButtonDescription,"Odysseian jakamista varten sinun saavutettava voittonäyttö testitilassa, jotta todistat läpäisyn mahdolliseksi!"
 OdysseyShareAgainExplanation,"Jaa uudelleen sen jälkeen, kun aika on kulunut umpeen. Jotta voit jakaa seikkailun, sinun on päihitettävä se."
 ProfileAvatars,Avatarit
 ProfileBanners,Bannerit
@@ -3873,15 +3875,15 @@ CoopEmoteTextNextRoundScaryDescription,Varoita muita yhteistoiminnan jäseniä s
 CoopEmoteTextNextRoundScaryWord,Seuraava kierros! Pelottavaa!
 CoopEmoteAnimationFistpumpName,Fist pump -animaatio
 CoopEmoteAnimationFistpumpShortName,Fist pump
-CoopEmoteAnimationFistpumpDescription,Kiitos hyvin tehdystä työstä!
+CoopEmoteAnimationFistpumpDescription,Juhlista hyvin tehtyä työtä!
 GameUIProfileAvatar44Name,Oma avatar – SAS-apina
 GameUIProfileAvatar44ShortName,SAS-apina-avatar
-GameUIProfileAvatar44Description,"Voittaja-avatar, Deacon"
+GameUIProfileAvatar44Description,"Voittaja-avatar, LV-223_Deacon"
 GameUIProfileAvatar45Name,Oma avatar – Piirustukset
 GameUIProfileAvatar45ShortName,Piirustukset-avatar
 GameUIProfileAvatar45Description,"Voittaja-avatar, dungeon-raided"
-GameUIProfileAvatar46Name,Oma avatar – Ezili
-GameUIProfileAvatar46ShortName,Ezili-avatar
+GameUIProfileAvatar46Name,Oma avatar – Naamioitu Ezili
+GameUIProfileAvatar46ShortName,Naamioitu Ezili -avatar
 GameUIProfileAvatar46Description,Tunnetaan myös nimellä Aamutukka-Ezili
 GameUIProfileAvatar47Name,Oma avatar - piikkipallo
 GameUIProfileAvatar47ShortName,Piikkipallo-avatar
@@ -3929,7 +3931,7 @@ EngineerMonkeys,Insinööriapinat
 SpikeFactorys,Piikkitehtaat
 MonkeyVillages,Apinakylät
 BossInfoPanelTitle,Pomoblooni-tapahtuma
-BossInfoPanelDescription,"Tervehdys, rohkea seikkailija. Olet astunut pomojen valtakuntaan. Onnea matkaan, ja muista nämä säännöt:\n• Pomotapahtuma alkaa heti kun painat Pelaa-painiketta, eikä kierrosten välillä ole taukoja.\n•  Voittaminen vaatii kaikkien 5 pomotason päihittämise"
+BossInfoPanelDescription,"Tervehdys, rohkea seikkailija. Olet astunut pomojen valtakuntaan! Onnea matkaan, ja muista nämä tärkeät säännöt:\n• Pomotapahtuma alkaa heti, kun painat Pelaa-painiketta, eikä kierrosten välillä ole taukoja eikä pomoja voi hidastaa.\n•  Kunkin pomotilan voittaminen vaatii kaikkien 5 pomotason päihittämisen. Eliittitila avautuu, kun tavallinen on voitettu.\n• Rakenna tuotanto kuntoon, valmistele kykysi ja hyödynnä niitä tasojen välillä!\n• Ansaitse pokaaleja ja muita palkkioita kutakin päihitettyä tasoa kohden, mutta jos et onnistu voittamaan tasoa 20:n kierroksen aikana, häviät.\n• Kilpaile muita pelaajia vastaan Ranked-tilassa ja katso, kuka pystyy voittamaan pomon nopeimmin, ja ansaitse upeita palkkioita.\n• Paras yksinpelin TAI yhteistoiminnan sijoitus määrittää voittamasi palkkiot.\n• Tavallisella ja eliittitilalla on omat pistetaulukkonsa ja palkkionsa, voit voittaa molemmista!"
 BloonariusInfoPanelDescription,"Liejussa viihtyvä Bloonarius sylkee vahingoittuessaan blooneja. Kun sen terveyspalkki saavuttaa pääkallon, Bloonarius oksentaa valtavan rykelmän blooneja.\n\nBloonariuksen liejun kovettama kuori tekee siitä hitaan mutta erittäin kestävän."
 NextBossIn,Pomo ilmaantuu: {0}
 ARound,1 kierroksen jälkeen
@@ -3957,8 +3959,8 @@ PlayerStatsHighestRoundCHIMPS,Paras CHIMPS-kierros
 PlayerStatsHighestRoundDeflation,Paras Tyhjennys-tilan kierros
 Rejoin Coop,Palaa yhteistoimintaan
 WaitingEndRound,Odottaa kierroksen päättymistä
-SoftwareCursor,Ohjelman kursori
-LargeCursor,Suuri kursori
+SoftwareCursor,Suuri kursori
+LargeCursor,XL-kursori
 Cursor,Kursori
 SandboxCursor,Hiekkalaatikko/kursori
 Achievement 128 Name,Mitäs bloonia se tämmöinen on?
@@ -4012,3 +4014,107 @@ Retry From Checkpoint,Yritä uudelleen tarkistuspisteestä
 RetryCheckpointText,Yritetäänkö uudelleen edellisestä tarkistuspisteestä kierrokselta {0}?
 Retry From Round,Yritä uudelleen kierrokselta {0}
 EliteBossLockedPopup,Voita pomo tavallisella vaikeustasolla avataksesi eliittivaikeustason
+Custom Odyssey,Oma odysseia
+Creating Odyssey,Odysseian luominen
+Creating Challenge,Haasteen luominen
+TheCabin,Mökki
+VikingSaudaSaudaSkinName,Viikinki-Sauda-ulkoasu
+VikingSaudaSaudaSkinDescription,Kirveet valmiiksi!
+HeroesChurchillSentaiSkinPetDroneName,Sentai Churchill -droonilemmikki
+HeroesChurchillSentaiSkinPetDroneShortName,Sentai Churchill -drooni
+HeroesChurchillSentaiSkinPetDroneDescription,"Super Advanced Scout Sentry Y26G laskee laserinnopean uhka-arvion ja näyttää samalla hyvältä. Ei ihme, että sen nimi on SASSY. Vain Sentai Churchill"
+TowerPetGlueGunnerRatName,Liima-ampujan lemmikkirotta
+TowerPetGlueGunnerRatShortName,Liima-ampujan lemmikkirotta
+TowerPetGlueGunnerRatDescription,"Aina liima-ampujan vierellä, erityisesti laboratoriossa. Oletko koskaan miettinyt, kuka ratkoo tieteeseen liittyvät kysymykset liiman monista ominaisuuksista? Luulemme, että tämä rotta hoitaa sen."
+TowerEffectAllMonkeysPlacementUpgradesBatsName,Lepakkojen asettelu ja päivitystehosteet
+TowerEffectAllMonkeysPlacementUpgradesBatsShortName,Lepakkopäivitystehoste
+TowerEffectAllMonkeysPlacementUpgradesBatsDescription,"Pelottele blooneja aina, kun torni asetetaan ja päivitetään, upeilla lepakkoanimaatioilla, jotka ovat kammottavan hienoja tietyillä kartoilla."
+TowerPetMonkeyBuccaneerNarwhalName,Merirosvoapinan sarvivalaslemmikki
+TowerPetMonkeyBuccaneerNarwhalShortName,Merirosvon sarvivalaslemmikki
+TowerPetMonkeyBuccaneerNarwhalDescription,Katsele myyttistä sarvivalasta jokaisen asetetun merirosvon myötä! Ketkä muut kuin mahtavat merirosvot pystyisivät hallitsemaan meriä ja ystävystymään niiden legendojen kanssa?
+TowerProjectileEngineerVampireHunterName,Vampyyrinmetsästäjäinsinöörin aseet
+TowerProjectileEngineerVampireHunterShortName,Vampyyrinmetsästäjäinsinööri
+TowerProjectileEngineerVampireHunterDescription,"Siltä varalta, että bloonit ovatkin salaa vampyyreja, insinööri voi nyt ottaa käyttöön vampyyriblooneja poksauttavia aseita, kuten vaarnoja, valkosipulia ja arkkuja. Rajallisen ajan keräilykappale!"
+TowerPropMonkeyVillageCanadianFlagName,Apinakylän Kanadan lippu
+TowerPropMonkeyVillageCanadianFlagShortName,Kylän Kanadan lippu
+TowerPropMonkeyVillageCanadianFlagDescription,"Eh, oli jo aikakin! Oi Kanada, nosta tämä lippu kaikkien apinakylien salkoon. Näkyy kaikissa päivityksissä"
+BloonsZOMGSkinJackOLanternName,Kurpitsalyhty-ZOMG
+BloonsZOMGSkinJackOLanternShortName,Kurpitsalyhty-ZOMG
+BloonsZOMGSkinJackOLanternDescription,"Saudan voittoisa osallistuminen vuosittaiseen ZOMGin näköiseksi kaiverrettu kurpitsa -kisaan, ja hän pystyy yhä leikkaamaan tomaattia! Rajallisen ajan keräilykappale!"
+BloonsAllBloonsVampireCapesName,Vampyyriviitta-bloonit
+BloonsAllBloonsVampireCapesShortName,Vampyyriviitta-bloonit
+BloonsAllBloonsVampireCapesDescription,Pue bloonisi yön olennoiksi halloweenin ajaksi! Rajallisen ajan keräilykappale!
+CoopEmoteAnimationPanicMonkeyName,Paniikkiapina-emote
+CoopEmoteAnimationPanicMonkeyShortName,Paniikkiapina
+CoopEmoteAnimationPanicMonkeyDescription,"Tässä puhuu yhteistoiminnan isäntänne. Älkää. Panikoiko. No niin, NYT PANIKOIKAA!"
+CoopEmoteAnimationBeggingMonkeyName,"Ole kiltti, apina -emote"
+CoopEmoteAnimationBeggingMonkeyShortName,"Ole kiltti, apina"
+CoopEmoteAnimationBeggingMonkeyDescription,"Ole kiltti, tarvitsen enää kymppitonnin tähän päivitykseen! On vain sattumaa, että olen pelaaja 3, ihan oikeasti!"
+GameUIPowerSkinThriveStonksName,Oma voima – Stonkit nousussa
+GameUIPowerSkinThriveStonksShortName,Stonkit nousussa
+GameUIPowerSkinThriveStonksDescription,"Ben sanoo, että kaikki kannattaa investoida banaanicoiniin, se on menossa kuuhun!"
+GameUIProfileAvatar48Name,Oma avatar – Jääkiekkomaskiapina
+GameUIProfileAvatar48ShortName,Jääkiekkomaski-avatar
+GameUIProfileAvatar48Description,Varo jääkiekkomaskiapinaa! Rajallisen ajan keräilykappale!
+GameUIProfileAvatar49Name,Oma avatar – Lyijyzeppeliini
+GameUIProfileAvatar49ShortName,Lyijyzeppeliini-avatar
+GameUIProfileAvatar49Description,"Voittaja-avatar, waywardzuck"
+GameUIProfileAvatar50Name,Oma avatar – Paras Ben
+GameUIProfileAvatar50ShortName,Paras Ben -avatar
+GameUIProfileAvatar50Description,Kuka on valmis hoitamaan IT-tukesi? Tämä tyyppi! Kuka soittaa parhaita biittejä? Tämä tyyppi! Ja kuka voi toimittaa herkkusushia seuraavaan tiimitapahtumaasi? Tämä tyyppipä hyvinkin.
+GameUIProfileAvatar51Name,Oma avatar – Toiminta-Psi
+GameUIProfileAvatar51ShortName,Toiminta-Psi-avatar
+GameUIProfileAvatar51Description,"Se, että Psi on yhtä universumin kanssa, ei tarkoita, etteikö hän voisi välillä pitää vähän hauskaa! Osoita rakkauttasi käyttämällä tätä mahtavaa Psi-avataria."
+GameUIProfileBanner6Name,Aurinkotemppeli-profiliibanneri
+GameUIProfileBanner6ShortName,Aurinkotemppeli-banneri
+GameUIProfileBanner6Description,Todista täysin toimintakuntoisen aurinkotemppelin todellista voimaa tällä eeppisellä profiilibannerilla
+GameUIProfileBanner7Name,Haamuja ja karkkia -profiilibanneri
+GameUIProfileBanner7ShortName,Haamuja ja karkkia -banneri
+GameUIProfileBanner7Description,Karkki tai kepponen! Täydellinen halloweenin profiilibanneri
+LychTagLine,Hautaherra
+LychTagLine2,on herännyt henkiin!
+Lych,Lych
+LychInfoPanelDescription,"• Hautaherra Lych imee tehosteita apinoilta ja parantaa samalla itseään.\n• Kun Lychin terveyspalkin jokainen pääkallo on saavutettu, se muuttuu eteeriseksi ja herättää henkiin äskettäin poksautettujen MOAB-luokan bloonien tyhjät kuoret.\n• Eteerisenä Lyc"
+EditorReviewMap,Tarkasta kartta
+YourBestTime,Paras aikasi
+Boss,Pomo
+MiniBoss,Minipomo
+NormalRewards,Tavalliset palkkiot
+EliteRewards,Eliittipalkkiot
+1Player,1 pelaaja
+2Player,2 pelaajaa
+3Player,3 pelaajaa
+4Player,4 pelaajaa
+BossLeaderboard,Pomon pistetaulukko
+LeaderboardSubmissionFail,Ei voi lähettää pistetaulukkoon
+SafeNameChallenge,Haaste ({0})
+SafeNameOdyssey,Odysseia ({0})
+BossEventEnded,Pomotapahtuma on päättynyt!
+RankedNormal,Tavallinen Ranked
+RankedElite,Eliitti-Ranked
+StartRankedBoss,Aloita Ranked-pomo
+MusicHaunted,Kummitustalo
+GameUIMusicTrackMusicHauntedName,Jukeboksi: Kummitustalo
+GameUIMusicTrackMusicHauntedShortName,Jukeboksi: Kummitustalo
+GameUIMusicTrackMusicHauntedDescription,Kummitteleva biitti ja aavemainen rytmi tekevät tästä ehdottoman raidan halloweeniksi tai myöhäisiin pelisessioihin. Rajallisen ajan keräilykappale!
+NSCameraUsageDescription,Tukipyyntöjen kuvankaappaukset
+btd6_needmoremonkeymoneyprompt_no_iap,Ei riittävästi apinarahaa!
+UseRacePassDescription,"Käytetäänkö kisapassi, jotta tähän kisaan saadaan rajaton määrä osallistumisia?"
+RacePassActivated,Kisapassi aktivoitu
+UseRacePassTitle,Käytetäänkö kisapassi?
+Elite Best Time,Paras eliittiaika
+Normal Best Time,Paras tavallinen aika
+NormalCursor,Tavallinen kursori
+MayAffectPerformance,*Voi vaikuttaa suorituskykyyn
+GameUIMusicTrackMusicOnslaughtName,Vyörytys
+GameUIMusicTrackMusicOnslaughtShortName,Vyörytys
+GameUIMusicTrackMusicOnslaughtDescription,Vyörytys-pomoraita
+SharingCoopBoss,Liity pomopeliini Bloons TD 6:ssa!
+EliteBossEvent,Eliittipomotapahtuma
+NinjaMonkey Paragon,Ylentynyt Varjo
+NinjaMonkey Paragon Description,Täydellinen salamurhaajapaketti kaikkien blooniuhkien hoitamiseen.
+Elite,Eliitti
+HackGameStopMessage,Peliarvoja ei voi synkronoida uudelleen. Ikävä kyllä tämä peli ei voi jatkua. Kokeile uutta peliä.
+RankedMode,Ranked-tila
+Any,Mikä tahansa
+ScoreNotVerifiable,Pisteitäsi ei lähetetty, koska sitä ei voitu vahvistaa.

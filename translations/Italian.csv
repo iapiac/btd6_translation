@@ -1,4 +1,4 @@
-//Input. Needs to be first e.g [I] replaced by click or tap,
+﻿//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Clicca
 Tap,Tocca
 ,
@@ -173,7 +173,7 @@ Benjamin Level 3 Description,Hackeraggio: conferisce alle 4 scimmie più vicine 
 Benjamin Level 4 Description,Trattenuta - +1 $ per ogni nuovo bloon generato.
 Benjamin Level 5 Description,Attacco informatico - +5% di entrate per tutte le banche.
 Benjamin Level 6 Description,Sicurezza informatica - Ripristina 5 vite al termine di ogni round.
-Benjamin Level 7 Description,Virus informatico anti bloon - Invia ogni pochi secondi un virus informatico a un bloon a caso. I bloon infettati non ne generano altri quando vengono distrutti e producono contante raddoppiato.
+Benjamin Level 7 Description,Virus informatico anti bloon - Invia ogni pochi secondi un virus informatico a un bloon a caso. I bloon infettati non ne generano altri quando vengono distrutti e producono 1 contante extra per ogni strato.
 Benjamin Level 8 Description,Entrate aumentate di 250 $ per round.
 Benjamin Level 9 Description,Attacco informatico aumentato dell' 12%.
 Benjamin Level 10 Description,Dirottamento di fondi: degrada la maggior parte bloon appena generati di 1 livello. Il denaro ottenuto facendo scoppiare i bloon sotto il suo effetto si raddoppia. Dura 10 secondi.
@@ -248,7 +248,7 @@ Ezili Level 15 Description,Portata aumentata.
 Ezili Level 16 Description,Il Totem sacrificale dura più a lungo e il suo utilizzo costa solo 1 vita.
 Ezili Level 17 Description,Gli attacchi base di tipo radiale hanno un raggio d'azione più ampio e una penetrazione maggiore.
 Ezili Level 18 Description,Velocità d'attacco aumentata.
-Ezili Level 19 Description,Ogni danno minimo inferto dagli attacchi base provoca lo scoppio di 2 strati!
+Ezili Level 19 Description,Ogni danno minimo inferto dagli attacchi base provoca lo scoppio di 3 strati!
 Ezili Level 20 Description,L'anatema MOAB funziona più velocemente ed è in grado di distruggere bloon di classe BAD.
 ,
 //Hero Ability Names,
@@ -357,7 +357,7 @@ The Tack Zone,La zona puntine
 Permafrost,Permafrost
 Enhanced Freeze,Gelo potenziato
 Larger Radius,Raggio maxi
-Metal Freeze,Metallo congelato
+Metal Freeze,Gelata
 Deep Freeze,Gelo profondo
 Re-Freeze,Ricongelamento
 Ice Shards,Schegge di ghiaccio
@@ -607,7 +607,7 @@ Double Gun,Pistola doppia
 Sentry Expert,Sentinella esperta
 Overclock,Sovraccarico
 Bloon Trap,Trappola per bloon
-Sentry Paragon,Sentinella campione
+Sentry Paragon,Sentinella vincitore
 Ultraboost,Ultra potenziamento
 XXXL Trap,Trappola XXXL
 ,
@@ -755,13 +755,13 @@ The Tack Zone Description,Puntine in gran quantità.
 Permafrost Description,I bloon si muovono lentamente anche dopo lo scongelamento.
 Enhanced Freeze Description,Attacca più rapidamente e congela per un lasso di tempo maggiore.
 Larger Radius Description,Area congelata maxi.
-Metal Freeze Description,È in grado di congelare e far scoppiare bloon di piombo.
+Metal Freeze Description,È in grado di congelare e far scoppiare bloon di piombo e mimetizzati.
 Deep Freeze Description,L'effetto congelante si propaga per 2 strati del bloon.
 Re-Freeze Description,È in grado di ricongelare bloon già congelati.
 Ice Shards Description,"Quando un bloon congelato scoppia, vengono espulse schegge affilate."
 Arctic Wind Description,Aumenta considerevolmente la perforazione e ottiene un'aura super gelata che rallenta i bloon e congela l'acqua nelle vicinanze.
 Cryo Cannon Description,Spara bombe congelanti contro i bloon coprendo una portata ancora maggiore.
-Embrittlement Description,"Individua bloon mimetizzati e tutti i bloon colpiti diventano fragili, subendo danni extra per un breve periodo e perdendo permanentemente le proprietà mimetiche e rigenerative."
+Embrittlement Description,"Individua bloon mimetizzati e tutti i bloon colpiti, compresi i MOAB, diventano fragili, subendo danni extra per un breve periodo e perdendo permanentemente le proprietà mimetiche e rigenerative."
 Snowstorm Description,"Abilità Tempesta di neve: congela tutti i bloon normali sullo schermo e inoltre congela per un breve lasso di tempo i bloon bianchi, zebrati e mimetizzati. Rallenta invece i bloon di classe MOAB."
 Icicles Description,Dai bloon congelati spuntano ghiaccioli acuminati in grado di far scoppiare i bloon che vi entrano in contatto.
 Super Brittle Description,"Quando vengono congelati i bloon subiscono considerevoli danni, inclusi quelli classe MOAB."
@@ -795,7 +795,7 @@ Bouncing Bullet Description,I colpi rimbalzano andando a colpire un nuovo bersag
 Semi-Automatic Description,Attacca 3 volte più rapidamente.
 Maim MOAB Description,Infligge molti più danni e immobilizza i bloon di classe MOAB per un breve lasso di tempo.
 Supply Drop Description,Abilità Lancio scorte: rilascia una cassa piena di contante. L'attacco normale danneggia anche i bloon di piombo e aumenta i bloon distrutti dalle schegge.
-Full Auto Rifle Description,"Arma completamente automatica dotata di un'incredibile potenza distruttiva, che infligge danni anche ai bloon di piombo."
+Full Auto Rifle Description,Arma completamente automatica dotata di un'incredibile potenza distruttiva.
 Cripple MOAB Description,I MOAB azzoppati vengono immobilizzati per un lasso di tempo maggiore e subiscono danno extra da tutti gli altri attacchi.
 Elite Sniper Description,Il Lancio scorte fornisce molto più contante. Conferisce mira prioritaria élite e caricamento accelerato a tutti i cecchini.
 Elite Defender Description,"Per una vita perduta un cecchino riceve, in contraccambio, un attacco 4 volte più rapido per un breve lasso di tempo."
@@ -827,13 +827,13 @@ Buccaneer-Cannon Ship Description,Aggiunge un potente cannone in grado di sparar
 Buccaneer-Merchantman Description,Genera automaticamente contante in ogni round.
 Buccaneer-Aircraft Carrier Description,Lancia ondate di caccia che sorvolano il bersaglio e lanciano missili ai Bloon di classe MOAB.
 Buccaneer-Monkey Pirates Description,Aggiunge 2 cannoni alla nave e gli attacchi dei cannoni infliggono più danni. Abilità Abbattimento MOAB: arpiona un Bloon di classe MOAB e lo trascina a terra.
-Buccaneer-Favored Trades Description,Attacca più velocemente e genera molto denaro ogni round. Le scimmie nel raggio hanno maggior valore di vendita e possono accumulare fino a 3 Traffici favoriti per il 95% del valore massimo di vendita.
+Buccaneer-Favored Trades Description,Attacca più velocemente e genera molto denaro ogni round. Le scimmie nel raggio hanno maggior valore di vendita.
 Buccaneer-Carrier Flagship Description,Infligge danni extra. Può collocare altre scimmie sui ponti superiori della nave e aumenta la velocità d'attacco di tutte le scimmie acquatiche e delle scimmie asso.
 Buccaneer-Pirate Lord Description,"Velocità d'attacco considerevolmente maggiore, è in grado di lanciare 3 rampini alla volta e di ricavare contante extra da ogni bloon di classe MOAB catturato."
 Buccaneer-Trade Empire Description,"Genera più contante durante ogni round, aumenta fino a 20 il denaro guadagnato da tutti gli altri mercanti per il numero di mercanti presenti e potenzia il danno di tutti i mercanti."
 ,
 Rapid Fire Description,Spara più rapidamente del normale.
-Exploding Pineapple Description,Rilascia ananas al suolo che esplodono violentemente dopo alcuni secondi.
+Exploding Pineapple Description,Rilascia ananas al suolo che esplodono violentemente dopo alcuni secondi. Gli attacchi esplosivi dell'asso sono migliorati.
 Sharper Darts Description,Ogni freccetta è in grado di far scoppiare 8 bloon.
 Lots More Darts Description,Spara 12 freccette per volta.
 Spy Plane Description,Consente alla scimmia asso di colpire i bloon mimetizzati.
@@ -961,17 +961,17 @@ Permanent Brew Description,L'Infuso del Berserker diventa PERMANENTE sulle scimm
 Total Transformation Description,Trasforma per 20 secondi 5 scimmie vicine in mostri aggressivi.
 Bloon Master Alchemist Description,La pozione segreta del rimpicciolimento tramuta tutti i bloon sotto il suo effetto in bloon rossi.
 ,
-Hard Thorns Description,Ogni spina coriacea è in grado di far scoppiare 2 bloon e ha effetto anche sui bloon congelati.
+Hard Thorns Description,Ogni spina coriacea è in grado di far scoppiare 2 bloon e ha effetto sui bloon di ogni tipo.
 Thorn Swarm Description,Spara 8 spine anziché 5 per colpo.
 Druidic Reach Description,Aumenta considerevolmente la portata.
 Heart of Thunder Description,Rilascia a intervalli regolari scariche di fulmini biforcuti che spazzano via i bloon.
 Heart of Oak Description,Gli attacchi trasformano i bloon rigeneranti in bloon normali.
 Heart of Vengeance Description,Conferisce il 10% di velocità di attacco e l'1% per ogni vita persa dal valore iniziale al momento del potenziamento. Il massimo è al 100% e diminuisce se le vite vengono ripristinate.
 Druid of the Storm Description,Raffiche di vento spazzano i bloon via dal tracciato e lontani dall'uscita.
-Druid of the Jungle Description,Evoca un rampicante che germoglia dal suolo e avvolge stritolandolo un bloon per volta.
+Druid of the Jungle Description,"Evoca un rampicante che germoglia dal suolo e avvolge stritolandolo un bloon per volta, lasciandosi dietro una pila di spine letali."
 Druid of Wrath Description,Conferisce velocità d'attacco durante il round fintantoché il druido continua ad attaccare bloon.
 Ball Lightning Description,Crea potenti fulmini globulari dai quali scaturiscono fulmini aggiuntivi. 
-Jungle's Bounty Description,"Abilità Dono della giungla: genera contante a ogni utilizzo, più contante extra per ciascun vivaio di banane accanto al druido."
+Jungle's Bounty Description,"Abilità Dono della giungla: genera contante a ogni utilizzo, più contante extra per ciascun vivaio di banane accanto al druido. Può anche afferrare due bloon alla volta con i rampicanti."
 Poplust Description,Potenzia la velocità d'attacco e la perforazione di tutti i druidi nel suo raggio d'azione. È cumulabile con un massimo di 5 volte su un singolo druido.
 Superstorm Description,Super tempesta provoca danno grave a tutti i tipi di bloon e li allontana dall'uscita.
 Spirit of the Forest Description,"Fa crescere rampicanti spinati lungo il percorso, che infliggono danni costanti e danni bonus ai bloon di ceramica. I rampicanti più vicini allo spirito della foresta infliggono più danni. L'abilità attivata genera vite e più contante."
@@ -979,10 +979,10 @@ Avatar of Wrath Description,Maggiore è il numero di bloon presente e più grave
 ,
 Increased Production Description,Genera 2 caschi di banane extra per round.
 Long Life Bananas Description,Le banane durano 30 secondi anziché 15 prima di marcire.
-EZ Collect Description,"Il raggio di raccolta di Banane è più ampio. Per quanto riguarda le Banche scimmiesche, si illuminerà quando la banca è al completo e pronta per la raccolta."
+EZ Collect Description,Il raggio di raccolta di Banane è più ampio e le banane non raccolte vengono raccolte automaticamente per la metà del valore. Le Banche scimmiesche si illumineranno quando saranno al completo e pronte per la raccolta.
 Greater Production Description,Genera ALTRI 2 caschi di banane extra per round.
 Valuable Bananas Description,Il valore delle banane in contante è maggiore del 25% per casco. 
-Banana Salvage Description,Le metà delle banana non raccolte vengono raccolte automaticamente.
+Banana Salvage Description,"Le banane non raccolte vengono raccolte automaticamente per il loro valore quasi intero, e le Banche vengono raccolte automaticamente quando al completo. Il tasso di rivendita del vivaio aumenta del 10%"
 Banana Plantation Description,Genera 16 caschi di banane per round.
 Monkey Bank Description,In ogni round genera denaro e lo deposita in banca con un interesse del 15% per round.
 Marketplace Description,In ogni round genera denaro che si aggiunge al tuo totale. Sul serio.
@@ -991,7 +991,7 @@ IMF loan Description,Abilità Prestito del FSI: ottieni 10.000 $ che dovrai rest
 Central Market Description,Fornisce un bel po' di denaro e le entrate dei mercantili superano il 10%.
 Banana Central Description,Cerchi banane? Ce le abbiamo noi!
 Monkey-Nomics Description,Per quando sei troppo grande per fallire….
-Monkey Wall Street Description,Centro nevralgico dei commerci. Le sue entrate sono enormi in ogni round.
+Monkey Wall Street Description,Centro nevralgico dei commerci. Le sue entrate sono enormi e genera vite in ogni round.
 ,
 Sentry Gun Description,Crea cannoni sentinella temporanei e schierali nelle vicinanze.
 Larger Service Area Description,Spara più lontano e schiera sentinelle su un'area più vasta. Le sentinelle hanno una portata maggiore.
@@ -1053,7 +1053,7 @@ Monkey Town Description,Tutte le scimmie nel raggio d'azione della Città delle 
 Primary Mentoring Description,"Tutte le scimmie primarie nel suo raggio d'azione ottengono gratuitamente potenziamenti di livello 1, portata aumentata e tempi di recupero delle abilità ridotti."
 Call to Arms Description,Abilità Chiamata alle armi: conferisce alle scimmie vicine +50% velocità d'attacco e scoppi per un breve lasso di tempo.
 Monkey City Description,"Aumenta il raggio d'azione e la generazione di contante al suo interno, e ti conferisce una scimmia a freccette gratis per ciascun round."
-Primary Expertise Description,"Aggiunge l'attacco Mega ballista, e tutte le scimmie primarie nel raggio ottengono maggior potenza di scoppio e aggiornamenti livello 1 e 2 gratis."
+Primary Expertise Description,"Aggiunge l'attacco Mega ballista, e tutte le scimmie primarie nel raggio ottengono maggior potenza di scoppio, tempi di recupero delle abilità ulteriormente ridotti e aggiornamenti livello 1 e 2 gratis."
 Homeland Defense Description,L'abilità ora aumenta la velocità d'attacco e lo scoppio del 100% per tutte le scimmie per 20 secondi.
 Monkeyopolis Description,Assorbe tutti i vivai di banane vicini e le rispettive entrate lasciando spazio libero per nuove scimmie.
 ,
@@ -2623,7 +2623,7 @@ SentryBoom,Sentinella esplosiva
 SentryCrushing,Sentinella palla chiodata
 SentryCold,Sentinella fredda
 SentryEnergy,Sentinella energetica
-SentryParagon,Sentinella campione
+SentryParagon,Sentinella Vincitore
 EditorNumberOfPlayers,Numero di giocatori
 EditorCoopAreaDivision,Divisone schermo in modalità cooperativa
 InvalidTarget,Bersaglio non valido
@@ -2644,12 +2644,12 @@ Adora Level 11 Description,Adora aumenta la velocità d’attacco.
 Adora Level 12 Description,Spara 5 saette divine per volta.
 Adora Level 13 Description,Le saette divine distruggono ancora più bloon.
 Adora Level 14 Description,Spara 6 saette divine per volta.
-Adora Level 15 Description,Le saette divine distruggono un ulteriore strato di bloon, e la sfera di luce infligge più danni.
+Adora Level 15 Description,Le saette divine distruggono un ulteriore strato di bloon e la sfera di luce infligge più danni.
 Adora Level 16 Description,L’Autorità della luce diviene ancora più letale.
 Adora Level 17 Description,Adora aumenta ancora di più la velocità d’attacco.
 Adora Level 18 Description,Spara 8 saette divine per volta.
 Adora Level 19 Description,Portata di attacco aumentata.
-Adora Level 20 Description,La sfera di luce è enormemente potenziata; inoltre, cadenza di fuoco, portata e durata dei potenziamenti migliorate dai sacrifici.
+Adora Level 20 Description,La sfera di luce è enormemente potenziata inoltre cadenza di fuoco portata e durata dei potenziamenti migliorate dai sacrifici.
 Carved,Intagliata
 BloodyPuddles,Pozze esagerate
 TechBotRequiresAbility,Richiede una torre scimmia con abilità attivate.
@@ -2741,7 +2741,7 @@ BoomerangTargetingSwitchHands,Cambia mano
 VineRupture,Distruzione rampicanti
 VineRuptureDescription,Conferisce al druido spirito della foresta una nuova abilità che consente di eliminare tutte le rampicanti sul tracciato infliggendo danni enormi a tutti i bloon che non siano di piombo. Dopo ogni Distruzione ricrescono nuove rampicanti.
 BankDeposits,Depositi in banca
-BankDepositsDescription,Le banche possono prendere in deposito il denaro disponibile nel gioco.
+BankDepositsDescription,Le Banche scimmiesche dal livello 4 in su possono prendere in deposito il denaro disponibile nel gioco.
 MonkeyBankDeposit,Deposito
 Achievement 92 Name,Biglietto d'oro
 Achievement 92 Description,Bloompa-loompa-doompa-dee-doo!
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] per effettuare Passaggio oscuro nel raggio d'azione
 DarkChampionDarkshift,[I] per effettuare Passaggio oscuro in qualsiasi posizione valida
 SmallTowersMode,Torri scimmia piccola
 BigTowersMode,Torri scimmia grandi
-UpdatePopupTitle,Aggiornamento 27!
-UpdatePopupDescription,"Aggiornamento dei contenuti di dimensioni boss!\n• Gli eventi boss dei bloon sono arrivati! Chi oserà sfidare Bloonarius?!\n• Scimmie campioni! Prova il nuovo livello campione per le scimmie lancia freccette e le scimmie boomerang!\n• Affronta la nuova mappa intermedia paludosa: Bloonarius Prime\n• Nuovi oggetti al negozio trofei: ci sono anche dei nuovissimi banner per il tuo profilo!\n• Rientri in cooperativa: torna dentro alle tue partite cooperative!\n• Nuovi obiettivi e ricompense!\n• Modifiche al bilanciamento: alcune torri hanno subito modifiche importanti, consulta le note della patch per maggiori informazioni"
+UpdatePopupTitle,Aggiornamento 28!
+UpdatePopupDescription,"Enorme aggiornamento dei contenuti!\n• Battaglie contro i boss in cooperativa! Partecipa agli Eventi dei boss con i tuoi amici per il massimo dei livelli Campione!\n• Nuovo boss dei bloon: Lych, il Signore delle tombe!\n• Classifiche dei boss! Scegli la modalità classificata per segnare il tempo migliore in classifica, che tu stia giocando in solitaria o in cooperativa\n• Nuova torre Campione: la nuova scimmia ninja Ombra ascesa è arrivata!\n• Sauda vichinga si è unita al divertimento! Ottieni la nuova skin di Sauda e comincia ad affettare!\n• Non dividetevi e non perdetevi nel bosco sulla nuova mappa livello principiante: La baita\n• 12 nuovi oggetti al Negozio trofei, più 6 oggetti a tema Halloween per un periodo limitato: ottienili tutti finché puoi!\n• Bilanciamento e sistemazioni: abbiamo apportato moltissimi cambiamenti. Leggi le note dell'aggiornamento per tutti i dettagli"
 ResetDailyChest,Azzera cassa delle ricompense giornaliere
 JukeboxName,Jukebox
 EnableFunction,Attiva
@@ -3009,7 +3009,7 @@ MonkeyNameInstruction,Scegli un nome personalizzato per la prima scimmia di ogni
 OdysseyCompleteDescription,"Congratulazioni, cuor di leone! Hai completato la tua Odissea e hai guadagnato queste ricompense!"
 HeroBoosterDescription,Vuoi potenziare subito l'eroe al livello 10?
 InappropriateNamedMonkeyName,Scegli un nome scimmia più appropriato
-PatchNotesLink,"Per le note complete dell'aggiornamento, visita "
+PatchNotesLink,"Per le note complete dell'aggiornamento, visita:"
 TrophyPurchaseConfirmation,Vuoi comprare {0} per {1} Trofei?
 TrophyPurchaseInsufficient,Non hai abbastanza trofei per acquistare quest'oggetto. Ottieni più trofei dalle modalità Corse e Odissea.
 TrophyStoreBought,Acquistato
@@ -3024,7 +3024,7 @@ CoopEmoteTextAllIsFineWord,Va tutto bene
 PlayerStatsTimesUpgraded,Numero di potenziamenti
 PlayerStatsTimesSacrificed,Numero di sacrifici
 TrophyStoreInfoHeader,Informazioni sul Negozio trofei
-TrophyStoreInfoBody,Il Negozio trofei ospita un'infinità di potenziamenti decorativi!\n• Guadagna trofei completando le Odissee e classificandoti nelle Corse\n• La maggior parte degli oggetti acquistati possono essere attivati o disattivati tramite la scheda Inventario\n• I brani musicali acquistati compariranno nel Jukebox\n• Gli avatar acquistati compariranno sul tuo Profilo nel menu principale\n• Le scimmie battezzate possono essere modificate tramite il pannello Potenziamenti durante il gioco
+TrophyStoreInfoBody,"Il Negozio trofei ospita un'infinità di potenziamenti decorativi!\n• Guadagna trofei completando le Odissee, classificandoti nelle Corse e battendo i boss\n• La maggior parte degli oggetti acquistati può essere attivata o disattivata tramite la scheda Inventario\n• I brani musicali acquistati compariranno nel Jukebox\n• Gli avatar e i banner acquistati compariranno sul tuo Profilo nel menu principale\n• Le scimmie battezzate possono essere modificate tramite il pannello Potenziamenti durante il gioco"
 RestartOdysseyBody,Vuoi davvero riavviare la tua Odissea?
 OdysseyBannerRewards,Conquista ricompense e trofei!
 UpdateNotes,Note sull'aggiornamento
@@ -3584,7 +3584,7 @@ Unique Players,Giocatori unici
 Victorious Players,Giocatori vittoriosi
 FirstWinner,Primo vincitore
 MostRecentWinner,Vincitore più recente
-DiskFullMessage,Disco pieno; libera un po' di spazio e riprova
+DiskFullMessage,Disco pieno libera un po' di spazio e riprova
 RacePassRemaining,Corse rimanenti:
 RacePassHeader,Pass Corsa
 RacePassDescription,"Garantisce tentativi di Corsa illimitati per le Corse settimanali!\nNiente timer, niente denaro, solo Corse!"
@@ -3681,8 +3681,8 @@ MiniRacesFirstTimeTitle,Minigare!
 MiniRacesFirstTimeDescription,"Dopo aver completato una gara, otterrai una posizione nella classifica della minigara, oltre che in quella della gara. Sfida gli altri giocatori nella minigara per vincere altri premi, quando la gara finisce!"
 SharingCoop,Unisciti alla mia partita cooperativa su Bloon TD6!
 SharingChallenge,Riesci a vincere questa sfida su Bloon TD6?
-btd6_racespass,{0} carte gara
-btd6_racepass,1 carta di razza
+btd6_racespass,{0} Pass Corsa
+btd6_racepass,1 Pass Corsa
 OdysseyCrewConfirmed,Equipaggio confermato
 OdysseyCrewModified,Equipaggio modificato
 Odysseys,Odissee
@@ -3699,7 +3699,7 @@ game already opened,Partita già aperta?
 Psi,Psi
 Psi Short Description,Scimmia psionica
 Psi Description,"Psi, una scimmietta molto dotata, usa il solo potere della mente per distruggere i bloon dall'interno."
-Psi Level 1 Description,"Psi emette delle vibrazioni letali che distruggono un bloon alla volta, a qualsiasi distanza e al di là di qualunque ostacolo."
+Psi Level 1 Description,"Psi emette delle vibrazioni letali che distruggono un bloon alla volta, a qualsiasi distanza e al di là di qualunque ostacolo. È in grado di colpire i bloon mimetizzati."
 Psi Level 2 Description,Attacca un po' più velocemente.
 Psi Level 3 Description,Raffica psichica: Psi scatena una potente ondata che stordisce a lungo i bloon nelle vicinanze.
 Psi Level 4 Description,"L'attacco di Psi può colpire anche un altro bloon, se è vicino a quello preso di mira."
@@ -3815,24 +3815,24 @@ FreeEntry,1 Ingresso gratis
 PrivateCoopLobby,Lobby cooperativa privata
 PublicCoopLobby,Lobby cooperativa [{0}]
 MyOdysseys,Le mie Odissee
-OdysseySearch,Cerca / Codice Odissea ...
+OdysseySearch,Cerca/Codice Odissea…
 Psychic Blast Ability,Esplosione psichica
-Psychic Blast Ability Description,Psi scatena un'ondata di potere che stordisce a lungo i Bloons vicini.
+Psychic Blast Ability Description,Psi scatena un'ondata di potere che stordisce a lungo i bloon vicini.
 Psionic Scream Ability,Urlo psionico
 Psionic Scream Ability Description,Psi lancia un urlo silenzioso che getta i Bloon nel caos più totale.
 EditorMode,Modalità Editor
 ConfirmMaps,Mappe da confermare: {0}
-ResetOdysseyProgress,Ciò invaliderà i tuoi progressi in Odyssey. Sei sicuro?
+ResetOdysseyProgress,Quest'azione invaliderà i tuoi progressi in Odissea. Vuoi procedere?
 OdysseyName,Nome Odissea
-OdysseyEditor,Editor dell'Odissea
+OdysseyEditor,Editor Odissea
 MaxPowers,Poteri massimi:
 MaxMonkeySlots,Slot scimmia massimi:
 MaxPowerSlots,Slot potere massimi:
 MapNumber,Mappa {0}
 ExtremeMode,Modalità estrema:
-Edit,Modificare
-OdysseyInviteReceivedDescription,Sei stato invitato a provare il codice odyssey: {0}
-SharingOdyssey,Riesci a battere questa odissea Bloons TD 6?
+Edit,Modifica
+OdysseyInviteReceivedDescription,Hai ricevuto un invito a provare il codice Odissea: {0}
+SharingOdyssey,Riuscirai a battere questa Odissea su Bloons TD6?
 EditorPowersIncluded,Poteri inclusi
 EditorPowersExcluded,Potere escluso
 OdysseyDescription,Descrizione:
@@ -3878,13 +3878,13 @@ CoopEmoteAnimationFistpumpShortName,Batti il pugno
 CoopEmoteAnimationFistpumpDescription,Per celebrare un ottimo lavoro!
 GameUIProfileAvatar44Name,Avatar personalizzato - Scimmia SAS
 GameUIProfileAvatar44ShortName,Avatar Scimmia SAS
-GameUIProfileAvatar44Description,Avatar vincitore di Deacon
+GameUIProfileAvatar44Description,Avatar vincitore di LV-223_Deacon
 GameUIProfileAvatar45Name,Avatar personalizzato - Progetto
 GameUIProfileAvatar45ShortName,Avatar Progetto
 GameUIProfileAvatar45Description,Avatar vincitore di dungeon-raided
-GameUIProfileAvatar46Name,Avatar personalizzato - Ezili
-GameUIProfileAvatar46ShortName,Avatar Ezili
-GameUIProfileAvatar46Description,Conosciuto anche come Ezili-appena-svegliato
+GameUIProfileAvatar46Name,Avatar personalizzato - Ezili mascherata
+GameUIProfileAvatar46ShortName,Avatar Ezili mascherata
+GameUIProfileAvatar46Description,Conosciuta anche come Ezili-appena-svegliata
 GameUIProfileAvatar47Name,Avatar personalizzato - Sfera acuminata
 GameUIProfileAvatar47ShortName,Avatar Sfera acuminata
 GameUIProfileAvatar47Description,Le Sfere acuminate non sono mai state così cool... Assolutamente imperdibile
@@ -3931,7 +3931,7 @@ EngineerMonkeys,Scimmie ingegnere
 SpikeFactorys,Fabbriche di aculei
 MonkeyVillages,Villaggi delle scimmie
 BossInfoPanelTitle,Evento boss dei bloon
-BossInfoPanelDescription,"Salve, cuor di leone! Ti trovi nel regno dei boss. Buona fortuna, e ricorda queste regole importanti:\n• l'evento boss inizia appena premi Gioca, e non ci sono pause tra i round.\n• Fai scoppiare i 5 livelli di boss per vincere ogni modalità boss.\n• Sfru"
+BossInfoPanelDescription,"Salve, cuor di leone! Ti trovi nel regno dei boss. Buona fortuna, e ricorda queste regole importanti:\n• L'evento boss inizia appena premi Gioca, non ci sono pause tra i round e i boss non possono essere rallentati.\n• Fai scoppiare i 5 livelli dei boss per vincere ogni modalità boss; supera la difficoltà normale per sbloccare la difficoltà élite.\n• Sfrutta le tue risorse, prepara le abilità e fai buon uso del tempo tra i livelli!\n• Guadagna trofei e altre ricompense per ogni livello superato, ma se non riuscirai a superare un livello in 20 round, perderai.\n• Sfida gli altri giocatori in modalità classificata per scoprire chi riuscirà a battere più velocemente il boss e ottieni premi incredibili!\n• Il tuo miglior piazzamento in solitaria o in cooperativa determina le ricompense che vincerai.\n• Le modalità Normale ed Élite hanno classifiche e premi separati, e puoi vincere in entrambe!"
 BloonariusInfoPanelDescription,"Il melmoso Bloonarius sputa fuori bloon ogni volta che subisce danni, e fa fuoriuscire enormi ammassi di bloon al raggiungimento di ogni teschio sulla barra della salute.\n\nL'involucro di melma di Bloonarius lo rende lento ma estremamente resistente."
 NextBossIn,Il boss compare tra: {0}
 ARound,1 round
@@ -3959,8 +3959,8 @@ PlayerStatsHighestRoundCHIMPS,Round maggiore SCIMPANZÉ
 PlayerStatsHighestRoundDeflation,Round maggiore Sgonfiamento
 Rejoin Coop,Rientra in cooperativa
 WaitingEndRound,In attesa della fine del round in corso
-SoftwareCursor,Cursore software
-LargeCursor,Cursore grande
+SoftwareCursor,Cursore grande
+LargeCursor,Cursore enorme
 Cursor,Cursore
 SandboxCursor,Sandbox/cursore
 Achievement 128 Name,Ma che blooneria è questa?
@@ -4014,3 +4014,107 @@ Retry From Checkpoint,Riprova dall'ultimo checkpoint
 RetryCheckpointText,Vuoi riprovare dal tuo ultimo checkpoint al round {0}?
 Retry From Round,Riprova dal round {0}
 EliteBossLockedPopup,Sconfiggi il boss a difficoltà normale per sbloccare la difficoltà élite
+Custom Odyssey,Odissea personalizzata
+Creating Odyssey,Creazione Odissea
+Creating Challenge,Creazione sfida
+TheCabin,La Baita
+VikingSaudaSaudaSkinName,Skin Sauda vichinga
+VikingSaudaSaudaSkinDescription,Asce a rapporto!
+HeroesChurchillSentaiSkinPetDroneName,Animaletto Drone di Sentai Churchill
+HeroesChurchillSentaiSkinPetDroneShortName,Drone di Sentai Churchill
+HeroesChurchillSentaiSkinPetDroneDescription,La sentinella esploratrice super avanzata Y26G esegue valutazioni delle minacce alla velocità della luce... e con un certo fascino. Non sbaglia un colpo. Solo Sentai Churchill
+TowerPetGlueGunnerRatName,Animaletto topo dello Spara colla
+TowerPetGlueGunnerRatShortName,Animaletto topo dello Spara colla
+TowerPetGlueGunnerRatDescription,"Sempre al fianco dello Spara colla, specialmente nel laboratorio. Ti chiedi mai chi è che elabora tutte le proprietà della colla? Secondo noi il topo."
+TowerEffectAllMonkeysPlacementUpgradesBatsName,Piazzamento pipistrelli ed effetti del potenziamento
+TowerEffectAllMonkeysPlacementUpgradesBatsShortName,Effetto Potenziamento pipistrelli
+TowerEffectAllMonkeysPlacementUpgradesBatsDescription,"Fai paura ai bloon ogni volta che una torre viene posizionata e potenziata con terrificanti animazioni dei pipistrelli, terribilmente fantastiche su determinate mappe."
+TowerPetMonkeyBuccaneerNarwhalName,Animaletto narvalo della scimmia bucaniere
+TowerPetMonkeyBuccaneerNarwhalShortName,Animaletto narvalo del bucaniere
+TowerPetMonkeyBuccaneerNarwhalDescription,"Osserva il mitico narvalo con ogni bucaniere posizionato! Chi, se non il bucaniere, è in grado di governare il mare tanto quanto stringere amicizia con i suoi animali leggendari?!"
+TowerProjectileEngineerVampireHunterName,Proiettili dell'ingegnere cacciatore di vampiri
+TowerProjectileEngineerVampireHunterShortName,Ingegnere cacciatore di vampiri
+TowerProjectileEngineerVampireHunterDescription,"Nella remota possibilità che i bloon siano segretamente tutti vampiri, l'ingegnere ora può equipaggiare un arsenale di proiettili scoppia-vampbloon come paletti, aglio e bare. Oggetto collezionabile per un periodo limitato!"
+TowerPropMonkeyVillageCanadianFlagName,Bandiera villaggio delle scimmie Canada
+TowerPropMonkeyVillageCanadianFlagShortName,Bandiera villaggio Canada
+TowerPropMonkeyVillageCanadianFlagDescription,"Beh, era anche ora! Oh Canada, sventola questa bandiera su tutti i tuoi villaggi delle scimmie. Per tutti i potenziamenti"
+BloonsZOMGSkinJackOLanternName,Jack-o'-lantern ZOMG
+BloonsZOMGSkinJackOLanternShortName,Jack-o'-lantern ZOMG
+BloonsZOMGSkinJackOLanternDescription,"Sauda ha vinto la competizione annuale di ""Intaglia la zucca a forma di ZOMG"", ed è ancora in grado di tagliare un pomodoro! Oggetto collezionabile per un periodo limitato!"
+BloonsAllBloonsVampireCapesName,Bloon Mantello da vampiro
+BloonsAllBloonsVampireCapesShortName,Bloon Mantello da vampiro
+BloonsAllBloonsVampireCapesDescription,Travesti i tuoi bloon da creature della notte questo Halloween! Oggetto collezionabile per un periodo limitato!
+CoopEmoteAnimationPanicMonkeyName,Emote Scimmia impanicata
+CoopEmoteAnimationPanicMonkeyShortName,Scimmia impanicata
+CoopEmoteAnimationPanicMonkeyDescription,"Sono il tuo amico della modalità cooperativa. Non. Andare. In. Panico. OK, ORA SÌ!!!"
+CoopEmoteAnimationBeggingMonkeyName,Emote scimmia Ti preeeeego
+CoopEmoteAnimationBeggingMonkeyShortName,Scimmia Ti preeeeego
+CoopEmoteAnimationBeggingMonkeyDescription,"Ti preeeeego, me ne servono solo altri 10.000 per questo aggiornamento! È solo una coincidenza che io sia il giocatore 3, davvero!"
+GameUIPowerSkinThriveStonksName,Potere personalizzato - Stonks fiorenti
+GameUIPowerSkinThriveStonksShortName,Stonks fiorenti
+GameUIPowerSkinThriveStonksDescription,"Ben dice sempre di investire tutto nelle Bananamonete, che schizzeranno alle stelle!"
+GameUIProfileAvatar48Name,Avatar personalizzato - Scimmia maschera da hockey
+GameUIProfileAvatar48ShortName,Avatar maschera da hockey
+GameUIProfileAvatar48Description,Attenzione alla Scimmia maschera da hockey! Oggetto collezionabile per un periodo limitato!
+GameUIProfileAvatar49Name,Avatar personalizzato - Progetto Led Zeppiombin
+GameUIProfileAvatar49ShortName,Avatar Led Zeppiombin
+GameUIProfileAvatar49Description,Avatar vincitore di waywardzuck
+GameUIProfileAvatar50Name,Avatar personalizzato - Il Ben migliore
+GameUIProfileAvatar50ShortName,Avatar Il Ben migliore
+GameUIProfileAvatar50Description,"Chi è che pensa alle tue necessità informatiche? Lui! Chi è che sa suonare della musica fantastica? Lui! E chi è che può portare del buonissimo sushi al tuo prossimo evento di squadra? Beh, sempre lui ovviamente."
+GameUIProfileAvatar51Name,Avatar personalizzato - Psi in azione
+GameUIProfileAvatar51ShortName,Avatar Psi in azione
+GameUIProfileAvatar51Description,"Essere tutt'uno con l'universo non significa che Psi non possa divertirsi un po', di tanto in tanto! Sfoggia questo incredibile avatar di Psi per farle vedere quanto la apprezzi."
+GameUIProfileBanner6Name,Banner profilo Tempio del sole
+GameUIProfileBanner6ShortName,Banner Tempio del sole
+GameUIProfileBanner6Description,Osserva il vero potere di un Tempio del sole completamente operativo con questo epico banner profilo personalizzato
+GameUIProfileBanner7Name,Banner profilo Fantasmi e dolcetti
+GameUIProfileBanner7ShortName,Banner Fantasmi e dolcetti
+GameUIProfileBanner7Description,Dolcetto o scherzetto? Il banner profilo personalizzato perfetto per Halloween
+LychTagLine,Il Signore delle tombe
+LychTagLine2,è stato resuscitato!
+Lych,Lych
+LychInfoPanelDescription,"• Lych, il Signore delle tombe risucchia i potenziamenti dalle tue scimmie, guarendosi al contempo.\n• Quando raggiunge tutti i teschi sulla sua barra della salute, Lych diventa etereo e resuscita i gusci vuoti dei bloon di classe MOAB recentemente esplos"
+EditorReviewMap,Rivedi mappa
+YourBestTime,Il tuo record
+Boss,Boss
+MiniBoss,Mini boss
+NormalRewards,Ricompense normali
+EliteRewards,Ricompense élite
+1Player,1 giocatore
+2Player,2 giocatori
+3Player,3 giocatori
+4Player,4 giocatori
+BossLeaderboard,Classifica boss
+LeaderboardSubmissionFail,Impossibile inviare alla classifica
+SafeNameChallenge,Sfida di {0}
+SafeNameOdyssey,Odissea di {0}
+BossEventEnded,L'evento boss è terminato!
+RankedNormal,Piazzamento normale
+RankedElite,Piazzamento élite
+StartRankedBoss,Avvia boss classificato
+MusicHaunted,Casa infestata
+GameUIMusicTrackMusicHauntedName,Jukebox: Casa infestata
+GameUIMusicTrackMusicHauntedShortName,Jukebox: Casa infestata
+GameUIMusicTrackMusicHauntedDescription,Ritmi terrificanti e sonorità spettrali la rendono una traccia imperdibile per Halloween o per le sessioni di gioco notturne. Oggetto collezionabile per un periodo limitato!
+NSCameraUsageDescription,Screenshot per i ticket di assistenza
+btd6_needmoremonkeymoneyprompt_no_iap,Denaro insufficiente!
+UseRacePassDescription,Vuoi usare un Pass Corsa per ottenere ingressi illimitati a questa Corsa?
+RacePassActivated,Pass Corsa attivato
+UseRacePassTitle,Vuoi usare il Pass Corsa?
+Elite Best Time,Record élite
+Normal Best Time,Record normale
+NormalCursor,Cursore normale
+MayAffectPerformance,*Potrebbe influenzare le prestazioni
+GameUIMusicTrackMusicOnslaughtName,Massacro
+GameUIMusicTrackMusicOnslaughtShortName,Massacro
+GameUIMusicTrackMusicOnslaughtDescription,Traccia boss Massacro
+SharingCoopBoss,Unisciti alla mia partita del boss su Bloon TD6!
+EliteBossEvent,Evento boss élite
+NinjaMonkey Paragon,Ombra ascesa
+NinjaMonkey Paragon Description,Il pacchetto assassini completo per affrontare qualsiasi minaccia bloon.
+Elite,Élite
+HackGameStopMessage,I valori della partita non possono essere risincronizzati. Sfortunatamente questa partita non può continuare. Prova ad avviarne un'altra.
+RankedMode,Modalità classificata
+Any,Qualsiasi
+ScoreNotVerifiable,Il tuo punteggio non è stato inviato perché non è stato possibile verificarlo.

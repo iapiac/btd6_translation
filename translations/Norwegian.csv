@@ -1,4 +1,4 @@
-//Input. Needs to be first e.g [I] replaced by click or tap,
+﻿//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Klikk
 Tap,Trykk
 ,
@@ -173,7 +173,7 @@ Benjamin Level 3 Description,Biohacking: De 4 nærmeste apene popper et ekstra l
 Benjamin Level 4 Description,Skimming – tjener +1$ for hver nye bloon.
 Benjamin Level 5 Description,Bankhacking – alle banker får +5% inntekt.
 Benjamin Level 6 Description,Cybersikkerhet – gjenoppretter 5 liv på slutten av hver runde.
-Benjamin Level 7 Description,Bloon-trojaner – med sekunders mellomrom sendes et trojanervirus til en tilfeldig bloon. Påvirkede bloons får ingen barn når de ødelegges og gir 2x penger.
+Benjamin Level 7 Description,Bloon-trojaner - Hvert andre sekund sendes det ut et trojansk programvirus til vilkårlige bloons. Påvirkede bloons setter ingen flere bloons til live når de ødelegges og produserer 1 ekstra mynt for hvert lag.
 Benjamin Level 8 Description,Inntekt økt til 250$ per runde.
 Benjamin Level 9 Description,Bankhacking økt til 12%
 Benjamin Level 10 Description,Sifong-finansiering: Nedgraderer nyeste bloons med 1 rang. Penger per popp fra påvirkede bloons dobles. Varer i 10 sekunder
@@ -248,7 +248,7 @@ Ezili Level 15 Description,Økt rekkevidde.
 Ezili Level 16 Description,Ofringstotem varer lenger og koster bare 1 liv å bruke.
 Ezili Level 17 Description,Baseangrep får større sprutradius og økt gjennomtrengning.
 Ezili Level 18 Description,Økt angrepshastighet.
-Ezili Level 19 Description,Hver skadestift fra baseangrep popper 2 lag!
+Ezili Level 19 Description,Hver skadestift fra baseangrep popper 3 lag!
 Ezili Level 20 Description,MOAB Hex funker raskere og kan ødelegge BAD Bloons.
 ,
 //Hero Ability Names,
@@ -357,7 +357,7 @@ The Tack Zone,Stiftesonen
 Permafrost,Permafrost
 Enhanced Freeze,Forbedret frysing
 Larger Radius,Større radius
-Metal Freeze,Metallfrysing
+Metal Freeze,Kuldebrekk
 Deep Freeze,Dypfrysing
 Re-Freeze,Gjenfrysing
 Ice Shards,Isskår
@@ -607,7 +607,7 @@ Double Gun,Dobbelpistol
 Sentry Expert,Sentry-ekspert
 Overclock,Overklokking
 Bloon Trap,Bloon-felle
-Sentry Paragon,Vakttårn-forbilde
+Sentry Paragon,Vakttårnmester
 Ultraboost,Ultraboost
 XXXL Trap,XXXL felle
 ,
@@ -755,13 +755,13 @@ The Tack Zone Description,"Mange, mange stifter."
 Permafrost Description,Bloonsene beveger seg sakte selv etter de har tint.
 Enhanced Freeze Description,Angriper raskere og fryser lengre.
 Larger Radius Description,Større fryseområde.
-Metal Freeze Description,Kan fryse og poppe bly-bloons.
+Metal Freeze Description,Kan fryse og poppe blybloons og kamuflerte bloons.
 Deep Freeze Description,Fryser gjennom 2 lag med bloons.
 Re-Freeze Description,Kan fryse bloons som allerede er fryst.
 Ice Shards Description,Sylskarpe skår sprer seg når frosne bloon popper.
 Arctic Wind Description,Øker betydelig gjennomtrenging og får en superkald aura som sakker ned bloons og fryser vann i nærheten.
 Cryo Cannon Description,Skyter frosne bomber på bloons med lengre rekkevidde.
-Embrittlement Description,"Oppdager kamuflerte bloons, og alle bloons som treffes blir skjøre, påføres ekstra skade i kort tid og mister permanent evnen til å kamuflere seg og vokse tilbake."
+Embrittlement Description,"Detekterer kamuflerte bloons, og alle bloons, inkludert MOAB-klasse bloons, blir skjøre og tar ekstra skade over en kort periode mens de mister kamuflasje- og gjenvekstegenskaper permanent."
 Snowstorm Description,"Snøstorm-evne: Fryser alle vanlige bloons på skjermen, fryser i kort tid hvite og kamuflerte bloons og zebrabloons, og sakker ned bloons av MOAB-klasse."
 Icicles Description,Frosne bloons får store istagger som kan poppe bloons som kommer borti dem.
 Super Brittle Description,"Bloons får store skader når de er frosne, inkludert bloons av MOAB-klasse."
@@ -795,7 +795,7 @@ Bouncing Bullet Description,Skudd spretter til nye mål opptil 3 ganger.
 Semi-Automatic Description,Angriper 3x så fort!
 Maim MOAB Description,Påfører mye mer skade og immobiliserer bloons av MOAB-klasse i en kort periode.
 Supply Drop Description,Forsyningsslipp-evne: slipper en kasse full av penger. Vanlige angrep skader også bly-bloons og øker poppekraften til granatsplinter.
-Full Auto Rifle Description,"Helautomatisk våpen med utrolig poppekraft, inkludert skade mot bly-bloons."
+Full Auto Rifle Description,Helautomatisk våpen med utrolig poppekraft.
 Cripple MOAB Description,Skadede MOABer blir immobile lenger og påføres ekstra skade fra alle andre angrep.
 Elite Sniper Description,Forsyningsslipp gir mye mer penger. Gir elite-målprioritet og raskere omlading til alle snikskyttere.
 Elite Defender Description,Et tapt liv gir denne snikskytteren 4x angrepshastighet i en kort periode under motangrep.
@@ -827,13 +827,13 @@ Buccaneer-Cannon Ship Description,Legger til en kraftig kanon som skyter ut kraf
 Buccaneer-Merchantman Description,Genererer penger hver runde automatisk.
 Buccaneer-Aircraft Carrier Description,Sender av gårde bølger av jagerfly som sikter seg inn på målene sine og fyrer av missiler på MOAB-klasse bloons.
 Buccaneer-Monkey Pirates Description,2 kanoner legges til på skipet og kanonangrep gjør ytterligere skade. MOAB-nedfellingsevne: harpunerer en MOAB-klasse bloon og gjør slutt på den.
-Buccaneer-Favored Trades Description,Angriper raskere og genererer mye mer penger per runde. Aper innenfor rekkevidde har økt salgsverdi og kan stable opptil 3 foretrukne handelsvarer for 95 % av maks salgsverdi.
+Buccaneer-Favored Trades Description,Angriper raskere og genererer mer penger per runde. Aper innen radius får økt salgsverdi.
 Buccaneer-Carrier Flagship Description,Gir ekstra skade. Kan plassere andre aper på de øvre dekkene til skipet og øker angrepshastigheten til alle vannbaserte aper og apeess.
 Buccaneer-Pirate Lord Description,"Øker betydelig angrepshastigheten for alle angrep, og kan skyte 3 entrehaker samtidig, plyndrer ekstra penger fra hver bloons av MOAB-klasse som tas knekken på."
 Buccaneer-Trade Empire Description,"Genererer mer penger per runde, øker pengesummen tjent inn fra opptil 20 handelsmenn med antallet handelsmenn, og øker all handelsmennskade."
 ,
 Rapid Fire Description,Skyter raskere enn normalt.
-Exploding Pineapple Description,Slipper ananas på bakken som eksploderer voldsomt etter noen sekunder.
+Exploding Pineapple Description,Slipper ananas på bakken som eksploderer på voldelig vis etter et par sekunder. Essets eksplosive angrep forsterkes ytterligere.
 Sharper Darts Description,Dartpiler kan poppe 8 bloons hver.
 Lots More Darts Description,Skyter 12 dartpiler av gangen.
 Spy Plane Description,Gjør det mulig for Ape-ess å treffe kamuflerte bloons.
@@ -961,17 +961,17 @@ Permanent Brew Description,Berserkerbrygg blir værende PERMANENT på aper som d
 Total Transformation Description,Transformerer fem aper i nærheten om til ville angrepsmonster i 20 sekunder.
 Bloon Master Alchemist Description,Hemmelig skrumpebrygg forvandler alle påvirkede bloons til røde bloons.
 ,
-Hard Thorns Description,Harde torner kan poppe 2 bloons hver og poppe frosne bloons.
+Hard Thorns Description,Harde torner kan poppe 2 bloons hver og kan poppe enhver bloontype.
 Thorn Swarm Description,Skyter 8 torner per skudd i stedet for 5.
 Druidic Reach Description,Øker rekkevidden betydelig.
 Heart of Thunder Description,Utløser jevne bølger med lynnedslag som sprer seg fra bloon til bloon.
 Heart of Oak Description,Angrep konverterer gjenvoksende bloons til normale bloons.
 Heart of Vengeance Description,"Får 10 % angrepshastighet, i tillegg til 1 % for hvert liv som mistet fra startverdien etter oppgraderingen. Maks. er 100 % og minker hvis liv blir gjenopprettet."
 Druid of the Storm Description,Vindkast blåser bloons av banen og bort fra utgangen.
-Druid of the Jungle Description,Får en ranke fra bakken til å vikle seg rundt og knuse bloons én etter én.
+Druid of the Jungle Description,"Får en ranke fra bakken til å vikle seg rundt og knuse bloons én etter én, og den etterlater seg en sti av dødelige torner."
 Druid of Wrath Description,Øker angrepshastighet i løpet av runden så lenge Druiden angriper bloons.
 Ball Lightning Description,Skaper kraftfulle lynkuler som skyter ytterligere lyn. 
-Jungle's Bounty Description,"Jungelens overflod-evne: Genererer penger hver gang den brukes, pluss ekstra penger per banangård nærme druiden."
+Jungle's Bounty Description,"Jungelens overflod-evne: Genererer penger hver gang den brukes, pluss ekstra penger per banangård i nærheten av druiden. Kan også gripe tak i to bloons med ranker om gangen."
 Poplust Description,Øker angrepshastigheten og gjennomtrengningskraften til alle Druider innenfor radiusen. Kan stables opptil 5 ganger på én Druide.
 Superstorm Description,Superstorm sprenger alle bloon-typer for massiv skade og blåser dem vekk fra utgangen.
 Spirit of the Forest Description,Vokser torneranker langs veien som påfører konstant skade og bonusskade på keramikk. Rankene nærmest Skogens ånd gjør mer skade. Aktivert evne genererer liv og mer penger.
@@ -979,10 +979,10 @@ Avatar of Wrath Description,"Jo flere bloons det er, jo mer skade gjør den!"
 ,
 Increased Production Description,Gror 2 ekstra bananklaser per runde.
 Long Life Bananas Description,"Bananer varer 30 sekunder lenger før de råtner, i stedet for 15."
-EZ Collect Description,Innsamlingsradiusen for bananer er større. For apebanker – lyser når banken er full og klar til å tømmes.
+EZ Collect Description,Innsamlingsradiusen for bananer er større og uoppsamlede bananer samles automatisk inn til halve prisen. Apebanker lyser når banken er full og klar til å tømmes.
 Greater Production Description,Gror 2 TIL ekstra bananklaser per runde.
 Valuable Bananas Description,Bananer er verdt 25% mer penger per klase. 
-Banana Salvage Description,Usamlede bananer samles automatisk for halvparten av summen.
+Banana Salvage Description,"Uoppsamlede bananer samles automatisk inn til nesten full pris, og penger fra Apebanker samles automatisk inn når de er fulle. Banangårders tilbakesalgsverdi økes med 10 %"
 Banana Plantation Description,Gror 16 bananklaser per runde.
 Monkey Bank Description,Alle penger generert av gården er nå lagret i banken og gir 15 % rente hver runde.
 Marketplace Description,Genererer penger i hver runde og blir lagt til totalsummen din. Ikke noe mas.
@@ -991,7 +991,7 @@ IMF loan Description,"IMF-lån-evne: gir deg 10 000$, men du må betale tilbake 
 Central Market Description,Tjener inn masse penger per runde og gir handelsskip +10% inntekt.
 Banana Central Description,Vil du ha en banan? Vi har bananer!
 Monkey-Nomics Description,Når du er for stor til å feile …
-Monkey Wall Street Description,Sentrum for Ape-handel gir kolossal inntekt i hver runde.
+Monkey Wall Street Description,Sentrum for Ape-handel gir kolossal inntekt og genererer liv i hver runde.
 ,
 Sentry Gun Description,Oppretter midlertidige frontkanoner og distribuerer dem i nærheten.
 Larger Service Area Description,Skyter lenger og utplasserer soldater på et mye større område. Vakttårn har lenger rekkevidde.
@@ -1053,7 +1053,7 @@ Monkey Town Description,Alle aper innenfor radius av Apebygda får ekstra penger
 Primary Mentoring Description,"Alle primæraper innen radiusen får gren 1-oppgraderinger gratis, økt rekkevidde og reduserte nedkjølingstider for evner."
 Call to Arms Description,Kampinnkalling-evne: Gir aper i nærheten +50% angrepshastighet og popping i kort tid.
 Monkey City Description,"Øker påvirkningsradiusen og pengegenerering innen radius, samt gir deg en gratis Dart-ape hver runde."
-Primary Expertise Description,"Legger til Megaballista-angrep, samt alle primæraper innen radiusen får mer poppekraft og gren 1- og 2-oppgraderinger gratis."
+Primary Expertise Description,"Legger til Megaballista-angrep, samt alle primæraper innen radiusen får mer poppekraft, evnenedkjølinger reduseres ytterligere og gren 1- og 2-oppgraderinger blir gratis."
 Homeland Defense Description,Evnen øker nå angrepshastigheten og poppinger med 100 % for alle aper i 20 sekunder.
 Monkeyopolis Description,"Absorberer alle banangårder  i nærheten og deres inntekt, og frigjører plass til nye aper."
 ,
@@ -2623,7 +2623,7 @@ SentryBoom,Eksplosjonsvakt
 SentryCrushing,Piggball-vakt
 SentryCold,Kuldevakt
 SentryEnergy,Energivakt
-SentryParagon,Paragonvakt
+SentryParagon,Tårnmester
 EditorNumberOfPlayers,Antall spillere
 EditorCoopAreaDivision,Delt samarbeidsområde
 InvalidTarget,Ugyldig mål
@@ -2741,7 +2741,7 @@ BoomerangTargetingSwitchHands,Bytt hånd
 VineRupture,Rankeruptur
 VineRuptureDescription,"Gir Skogens ånd-druiden en ny evne til å rumpere alle ranker på banen, og påføre store skader på alle bloons som ikke er bly-bloons. Nye ranker vil vokse tilbake etter hver Ruptur."
 BankDeposits,Bankinnskudd
-BankDepositsDescription,Aperbanker kan motta innskudd fra tilgjengelige midler i spillet.
+BankDepositsDescription,Apebanker på gren 4 og høyere  kan ta innskudd fra tilgjengelig spillvaluta.
 MonkeyBankDeposit,Innskudd
 Achievement 92 Name,Gullbillett
 Achievement 92 Description,Bloompa-loompa-doompa-di-do!
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] for å Mørkehoppe innen rekkevidde
 DarkChampionDarkshift,[I] for å Mørkehoppe til et gyldig sted
 SmallTowersMode,Små apetårn
 BigTowersMode,Store apetårn
-UpdatePopupTitle,Oppdatering 27!
-UpdatePopupDescription,Episk innholdsoppdatering som en ekte sjef!\n• Sjefsbloon-arrangementer har kommet! Hvem tør å utfordre Bloonarius?!\n• Paragonaper! Prøv det nye paragonnivået for dart og bumerang!\n• Våg deg ut på det sumpete nye middels kartet: Bloonarius’ prim\n• Nye ting i trofébutikken: blant annet splitter nye profilbannere!\n• Hopp tilbake i samarbeidet: kom deg inn i samarbeidsspillene igjen!\n• Nye prestasjoner og belønninger!\n• Balanseendringer: Enkelte tårn har gjennomgått store endringer. Sjekk oppdateringsmerknadene for mer info.
+UpdatePopupTitle,Oppdatering 28!
+UpdatePopupDescription,"Episk innholdsoppdatering!\n• Samarbeidskamper! Ta for deg sjefsduellene med venner for å få maks Paragon-nivåer!\n• Ny Sjefsbloon - Gravmester Lych!\n• Sjefsledertavler! Velg Rangert modus og få beste tid på ledertavlene i enkeltspillermodus eller mens du spiller med andre\n• Nytt Paragon-tårn - Ninjaapen Stigende skygge har ankommet!\n• Viking-Sauda er klar til å kjempe for deg! Skaff deg den nye Sauda-drakten og begynn slaktingen!\n• Ikke gå deg vill i skogen på den nye nybegynnerbanen vår, Hyttehavari\n• 12 nye trofeer i butikken, pluss 6 helt nye begrensede samlerobjekter i anledning Halloween!\n• Balanseringsoppdateringer og problemrettinger - mange positive endringer, sjekk oppdateringsmerknadene for alle detaljene"
 ResetDailyChest,Tilbakestill den Daglige kisten
 JukeboxName,Jukeboks
 EnableFunction,Aktiver
@@ -3009,7 +3009,7 @@ MonkeyNameInstruction,Velg et egendefinert navn for den første apen av hver tå
 OdysseyCompleteDescription,"Gratulerer, modige eventyrer! Du har fullført Odysséen og tjent deg disse belønningene!"
 HeroBoosterDescription,Gjør helten til nivå 10 med én gang?
 InappropriateNamedMonkeyName,Vennligst velg et mer passende apenavn
-PatchNotesLink,"For komplette oppdateringsdetaljer, gå til"
+PatchNotesLink,"For fullstendige oppdateringsmerknader, se:"
 TrophyPurchaseConfirmation,Kjøp {0} for {1} troféer?
 TrophyPurchaseInsufficient,Du har ikke nok troféer til å kjøpe dette elementet. Få flere fra kappløp og Odyssé-modus.
 TrophyStoreBought,Kjøpt
@@ -3024,7 +3024,7 @@ CoopEmoteTextAllIsFineWord,Alt er fint
 PlayerStatsTimesUpgraded,Antall ganger oppgradert
 PlayerStatsTimesSacrificed,Antall ganger ofret
 TrophyStoreInfoHeader,Info om Trofébutikken
-TrophyStoreInfoBody,Trofébutikken tilbyr mange flotte kosmetiske oppgraderinger!\n• Tjen deg troféer ved å fullføre Odysséer og kjøre kappløp\n• De aller fleste elementer kan aktiveres og deaktiveres via inventarfanen\n• Kjøpte musikkspor vises i Jukeboksen\n• Kjøpte avatarer vises i profilen i hovedmenyen\n• Navngitte aper redigeres via oppgraderingspanelet i spillet
+TrophyStoreInfoBody,"Trofébutikken har mange flotte kosmetiske oppgraderinger å by på!\n• Tjen deg trofeer ved å fullføre Odysseys, gjøre det bra i løp og slå Sjefer\n• De fleste kjøpte elementer kan aktiveres og deaktiveres via Inventar-fanen\n• Kjøpte musikkspor vises i Jukeboksen\n• Kjøpte avatarer og bannere vises på hovedmenyprofilen din\n• Navngitte aper redigeres via oppgraderingspanelet i spillet"
 RestartOdysseyBody,Er du sikker på at du vil starte Odysséen på nytt?
 OdysseyBannerRewards,Tjen deg belønninger og troféer!
 UpdateNotes,Oppdateringsmerknader
@@ -3440,7 +3440,6 @@ OverwriteChallengeBrowserHeader,Overskrive lagringen?
 GameUIMusicTrackMusicJingleBloonsName,Jukeboks: Bloonsklang
 GameUIMusicTrackMusicJingleBloonsShortName,Bloonsklang
 GameUIMusicTrackMusicJingleBloonsDescription,Feir høytiden med denne nye fete bloonslåta. Over skog og hei!\nAktiver musikk via Jukeboksen i Hovedmenyens Innstillinger
-TrophyBadgesEmpty,Vinn spill for å tjene medaljer
 Favorite,Favoritt
 FasterRegen,Økt regenereringsrate
 SlowerRegen,Redusert regenereringsrate
@@ -3598,7 +3597,9 @@ btd6_4racespass Description,Løp så mye du vil i 4 løp!
 btd6_4racespass,4 løpspass
 btd6_12racespass Description,Løp så mye du vil i 12 løp!
 btd6_12racespass,12 løpspass
+AccountPermissionRestriction,Denne Xbox-kontoen har ikke tillatelse til å spille flerspillerspill
 GetHeroBooster,Få helteøkning
+AccountCommunityPermissionRestriction,Denne Xbox-kontoen har ikke tillatelse til å se eller lage samfunnsinnhold
 IntermediateUnlockText,Fullfør et nybegynnerkart for første gang for å låse opp et middels kart
 AdvancedUnlockText,Fullfør et middels kart for første gang for å låse opp et avansert kart
 ExpertUnlockText,Fullfør et avansert kart for første gang for å låse opp et ekspertkart
@@ -3698,7 +3699,7 @@ game already opened,Er spillet allerede åpent?
 Psi,Psi
 Psi Short Description,Psionisk ape
 Psi Description,Psi er et begavet apebarn som bruker tankekraft til å knuse bloons fra innsiden.
-Psi Level 1 Description,"Psi lager dødelige vibrasjoner som ødelegger én bloon om gangen, selv over hinder og på lang avstand."
+Psi Level 1 Description,"Uansett område eller hindring, frigjør Psi sjelerystende vibrasjoner som fullstendig knuser én bloon om gangen. Kan angripe kamuflerte bloons."
 Psi Level 2 Description,Angriper litt raskere.
 Psi Level 3 Description,Psykisk eksplosjon: Psi slipper løs en kraftbølge som lamslår Bloons i nærheten i lang tid.
 Psi Level 4 Description,Psis angrep kan treffe en annen bloon om den kommer nær den målrettede bloonen.
@@ -3852,56 +3853,56 @@ Bloonarius,Bloonarius
 TierX,Nivå {0}
 HeroesGwendolinPlacementFireballName,Gwendolin Ildkule – posisjoner og oppgrader
 HeroesGwendolinPlacementFireballShortName,Gwen Ildkule
-HeroesGwendolinPlacementFireballDescription,Sørg for at Gwens ankomst og oppgraderinger er i fyr og flamme med denne kule ildkuleeffekten! Kun originale Gwendolin
+HeroesGwendolinPlacementFireballDescription,Sikre at Gwens ankomst og oppgraderinger er hete nok med denne fantastiske ildkuleeffekten! Kun for original Gwendolin
 TowerPropMonkeyVillageGermanyFlagName,Apelandsby – tysk flagg
 TowerPropMonkeyVillageGermanyFlagShortName,Landsby – tysk flagg
 TowerPropMonkeyVillageGermanyFlagDescription,Alle vet at den tyske apelandsbyens teknologi er ausgezeichnet! Vises for alle oppgraderinger
 TowerPropMonkeyVillageUKFlagName,Apelandsby – britisk flagg
 TowerPropMonkeyVillageUKFlagShortName,Landsby – britisk flagg
-TowerPropMonkeyVillageUKFlagDescription,Denne apelandsbyen er stolt medlem av samveldet. Britisk stolthet vises for alle oppgraderinger
+TowerPropMonkeyVillageUKFlagDescription,Denne apelandsbyen er ærbødig medlem av Commonwealth. Britisk stolthet vises for alle oppgraderinger
 BloonsDDTSkinTronName,Neon DDT
 BloonsDDTSkinTronShortName,Neon DDT
-BloonsDDTSkinTronDescription,"Elegant og dødelig, det er som om denne DDT-en kommer fra framtiden. Kanskje den gjør akkurat det."
+BloonsDDTSkinTronDescription,"Snikete og dødelig, denne DDT-en er sikkert og visst fra fremtiden. Den er bare nødt til å være det."
 BloonsAllBloonsBucketHatName,Bøttehatt-bloons
 BloonsAllBloonsBucketHatShortName,Bøttehatt-bloons
-BloonsAllBloonsBucketHatDescription,Få bloonsene i gang med den nyeste trenden med det digitale bøttehattdesignet.
+BloonsAllBloonsBucketHatDescription,Gjør bloonsene moteriktige med det seneste innen digitalt bøttehattdesign.
 BloonsAllBloonsPopsWaterbloonName,Vannbloon-popp – lydeffekt
 BloonsAllBloonsPopsWaterbloonShortName,Vannbloon-popp – lydeffekt
-BloonsAllBloonsPopsWaterbloonDescription,Perfekt for hetebølger – gjør alle bloons om til vannbloons med denne kule poppeeffekten.
+BloonsAllBloonsPopsWaterbloonDescription,Perfekt for enhver hetebølge. Gjør hver bloon om til en vann-bloon med denne dryppende kule poppeeffekten
 CoopEmoteTextNextRoundScaryName,Neste runde! Tekst-emote Scary!
 CoopEmoteTextNextRoundScaryShortName,Neste runde! Scary!
-CoopEmoteTextNextRoundScaryDescription,Advar andre samarbeids-lagmedlemmer om neste runde! Spesielt nyttig rundt halloween.
+CoopEmoteTextNextRoundScaryDescription,Advar lagmedlemmene dine om neste runde! Ekstra nifst når det er halloween.
 CoopEmoteTextNextRoundScaryWord,Neste runde! Skummel!
 CoopEmoteAnimationFistpumpName,Knyttneve-animasjon
 CoopEmoteAnimationFistpumpShortName,Knyttneve
-CoopEmoteAnimationFistpumpDescription,For å feire en godt utført jobb!
+CoopEmoteAnimationFistpumpDescription,For å feire et bra utført oppdrag!
 GameUIProfileAvatar44Name,Tilpasset avatar – SAS-ape
 GameUIProfileAvatar44ShortName,SAS-ape – avatar
-GameUIProfileAvatar44Description,Avatarvinner fra Deacon
+GameUIProfileAvatar44Description,Vinneravatar av LV-223_Deacon
 GameUIProfileAvatar45Name,Tilpasset avatar – Blueprint
 GameUIProfileAvatar45ShortName,Avataren Blueprint
-GameUIProfileAvatar45Description,Avatarvinner fra dungeon-raided
-GameUIProfileAvatar46Name,Tilpasset avatar – Ezili
-GameUIProfileAvatar46ShortName,Ezili-avatar
-GameUIProfileAvatar46Description,Også kjent som Morgenhår-Ezili
+GameUIProfileAvatar45Description,Vinneravatar av dungeon-raided
+GameUIProfileAvatar46Name,Tilpasset avatar - Maskert Ezili
+GameUIProfileAvatar46ShortName,Maskert Ezili-avatar
+GameUIProfileAvatar46Description,Også kjent som Ezili med sovesveis
 GameUIProfileAvatar47Name,Tilpasset avatar – Spikerkule
 GameUIProfileAvatar47ShortName,Avataren Spikerkule
-GameUIProfileAvatar47Description,Spikerkuler har aldri tatt seg så bra ut
+GameUIProfileAvatar47Description,Spikerkuler har aldri sett kulere ut - helt uunnværlig
 GameUIProfileBanner1Name,Aerials-profilbanner
 GameUIProfileBanner1ShortName,Aerials-banner
-GameUIProfileBanner1Description,Dette tilpassede essinspirerte profilbannere går i sirkel rundt andre spillere
-GameUIProfileBanner2Name,Åndeulv-profilbanner
-GameUIProfileBanner2ShortName,Åndeulv-banner
-GameUIProfileBanner2Description,Vekk åndene med Obyn-ulvs tilpassede profilbanner
+GameUIProfileBanner1Description,Dette Apeess-inspirerte profilbanneret gjør sideveis saltoer rundt de andre spillerne
+GameUIProfileBanner2Name,Åndelig ulv-profilbanner
+GameUIProfileBanner2ShortName,Åndelig ulv-banner
+GameUIProfileBanner2Description,Vekk åndene til live med Obyn-ulvs profilbanner
 GameUIProfileBanner3Name,Innkommende profilbanner
 GameUIProfileBanner3ShortName,Innkommende banner
-GameUIProfileBanner3Description,Bruk denne BFB-ledede Bloonstormen som tilpasset profilbanner-trofé for seirene dine
+GameUIProfileBanner3Description,Ikle deg denne BFB-førte Bloonstormen som profilbanner mens du knuser deg gjennom seier etter seier
 GameUIProfileBanner4Name,Dartstorm-profilbanner
 GameUIProfileBanner4ShortName,Dartstorm-banner
-GameUIProfileBanner4Description,"Den vanlige dartpilen er alt annet enn vanlig i dette elegante, mørke tilpassede profilbanneret"
+GameUIProfileBanner4Description,"Den vanlige dartpilen blir noe utenom det vanlige i dette råe, mørke profilbanneret"
 GameUIProfileBanner5Name,Reaktivt profilbanner
 GameUIProfileBanner5ShortName,Reaktivt banner
-GameUIProfileBanner5Description,Kraft og fare kombineres i dette ubåtinspirerte tilpassede profilbanneret
+GameUIProfileBanner5Description,Makt og faretruende harmoni kombineres i dette ubåtinspirerte profilbanneret
 Paragon Title,Oppgrader til paragon
 Paragon Body,"Denne handlingen vil lage en paragon {0}. Alle andre {1} blir ødelagt i prosessen, for å gi styrke til paragonen!"
 ft_paragontitle,Paragonoppgradering aktivert!
@@ -3930,7 +3931,7 @@ EngineerMonkeys,Ingeniøraper
 SpikeFactorys,Spikerfabrikker
 MonkeyVillages,Apelandsbyer
 BossInfoPanelTitle,Sjefsbloon-hendelse
-BossInfoPanelDescription,"Vær hilset, tapre eventyrer, du har kommet til sjefenes rike. Lykke til og husk disse viktige reglene:\n• Sjefshendelsen begynner så snart du trykker på Spill og du får ingen pause mellom rundene.\n• Popp alle 5 nivåene av sjefen for å vinne hver sjefsmod"
+BossInfoPanelDescription,"Vær hilset, o' modige eventyrer, du har funnet veien helt inn til Sjefenes kongerike! Lykke til og husk disse viktige reglene:\n• Sjefsduellene starter når du trykker på Spill. Det finnes ingen pause mellom runder og sjefer kan ikke sakkes ned.\n• Popp alle 5 grenene til ejefen for å vinne hver djefsmodus. Overvinn Normal for å låse opp Elite.\n• Bygg opp økonomien din, forbered evnene dine og utnytt erfaringen din mellom grenene!\n• Tjen deg trofeer eller andre belønninger hver gang du overvinner en gren, men hvis du ikke vinner over en gren i løpet av 20 runder, taper du.\n• Konkurrer mot andre spillere i Rangert modus for å se hvem som kan slå Sjefen raskest og vinne flotte premier!\n• Den beste rangeringen din som enspiller ELLER i samarbeidskamper avgjør belønningene du vinner.\n• Normal- og Elite-moduser har separate ledertavler og premier, og du kan vinne dem alle!"
 BloonariusInfoPanelDescription,"Gjørmeboende Bloonarius spytter bloons når den påføres skade, og når hver hodeskalle i helsefeltet nås, sender den ut enorme bloongrupper.\n\nBloonarius’ gjørmetilførte skall gjør den treg, men robust."
 NextBossIn,Sjefen dukker opp om: {0}
 ARound,1 runde
@@ -3941,7 +3942,7 @@ BoomerangMonkey Paragon,Lansedominus
 BoomerangMonkey Paragon Description,Bloonsene vil se på lansene mine og skjelve av frykt.
 TowerEffectAllMonkeysPlacementUpgradesButterfliesName,Sommerfugler – posisjoner og oppgraderingseffekter
 TowerEffectAllMonkeysPlacementUpgradesButterfliesShortName,Sommerfugler – oppgraderingseffekt
-TowerEffectAllMonkeysPlacementUpgradesButterfliesDescription,Sett pris på naturen og skjønnheten når hvert apested og -oppgradering får sommerfugler til å sverme.
+TowerEffectAllMonkeysPlacementUpgradesButterfliesDescription,"Sett pris på natur og skjønnhet når hver ape plasseres, og se sommerfugler sveve når det oppgraderes"
 BossEvent,Sjefshendelse
 NewCoopGame,Nytt samarbeidsspill
 Hold,Pause
@@ -3958,8 +3959,8 @@ PlayerStatsHighestRoundCHIMPS,Høyeste runde CHIMPS
 PlayerStatsHighestRoundDeflation,Høyeste runde deflasjon
 Rejoin Coop,Bli med i samarbeid igjen
 WaitingEndRound,Venter på slutten av nåværende runde
-SoftwareCursor,Programvaremarkør
-LargeCursor,Stor markør
+SoftwareCursor,Stor markør
+LargeCursor,Ekstra stor markør
 Cursor,Markør
 SandboxCursor,Sandkasse/markør
 Achievement 128 Name,Hva er dette nye blooneriet?
@@ -4013,3 +4014,107 @@ Retry From Checkpoint,Prøv igjen fra kontrollpunkt
 RetryCheckpointText,Prøv igjen fra forrige kontrollpunkt i runde {0}?
 Retry From Round,Prøv igjen fra runde {0}
 EliteBossLockedPopup,Beseir sjefen på vanskelighetsgraden Vanskelig for å låse opp Elite
+Custom Odyssey,Tilpasset Odyssey
+Creating Odyssey,Oppretter Odyssey
+Creating Challenge,Oppretter utfordring
+TheCabin,Hyttehavari
+VikingSaudaSaudaSkinName,Sauda vikingdrakt
+VikingSaudaSaudaSkinDescription,Øksene er klare!
+HeroesChurchillSentaiSkinPetDroneName,Sentai Churchills dronedyr
+HeroesChurchillSentaiSkinPetDroneShortName,Sentai Churchills drone
+HeroesChurchillSentaiSkinPetDroneDescription,Superavansert speidertårn Y26G som detekterer trusler raskt og ser bra ut mens den gjør det. Ingen overraskelse at vi kaller den SASSY. Kun Sentai Churchill
+TowerPetGlueGunnerRatName,Is-apes rottekjæledyr
+TowerPetGlueGunnerRatShortName,Is-apes rottekjæledyr
+TowerPetGlueGunnerRatDescription,"Alltid ved is-apens side, særlig når det er laboratoriearbeid på ferde. Noen gang lurt på hvem det egentlig er som står bak slimets mange egenskaper? Vi tror det er rotten."
+TowerEffectAllMonkeysPlacementUpgradesBatsName,Flaggermusplassering og oppgraderingseffekter
+TowerEffectAllMonkeysPlacementUpgradesBatsShortName,Flaggermusplassering FX
+TowerEffectAllMonkeysPlacementUpgradesBatsDescription,Skrem bloonsene hver gang et tårn plasseres og oppgraderes med heftige flaggermusanimasjoner som er ekstra grufullt herlige på bestemte baner.
+TowerPetMonkeyBuccaneerNarwhalName,Apepirats narhvalskjæledyr
+TowerPetMonkeyBuccaneerNarwhalShortName,Apepirats narhval
+TowerPetMonkeyBuccaneerNarwhalDescription,Bevitne den mytiske narhvalen hver gang en pirat plasseres! Hvem andre enn den mektige pirat kan både regjere over de syv hav og bli venn med deres legender?!
+TowerProjectileEngineerVampireHunterName,Vampyrjeger-ingeniørens prosjektiler
+TowerProjectileEngineerVampireHunterShortName,Vampyrjeger-ingeniørape
+TowerProjectileEngineerVampireHunterDescription,"Bare i tilfelle bloonsene alle er hemmelige vampyrer, kan ingeniørapen nå utstyre seg med et arsenal av vampyrbloon-poppende prosjektiler, som staker, hvitløk og kister. Begrenset samlerobjekt!"
+TowerPropMonkeyVillageCanadianFlagName,Apelandsbyens canadiske flagg
+TowerPropMonkeyVillageCanadianFlagShortName,Landsbyens canadiske flagg
+TowerPropMonkeyVillageCanadianFlagDescription,Det var på tide! Oh Canada - vis frem landsånden gjennom alle apelandsbyene dine. Vises for alle oppgraderinger
+BloonsZOMGSkinJackOLanternName,Gresskar-ZOMG
+BloonsZOMGSkinJackOLanternShortName,Gresskar-ZOMG
+BloonsZOMGSkinJackOLanternDescription,Saudas vinnende bidrag til den årlige «skjær ut et gresskar som en ZOMG»-konkurransen. Begrenset samlerobjekt!
+BloonsAllBloonsVampireCapesName,Vampyrkappe-bloons
+BloonsAllBloonsVampireCapesShortName,Vampyrkappe-bloons
+BloonsAllBloonsVampireCapesDescription,Kle ut bloonsene som nattens skapninger på Halloween! Begrenset samlerobjekt!
+CoopEmoteAnimationPanicMonkeyName,Panikkape-ikon
+CoopEmoteAnimationPanicMonkeyShortName,Apepanikk
+CoopEmoteAnimationPanicMonkeyDescription,"Dette er samarbeidspartneren din som snakker. Vennligst. Ikke. Få. Panikk. OK, NÅ FÅR VI PANIKK!"
+CoopEmoteAnimationBeggingMonkeyName,Vær så snill-apeikon
+CoopEmoteAnimationBeggingMonkeyShortName,Vær så snill-ape
+CoopEmoteAnimationBeggingMonkeyDescription,"Vææær så snill, jeg trenger bare 10 000 til for å få denne oppgraderingen! Det er bare en tilfeldighet at jeg er spiller nummer 3, jeg lover!"
+GameUIPowerSkinThriveStonksName,Tilpasset kraft - Aksjespekulasjon
+GameUIPowerSkinThriveStonksShortName,Aksjespekulasjon
+GameUIPowerSkinThriveStonksDescription,"Ben sier at vi bør investere alt i Banancoin, den kommer til å stige opp i skyene!"
+GameUIProfileAvatar48Name,Tilpasset avatar - Ape med hockeymaske
+GameUIProfileAvatar48ShortName,Ape med hockeymaske
+GameUIProfileAvatar48Description,Ære være hockeymaskeapen! Begrenset samlerobjekt!
+GameUIProfileAvatar49Name,Tilpasset avatar - Bly Zeppelin
+GameUIProfileAvatar49ShortName,Bly Zeppelin-avatar
+GameUIProfileAvatar49Description,Vinneravatar av waywardzuck
+GameUIProfileAvatar50Name,Tilpasset avatar - Beste-Ben
+GameUIProfileAvatar50ShortName,Beste-Ben-avatar
+GameUIProfileAvatar50Description,"Hvem har alle IT-behovene dine under kontroll? Denne karen! Hvem spiller de feteste beatsa? Denne fyren! Og hvem står for cateringen på neste team-event med deilig sushi? Vel, trenger jeg å spørre?"
+GameUIProfileAvatar51Name,Tilpasset avatar - Action-Psi
+GameUIProfileAvatar51ShortName,Action-Psi-avatar
+GameUIProfileAvatar51Description,"Selv om Psi er i ett med universet, betyr det ikke at han ikke vet hvordan man har det moro en gang i blant! Rock denne råe Psi-avataren for å fremme saken."
+GameUIProfileBanner6Name,Soltempel-profilbanner
+GameUIProfileBanner6ShortName,Soltempel-banner
+GameUIProfileBanner6Description,"Opplev den sanne kraften til et fullstendig operativt Soltempel med dette episke, tilpassede profilbanneret"
+GameUIProfileBanner7Name,Spøkegodt-profilbanner
+GameUIProfileBanner7ShortName,Spøkegodt-banner
+GameUIProfileBanner7Description,Knask eller knep?! Det perfekte banneret for å komme i halloweenstemning
+LychTagLine,Gravmesteren
+LychTagLine2,har gjenoppstått!
+Lych,Lych
+LychInfoPanelDescription,"• Gravmester Lych drenerer energien til apene dine og helbreder seg selv underveis.\n• Når hver hodeskalle på helsebaren til Lych fylles, blir han eterisk og gjenoppliver de tomme skallene til nylig poppede MOAB-klasse bloons.\n• Når han er eterisk, kan i"
+EditorReviewMap,Se gjennom banen
+YourBestTime,Din beste tid
+Boss,Sjef
+MiniBoss,Visesjef
+NormalRewards,Normale belønninger
+EliteRewards,Elitebelønninger
+1Player,Spiller 1
+2Player,Spiller 2
+3Player,Spiller 3
+4Player,Spiller 4
+BossLeaderboard,Sjefsledertavle
+LeaderboardSubmissionFail,Kunne ikke oppdatere ledertavlen
+SafeNameChallenge,{0} sin utfordring
+SafeNameOdyssey,{0} sin Odyssey
+BossEventEnded,Sjefsduellene er over!
+RankedNormal,Rangert Normal
+RankedElite,Rangert Elite
+StartRankedBoss,Start mot ranket sjef
+MusicHaunted,Hjemsøkt hus
+GameUIMusicTrackMusicHauntedName,Jukebox: Hjemsøkt hus
+GameUIMusicTrackMusicHauntedShortName,Jukebox: Hjemsøkt hus
+GameUIMusicTrackMusicHauntedDescription,Hjemsøkende beats og spektrale rim gjør dette til sesongens lydspor for Halloween eller sene spilleøkter. Tidsbegrenset samlerobjekt!
+NSCameraUsageDescription,Skjermbilde for kundestøtteforespørsler
+btd6_needmoremonkeymoneyprompt_no_iap,Du har ikke nok apepenger!
+UseRacePassDescription,Bruke et løpskort til å få ubegrenset med påmeldinger til dette løpet?
+RacePassActivated,Løpskort aktivert
+UseRacePassTitle,Bruke løpskort?
+Elite Best Time,Beste tid (Elite)
+Normal Best Time,Beste tid (Normal)
+NormalCursor,Normal markør
+MayAffectPerformance,*Kan påvirke prestasjoner
+GameUIMusicTrackMusicOnslaughtName,Stormangrep
+GameUIMusicTrackMusicOnslaughtShortName,Stormangrep
+GameUIMusicTrackMusicOnslaughtDescription,Sjefslydsporet Stormangrep
+SharingCoopBoss,Tør du kjempe i sjefduellene mine på Bloons TD 6!?
+EliteBossEvent,Sjefsduell (Elite)
+NinjaMonkey Paragon,Stigende skygge
+NinjaMonkey Paragon Description,Den komplette snikapepakken for å håndtere enhver bloontrussel.
+Elite,Elite
+HackGameStopMessage,Spillverdier kan ikke resynkroniseres. Beklageligvis kan ikke dette spillet fortsette. Vennligst prøv et nytt spill.
+RankedMode,Ranket modus
+Any,Enhver
+ScoreNotVerifiable,Poengsummen din ble ikke sendt, siden den ikke kunne bekreftes.

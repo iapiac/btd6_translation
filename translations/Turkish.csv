@@ -1,4 +1,4 @@
-//Input. Needs to be first e.g [I] replaced by click or tap,
+﻿//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Tıkla
 Tap,Dokun
 ,
@@ -173,7 +173,7 @@ Benjamin Level 3 Description,Biyokorsanlık: 4 en yakın Maymun her 6 saniyede b
 Benjamin Level 4 Description,Kaymağını Yeme - Canlanan her yeni Bloon için +1 Dolar kazanır.
 Benjamin Level 5 Description,Banka Korsanlığı - tüm bankalar +%5 gelir elde eder.
 Benjamin Level 6 Description,Siber Güvenlik - Her turun sonunda 5 can geri yükler.
-Benjamin Level 7 Description,Bloon Truva Atı - Her birkaç saniyede bir rasgele Bloon’a bir Truva Atı yazılım virüsü gönderir. Etkilenen Bloon yok edildiğinde başka bloon’lar canlanmaz ve 2x nakit oluşturur.
+Benjamin Level 7 Description,Bloon Truva Atı - Her birkaç saniyede bir rasgele Bloon’a bir Truva Atı yazılım virüsü gönderir. Etkilenen Bloon yok edildiğinde başka bloon’lar canlanmaz ve her katman için 1 ekstra nakit oluşturur.
 Benjamin Level 8 Description,Gelir tur başına 250 Dolar artar.
 Benjamin Level 9 Description,Banka korsanlığı %12 artar
 Benjamin Level 10 Description,Sifon Fonlama: En yeni dirilen Bloon’ları 1 derece aşağı düşürür. Etkilenen Bloon’ların patlatılmasından elde edilen para iki katına çıkar. 10 saniye sürer.
@@ -248,7 +248,7 @@ Ezili Level 15 Description,Artırılmış menzil.
 Ezili Level 16 Description,Kurban Totemi daha uzun sürer ve yalnızca 1 cana mal olur.
 Ezili Level 17 Description,Temel saldırıda daha geniş yarıçap ve yüksek delme.
 Ezili Level 18 Description,Yüksek saldırı hızı.
-Ezili Level 19 Description,Temel saldırıdan gelen her hasar 2 katman patlatır!
+Ezili Level 19 Description,Temel saldırıdan gelen her hasar 3 katman patlatır!
 Ezili Level 20 Description,MOAB Hex daha hızlı çalışır ve BAD Bloon'ları yok edebilir.
 ,
 //Hero Ability Names,
@@ -357,7 +357,7 @@ The Tack Zone,Çivi Bölgesi
 Permafrost,Donmuş Tabaka
 Enhanced Freeze,Gelişmiş Dondurcu
 Larger Radius,Daha Geniş Yarıçap
-Metal Freeze,Metal Dondurucu
+Metal Freeze,Soğuk Isırığı
 Deep Freeze,Derin Dondurucu
 Re-Freeze,Tekrar Dondurma
 Ice Shards,Buz Parçaları
@@ -607,7 +607,7 @@ Double Gun,Çift Silah
 Sentry Expert,Gözcü Uzmanı
 Overclock,Hız Aşırtma
 Bloon Trap,Bloon Tuzağı
-Sentry Paragon,Kusursuz Gözcü
+Sentry Paragon,Gözcü Şampiyon
 Ultraboost,Ultra Güçlendirme
 XXXL Trap,XXXL Tuzak
 ,
@@ -755,13 +755,13 @@ The Tack Zone Description,"Bir sürü, bir sürü çivi."
 Permafrost Description,Bloon’lar buzları çözüldükten sonra bile yavaş hareket eder.
 Enhanced Freeze Description,Saldırılar daha hızlıdır ve daha uzun sürer.
 Larger Radius Description,Daha geniş dondurma alanı.
-Metal Freeze Description,Kurşun Bloon’ları dondurabilir ve patlatabilir.
+Metal Freeze Description,Kurşun ve Kamuflajlı Bloon’ları dondurabilir ve patlatabilir.
 Deep Freeze Description,Bloon’un 2 katmanını dondurur.
 Re-Freeze Description,Zaten donuk olan Bloon’ları tekrar dondurabilir.
 Ice Shards Description,Donmuş Bloon’lar patlarken jilet gibi keskin parçalar fırlar.
 Arctic Wind Description,Delmeyi büyük oranda artırır ve Bloon’ları yavaşlatıp yakındaki suyu donduran bir süper soğuk aura kazanır.
 Cryo Cannon Description,Bloon’lara daha uzun menzilli dondurucu bombalar atar.
-Embrittlement Description,"Kamuflajlı Bloon’ları tespit eder ve tüm Bloon vuruşları kırılganlaşır, kısa süreliğine ekstra hasar alırlar, Kamuflaj ve Yeniden Şişme özelliklerini kalıcı olarak kaybederler."
+Embrittlement Description,"Kamuflajlı Bloon’ları tespit eder ve MOAB’lar dahil, tüm Bloon vuruşları kırılganlaşır, kısa süreliğine ekstra hasar alırlar, Kamuflaj ve Yeniden Şişme özelliklerini kalıcı olarak kaybederler."
 Snowstorm Description,"Kar Fırtınası Yeteneği: Ekrandaki tüm normal Bloon’ları, Beyaz, Zebra ve Kamuflajlıları dondurur ve MOAB Sınıfı Bloon’ları yavaşlatır."
 Icicles Description,Donmuş Bloon’lar onlara dokunan Bloon’ları patlatabilen keskin sarkıtlar oluşturur.
 Super Brittle Description,MOAB Sınıfı Bloon’lar dahil donmuş Bloon’lar ağır hasar alır.
@@ -795,7 +795,7 @@ Bouncing Bullet Description,3 sefere kadar yeni hedeflere sekerek fırlatır.
 Semi-Automatic Description,3 kat hızlı saldırır!
 Maim MOAB Description,Çok daha fazla hasar verir ve kısa süre için MOAB Sınıfı bloon’ları hareketsizleştirir.
 Supply Drop Description,İkmal Malzemesi Düşürme Yeteneği: nakitle dolu bir sandık düşürür. Normal saldırı Kurşun Bloon’lara da hasar verir ve Şarapnelle patlatma gücünü artırır.
-Full Auto Rifle Description,"Kurşun Bloon’lara da hasar veren, inanılmaz patlatma gücüne sahip tam otomatik silah."
+Full Auto Rifle Description,İnanılmaz patlatma gücüne sahip tam otomatik silah.
 Cripple MOAB Description,Felç olan MOAB’lar daha uzun süre hareketsizleşir ve diğer tüm saldırılardan ekstra hasar alır.
 Elite Sniper Description,İkmal malzemesi düşürme çok daha fazla nakit kazandırır. Tüm keskin nişancılara Elit hedefleme önceliği ve daha hızlı yükleme sağlar.
 Elite Defender Description,Kayıp bir ömür bu Keskin Nişancıya kısa süreliğine 4 kat saldırı hızı kazandırır.
@@ -827,13 +827,13 @@ Buccaneer-Cannon Ship Description,Güçlü bombalar atan kuvvetli bir top ekler.
 Buccaneer-Merchantman Description,Her turda otomatik olarak nakit oluşturur.
 Buccaneer-Aircraft Carrier Description,Hedeflerini bombalayan avcı uçağı dalgaları gönderir ve MOAB sınıfı Bloon’lara füzeler fırlatır.
 Buccaneer-Monkey Pirates Description,Gemiye 2 top ekler ve top saldırıları daha fazla hasar yaratır. MOAB Parçalama Yeteneği: Bir MOAB sınıfı bloon’u yakalar ve alt eder.
-Buccaneer-Favored Trades Description,Daha fazla saldırır ve tur başına bir sürü para oluşturur. Yarıçaptaki Maymunlar yüksek satış değerine sahiptir ve %95 maksimum satış değeri karşılığında 3 Ayrıcalıklı Ticaret istiflenebilir.
+Buccaneer-Favored Trades Description,Daha hızlı saldırır ve tur başına bir sürü para oluşturur.
 Buccaneer-Carrier Flagship Description,Ekstra hasar verir. Diğer Maymunları geminin üst güvertesine yerleştirebilir ve suda konuşlanan tüm Maymunların ve Pilot Maymunların saldırı hızını artırır.
 Buccaneer-Pirate Lord Description,"Tüm saldırılar için son derece yüksek saldırı hızına sahiptir ve tek seferde 3 yakalayıcı kanca fırlatabilir, indirilen her bir MOAB Sınıfı Bloon’dan ekstra nakit yağar."
 Buccaneer-Trade Empire Description,Tur başına daha fazla nakit oluşturur. Tüccar sayısına göre diğer tüm Tüccarlarla kazanılan nakit miktarını 20’ye kadar artırır ve tüm Tüccar hasarını artırır.
 ,
 Rapid Fire Description,Normalden daha hızlı fırlatır.
-Exploding Pineapple Description,"Yere, birkaç saniye sonra şiddetli bir şekilde patlayan ananaslar düşürür."
+Exploding Pineapple Description,"Yarıçaptaki Maymunlar yüksek satış değerine sahiptir. Yere, birkaç saniye sonra şiddetli bir şekilde patlayan ananaslar düşürür. Pilotun patlayıcı saldırıları geliştirildi."
 Sharper Darts Description,Oklar tek seferde 8 Bloon patlatabilir.
 Lots More Darts Description,Tek seferde 12 ok fırlatır.
 Spy Plane Description,Pilot Maymun’un Kamuflajlı Bloon’ları vurmasını sağlar.
@@ -961,17 +961,17 @@ Permanent Brew Description,Öfke içeceği onu içen Maymunlar üzerinde KALICI 
 Total Transformation Description,Yakındaki beş Maymunu 20 saniye boyunca çılgın saldırı canavarına dönüştürür.
 Bloon Master Alchemist Description,"Gizli küçültme iksiri, etkilenen tüm Bloon’ları Kırmızı Bloon’lara dönüştürür."
 ,
-Hard Thorns Description,Sert dikenlerin her biri 2 Bloon patlatabilir ve Donmuş Bloon’ları da patlatabilir.
+Hard Thorns Description,Sert dikenlerin her biri 2 Bloon patlatabilir ve herhangi bir Bloon türünü de patlatabilir.
 Thorn Swarm Description,Atış başına 5 yerine 8 diken fırlatır.
 Druidic Reach Description,Menzili büyük oranda artırır.
 Heart of Thunder Description,Düzenli olarak Bloon’dan Bloon’a kavis çizen çatallı yıldırım patlamaları yayar.
 Heart of Oak Description,"Saldırılar, Yeniden Şişen Bloon'ları normal Bloon’lara dönüştürür."
 Heart of Vengeance Description,Yükseltmeden sonra başlangıç değerinden itibaren %10 saldırı hızı ve kaybedilen her can için %1 saldırı hızı kazanır. %100’de maksimuma çıkar ve canlar geri yüklenirse azalır.
 Druid of the Storm Description,Kuvvetli rüzgâr Bloon’ları çıkıştan uzağa parkurun dışına uçurur.
-Druid of the Jungle Description,Bloon’ları teker teker engellemek ve çarpmak için yerden bir üzüm asması çağırır.
+Druid of the Jungle Description,Bloon’ları teker teker engellemek ve çarpmak için yerden bir üzüm asması çağırır; geride ölümcül bir diken yığını bırakır.
 Druid of Wrath Description,Tur sırasında Medyum Bloon’lara saldırdığı sürece saldırı hızı artar.
 Ball Lightning Description,Ek yıldırımlar fırlatan güçlü yıldırım topları oluşturur.  
-Jungle's Bounty Description,Ormanın Hediyesi Yeteneği: Her kullanımda ve ayrıca Medyumun yanındaki her Muz Çiftliği için ekstra nakit oluşturur.
+Jungle's Bounty Description,Ormanın Hediyesi Yeteneği: Her kullanımda ve ayrıca Medyumun yanındaki her Muz Çiftliği için ekstra nakit oluşturur. Asma yapraklarıyla tek seferde iki Bloon da yakalayabilir.
 Poplust Description,Yarıçaptaki tüm Medyumlar için saldırı hızını ve delmeyi artırır. Herhangi bir tek Medyumda 5 kez istiflenebilir.
 Superstorm Description,Süper Fırtına tüm Bloon türlerini ağır hasar vererek patlatır ve onları çıkışın uzağına uçurur.
 Spirit of the Forest Description,Yol boyunca seramiklere kalıcı ve bonus hasar veren dikenli asma yaprakları büyütür. Ormanın Ruhuna en yakın asma yaprakları daha fazla hasar verir. Etkinleştirilmiş yetenek can ve daha fazla nakit sağlar.
@@ -979,10 +979,10 @@ Avatar of Wrath Description,Ne kadar fazla Bloon varsa o kadar fazla hasar verir
 ,
 Increased Production Description,Tur başına 2 ekstra Muz salkımı yetiştirir.
 Long Life Bananas Description,Muzlar 15 yerine 30 saniye çürümeden durur.
-EZ Collect Description,"Muzların toplanma yarıçapı daha geniştir. Maymun Bankaları, banka dolduğunda ve toplanmaya hazır olduğunda parlar."
+EZ Collect Description,Muzların toplama yarıçapı daha büyüktür ve toplanmamış Muzlar yarı değerine otomatik olarak toplanır. Maymun Bankaları dolduklarında ve toplamaya hazır olduklarında parlarlar.
 Greater Production Description,Tur başına 2 ekstra Muz salkımı DAHA yetiştirir.
 Valuable Bananas Description,Muzlar salkım başına %25 daha fazla nakit getirir.  
-Banana Salvage Description,Toplanmayan Muzlar yarı fiyatına otomatik olarak toplanır.
+Banana Salvage Description,Toplanmamış Muzlar neredeyse tam değerlerinde otomatik olarak toplanır ve Bankalar dolduklarında otomatik olarak toplanır. Çiftlik geri satış oranı %10 arttı
 Banana Plantation Description,Tur başına 16 Muz salkımı yetiştirir.
 Monkey Bank Description,Bu çiftlik tarafından oluşturulan tüm para artık bankada saklanır ve her turda %15 faiz kazanır.
 Marketplace Description,Her turda para oluşturur ve toplamına ekler. Sorun yok.
@@ -991,7 +991,7 @@ IMF loan Description,IMF Kredisi: 10.000 Dolar verir ama bunu zamanla geri ödem
 Central Market Description,Her turda yığınla para kazanır ve Tüccarlara +%10 gelir sağlar.
 Banana Central Description,Muz mu istiyorsun? Bizde Muz var!
 Monkey-Nomics Description,Batamayacak kadar büyük olduğunda...
-Monkey Wall Street Description,Maymun Merkezi ticaretleri her turda muazzam bir gelir sağlar.
+Monkey Wall Street Description,Maymun Merkezi ticaretleri her turda muazzam bir gelir sağlar ve can oluşturur.
 ,
 Sentry Gun Description,Geçici gözcü silahlar oluşturur ve onları yakında konuşlandırır.
 Larger Service Area Description,Daha uzağa fırlatır ve çok daha geniş bir alanda gözcüler görevlendirir. Gözcüler daha uzun menzile sahip olur.
@@ -1053,7 +1053,7 @@ Monkey Town Description,"Maymun Kasabasının yarıçapındaki tüm Maymunlar, p
 Primary Mentoring Description,"Yarıçaptaki tüm Birincil Maymunlar ücretsiz olarak 1. Kademe yükseltmeler, yüksek menzil ve düşük yetenek gecikme süreleri kazanır."
 Call to Arms Description,Orduya Çağrı Yeteneği: Yakındaki Maymunlara +%50 saldırı hızı sağlar ve kısa süre için patlatır.
 Monkey City Description,"Etki yarıçapını, yarıçaptaki nakit oluşturmayı artırır ve her turda sana ücretsiz bir Okçu Maymun verir."
-Primary Expertise Description,"Mega Mancınık saldırısı ekler, ayrıca yarıçaptaki tüm Birincil Maymunlar daha fazla patlatma gücü ve ücretsiz olarak 1. ve 2. kademe yükseltmeler kazanır."
+Primary Expertise Description,"Mega Mancınık saldırısı ekler, ayrıca yarıçaptaki tüm Birincil Maymunlar daha fazla patlatma gücü, daha da kısalmış yetenek gecikme süreleri ve ücretsiz olarak 1. ve 2. kademe yükseltmeler kazanır."
 Homeland Defense Description,Bu yetenek şimdi tüm Maymunlar için saldırı ve patlatma hızını 20 saniye boyunca %100 artırır.
 Monkeyopolis Description,Yakındaki tüm Muz Çiftliklerini ve gelirlerini emerek yeni Maymunlar için yer açar.
 ,
@@ -2623,7 +2623,7 @@ SentryBoom,Patlama Nöbetçisi
 SentryCrushing,Çivili Top Nöbetçisi
 SentryCold,Soğuk Nöbetçi
 SentryEnergy,Enerji Nöbetçisi
-SentryParagon,Kusursuz Nöbetçi
+SentryParagon,Şampiyon Gözcü
 EditorNumberOfPlayers,Oyuncu Sayısı
 EditorCoopAreaDivision,İşbirliği Alan Bölme
 InvalidTarget,Geçersiz Hedef
@@ -2741,7 +2741,7 @@ BoomerangTargetingSwitchHands,El Değiştirme
 VineRupture,Üzüm Asması Kırılması
 VineRuptureDescription,"Ormanın Ruhu Medyumuna tüm parkur üzüm asmalarını patlatma, tüm kurşunsuz Bloon’lara büyük hasar verme yeteneği kazandırır. Yeni üzüm asmaları her Kırılmadan sonra tekrar büyür."
 BankDeposits,Banka Mevduatları
-BankDepositsDescription,Maymun Bankaları mevcut oyun içi nakitten mevduat alabilir.
+BankDepositsDescription,4. Kademe ve üzeri Maymun Bankaları mevcut oyun içi nakitten mevduat alabilir.
 MonkeyBankDeposit,Mevduat
 Achievement 92 Name,Altın Bilet
 Achievement 92 Description,Bloompa-loompa-doompa-dee-doo!
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,Menzilde Karanlık Kayması için [I]
 DarkChampionDarkshift,Herhangi bir geçerli konuma Karanlık Kayması için [I]
 SmallTowersMode,Küçük Maymun Atıcılar
 BigTowersMode,Büyük Maymun Atıcılar
-UpdatePopupTitle,27’yı Güncelle!
-UpdatePopupDescription,"Epik Patron boyutlu içerik güncellemesi!\n• Patron Bloon Etkinlikleri geldi! Bloonaryusa meydan okumaya kim cüret edebilir?!\n• Gözcü Maymunlar! Okçu ve Bumerang için yepyeni Gözcü Kademesini dene!\n• Yeni bataklıklı Orta Seviye harita Bloonaryus Asalında cesaretini göster\n• Yeni ganimet mağazası eşyaları: yepyeni Profil Afişleri dahil!\n• İş birliğine tekrar katılım: İş birliği oyunlarına geri dön!\n• Yeni başarılar ve ödüller!\n• Denge değişiklikleri: bazı atıcılarda daha büyük değişiklikler oldu, daha fazla bilgi için yama notlarına göz at"
+UpdatePopupTitle,28’yı Güncelle!
+UpdatePopupDescription,"Büyük içerik güncellemesi!\n• İş Birliği Patron Savaşları! Maks Gözcü seviyeleri için arkadaşlarınla Patron Etkinliklerine katıl!\n• Yeni Patron Bloon - Mezar Lordu Lych!\n• Patron Lider Tabloları! Sıralamalı Modu seç ve ister tek kişi ister iş birliği halinde oynayarak lider tablolarında en iyi süreyi yakala\n• Yeni Gözcü Atıcı - Ninja Maymun Yükselmiş Gölge geldi!\n• Viking Sauda mücadeleye katıldı! Yeni Sauda dış görünümünü kap ve dilimlemeye başla!\n• Yeni Acemi Haritası, Kulübedeki ormanlarda birbirinizden ayrılmayın ya da kaybolmayın\n• 12 yeni ganimet mağazası eşyası, ayrıca 6 tamamen yeni Sınırlı Süreli Cadılar Bayramı eşyaları, hâlâ şansın varken onlardan al!\n• Denge ayarları ve düzeltmeler - birçok değişiklik, daha fazla ayrıntı için güncelleme notlarına göz at"
 ResetDailyChest,Günlük Sandığı Sıfırla
 JukeboxName,Müzik Kutusu
 EnableFunction,Etkinleştir
@@ -3009,7 +3009,7 @@ MonkeyNameInstruction,Her maymun türünden ilki için özel isim seç. En iyi �
 OdysseyCompleteDescription,"Tebrikler, cesur maceracı! Yolculuğunu tamamladın ve bu ödülleri kazandın!"
 HeroBoosterDescription,Karaman hemen 10. Seviyeye yükselsin mi?
 InappropriateNamedMonkeyName,Lütfen daha uygun bir Maymun Adı seç
-PatchNotesLink,Tam güncelleme notları için şuraya git:
+PatchNotesLink,Tam güncelleme notları için lütfen şuraya git:
 TrophyPurchaseConfirmation,{1} Ganimet ile {0} satın alınsın mı?
 TrophyPurchaseInsufficient,Bu eşyayı satın almak için yeterli Ganimetin yok
 TrophyStoreBought,Alındı
@@ -3024,7 +3024,7 @@ CoopEmoteTextAllIsFineWord,Her Şey Yolunda
 PlayerStatsTimesUpgraded,Yükseltme Sayısı
 PlayerStatsTimesSacrificed,Kurban Sayısı
 TrophyStoreInfoHeader,Ganimet Mağazası Bilgisi
-TrophyStoreInfoBody,Ganimet Mağazası daha muhteşem birçok kozmetik yükseltmelere ev sahipliği yapıyor!\n• Yolculukları tamamlayarak ve Yarışlarda yer alarak Ganimetler kazan\n• En çok satın alınan eşyalar Envanter sekmesinde etkinleştirilebilir ve devre dışı bırakılabilir\n• Satın alınan müzik parçaları Müzik Kutusu'nda görünür\n• Satın alınan Avatarlar Ana Menü Profilinde görünür\n• Adlandırılan Maymunlar oyun içi Yükseltmeler panelinden düzenlenir
+TrophyStoreInfoBody,"Ganimet Mağazası bir yığın muhteşem kozmetik yükseltmesini barındırır!\n• Yolculuklar tamamlayarak, Yarışlarda yer alıp Patronları yenerek Ganimetler kazan\n• En çok satın alınan eşyalar Envanter Sekmesinden etkinleştirilebilir ve devre dışı bırakılabilir\n• Satın alınan müzik parçaları Müzik Kutusunda görünür\n• Satın alınan Avatarlar ve Afişler Ana Menü Profilinde görünür\n• Adlandırılmış Maymunlar oyun içinde Yükseltmelerden düzenlenebilir"
 RestartOdysseyBody,Yolculuğunu yeniden başlatmak istediğinden emin misin?
 OdysseyBannerRewards,Ödüller ve Ganimetler kazan!
 UpdateNotes,Güncelleme Notları
@@ -3440,7 +3440,6 @@ OverwriteChallengeBrowserHeader,Üzerine kaydedilsin mi?
 GameUIMusicTrackMusicJingleBloonsName,Müzik Kutusu: Jingle Bloons
 GameUIMusicTrackMusicJingleBloonsShortName,Jingle Bloons
 GameUIMusicTrackMusicJingleBloonsDescription,"Yılbaşını bu muhteşem, yeni ve orijinal Bloons parçasıyla kutla. Yol boyunca şıngırdat!\nMüziği, Ana Menü Ayarlarındaki Müzik Kutusundan etkinleştir"
-TrophyBadgesEmpty,Madalya kazanmak için oyunlar kazanın
 Favorite,Favori
 FasterRegen,Yeniden Canlanma Oranı Arttı
 SlowerRegen,Yeniden Canlanma Oranı Düştü
@@ -3598,7 +3597,9 @@ btd6_4racespass Description,4 yarış için istediğin kadar yarış!
 btd6_4racespass,4 Yarış Pasosu
 btd6_12racespass Description,12 yarış için istediğin kadar yarış!
 btd6_12racespass,12 Yarış Pasosu
+AccountPermissionRestriction,Bu Xbox hesabının çok oyunculu oyunlar oynama izni yok
 GetHeroBooster,Kahraman Desteği al
+AccountCommunityPermissionRestriction,Bu Xbox hesabının topluluk içeriğini görüntüleme veya oluşturma izni yok
 IntermediateUnlockText,Bir Orta Seviye haritanın kilidini açmak için bir Acemi Haritasını ilk defa bitir
 AdvancedUnlockText,Bir Zor Seviye haritanın kilidini açmak için bir Orta Seviye Haritayı ilk defa bitir
 ExpertUnlockText,Bir Uzman Seviye haritanın kilidini açmak için bir Zor Seviye Haritayı ilk defa bitir
@@ -3619,7 +3620,7 @@ TowerPropMonkeyVillageUSAFlagShortName,Köy ABD Bayrağı
 TowerPropMonkeyVillageUSAFlagDescription,ABD! ABD! Yıldız ve çizgileri Maymun Köyünün göğünde gururla dalgalandır. Tüm yükseltmeler için gösterir
 BloonsAllBloonsPopsPewpewName,Pew pew Patlatma Efekti
 BloonsAllBloonsPopsPewpewShortName,Pew pew Patlatma Efekti
-BloonsAllBloonsPopsPewpewDescription,Duygularını araştır; bunu şimdi almalısın ve 4 Mayıs’ta seninle olmalı! Son Derece Sınırlı Süreli Koleksiyoncu Eşyası!
+BloonsAllBloonsPopsPewpewDescription,Duygularını araştır bunu şimdi almalısın ve 4 Mayıs’ta seninle olmalı! Son Derece Sınırlı Süreli Koleksiyoncu Eşyası!
 BloonsMOABSkinBtd4RetroName,BTD4 Retro MOAB
 BloonsMOABSkinBtd4RetroShortName,Retro MOAB
 BloonsMOABSkinBtd4RetroDescription,Ah nostalji. Şu toz pembe gözlükleri tak ve daha erken model bir MOAB’ı kontrol et
@@ -3698,7 +3699,7 @@ game already opened,Oyun zaten açık mı?
 Psi,Psi
 Psi Short Description,Psionik Maymun
 Psi Description,"Yetenekli maymun çocuk, Psi, Bloon’ları en iyi şekilde yok etmek için yalnızca zihin gücünü kullanır."
-Psi Level 1 Description,"Menzil veya engel nasıl olursa olsun, Psi, tek seferde bir Bloon’u tamamen yok eden ölümcül titreşimler yayar."
+Psi Level 1 Description,"Menzil veya engel nasıl olursa olsun, Psi, tek seferde bir Bloon’u tamamen yok eden ölümcül titreşimler yayar. Kamuflajlıları hedefleyebilir."
 Psi Level 2 Description,Biraz daha hızlı saldırır.
 Psi Level 3 Description,"Psişik Patlama: Psi, yakındaki Bloon’ları uzun süre için sersemleten bir güç dalgasını serbest bırakır."
 Psi Level 4 Description,"Psi’nin saldırısı, hedeflenen Bloon’a çok yakınsa başka bir Bloon’u da vurabilir."
@@ -3798,7 +3799,7 @@ GameUIPowerSkinMonkeyBoostFireworksName,Özel Güç - Havai Fişek Maymun Deste�
 GameUIPowerSkinMonkeyBoostFireworksShortName,Havai Fişek Maymun Desteği
 GameUIPowerSkinMonkeyBoostFireworksDescription,Bu muazzam havai fişek gösterisiyle Maymunları yükselt ve onlara daha büyük başarılar bahşet. Sınırlı Süreli Koleksiyoncu Eşyası!
 GameUIMusicTrackMusicTropicalOctopusMixName,Müzik Kutusu: Tropical Carnival - Octopus Miks
-GameUIMusicTrackMusicTropicalOctopusMixShortName,Tropikal Karnaval Ahtapotu
+GameUIMusicTrackMusicTropicalOctopusMixShortName,Tropical Carnival Octopus
 GameUIMusicTrackMusicTropicalOctopusMixDescription,Birkaç elektronik ritim kullan da bu karnaval parçası gerçek bir parti favorisine dönüşsün. Sesini aç!
 PlaySocial,Sosyal Oyna
 ContentBrowser,İçerik Tarayıcısı
@@ -3811,31 +3812,31 @@ NewerSaveFound,Daha yeni kayıtlı veriler bulundu! Başka bir cihazda oyunun da
 RacePasses,{0} Yarış Pasosu
 FreeEntries,{0} Ücretsiz Giriş
 FreeEntry,1 Ücretsiz Giriş
-PrivateCoopLobby,Özel İşbirliği Lobisi
-PublicCoopLobby,İşbirliği Lobisi [{0}]
-MyOdysseys,Benim Odyssey'lerim
-OdysseySearch,Ara / Odyssey Kodu ...
+PrivateCoopLobby,Özel İş Birliği Lobisi
+PublicCoopLobby,İş Birliği Lobisi [{0}]
+MyOdysseys,Yolculuklarım
+OdysseySearch,Arama/Yolculuk Kodu...
 Psychic Blast Ability,Psişik Patlama
 Psychic Blast Ability Description,"Psi, yakındaki Bloon’ları uzun süre için sersemleten bir güç dalgasını serbest bırakır."
 Psionic Scream Ability,Psionik Çığlık
 Psionic Scream Ability Description,"Psi, Bloon’ları mutlak kaosa sürükleyen sessiz bir çığlığı serbest bırakır."
 EditorMode,Editör Modu
 ConfirmMaps,Onaylanacak Haritalar: {0}
-ResetOdysseyProgress,Bu, Odyssey ilerlemenizi geçersiz kılacaktır. Emin misiniz?
-OdysseyName,Uzay Serüveni Adı
+ResetOdysseyProgress,Bu Odyssey ilerlemenizi geçersiz kılacaktır. Emin misiniz?
+OdysseyName,Yolculuk Adı
 OdysseyEditor,Yolculuk Editörü
-MaxPowers,Maksimum Güçler:
-MaxMonkeySlots,Maksimum Maymun Yuvaları:
-MaxPowerSlots,Maksimum Güç Yuvaları:
+MaxPowers,Maks Güçler:
+MaxMonkeySlots,Maks Maymun Yuvası:
+MaxPowerSlots,Maks Güç Yuvası:
 MapNumber,Harita {0}
 ExtremeMode,Ekstrem Mod:
 Edit,Düzenle
-OdysseyInviteReceivedDescription,Odyssey kodunu denemeye davet edildiniz: {0}
-SharingOdyssey,Bu Bloons TD 6 macerasını yenebilir misin?
-EditorPowersIncluded,Dahil Olan Yetkiler
+OdysseyInviteReceivedDescription,Şu Yolculuk kodunu denemeye davet edildin: {0}
+SharingOdyssey,Bu Bloons TD 6 Yolculuğunu başarabilir misin?
+EditorPowersIncluded,Dahil Edilen Güçler
 EditorPowersExcluded,Hariç Tutulan Güçler
 OdysseyDescription,Açıklama:
-SelectDefaultCrew,Varsayılan Mürettebatı Seçin
+SelectDefaultCrew,Varsayılan Mürettebatı Seç
 Completed,Tamamlandı
 BossStart,Patron Etkinliğini Başlat
 BloonariusPrime,Bloonaryus Asalı
@@ -3855,7 +3856,7 @@ HeroesGwendolinPlacementFireballShortName,Gwendolin Ateş Topu
 HeroesGwendolinPlacementFireballDescription,Bu müthiş ateş topu efektiyle Gwen’in varışı ve yükseltmeleri şiddetli olur! Yalnızca Orijinal Gwendolin
 TowerPropMonkeyVillageGermanyFlagName,Maymun Köyü Almanya Bayrağı
 TowerPropMonkeyVillageGermanyFlagShortName,Almanya Köyü Bayrağı
-TowerPropMonkeyVillageGermanyFlagDescription,Herkes Almanya Maymun Köyü teknolojisinin müthiş olduğunu bilir! Tüm yükseltmeler için geçerlidir
+TowerPropMonkeyVillageGermanyFlagDescription,Herkes Almanya Maymun Köyü teknolojisinin müthiş olduğunu bilir! Tüm yükseltmeler için gösterir
 TowerPropMonkeyVillageUKFlagName,Maymun Köyü Birleşik Krallık Bayrağı
 TowerPropMonkeyVillageUKFlagShortName,Birleşik Krallık Köyü Bayrağı
 TowerPropMonkeyVillageUKFlagDescription,Bu Maymun Köyü gururla İngiliz Uluslar Topluluğu’nun bir parçasıdır. Birleşik Krallık gururu tüm yükseltmelerde kendini gösterir
@@ -3877,12 +3878,12 @@ CoopEmoteAnimationFistpumpShortName,Yumruklu Sevinç Gösterisi
 CoopEmoteAnimationFistpumpDescription,İyi yapılmış bir işi takdir etmek için!
 GameUIProfileAvatar44Name,Özel Avatar - Özel Hava Servisi Maymunu
 GameUIProfileAvatar44ShortName,Özel Hava Servisi Maymunu Avatarı
-GameUIProfileAvatar44Description,"Deacon, Avatar galibi"
+GameUIProfileAvatar44Description,"LV-223_Deacon, Avatar galibi"
 GameUIProfileAvatar45Name,Özel Avatar - Taslak
 GameUIProfileAvatar45ShortName,Taslak Avatarı
 GameUIProfileAvatar45Description,"Dungeon-raided, Avatar galibi"
-GameUIProfileAvatar46Name,Özel Avatar - Ezili
-GameUIProfileAvatar46ShortName,Ezili Avatarı
+GameUIProfileAvatar46Name,Özel Avatar - Maskeli Ezili
+GameUIProfileAvatar46ShortName,Maskeli Ezili Avatarı
 GameUIProfileAvatar46Description,Sabah Saçı Ezili olarak da bilinir
 GameUIProfileAvatar47Name,Özel Avatar - Çivili Top
 GameUIProfileAvatar47ShortName,Çivili Top Avatarı
@@ -3930,13 +3931,13 @@ EngineerMonkeys,Mühendis Maymunlar
 SpikeFactorys,Çivi Fabrikaları
 MonkeyVillages,Maymun Köyleri
 BossInfoPanelTitle,Patron Bloon Etkinliği
-BossInfoPanelDescription,"Merhaba cesur maceracı, Patronlar alemine girdin. İyi şanslar; önemli kuralları unutma:\n• Patron Etkinliği sen Oyna düğmesine basar basmaz başlar ve turlar arasında duraklatma yoktur.\n• Her bir Patron modunu kazanmak için 5 kademenin tümündeki Patronlar"
+BossInfoPanelDescription,"Merhaba cesur maceracı, Patronlar alemine girdin! İyi şanslar; önemli kuralları unutma:\n• Patron Etkinliği sen Oyna düğmesine bastığında başlar, turlar arasında duraklatma yoktur ve Patronlar yavaşlatılamaz.\n• Her bir Patron modunu kazanmak için 5 kademenin tümündeki Patronları patlat, Elit modun kilidini açmak için Normal modu kazan.\n• Ekonomini kur, yeteneklerini hazırla ve kademeler arasındaki süreden yararlan!\n• Her bir kademenin üstesinden geldiğinde Ganimetler ve diğer ödülleri kazan; ancak 20. turlarda bir kademeyi kazanamazsan kaybedersin.\n• Patronu kimin daha hızlı yenip harika ödüller kazanacağını görmek için Sıralamalı Modunda diğer oyunculara karşı yarış!\n• Tek oyunculu VEYA iş birliği modundaki en iyi sıralaman kazanacağın ödülleri belirler.\n• Normal ve Elit modların birbirinden ayrı lider tabloları ve ödülleri vardır; her ikisinde de kazanabilirsin!"
 BloonariusInfoPanelDescription,"Bataklıklı Bloonaryus, hasar aldıkça Bloon püskürtür ve ardından sağlık çubuğundaki her bir kurukafaya ulaşıldığında devasa Bloon yığınları döker.\n\nBloonaryusun çöp dolu içi işleri yavaşlatır ve oldukça zorlaştırır."
 NextBossIn,Patron ortaya çıkacak: {0}
 ARound,1 Tur
 SomeRounds,{0} Tur
 DartMonkey Paragon,Tepe Plazma Ustası
-DartMonkey Paragon Description,Alanı Bloon parçalayıcı plazma ezici güç toplarıyla doldur; geriye hiçbir şey kalmasın...
+DartMonkey Paragon Description,Alanı Bloon parçalayıcı plazma ezici güç toplarıyla doldur geriye hiçbir şey kalmasın…
 BoomerangMonkey Paragon,Yıldız Bıçak Dominus
 BoomerangMonkey Paragon Description,Bloon’lar Yıldız Bıçaklarıma bakacak ve korkunun ne demek olduğunu öğrenecekler.
 TowerEffectAllMonkeysPlacementUpgradesButterfliesName,Kelebek Yerleştirmesi ve Yükseltme Efektleri
@@ -3958,8 +3959,8 @@ PlayerStatsHighestRoundCHIMPS,En Yüksek Tur CHIMPS
 PlayerStatsHighestRoundDeflation,En Yüksek Tur Deflasyonu
 Rejoin Coop,İş Birliğine Tekrar Katıl
 WaitingEndRound,Mevcut turun sonu bekleniyor
-SoftwareCursor,Yazılım İmleci
-LargeCursor,Büyük İmleç
+SoftwareCursor,Büyük İmleç
+LargeCursor,Çok Büyük İmleç
 Cursor,İmleç
 SandboxCursor,Özgür/İmleç
 Achievement 128 Name,Bu yeni Bloon şeyi de ne?
@@ -4013,3 +4014,107 @@ Retry From Checkpoint,Kontrol Noktasından Tekrar Dene
 RetryCheckpointText,{0}. Turda son kontrol noktasından tekrar denensin mi?
 Retry From Round,{0}. Turdan Tekrar Dene
 EliteBossLockedPopup,Elit Zorluğun Kilidini Açmak için Normal Zorluktaki Patronu Yen
+Custom Odyssey,Özel Yolculuk
+Creating Odyssey,Yolculuk Oluşturma
+Creating Challenge,Görev Oluşturma
+TheCabin,Kulübe
+VikingSaudaSaudaSkinName,Viking Sauda Dış Görünümü
+VikingSaudaSaudaSkinDescription,Baltalar hazır!
+HeroesChurchillSentaiSkinPetDroneName,Sentai Churchill Dron Evcil Hayvan
+HeroesChurchillSentaiSkinPetDroneShortName,Sentai Churchill Dron
+HeroesChurchillSentaiSkinPetDroneDescription,"Süper Gelişmiş İzci Gözcü Y26G, lazer hızlı tehdit değerlendirmesi yapar ve bunu iyi şekilde başarır. Ona KÜSTAH dememiz tesadüf değil. Yalnızca Sentai Churchill"
+TowerPetGlueGunnerRatName,Yapışkan Nişancı Fare Evcil Hayvan
+TowerPetGlueGunnerRatShortName,Yapışkan Nişancı Fare Evcil Hayvan
+TowerPetGlueGunnerRatDescription,Her zaman Yapışkan Nişancının çevresindedir; özellikle de laboratuvarda. Yapışkan Nişancının birçok özelliğinin ardında yatan bilimin kaynağını hiç merak ettin mi? Bizce kaynağı fare.
+TowerEffectAllMonkeysPlacementUpgradesBatsName,Yarasa Yerleştirmesi ve Yükseltme Efektleri
+TowerEffectAllMonkeysPlacementUpgradesBatsShortName,Yarasa Yükseltmesi FX
+TowerEffectAllMonkeysPlacementUpgradesBatsDescription,"Bir atıcı, belirli haritalarda ürkütücü şekilde müthiş olan yarasa animasyonlarıyla yükseltildiği ve yerleştirildiği her sefer Bloon’ları korkutur."
+TowerPetMonkeyBuccaneerNarwhalName,Korsan Maymun Denizgergedanı Evcil Hayvan
+TowerPetMonkeyBuccaneerNarwhalShortName,Korsan Denizgergedanı Evcil Hayvan
+TowerPetMonkeyBuccaneerNarwhalDescription,"Yerleştirilen her Korsanla, efsanevi Denizgergedanını seyret! Yüce Korsandan başka kim hem açık denizlere hükmedip hem de efsanelerle arkadaş olabilir?!"
+TowerProjectileEngineerVampireHunterName,Vampir Avcısı Mühendis Fırlatıcıları
+TowerProjectileEngineerVampireHunterShortName,Vampir Avcısı Mühendis
+TowerProjectileEngineerVampireHunterDescription,"Bir ihtimal Bloon’ların tamamı gizliden gizliye vampir özelliklerine sahip olabilir; Mühendis artık kazık, sarımsak ve tabut gibi, vampirbloon patlatıcı fırlatıcı cephanesi donanabilir. Sınırlı Süreli Koleksiyoncu Eşyası!"
+TowerPropMonkeyVillageCanadianFlagName,Maymun Köyü Kanada Bayrağı
+TowerPropMonkeyVillageCanadianFlagShortName,Kanada Köyü Bayrağı
+TowerPropMonkeyVillageCanadianFlagDescription,"Pekâlâ, vakit geldi! Ah Kanada, bu bayrağı tüm Maymun Köylerine uçur. Tüm yükseltmeler için gösterir"
+BloonsZOMGSkinJackOLanternName,Kabak Fener ZOMG
+BloonsZOMGSkinJackOLanternShortName,Kabak Fener ZOMG
+BloonsZOMGSkinJackOLanternDescription,"Sauda’nın, Yıllık ZOMG Gibi Oyulmuş Kabak yarışması galibiyeti ve hâlâ domates kesebiliyor! Sınırlı Süreli Koleksiyoncu Eşyası!"
+BloonsAllBloonsVampireCapesName,Vampir Pelerinli Bloon’lar
+BloonsAllBloonsVampireCapesShortName,Vampir Pelerinli Bloon’lar
+BloonsAllBloonsVampireCapesDescription,Bu Cadılar Bayramında Bloon’larını gecenin yaratıkları olarak giydir! Sınırlı Süreli Koleksiyoncu Eşyası!
+CoopEmoteAnimationPanicMonkeyName,Panik  Maymun Emojisi
+CoopEmoteAnimationPanicMonkeyShortName,Panik  Maymun
+CoopEmoteAnimationPanicMonkeyDescription,"İş birliği modu sunucunuz konuşuyor. Lütfen. Panik yapmayın. Tamam, ŞİMDİ PANİK YAPABİLİRSİN!"
+CoopEmoteAnimationBeggingMonkeyName,Lütfeeeeen  Maymun Emojisi
+CoopEmoteAnimationBeggingMonkeyShortName,Lütfeeeeen  Maymun
+CoopEmoteAnimationBeggingMonkeyDescription,"Lütfeeeeen, bu yükseltme için 10 bine daha ihtiyacım var! Açık konuşmak gerekirse, oyuncu 3 olmam sadece bir tesadüf!"
+GameUIPowerSkinThriveStonksName,Özel Güç - Başarı Hisseleri
+GameUIPowerSkinThriveStonksShortName,Başarı Hisseleri
+GameUIPowerSkinThriveStonksDescription,"Ben, her şeyi Muzcoin’e yatırmanı söylüyor; aşırı yükselecek!"
+GameUIProfileAvatar48Name,Özel Avatar - Hokey Maskeli Maymun
+GameUIProfileAvatar48ShortName,Hokey Maskeli Avatar
+GameUIProfileAvatar48Description,Hokey Maskeli Maymuna dikkat et! Sınırlı Süreli Koleksiyoncu Eşyası!
+GameUIProfileAvatar49Name,Özel Avatar - Kurşun Zeplin
+GameUIProfileAvatar49ShortName,Kurşun Zeplin Avatar
+GameUIProfileAvatar49Description,"Waywardzuck, Avatar galibi"
+GameUIProfileAvatar50Name,Özel Avatar - En İyi Ben
+GameUIProfileAvatar50ShortName,En İyi Ben Avatarı
+GameUIProfileAvatar50Description,"Kim senin Bilgisayar Teknolojileri ihtiyaçlarını karşıladı? Bu arkadaş! Kıyak ritimleri kim çalıyor? Bu arkadaş! Peki, lezzetli suşi ile bir sonraki takım etkinliğinin yiyecek tedarikini kim yapacak? Pekâlâ, tabi ki bu arkadaş."
+GameUIProfileAvatar51Name,Özel Avatar - Hareketli Psi
+GameUIProfileAvatar51ShortName,Hareketli Psi Avatarı
+GameUIProfileAvatar51Description,"Evrenle sürekli bir olması, Psi’nin ara sıra birazcık eğlenemeyeceği anlamına gelmiyor! Onlara biraz sevgi göstermek için bu muhteşem Psi avatarını yuvarla."
+GameUIProfileBanner6Name,Güneş Tapınağı Profil Afişi
+GameUIProfileBanner6ShortName,Güneş Tapınağı Afişi
+GameUIProfileBanner6Description,"Bu epik özel profil afişiyle, dört dörtlük çalışan Güneş Tapınağının gerçek gücüne tanık ol"
+GameUIProfileBanner7Name,Hayaletler ve Şeker Profil Afişi
+GameUIProfileBanner7ShortName,Hayaletler ve Şeker Afişi
+GameUIProfileBanner7Description,Şeker mi şaka mı! Mükemmel Cadılar Bayramı özel profil afişi
+LychTagLine,Mezarlık Lordu
+LychTagLine2,Dirildi!
+Lych,Lych
+LychInfoPanelDescription,"• Mezar Lordu Lych, Maymunlarının geçici güçlendirmelerini boşaltır ve bu işlem sırasında kendini iyileştirir.\n• Sağlık çubuğundaki her bir kurukafaya ulaşıldığında, Lych cisimsiz hale gelerek yakın zamanda patlatılan MOAB sınıfı Bloon’ların boş kabuklar"
+EditorReviewMap,Haritayı İncele
+YourBestTime,En İyi Süren
+Boss,Patron
+MiniBoss,Mini Patron
+NormalRewards,Normal Ödüller
+EliteRewards,Elit Ödüller
+1Player,1 Oyuncu
+2Player,2 Oyuncu
+3Player,3 Oyuncu
+4Player,4 Oyuncu
+BossLeaderboard,Patron Lider Tablosu
+LeaderboardSubmissionFail,Lider Tablosuna Gönderilemiyor
+SafeNameChallenge,{0} için Görev
+SafeNameOdyssey,{0} için Yolculuk
+BossEventEnded,Patron Etkinliği sona erdi!
+RankedNormal,Sıralamalı Normal
+RankedElite,Sıralamalı Elit
+StartRankedBoss,Sıralamalı Patronu Başlat
+MusicHaunted,Perili Ev
+GameUIMusicTrackMusicHauntedName,Müzik Kutusu: Perili Ev
+GameUIMusicTrackMusicHauntedShortName,Müzik Kutusu: Perili Ev
+GameUIMusicTrackMusicHauntedDescription,Ürkütücü tempolar ve hayaletleri anımsatan ritimler bu parçayı Cadılar Bayramının veya gecenin geç saatlerindeki müzik oturumlarının olmazsa olmaz parçası yapıyor. Sınırlı Süreli Koleksiyoncu Eşyası!
+NSCameraUsageDescription,Destek Biletleri için ekran görüntüleri
+btd6_needmoremonkeymoneyprompt_no_iap,Yeterli Maymun Parası yok!
+UseRacePassDescription,Bu Yarışa sınırsız giriş kazanmak için bir Yarış Pasosu kullanılsın mı?
+RacePassActivated,Yarış Pasosu Etkinleştirildi
+UseRacePassTitle,Yarış Pasosu kullanılsın mı?
+Elite Best Time,Elit En İyi Süre
+Normal Best Time,Normal En İyi Süre
+NormalCursor,Normal İmleç
+MayAffectPerformance,*Performansı Etkileyebilir
+GameUIMusicTrackMusicOnslaughtName,Hücum
+GameUIMusicTrackMusicOnslaughtShortName,Hücum
+GameUIMusicTrackMusicOnslaughtDescription,Hücum Patron Parçası
+SharingCoopBoss,Bloons TD 6’da patron oyunuma katıl!
+EliteBossEvent,Elit Patron Etkinliği
+NinjaMonkey Paragon,Yükselmiş Gölge
+NinjaMonkey Paragon Description,Herhangi bir Bloon tehdidiyle baş etmek için eksiksiz bir suikastçı paketi.
+Elite,Elit
+HackGameStopMessage,Oyun değerleri eşitlenemiyor. Maalesef bu oyun devam edemez. Lütfen yeni bir oyun dene.
+RankedMode,Sıralamalı Mod
+Any,Herhangi
+ScoreNotVerifiable,Puanınız doğrulanamadığı için gönderilemedi.

@@ -1,4 +1,4 @@
-//Input. Needs to be first e.g [I] replaced by click or tap,
+﻿//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Clique
 Tap,Toque
 ,
@@ -173,7 +173,7 @@ Benjamin Level 3 Description,Biohack: Os 4 Macacos mais próximo estouram uma ca
 Benjamin Level 4 Description,Golpe Virtual - Ganha +$1 para cada Bloon lançado.
 Benjamin Level 5 Description,Golpe Bancário - todos os bancos ganham +5% de receita.
 Benjamin Level 6 Description,Segurança Cibernética - Restaura 5 vidas ao final de cada rodada.
-Benjamin Level 7 Description,"Cavalo de Troia Bloon - A cada segundo, lança um vírus a um Bloon aleatório. O Bloon afetado não gera outros ao estourar e produz 2x dinheiro."
+Benjamin Level 7 Description,"Cavalo de Troia Bloon - A cada segundo, lança um vírus a um Bloon aleatório. O Bloon afetado não gera outros ao estourar e produz 1 dinheiro extra por cada camada."
 Benjamin Level 8 Description,Receita aumentada para $250 por rodada.
 Benjamin Level 9 Description,Golpe Bancário aumentado para 12%.
 Benjamin Level 10 Description,Desvio de Fundos: Rebaixa a maioria dos Bloons lançados em 1 nível. O dinheiro por estouro dos Bloons afetados é dobrado. Dura 10 segundos.
@@ -248,7 +248,7 @@ Ezili Level 15 Description,Alcance aumentado.
 Ezili Level 16 Description,O Totem de Sacrifício dura mais e custa apenas uma vida para usar.
 Ezili Level 17 Description,O ataque básico tem área e perfuração aumentadas.
 Ezili Level 18 Description,Velocidade de ataque aumentada.
-Ezili Level 19 Description,Cada dano do ataque básico retira 2 camadas!
+Ezili Level 19 Description,Cada dano do ataque básico retira 3 camadas!
 Ezili Level 20 Description,Feitiço MOAB funciona mais rápido e pode destruir Bloons BAD.
 ,
 //Hero Ability Names,
@@ -357,7 +357,7 @@ The Tack Zone,Zona das Tachinhas
 Permafrost,Gelo Permanente
 Enhanced Freeze,Congelamento Melhorado
 Larger Radius,Raio Aumentado
-Metal Freeze,Congelamento Metal
+Metal Freeze,Frio Súbito
 Deep Freeze,Congelamento Profundo
 Re-Freeze,Recongelamento
 Ice Shards,Fragmentos de Gelo
@@ -607,7 +607,7 @@ Double Gun,Arma Dupla
 Sentry Expert,Especialista em Torres
 Overclock,Aceleração
 Bloon Trap,Armadilha Bloon
-Sentry Paragon,Torre Paradigmática
+Sentry Paragon,Torre Campeã
 Ultraboost,Ultraimpulso
 XXXL Trap,Armadilha XXXG
 ,
@@ -755,13 +755,13 @@ The Tack Zone Description,"Muitas, muitas tachinhas."
 Permafrost Description,Bloons se movem lentamente após derretimento.
 Enhanced Freeze Description,Ataca mais rápido e congela por mais tempo.
 Larger Radius Description,Maior área de congelamento.
-Metal Freeze Description,Pode congelar e estourar Bloons de Chumbo.
+Metal Freeze Description,Pode congelar e estourar Bloons de Chumbo e Camuflados.
 Deep Freeze Description,Congela através de duas camadas de Bloon.
 Re-Freeze Description,Pode recongelar Bloons já congelados.
 Ice Shards Description,Fragmentos afiados voam quando Bloons congelados estouram.
 Arctic Wind Description,Aumenta muito a perfuração e ganha uma aura superfria que desacelera Bloons e congela águas próximas.
 Cryo Cannon Description,Dispara bombas congelantes a Bloons em longa distância.
-Embrittlement Description,"Detecta Bloons Camuflados e todos os Bloons atingidos se tornam frágeis, recebendo dano extra por um curto tempo e perdendo as propriedades de camuflagem e regeneração permanentemente."
+Embrittlement Description,"Detecta Bloons Camuflados e todos os Bloons, incluindo MOABs, atingidos se tornam frágeis, recebendo dano extra por um curto tempo e perdendo as propriedades de camuflagem e regeneração permanentemente."
 Snowstorm Description,"Habilidade Nevasca: Congela todos os Bloons comuns na tela, congela brevemente Bloons Brancos, Zebra e Camuflados, e desacelera classe MOAB."
 Icicles Description,Bloons congelados criam fragmentos de gelo que podem estourar Bloons que tocam neles.
 Super Brittle Description,"Bloons tomam imenso dano enquanto estiverem congelados, inclusive os Classe MOAB."
@@ -795,7 +795,7 @@ Bouncing Bullet Description,Disparos ricocheteiam a novos alvos até 3 vezes.
 Semi-Automatic Description,Ataca 3x mais rápido!
 Maim MOAB Description,Causa muito mais dano e imobiliza Bloons MOAB por um curto período.
 Supply Drop Description,Habilidade Descarga de Suprimentos: Deixa uma caixa cheia de dinheiro. O ataque básico também danifica Bloons de Chumbo e aumenta o poder de estouro dos estilhaços.
-Full Auto Rifle Description,"Arma completamente automática com incrível poder de estouro, incluindo dano a Bloons de Chumbo."
+Full Auto Rifle Description,Arma completamente automática com incrível poder de estouro.
 Cripple MOAB Description,MOABs ficam incapacitados por mais tempo e tomam dano extra de todos os outros ataques.
 Elite Sniper Description,A Descarga de Suprimentos dá muito mais dinheiro. Concede mira de elite e recarga mais rápida para todos os atiradores.
 Elite Defender Description,Uma vida perdida dá a esse Atirador velocidade de ataque x4 por um curto período de tempo em resposta.
@@ -827,13 +827,13 @@ Buccaneer-Cannon Ship Description,Adiciona um poderoso canhão que dispara poder
 Buccaneer-Merchantman Description,Gera dinheiro automaticamente a cada rodada.
 Buccaneer-Aircraft Carrier Description,Lança ondas de caças que atacam seus alvos e disparam mísseis contra Bloons classe MOAB.
 Buccaneer-Monkey Pirates Description,Adiciona 2 canhões ao navio e ataques de canhão causam mais dano. Habilidade Derrubar MOAB: arpoa um Bloon classe MOAB e o derruba.
-Buccaneer-Favored Trades Description,Ataca mais rápido e gera muito dinheiro por rodada. Macacos no alcance também possuem maior valor de venda e pode acumular até 3 Comércio Preferencial para um máximo de 95% no valor de venda.
+Buccaneer-Favored Trades Description,Ataca mais rápido e gera muito dinheiro por rodada. Macacos no alcance também possuem maior valor de venda.
 Buccaneer-Carrier Flagship Description,"Causa dano extra. Pode colocar outros macacos nos convés superiores do navio, aumenta a velocidade de ataque de todos os macacos aquáticos e Macacos Áses."
 Buccaneer-Pirate Lord Description,"Aumenta muito a velocidade de ataque para todos os ataques e pode atirar 3 ganchos de uma vez, saqueando dinheiro extra de cada Bloon classe MOAB eliminado."
 Buccaneer-Trade Empire Description,"Gera mais dinheiro por rodada, aumenta o dinheiro gerado por até 20 outros mercantes pelo número total de mercantes e impulsiona o dano de todos os mercantes."
 ,
 Rapid Fire Description,Dispara mais rápido que o normal.
-Exploding Pineapple Description,Deixa abacaxis no chão que explodem violentamente após alguns segundos.
+Exploding Pineapple Description,Deixa abacaxis no chão que explodem violentamente após alguns segundos. Os ataques explosivos do Ás são melhorados.
 Sharper Darts Description,Dardos podem estourar 8 Bloons cada.
 Lots More Darts Description,Dispara 12 dardos de vez.
 Spy Plane Description,Permite ao Macaco Ás atingir Bloons Camuflados.
@@ -961,17 +961,17 @@ Permanent Brew Description,A mistura berserker se torna PERMANENTE para macacos 
 Total Transformation Description,Transforma cinco Macacos próximos em monstros loucos de ataque por 20 segundos.
 Bloon Master Alchemist Description,Poção de encolher secreta que converte todos os Bloons afetados em Bloons Vermelhos.
 ,
-Hard Thorns Description,Espinhos duros podem estourar 2 Bloons cada e estourar Bloons Congelados.
+Hard Thorns Description,Espinhos duros podem estourar 2 Bloons cada e estourar qualquer tipo de Bloon.
 Thorn Swarm Description,Dispara 8 espinhos por tiro ao invés de 5.
 Druidic Reach Description,Aumenta bastante o alcance de ataque.
 Heart of Thunder Description,Libera rajadas regulares de arcos relâmpago que saltam de Bloon em Bloon.
 Heart of Oak Description,Ataques transformam Bloons Regeneradores em Bloons normais.
 Heart of Vengeance Description,"Ganha 10% de velocidade de ataque, mais 1% por cada vida perdida a partir do valor inicial após a melhoria. Maximiza em 100% e diminui se vidas forem restauradas."
 Druid of the Storm Description,Rajadas de vento afastam Bloons da saída.
-Druid of the Jungle Description,"Invoca vinhas do chão para enredar e esmagar Bloons, um de cada vez."
+Druid of the Jungle Description,"Invoca vinhas do chão para enredar e esmagar Bloons, um de cada vez, deixando para trás uma pilha de espinhos mortal."
 Druid of Wrath Description,Ganha velocidade de ataque durante a rodada enquanto o Druida estiver atacando Bloons.
 Ball Lightning Description,Cria poderosas bolas de raios que disparam raios adicionais. 
-Jungle's Bounty Description,Habilidade Dom da Selva: Gera dinheiro a cada uso e dinheiro extra por Fazenda de Bananas perto do Druida.
+Jungle's Bounty Description,Habilidade Dom da Selva: Gera dinheiro a cada uso e dinheiro extra por Fazenda de Bananas perto do Druida. Também pode pegar dois Bloons com vinhas de uma vez.
 Poplust Description,Aumenta a velocidade de ataque e perfuração dos outros Druidas no raio. Pode acumular com até 5 vezes em um único Druida.
 Superstorm Description,A Supertempestade estoura todos os tipos de Bloon com dano massivo e os afasta da saída.
 Spirit of the Forest Description,Cresce vinhas espinhadas pelo caminho que causam dano constante e dano extra a Cerâmica. Vinhas mais perto do Espírito da Floresta causam mais dano. Habilidade ativável gera vidas e mais dinheiro.
@@ -979,10 +979,10 @@ Avatar of Wrath Description,"Quanto mais Bloons houver, mais dano ele causa!"
 ,
 Increased Production Description,Cresce dois cachos de banana por rodada.
 Long Life Bananas Description,Bananas duram 30 segundos antes de apodrecer ao invés de 15.
-EZ Collect Description,"O raio de coleta de bananas é maior. Bancos Macacos, brilham quando o banco estiver pronto para coleta."
+EZ Collect Description,O raio de coleta de bananas é maior e bananas não coletadas são pegas automaticamente pela metade do valor. Bancos Macacos brilham quando cheios e prontos para a coleta.
 Greater Production Description,Cresce MAIS dois cachos de banana extras por rodada.
 Valuable Bananas Description,As bananas valem 25% mais por cacho. 
-Banana Salvage Description,Bananas não coletadas são automaticamente coletadas por metade do valor.
+Banana Salvage Description,"Bananas não coletadas são automaticamente coletadas pelo valor quase cheio, e bancos coletam automaticamente quando cheios. Taxa de revenda da fazenda aumenta em 10%."
 Banana Plantation Description,Cresce 16 cachos de banana por rodada.
 Monkey Bank Description,Todo o dinheiro gerado por esta fazenda agora é armazenado no banco e rende 15% de juros a cada rodada.
 Marketplace Description,Gera dinheiro a cada rodada e o adiciona ao seu total. Sem enrolação.
@@ -991,7 +991,7 @@ IMF loan Description,"Habilidade Empréstimo do FMI: Empresta $10.000, mas você
 Central Market Description,Ganha pilhas de dinheiro a cada rodada e dá aos Navios Mercantes +10% de receita.
 Banana Central Description,É banana que vocês querem? Nós temos bananas!
 Monkey-Nomics Description,Para quando se é muito grande para errar...
-Monkey Wall Street Description,Central de negócios símios gera quantias colossais a cada rodada.
+Monkey Wall Street Description,Central de negócios símios gera quantias colossais e gera vidas a cada rodada.
 ,
 Sentry Gun Description,Cria temporariamente armas sentinelas e as posiciona por perto.
 Larger Service Area Description,Dispara mais longe e posiciona sentinelas numa área muito maior. Sentinelas possuem maior alcance.
@@ -1053,7 +1053,7 @@ Monkey Town Description,Todos os Macacos dentro do raio da Cidade dos Macacos re
 Primary Mentoring Description,"Todos os Macacos Primários no raio recebem melhorias de primeiro nível gratuitamente, aumento no alcance e recarga de habilidade reduzida."
 Call to Arms Description,Habilidade Chamado às Armas: Dá aos Macacos próximos +50% de velocidade de ataque e estouros por um curto tempo.
 Monkey City Description,"Aumenta o alcance da influência, geração de dinheiro no alcance e dá um Macaco Dardo grátis a cada rodada."
-Primary Expertise Description,"Adiciona ataque de Mega Balista, mais todos os Macacos Primários no alcance ganham mais poder de estouro e melhorias nível 1 e 2 grátis."
+Primary Expertise Description,"Adiciona ataque de Mega Balista, mais todos os Macacos Primários no alcance ganham mais poder de estouro, maior redução nas recargas de habilidade e melhorias nível 1 e 2 grátis."
 Homeland Defense Description,A habilidade agora aumenta a velocidade de ataque e estoura em 100% para todos os Macacos por 20 segundos.
 Monkeyopolis Description,"Absorve todas as Fazendas de Banana próximas e sua receita, abrindo espaço para novos Macacos."
 ,
@@ -2623,7 +2623,7 @@ SentryBoom,Torre Explosiva
 SentryCrushing,Torre de Bolas de Espinho
 SentryCold,Torre Gélida
 SentryEnergy,Torre de Energia
-SentryParagon,Torre de Paradigma
+SentryParagon,Torre Campeã
 EditorNumberOfPlayers,Número de jogadores
 EditorCoopAreaDivision,Divisão de área do Cooperativo
 InvalidTarget,Alvo inválido
@@ -2741,7 +2741,7 @@ BoomerangTargetingSwitchHands,Trocar Mãos
 VineRupture,Ruptura de Vinhas
 VineRuptureDescription,"Concede ao Druida Espírito da Floresta uma nova habilidade para explodir todas as vinhas da pista, causando muito dano a todos os Bloons não Chumbo. Novas vinhas crescem após cada ruptura."
 BankDeposits,Depósitos Bancários
-BankDepositsDescription,Bancos podem receber depósitos de dinheiro de jogo disponível.
+BankDepositsDescription,Bancos nível 4 ou superior podem receber depósitos de dinheiro de jogo disponível.
 MonkeyBankDeposit,Depósito
 Achievement 92 Name,Bilhete Dourado
 Achievement 92 Description,Bloompa-loompa-doompa-dee-doo!
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] para usar Teleporte Sombrio no alcance
 DarkChampionDarkshift,[I] para usar Teleporte Sombrio para qualquer local válido
 SmallTowersMode,Torres Macacos Pequenos
 BigTowersMode,Torres Macacos Grandes
-UpdatePopupTitle,Atualização 27!
-UpdatePopupDescription,"Atualização de conteúdo tamanho chefe épica!\n• Eventos de Bloons Chefes chegaram! Quem ousa desafiar o Bloonarius?!\n• Macacos com Excelência! Experimente o novo nível Excelência para o Dardo e o Bumerangue!\n• Desbrave o pantanoso novo mapa Intermediário: Bloonarius Prime\n• Novos itens na Loja de Troféus: incluindo novas Bandeiras de Perfil!\n• Reentrada no cooperativo: volte aos seus jogos cooperativos!\n• Novas conquistas e recompensas!\n• Mudanças de equilíbrio: algumas torres tiveram mudanças maiores, verifique as notas do patch para saber mais"
+UpdatePopupTitle,Atualização 28!
+UpdatePopupDescription,"Atualização de conteúdo imensa!\n• Batalhas de chefe cooperativas! Encare eventos de chefe com seus amigos para maximizar seu nível de Excelência!\n• Novo Chefe Bloon - Lych Lorde do Cemitério!\n• Placares de chefe! Escolha o modo ranqueado e defina o recorde nos placares jogo solo ou cooperativo\n• Nova Torre de Excelência - Macaco Ninja Sombra Ascendida chegou!\n• Sauda Viking chegou na luta! Pegue o novo visual da Sauda e comece a cortar!\n• Não se separem e fiquem perdidos na floresta no novo mapa Iniciante - A Cabana\n• 12 novos itens da loja de troféus, mais 6 novos itens limitados de Halloween - pegue enquanto puder!\n• Ajustes e correções - muitas mudanças, verifique as notas de atualização para todos os detalhes"
 ResetDailyChest,Zerar Baú Diário
 JukeboxName,Jukebox
 EnableFunction,Habilitar
@@ -3009,7 +3009,7 @@ MonkeyNameInstruction,Escolha um nome personalizado para o primeiro macaco de ca
 OdysseyCompleteDescription,"Parabéns, bravo aventureiro! Você concluiu sua Odisseia e ganhou estas recompensas!"
 HeroBoosterDescription,Impulsionar herói para o nível 10 imediatamente?
 InappropriateNamedMonkeyName,Escolha um nome de macaco mais apropriado
-PatchNotesLink,"Para as notas completas da atualização, vá para "
+PatchNotesLink,"Para as notas completas da atualização, vá para:"
 TrophyPurchaseConfirmation,Comprar {0} por {1} troféus?
 TrophyPurchaseInsufficient,Você não tem troféus suficientes para comprar este item
 TrophyStoreBought,Comprado
@@ -3024,7 +3024,7 @@ CoopEmoteTextAllIsFineWord,Está Tudo Bem
 PlayerStatsTimesUpgraded,Vezes melhorado
 PlayerStatsTimesSacrificed,Vezes sacrificado
 TrophyStoreInfoHeader,Informação da Loja de Troféus
-TrophyStoreInfoBody,A Loja de Troféus é lar de muitas melhorias cosméticas incríveis!\n• Ganhe Troféus concluindo a Odisseia e alcançando posições em Corridas\n• A maioria dos itens comprados pode ser habilitada ou removida na aba do inventário\n• Faixas de música compradas aparecem na Jukebox\n• Avatares comprados aparecem no perfil do menu principal\n• Macacos nomeados são editados no painel de melhorias do jogo
+TrophyStoreInfoBody,"A Loja de Troféus é lar de muitas melhorias cosméticas incríveis!\n• Ganhe Troféus concluindo a Odisseia, alcançando posições em Corridas e derrotando chefes\n• A maioria dos itens comprados pode ser habilitada ou removida na aba do inventário\n• Faixas de música compradas aparecem na Jukebox\n• Avatares e bandeiras comprados aparecem no perfil do menu principal\n• Macacos nomeados são editados no painel de melhorias do jogo"
 RestartOdysseyBody,Quer mesmo reiniciar sua Odisseia?
 OdysseyBannerRewards,Ganhe recompensas e Troféus!
 UpdateNotes,Notas da atualização
@@ -3440,7 +3440,6 @@ OverwriteChallengeBrowserHeader,Substituir jogo salvo?
 GameUIMusicTrackMusicJingleBloonsName,Jukebox: Jingle Bloons
 GameUIMusicTrackMusicJingleBloonsShortName,Jingle Bloons
 GameUIMusicTrackMusicJingleBloonsDescription,Comemore as festas com essa incrível nova faixa original de Bloons. Toque o sino!\nHabilite músicas na Jukebox nas configurações do menu principal.
-TrophyBadgesEmpty,Ganhe jogos para ganhar medalhas
 Favorite,Favorito
 FasterRegen,Aumento na regeneração
 SlowerRegen,Redução na regeneração
@@ -3598,7 +3597,9 @@ btd6_4racespass Description,Corra o quanto puder durante 4 corridas!
 btd6_4racespass,Passe de 4 Corridas
 btd6_12racespass Description,Corra o quanto puder durante 12 corridas!
 btd6_12racespass,Passe de 12 Corridas
+AccountPermissionRestriction,Esta conta Xbox não tem permissão para jogar jogos multijogador.
 GetHeroBooster,Ganhe Impulso de Herói
+AccountCommunityPermissionRestriction,Esta conta Xbox não tem permissão para ver ou criar conteúdo da comunidade.
 IntermediateUnlockText,Vença um mapa Iniciante pela primeira vez para liberar um mapa Intermediário.
 AdvancedUnlockText,Vença um mapa Intermediário pela primeira vez para liberar um mapa Avançado.
 ExpertUnlockText,Vença um mapa Avançado pela primeira vez para liberar um mapa Expert.
@@ -3680,7 +3681,7 @@ MiniRacesFirstTimeTitle,Minicorridas!
 MiniRacesFirstTimeDescription,"Depois de concluir uma corrida, você será colocado em um placar de minicorrida, assim como no placar da corrida principal. Compita contra outros jogadores em sua minicorrida para ainda mais prêmios quando a corrida terminar!"
 SharingCoop,Junte-se ao meu jogo cooperativo em Bloons TD 6!
 SharingChallenge,Você consegue vencer esse desafio de Bloons TD 6?
-btd6_racespass,{0} passes de corrida
+btd6_racespass,Passe de {0} Corridas
 btd6_racepass,1 passe de corrida
 OdysseyCrewConfirmed,Tripulação confirmada
 OdysseyCrewModified,Tripulação modificada
@@ -3698,7 +3699,7 @@ game already opened,O jogo já está aberto?
 Psi,Psi
 Psi Short Description,Macaco Psiônico
 Psi Description,"Uma criança macaco superdotada, Psi usa apenas o poder da mente para destruir Bloons de dentro para fora."
-Psi Level 1 Description,"Por qualquer distância ou obstáculo, Psi causa vibrações mortais que destroem completamente um Bloon por vez."
+Psi Level 1 Description,"Por qualquer distância ou obstáculo, Psi causa vibrações mortais que destroem completamente um Bloon por vez. Pode atingir Camuflados."
 Psi Level 2 Description,Ataca ligeiramente mais rápido.
 Psi Level 3 Description,Rajada Psíquica: Psi libera uma onda de poder que atordoa Bloons próximos por um longo tempo.
 Psi Level 4 Description,O ataque de Psi pode atingir outro Bloon se estiver bem perto do Bloon atingido.
@@ -3707,7 +3708,7 @@ Psi Level 6 Description,A poderosa mente de Psi pode penetrar Bloons de Chumbo.
 Psi Level 7 Description,A Rajada Psíquica pulsa duas vezes. Psi agora também pode destruir Bloons de Cerâmica.
 Psi Level 8 Description,Ressonância Destrutiva faz com que Bloons destruídos pelo ataque principal de Psi danifiquem Bloons próximos.
 Psi Level 9 Description,Divisão Mental: Psi agora pode atacar dois Bloons por vez.
-Psi Level 10 Description,Grito Psiônico: Psi solta um grito silencioso que deixar os Bloons no completo caos.
+Psi Level 10 Description,Grito Psiônico: Psi solta um grito silencioso que deixa os Bloons no completo caos.
 Psi Level 11 Description,As vibrações psiônicas destroem Bloons ainda mais rápido.
 Psi Level 12 Description,Rajada Psíquica pulsa três vezes.
 Psi Level 13 Description,Nem mesmo Bloons Roxos podem resistir aos ataques mentais de Psi.
@@ -3811,27 +3812,27 @@ NewerSaveFound,Encontramos um jogo salvo mais novo! Você jogou em uma versão m
 RacePasses,{0} Passes de Corrida
 FreeEntries,{0} Entradas Grátis
 FreeEntry,1 Entrada Grátis
-PrivateCoopLobby,Lobby Co-op Privado
-PublicCoopLobby,Lobby Co-op [{0}]
+PrivateCoopLobby,Lobby cooperativo privado
+PublicCoopLobby,Lobby cooperativo [{0}]
 MyOdysseys,Minhas Odisseias
-OdysseySearch,Pesquisar / Código Odyssey ...
+OdysseySearch,Busca/Código de Odisseia…
 Psychic Blast Ability,Explosão Psíquica
 Psychic Blast Ability Description,Psi libera uma onda de poder que atordoa Bloons próximos por um longo tempo.
-Psionic Scream Ability,Grito psiônico
-Psionic Scream Ability Description,Psi solta um grito silencioso que joga os Bloons no caos total.
+Psionic Scream Ability,Grito Psiônico
+Psionic Scream Ability Description,Psi solta um grito silencioso que deixar os Bloons no completo caos.
 EditorMode,Modo Editor
 ConfirmMaps,Mapas para confirmar: {0}
-ResetOdysseyProgress,Isso invalidará seu progresso no Odyssey. Tem certeza?
-OdysseyName,Nome da Odisséia
-OdysseyEditor,Editor de Odisséia
-MaxPowers,Potências máximas:
-MaxMonkeySlots,lugares máximos de macaco
-MaxPowerSlots,Lugares máximos de poderes
+ResetOdysseyProgress,Isso invalidará seu progresso na Odisseia. Tem certeza?
+OdysseyName,Nome da Odisseia
+OdysseyEditor,Editor de Odisseia
+MaxPowers,Máximo de poderes:
+MaxMonkeySlots,Máximo de espaços de macacos:
+MaxPowerSlots,Máximo de espaços de poderes:
 MapNumber,Mapa {0}
 ExtremeMode,Modo Extremo:
 Edit,Editar
-OdysseyInviteReceivedDescription,Você foi convidado a experimentar o código odisséia: {0}
-SharingOdyssey,Você pode vencer esta odisséia Bloons TD 6?
+OdysseyInviteReceivedDescription,Você receber um convite para experimentar a Odisseia código: {0}
+SharingOdyssey,Você consegue vencer essa Odisseia de Bloons TD 6?
 EditorPowersIncluded,Poderes Incluídos
 EditorPowersExcluded,Poderes Excluídos
 OdysseyDescription,Descrição:
@@ -3877,12 +3878,12 @@ CoopEmoteAnimationFistpumpShortName,Soquinho
 CoopEmoteAnimationFistpumpDescription,Para comemorar um trabalho bem-feito!
 GameUIProfileAvatar44Name,Avatar Personalizado - Macaco SAS
 GameUIProfileAvatar44ShortName,Avatar Macaco SAS
-GameUIProfileAvatar44Description,Avatar vencedor por Deacon
+GameUIProfileAvatar44Description,Avatar vencedor por LV-233_Deacon
 GameUIProfileAvatar45Name,Avatar Personalizado - Projeto
 GameUIProfileAvatar45ShortName,Avatar Projeto
 GameUIProfileAvatar45Description,Avatar vencedor por dungeon-raided
-GameUIProfileAvatar46Name,Avatar Personalizado - Ezili
-GameUIProfileAvatar46ShortName,Avatar Ezili
+GameUIProfileAvatar46Name,Avatar Personalizado - Ezili Mascarada
+GameUIProfileAvatar46ShortName,Avatar Ezili Mascarada
 GameUIProfileAvatar46Description,Também conhecido como Ezili Cabelo Matinal
 GameUIProfileAvatar47Name,Avatar Personalizado - Bola de Espinhos
 GameUIProfileAvatar47ShortName,Avatar Bola de Espinhos
@@ -3930,7 +3931,7 @@ EngineerMonkeys,Macacos Engenheiros
 SpikeFactorys,Usinas de Espinhos
 MonkeyVillages,Vilas Macaco
 BossInfoPanelTitle,Evento de Bloons Chefes
-BossInfoPanelDescription,"Saudações, corajoso aventureiro, você entrou no reino dos Chefes. Boa sorte e lembre-se dessas regras importantes:\n• O Evento de Chefe começa assim que você apertar em Jogar e não existe pausa entre as rodadas.\n• Estoure todos os 5 níveis do Chefe para "
+BossInfoPanelDescription,"Saudações, corajoso aventureiro, você entrou no reino dos Chefes. Boa sorte e lembre-se dessas regras importantes:\n• O Evento de Chefe começa assim que você apertar em Jogar, não existe pausa entre as rodadas e chefes não podem ser desacelerados.\n• Estoure todos os 5 níveis do Chefe para vencer cada modo de Chefe. Vença o Normal para liberar o Elite.\n• Construa sua economia, prepare suas habilidades e faça uso do tempo entre níveis!\n• Ganhe troféus ou outras recompensas a cada nível derrotado, mas se não derrotar um nível em 20 rodadas, você perde.\n• Compita contra outros jogadores no modo ranqueado para ver quem consegue derrotar o chefe mais rápido e ganhar prêmios!\n• Sua melhor classificação no modo solo OU cooperativo determina as recompensas que você vai ganhar.\n• Modos Normal e Elite possuem placares e prêmios separados, você pode ganhar em ambos!"
 BloonariusInfoPanelDescription,"Bloonarius, que vive nos dejetos, dispara Bloons conforme recebe dano e dispara imensas massas de Bloons quando cada caveira da sua barra de vida é alcançada.\n\nA carapaça infundida com dejetos do Bloonarius o torna lento, mas extremamente resistente."
 NextBossIn,Chefe aparece em: {0}
 ARound,1 rodada
@@ -3958,8 +3959,8 @@ PlayerStatsHighestRoundCHIMPS,Rodada mais alta em CHIMPS
 PlayerStatsHighestRoundDeflation,Rodada mais alta em Esvaziamento
 Rejoin Coop,Reentrar no cooperativo
 WaitingEndRound,Esperando o fim da rodada atual
-SoftwareCursor,Cursor do software
-LargeCursor,Cursor maior
+SoftwareCursor,Cursor maior
+LargeCursor,Cursor Extra Grande
 Cursor,Cursor
 SandboxCursor,Sandbox/Cursor
 Achievement 128 Name,Que coisa mais Bloon é essa?
@@ -4013,3 +4014,107 @@ Retry From Checkpoint,Tentar de novo do ponto de checagem
 RetryCheckpointText,Tentar de novo do seu último ponto de checagem na Rodada {0}?
 Retry From Round,Tentar de novo da Rodada {0}
 EliteBossLockedPopup,Derrote o Chefe na dificuldade Normal para liberar a dificuldade Elite
+Custom Odyssey,Odisseia Personalizada
+Creating Odyssey,Criando Odisseia
+Creating Challenge,Criando Desafio
+TheCabin,A Cabana
+VikingSaudaSaudaSkinName,Visual Sauda Viking
+VikingSaudaSaudaSkinDescription,Machados prontos!
+HeroesChurchillSentaiSkinPetDroneName,Pet Drone do Churchill Sentai
+HeroesChurchillSentaiSkinPetDroneShortName,Drone do Churchill Sentai
+HeroesChurchillSentaiSkinPetDroneDescription,Sentinela Autômato de Ferro e Aço Direcionado a Operações computa análises de ameaças rápido e ainda mantém um visual incrível. Deve ser por isso que chamamos ele de SAFADO. Apenas Churchill Sentai
+TowerPetGlueGunnerRatName,Pet Rato Cospe-Colas
+TowerPetGlueGunnerRatShortName,Pet Rato Cospe-Colas
+TowerPetGlueGunnerRatDescription,"Sempre ao lado do Cospe-Colas, especialmente no laboratório. Já se perguntou quem faz a ciência por trás das muitas propriedades dele? A gente acha que é o rato."
+TowerEffectAllMonkeysPlacementUpgradesBatsName,Efeitos de Melhoria e Posicionamento de Morcegos
+TowerEffectAllMonkeysPlacementUpgradesBatsShortName,Efeito Melhoria Morcegos
+TowerEffectAllMonkeysPlacementUpgradesBatsDescription,Assuste os Bloons toda vez que uma torre for colocada e melhorada com incríveis animações de morcego que são assustadoramente incríveis em mapas específicos.
+TowerPetMonkeyBuccaneerNarwhalName,Pet Narval Macaco Bucaneiro
+TowerPetMonkeyBuccaneerNarwhalShortName,Pet Narval Bucaneiro
+TowerPetMonkeyBuccaneerNarwhalDescription,Contemple o mítico Narval com cada Bucaneiro colocado! Quem além do poderoso Bucaneiro poderia dominar os mares e fazer amizade com suas lendas?!
+TowerProjectileEngineerVampireHunterName,Projéteis Engenheiro Caça-Vampiros
+TowerProjectileEngineerVampireHunterShortName,Engenheiro Caça-Vampiros
+TowerProjectileEngineerVampireHunterDescription,"Na rara chance dos Bloons serem secretamente todos vampiros, o Engenheiro agora pode equipar um arsenal de projéteis estourados de Vampbloons, como estacas, alho e caixões. Item de colecionador por tempo limitado!"
+TowerPropMonkeyVillageCanadianFlagName,Bandeira do Canadá na Vila Macaco
+TowerPropMonkeyVillageCanadianFlagShortName,Bandeira do Canadá na Vila
+TowerPropMonkeyVillageCanadianFlagDescription,"Mas já era hora! Ó, Canadá, voe sua bandeira em todas as suas Vilas Macaco. Aparece em todas as melhorias"
+BloonsZOMGSkinJackOLanternName,ZOMG Abóbora
+BloonsZOMGSkinJackOLanternShortName,ZOMG Abóbora
+BloonsZOMGSkinJackOLanternDescription,"Abóbora premiada da Sauda no concurso anual de Entalhar Abóbora Como um ZOMG, e ela ainda consegue cortar um tomate! Item de colecionador por tempo limitado!"
+BloonsAllBloonsVampireCapesName,Bloons Capa de Vampiro
+BloonsAllBloonsVampireCapesShortName,Bloons Capa de Vampiro
+BloonsAllBloonsVampireCapesDescription,Vista seus Bloons como criaturas da noite neste Halloween! Item de colecionador por tempo limitado!
+CoopEmoteAnimationPanicMonkeyName,Reação Macaco em Pânico
+CoopEmoteAnimationPanicMonkeyShortName,Macaco em Pânico
+CoopEmoteAnimationPanicMonkeyDescription,"Este é seu anfitrião do cooperativo falando. Por favor, não entre em pânico. Tá, agora PODE ENTRAR EM PÂNICO!"
+CoopEmoteAnimationBeggingMonkeyName,"Reação Por Favoooor, Macaco"
+CoopEmoteAnimationBeggingMonkeyShortName,"Por Favoooor, Macaco"
+CoopEmoteAnimationBeggingMonkeyDescription,"Por favoooor, só preciso de mais 10 mil pra essa melhoria! É só uma coincidência eu ser o jogador 3, juro!"
+GameUIPowerSkinThriveStonksName,Poder Personalizado - Totalmente Stonks
+GameUIPowerSkinThriveStonksShortName,Totalmente Stonks
+GameUIPowerSkinThriveStonksDescription,Ben diz pra investir tudo em Bananacoin. Vai decolar até a lua!
+GameUIProfileAvatar48Name,Avatar Personalizado - Macaco Máscara de Hóquei
+GameUIProfileAvatar48ShortName,Avatar Máscara de Hóquei
+GameUIProfileAvatar48Description,Cuidado com o Macaco Máscara de Hóquei! Item de colecionador por tempo limitado!
+GameUIProfileAvatar49Name,Avatar Personalizado - Zeppelin de Chumbo
+GameUIProfileAvatar49ShortName,Avatar Zeppelin de Chumbo
+GameUIProfileAvatar49Description,Avatar vencedor por waywardzuck
+GameUIProfileAvatar50Name,Avatar Personalizado - Melhor Ben
+GameUIProfileAvatar50ShortName,Avatar Melhor Ben
+GameUIProfileAvatar50Description,"Quem cuida das suas necessidades de TI? Esse cara aqui! Quem toca o som maneiro? Esse cara aqui! E quem pode providenciar um sushi delicioso pro seu próximo evento? Ora, esse cara aqui, é claro."
+GameUIProfileAvatar51Name,Avatar Personalizado - Psi Ação
+GameUIProfileAvatar51ShortName,Avatar Psi Ação
+GameUIProfileAvatar51Description,Estar unido ao universo o tempo todo não significa que Psi não pode se divertir um pouco de vez em quando! Arrase com esse avatar incrível e mostre seu amor.
+GameUIProfileBanner6Name,Bandeira de Perfil Templo Solar
+GameUIProfileBanner6ShortName,Bandeira Templo Solar
+GameUIProfileBanner6Description,Presencie o verdadeiro poder de um Templo Solar totalmente operacional com esta épica bandeira de perfil personalizada.
+GameUIProfileBanner7Name,Bandeira de Perfil Fantasmas e Doces
+GameUIProfileBanner7ShortName,Bandeira Fantasmas e Doces
+GameUIProfileBanner7Description,Gostosuras ou travessuras! A bandeira de perfil personalizada de Halloween perfeita.
+LychTagLine,O Lorde do Cemitério
+LychTagLine2,foi ressuscitado!
+Lych,Lych
+LychInfoPanelDescription,"• O Lorde do Cemitério Lych drena vantagens dos seus macacos, se curando no processo.\n• Quando cada caveira na sua barra de vida é alcançada, Lych fica etéreo, ressuscitando as cascas vazias de MOABs recém-estourados.\n• Quando etéreo, Lych não pode rece"
+EditorReviewMap,Rever mapa
+YourBestTime,Seu recorde
+Boss,Chefe
+MiniBoss,Minichefe
+NormalRewards,Recompensas normais
+EliteRewards,Recompensas de elite
+1Player,1 jogador
+2Player,2 jogadores
+3Player,3 jogadores
+4Player,4 jogadores
+BossLeaderboard,Placar de chefe
+LeaderboardSubmissionFail,Incapaz de enviar ao placar
+SafeNameChallenge,Desafio de {0}
+SafeNameOdyssey,Odisseia de {0}
+BossEventEnded,O evento de chefe terminou!
+RankedNormal,Normal Ranqueado
+RankedElite,Elite Ranqueado
+StartRankedBoss,Iniciar chefe ranqueado
+MusicHaunted,Casa Assombrada
+GameUIMusicTrackMusicHauntedName,Jukebox: Casa Assombrada
+GameUIMusicTrackMusicHauntedShortName,Jukebox: Casa Assombrada
+GameUIMusicTrackMusicHauntedDescription,Batidas assombradas e ritmos espectrais tornam essa faixa obrigatória no Halloween ou em partidas noturnas. Item de colecionador por tempo limitado!
+NSCameraUsageDescription,Imagens para tickets de suporte
+btd6_needmoremonkeymoneyprompt_no_iap,Dinheiro de Macaco insuficiente!
+UseRacePassDescription,Usar um Passe de Corrida para ter entradas ilimitadas nessa Corrida?
+RacePassActivated,Passe de Corrida ativado
+UseRacePassTitle,Usar Passe de Corrida?
+Elite Best Time,Recorde de tempo de elite
+Normal Best Time,Recorde de tempo normal
+NormalCursor,Cursor normal
+MayAffectPerformance,*Pode afetar performance
+GameUIMusicTrackMusicOnslaughtName,Massacre
+GameUIMusicTrackMusicOnslaughtShortName,Massacre
+GameUIMusicTrackMusicOnslaughtDescription,Faixa do Chefe Massacre
+SharingCoopBoss,Junte-se ao meu jogo de chefe em Bloons TD 6!
+EliteBossEvent,Evento de Chefe de elite
+NinjaMonkey Paragon,Sombra Ascendida
+NinjaMonkey Paragon Description,O pacote de assassino completo para lidar com qualquer ameaça Bloon.
+Elite,Elite
+HackGameStopMessage,Valores de jogo não puderam ser ressincronizados. Infelizmente este jogo não pode continuar. Inicie um novo jogo.
+RankedMode,Modo ranqueado
+Any,Qualquer
+ScoreNotVerifiable,Sua pontuação não foi enviada porque não pôde ser verificada.

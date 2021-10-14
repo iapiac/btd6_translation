@@ -1,4 +1,4 @@
-//Input. Needs to be first e.g [I] replaced by click or tap,
+﻿//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,클릭
 Tap,터치
 ,
@@ -173,7 +173,7 @@ Benjamin Level 3 Description,바이오핵: 가장 가까운 4마리의 원숭이
 Benjamin Level 4 Description,좀도둑질 - 새로운 풍선이 생성될 때마다 추가로 $1를 법니다.
 Benjamin Level 5 Description,은행 해킹 - 모든 은행의 수입이 5% 증가합니다.
 Benjamin Level 6 Description,사이버 보안 - 라운드가 끝날 때마다 목숨 5개를 회복합니다.
-Benjamin Level 7 Description,"트로이 풍선 - 몇 초마다 무작위 풍선에 트로이 소프트웨어 바이러스를 보냅니다. 해당 풍선은 파괴 시 풍선을 남기지 않으며, 캐시를 두 배 생산합니다."
+Benjamin Level 7 Description,"트로이 풍선 - 몇 초마다 무작위 풍선에 트로이 소프트웨어 바이러스를 보냅니다. 해당 풍선은 파괴 시 다른 풍선을 남기지 않으며, 터진 겹마다 보너스 캐시를 1씩 생산합니다."
 Benjamin Level 8 Description,라운드당 수입이 $250로 증가합니다.
 Benjamin Level 9 Description,은행 해킹의 효과가 12%로 증가합니다.
 Benjamin Level 10 Description,사이펀 펀딩: 새로 생성되는 풍선 대부분의 계급을 1씩 강등합니다. 해당 풍선을 터뜨릴 때마다 받는 캐시 수입이 두 배가 됩니다. 10초 동안 지속됩니다.
@@ -248,7 +248,7 @@ Ezili Level 15 Description,사정거리가 증가합니다.
 Ezili Level 16 Description,"제물 토템의 지속 시간이 증가하며, 사용할 때 목숨을 1개만 소모합니다."
 Ezili Level 17 Description,기본 공격의 방사 피해 반경과 관통력이 증가합니다.
 Ezili Level 18 Description,공격 속도가 증가합니다.
-Ezili Level 19 Description,기본 공격의 피해가 발생할 때마다 풍선을 2겹 터트립니다!
+Ezili Level 19 Description,기본 공격의 피해가 발생할 때마다 풍선을 3겹 터트립니다!
 Ezili Level 20 Description,"MOAB 저주 속도가 빨라지며, BAD 풍선도 파괴합니다."
 ,
 //Hero Ability Names,
@@ -357,7 +357,7 @@ The Tack Zone,압정 구역
 Permafrost,영구 동토층
 Enhanced Freeze,강화된 냉각
 Larger Radius,반경 증가
-Metal Freeze,금속 얼리기
+Metal Freeze,강추위
 Deep Freeze,깊은 냉각
 Re-Freeze,다시 얼리기
 Ice Shards,얼음 조각
@@ -607,7 +607,7 @@ Double Gun,이중 총
 Sentry Expert,경비 전문가
 Overclock,오버클록
 Bloon Trap,풍선 함정
-Sentry Paragon,경비 탑 파라곤
+Sentry Paragon,경비 탑 챔피언
 Ultraboost,울트라부스트
 XXXL Trap,XXXL 함정
 ,
@@ -755,13 +755,13 @@ The Tack Zone Description,압정이 아주 많습니다.
 Permafrost Description,풍선이 녹은 후에도 천천히 움직입니다.
 Enhanced Freeze Description,공격 속도와 얼린 상태 지속 시간이 증가합니다.
 Larger Radius Description,얼리는 영역이 더 넓어집니다.
-Metal Freeze Description,납 풍선을 얼려서 터트릴 수 있습니다.
+Metal Freeze Description,납 풍선과 캐모 풍선을 얼려서 터트릴 수 있습니다.
 Deep Freeze Description,한꺼번에 풍선 2겹을 뚫고 얼립니다.
 Re-Freeze Description,이미 얼린 상태인 풍선을 다시 얼릴 수 있습니다.
 Ice Shards Description,얼린 풍선이 터지면 날카롭고 뾰족한 파편이 방출됩니다.
 Arctic Wind Description,"관통력이 매우 높아지며, 주변의 풍선을 느리게 만들고 물을 얼리는 엄청나게 추운 한기를 얻습니다."
 Cryo Cannon Description,원거리로 풍선을 향해 얼리기 폭탄을 쏩니다.
-Embrittlement Description,"캐모 풍선을 감지하며, 공격에 맞은 풍선은 깨지기 쉬워져 잠시 동안 추가 피해를 받고 캐모 속성과 재생 속성을 영구히 잃습니다."
+Embrittlement Description,"캐모 풍선을 감지하며, MOAB을 포함하여 공격에 맞은 풍선은 깨지기 쉬워져 잠시 동안 추가 피해를 받고 캐모 속성과 재생 속성을 영구히 잃습니다."
 Snowstorm Description,"눈폭풍 능력: 화면의 모든 일반 풍선을 얼리며, 잠시 동안 하얀 풍선, 줄무늬 풍선, 캐모 풍선을 얼리고 MOAB급 풍선을 느리게 만듭니다."
 Icicles Description,얼린 풍선은 다른 풍선이 건드리면 터트리는 뾰족한 고드름이 생깁니다.
 Super Brittle Description,MOAB급 풍선을 포함하여 얼린 풍선이 받는 피해가 어마어마하게 증가합니다.
@@ -795,7 +795,7 @@ Bouncing Bullet Description,탄환이 최대 3개의 새로운 대상을 향해 
 Semi-Automatic Description,공격 속도가 3배 증가합니다!
 Maim MOAB Description,"주는 피해가 상당히 증가하며, 잠시 동안 MOAB 등급 풍선을 움직이지 못하게 합니다."
 Supply Drop Description,"보급품 투하 능력: 캐시가 가득 든 상자를 투하합니다. 일반 공격으로 납 풍선에 피해를 줄 수 있게 되며, 파편의 터트리는 힘을 증가합니다."
-Full Auto Rifle Description,어마어마한 터트리는 힘을 가졌으며 납 풍선에도 피해를 주는 전자동 무기입니다.
+Full Auto Rifle Description,어마어마한 터트리는 힘을 가진 전자동 무기입니다.
 Cripple MOAB Description,"손상된 MOAB 풍선이 움직이지 못하는 시간이 증가하며, 다른 공격에서 추가 피해를 받습니다."
 Elite Sniper Description,보급품 투하로 받는 캐시의 양이 상당히 증가합니다. 모든 저격수가 엘리트 표적우선순위와 빠른 재장전 속도를 갖게 됩니다.
 Elite Defender Description,목숨을 잃으면 그에 대한 보복으로 잠시 동안 이 저격수의 공격 속도가 4배가 됩니다.
@@ -827,13 +827,13 @@ Buccaneer-Cannon Ship Description,위력적인 폭탄을 발사하는 강력한 
 Buccaneer-Merchantman Description,라운드마다 자동으로 캐시를 생산합니다.
 Buccaneer-Aircraft Carrier Description,표적에 폭격을 가하며 MOAB급 풍선에게 미사일을 발사하는 전투기 부대를 출동시킵니다.
 Buccaneer-Monkey Pirates Description,"배에 대포 2대를 추가하며, 대포 공격이 주는 피해가 증가합니다. MOAB 테이크다운 능력: MOAB급 풍선에 작살을 던져 추락시킵니다."
-Buccaneer-Favored Trades Description,"공격 속도가 빨라지며, 라운드마다 많은 머니를 생산합니다. 반경 내 원숭이의 판매 가격을 올려서 우위 무역 3중첩 시 구매 가격의 95%까지 올릴 수 있습니다."
+Buccaneer-Favored Trades Description,"공격 속도가 빨라지며, 라운드마다 많은 캐시를 생산합니다. 반경 내 원숭이의 판매 가격이 올라갑니다."
 Buccaneer-Carrier Flagship Description,"추가 피해를 줍니다. 상갑판에 다른 원숭이를 배치할 수 있으며, 모든 수중 원숭이와 에이스 원숭이의 공격 속도가 증가합니다."
 Buccaneer-Pirate Lord Description,"모든 공격의 공격 속도가 상당히 증가하며, 한꺼번에 3개의 갈고리닻을 발사하고, 격추시킨 MOAB급 풍선에게서 각각 추가 캐시를 갈취할 수 있습니다."
 Buccaneer-Trade Empire Description,"라운드당 캐시 생산량이 증가하며, 최대 20명까지 다른 상인이 버는 캐시의 양이 상인의 수만큼 증가하고, 모든 상인의 공격력이 증가합니다."
 ,
 Rapid Fire Description,평소보다 공격 속도가 증가합니다.
-Exploding Pineapple Description,땅에 떨어지면 몇 초 후에 폭발하는 파인애플을 투하합니다.
+Exploding Pineapple Description,땅에 떨어지면 몇 초 후에 폭발하는 파인애플을 투하합니다. 에이스의 폭발 공격이 향상됩니다.
 Sharper Darts Description,다트가 각각 8개의 풍선을 터트립니다.
 Lots More Darts Description,한꺼번에 12개의 다트를 던집니다.
 Spy Plane Description,에이스 원숭이가 캐모 풍선을 맞힐 수 있습니다.
@@ -898,7 +898,7 @@ M.A.D Description,MOAB 확정 파괴자. 공격 속도는 느리지만 MOAB급 �
 Bloon Exclusion Zone Description,포열을 6개로 업그레이드하고 공격력도 어마어마하게 증가합니다. 풍선이라는 존재를 아예 지워버립니다.
 ,
 Guided Magic Description,마법 공격이 엄폐물 뒤에 있는 풍선도 발견하여 추적합니다.
-Fireball Description,몇 초마다 폭발성 화염구 주문을 시전합니다.
+Fireball Description,몇 초마다 폭발하는 불덩이 주문을 시전합니다.
 Intense Magic Description,"마법 공격의 위력과 이동 속도가 증가하며, 더 많은 풍선을 터트립니다."
 Arcane Blast Description,더욱 강력하고 규모가 커진 마법 공격이 풍선 2겹을 터트립니다.
 Wall of Fire Description,트랙을 가로지르는 매우 뜨거운 화염의 벽을 생성하여 지나가는 풍선을 구워버립니다.
@@ -961,17 +961,17 @@ Permanent Brew Description,광전사 약제의 효과가 이를 마시는 원숭
 Total Transformation Description,주변 원숭이 다섯 마리를 20초 동안 공격에 미친 몬스터로 변신시킵니다.
 Bloon Master Alchemist Description,비법의 축소 물약이 맞힌 풍선을 모두 빨간 풍선으로 바꿉니다.
 ,
-Hard Thorns Description,"단단한 가시가 각각 풍선을 2개씩 터트리며, 얼린 풍선도 터트립니다."
+Hard Thorns Description,"단단한 가시가 각각 풍선을 2개씩 터트리며, 모든 유형의 풍선을 터트립니다."
 Thorn Swarm Description,한꺼번에 가시를 5개 대신 8개 쏩니다.
 Druidic Reach Description,사정거리가 상당히 증가합니다.
 Heart of Thunder Description,이 풍선에서 저 풍선으로 갈라지는 벼락을 주기적으로 방출합니다.
 Heart of Oak Description,공격에 맞은 재생 풍선이 일반 풍선으로 바뀝니다.
 Heart of Vengeance Description,"발사 속도가 10% 상승하며, 업그레이드 이후 시작값에서 잃은 목숨당 1%씩 올라갑니다. 최대 100%까지 올라가며, 목숨을 회복하면 다시 내려갑니다."
 Druid of the Storm Description,드센 바람이 불어 트랙 위의 풍선을 출구에서 멀리 날려보냅니다.
-Druid of the Jungle Description,땅에서 넝쿨을 소환하여 풍선을 하나씩 휘감아 으스러뜨리도록 합니다.
+Druid of the Jungle Description,풍선을 하나씩 휘감아 으스러뜨리고 무시무시한 가시 더미를 남기는 넝쿨을 땅에서 소환합니다.
 Druid of Wrath Description,드루이드가 풍선을 공격하고 있는 한 라운드 중에 공격 속도가 증가합니다.
 Ball Lightning Description,추가로 벼락을 쏘는 강력한 번개구를 생성합니다.  
-Jungle's Bounty Description,"정글의 축복 능력: 사용할 때마다 캐시를 생성하며, 드루이드 주변 농장의 수에 따라 추가 캐시를 생성합니다."
+Jungle's Bounty Description,"정글의 축복 능력: 사용할 때마다 캐시를 생성하며, 드루이드 주변 농장의 수에 따라 추가 캐시를 생성합니다. 또한, 넝쿨로 한꺼번에 풍선을 두 개씩 붙잡습니다."
 Poplust Description,반경 내에 있는 다른 드루이드의 공격 속도와 관통력이 증가합니다. 드루이드당 5번까지 중첩될 수 있습니다.
 Superstorm Description,슈퍼 폭풍이 모든 유형의 풍선에게 어마어마한 피해를 주며 출구에서 멀리 날려보냅니다.
 Spirit of the Forest Description,지속 피해를 주며 세라믹 풍선에 추가 피해를 주는 가시덩굴이 경로를 따라 자라게 합니다. 숲의 정령에 가까울수록 가시덩굴이 더 많은 피해를 줍니다. 능력을 발동하면 목숨과 캐시를 생성합니다.
@@ -979,10 +979,10 @@ Avatar of Wrath Description,풍선이 많으면 많을수록 더 많은 피해�
 ,
 Increased Production Description,라운드마다 바나나 다발 2개를 추가로 생산합니다.
 Long Life Bananas Description,바나나가 썩을 때까지 걸리는 시간이 15초에서 30초로 늘어납니다.
-EZ Collect Description,"바나나를 획득할 수 있는 범위가 넓어집니다. 원숭이 은행의 경우, 은행이 가득 차 아이템을 획득할 준비가 되면 빛이 납니다."
+EZ Collect Description,"바나나 수확 범위가 넓어지고, 미수확 바나나도 반값에 자동으로 수확합니다. 원숭이 은행이 가득 차 수입을 거둘 때가 되면 빛이 납니다."
 Greater Production Description,라운드마다 바나나 다발 2개를 더 추가로 생산합니다.
 Valuable Bananas Description,바나나 다발의 캐시 가격이 25% 증가합니다.  
-Banana Salvage Description,미수확 바나나가 절반의 수량으로 자동 수확됩니다.
+Banana Salvage Description,"미수확 바나나가 거의 제값에 자동 수확되고, 은행도 가득 차면 자동으로 수입을 획득하게 됩니다. 농장을 되팔 때 받는 가격이 10% 증가합니다."
 Banana Plantation Description,라운드마다 바나나 다발 16개를 생산합니다.
 Monkey Bank Description,라운드마다 머니를 생산하며 은행에 저장합니다. 라운드마다 15%의 이자를 법니다.
 Marketplace Description,라운드마다 머니를 생산하며 총액에 추가합니다. 간단하지요.
@@ -991,7 +991,7 @@ IMF loan Description,"IMF 대출 능력: $10,000을 빌리며, 이는 시간이 
 Central Market Description,"라운드마다 머니를 잔뜩 벌며, 상인의 수입이 10% 증가합니다."
 Banana Central Description,바나나를 원하세요? 여기 바나나 있어요!
 Monkey-Nomics Description,절대로 망해선 안 되는 상황이라면...
-Monkey Wall Street Description,원숭이 무역의 중심지는 라운드마다 엄청난 수입을 벌어들입니다.
+Monkey Wall Street Description,원숭이 무역의 중심지가 라운드마다 엄청난 수입을 벌어들이고 라운드마다 목숨을 생성합니다.
 ,
 Sentry Gun Description,임시로 감시 총을 만들고 근처에 배치합니다.
 Larger Service Area Description,사정거리가 증가하며 더욱 넓은 영역에 경비 탑을 배치합니다. 경비 탑의 범위가 증가합니다.
@@ -1053,7 +1053,7 @@ Monkey Town Description,원숭이 타운 반경 내의 모든 원숭이가 풍�
 Primary Mentoring Description,반경 내 모든 일차 원숭이가 1티어 업그레이드를 무료로 얻고 사정거리가 증가하며 능력 쿨다운이 감소합니다.
 Call to Arms Description,군대 소집 능력: 잠시 동안 주변 원숭이의 공격 속도와 터트리는 힘이 50% 증가합니다.
 Monkey City Description,영향력 반경과 반경 내 캐시 생산량을 증가하고 라운드마다 무료로 다트 원숭이를 줍니다.
-Primary Expertise Description,"메가 노포 공격을 추가하며, 반경 내 모든 일차 원숭이의 터트리는 힘이 증가하고 1티어 및 2티어 업그레이드를 무료로 얻습니다."
+Primary Expertise Description,"메가 노포 공격을 추가하며, 반경 내 모든 일차 원숭이의 터트리는 힘이 증가하고, 능력 쿨다운이 더 단축되며, 1티어 및 2티어 업그레이드를 무료로 얻습니다."
 Homeland Defense Description,20초 동안 모든 원숭이의 공격 속도와 터트리는 힘을 100% 증가합니다.
 Monkeyopolis Description,주변의 모든 바나나 농장과 그 수입을 흡수하여 새 원숭이를 위한 공간을 마련합니다.
 ,
@@ -1564,13 +1564,13 @@ Achievement 40 Description,캐모 풍선 {0}개 터트리기
 Achievement 41 Name,힘을 합치면
 Achievement 41 Description,12가지 서로 다른 힘 수집하기
 Achievement 42 Name,도전자
-Achievement 42 Description,일일 도전 {0}번 깨기
-Achievement 43 Name,도전 견습생
-Achievement 43 Description,일일 도전 {0}번 깨기
-Achievement 44 Name,도전 대가
-Achievement 44 Description,일일 도전 {0}번 깨기
+Achievement 42 Description,일일 도전과제 {0}번 깨기
+Achievement 43 Name,도전과제 견습생
+Achievement 43 Description,일일 도전과제 {0}번 깨기
+Achievement 44 Name,도전과제의 대가
+Achievement 44 Description,일일 도전과제 {0}번 깨기
 Achievement 45 Name,완벽한 한 주
-Achievement 45 Description,일주일 동안 일일 도전 모두 완수하기
+Achievement 45 Description,일주일 동안 일일 도전과제 모두 완수하기
 Achievement 46 Name,지식을 갖춘 영장류
 Achievement 46 Description,한 특성의 모든 원숭이 지식 잠금 해제하기
 Achievement 47 Name,풍선의 대가
@@ -2023,7 +2023,7 @@ Mode HalfCash,캐시 절반
 ,
 Requires internet connection,인터넷 연결이 필요합니다
 Daily chest countdown,{0}시간 {1}분 안에 돌아와서 다음 보상을 받으세요!
-Daily challenge countdown,다음 도전에 참가하려면 {0}시간 {1}분 후 다시 오세요
+Daily challenge countdown,다음 도전과제에 참가하려면 {0}시간 {1}분 후 다시 오세요
 ,
 // Language,
 Chinese Simplified,중국어(간체)
@@ -2210,7 +2210,7 @@ RateGameTitle,지금 평가해주세요!
 RateGameBody,게임이 마음에 드시나요? 지금 게임을 평가해주세요!
 UpdatePanelClose,닫기
 UpdatePanelUpdate,업데이트
-Advanced Daily Challenge,고급 도전
+Advanced Daily Challenge,고급 도전과제
 Max,최대
 Bloon Health Increased,세라믹 HP 증가함
 Bloon Health Decreased,세라믹 HP 감소함
@@ -2420,7 +2420,7 @@ EditorEnterCode,코드 입력
 EditorShareError,이 도전과제를 공유하는 도중 오류가 발생했습니다.
 EditorSubmitError,이 도전과제를 제출하는 도중 오류가 발생했습니다.
 EditorLoadError,이 도전과제를 불러오는 도중 오류가 발생했습니다.
-EditorLevelLockMsg,도전과제 에디터는 {0}레벨에서 잠금 해제됩니다
+EditorLevelLockMsg,도전과제 편집기는 {0}레벨에서 잠금 해제됩니다
 EditorCreateChallenge,도전과제 생성
 EditorPlayChallenge,도전과제 플레이
 EditorEditChallenge,도전과제 편집
@@ -2452,7 +2452,7 @@ EditorBloonSpeed,풍선 속도
 EditorMoabSpeed,Moab 속도
 EditorCeramicHealth,세라믹 HP
 EditorMoabHealth,Moab HP
-EditorPowers,능력:
+EditorPowers,힘:
 EditorSelling,판매:
 EditorMonkeyKnowledge,원숭이 지식:
 EditorContinues,계속하기:
@@ -2472,14 +2472,14 @@ SlowerMoabs,Moab 속도 감소함
 BikerBonesSkinName,바이커 본즈 스킨
 BikerBonesSkinDescription,태양신은 해방된 바이커 본즈와 같이 격노하지 않지요!
 PatsPond,팻의 연못
-InappropriateChallengeName,부적절하지 않은 도전 이름을 사용한 후 다시 시도하세요
+InappropriateChallengeName,부적절하지 않은 도전과제 이름을 사용한 후 다시 시도하세요
 DCVictoryBody,축하합니다! {0}을(를) 완료했습니다!
-EditorCreateVictoryBody,축하합니다! 이제 자신의 도전을 다른 이들과 공유할 수 있습니다!
-EditorOlderVersion,"이 도전은 버전 {0}에서 생성되었으며, 이제 더 이상 완료가 불가능할 수 있습니다"
-EditorNewerVersion,이 도전은 게임의 신버전에서 생성되었으니 플레이하려면 최신 버전으로 게임을 업데이트하십시오
+EditorCreateVictoryBody,축하합니다! 이제 만드신 도전과제를 다른 이들과 공유할 수 있습니다!
+EditorOlderVersion,"이 도전과제는 버전 {0}에서 생성되었으며, 이제 더는 깨지 못할 가능성이 있습니다."
+EditorNewerVersion,이 도전과제는 게임의 신버전에서 생성되었으니 플레이하려면 최신 버전으로 게임을 업데이트해야 합니다.
 DefeatScreenRetryLastRound,마지막 라운드 재시도
 CoopDoubleCash,(싱글 플레이어 전용)
-EditorThanksForSubmission,Bloons TD6 발전에 기여해주셔서 감사합니다! 향후에 귀하의 도전이 선택되어 게임에서 선보일 수 있기를 기대합니다!
+EditorThanksForSubmission,Bloons TD6의 발전에 기여해주셔서 감사합니다! 향후에 귀하의 도전과제가 선택되어 게임에서 선보일 수 있기를 기대합니다!
 SpringSpring,봄이 깡총깡총
 ObynOceanGuardianSkinName,바다의 지킴이 스킨
 ObynOceanGuardianSkinDescription,"우리는 바다로부터 왔으며, 바다로 돌아갈 것이다."
@@ -2568,7 +2568,7 @@ Achievement 71 Name,떠오르는 신성
 Achievement 71 Description,5분 안으로 경주 마치기
 Achievement 72 Name,지금은 나의 전성시대
 Achievement 72 Description,3분 안으로 경주 마치기
-Achievement 73 Name,최고의 도전
+Achievement 73 Name,최고의 도전과제
 Achievement 73 Description,도전과제 200개 생성 또는 플레이하기
 Achievement 74 Name,패셔니스타
 Achievement 74 Description,영웅 스킨 사용한 채로 게임 100판 이기기
@@ -2616,14 +2616,14 @@ CalloutDdtDestroyer,DDT 파괴자
 CalloutDdtDestroyerDesc,DDT풍선 {0}개 터트림
 CalloutMostGenerous,하해와 같은 인심
 CalloutMostGenerousDesc,{0} 캐시 선물함
-CoopDailyChallenge,협동 일일 도전
+CoopDailyChallenge,협동 일일 도전과제
 Spillway,배수로
 Sentry,경비 탑
 SentryBoom,폭발 경비 탑
 SentryCrushing,스파이크구 경비 탑
 SentryCold,추위 경비 탑
 SentryEnergy,에너지 경비 탑
-SentryParagon,파라곤 경비 탑
+SentryParagon,챔피언 경비 탑
 EditorNumberOfPlayers,플레이어 수
 EditorCoopAreaDivision,협동 지역 분할
 InvalidTarget,잘못된 대상
@@ -2704,7 +2704,7 @@ DownloadDescription,추가 파일 다운로드 중. Wi-Fi 사용을 권장합니
 ViewCollectionButton,컬렉션 보기
 ViewInventoryButton,인벤토리 보기
 CollectionDescription,즉석 원숭이는 사용된 뒤에도 컬렉션에서 볼 수 있습니다.
-CollectionNoInventory,"일일 상자, 도전, 이벤트에서 모은 즉석 원숭이는 여기에 표시됩니다."
+CollectionNoInventory,"일일 상자, 도전과제, 이벤트에서 모은 즉석 원숭이는 여기에 표시됩니다."
 MatchIncompatible,게임 유형 호환 불가
 CollectionEventBonusRewards,보너스 보상
 SteamOverlay,구매하려면 Steam 오버레이와 로그인이 필요합니다.
@@ -2741,7 +2741,7 @@ BoomerangTargetingSwitchHands,손 바꾸기
 VineRupture,덩굴 폭발
 VineRuptureDescription,숲의 정령 드루이드에게 모든 트랙 덩굴을 폭발시켜 납을 제외한 모든 풍선에 어마어마한 피해를 주는 새로운 능력을 줍니다. 폭발할 때마다 새로운 덩굴이 다시 자라납니다.
 BankDeposits,은행 입금
-BankDepositsDescription,사용 가능한 게임 캐시를 원숭이 은행에 입금할 수 있습니다.
+BankDepositsDescription,사용 가능한 게임 캐시를 4티어 이상의 원숭이 은행에 입금할 수 있습니다.
 MonkeyBankDeposit,입금
 Achievement 92 Name,황금 티켓
 Achievement 92 Description,블룸파 룸파 둠파 디 두~!
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] 눌러 사정거리 내로 어둠포털을 통해 이동
 DarkChampionDarkshift,[I] 눌러 아무 가능한 장소로 어둠포털을 통해 이동하기
 SmallTowersMode,작은 원숭이 타워
 BigTowersMode,커다란 원숭이 타워
-UpdatePopupTitle,업데이트 27!
-UpdatePopupDescription,어마어마한 보스급 콘텐츠 업데이트!\n• 보스 풍선 이벤트 개시! 블루나리우스에게 도전할 용자 있나요?!\n• 파라곤 원숭이 도입! 다트와 부메랑 원숭이의 새 파라곤 티어를 사용해보세요!\n• 늪지대 중급 맵 '블루나리우스 프라임' 추가\n• 트로피 상점 신상 입고: 프로필 배너도 새로 추가했습니다!\n• 협동 게임 재입장: 이제 협동 게임에 다시 들어갈 수 있어요!\n• 신규 업적 및 보상 추가!\n• 밸런스 조정: 기능이 많이 바뀐 타워가 있으니 자세한 사항은 패치노트를 참고하세요
+UpdatePopupTitle,업데이트 28!
+UpdatePopupDescription,대규모 콘텐츠 업데이트!\n• 협동 보스전! 친구들과 함께 보스 이벤트에 도전해 최대 파라곤 레벨을 노리세요!\n• 신규 보스 풍선 - 무덤군주 리치!\n• 보스 순위표! 랭커 모드를 선택하고 솔로 혹은 협동 플레이로 최고의 기록을 내어 순위표에 오르세요\n• 신규 파라곤 타워 - 천상의 그림자 닌자 원숭이 등장!\n• 바이킹 사우다 출전! 새로 나온 사우다 스킨을 획득하고 화려한 칼질을 보여주세요!\n• 새 초보 맵 '오두막집'에서 공연히 길을 잃지 않도록 조심하세요\n• 트로피 상점 신규 아이템 12종 및 기간 한정 할로윈 신상 6종이 나왔으니 놓치지 마세요!\n• 밸런스 조정 및 버그 수정 - 변경 사항이 많으니 자세한 정보는 패치 노트에서 확인하세요
 ResetDailyChest,일일 상자 초기화
 JukeboxName,주크박스
 EnableFunction,사용
@@ -3024,7 +3024,7 @@ CoopEmoteTextAllIsFineWord,이상 무
 PlayerStatsTimesUpgraded,업그레이드 횟수
 PlayerStatsTimesSacrificed,희생 횟수
 TrophyStoreInfoHeader,트로피 상점 정보
-TrophyStoreInfoBody,트로피 상점에서는 여러 가지 멋진 커스터마이징 업그레이드를 만날 수 있어요!\n• 오디세이를 완료하거나 경주를 상위로 마치면 트로피를 획득합니다.\n• 구매 아이템은 대부분 인벤토리 탭에서 사용 여부를 설정할 수 있습니다.\n• 구매한 음악 트랙은 주크박스에 표시됩니다.\n• 구매한 아바타는 메인 메뉴 프로필에 표시됩니다.\n• 이름이 있는 원숭이는 게임 내 업그레이드 패널에서 변경할 수 있습니다.
+TrophyStoreInfoBody,트로피 상점에서는 여러 가지 멋진 커스터마이징 업그레이드를 만날 수 있어요!\n• 오디세이를 완료하거나 경주를 상위로 마치거나 보스를 처치하면 트로피를 획득합니다.\n• 구매 아이템은 대부분 인벤토리 탭에서 사용 여부를 설정할 수 있습니다.\n• 구매한 음악 트랙은 주크박스에 표시됩니다.\n• 구매한 아바타와 배너는 메인 메뉴 프로필에 표시됩니다.\n• 이름이 있는 원숭이는 게임 내 업그레이드 패널에서 변경할 수 있습니다.
 RestartOdysseyBody,정말로 오디세이를 새로 시작하시겠습니까?
 OdysseyBannerRewards,보상과 트로피를 타세요!
 UpdateNotes,업데이트 노트
@@ -3440,8 +3440,6 @@ OverwriteChallengeBrowserHeader,저장을 덮어쓰시겠습니까?
 GameUIMusicTrackMusicJingleBloonsName,주크박스: 징글 풍선
 GameUIMusicTrackMusicJingleBloonsShortName,징글 풍선
 GameUIMusicTrackMusicJingleBloonsDescription,완전히 새로운 풍선 트랙과 함께 연말연시를 보내세요. 종소리 울려라!\n메인 메뉴 설정에서 주크박스로 음악 재생을 설정하세요.
-TrophyBadgesEmpty,게임에서 승리하여 메달을 획득하세요
-
 Favorite,즐겨찾기
 FasterRegen,리젠율 증가
 SlowerRegen,리젠율 감소
@@ -3599,7 +3597,9 @@ btd6_4racespass Description,4번의 이벤트에서 경주를 무한히 시도�
 btd6_4racespass,4경주 패스
 btd6_12racespass Description,12번의 이벤트에서 경주를 무한히 시도할 수 있어요!
 btd6_12racespass,12경주 패스
+AccountPermissionRestriction,해당 Xbox 계정에 멀티플레이어 게임을 플레이할 권한이 없습니다
 GetHeroBooster,영웅 부스터 얻기
+AccountCommunityPermissionRestriction,해당 Xbox 계정에 커뮤니티 콘텐츠를 보거나 생성할 권한이 없습니다
 IntermediateUnlockText,초보 맵을 최초로 깨면 중급 맵이 열립니다
 AdvancedUnlockText,중급 맵을 최초로 깨면 고급 맵이 열립니다
 ExpertUnlockText,고급 맵을 최초로 깨면 전문 맵이 열립니다
@@ -3614,10 +3614,10 @@ TowerPetBananaFarmChickenShortName,농장 닭
 TowerPetBananaFarmChickenDescription,"닭 없는 농장은 팥 없는 찐빵이나 다름없죠. 왜 닭이냐고요? 그야, 닭이니까요! 꼬꼬댁!"
 TowerPropMonkeyVillageBrazilFlagName,원숭이 마을 브라질 국기
 TowerPropMonkeyVillageBrazilFlagShortName,마을 브라질 국기
-TowerPropMonkeyVillageBrazilFlagDescription,고오오오오올! 원숭이 마을 깃발로 브라질을 응원해 보세요. 모든 업그레이드에서 표시됩니다.
+TowerPropMonkeyVillageBrazilFlagDescription,고오오오오올! 원숭이 마을 깃발로 브라질을 응원해 보세요. 모든 업그레이드에서 표시
 TowerPropMonkeyVillageUSAFlagName,원숭이 마을 미국 국기
 TowerPropMonkeyVillageUSAFlagShortName,마을 미국 국기
-TowerPropMonkeyVillageUSAFlagDescription,USA! USA! 원숭이 마을의 상공에 성조기를 펄럭여보세요. 모든 업그레이드에서 표시됩니다.
+TowerPropMonkeyVillageUSAFlagDescription,USA! USA! 원숭이 마을의 상공에 성조기를 펄럭여보세요. 모든 업그레이드에서 표시
 BloonsAllBloonsPopsPewpewName,빵야빵야 효과
 BloonsAllBloonsPopsPewpewShortName,빵야빵야 효과
 BloonsAllBloonsPopsPewpewDescription,마음의 소리에 귀를 기울여 보세요. 이건 꼭 사야 한다고 할 겁니다! 초희귀 기간 한정 수집가용 품목!
@@ -3681,10 +3681,10 @@ MiniRacesFirstTimeTitle,미니경주!
 MiniRacesFirstTimeDescription,경주를 한 판 마치고 나면 메인 경주 순위표와 미니경주 순위표에 오르게 됩니다. 경주를 마치고 미니 경주에서 다른 플레이어와 경쟁해 더 많은 보상을 타세요!
 SharingCoop,Bloons TD 6에서 같이 협동 모드로 게임해요!
 SharingChallenge,이 Bloons TD 6 도전과제 깨보실래요?
-btd6_racespass,{0} 레이스 패스
-btd6_racepass,레이스 패스 1 개
-OdysseyCrewConfirmed,승무원 확인
-OdysseyCrewModified,승무원 수정
+btd6_racespass,{0}경주 패스
+btd6_racepass,1경주 패스
+OdysseyCrewConfirmed,크루 확인
+OdysseyCrewModified,크루 수정
 Odysseys,오디세이
 InviteReceivedTitle,초대받음
 ChallengeInviteReceivedDescription,다음 코드의 도전과제에 초대되었습니다: {0}
@@ -3699,7 +3699,7 @@ game already opened,게임이 이미 실행 중인가요?
 Psi,사이
 Psi Short Description,초능력자 원숭이
 Psi Description,초능력을 보유한 어린 원숭이 사이가 정신력을 이용해 풍선을 안쪽에서부터 파괴합니다.
-Psi Level 1 Description,사이가 거리와 장애물에 구애받지 않고 아무 풍선이든 한 번에 하나씩 완전히 파괴하는 무시무시한 진동을 발생시킵니다.
+Psi Level 1 Description,사이가 거리와 장애물에 구애받지 않고 아무 풍선이든 한 번에 하나씩 완전히 파괴하는 무시무시한 진동을 발생시킵니다. 캐모 풍선도 공격할 수 있습니다.
 Psi Level 2 Description,공격 속도가 약간 빨라집니다.
 Psi Level 3 Description,초능력 폭발: 사이가 주변의 풍선들을 제법 오래 기절시키는 힘의 파동을 방출합니다.
 Psi Level 4 Description,사이의 공격이 표적에 매우 가까운 풍선을 한 개 더 맞힙니다.
@@ -3812,31 +3812,31 @@ NewerSaveFound,더 최근의 저장 데이터 발견! 다른 기기에서 더 �
 RacePasses,경주 패스 {0}개
 FreeEntries,무료 입장 {0}회
 FreeEntry,무료 입장 1회
-PrivateCoopLobby,개인 협동 로비
+PrivateCoopLobby,비공개 협동 로비
 PublicCoopLobby,협동 로비 [{0}]
 MyOdysseys,내 오디세이
-OdysseySearch,검색 / 오디세이 코드 ...
-Psychic Blast Ability,심령 폭발
-Psychic Blast Ability Description,Psi는 근처의 Bloons를 오랫동안 기절시키는 힘의 물결을 일으 킵니다.
-Psionic Scream Ability,사이 오닉 비명
-Psionic Scream Ability Description,Psi는 Bloons를 완전히 혼란에 빠뜨리는 조용한 비명을냅니다.
-EditorMode,에디터 모드
-ConfirmMaps,확인할지도 : {0}
-ResetOdysseyProgress,그러면 Odyssey 진행 상황이 무효화됩니다. 확실합니까?
+OdysseySearch,오디세이 코드 검색...
+Psychic Blast Ability,초능력 폭발
+Psychic Blast Ability Description,사이가 주변의 풍선들을 제법 오래 기절시키는 힘의 파동을 방출합니다.
+Psionic Scream Ability,초능력 비명
+Psionic Scream Ability Description,사이가 소리 없는 비명을 질러 풍선들의 혼을 빼놓습니다.
+EditorMode,편집기 모드
+ConfirmMaps,확인할 맵: {0}
+ResetOdysseyProgress,오디세이 진행 상황이 무효화됩니다. 그래도 진행하시겠습니까?
 OdysseyName,오디세이 이름
-OdysseyEditor,Odyssey 편집자
-MaxPowers,최대 파워 :
+OdysseyEditor,오디세이 편집기
+MaxPowers,최대 힘:
 MaxMonkeySlots,최대 원숭이 슬롯 :
-MaxPowerSlots,최대 파워 슬롯 :
-MapNumber,지도 {0}
-ExtremeMode,익스트림 모드 :
-Edit,편집하다
-OdysseyInviteReceivedDescription,오디세이 코드를 사용해 보도록 초대 받았습니다 : {0}
-SharingOdyssey,이 Bloons TD 6 오디세이를 이길 수 있습니까?
-EditorPowersIncluded,포함 된 권한
-EditorPowersExcluded,전원 제외
+MaxPowerSlots,최대 힘 슬롯:
+MapNumber,맵 {0}
+ExtremeMode,극한 모드:
+Edit,편집
+OdysseyInviteReceivedDescription,다음 코드의 오디세이에 초대되었습니다: {0}
+SharingOdyssey,이 Bloons TD 6 오디세이 깨보실래요?
+EditorPowersIncluded,힘 포함
+EditorPowersExcluded,힘 제외
 OdysseyDescription,설명:
-SelectDefaultCrew,기본 승무원 선택
+SelectDefaultCrew,기본 크루 선택
 Completed,완료
 BossStart,보스 이벤트 시작
 BloonariusPrime,블루나리우스 프라임
@@ -3856,10 +3856,10 @@ HeroesGwendolinPlacementFireballShortName,그웬돌린 불덩이
 HeroesGwendolinPlacementFireballDescription,멋진 불덩이 효과로 그웬돌린의 등장과 업그레이드를 화끈하게 만들어요! 오리지널 그웬돌린 전용
 TowerPropMonkeyVillageGermanyFlagName,원숭이 마을 독일 깃발
 TowerPropMonkeyVillageGermanyFlagShortName,마을 독일 깃발
-TowerPropMonkeyVillageGermanyFlagDescription,독일 원숭이 마을의 기술이 얼마나 분더바한지는 누구나 다 알지요! 모든 업그레이드에서 표시
+TowerPropMonkeyVillageGermanyFlagDescription,독일 원숭이 마을의 기술이 얼마나 분더바한지는 누구나 다 알지요! 모든 업그레이드에서 표시됩니다.
 TowerPropMonkeyVillageUKFlagName,원숭이 마을 영국 국기
 TowerPropMonkeyVillageUKFlagShortName,마을 영국 국기
-TowerPropMonkeyVillageUKFlagDescription,자랑스러운 영연방 왕국에 속하는 원숭이 마을입니다. 모든 업그레이드에서 자랑스럽게 표시
+TowerPropMonkeyVillageUKFlagDescription,자랑스러운 영연방 왕국에 속하는 원숭이 마을입니다. 모든 업그레이드에서 자랑스럽게 표시됩니다.
 BloonsDDTSkinTronName,네온 DDT
 BloonsDDTSkinTronShortName,네온 DDT
 BloonsDDTSkinTronDescription,"어찌나 날렵하고 치명적인지, 꼭 미래에서 온 DDT 같습니다. 어쩌면 진짜로 그럴지도 모르죠."
@@ -3868,7 +3868,7 @@ BloonsAllBloonsBucketHatShortName,벙거지 풍선
 BloonsAllBloonsBucketHatDescription,요즘 유행이라는 디지털 벙거지 모자를 풍선들에게 씌워줘 패션을 주도해요.
 BloonsAllBloonsPopsWaterbloonName,물풍선 터지는 효과
 BloonsAllBloonsPopsWaterbloonShortName,물풍선 터지는 효과
-BloonsAllBloonsPopsWaterbloonDescription,모든 풍선이 물풍선이 되어 아무리 더워도 시원한 분위기를 낼 수 있게 하는 효과
+BloonsAllBloonsPopsWaterbloonDescription,모든 풍선이 물풍선이 되어 아무리 더워도 시원한 분위기를 냅니다.
 CoopEmoteTextNextRoundScaryName,다음 라운드! 무서워요! 텍스트 감정표현
 CoopEmoteTextNextRoundScaryShortName,다음 라운드! 무서워요!
 CoopEmoteTextNextRoundScaryDescription,협동 팀원들에게 다음 라운드에 대해 경고해요! 특히 할로윈 시기에 유용합니다.
@@ -3878,12 +3878,12 @@ CoopEmoteAnimationFistpumpShortName,주먹 얍
 CoopEmoteAnimationFistpumpDescription,승리의 세리머니!
 GameUIProfileAvatar44Name,커스텀 아바타 - SAS 원숭이
 GameUIProfileAvatar44ShortName,SAS 원숭이 아바타
-GameUIProfileAvatar44Description,Deacon 님의 아바타 공모전 당선작
+GameUIProfileAvatar44Description,LV-223_Deacon 님의 아바타 공모전 당선작
 GameUIProfileAvatar45Name,커스텀 아바타 - 설계도
 GameUIProfileAvatar45ShortName,설계도 아바타
 GameUIProfileAvatar45Description,dungeon-raided 님의 아바타 공모전 당선작
-GameUIProfileAvatar46Name,커스텀 아바타 - 이질리
-GameUIProfileAvatar46ShortName,이질리 아바타
+GameUIProfileAvatar46Name,커스텀 아바타 - 마스크 이질리
+GameUIProfileAvatar46ShortName,마스크 이질리 아바타
 GameUIProfileAvatar46Description,부스스한 머리의 이질리라고도 불립니다
 GameUIProfileAvatar47Name,커스텀 아바타 - 스파이크구
 GameUIProfileAvatar47ShortName,스파이크구 아바타
@@ -3893,10 +3893,10 @@ GameUIProfileBanner1ShortName,비행 배너
 GameUIProfileBanner1Description,"다른 플레이어 주위에서 곡예를 부리는, 에이스를 모티브로 한 커스텀 프로필 배너"
 GameUIProfileBanner2Name,늑대 정령 프로필 배너
 GameUIProfileBanner2ShortName,늑대 정령 배너
-GameUIProfileBanner2Description,오빈 울프 커스텀 프로필 배너로 정령들을 깨워요
+GameUIProfileBanner2Description,오빈 울프 커스텀 프로필 배너로 정령들을 깨워요.
 GameUIProfileBanner3Name,행군 프로필 배너
 GameUIProfileBanner3ShortName,행군 배너
-GameUIProfileBanner3Description,BFB를 선두로 하는 풍선 폭풍 커스텀 배너로 지금껏 이룩한 승리를 자랑해요
+GameUIProfileBanner3Description,BFB를 선두로 하는 풍선 폭풍 커스텀 배너로 지금껏 이룩한 승리를 자랑해요.
 GameUIProfileBanner4Name,다트 폭풍 프로필 배너
 GameUIProfileBanner4ShortName,다트 폭풍 배너
 GameUIProfileBanner4Description,흔한 다트도 아주 멋지게 만들어주는 어두운 배경의 세련된 커스텀 프로필 배너
@@ -3931,7 +3931,7 @@ EngineerMonkeys,엔지니어 원숭이
 SpikeFactorys,스파이크 공장
 MonkeyVillages,원숭이 마을
 BossInfoPanelTitle,보스 풍선 이벤트
-BossInfoPanelDescription,"보스의 영역에 어서 오세요, 모험가님. 행운을 빌며, 중요 규칙을 아래와 같이 소개합니다.\n• 보스 이벤트는 플레이 버튼을 누르자마자 시작되며, 한 라운드가 끝나면 바로 다음 라운드로 넘어갑니다.\n• 보스 모드마다 보스의 5티어를 모두 터트려야 승리합니다.\n• 자금과 자원을 모으고 능력을 준비하며 티어 사이의 시간을 최대한 활용하세요!\n• 티어를 깰 때마다 트로피와 여러 보상을 획득합니다.\n• 일반 모드를 깨면 엘리트 모드가 열립니다."
+BossInfoPanelDescription,"보스의 영역에 진입하신 용감한 모험가님을 환영합니다! 행운을 빌며, 중요 규칙을 아래와 같이 소개합니다.\n• 보스 이벤트는 플레이 버튼을 누르자마자 시작되며, 한 라운드가 끝나면 바로 다음 라운드로 넘어가고, 보스는 느리게 만들 수 없습니다.\n• 일반 난이도를 깨야 엘리트 난이도가 열리며, 보스 모드마다 보스의 5티어를 모두 터트려야 승리합니다.\n• 자금과 자원을 모으고 능력을 준비하며 티어 사이의 시간을 최대한 활용하세요!!\n• 티어를 깰 때마다 트로피와 여러 보상을 획득하며, 20라운드 내에 티어를 깨지 못하면 패배합니다.\n• 랭커 모드에서 누가 가장 빨리 보스를 처치하고 멋진 상품을 차지하는지를 놓고 다른 플레이어들과 경쟁하세요!\n• 싱글 플레이어나 협동 모드에서 낸 가장 높은 성적에 따라 보상을 타게 됩니다.\n• 일반 모드와 엘리트 모드의 순위표와 상품이 각각 따로 있으니 둘 다 노려보세요!"
 BloonariusInfoPanelDescription,"진창 속에 사는 블루나리우스는 피해를 입을 때마다 풍선을 뱉어내고, 체력 게이지가 해골에 도달할 때마다 어마어마한 풍선 다발을 토해냅니다.\n\n블루나리우스의 겉껍질은 진흙이 섞여서 움직임은 느리지만 매우 질기답니다."
 NextBossIn,보스 등장까지: {0}
 ARound,1라운드
@@ -3959,8 +3959,8 @@ PlayerStatsHighestRoundCHIMPS,CHIMPS 최고 라운드
 PlayerStatsHighestRoundDeflation,수축 최고 라운드
 Rejoin Coop,협동 게임 다시 입장
 WaitingEndRound,현재 라운드가 끝나기를 기다리는 중입니다
-SoftwareCursor,소프트웨어 커서
-LargeCursor,커다란 커서
+SoftwareCursor,커다란 커서
+LargeCursor,매우 큰 커서
 Cursor,커서
 SandboxCursor,샌드박스/커서
 Achievement 128 Name,이건 또 무슨 풍선이지?
@@ -4014,3 +4014,107 @@ Retry From Checkpoint,체크포인트부터 재시도
 RetryCheckpointText,{0}라운드의 마지막 체크포인트에서 재시도하시겠습니까?
 Retry From Round,{0}라운드 재시도
 EliteBossLockedPopup,일반 난이도에서 보스를 깨면 엘리트 난이도가 열립니다.
+Custom Odyssey,커스텀 오디세이
+Creating Odyssey,오디세이 제작
+Creating Challenge,도전 제작
+TheCabin,오두막집
+VikingSaudaSaudaSkinName,바이킹 사우다 스킨
+VikingSaudaSaudaSkinDescription,도끼를 들어라!
+HeroesChurchillSentaiSkinPetDroneName,전대 처칠 드론 펫
+HeroesChurchillSentaiSkinPetDroneShortName,전대 처칠 드론
+HeroesChurchillSentaiSkinPetDroneDescription,슈퍼 특급 스카우트 감시드론 Y26G는 아주 멋진 모습으로 겁나게 빠르게 위협을 감지하고 산출합니다. 드론계의 지존이라고 할 수 있지요. 전대 처칠 전용
+TowerPetGlueGunnerRatName,글루 사수 쥐 펫
+TowerPetGlueGunnerRatShortName,글루 사수 쥐 펫
+TowerPetGlueGunnerRatDescription,"언제나, 특히 실험실에서는 반드시, 글루 사수의 곁에 꼭 붙어 있습니다. 글루 사수의 여러 과학적인 능력의 비결이 무엇인지 궁금하신가요? 이 쥐가 그 주인공일지도 모릅니다."
+TowerEffectAllMonkeysPlacementUpgradesBatsName,박쥐 배치 및 업그레이드 효과
+TowerEffectAllMonkeysPlacementUpgradesBatsShortName,박쥐 업그레이드 효과
+TowerEffectAllMonkeysPlacementUpgradesBatsDescription,특정 맵에서 타워를 배치하거나 업그레이드할 때마다 으스스하고 무시무시한 멋이 있는 박쥐 애니메이션으로 풍선들을 깜짝 놀라게 해주세요.
+TowerPetMonkeyBuccaneerNarwhalName,해적 원숭이 일각고래 펫
+TowerPetMonkeyBuccaneerNarwhalShortName,해적 일각고래 펫
+TowerPetMonkeyBuccaneerNarwhalDescription,해적 원숭이를 배치할 때마다 신비로운 일각고래를 볼 수 있어요! 해적 원숭이 외에 또 누가 망망대해를 제패하며 거기 사는 전설적인 동물과 친해질 수 있을까요?
+TowerProjectileEngineerVampireHunterName,뱀파이어 헌터 엔지니어 발사무기
+TowerProjectileEngineerVampireHunterShortName,뱀파이어 헌터 엔지니어
+TowerProjectileEngineerVampireHunterDescription,"풍선이 사실은 정체를 숨긴 뱀파이어일 가능성에 대비해 엔지니어가 말뚝, 마늘, 관짝 등 뱀파이어풍선을 터트리는 여러 발사무기를 장착하게 됩니다. 기간 한정 수집가용 품목!"
+TowerPropMonkeyVillageCanadianFlagName,원숭이 마을 캐나다 국기
+TowerPropMonkeyVillageCanadianFlagShortName,마을 캐나다 국기
+TowerPropMonkeyVillageCanadianFlagDescription,드디어! 모든 원숭이 마을에서 이 캐나다 국기를 휘날릴 수 있게 되었습니다. 모든 업그레이드에서 표시됩니다.
+BloonsZOMGSkinJackOLanternName,잭오랜턴 ZOMG
+BloonsZOMGSkinJackOLanternShortName,잭오랜턴 ZOMG
+BloonsZOMGSkinJackOLanternDescription,매년 열리는 ZOMG 호박등 만들기 대회에서 사우다가 출품해 우승한 작품입니다! 기간 한정 수집가용 품목!
+BloonsAllBloonsVampireCapesName,뱀파이어 망토 풍선
+BloonsAllBloonsVampireCapesShortName,뱀파이어 망토 풍선
+BloonsAllBloonsVampireCapesDescription,이번 할로윈에 풍선들을 으스스한 괴물처럼 꾸며주세요! 기간 한정 수집가용 품목!
+CoopEmoteAnimationPanicMonkeyName,패닉 원숭이 감정표현
+CoopEmoteAnimationPanicMonkeyShortName,패닉 원숭이
+CoopEmoteAnimationPanicMonkeyDescription,"협동 모드 방장입니다. 다들 진정하십시오. 자, 이제 충격과 공포를 마음껏 분출하세요!"
+CoopEmoteAnimationBeggingMonkeyName,부탁이야 원숭이 감정표현
+CoopEmoteAnimationBeggingMonkeyShortName,부탁이야 원숭이
+CoopEmoteAnimationBeggingMonkeyDescription,"부탁이야, 1만만 더 있으면 업그레이드할 수 있다고! 내가 플레이어 3인 건 그저 우연일 뿐이라고!"
+GameUIPowerSkinThriveStonksName,커스텀 힘 - 깜찍한 우량주
+GameUIPowerSkinThriveStonksShortName,깜찍한 우량주
+GameUIPowerSkinThriveStonksDescription,벤이 바나나코인에 전 재산을 올인하라고 합니다. 달로 가즈아!
+GameUIProfileAvatar48Name,커스텀 아바타 - 하키 마스크 원숭이
+GameUIProfileAvatar48ShortName,하키 마스크 원숭이
+GameUIProfileAvatar48Description,하키 마스크 원숭이를 조심해요! 기간 한정 수집가용 품목!
+GameUIProfileAvatar49Name,커스텀 아바타 - 납 제플린
+GameUIProfileAvatar49ShortName,납 비행선 아바타
+GameUIProfileAvatar49Description,waywardzuck 님의 아바타 공모전 당선작
+GameUIProfileAvatar50Name,커스텀 아바타 - 벤이 최고
+GameUIProfileAvatar50ShortName,벤이 최고 아바타
+GameUIProfileAvatar50Description,IT계의 해결사는 누구지요? 바로 이 친구죠! 끝내주는 비트를 연주하는 건 누구고요? 바로 이 친구죠! 다음 모임에서 맛있는 초밥을 대령하는 건 누굴까요? 그야 물론 이 친구죠.
+GameUIProfileAvatar51Name,커스텀 아바타 - 액션 사이
+GameUIProfileAvatar51ShortName,액션 사이 아바타
+GameUIProfileAvatar51Description,아무리 항상 우주와 하나된 상태라고 해도 사이도 놀 땐 놀 줄 안다고요! 멋진 사이 아바타로 뽐내세요.
+GameUIProfileBanner6Name,태양의 사원 프로필 배너
+GameUIProfileBanner6ShortName,태양의 사원 배너
+GameUIProfileBanner6Description,이 웅장한 커스텀 프로필 배너로 제대로 작동하는 태양의 사원의 진정한 힘을 보여주세요.
+GameUIProfileBanner7Name,유령과 사탕 프로필 배너
+GameUIProfileBanner7ShortName,유령과 사탕 배너
+GameUIProfileBanner7Description,트릭 오어 트릿! 완벽한 할로윈 커스텀 프로필 배너
+LychTagLine,무덤군주
+LychTagLine2,의 부활!
+Lych,리치
+LychInfoPanelDescription,• 무덤군주 리치는 원숭이의 버프를 흡수해 자신의 체력을 회복합니다.\n• 체력 게이지가 해골에 닿을 때마다 리치는 영체가 되어 최근에 터트린 MOAB급 풍선의 빈 껍질을 부활시킵니다.\n• 영체 상태의 리치는 체력을 흡수하는 리치영혼 풍선을 포함해 모든 부활한 풍선이 터지기 전에는 피해를 입지 않습니다.\n• 부활한 MOAB급 풍선은 파괴 시 풍선을 남기지 않습니다.
+EditorReviewMap,맵 리뷰
+YourBestTime,최단 기록
+Boss,보스
+MiniBoss,미니 보스
+NormalRewards,일반 보상
+EliteRewards,엘리트 보상
+1Player,1인
+2Player,2인
+3Player,3인
+4Player,4인
+BossLeaderboard,보스 순위표
+LeaderboardSubmissionFail,순위표에 결과를 전송할 수 없습니다
+SafeNameChallenge,{0}의 도전
+SafeNameOdyssey,{0}의 오디세이
+BossEventEnded,보스 이벤트가 끝났습니다!
+RankedNormal,일반 랭커 모드
+RankedElite,엘리트 랭커 모드
+StartRankedBoss,랭커 보스 시작
+MusicHaunted,유령의 집
+GameUIMusicTrackMusicHauntedName,주크박스: 유령의 집
+GameUIMusicTrackMusicHauntedShortName,주크박스: 유령의 집
+GameUIMusicTrackMusicHauntedDescription,할로윈이나 늦은 밤에 플레이할 때 딱 어울리는 으스스한 비트와 오싹한 리듬의 트랙입니다. 기간 한정 수집가용 품목!
+NSCameraUsageDescription,고객지원 티켓용 스크린샷
+btd6_needmoremonkeymoneyprompt_no_iap,멍키 머니 부족!
+UseRacePassDescription,이 경주에 무한히 참가할 수 있는 경주 패스를 사용하시겠습니까?
+RacePassActivated,경주 패스 적용
+UseRacePassTitle,경주 패스를 사용합니까?
+Elite Best Time,엘리트 최단 기록
+Normal Best Time,일반 최단 기록
+NormalCursor,일반 커서
+MayAffectPerformance,*성능에 영향이 있을 수 있음
+GameUIMusicTrackMusicOnslaughtName,맹공격
+GameUIMusicTrackMusicOnslaughtShortName,맹공격
+GameUIMusicTrackMusicOnslaughtDescription,맹공격 보스 트랙
+SharingCoopBoss,Bloons TD 6에서 같이 보스전에 도전해요!
+EliteBossEvent,엘리트 보스 이벤트
+NinjaMonkey Paragon,천상의 그림자
+NinjaMonkey Paragon Description,어떤 풍선의 위협이 와도 해결할 수 있는 종합 암살 패키지.
+Elite,엘리트
+HackGameStopMessage,게임 데이터 동기화에 실패했습니다. 안타깝게도 이 게임은 계속할 수 없습니다. 새 게임을 시작해보세요.
+RankedMode,랭커 모드
+Any,모두
+ScoreNotVerifiable,귀하의 점수는 확인할 수 없어 제출되지 않았습니다.

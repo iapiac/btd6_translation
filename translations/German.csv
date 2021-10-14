@@ -1,4 +1,4 @@
-//Input. Needs to be first e.g [I] replaced by click or tap,
+﻿//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Klicken
 Tap,Tippen
 ,
@@ -107,13 +107,13 @@ Quincy Level 20 Description,Quincy greift noch schneller an. Pfeilsturm teilt no
 StrikerJones Level 1 Description,"Striker Jones feuert eine starke Bazooka ab, die die Bloons explodieren lässt."
 StrikerJones Level 2 Description,Vergrößerter Explosionsradius.
 StrikerJones Level 3 Description,Erschütterungsgranate: Verschießt eine gelenkte Granate auf den größten Bloon auf dem Bildschirm und betäubt ihn.
-StrikerJones Level 4 Description,Alle bombenfeuernden und Mörseraffen auf dem Bildschirm feuern 10 % schneller.
+StrikerJones Level 4 Description,Alle Bombenwerfer und Mörseraffen auf dem Bildschirm feuern 10 % schneller.
 StrikerJones Level 5 Description,Macht alle Schwarzen Bloons weniger widerstandsfähig gegenüber Explosivschaden von allen Affen.
 StrikerJones Level 6 Description,Explosionsradius und Platzenlassen sind für Jones‘ normale Angriffe enorm erhöht.
 StrikerJones Level 7 Description,Lässt zwei Schichten pro Schuss platzen und der Explosionsradius der Mörseraffen wird zum 10 % erhöht.
 StrikerJones Level 8 Description,Bombenwerfer in der Nähe des Helden erhalten +5 % Reichweite und +25 % Durchschlagskraft.
 StrikerJones Level 9 Description,"Erhöhte Angriffsgeschwindigkeit und Durchschlagskraft der Erschütterungsgranate, erhöhter Schaden und erhöhtes Betäuben."
-StrikerJones Level 10 Description,Artilleriekommando: Setzt Abkühlung bei allen bombenfeuerndenund Mörseraffen zurück.
+StrikerJones Level 10 Description,Artilleriekommando: Setzt Abkühlung bei allen Bombenwerfern und Mörseraffen zurück.
 StrikerJones Level 11 Description,Erhöhte Angriffsgeschwindigkeit.
 StrikerJones Level 12 Description,Erhöht leicht die Angriffsreichweite und lässt eine Extraschicht platzen.
 StrikerJones Level 13 Description,Erhöhte Angriffsgeschwindigkeit.
@@ -121,9 +121,9 @@ StrikerJones Level 14 Description,Die Erschütterungsgranate trifft einen größ
 StrikerJones Level 15 Description,Die Abkühlphase der Erschütterungsgranate ist auf 11 Sekunden verringert.
 StrikerJones Level 16 Description,Erhöhte Angriffsgeschwindigkeit.
 StrikerJones Level 17 Description,Erhöhte Reichweite und Platzenlassen von 4 Schichten pro Wurf.
-StrikerJones Level 18 Description,Alle bombenfeuernden und Mörseraffen auf dem Bildschirm greifen zusätzliche 10 % schneller an.
+StrikerJones Level 18 Description,Alle Bombenwerfer und Mörseraffen auf dem Bildschirm greifen zusätzliche 10 % schneller an.
 StrikerJones Level 19 Description,Erhöhte Angriffsgeschwindigkeit und macht alle schwarzen Bloons verwundbar durch Explosivschaden.
-StrikerJones Level 20 Description,Artilleriekommando verleiht außerdem allen bombenfeuernden und Mörseraffen 10 Sekunden lang Doppelschaden und Doppelplatzen pro Schuss.
+StrikerJones Level 20 Description,Artilleriekommando verleiht außerdem allen Bombenwerfern und Mörseraffen 10 Sekunden lang Doppelschaden und Doppelplatzen pro Schuss.
 ,
 CaptainChurchill Level 1 Description,Von einem Panzer abgeschossene panzerbrechende Bomben können bis zu 3 Mal explodieren.
 CaptainChurchill Level 2 Description,Erhöhte Kraft zum Platzenlassen pro Wurf.
@@ -173,7 +173,7 @@ Benjamin Level 3 Description,Biohack: die vier nächsten Affen lassen 6 Sekunden
 Benjamin Level 4 Description,Skimming – bringt +1 $  für jeden neu erschienenen Bloon.
 Benjamin Level 5 Description,Bank-Hack – alle Banken bringen +5 % Einnahmen.
 Benjamin Level 6 Description,Cyber-Security – stellt zum Ende einer jeden Runde 5 Leben wieder her.
-Benjamin Level 7 Description,"Bloon-Trojaner – sendet alle paar Sekunden einen Trojaner an einen zufälligen Bloon. Der betroffene Bloon bekommt keine Ableger, wenn er zerstört wird und erzeugt 2x Geld."
+Benjamin Level 7 Description,"Bloon-Trojaner – sendet alle paar Sekunden einen Trojaner an einen zufälligen Bloon. Der betroffene Bloon bekommt keine Ableger, wenn er zerstört wird und erzeugt 1x Geld für jede Schicht."
 Benjamin Level 8 Description,Einkommen pro Runde auf $250 erhöht.
 Benjamin Level 9 Description,Der Bank-Hack ist auf 12 % erhöht.
 Benjamin Level 10 Description,Siphon-Funding: Degradiert alle neue gespawnten Bloons um einen Rang. Doppeltes Geld mit jedem Bloon der platzt. Hält 10 Sekunden lang an.
@@ -248,7 +248,7 @@ Ezili Level 15 Description,Erhöhte Reichweite.
 Ezili Level 16 Description,Das Opfertotem dauert länger und seine Verwendung kostet nur 1 Leben.
 Ezili Level 17 Description,Der Basisangriff hat einen größeren Wirkradius und erhöhte Durchschlagskraft.
 Ezili Level 18 Description,Erhöhte Angriffsgeschwindigkeit.
-Ezili Level 19 Description,Jeder Schaden abgesehen vom Basisschaden lässt 2 Schichten platzen!
+Ezili Level 19 Description,Jeder Schaden abgesehen vom Basisschaden lässt 3 Schichten platzen!
 Ezili Level 20 Description,MOAB-Zauber wirkt schneller und kann BAD-Bloons zerstören.
 ,
 //Hero Ability Names,
@@ -357,7 +357,7 @@ The Tack Zone,Die Reißnagelzone
 Permafrost,Dauerfrost
 Enhanced Freeze,Verbesserte Gefrierfunktion
 Larger Radius,Größerer Radius
-Metal Freeze,Metallgefrieren
+Metal Freeze,Kältewelle
 Deep Freeze,Tiefgefrieren
 Re-Freeze,Regefrieren
 Ice Shards,Eisbrocken
@@ -383,7 +383,7 @@ Bloon Liquefier,Bloon-Verdünner
 Glue Strike,Klebstoffsturm
 Relentless Glue,Schonungsloser Kleber
 The Bloon Solver,Der Bloonlöser
-Glue Storm,Klebersturm
+Glue Storm,Klebstoffsturm
 Super Glue,Superklebstoff
 ,
 Full Metal Jacket,Vollmantel-Geschoss
@@ -588,7 +588,7 @@ Banana Salvage,Bananenrettung
 Banana Plantation,Bananenplantage
 Monkey Bank,Affenbank
 Marketplace,Marktplatz
-Banana Research Facility,Bananenforschungszentrum
+Banana Research Facility,Bananen-Forschungszentrum
 IMF loan,IAF-Kredit
 Central Market,Zentralmarkt
 Banana Central,Bananenzentrale
@@ -607,7 +607,7 @@ Double Gun,Doppelwaffe
 Sentry Expert,Wachenexperte
 Overclock,Übertakten
 Bloon Trap,Bloon-Falle
-Sentry Paragon,Wachenvorbild
+Sentry Paragon,Wachposten-Champion
 Ultraboost,Ultraboost
 XXXL Trap,XXXL-Falle
 ,
@@ -755,13 +755,13 @@ The Tack Zone Description,"Viele, viele Reißnägel."
 Permafrost Description,Bloons bewegen sich auch nach dem Auftauen noch langsam.
 Enhanced Freeze Description,Angriffe sind schneller und frieren länger ein.
 Larger Radius Description,Größerer Einfrierbereich.
-Metal Freeze Description,Kann Blei-Bloons einfrieren und platzen lassen.
+Metal Freeze Description,Kann Blei- und Tarn-Bloons einfrieren und platzen lassen.
 Deep Freeze Description,Friert durch 2 Bloonschichten hindurch.
 Re-Freeze Description,"Kann Bloons nochmals einfrieren, die schon gefroren sind."
 Ice Shards Description,"Messerscharfe Scherben fliegen durch die Gegend, wenn Eis-Bloons platzen."
 Arctic Wind Description,"Erhöht massiv die Durchschlagskraft und erhält eine superkalte Aura, die Bloons verlangsamt und Wasser in der Nähe gefrieren lässt."
 Cryo Cannon Description,Verschießt Gefrierbomben auf Bombe mit großer Reichweite.
-Embrittlement Description,"Erkennt Tarn-Bloons und alle getroffenen Bloons werden brüchig, erleiden für kurze Zeit Extraschaden und verlieren dauerhaft Tarn- und Runderneuerungseigenschaften."
+Embrittlement Description,"Erkennt Tarn-Bloons und alle getroffenen Bloons, einschließlich MOAB-Bloons, werden brüchig, erleiden für kurze Zeit Extraschaden und verlieren dauerhaft Tarn- und Runderneuerungseigenschaften."
 Snowstorm Description,"Schneesturm-Fähigkeit: Friert alle normalen Bloons auf dem Bildschirm ein, friert für kurze Zeit Weiße, Zebra- und Tarn-Bloons ein und verlangsamt MOAB-Bloons."
 Icicles Description,"Eis-Bloons wachsen scharfe Eiszapfen, die Bloons platzen lassen, welche sie berühren."
 Super Brittle Description,"Bloons (inklusive Bloons der MOAB-Klasse) erleiden großen Schaden, während sie gefroren sind."
@@ -778,10 +778,10 @@ Bloon Dissolver Description,Extremlösemittel verschmelzen zwei Schichten pro Se
 Glue Hose Description,Schießt den Klebstoff 3-mal so schnell!
 MOAB Glue Description,"Verbesserte Klebstoffformel, die es ermöglicht, sich an Bloons der MOAB-Klasse anzuheften."
 Bloon Liquefier Description,"Kann einen zusätzlichen Bloon pro Schuss verkleben und wendet Verflüssigungskomponenten an, die 10 pro Sekunde platzen lassen."
-Glue Strike Description,"Klebstoffsturm-Fähigkeit: Verklebt alle Bloons auf dem Bildschirm, die dadurch während der Wirkungsdauer mehr Schaden durch alle Quellen erleiden."
+Glue Strike Description,"Klebstoffangriff-Fähigkeit: Verklebt alle Bloons auf dem Bildschirm, die dadurch während der Wirkungsdauer mehr Schaden durch alle Quellen erleiden."
 Relentless Glue Description,"Geplatzte Bloons, die verklebt wurden, hinterlassen einen Tropfen Klebstoff auf der Strecke."
 The Bloon Solver Description,Bloonprobleme? Wir haben die Lösung.
-Glue Storm Description,"Die Klebersturm-Fähigkeit bewirft den ganzen Bildschirm 15 Sekunden lang mit Klebstoff. Verklebte Bloons erleiden Extraschaden, während sie verklebt sind."
+Glue Storm Description,"Die Klebstoffsturm-Fähigkeit bewirft den ganzen Bildschirm 15 Sekunden lang mit Klebstoff. Verklebte Bloons erleiden Extraschaden, während sie verklebt sind."
 Super Glue Description,"Der Klebstoff ist so stark, dass er vorübergehend alle betroffenen Bloons bewegungsunfähig macht!"
 ,
 Full Metal Jacket Description,Schüsse können 4 Bloonschichten durchdringen. Sowohl Kugeln als auch Schrapnell können Eis- und Blei-Bloons platzen lassen.
@@ -795,7 +795,7 @@ Bouncing Bullet Description,Schüsse prallen bis zu 3-mal auf neue Ziele ab.
 Semi-Automatic Description,Greift 3-mal so schnell an!
 Maim MOAB Description,Fügt viel mehr Schaden zu und macht Bloons der MOAB-Klasse für kurze Zeit bewegungsunfähig.
 Supply Drop Description,Versorgungs-Fähigkeit: Wirft eine Kiste voller Geld ab. Normaler Angriff schädigt auch Blei-Bloons und erhöht die Schrapnell-Kraft zum Platzenlassen
-Full Auto Rifle Description,"Vollautomatische Waffe mit unglaublicher Platzkraft, einschließlich Schaden an Blei-Bloons."
+Full Auto Rifle Description,Vollautomatische Waffe mit unglaublicher Platzkraft.
 Cripple MOAB Description,Angeschlagene MOABs sind länger bewegungsunfähig und erleiden Extraschaden durch alle anderen Angriffe.
 Elite Sniper Description,Nachschub-Abwurf bringt viel mehr Geld. Ergibt Elite-Zielprio und schnelleres Nachladen für alle Scharfschützen.
 Elite Defender Description,Ein verlorenes Leben verleiht diesem Scharfschützen beim Gegenschlag für kurze Zeit 4-fache Angriffsgeschwindigkeit.
@@ -827,13 +827,13 @@ Buccaneer-Cannon Ship Description,"Fügt eine mächtige Kanone hinzu, die starke
 Buccaneer-Merchantman Description,Generiert automatisch jede Runde Geld.
 Buccaneer-Aircraft Carrier Description,"Startet Wellen von Kampfflugzeugen, die ihre Ziele bombardieren und Raketen auf Bloons der MOAB-Klasse feuern."
 Buccaneer-Monkey Pirates Description,Fügt dem Schiff 2 Kanonen hinzu und Kanonenangriffe richten mehr Schaden an. MOAB-Abschuss-Fähigkeit: Harpuniert einen Bloons der MOAB-Klasse und schießt ihn ab.
-Buccaneer-Favored Trades Description,Greift schneller an und erzeugt viel mehr Geld pro Runde. Affen in Reichweite haben einen erhöhten Verkaufswert und können bis zu 3 Lieblingshandel mit einem maximalen Verkaufswert von 95 % anhäufen.
+Buccaneer-Favored Trades Description,Greift schneller an und erzeugt viel mehr Geld pro Runde. Affen in Reichweite haben einen erhöhten Verkaufswert.
 Buccaneer-Carrier Flagship Description,Verursacht Extraschaden. Kann andere Affen auf dem Oberdeck des Schiffs platzieren und erhöht die Angriffsgeschwindigkeit aller wasserbasierten Affen und Affenfliegerasse.
 Buccaneer-Pirate Lord Description,"Stark erhöhte Angriffsgeschwindigkeit für alle Angriffsarten und kann 3 Enterhaken gleichzeitig verschießen und Extrageld von jedem Bloon der MOAB-Klasse plündern, den er damit heruntergeholt hat."
 Buccaneer-Trade Empire Description,Erzeugt mehr Geld pro Runde. Erhöht verdientes Geld um bis zu 20 andere Händler nach der Anzahl der Händler und erhöht den Schaden aller Händler.
 ,
 Rapid Fire Description,Schießt schneller als normal.
-Exploding Pineapple Description,"Wirft Ananas auf den Boden, die nach einigen Sekunden gewaltig explodieren."
+Exploding Pineapple Description,"Wirft Ananas auf den Boden, die nach einigen Sekunden gewaltig explodieren. Die explosiven Angriffe des Affenasses sind verbessert."
 Sharper Darts Description,Pfeile können jeweils 8 Bloons platzen lassen.
 Lots More Darts Description,Verschießt gleichzeitig 12 Pfeile.
 Spy Plane Description,"Ermöglicht es dem Affenfliegerass, Tarn-Bloons zu treffen."
@@ -898,7 +898,7 @@ M.A.D Description,Moab Assured Destroyer. Langsam fliegende Mega-Raketen verursa
 Bloon Exclusion Zone Description,Verbesserung auf 6 Läufe und massiv erhöhter Schaden. Den Bloons wird die Existenz geraubt.
 ,
 Guided Magic Description,Zauberschüsse finden die Bloons sogar hinter einer Deckung.
-Fireball Description,Wirkt alle paar Sekunden einen explosiven Feuerballzauber.
+Fireball Description,Beschwört alle paar Sekunden einen explosiven Feuerballzauber herauf.
 Intense Magic Description,Mächtigere Zauberschüsse bewegen sich schneller und können mehr Bloons platzen lassen.
 Arcane Blast Description,Größere und stärkere magische Explosionen lassen 2 Schichten Bloons platzen.
 Wall of Fire Description,"Erzeugt eine superheiße Feuerwand über der Strecke, die darüber schwebende Bloons röstet."
@@ -961,28 +961,28 @@ Permanent Brew Description,"Das Berserker-Gebräu wirkt DAUERHAFT bei Affen, die
 Total Transformation Description,Verwandelt fünf Affen in der Nähe 20 Sekunden lang in verrückte Angriffsmonster.
 Bloon Master Alchemist Description,Ein geheimer Schrumpftrank verwandelt alle betroffenen Bloons in Rote Bloons.
 ,
-Hard Thorns Description,Hartdornen kann jeweils 2 Bloons und dabei sogar Eis-Bloons platzen lassen.
-Thorn Swarm Description,Schießt 8 Dornen je Schuss statt 5.
+Hard Thorns Description,Hartdornen können jeweils 2 Bloons und dabei sogar alle Bloon-Arten platzen lassen.
+Thorn Swarm Description,Schießt 8 Dornen pro Schuss statt 5.
 Druidic Reach Description,Erhöht die Reichweite sehr deutlich.
 Heart of Thunder Description,"Setzt regulär Gabelblitze ein, die einen Bogen von Bloon zu Bloon bilden."
 Heart of Oak Description,Angriffe verwandeln runderneuerte Bloons zu normalen Bloons.
 Heart of Vengeance Description,"Erhöht die Angriffsgeschwindigkeit um 10 % und 1 % für jedes verlorene Leben vom Startwert nach dem Upgrade. Maximal bis 100 % und verringert sich, wenn Leben wiederhergestellt werden. "
 Druid of the Storm Description,Windböen pusten die Bloons von der Strecke und vom Ausgang weg.
-Druid of the Jungle Description,"Ruft eine Schlingpflanze aus dem Boden, die einen Bloon nach dem anderen fesselt und vernichtet."
+Druid of the Jungle Description,"Ruft eine Schlingpflanze aus dem Boden, die einen Bloon nach dem anderen fesselt und vernichtet und einen tödlichen Dornenhaufen hinterlässt."
 Druid of Wrath Description,"Gewinnt an Angriffsgeschwindigkeit während der Runde, solange der Druide Bloons angreift."
 Ball Lightning Description,"Erzeugt mächtige Blitzkugeln, die weitere Blitzschläge aussenden.  "
-Jungle's Bounty Description,"Dschungelbeute-Fähigkeit: Erzeugt bei jedem Einsatz Geld, plus Extrageld pro Bananenfarm in der Nähe des Druiden"
+Jungle's Bounty Description,"Dschungelbeute-Fähigkeit: Erzeugt bei jedem Einsatz Geld, plus Extrageld pro Bananenfarm in der Nähe des Druiden. Kann auch zwei Bloons gleichzeitig mit Schlingpflanzen packen."
 Poplust Description,Verbessert Angriffsgeschwindigkeit und Durchschlagskraft für andere Druiden im Umkreis. Kann bis zu 5-mal auf einem einzelnen Druiden angehäuft werden.
 Superstorm Description,Supersturm fügt allen Bloon-Arten schweren Schaden zu und bläst sie vom Ausgang weg.
 Spirit of the Forest Description,"Lässt Dornenranken am Weg entlang wachsen, die konstanten Schaden verursachen sowie zusätzlichen Schaden an Keramiken. Ranken in der Nähe des Waldgeistes fügen mehr Schaden zu. Wenn die Fähigkeit aktiviert ist, werden Leben und mehr Geld generiert."
-Avatar of Wrath Description,"Je mehr Bloons dort sind, desto größer der angerichtete Schaden!"
+Avatar of Wrath Description,"Je mehr Bloons es gibt, desto größer der angerichtete Schaden!"
 ,
 Increased Production Description,Lässt 2 zusätzliche Bananenstauden pro Runde wachsen.
 Long Life Bananas Description,Bananen halten 30 statt gewöhnlich 15 Sekunden.
-EZ Collect Description,"Der Sammelradius von Bananen ist größer. Für Affenbanken: leuchtet, wenn Bank voll ist und zum Einsammeln bereit ist."
+EZ Collect Description,"Der Sammelradius von Bananen ist größer und ungesammelte Bananen werden automatisch zum halben Wert gesammelt. Affenbanken leuchten, wenn die Bank voll ist und zum Einsammeln bereit ist."
 Greater Production Description,Lässt 2 WEITERE zusätzliche Bananenstauden pro Runde wachsen.
 Valuable Bananas Description,Bananen sind 25 % mehr Geld pro Staude wert.  
-Banana Salvage Description,Nicht eingesammelte Bananen werden für die Hälfte der Summe automatisch eingesammelt.
+Banana Salvage Description,"Nicht eingesammelte Bananen werden für fast ihren gesamten Wert automatisch eingesammelt und die Banken werden automatisch eingesammelt, wenn sie voll sind. Die Rückkaufsrate für Farmen ist um 10 % erhöht."
 Banana Plantation Description,Lässt 16 Bananenstauden pro Runde wachsen.
 Monkey Bank Description,Sämtliches von dieser Farm generierte Geld wird jetzt in der Bank gelagert und in jeder Runde mit 15 % verzinst.
 Marketplace Description,Generiert jede Runde Geld und fügt es deiner Gesamtsumme hinzu. Kein Witz.
@@ -991,7 +991,7 @@ IMF loan Description,"IAF-Kredit-Fähigkeit: Bringt dir 10.000 $, die du jedoch 
 Central Market Description,Bringt dir haufenweise Geld jede Runde ein und Handelsschiffen +10 % Einkommen.
 Banana Central Description,Du willst Bananen? Wir haben Bananen!
 Monkey-Nomics Description,Wenn du bereits zu groß für den Untergang bist ...
-Monkey Wall Street Description,Ein zentraler Affenhandelspunkt bringt jede Runde kolossale Einnahmen.
+Monkey Wall Street Description,Ein zentraler Affenhandelspunkt bringt jede Runde kolossale Einnahmen und generiert Leben.
 ,
 Sentry Gun Description,Fertigt zeitlich begrenzte Überwachungskanonen und startet sie in seiner Nähe.
 Larger Service Area Description,Schießt weiter und setzt Wachtürme in einem viel größeren Gebiet ein. Die Wachtürme haben eine längere Reichweite.
@@ -1043,9 +1043,9 @@ Dynamic Duo Description,Du erhältst immer einen zweiten Helden!
 ,
 Bigger Radius Description,Erhöht den Einflussradius des Dorfes.
 Grow Blocker Description,"Hindert runderneuerte Bloons am Arbeiten, wenn sie im Radius des Dorfes sind."
-Monkey Business Description,"Gewährt 10 % Rabatt für alle Affen und stuft bis zu Stufe 3 auf, was im Umkreis des Dorfes gekauft wird."
+Monkey Business Description,"Gewährt 10 % Rabatt für alle Affen und Upgrades Stufe 3 oder weniger, die im Umkreis des Dorfes gekauft werden."
 Jungle Drums Description,Erhöht die Angriffsgeschwindigkeit für alle Affen innerhalb des Radius.
-Radar Scanner Description,Erlaubt alle Affen im Radius den Angriff auf Tarn-Bloons.
+Radar Scanner Description,Erlaubt allen Affen im Radius den Angriff auf Tarn-Bloons.
 Monkey Commerce Description,"Zusätzlich 5 % Rabatt, die bei diesem Upgrade bis zu 2-mal mit anderen Dörfern kombiniert werden können."
 Primary Training Description,"Alle Primäraffen im Radius erhalten mehr Reichweite, Durchschlagskraft und Geschossgeschwindigkeit."
 Monkey Intelligence Bureau Description,"Das Büro verleiht spezielles Wissen zum Platzenlassen von Bloons und ermöglicht es Affen in der Nähe, alle Bloon-Arten platzen zu lassen."
@@ -1053,7 +1053,7 @@ Monkey Town Description,"Alle Affen, die innerhalb des Radius der Affenstadt sin
 Primary Mentoring Description,"Alle Primäraffen im Radius erhalten kostenlos Upgrades der Stufe 1, mehr Reichweite und reduzierte Abkühlphase für Fähigkeiten."
 Call to Arms Description,Zu-den-Waffen-Fähigkeit: Verleiht Affen in der Nähe +50 % Angriffsgeschwindigkeit und lässt Bloons für kurze Zeit platzen.
 Monkey City Description,"Erhöht Einflussradius, Geldgenerierung im Radius und bringt dir jede Runde einen kostenlosen Wurfpfeilaffen."
-Primary Expertise Description,Fügt den Angriff Mega-Ballista hinzu. Außerdem erhalten alle Affen in Reichweite mehr Kraft zum Platzenlassen und kostenlos Upgrades der Stufen 1 und 2.
+Primary Expertise Description,"Fügt den Angriff Mega-Ballista hinzu. Außerdem erhalten alle Primär-Affen in Reichweite mehr Kraft zum Platzenlassen, Fähigkeits-Abkühlphasen weiter reduziert und kostenlose Upgrades der Stufen 1 und 2."
 Homeland Defense Description,Fähigkeit erhöht jetzt die Angriffsgeschwindigkeit und platzt 20 Sekunden lang bei 100 % aller Affen.
 Monkeyopolis Description,Schöpft die Einnahmen von allen Bananenplantagen in der Nähe ab und macht so Platz für neue Affen.
 ,
@@ -1068,8 +1068,8 @@ Blade Maelstrom Ability,Klingeninferno
 Super Maelstrom Ability,Super-Inferno
 Snowstorm Ability,Schneesturm
 Absolute Zero Ability,Absolut Null
-Glue Strike Ability,Klebstoffsturm
-Glue Storm Ability,Klebersturm
+Glue Strike Ability,Klebstoffangriff
+Glue Storm Ability,Klebstoffsturm
 Supply Drop Ability,Nachschub-Abwurf
 Elite Sniper Ability,Elite-Nachschub-Abwurf
 Elite Defender Ability,Elite-Verteidiger
@@ -1085,7 +1085,7 @@ Special Poperations Ability,Spezial-Platzerei
 Pop and Awe Ability,Platz-Methode
 Rocket Storm Ability,Raketensturm
 Mauler Storm Ability,Schläger-Sturm
-Summon Phoenix Ability,Phönix herbeirufen
+Summon Phoenix Ability,Phönix beschwören
 Wizard Lord Phoenix Ability,Zauberer-Phönix
 Soulbind Ability,Fürst der Finsternis
 Tech Terror Ability,Vernichtung
@@ -1115,7 +1115,7 @@ Super Maelstrom Ability Description,"Noch stärkere Infernofähigkeit, die noch 
 Snowstorm Ability Description,Friert für kurze Zeit alle Bloons auf dem Bildschirm ein.
 Absolute Zero Ability Description,"Die Fähigkeit ist so kalt, dass sie alle Bloons einfriert, darunter auch kälteimmune und diejenigen von der MOAB-Klasse."
 Glue Strike Ability Description,Verklebt alle Bloons auf dem Bildschirm.
-Glue Storm Ability Description,Die Klebersturm-Fähigkeit bewirft den ganzen Bildschirm 10 Sekunden lang mit Klebstoff.
+Glue Storm Ability Description,Die Klebstoffsturm-Fähigkeit bewirft den ganzen Bildschirm 10 Sekunden lang mit Klebstoff.
 Supply Drop Ability Description,Wirft eine Kiste voller Geld ab.
 Elite Sniper Ability Description,Die Versorgung wirft viel mehr Geld ab.
 Elite Defender Ability Description,Ein verlorenes Leben verleiht diesem Scharfschützen beim Gegenschlag für kurze Zeit 2-fache Angriffsgeschwindigkeit.
@@ -1856,7 +1856,7 @@ CeramicShockDescription,Scharfschützentreffer bei Keramik-Bloons verlangsamen d
 NavalUpgrades,Seemanns-Upgrade
 NavalUpgradesDescription,Freibeuteraffe und Affen-U-Boot erhalten +1 Platzen pro Schuss.
 TradeAgreements,Handelsvereinbarungen
-TradeAgreementsDescription,Handelsschiffe generiere +20 $ pro Runde.
+TradeAgreementsDescription,Handelsschiffe generieren +20 $ pro Runde.
 AirforceUpgrades,Luftwaffen-Upgrade
 AirforceUpgradesDescription,Affenfliegerass und Hubschrauberpilot erhalten +1 Platzen pro Schuss.
 BroadBladeDartlings,Breitklingen-Pfeile
@@ -2624,7 +2624,7 @@ SentryBoom,Boomwachtposten
 SentryCrushing,Schlagwachposten
 SentryCold,Kaltwachposten
 SentryEnergy,Energiewachtposten
-SentryParagon,Vorbildwachposten
+SentryParagon,Champion-Wachposten
 EditorNumberOfPlayers,Spielerzahl
 EditorCoopAreaDivision,Coop Area Division
 InvalidTarget,Ungültiges Ziel
@@ -2645,12 +2645,12 @@ Adora Level 11 Description,Adora erhöht die Angriffsgeschwindigkeit.
 Adora Level 12 Description,Schießt 5 göttliche Blitze auf einmal.
 Adora Level 13 Description,Göttliche Blitze durchbohren noch mehr Bloons.
 Adora Level 14 Description,Schießt 6 göttliche Blitze auf einmal.
-Adora Level 15 Description,Göttliche Blitze brennen sich durch eine extra Bloon-Schicht durch, außerdem teilt der Ball des Lichts mehr Schaden aus.
+Adora Level 15 Description,Göttliche Blitze brennen sich durch eine extra Bloon-Schicht durch außerdem teilt der Ball des Lichts mehr Schaden aus.
 Adora Level 16 Description,Der lange Arm des Lichts wird noch tödlicher.
 Adora Level 17 Description,Adora erhöht noch mehr die Angriffsgeschwindigkeit.
 Adora Level 18 Description,Schießt 8 göttliche Blitze auf einmal.
 Adora Level 19 Description,Erhöhte Angriffsreichweite.
-Adora Level 20 Description,Der Ball des Lichts ist erheblich verbessert, außerdem wurde die Feuerraten-, Reichweiten- und Dauervorteile von Opfern erhöht.
+Adora Level 20 Description,Der Ball des Lichts ist erheblich verbessert außerdem wurde die Feuerraten- Reichweiten- und Dauervorteile von Opfern erhöht.
 Carved,Ausgehöhlt
 BloodyPuddles,Verfluchte Pfützen
 TechBotRequiresAbility,Benötigt einen Affenturm mit aktivierten Fähigkeiten
@@ -2742,7 +2742,7 @@ BoomerangTargetingSwitchHands,Hände wechseln
 VineRupture,Schlingpflanzenruptur
 VineRuptureDescription,"Verleiht dem Waldgeist-Druiden die neue Fähigkeit, alle Schlingpflanzen explodieren zu lassen, was allen nicht-blei Bloons großen Schaden zufügt. Nach jeder Ruptur wachsen neue Schlingpflanzen nach."
 BankDeposits,Affen-Bank Einzahlungen
-BankDepositsDescription,Affen-Banken können Einzahlungen des eingesammelten Spielgelds annehmen.
+BankDepositsDescription,Affen-Banken der Stufe 4 und höher können Einzahlungen des eingesammelten Spielgelds annehmen.
 MonkeyBankDeposit,Einzahlung
 Achievement 92 Name,Goldticket
 Achievement 92 Description,Blumpa-lumpa-dupa-di-du!
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,"[I], um Dunkelsprung in Reichweite zu machen"
 DarkChampionDarkshift,"[I], um Dunkelsprung zu einem gültigen Ort zu machen"
 SmallTowersMode,Kleine Affentürme
 BigTowersMode,Große Affentürme
-UpdatePopupTitle,Update 27!
-UpdatePopupDescription,"Episches Content-Update in Boss-Größe!\n• Die Boss-Bloon-Events sind da! Wer wagt es, Bloonarius herauszufordern?!\n• Paragon-Affen! Teste den ganz neuen Paragon-Rang für Wurfpfeil und Bumerang!\n• Stelle dich der sumpfigen neuen Zwischenstüfler-Karte: Bloonarius Prime\n• Neue Gegenstände im Trophäen-Shop: einschließlich ganz neuer Profilbanner!\n• Erneute Teilnahme an Koop: Nimm deine Koop-Spiele wieder auf!\n• Neue Errungenschaften und Belohnungen!\n• Balance-Änderungen: An einigen Türmen wurden größere Änderungen vorgenommen - in den Patch-Hinweise findest du nähere Infos"
+UpdatePopupTitle,Update 28!
+UpdatePopupDescription,"Großes Inhaltsupdate!\n• Koop-Boss-Kämpfe! Stelle dich mit deinen Freunden den Boss-Events für max. Vorbild-Level!\n• Neuer Boss-Bloon – Grabherr Lych!\n• Boss-Bestenlisten! Wähle den Rang-Modus und erziele die beste Zeit auf den Bestenlisten, ob du nun allein oder im Koop-Modus spielst\n• Neuer Vorbildturm – Ninja-Affe Aufgestiegener Schatten ist da!\n• Der Wikinger Sauda ist nun mitten im Getümmel! Hol dir die neue Sauda-Skin und schnapp dir dein Messer!\n• Teilt euch nicht auf oder verirrt euch in den Wäldern auf der neuen Anfängerkarte – Die Waldhütte\n• 12 neue Artikel im Trophäen-Laden, plus 6 brandneue Halloween-Artikel für eine begrenzte Zeit – hol sie dir, solange es geht!\n• Ausbalancierungen und Fehlerkorrekturen – viele Änderungen, deren Einzelheiten du in den Update-Hinweisen findest"
 ResetDailyChest,Tägliche Truhe zurücksetzen
 JukeboxName,Musikbox
 EnableFunction,Aktivieren
@@ -3025,7 +3025,7 @@ CoopEmoteTextAllIsFineWord,Alles in Butter
 PlayerStatsTimesUpgraded,Anzahl der Verbesserungen
 PlayerStatsTimesSacrificed,Anzahl der Geopferten
 TrophyStoreInfoHeader,Infos zum Trophäen-Laden
-TrophyStoreInfoBody,Der Trophäen-Laden bietet haufenweise noch bessere kosmetische Upgrades!\n• Verdiene Trophäen durch das Abschließen von Odysseen und durch Platzierungen in Rennen\n• Die meisten gekauften Gegenstände können über den Reiter Inventar aktiviert oder deaktiviert werden\n• Gekaufte Musikstücke tauchen in der Jukebox auf\n• Gekaufte Avatare findest du in deinem Profil-Hauptmenü\n• Benannte Affen bearbeitest du über das Upgrades-Menü im Spiel.
+TrophyStoreInfoBody,"Der Trophäen-Laden bietet haufenweise noch bessere kosmetische Upgrades!\n• Verdiene Trophäen durch das Abschließen von Odysseen, durch Platzierungen in Rennen und das Besiegen von Bossen\n• Die meisten gekauften Gegenstände können über den Reiter Inventar aktiviert oder deaktiviert werden\n• Gekaufte Musikstücke tauchen in der Jukebox auf\n• Gekaufte Avatare und Banner findest du in deinem Profil-Hauptmenü\n• Benannte Affen bearbeitest du über das Upgrades-Menü im Spiel."
 RestartOdysseyBody,Willst du deine Odyssee wirklich neu starten?
 OdysseyBannerRewards,Verdiene Belohnungen und Trophäen!
 UpdateNotes,Update-Hinweise
@@ -3294,7 +3294,7 @@ HeroesPatPetPenguinShortName,Schneemann-Pinguin-Haustier
 HeroesPatPetPenguinDescription,"Pinguine sind die besten Freunde eines Schneemanns! Auch wenn dieses Exemplar etwas auszuhecken scheint… Vorwärts, Fusty der Schneemann. Sammlerobjekt nur für begrenzte Zeit erhältlich!  "
 HeroesAdmiralBrickellPetParrotName,Brickell Papagei-Haustier
 HeroesAdmiralBrickellPetParrotShortName,Brickell Papagei
-HeroesAdmiralBrickellPetParrotDescription,"Krächz! Bloons ahoi, Bloons ahoi! Vorwärts, Fürchterlicher Pirat Brickell"
+HeroesAdmiralBrickellPetParrotDescription,"Krächz! Bloons ahoi, Bloons ahoi! Nur Fürchterliche Piratin Brickell"
 TowerPetMonkeyVillageElfName,Affendorf-Elf
 TowerPetMonkeyVillageElfShortName,Dorf-Elf
 TowerPetMonkeyVillageElfDescription,"Er ist fast wie der Elf auf dem Regal, nur dass er mehr Haare hat und einen Schwanz. Er hinterlässt auch gerne „Geschenke“ im Dorf. Sammlerobjekt nur für begrenzte Zeit erhältlich!"
@@ -3317,7 +3317,7 @@ BloonsMOABSkinGlacierName,Gletscher-MOAB
 BloonsMOABSkinGlacierShortName,Gletscher-MOAB
 BloonsMOABSkinGlacierDescription,Höhlenaffe warnt andere Affen. Großer Bloon kommt. Großer Bloon eiskalt. Höhlenaffe hungrig. Haste Banane?
 CoopEmoteAnimationHappyHolidaysName,Frohes-Fest-Emote
-CoopEmoteAnimationHappyHolidaysShortName,Frohe Fest
+CoopEmoteAnimationHappyHolidaysShortName,Frohes Fest
 CoopEmoteAnimationHappyHolidaysDescription,Wünsche allen fröhliche Weihnachten mit diesem nur für begrenzte Zeit erhältlichen Sammler-Emote!
 CoopEmoteAnimationCelebrationName,Party-Emote
 CoopEmoteAnimationCelebrationShortName,Party
@@ -3554,7 +3554,7 @@ Sauda Level 7 Description,"Sauda zielt auf die Schwächen der Bloons, richtet Ex
 Sauda Level 8 Description,Sauda greift noch schneller an.
 Sauda Level 9 Description,Bloon-Bluten: Sauda durchtrennt 3 Bloons-Schichten mit einem Schlag und verursacht einen langsamen Schaden über Zeit.
 Sauda Level 10 Description,Schwertladung: Sauda huscht über die ganze Strecke und vernichtet  Bloons im Vorbeigehen.
-Sauda Level 11 Description,"Sauda richtet Extraschaden an bei jedem Bloon, das verlangsamt oder gelähmt wurde oder Schaden über Zeit von anderen Affen erhalten hat. "
+Sauda Level 11 Description,"Sauda richtet Extraschaden an bei jedem Bloon, der verlangsamt oder gelähmt wurde oder Schaden über Zeit von anderen Affen erhalten hat."
 Sauda Level 12 Description,Sprungschwert-Angriff ist wesentlicher stärker.
 Sauda Level 13 Description,Verzauberte Klingen richten mehr Schaden an und lassen Sauda allen Bloons Schaden zufügen.
 Sauda Level 14 Description,Sauda greift noch schneller an.
@@ -3674,7 +3674,7 @@ PlayerPositionClosed,Spielerposition am Ende
 YouFinished,Du hast erreicht:
 BestTime,Bestzeit:
 Claim,Einfordern
-PlayerRejoinedGame,ist dem Spiel wieder beigetreten
+PlayerRejoinedGame, nimmt nun wieder am Spiel teil
 PlayerKickedFromGame,{0} wurde aus dem Spiel entfernt
 ConfirmKickPlayer,Möchtest du wirklich {0} aus dem Spiel entfernen?
 Remove,Entfernen
@@ -3700,7 +3700,7 @@ game already opened,Das Spiel ist bereits offen?
 Psi,Psi
 Psi Short Description,Psionischer Affe
 Psi Description,"Psi ist ein begabtes Affenkind und nutzt nur die Kraft des Geistes, um Bloons von innen heraus zu zerstören."
-Psi Level 1 Description,"Über jede Reichweite oder jedes Hindernis hinweg erzeugt Psi tödliche Vibrationen, die einen Bloon nach dem anderen komplett zerstören."
+Psi Level 1 Description,"Über jede Reichweite oder jedes Hindernis hinweg erzeugt Psi tödliche Vibrationen, die einen Bloon nach dem anderen komplett zerstören. Kann Tarn-Bloons sehen."
 Psi Level 2 Description,Greift ein wenig schneller an.
 Psi Level 3 Description,"Psychische Explosion: Psi entfesselt eine Welle der Macht, die Bloons in der Nähe für eine lange Zeit betäubt."
 Psi Level 4 Description,"Psis Attacke kann einen anderen Bloon treffen, wenn er sich sehr nahe an dem anvisierten Bloon befindet."
@@ -3740,7 +3740,7 @@ Achievement 122 Description,Lass 100 Gold-Bloons platzen.
 Achievement 123 Name,Gloriengold
 Achievement 123 Description,Lass 500 Gold-Bloons platzen.
 Achievement 124 Name,Magiegold
-Achievement 124 Description,Lass 20 Gold-Bloons im Modus „Nur Zauberaffen“ platzen.
+Achievement 124 Description,Lass 50 Gold-Bloons im Modus „Nur Zauberaffen“ platzen.
 Achievement 125 Name,Teamspieler
 Achievement 125 Description,Gewinne 25-mal mit Affenteams.
 Achievement 126 Name,Team-Käpt‘n
@@ -3815,19 +3815,19 @@ FreeEntries,{0} kostenlose Teilnahmen
 FreeEntry,1 kostenlose Teilnahme
 PrivateCoopLobby,Private Koop-Lobby
 PublicCoopLobby,Koop-Lobby [{0}]
-MyOdysseys,Meine Odysseys
-OdysseySearch,Suche / Odyssey Code ...
+MyOdysseys,Meine Odysseen
+OdysseySearch,Suche/Odyssee-Code…
 Psychic Blast Ability,Psychische Explosion
-Psychic Blast Ability Description,Psi setzt eine Kraftwelle frei, die Bloons in der Nähe für lange Zeit betäubt.
+Psychic Blast Ability Description,Psi setzt eine Kraftwelle frei die Bloons in der Nähe für lange Zeit betäubt.
 Psionic Scream Ability,Psionischer Schrei
-Psionic Scream Ability Description,Psi entfesselt einen stillen Schrei, der die Bloons in völliges Chaos stürzt.
+Psionic Scream Ability Description,Psi entfesselt einen stillen Schrei der die Bloons in völliges Chaos stürzt.
 EditorMode,Editor-Modus
 ConfirmMaps,Zu bestätigende Karten: {0}
-ResetOdysseyProgress,Dies macht Ihren Odyssey-Fortschritt ungültig. Bist du sicher?
-OdysseyName,Odyssee Name
-OdysseyEditor,Odyssee Editor
-MaxPowers,Maximale Kräfte
-MaxMonkeySlots,Max. Affen-Slots:
+ResetOdysseyProgress,Dies macht deinen Odyssee-Fortschritt ungültig. Bist du sicher?
+OdysseyName,Odyssee-Name
+OdysseyEditor,Odyssee-Editor
+MaxPowers,Max. Kräfte:
+MaxMonkeySlots,Max. Kraft-Slots:
 MaxPowerSlots,Maximaler Steckplatz
 MapNumber,Karte {0}
 ExtremeMode,Extremer Modus:
@@ -3854,56 +3854,56 @@ Bloonarius,Bloonarius
 TierX,Rang {0}
 HeroesGwendolinPlacementFireballName,Gwendolin Feuerball-Platzierung & Upgrade
 HeroesGwendolinPlacementFireballShortName,Gwen Feuerball
-HeroesGwendolinPlacementFireballDescription,"Mit diesem tollen Feuerball-Effekt kannst du sicherstellen, dass die Ankunft und Upgrades von Gwen angemessen feurig sind! Nur Original-Gwendolin"
+HeroesGwendolinPlacementFireballDescription,Mit diesem wunderbaren Feuerballeffekt sind Gwens Ankunft und ihre Upgrades angemessen feurig! Nur Original-Gwendolin
 TowerPropMonkeyVillageGermanyFlagName,Affendorf-Deutschlandflagge
 TowerPropMonkeyVillageGermanyFlagShortName,Dorf-Deutschlandflagge
-TowerPropMonkeyVillageGermanyFlagDescription,"Jeder weiß, dass die Deutschland-Affendorf-Technologie ausgezeichnet ist! Für alle Upgrades anzeigen"
+TowerPropMonkeyVillageGermanyFlagDescription,"Jeder weiß, dass die Technologie des Deutschen Affendorfes ausgezeichnet ist! Wird für alle Upgrades gezeigt"
 TowerPropMonkeyVillageUKFlagName,Affendorf-Großbritannienflagge
 TowerPropMonkeyVillageUKFlagShortName,Dorf-Großbritannienflagge
-TowerPropMonkeyVillageUKFlagDescription,Dieses Affendorf ist ein stolzer Teil des Commonwealth. Britischer Stolz wird für alle Updates angezeigt
+TowerPropMonkeyVillageUKFlagDescription,Dieses Affendorf ist stolzes Mitglied des Commonwealths. UK-Stolz wird für alle Upgrades gezeigt
 BloonsDDTSkinTronName,Neon-DDT
 BloonsDDTSkinTronShortName,Neon-DDT
-BloonsDDTSkinTronDescription,"Du wirst schwören, dass dieses glatte und geschmeidige DDT aus der Zukunft kommt. Vielleicht stimmt das sogar."
+BloonsDDTSkinTronDescription,"So schlank und tödlich, dass du schwören könntest dieser DDT stammt aus der Zukunft. Vielleicht ist das auch so."
 BloonsAllBloonsBucketHatName,Eimerhut-Bloons
 BloonsAllBloonsBucketHatShortName,Eimerhut-Bloons
-BloonsAllBloonsBucketHatDescription,Mache diese Bloons zu einer modischen Erscheinung mit dem neusten digitalen Eimerhut-Design.
+BloonsAllBloonsBucketHatDescription,Bringe diese Bloons modisch auf Vordermann mit dem neusten digitalen Eimerhut-Design.
 BloonsAllBloonsPopsWaterbloonName,Wasserbloon-Platzer FX
 BloonsAllBloonsPopsWaterbloonShortName,Wasserbloon-Platzer FX
-BloonsAllBloonsPopsWaterbloonDescription,Wie geschaffen für eine Hitzewelle. Mache jeden Bloon mit diesem erfrischend kühlen Platz-Effekt zu einem Wasserbloon
+BloonsAllBloonsPopsWaterbloonDescription,Perfekt für jede Hitzewelle: Jeder Bloon wird mit diesem durchnässenden kühlen Platz-Effekt zu einem Wasser-Bloon.
 CoopEmoteTextNextRoundScaryName,Nächste Runde! Gruselig! Text Emote
 CoopEmoteTextNextRoundScaryShortName,Nächste Runde! Gruselig!
-CoopEmoteTextNextRoundScaryDescription,Warne die anderen Mitglieder deines Koop-Team vor der nächsten Runde! Vor allem nützlich an Halloween.
+CoopEmoteTextNextRoundScaryDescription,Warne deine Koop-Teammitglieder vor der nächsten Runde! Vor allem nützlich kurz vor und nach Halloween.
 CoopEmoteTextNextRoundScaryWord,Nächste Runde! Gruselig!
 CoopEmoteAnimationFistpumpName,Geballte Faust Animation
 CoopEmoteAnimationFistpumpShortName,Geballte Faust
-CoopEmoteAnimationFistpumpDescription,Zur Feier gut erledigter Arbeit!
+CoopEmoteAnimationFistpumpDescription,Für eine ausgezeichnete abgeschlossene Arbeit!
 GameUIProfileAvatar44Name,Benutzerdefinierter Avatar - SAS-Affe
 GameUIProfileAvatar44ShortName,SAS-Affen-Avatar
-GameUIProfileAvatar44Description,Avatargewinner von Deacon
+GameUIProfileAvatar44Description,Avatar-Gewinner von LV-223_Deacon
 GameUIProfileAvatar45Name,Benutzerdefinierter Avatar - Blaupause
 GameUIProfileAvatar45ShortName,Blaupausen-Avatar
-GameUIProfileAvatar45Description,Avatargewinner von dungeon-raided
-GameUIProfileAvatar46Name,Benutzerdefinierter Avatar - Ezili
-GameUIProfileAvatar46ShortName,Ezili-Avatar
-GameUIProfileAvatar46Description,Auch bekannt als Morgenfrisur-Ezili
+GameUIProfileAvatar45Description,Avatar-Gewinner von dungeon-raided
+GameUIProfileAvatar46Name,Individueller Avatar - Maskierter Ezili
+GameUIProfileAvatar46ShortName,Avatar Maskierter Ezili
+GameUIProfileAvatar46Description,Auch bekannt als Verstrubbelter Ezili
 GameUIProfileAvatar47Name,Benutzerdefinierter Avatar - Nagelball
 GameUIProfileAvatar47ShortName,Nagelball-Avatar
-GameUIProfileAvatar47Description,Nagelbälle sahen noch nie so cool aus - die muss man einfach haben
-GameUIProfileBanner1Name,Antennenprofilbanner
-GameUIProfileBanner1ShortName,Antennenbanner
-GameUIProfileBanner1Description,Dieses von Ass inspirierte benutzerdefinierte Profilbanner schlägt Loopings um andere Spieler
-GameUIProfileBanner2Name,Geisterwolfprofilbanner
-GameUIProfileBanner2ShortName,Geisterwolfbanner
-GameUIProfileBanner2Description,Erwecke die Geister mit dem Obyn Wolf benutzerdefiniertem Profilbanner
+GameUIProfileAvatar47Description,Nagelbälle haben noch nie so gut ausgesehen – die muss man haben
+GameUIProfileBanner1Name,Luftkunststücke-Profilbanner
+GameUIProfileBanner1ShortName,Luftkunststücke-Banner
+GameUIProfileBanner1Description,Dieses von Ass inspirierte individuelle Profilbanner zieht Loopings um andere Spieler
+GameUIProfileBanner2Name,Geisterwolf-Profilbanner
+GameUIProfileBanner2ShortName,Geisterwolf-Banner
+GameUIProfileBanner2Description,Erwecke die Geister mit dem individuellen Obyn-Wolf-Profilbanner
 GameUIProfileBanner3Name,Eintreffendes Profilbanner
 GameUIProfileBanner3ShortName,Eintreffendes Banner
-GameUIProfileBanner3Description,Trage dieses BFB-angeführte Bloonstorm als eine benutzerdefinierte Profilbannertrophäe deiner Siege
-GameUIProfileBanner4Name,Wurfpfeilsturmprofilbanner
-GameUIProfileBanner4ShortName,Wurfpfeilsturmbanner
-GameUIProfileBanner4Description,"Der gemeine Dartpfeil ist alles andere als gewöhnlich in diesem schlanken, dunklen Profilbanner"
+GameUIProfileBanner3Description,Trage diesen BFB-Blei-Bloonssturm als eine individuelle Profilbannertrophäe deiner Siege
+GameUIProfileBanner4Name,Dartsturm-Profilbanner
+GameUIProfileBanner4ShortName,Dartsturm-Banner
+GameUIProfileBanner4Description,"Der gemeine Dartpfeil ist alles, nur nicht gewöhnlich in diesem schmalen, dunklen individuellen Profilbanner"
 GameUIProfileBanner5Name,Reaktives Profilbanner
 GameUIProfileBanner5ShortName,Reaktives Banner
-GameUIProfileBanner5Description,Kraft und Gefahr vereinen sich in diesem von Sub inspirierten benutzerdefiniertem Profilbanner
+GameUIProfileBanner5Description,Kraft und Gefahr wurden in diesem durch U-Boote inspirierten individuellen Profilbanner kombiniert
 Paragon Title,Upgrade auf Paragon
 Paragon Body,Diese Aktion erschafft einen Paragon {0}. Alle anderen {1} werden im Rahmen dieses Vorgangs zerstört und fließen in die Kraft des Paragons ein!
 ft_paragontitle,Paragon-Upgrade ermöglicht!
@@ -3932,18 +3932,18 @@ EngineerMonkeys,Affenpioniere
 SpikeFactorys,Nagelfabriken
 MonkeyVillages,Affendörfer
 BossInfoPanelTitle,Boos-Bloon-Event
-BossInfoPanelDescription,"Sei gegrüßt, mutiger Abenteurer, du hast die Welt der Bosse betreten. Viel Glück und denke an diese wichtigen Regeln:\n• Das Boss-Event beginnt sofort, wenn du auf Spielen klickst und es gibt keine Pause zwischen den einzelnen Runden.\n• Lasse alle 5 Räng"
+BossInfoPanelDescription,"Sei gegrüßt, mutiger Abenteurer, du hast die Welt der Bosse betreten! Viel Glück und denke an diese wichtigen Regeln:\n• Das Boss-Event beginnt, wenn du ""Spielen"" anklickst, zwischen den Runden gibt es keine Pause und die Bosse können nicht verlangsamt werden.\n• Lass alle 5 Stufen der Bosse platzen, um jeden Boss-Modus zu gewinnen und schlage Normal, um Elite freizuschalten.\n• Baue deine Wirtschaft auf, bereite deine Fähigkeiten vor und nutze die Zeit zwischen den Stufen optimal aus!\n• Verdiene Trophäen oder andere Belohnungen mit jeder besiegten Stufe, aber wenn du eine Stufe in 20 Runden nicht schaffst, verlierst du.\n• Trete gegen andere Spieler im Rang-Modus an, um zu sehen, wer den Boss am schnellsten besiegen kann und gewinne tolle Preise!!\n• Dein bester Rang als Einzelspieler ODER im Koop entscheidet über die Belohnungen, die du gewinnst.\n• Normale und Elite-Modusarten haben separate Bestenlisten und Preise, du kannst bei beiden gewinnen!"
 BloonariusInfoPanelDescription,"Der im Schlamm wohnende Bloonarius speit Bloons aus, wenn er Schaden erleidet und spuckt dann massive Bloon-Cluster, wenn jeder Schädel auf der Gesundheitsleiste erreicht ist.\n\nDie mit Schlamm durchsetzte Schale von Bloonarius macht diesen Prozess zwar "
 NextBossIn,Boss erscheint in: {0}
 ARound,1 Runde
 SomeRounds,{0} Runden
 DartMonkey Paragon,Apex Plasma Meister
-DartMonkey Paragon Description,"Fülle ben Bereich mit Plasma-Jonglierbällen, die Bloons in Stücke reißen, sodass nichts zurückbleibt…"
+DartMonkey Paragon Description,"Fülle den Bereich mit Plasma-Jonglierbällen, die Bloons in Stücke reißen, sodass nichts zurückbleibt…"
 BoomerangMonkey Paragon,Glaive Dominus
 BoomerangMonkey Paragon Description,Die Bloons erblicken meine Glaives und werden vor Furcht zittern.
 TowerEffectAllMonkeysPlacementUpgradesButterfliesName,Schmetterlingsplatzierungen und Upgrade-Effekte
 TowerEffectAllMonkeysPlacementUpgradesButterfliesShortName,Schmetterlingsupgrade FX
-TowerEffectAllMonkeysPlacementUpgradesButterfliesDescription,"Wertschätze Natur und Schönheit, wenn jede Affenplatzierung und jedes Upgrade die Schmetterlinge zum Flattern bringt."
+TowerEffectAllMonkeysPlacementUpgradesButterfliesDescription,"Wertschätze Natur und Schönheit, wenn jede Affenplatzierung und jedes Upgrade Schmetterlinge zum Flattern bringt."
 BossEvent,Boss-Event
 NewCoopGame,Neues Koop-Spiel
 Hold,Innehalten
@@ -3960,8 +3960,8 @@ PlayerStatsHighestRoundCHIMPS,Höchste Runde SCHIMPANSEN
 PlayerStatsHighestRoundDeflation,Höchste Runde Luftablassen
 Rejoin Coop,Koop wieder beitreten
 WaitingEndRound,Warten auf das Ende der aktuellen Runde
-SoftwareCursor,Software-Cursor
-LargeCursor,Großer Cursor
+SoftwareCursor,Großer Cursor
+LargeCursor,Extra großer Cursor
 Cursor,Cursor
 SandboxCursor,Sandkiste/Cursor
 Achievement 128 Name,Was soll diese neue Bloonerei?
@@ -4015,3 +4015,107 @@ Retry From Checkpoint,Ab Checkpoint erneut versuchen
 RetryCheckpointText,Erneuter Versuch ab deinem letzten Checkpoint in Runde {0}?
 Retry From Round,Ab Runde {0} erneut versuchen
 EliteBossLockedPopup,"Besiege den Boss auf Normaler Schwierigkeit, um Elite-Schwierigkeit freizuschalten"
+Custom Odyssey,Individuelle Odyssee
+Creating Odyssey,Odyssee wird erstellt
+Creating Challenge,Herausforderung wird erstellt
+TheCabin,Die Waldhütte
+VikingSaudaSaudaSkinName,Wikinger-Sauda-Skin
+VikingSaudaSaudaSkinDescription,Äxte bereit!
+HeroesChurchillSentaiSkinPetDroneName,Sentai Churchill Drohnen-Haustier
+HeroesChurchillSentaiSkinPetDroneShortName,Sentai Churchill Drohne
+HeroesChurchillSentaiSkinPetDroneDescription,"Der super fortschrittliche Späher-Wachturm Y26G berechnet superschnell Bedrohungsbewertungen und sieht dabei noch gut aus. Kein Wunder, dass wir ihn SASSY nennen. Nur Sentai Churchill"
+TowerPetGlueGunnerRatName,Klebstoffschütze Ratten-Haustier
+TowerPetGlueGunnerRatShortName,Klebstoffschütze Ratten-Haustier
+TowerPetGlueGunnerRatDescription,"Immer an der Seite des Klebstoffschützen, vor allem im Labor. Hast du dich jemals gewundert, wer für die Wissenschaft hinter den vielen Eigenschaften des Klebstoffs steht? Wir sind der Meinung, es ist die Ratte."
+TowerEffectAllMonkeysPlacementUpgradesBatsName,Fledermausplatzierungen und Upgrade-Effekte
+TowerEffectAllMonkeysPlacementUpgradesBatsShortName,Fledermaus-Upgrade FX
+TowerEffectAllMonkeysPlacementUpgradesBatsDescription,"Erschrecke die Bloons jedes Mal, wenn ein Turm platziert und mit verfluchten Fledermaus-Animationen verbessert wird, die auf spezifischen Karten wunderbar gespenstig aussehen."
+TowerPetMonkeyBuccaneerNarwhalName,Freibeuteraffen Narwal-Haustier
+TowerPetMonkeyBuccaneerNarwhalShortName,Freibeuter Narwal-Haustier
+TowerPetMonkeyBuccaneerNarwhalDescription,Erblicke den mystischen Narwal mit jedem platzierten Freibeuter! Wer sonst als der mächtige Freibeuter kann sowohl über die Meere herrschen und sich mit ihren Legenden anfreunden?!
+TowerProjectileEngineerVampireHunterName,Vampirjäger-Ingenieur Projektile
+TowerProjectileEngineerVampireHunterShortName,Vampirjäger-Ingenieur
+TowerProjectileEngineerVampireHunterDescription,"Sollten sich alle Bloons als Vampire erweisen, kann der Ingenieur jetzt ein ganzes Arsenal von Projektilen wie Pfähle, Knoblauch und Särge einsetzen, um Vampbloons platzen zu lassen. Zeitlich begrenzt verfügbares Sammlerobjekt!"
+TowerPropMonkeyVillageCanadianFlagName,Affendorf Kanadaflagge
+TowerPropMonkeyVillageCanadianFlagShortName,Dorf Kanadaflagge
+TowerPropMonkeyVillageCanadianFlagDescription,"Nun, es wird langsam Zeit! Oh Kanada, hisse diese Flagge in all deinen Affendörfern. Wird für alle Upgrades gezeigt"
+BloonsZOMGSkinJackOLanternName,Halloween-Kürbis-ZOMG
+BloonsZOMGSkinJackOLanternShortName,Halloween-Kürbis-ZOMG
+BloonsZOMGSkinJackOLanternDescription,"Saudas Gewinnerbeitrag im jährlichen Kürbis-Schnitzen-ZOMG-Wettbewerb, und sie kann immer noch eine Tomate schnitzen! Zeitlich begrenzt verfügbares Sammlerobjekt!"
+BloonsAllBloonsVampireCapesName,Vampirumhang-Bloons
+BloonsAllBloonsVampireCapesShortName,Vampirumhang-Bloons
+BloonsAllBloonsVampireCapesDescription,Verkleide deine Bloons als Kreaturen der Nacht für das diesjährige Halloween! Zeitlich begrenzt verfügbares Sammlerobjekt!
+CoopEmoteAnimationPanicMonkeyName,Panikaffe-Emote
+CoopEmoteAnimationPanicMonkeyShortName,Panikaffe
+CoopEmoteAnimationPanicMonkeyDescription,"Hier spricht dein Koop-Gastgeber. Bitte. Keine Panik. OK, VERFALLE IN PANIK!"
+CoopEmoteAnimationBeggingMonkeyName,Biiiiiite-Affe-Emote
+CoopEmoteAnimationBeggingMonkeyShortName,Biiiiiite-Affe
+CoopEmoteAnimationBeggingMonkeyDescription,"Biiiiiite, ich brauche noch 10.000 mehr für dieses Upgrade! Es ist nur Zufall, dass ich Spieler 3 bin. Ehrlich!"
+GameUIPowerSkinThriveStonksName,Individuelle Kraft – Florierende Stonks
+GameUIPowerSkinThriveStonksShortName,Florierende Stonks
+GameUIPowerSkinThriveStonksDescription,"Ben empfiehlt, alles in Bananacoins zu investieren. Sie werden durch die Decke gehen!"
+GameUIProfileAvatar48Name,Individueller Avatar – Hockeymasken-Affe
+GameUIProfileAvatar48ShortName,Hockeymasken-Avatar
+GameUIProfileAvatar48Description,Lass den Hockeymasken-Affen nicht aus den Augen! Zeitlich begrenzt verfügbares Sammlerobjekt!
+GameUIProfileAvatar49Name,Individueller Avatar – Blei-Zeppelin
+GameUIProfileAvatar49ShortName,Blei-Zeppelin-Avatar
+GameUIProfileAvatar49Description,Avatar-Gewinner von waywardzuck
+GameUIProfileAvatar50Name,Individueller Avatar – Bester Ben
+GameUIProfileAvatar50ShortName,Bester-Ben-Avatar
+GameUIProfileAvatar50Description,"Wer kümmert sich um deine IT? Dieser Kerl! Wer spielt die fetten Beats? Dieser Kerl! Und wer versorgt dein nächstes Team-Event mit köstlichem Sushi? Nun, natürlich dieser Kerl."
+GameUIProfileAvatar51Name,Individueller Avatar – Action Psi
+GameUIProfileAvatar51ShortName,Action-Psi-Avatar
+GameUIProfileAvatar51Description,"Jederzeit eins mit dem Universum zu sein, heißt nicht, dass Psi nicht ab und an auch Spaß haben kann! Rocke diesen wunderbaren Psi-Avatar, um zu zeigen, dass du ihn magst."
+GameUIProfileBanner6Name,Sonnentempel-Profilbanner
+GameUIProfileBanner6ShortName,Sonnentempel-Banner
+GameUIProfileBanner6Description,Sei Zeuge der wahren Kraft eines vollständig einsatzfähigen Sonnentempels mit diesem epischen individuellen Profilbanner.
+GameUIProfileBanner7Name,Geister-&-Süßes-Profilbanner
+GameUIProfileBanner7ShortName,Geister-&-Süßes-Banner
+GameUIProfileBanner7Description,Süßes oder Saures! Das perfekte individuelle Profilbanner für Halloween.
+LychTagLine,Der Grabherr
+LychTagLine2,wurde wieder auferweckt!
+Lych,Lych
+LychInfoPanelDescription,"• Grabherr Lynch entzieht deinen Affen Vorteile und heilt sich gleichzeitig selbst.\n• Wenn alle Schädelauf seiner Gesundheitsleiste erreicht sind, wird Lych zu einem Spektralwesen und lässt die leeren Hüllen kürzlich geplatzter Bloons des MOAB-Klasse wie"
+EditorReviewMap,Karte überprüfen
+YourBestTime,Deine Bestzeit
+Boss,Boss
+MiniBoss,Mini-Boss
+NormalRewards,Normale Belohnungen
+EliteRewards,Elite-Belohnungen
+1Player,1 Spieler
+2Player,2 Spieler
+3Player,3 Spieler
+4Player,4 Spieler
+BossLeaderboard,Boss-Bestenliste
+LeaderboardSubmissionFail,Keine Verbindung zur Bestenliste
+SafeNameChallenge,{0}s Herausforderung
+SafeNameOdyssey,{0}s Odyssee
+BossEventEnded,Das Boss-Event ist vorbei!
+RankedNormal,Rang-Modus Normal
+RankedElite,Rang-Modus Elite
+StartRankedBoss,Rang-Modus Boss beginnen
+MusicHaunted,Geisterhaus
+GameUIMusicTrackMusicHauntedName,Jukebox: Geisterhaus
+GameUIMusicTrackMusicHauntedShortName,Jukebox: Geisterhaus
+GameUIMusicTrackMusicHauntedDescription,Krasse Beats und spektrale Rhythmen machen es zum idealen Track für die Halloween-Zeit oder für lange Spiel-Sessions in tiefer Nacht! Zeitlich begrenzt verfügbares Sammlerobjekt!
+NSCameraUsageDescription,Screenshots für Support-Tickets
+btd6_needmoremonkeymoneyprompt_no_iap,Nicht genug Affengeld!
+UseRacePassDescription,"Einen Rennen-Pass nutzen, um unbegrenzte Teilnahmen an diesem Rennen zu erhalten?"
+RacePassActivated,Rennen-Pass aktiviert
+UseRacePassTitle,Rennen-Pass verwenden?
+Elite Best Time,Elite-Bestzeit
+Normal Best Time,Normale Bestzeit
+NormalCursor,Normaler Cursor
+MayAffectPerformance,*Kann die Leistung beeinträchtigen
+GameUIMusicTrackMusicOnslaughtName,Ansturm
+GameUIMusicTrackMusicOnslaughtShortName,Ansturm
+GameUIMusicTrackMusicOnslaughtDescription,Ansturm Boss-Strecke
+SharingCoopBoss,Schließe dich meinem Boss-Spiel auf Bloons TD 6 an!
+EliteBossEvent,Elite-Boss-Event
+NinjaMonkey Paragon,Aufgestiegener Schatten
+NinjaMonkey Paragon Description,"Das komplette Assassinen-Paket, um mit jeder Bloon-Bedrohung fertig zu werden."
+Elite,Elite
+HackGameStopMessage,Die Spielwerte können nicht wieder synchronisiert werden. Leider kann dieses Spiel nicht fortgesetzt werden. Bitte versuche es mit einem anderen Spiel.
+RankedMode,Rang-Modus
+Any,Alle
+ScoreNotVerifiable,Ihre Punktzahl wurde nicht übermittelt, da sie nicht verifiziert werden konnte.

@@ -1,4 +1,4 @@
-//Input. Needs to be first e.g [I] replaced by click or tap,
+﻿//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Clique
 Tap,Appuie
 ,
@@ -173,7 +173,7 @@ Benjamin Level 3 Description,Biohack : les 4 singes les plus proches font écla
 Benjamin Level 4 Description,Écumage : gagne + 1 $ pour chaque nouveau Bloon ressuscité.
 Benjamin Level 5 Description,Piratage de banque : toutes les banques reçoivent une augmentation de revenu de + 5 %.
 Benjamin Level 6 Description,Cybersécurité : restaure 5 vies à la fin de chaque manche.
-Benjamin Level 7 Description,"Cheval de Troie Bloon : à intervalles réguliers de quelques secondes, envoie un virus logiciel sur un Bloon aléatoire. Le Bloon touché n'engendre pas de petits quand il est détruit et génère le double d'argent."
+Benjamin Level 7 Description,"Cheval de Troie Bloon : à intervalles réguliers de quelques secondes, envoie un virus logiciel sur un Bloon aléatoire. Le Bloon touché n'engendre pas de petits quand il est détruit et génère 1 en argent de plus par couche."
 Benjamin Level 8 Description,Revenu augmenté à 250 $ par manche.
 Benjamin Level 9 Description,Piratage de banque augmenté à 12 %.
 Benjamin Level 10 Description,Siphonage de fonds : rétrograde la plupart des nouveaux Bloons apparus d'un rang. Doublement de l'argent obtenu par l'éclatement des Bloons touchés. Dure 10 secondes.
@@ -248,7 +248,7 @@ Ezili Level 15 Description,Portée augmentée.
 Ezili Level 16 Description,Le totem du sacrifice dure plus longtemps et coûte seulement 1 vie pour l'utiliser.
 Ezili Level 17 Description,L'attaque de base possède un rayon d'éclaboussement et un pouvoir perforant plus grands.
 Ezili Level 18 Description,Vitesse d'attaque augmentée.
-Ezili Level 19 Description,Chaque dégât infligé par l'attaque de base fait éclater 2 couches !
+Ezili Level 19 Description,Chaque dégât infligé par l'attaque de base fait éclater 3 couches !
 Ezili Level 20 Description,Le sortilège MOAB fonctionne plus rapidement et peut détruire des Bloons BAD.
 ,
 //Hero Ability Names,
@@ -357,7 +357,7 @@ The Tack Zone,La zone des punaises
 Permafrost,Permafrost
 Enhanced Freeze,Gel amélioré
 Larger Radius,Rayon plus large
-Metal Freeze,Geleur de métal
+Metal Freeze,Froid cassant
 Deep Freeze,Gel profond
 Re-Freeze,Regel
 Ice Shards,Éclats de glace
@@ -607,7 +607,7 @@ Double Gun,Double pistolet
 Sentry Expert,Sentinelle experte
 Overclock,Surpuissance
 Bloon Trap,Piège à Bloons
-Sentry Paragon,Sentinelle exemplaire
+Sentry Paragon,Sentinelle champion
 Ultraboost,Ultraboost
 XXXL Trap,Piège extra extra large
 ,
@@ -694,7 +694,7 @@ Long Range Darts Description,Le singe à fléchettes tire plus loin que d’habi
 Razor Sharp Shots Description,Peut faire éclater 2 Bloons en plus par tir.
 Very Quick Shots Description,Tire 33 % plus vite !
 Enhanced Eyesight Description,Tire encore plus loin et peut détecter les Bloons camouflés.
-Spike-o-pult Description,Convertit le singe à fléchettes en herse-a-pulte qui lance violemment une boule à pointes au lieu des fléchettes. Bonne portée, mais vitesse d'attaque plus lente. Chaque boule peut faire éclater de nombreux Bloons et rebondit sur les obstacles.
+Spike-o-pult Description,Convertit le singe à fléchettes en herse-a-pulte qui lance violemment une boule à pointes au lieu des fléchettes. Bonne portée mais vitesse d'attaque plus lente. Chaque boule peut faire éclater de nombreux Bloons et rebondit sur les obstacles.
 Triple Shot Description,Lance 3 fléchettes à la fois au lieu d’une.
 Crossbow Description,Utilise une arbalète qui peut faire éclater 3 couches de Bloon à chaque tir.
 Juggernaut Description,Lance violemment une boule à pointes géante qui fait éclater les Bloons en plomb et est idéale pour pulvériser les Bloons en céramique.
@@ -755,13 +755,13 @@ The Tack Zone Description,"Beaucoup, beaucoup de punaises."
 Permafrost Description,"Les Bloons se déplacent lentement, même après avoir dégelé."
 Enhanced Freeze Description,Attaque plus rapidement et gèle plus longtemps.
 Larger Radius Description,Zone de gel plus large.
-Metal Freeze Description,Peut geler et faire éclater les Bloons en plomb.
+Metal Freeze Description,Peut geler et faire éclater les Bloons en plomb et camouflés.
 Deep Freeze Description,Gèle à travers 2 couches de Bloon.
 Re-Freeze Description,Peut regeler les Bloons qui ont déjà été gelés.
 Ice Shards Description,"Des éclats, tels des rasoirs, s'envolent lorsque les Bloons gelés éclatent."
 Arctic Wind Description,Augmente considérablement la percée et confère une aura super froide qui ralentit les Bloons et gèle l'eau à proximité.
 Cryo Cannon Description,"Tire des bombes glaciales sur les Bloons, à longue portée."
-Embrittlement Description,"Détecte les Bloons camouflés et tous les Bloons touchés s'effritent, subissant davantage de dégâts pour un bref laps de temps et perdant leurs propriétés de camouflage et de regonflage de manière permanente."
+Embrittlement Description,"Détecte les Bloons camouflés et tous les Bloons touchés, y compris les MOAB, s'effritent, subissant davantage de dégâts pour un bref laps de temps et perdant leurs propriétés de camouflage et de regonflage de manière permanente."
 Snowstorm Description,"Aptitude Tempête de neige : gèle tous les Bloons ordinaires à l'écran, gèle brièvement les Bloons blancs, zébrés et camouflés, et ralentit les Bloons de classe MOAB."
 Icicles Description,Les Bloons gelés développent des stalactites tranchantes qui peuvent faire éclater les Bloons qui les touchent.
 Super Brittle Description,"Les Bloons, y compris les Bloons de classe MOAB, subissent des dégâts considérables lorsque gelés."
@@ -795,7 +795,7 @@ Bouncing Bullet Description,Les tirs rebondissent vers de nouvelles cibles jusqu
 Semi-Automatic Description,Attaque 3 fois plus vite !
 Maim MOAB Description,Inflige beaucoup plus de dégâts et immobilise les Bloons de classe MOAB pendant un bref laps de temps.
 Supply Drop Description,Aptitude Caisse de ravitaillement : largue une caisse remplie d'argent. L'attaque ordinaire inflige également des dégâts aux Bloons en plomb et augmente la puissance d'éclatement des éclats d'obus.
-Full Auto Rifle Description,"Arme entièrement automatique avec une puissance d'éclatement incroyable, qui inflige également des dégâts aux Bloons en plomb."
+Full Auto Rifle Description,Arme entièrement automatique dotée d'une puissance d'éclatement incroyable.
 Cripple MOAB Description,Les MOAB paralysés sont immobilisés pour plus longtemps et subissent davantage de dégâts lorsque touchés par toutes les autres attaques.
 Elite Sniper Description,Les caisses de ravitaillement fournissent davantage d'argent. Accorde une priorité de ciblage d'élite et un rechargement plus rapide à tous les snipers.
 Elite Defender Description,"Une vie perdue donne à ce sniper une vitesse d'attaque 4 fois supérieure pendant une courte durée, en représailles."
@@ -827,13 +827,13 @@ Buccaneer-Cannon Ship Description,Ajoute un canon puissant qui tire des bombes p
 Buccaneer-Merchantman Description,"Génère de l'argent à chaque manche, automatiquement."
 Buccaneer-Aircraft Carrier Description,Lance des vagues d'avions de chasse qui mitraillent leurs cibles et tirent des missiles sur les Bloons de classe MOAB.
 Buccaneer-Monkey Pirates Description,Ajoute 2 canons au navire et les attaques au canon infligent plus de dégâts. Aptitude Démolition de MOAB : harponne un Bloon de classe MOAB et l'élimine.
-Buccaneer-Favored Trades Description,Attaque plus rapidement et génère beaucoup d'argent à chaque manche. La valeur de revente des singes situés dans le rayon est augmentée et jusqu'à 3 Commerces privilégiés peuvent être cumulés pour une valeur de revente maximale de 95 %.
+Buccaneer-Favored Trades Description,Attaque plus rapidement et génère beaucoup d'argent à chaque manche. La valeur de revente des singes situés dans le rayon est augmentée.
 Buccaneer-Carrier Flagship Description,Inflige davantage de dégâts. Peut placer d'autres singes sur les ponts supérieurs du navire et augmente la vitesse d'attaque de tous les singes aquatiques et singes pilotes d'élite.
 Buccaneer-Pirate Lord Description,"Vitesse d'attaque considérablement augmentée pour toutes les attaques et peut tirer 3 grappins à la fois, recevant de l'argent supplémentaire de chaque Bloon de classe MOAB abattu."
 Buccaneer-Trade Empire Description,Génère plus d'argent à chaque manche. Augmente l'argent obtenu par jusqu'à 20 autres navires de commerce par le nombre de navires de commerce et booste les dégâts de tous les navires de commerce.
 ,
 Rapid Fire Description,Tire plus vite que d'habitude.
-Exploding Pineapple Description,Largue au sol des ananas qui explosent violemment au bout de quelques secondes.
+Exploding Pineapple Description,Largue au sol des ananas qui causent une violente explosion au bout de quelques secondes. Les attaques explosives des pilotes d'élite sont améliorées.
 Sharper Darts Description,Les fléchettes peuvent faire éclater 8 Bloons chacune.
 Lots More Darts Description,Tire 12 fléchettes à la fois.
 Spy Plane Description,Permet au singe pilote d’élite de toucher les Bloons camouflés.
@@ -961,17 +961,17 @@ Permanent Brew Description,La préparation de fou furieux devient PERMANENTE sur
 Total Transformation Description,Transforme cinq singes à proximité en monstres d'attaque déchaînés pendant 20 secondes.
 Bloon Master Alchemist Description,Potion de rétrécissement secrète qui convertit tous les Bloons touchés en Bloons rouges.
 ,
-Hard Thorns Description,Les épines aiguisées peuvent faire éclater 2 Bloons chacune et faire éclater les Bloons gelés.
+Hard Thorns Description,Les épines aiguisées peuvent faire éclater 2 Bloons chacune et faire éclater n'importe quel type de Bloons.
 Thorn Swarm Description,Tire 8 épines à la fois au lieu de 5.
 Druidic Reach Description,Augmente beaucoup la portée.
 Heart of Thunder Description,Déclenche des explosions régulières d'éclair ramifié qui passe de Bloon en Bloon.
 Heart of Oak Description,Les attaques convertissent les Bloons regonflés en Bloons normaux.
 Heart of Vengeance Description,"Gagne 10 % de vitesse d'attaque, plus 1 % pour chaque vie perdue à partir de la valeur de départ après l'amélioration. Plafonné à 100 % et diminue si des vies sont restaurées."
 Druid of the Storm Description,Les coups de vent emportent les Bloons loin du circuit et de la sortie.
-Druid of the Jungle Description,"Invoque une plante grimpante à partir du sol pour emmêler et écraser les Bloons, un par un."
+Druid of the Jungle Description,"Invoque une plante grimpante à partir du sol pour emmêler et écraser les Bloons, un par un, laissant derrière elle un tas de ronces mortel."
 Druid of Wrath Description,Gagne de la vitesse d'attaque durant la manche tant que le druide attaque des Bloons.
 Ball Lightning Description,Crée de puissantes boules de foudre qui lancent des éclairs supplémentaires. 
-Jungle's Bounty Description,"Aptitude Abondance de la jungle : génère de l'argent à chaque utilisation, plus de l'argent supplémentaire pour chaque bananeraie près du druide."
+Jungle's Bounty Description,"Aptitude Abondance de la jungle : génère de l'argent à chaque utilisation, plus de l'argent supplémentaire pour chaque bananeraie près du druide. Peut également saisir deux Bloons à la fois avec des plantes grimpantes."
 Poplust Description,Augmente la vitesse d'attaque et la percée des autres druides dans le rayon d'effet. Peut être cumulé jusqu'à 5 fois sur un même druide.
 Superstorm Description,La super tempête touche tous les types de Bloons en leur infligeant des dégâts considérables et les faisant reculer loin de la sortie.
 Spirit of the Forest Description,Fait pousser des plantes rampantes à épines sur le circuit qui infligent des dégâts constants ainsi qu'un bonus de dégâts aux Bloons en céramique. Les plantes rampantes les plus proches de l'Esprit de la forêt infligent plus de dégâts. L'aptitude activée génère des vies et plus d'argent. 
@@ -979,10 +979,10 @@ Avatar of Wrath Description,"Plus il y a des Bloons, plus il fait de dégâts !
 ,
 Increased Production Description,Fait pousser 2 régimes de bananes supplémentaires par manche.
 Long Life Bananas Description,"Les bananes tiennent pendant 30 secondes, au lieu de 15, avant de pourrir."
-EZ Collect Description,"Le rayon de collecte des bananes est plus large. Pour les Banques simiesques, un halo lumineux apparaît quand la banque est pleine et que tu peux récupérer son contenu."
+EZ Collect Description,Le rayon de collecte des bananes est plus large et les bananes non-collectées sont collectées automatiquement pour la moitié de la valeur. Les Banques simiesques se mettront à luire lorsqu'elles seront pleines et que leur contenu est prêt à être récupéré.
 Greater Production Description,Fait pousser 2 régimes de bananes supplémentaires EN PLUS par manche.
 Valuable Bananas Description,Les bananes rapportent 25 % d'argent en plus par régime. 
-Banana Salvage Description,Les bananes qui n'ont pas été cueillies s'autocollectent pour la moitié du montant.
+Banana Salvage Description,"Les bananes non-collectées sont collectées automatiquement pour presque leur pleine valeur, et le contenu des Banques est récupéré automatiquement lorsqu'elles sont pleines. Taux de revente des fermes augmenté de 10 %"
 Banana Plantation Description,Fait pousser 16 régimes de bananes par manche.
 Monkey Bank Description,Tout l'argent généré par cette bananeraie est désormais placé dans la banque et génère 15 % d'intérêts à chaque manche.
 Marketplace Description,Génère de l'argent à chaque manche et l'ajoute à ton total. Tout simplement.
@@ -991,7 +991,7 @@ IMF loan Description,"Aptitude Prêt du FMI : te prête 10 000 $, mais il va 
 Central Market Description,Gagne des tonnes d'argent à chaque manche et fournit aux navires de commerce + 10 % de revenu.
 Banana Central Description,Tu veux des bananes ? On a des bananes !
 Monkey-Nomics Description,Quand tu es trop grand pour échouer…
-Monkey Wall Street Description,Centre de la finance simiesque qui remporte un revenu colossal à chaque manche.
+Monkey Wall Street Description,Centre de la finance simiesque génère un revenu colossal ainsi que des vies à chaque manche.
 ,
 Sentry Gun Description,Crée des pistolets de sentinelle temporaires et les déploie à proximité.
 Larger Service Area Description,Tire plus loin et déploie des sentinelles dans une zone bien plus vaste. La portée des sentinelles est plus longue.
@@ -1053,7 +1053,7 @@ Monkey Town Description,Tous les singes dans le rayon de la Ville de singes reç
 Primary Mentoring Description,"Tous les singes primaires dans le rayon reçoivent des améliorations de niveau 1 gratuitement, une portée augmentée et des temps de recharge d'aptitudes réduits."
 Call to Arms Description,Aptitude Appel aux armes : +50 % à la vitesse d'attaque et aux éclatements des singes à proximité pendant un bref laps de temps.
 Monkey City Description,"Augmente le rayon d'influence, la génération d'argent au sein du rayon, et te donne un singe à fléchettes gratuit à chaque manche."
-Primary Expertise Description,Ajoute l'attaque Méga Ballista et tous les singes primaires dans le rayon reçoivent plus de puissance d'éclatement et des améliorations de niveaux 1 et 2 gratuitement.
+Primary Expertise Description,"Ajoute l'attaque Méga Ballista et tous les singes primaires dans le rayon reçoivent plus de puissance d'éclatement, les temps de recharge des aptitudes sont encore plus réduits et les améliorations de niveaux 1 et 2 sont gratuites."
 Homeland Defense Description,L'aptitude augmente désormais la vitesse d'attaque et les éclatements de 100 % pour tous les singes pendant 20 secondes. 
 Monkeyopolis Description,"Absorbe toutes les bananeraies et leur revenu, libérant de l'espace pour de nouveaux singes."
 ,
@@ -2623,7 +2623,7 @@ SentryBoom,Sentinelle explosive
 SentryCrushing,Sentinelle à boule à pointes
 SentryCold,Sentinelle givrée
 SentryEnergy,Sentinelle à énergie
-SentryParagon,Sentinelle parangon
+SentryParagon,Sentinelle champion
 EditorNumberOfPlayers,Nombre de joueurs
 EditorCoopAreaDivision,Division de la zone en coop
 InvalidTarget,Cible non valide
@@ -2649,7 +2649,7 @@ Adora Level 16 Description,Le Bras de la lumière devient encore plus mortel.
 Adora Level 17 Description,Adora augmente encore plus la vitesse d'attaque.
 Adora Level 18 Description,Tire 8 Éclairs divins à la fois.
 Adora Level 19 Description,Portée d'attaque augmentée.
-Adora Level 20 Description,La Boule de lumière est considérablement améliorée et la cadence de tir, la portée et les buffs de durée des Sacrifices sont augmentés.
+Adora Level 20 Description,La Boule de lumière est considérablement améliorée et la cadence de tir la portée et les buffs de durée des Sacrifices sont augmentés.
 Carved,Taillée
 BloodyPuddles,Flaques mortelles
 TechBotRequiresAbility,Requiert une tour de singe avec des aptitudes activées
@@ -2741,7 +2741,7 @@ BoomerangTargetingSwitchHands,Changer de main
 VineRupture,Rupture de plantes grimpantes
 VineRuptureDescription,"Confère au druide Esprit de la forêt une nouvelle aptitude permettant de faire éclater toutes les plantes grimpantes sur le circuit, infligeant des dégâts importants à tous les Bloons qui ne sont pas en plomb. De nouvelles plantes grimpantes pousseront à "
 BankDeposits,Dépôts en banque
-BankDepositsDescription,Les banques simiesques peuvent accepter des dépôts d'argent de jeu disponible.
+BankDepositsDescription,Les banques simiesques de niveau 4 et supérieur peuvent accepter des dépôts d'argent de jeu disponible.
 MonkeyBankDeposit,Dépôt
 Achievement 92 Name,Ticket d'or
 Achievement 92 Description,Bloompa-loompa-doompa-dee-doo !
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] pour effectuer Téléportation obscure à portée
 DarkChampionDarkshift,[I] pour effectuer Téléportation obscure à tout endroit valide
 SmallTowersMode,Petites tours de singe
 BigTowersMode,Grandes tours de singe
-UpdatePopupTitle,Mise à jour 27 !
-UpdatePopupDescription,"Mise à jour épique de taille de boss !\n• Les événements de boss Bloons sont arrivés ! Qui ose défier Bloonarius ?!\n• Singes parangons ! Découvrez le tout nouveau niveau parangon pour les singes à fléchettes et boomerang !\n• Mesurez-vous à la nouvelle carte marécageuse de niveau intermédiaire : Bloonarius Prime\n• Nouveaux articles de Boutique de trophées : avec notamment les toutes nouvelles bannières de profils !\n• Rejoindre en coop : rejoignez vos parties coop !\n• Nouveaux succès et récompenses !\n• Modifications d'équilibrage : certaines tours ont subi des modifications plus importantes, consultez les notes de patch pour plus de détails"
+UpdatePopupTitle,Mise à jour 28 !
+UpdatePopupDescription,"Énorme mise à jour de contenu !\n• Batailles de boss en coop ! Mesurez-vous aux événements de boss avec vos amis pour les niveaux max. de parangon !\n• Nouveau boss Bloon : Lych Seigneur des tombes !\n• Classements de boss ! Choisissez le mode Classé et effectuez le meilleur temps dans les classements, que ce soit en solo ou en coop\n• Nouvelle tour parangon : le singe ninja Ombre transcendée est arrivé !\n• Sauda Viking a rejoint la mêlée ! Procurez-vous la nouvelle apparence de Sauda et mettez-vous à trancher !\n• Ne vous séparez pas et ne vous perdez pas dans les bois sur la nouvelle carte de niveau débutant : Le Chalet\n• 12 nouveaux articles de boutique de trophées et 6 tout nouveaux articles à durée limitée de Halloween ; mettez la main dessus tant que vous le pourrez !\n• Équilibrage et correctifs : plein de modifications, consultez les notes de mise à jour pour tous les détails."
 ResetDailyChest,Réinitialiser le Coffre quotidien
 JukeboxName,Juke-box
 EnableFunction,Activer
@@ -3009,7 +3009,7 @@ MonkeyNameInstruction,Choisis un nom personnalisé pour le premier singe de chaq
 OdysseyCompleteDescription,"Félicitations, courageux aventurier ! Tu as terminé ton Odyssée et gagné les récompenses suivantes !"
 HeroBoosterDescription,Booster immédiatement ton héros jusqu'au niveau 10 ?
 InappropriateNamedMonkeyName,Merci de choisir un Nom de singe plus adapté
-PatchNotesLink,"Pour voir l'intégralité des notes de mise à jour, rendez-vous à "
+PatchNotesLink,"Pour voir l'intégralité des notes de mise à jour, veuillez vous rendre à :"
 TrophyPurchaseConfirmation,Acheter {0} pour {1} trophées ?
 TrophyPurchaseInsufficient,Tu n'as pas assez de trophées pour acheter cet objet. Gagnes-en plus grâce aux courses et au mode Odyssée.
 TrophyStoreBought,Acheté(e)
@@ -3024,7 +3024,7 @@ CoopEmoteTextAllIsFineWord,Tout va bien
 PlayerStatsTimesUpgraded,Nombre d'améliorations
 PlayerStatsTimesSacrificed,Nombre de sacrifices
 TrophyStoreInfoHeader,Informations sur la boutique de trophées
-TrophyStoreInfoBody,La boutique de trophées contient de nombreuses améliorations visuelles géniales !\n• Gagne des trophées en terminant des Odyssées et courses\n• Les objets les plus achetés peuvent être activés et désactivés dans l'onglet Inventaire\n• Les pistes de musique achetées sont visibles dans le Jukebox\n• Les avatars achetés sont visibles dans ton Profil dans le menu principal\n• Les singes avec un nom sont modifiables via l'onglet Améliorations dans le jeu
+TrophyStoreInfoBody,"La boutique de trophées contient de nombreuses améliorations visuelles géniales !\n• Gagnez des trophées en terminant des Odyssées, en terminant placé dans des courses et en triomphant de boss\n• Les objets les plus achetés peuvent être activés et désactivés dans l'onglet Inventaire\n• Les morceaux de musique achetés sont visibles dans le Jukebox\n• Les avatars et bannières achetés sont visibles dans votre Profil dans le menu principal\n• Les singes ayant un nom sont modifiables via l'onglet Améliorations dans le jeu"
 RestartOdysseyBody,Es-tu vraiment sûr(e) de vouloir recommencer ton Odyssée ?
 OdysseyBannerRewards,Gagne des récompenses et trophées !
 UpdateNotes,Notes de mise à jour
@@ -3364,9 +3364,9 @@ GrandPrixSpreeDescription,Le coût de participation aux courses en monnaie de si
 ChallengeBrowser,Navigateur de défis
 Trending,Tendance
 Casual,Décontracté
-Newest,Derniers
+Newest,Dernier(s)
 Expert,Expert
-MostLiked,Plus aimés
+MostLiked,Plus aimé(s)
 Favorites,Favoris
 Played,Joués
 MyChallenges,Mes défis
@@ -3490,8 +3490,8 @@ et_challengefreeplaytitle,Défi en jeu libre !
 et_challengefreeplaydescription,Ceci est le mode jeu libre pour les Défis. Tu peux continuer à jouer mais tu ne recevras ni XP ni récompenses.
 GameServicesBlockedText,"Quelque chose bloque l'accès à nos services de jeu. Le gameplay pourrait être affecté, désactivez le service bloquant pour éviter des problèmes inattendus. Pour plus d'informations : https://ninja.kiwi/btd6_network"
 DoubleCashDisabled,Argent doublé désactivé
-UnableToAccessDomain,Impossible d'accéder à {0}, désactivez tout service de blocage et réessayez
-Custom Rounds,Rounds personnalisés
+UnableToAccessDomain,Impossible d'accéder à {0} désactivez tout service de blocage et réessayez
+Custom Rounds,Manches personnalisées
 Warning,Avertissement
 Player Completion Rate,Taux d'achèvement de joueur
 Win Rate,Taux de victoires
@@ -3673,7 +3673,7 @@ PlayerPositionClosed,Position de joueur fermée
 YouFinished,Tu as terminé :
 BestTime,Meilleur temps :
 Claim,Obtenir
-PlayerRejoinedGame,a rejoint la partie
+PlayerRejoinedGame, a rejoint la partie
 PlayerKickedFromGame,{0} a été retiré de la partie
 ConfirmKickPlayer,Veux-tu vraiment retirer {0} ?
 Remove,Retirer
@@ -3681,8 +3681,8 @@ MiniRacesFirstTimeTitle,Mini-courses !
 MiniRacesFirstTimeDescription,"Après avoir terminé une course, tu seras placé dans un classement de mini-courses ainsi que dans la classement des courses principal. Rivalise avec d'autres joueurs dans ta mini-course pour gagner encore plus de prix lorsque la course prend fin !"
 SharingCoop,Rejoins ma partie en coop sur Bloons TD 6 !
 SharingChallenge,Seras-tu capable de relever de défi Bloons TD 6 ?
-btd6_racespass,{0} Passes de course
-btd6_racepass,1 passe de course
+btd6_racespass,Passe de {0} courses
+btd6_racepass,Passe de 1 course
 OdysseyCrewConfirmed,Équipage confirmé
 OdysseyCrewModified,Équipage modifié
 Odysseys,Odyssées
@@ -3699,7 +3699,7 @@ game already opened,Le jeu est déjà ouvert ?
 Psi,Psi
 Psi Short Description,Singe psionique
 Psi Description,"Enfant singe surdouée, Psi ne se sert que du pouvoir de l'esprit pour détruire les Bloons de l'intérieur."
-Psi Level 1 Description,"Quels que soient la distance ou les obstacles, Psi émet des vibrations mortelles qui détruisent complètement les Bloons un par un."
+Psi Level 1 Description,"Quels que soient la distance ou les obstacles, Psi émet des vibrations mortelles qui détruisent complètement les Bloons un par un. Peut cibler les camouflés."
 Psi Level 2 Description,Attaque légèrement plus rapidement.
 Psi Level 3 Description,Décharge psychique : Psi émet une vague de pouvoir qui étourdit les Bloons à proximité pendant longtemps.
 Psi Level 4 Description,L'attaque de Psi peut toucher un autre Bloon s'il est très proche du Bloon ciblé.
@@ -3815,29 +3815,29 @@ FreeEntry,1 Entrée gratuite
 PrivateCoopLobby,Lobby coop privé
 PublicCoopLobby,Lobby coop [{0}]
 MyOdysseys,Mes Odyssées
-OdysseySearch,Rechercher / Code Odyssey ...
-Psychic Blast Ability,Explosion psychique
-Psychic Blast Ability Description,Psi libère une vague de puissance qui étourdit les Bloons à proximité pendant longtemps.
+OdysseySearch,Recherche/Code d'Odyssée...
+Psychic Blast Ability,Décharge psychique
+Psychic Blast Ability Description,Psi émet une vague de pouvoir qui étourdit les Bloons à proximité pendant longtemps.
 Psionic Scream Ability,Cri psionique
-Psionic Scream Ability Description,Psi déchaîne un cri silencieux qui jette les Bloons dans le chaos total.
+Psionic Scream Ability Description,Psi émet un cri silencieux qui plonge les Bloons dans un chaos total.
 EditorMode,Mode éditeur
-ConfirmMaps,Cartes à confirmer: {0}
-ResetOdysseyProgress,Cela invalidera votre progression Odyssey. Êtes-vous sûr?
+ConfirmMaps,Cartes à confirmer : {0}
+ResetOdysseyProgress,Ceci invalidera ta progression en Odyssée. Êtes-vous sûr(e) ?
 OdysseyName,Nom de l'Odyssée
-OdysseyEditor,Éditeur Odyssey
-MaxPowers,Pouvoirs max:
-MaxMonkeySlots,Machines à sous Max Monkey:
+OdysseyEditor,Éditeur d'Odyssée
+MaxPowers,Pouvoirs max. :
+MaxMonkeySlots,Emplacements de singes max. :
 MaxPowerSlots,Emplacements de pouvoirs max. :
 MapNumber,Carte {0}
 ExtremeMode,Mode Extrême :
 Edit,Éditer
-OdysseyInviteReceivedDescription,Vous avez été invité à essayer le code Odyssey: {0}
-SharingOdyssey,Pouvez-vous battre cette odyssée Bloons TD 6?
+OdysseyInviteReceivedDescription,Vous avez été invité(e) à essayer le code d'Odyssée : {0}
+SharingOdyssey,Pouvez-vous battre cette odyssée Bloons TD 6 ?
 EditorPowersIncluded,Pouvoirs inclus
-EditorPowersExcluded,Puissance exclue
-OdysseyDescription,La description:
+EditorPowersExcluded,Pouvoir exclus
+OdysseyDescription,Description :
 SelectDefaultCrew,Sélectionnez l'équipage par défaut
-Completed,Complété
+Completed,Terminé
 BossStart,Commencer l'événement de boss
 BloonariusPrime,Bloonarius Prime
 OdysseyLockedSubmitButtonDescription,Tu as déjà envoyé cette Odyssée
@@ -3859,7 +3859,7 @@ TowerPropMonkeyVillageGermanyFlagShortName,Drapeau Allemagne de village
 TowerPropMonkeyVillageGermanyFlagDescription,Tout le monde sait que la technologie du village de singes Allemagne est ausgezeichnet ! S'affiche pour toutes les améliorations.
 TowerPropMonkeyVillageUKFlagName,Drapeau du Royaume-Uni de village de singes
 TowerPropMonkeyVillageUKFlagShortName,Drapeau Royaume-Uni de village
-TowerPropMonkeyVillageUKFlagDescription,Ce village de singes est fier de faire partie du Commonwealth. La fierté britannique est évidente pour toute les améliorations
+TowerPropMonkeyVillageUKFlagDescription,Ce village de singes est fier de faire partie du Commonwealth. La fierté britannique est évidente pour toutes les améliorations
 BloonsDDTSkinTronName,DDT néon
 BloonsDDTSkinTronShortName,DDT néon
 BloonsDDTSkinTronDescription,"Élancé et mortel, vous pourriez jurer que ce DDT vient du futur. Peut-être est-ce le cas."
@@ -3878,12 +3878,12 @@ CoopEmoteAnimationFistpumpShortName,Poing victorieux
 CoopEmoteAnimationFistpumpDescription,Pour célébrer du boulot bien fait !
 GameUIProfileAvatar44Name,Avatar personnalisé - Singe SAS
 GameUIProfileAvatar44ShortName,Avatar de Singe SAS
-GameUIProfileAvatar44Description,Avatar gagnant par Deacon
+GameUIProfileAvatar44Description,Avatar gagnant par LV-223_Deacon
 GameUIProfileAvatar45Name,Avatar personnalisé - Schéma
 GameUIProfileAvatar45ShortName,Avatar de schéma
 GameUIProfileAvatar45Description,Avatar gagnant par dungeon-raided
-GameUIProfileAvatar46Name,Avatar personnalisé - Ezili
-GameUIProfileAvatar46ShortName,Avatar Ezili
+GameUIProfileAvatar46Name,Avatar personnalisé - Ezili masquée
+GameUIProfileAvatar46ShortName,Avatar Ezili masquée
 GameUIProfileAvatar46Description,Alias Ezili coiffure descente de lit
 GameUIProfileAvatar47Name,Avatar personnalisé - Boule à pointes
 GameUIProfileAvatar47ShortName,Avatar de boule à pointes
@@ -3931,8 +3931,8 @@ EngineerMonkeys,Singes ingénieurs
 SpikeFactorys,Usines de herses
 MonkeyVillages,Villages de singes
 BossInfoPanelTitle,Événement de boss Bloon
-BossInfoPanelDescription,"Salutations, vaillant(e) aventurier(-ière), tu es entré(e) dans le royaume des boss. Bonne chance et n'oublie pas ces règles importantes :\n• L'événement de boss débute dès que tu appuies sur Jouer et il n'y a pas de pause entre les manches.\n• Fais éclat"
-BloonariusInfoPanelDescription,"Le Bloonarius issu de la vase crache des Bloons lorsqu'il subit des dégâts, puis vomit de grosses grappes de Bloons lorsque chaque crâne sur la barre de santé est atteint.\n\nL'enveloppe infusée de vase de Bloonarius le rend lent, mais extrêmement résista"
+BossInfoPanelDescription,"Salutations, vaillant(e) aventurier(-ière), vous êtes entré(e) dans le royaume des boss. Bonne chance et n'oubliez pas ces règles importantes :\n• L'événement de boss débute lorsque vous appuyez sur Jouer, il n'y a pas de pause entre les manches et les boss ne peuvent pas être ralentis.\n• Faites éclater les 5 niveaux de boss pour remporter chaque mode de boss, battez le mode Normal pour déverrouiller le mode Élite.\n•Développez votre économie, préparez vos aptitudes et utilisez le temps entre les niveaux !\n• Gagnez des trophées ou d'autres récompenses à chaque niveau dont vous venez à bout, mais si vous n'arrivez pas à venir à bout d'un niveau en 20 manches, vous perdez.\n• Affrontez d'autres joueurs en mode Classé pour voir qui peut triompher du boss le plus rapidement et gagnez de super prix !\n• Votre meilleur classement en solo OU en coop détermine les récompenses que vous gagnez\n• Les modes Normal et Élite ont des classements et des prix distincts, vous pouvez gagner dans les deux !"
+BloonariusInfoPanelDescription,"Le Bloonarius issu de la vase crache des Bloons lorsqu'il subit des dégâts, puis vomit de grosses grappes de Bloons lorsque chaque crâne sur la barre de santé est atteint.\n\nL'enveloppe infusée de vase de Bloonarius le rend lent, mais extrêmement résistant."
 NextBossIn,Boss apparaît dans : {0}
 ARound,1 manche
 SomeRounds,{0} manches
@@ -3942,7 +3942,7 @@ BoomerangMonkey Paragon,Glaive Dominus
 BoomerangMonkey Paragon Description,Les Bloons verront mes glaives et ils connaîtront la peur.
 TowerEffectAllMonkeysPlacementUpgradesButterfliesName,Effets de placement et d'amélioration Papillons
 TowerEffectAllMonkeysPlacementUpgradesButterfliesShortName,Effets d'amélioration Papillons
-TowerEffectAllMonkeysPlacementUpgradesButterfliesDescription,Apprécie la nature et la beauté tandis que chaque placement et amélioration de singe génère une nuée de papillons.
+TowerEffectAllMonkeysPlacementUpgradesButterfliesDescription,Appréciez la nature et la beauté tandis que chaque placement et amélioration de singe génère une nuée de papillons.
 BossEvent,Événement de boss
 NewCoopGame,Nouvelle partie coop
 Hold,Attendre
@@ -3959,8 +3959,8 @@ PlayerStatsHighestRoundCHIMPS,Meilleure manche CHIMPANZÉS
 PlayerStatsHighestRoundDeflation,Meilleure manche Dégonflage
 Rejoin Coop,Rejoindre coop
 WaitingEndRound,En attente de la fin de la manche en cours
-SoftwareCursor,Curseur logiciel
-LargeCursor,Grand curseur
+SoftwareCursor,Grand curseur
+LargeCursor,Très grand curseur
 Cursor,Curseur
 SandboxCursor,Bac à sable/Curseur
 Achievement 128 Name,Qu'est-ce que cette nouvelle Bloonerie ?
@@ -4014,3 +4014,107 @@ Retry From Checkpoint,Réessayer à partir du point de contrôle
 RetryCheckpointText,Réessayer à partir de ton dernier point de contrôle pendant la manche {0} ?
 Retry From Round,Réessayer à partir de la manche {0}
 EliteBossLockedPopup,Triomphe du boss en difficulté Normale pour débloquer la difficulté Élite
+Custom Odyssey,Odyssée personnalisée
+Creating Odyssey,Odyssée en cours de création
+Creating Challenge,Défi en cours de création
+TheCabin,Le Chalet
+VikingSaudaSaudaSkinName,Apparence Sauda Viking
+VikingSaudaSaudaSkinDescription,Brandissez vos haches !
+HeroesChurchillSentaiSkinPetDroneName,Compagnon drone de Sentai Churchill
+HeroesChurchillSentaiSkinPetDroneShortName,Drone de Sentai Churchill
+HeroesChurchillSentaiSkinPetDroneDescription,La Sentinelle Électronique Navigationnelle Super Avancée S-Y26G calcule les évaluations de menaces à la vitesse de l'éclair et le fait avec style. Pas étonnant qu'on la surnomme SENSAS. Sentai Churchill uniquement
+TowerPetGlueGunnerRatName,Compagnon rat d'encolleur
+TowerPetGlueGunnerRatShortName,Compagnon rat d'encolleur
+TowerPetGlueGunnerRatDescription,"Toujours aux côtés de l'encolleur, surtout au labo. Vous êtes-vous déjà demandé qui effectue les recherches sur les nombreuses propriétés de la colle ? À notre avis, c'est le rat."
+TowerEffectAllMonkeysPlacementUpgradesBatsName,Effets de placement et d'amélioration Chauves-souris
+TowerEffectAllMonkeysPlacementUpgradesBatsShortName,Effets d'amélioration Chauves-souris
+TowerEffectAllMonkeysPlacementUpgradesBatsDescription,Effrayez les Bloons à chaque fois qu'une tour est placée et améliorée avec des animations de chauves-souris malicieuses qui sont délicieusement troublantes sur certaines cartes spécifiques.
+TowerPetMonkeyBuccaneerNarwhalName,Compagnon narval de singe boucanier
+TowerPetMonkeyBuccaneerNarwhalShortName,Compagnon narval de boucanier
+TowerPetMonkeyBuccaneerNarwhalDescription,Admirez le mythique narval à chaque boucanier placé ! Qui d'autre que le puissant boucanier pourrait à la fois régner sur le grand large et se lier d'amitié avec une de ses légendes ?
+TowerProjectileEngineerVampireHunterName,Projectiles d'ingénieur chasseur de vampires
+TowerProjectileEngineerVampireHunterShortName,Ingénieur chasseur de vampires
+TowerProjectileEngineerVampireHunterDescription,"Au cas où les Bloons seraient tous secrètement vampiriques, l'ingénieur peut maintenant s'équiper d'un arsenal de projectiles capables de faire éclater les Bloons vampires, comme des pieux, de l'ail et des cercueils. Pièce de collection à durée limitée !"
+TowerPropMonkeyVillageCanadianFlagName,Drapeau du Canada de village de singes
+TowerPropMonkeyVillageCanadianFlagShortName,Drapeau Canada de village
+TowerPropMonkeyVillageCanadianFlagDescription,"Il était temps, tabarnac' ! Oh Canada, que flotte ce drapeau sur tous tes villages de singes. S'affiche pour toutes les améliorations."
+BloonsZOMGSkinJackOLanternName,ZOMG citrouille-lanterne
+BloonsZOMGSkinJackOLanternShortName,ZOMG citrouille-lanterne
+BloonsZOMGSkinJackOLanternDescription,"La pièce de Sauda qui a remporté le concours annuel de Citrouille-sculptée-comme-un-ZOMG, et elle est toujours capable de trancher une tomate ! Pièce de collection à durée limitée !"
+BloonsAllBloonsVampireCapesName,Bloons à cape de vampire
+BloonsAllBloonsVampireCapesShortName,Bloons à cape de vampire
+BloonsAllBloonsVampireCapesDescription,Déguisez vos Bloons en créatures de la nuit pour ce Halloween ! Pièce de collection à durée limitée !
+CoopEmoteAnimationPanicMonkeyName,Émoticône singe paniqué
+CoopEmoteAnimationPanicMonkeyShortName,Singe paniqué
+CoopEmoteAnimationPanicMonkeyDescription,"C'est votre hôte de coop qui vous parle. S'il vous plaît. Ne paniquez pas. OK, MAINTENANT PANIQUEZ !"
+CoopEmoteAnimationBeggingMonkeyName,Émoticône singe s'il te plaîîîîîît
+CoopEmoteAnimationBeggingMonkeyShortName,Singe s'il te plaîîîîîît
+CoopEmoteAnimationBeggingMonkeyDescription,"S'il te plaîîîîîît, il me manque juste 10 000 pour cette amélioration ! Ce n'est qu'une coïncidence que je sois le joueur 3, promis juré !"
+GameUIPowerSkinThriveStonksName,Pouvoir personnalisé - Actions florissantes
+GameUIPowerSkinThriveStonksShortName,Actions florissantes
+GameUIPowerSkinThriveStonksDescription,"Ben dit de tout investir dans Bananacoin, elle va grimper jusqu'au ciel !"
+GameUIProfileAvatar48Name,Avatar personnalisé - Singe à masque de hockey
+GameUIProfileAvatar48ShortName,Avatar de masque de hockey
+GameUIProfileAvatar48Description,Prenez garde au singe à masque de hockey ! Pièce de collection à durée limitée !
+GameUIProfileAvatar49Name,Avatar personnalisé - Zeppelin plombé
+GameUIProfileAvatar49ShortName,Avatar de Zeppelin plombé
+GameUIProfileAvatar49Description,Avatar gagnant par waywardzuck
+GameUIProfileAvatar50Name,Avatar personnalisé - Best Ben
+GameUIProfileAvatar50ShortName,Avatar de Best Ben
+GameUIProfileAvatar50Description,"Qui s'occupe de vos besoins informatiques ? C'est lui ! Qui balance les gros sons ? C'est lui ! Et qui peut préparer de délicieux sushi pour votre prochain événement d'équipe ? Eh bien, c'est lui, bien sûr."
+GameUIProfileAvatar51Name,Avatar personnalisé - Psi action
+GameUIProfileAvatar51ShortName,Avatar Psi action
+GameUIProfileAvatar51Description,Ne faire qu'un avec l'univers ne signifie pas que Psi ne peut pas s'amuser de temps en temps ! Arborez cet avatar de Psi génial pour lui témoigner un peu d'amour.
+GameUIProfileBanner6Name,Bannière de profil Temple du soleil
+GameUIProfileBanner6ShortName,Bannière Temple du soleil
+GameUIProfileBanner6Description,Admirez le véritable pouvoir d'un Temple du soleil pleinement opérationnel avec cette bannière de profil personnalisée épique
+GameUIProfileBanner7Name,Bannière de profil Fantômes et friandises
+GameUIProfileBanner7ShortName,Bannière Fantômes et friandises
+GameUIProfileBanner7Description,Farce ou friandise ! La bannière de profil idéale pour Halloween
+LychTagLine,Le Seigneur des tombes
+LychTagLine2,est ressuscité !
+Lych,Lych
+LychInfoPanelDescription,"• Le Seigneur des tombes Lych draine les bonus de vos singes et se guérit en le faisant.\n• Lorsque chaque crâne de sa barre de santé est atteint, Lych devient éthéré et ressuscite les enveloppes vides de Bloons de classe MOAB récemment éclatés.\n• Lorsqu'il est éthéré, Lych ne peut pas subir de dégâts jusqu'à ce que tous les Bloons ressuscités aient été éclatés, y compris le Bloon âme de Lych draineur de vie.\n• Les Bloons de classe MOAB ressuscités n'engendrent pas de petits."
+EditorReviewMap,Passer la carte en revue
+YourBestTime,Votre meilleur temps
+Boss,Boss
+MiniBoss,Mini-boss
+NormalRewards,Récompenses en Normal
+EliteRewards,Récompenses en Élite
+1Player,1 joueur
+2Player,2 joueurs
+3Player,3 joueurs
+4Player,4 joueurs
+BossLeaderboard,Classement de boss
+LeaderboardSubmissionFail,Impossible de soumettre au classement
+SafeNameChallenge,Défi de {0}
+SafeNameOdyssey,Odyssée de {0}
+BossEventEnded,L'événement de boss est terminé !
+RankedNormal,Classé Normal
+RankedElite,Classé Élite
+StartRankedBoss,Commencer boss Classé
+MusicHaunted,Maison hantée
+GameUIMusicTrackMusicHauntedName,Juke-box : Maison hantée
+GameUIMusicTrackMusicHauntedShortName,Juke-box : Maison hantée
+GameUIMusicTrackMusicHauntedDescription,Les rythmes troublants et spectraux font de ce morceau un élément essentiel d'Halloween ou des sessions de jeu tard dans la nuit. Pièce de collection à durée limitée !
+NSCameraUsageDescription,Captures d'écran pour tickets d'assistance
+btd6_needmoremonkeymoneyprompt_no_iap,Pas assez de monnaie de singe !
+UseRacePassDescription,Utiliser un passe de course pour obtenir un nombre d'entrées illimité pour cette course ?
+RacePassActivated,Passe de course activé
+UseRacePassTitle,Utiliser un passe de course ?
+Elite Best Time,Meilleur temps en Élite
+Normal Best Time,Meilleur temps en Normal
+NormalCursor,Curseur normal
+MayAffectPerformance,*Peut affecter la performance
+GameUIMusicTrackMusicOnslaughtName,Déferlante
+GameUIMusicTrackMusicOnslaughtShortName,Déferlante
+GameUIMusicTrackMusicOnslaughtDescription,Circuit de boss Déferlante
+SharingCoopBoss,Rejoins ma partie de boss sur Bloons TD 6 !
+EliteBossEvent,Événement de boss Élite
+NinjaMonkey Paragon,Ombre transcendée
+NinjaMonkey Paragon Description,L'ensemble complet d'assassin pour faire face à toute menace de Bloons.
+Elite,Élite
+HackGameStopMessage,"Les valeurs de la partie de peuvent pas être re-synchronisées. Malheureusement, cette partie ne peut pas se poursuivre. Veuillez essayer une nouvelle partie."
+RankedMode,Mode Classé
+Any,N’importe lequel
+ScoreNotVerifiable,Votre score n'a pas été envoyé car il n'a pas pu être vérifié.

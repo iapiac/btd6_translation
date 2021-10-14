@@ -173,7 +173,7 @@ Benjamin Level 3 Description,Biohack: 4 closest Monkeys pop an extra layer per a
 Benjamin Level 4 Description,Skimming - earns +$1 for every new Bloon spawned.
 Benjamin Level 5 Description,Bank Hack - all banks earn +5% income.
 Benjamin Level 6 Description,Cyber Security - Restores 5 lives at the end of each round.
-Benjamin Level 7 Description,Bloon Trojan - Every few seconds sends a Trojan software virus to random Bloon. Affected Bloon spawns no children when destroyed and produce 2x cash.
+Benjamin Level 7 Description,Bloon Trojan - Every few seconds sends a Trojan software virus to random Bloon. Affected Bloon spawns no children when destroyed and produces 1 extra cash for every layer.
 Benjamin Level 8 Description,Income increased to $250 per round.
 Benjamin Level 9 Description,Bank hack increased to 12%
 Benjamin Level 10 Description,Syphon Funding: Downgrades most newly spawned Bloons by 1 rank. Cash per pop from affected Bloons is double. Lasts 10 seconds.
@@ -241,14 +241,14 @@ Ezili Level 8 Description,Ezili's attack does far more damage to MOAB-Class Bloo
 Ezili Level 9 Description,"Ezili's attack strips off Camo, Regrow and Fortified properties from non-MOAB class Bloons."
 Ezili Level 10 Description,"MOAB Hex: places a curse on a MOAB-Class Bloon, it takes damage every second until annihilated."
 Ezili Level 11 Description,Increased attack range. Increases pierce of reanimated Bloons by 50%.
-Ezili Level 12 Description,Heartstopper reduced cooldown and increased duration.
+Ezili Level 12 Description,Heartstopper reduced cooldown and increased duration. Deals increased damage to MOABs.
 Ezili Level 13 Description,Base attack larger splash radius and increased pierce.
 Ezili Level 14 Description,Faster damage over time.
-Ezili Level 15 Description,Increased range.
+Ezili Level 15 Description,Increased range. Damage over time lasts longer.
 Ezili Level 16 Description,Sacrificial Totem lasts longer and costs only 1 life to use.
 Ezili Level 17 Description,Base attack larger splash radius and increased pierce.
 Ezili Level 18 Description,Increased attack speed.
-Ezili Level 19 Description,Each damage tick from base attack pops 2 layers!
+Ezili Level 19 Description,Each damage tick from base attack pops 3 layers!
 Ezili Level 20 Description,MOAB Hex works faster and can destroy BAD Bloons.
 ,
 //Hero Ability Names,
@@ -357,7 +357,7 @@ The Tack Zone,The Tack Zone
 Permafrost,Permafrost
 Enhanced Freeze,Enhanced Freeze
 Larger Radius,Larger Radius
-Metal Freeze,Metal Freeze
+Metal Freeze,Cold Snap
 Deep Freeze,Deep Freeze
 Re-Freeze,Re-Freeze
 Ice Shards,Ice Shards
@@ -607,7 +607,7 @@ Double Gun,Double Gun
 Sentry Expert,Sentry Expert
 Overclock,Overclock
 Bloon Trap,Bloon Trap
-Sentry Paragon,Sentry Paragon
+Sentry Paragon,Sentry Champion
 Ultraboost,Ultraboost
 XXXL Trap,XXXL Trap
 ,
@@ -755,13 +755,13 @@ The Tack Zone Description,"Many, many tacks."
 Permafrost Description,Bloons move slowly even after thawing out.
 Enhanced Freeze Description,Attacks faster and freezes for longer.
 Larger Radius Description,Larger freeze area.
-Metal Freeze Description,Can freeze and pop Lead Bloons.
+Metal Freeze Description,Can freeze and pop Lead and Camo Bloons.
 Deep Freeze Description,Freezes through 2 layers of Bloon.
 Re-Freeze Description,Can re-freeze Bloons that are already frozen.
 Ice Shards Description,Razor sharp shards fly out when Frozen Bloons pop.
 Arctic Wind Description,Greatly increases pierce & gains a super cold aura that slows Bloons and freezes water nearby.
 Cryo Cannon Description,Shoots freezing bombs at Bloons over longer range.
-Embrittlement Description,"Detects Camo Bloons and all Bloons hit become brittle, taking extra damage for a short time and losing Camo & Regrow properties permanently."
+Embrittlement Description,"Detects Camo Bloons and all Bloons including MOABs hit become brittle, taking extra damage for a short time and losing Camo & Regrow properties permanently."
 Snowstorm Description,"Snowstorm Ability: Freezes all regular Bloons on screen, briefly freezes White, Zebra, and Camo, and slows MOAB-class."
 Icicles Description,Frozen Bloons grow sharp icicles that can pop Bloons that touch them.
 Super Brittle Description,Bloons take huge damage while frozen including MOAB-Class Bloons.
@@ -795,7 +795,7 @@ Bouncing Bullet Description,Shots bounce to new targets up to 3 times.
 Semi-Automatic Description,Attacks 3x as fast!
 Maim MOAB Description,Deals much more damage and immobilizes MOAB class bloons for a short time.
 Supply Drop Description,Supply Drop Ability: drops a crate full of cash. Regular attack also damages Lead Bloons and increases Shrapnel popping power.
-Full Auto Rifle Description,"Fully automatic weapon with incredible popping power, including damage to Lead Bloons."
+Full Auto Rifle Description,Fully automatic weapon with incredible popping power.
 Cripple MOAB Description,Crippled MOABs are immobilized for longer and take extra damage from all other attacks.
 Elite Sniper Description,Supply drop gives much more cash. Grants Elite targeting prio and faster reload to all snipers.
 Elite Defender Description,A lost life gives this Sniper 4x attack speed for a short time in retaliation. Also attacks faster the further the Bloons are along the track.
@@ -827,13 +827,13 @@ Buccaneer-Cannon Ship Description,Adds a powerful cannon that shoots out powerfu
 Buccaneer-Merchantman Description,Generates cash each round automatically.
 Buccaneer-Aircraft Carrier Description,Launches waves of fighter planes that strafe their targets and fire missiles at MOAB class Bloons.
 Buccaneer-Monkey Pirates Description,Adds 2 cannons to the ship and cannon attacks do more damage. MOAB Takedown Ability: harpoons a MOAB class Bloon and brings it down.
-Buccaneer-Favored Trades Description,Attacks faster and generates lots of money per round. Monkeys in radius have increased sell value and can stack up to 3 Favored Trades for 95% max sell value.
+Buccaneer-Favored Trades Description,Attacks faster and generates lots of money per round. Monkeys in radius have increased sell value.
 Buccaneer-Carrier Flagship Description,Does extra damage. Can place other Monkeys on the upper decks of the ship and increases attack speed of all water based Monkeys and Monkey Aces.
 Buccaneer-Pirate Lord Description,"Greatly increased attack speed for all attacks and can shoot 3 grappling hooks at once, plundering extra cash from each MOAB-class Bloon taken down."
 Buccaneer-Trade Empire Description,"Generates more cash per round, increases cash earned by up to 20 other Merchantmen by the number of Merchantmen, and boosts all Merchantmen damage."
 ,
 Rapid Fire Description,Shoots faster than normal.
-Exploding Pineapple Description,Drops pineapples to the ground that explode violently after a few seconds.
+Exploding Pineapple Description,Drops pineapples to the ground that explode violently after a few seconds. Ace's explosive attacks are improved.
 Sharper Darts Description,Darts can pop 8 Bloons each.
 Lots More Darts Description,Shoots 12 darts at a time.
 Spy Plane Description,Allows Monkey Ace to hit Camo Bloons.
@@ -961,17 +961,17 @@ Permanent Brew Description,Berserker brew becomes PERMANENT on Monkeys who drink
 Total Transformation Description,Transforms five Monkeys nearby into crazy attack monsters for 20 seconds.
 Bloon Master Alchemist Description,Secret shrink potion converts all affected Bloons to Red Bloons.
 ,
-Hard Thorns Description,Hard thorns can pop 2 Bloons each and pop Frozen Bloons.
+Hard Thorns Description,Hard thorns can pop 2 Bloons each and pop any Bloon type.
 Thorn Swarm Description,Shoots 8 thorns per shot instead of 5.
 Druidic Reach Description,Increases range by a large amount.
 Heart of Thunder Description,Unleashes regular blasts of forked lightning that arc from Bloon to Bloon.
 Heart of Oak Description,Attacks convert Regrow Bloons into normal Bloons.
 Heart of Vengeance Description,Gains 10% attack speed and 1% for every life lost from the starting value after the upgrade. Maxes at 100% and diminishes if lives are restored.
 Druid of the Storm Description,Gusts of wind blow Bloons off the track away from the exit.
-Druid of the Jungle Description,Calls a vine from the ground to entangle and crush Bloons one at a time.
+Druid of the Jungle Description,"Calls a vine from the ground to entangle and crush Bloons one at a time, leaving behind a deadly thorn pile."
 Druid of Wrath Description,Gains attack speed during the round as long as the Druid is attacking Bloons.
 Ball Lightning Description,Creates powerful balls of lightning that shoot additional lightning bolts. 
-Jungle's Bounty Description,"Jungle's Bounty Ability: Generates cash each use, plus extra cash per Banana Farm near the Druid."
+Jungle's Bounty Description,"Jungle's Bounty Ability: Generates cash each use, plus extra cash per Banana Farm near the Druid. Can also grab two Bloons with vines at once."
 Poplust Description,Boosts attack speed and pierce for other Druids in the radius. Can stack up to 5 times on any single Druid.
 Superstorm Description,Superstorm blasts all Bloon types for massive damage and blows them away from the exit.
 Spirit of the Forest Description,Grows thorned vines along the path that deal constant damage and bonus damage to ceramics. Vines nearest the Spirit of the Forest do more damage. Activated ability generates lives and more cash.
@@ -979,10 +979,10 @@ Avatar of Wrath Description,"The more Bloons there are, the more damage it does!
 ,
 Increased Production Description,Grows 2 extra Banana bunches per round.
 Long Life Bananas Description,Bananas last 30 seconds before rotting instead of 15.
-EZ Collect Description,"The collect radius of Bananas is larger. For Monkey Banks, glows when bank is full and ready to collect."
+EZ Collect Description,The collect radius of Bananas is larger and uncollected Bananas auto-collect for half value. Monkey Banks will glow when full and ready to collect.
 Greater Production Description,Grows 2 MORE extra Banana bunches per round.
 Valuable Bananas Description,Bananas are worth 25% more cash per bunch. 
-Banana Salvage Description,"Uncollected Bananas auto-collect for half the amount, and Banks auto-collect when full."
+Banana Salvage Description,"Uncollected Bananas auto-collect for almost their full amount, and Banks auto-collect when full. Farm sellback rate increased by 10%"
 Banana Plantation Description,Grows 16 Banana bunches per round.
 Monkey Bank Description,All money generated by this farm is now stored in the bank and earns 15% interest each round.
 Marketplace Description,Generates money each round and adds it to your total. No fuss.
@@ -991,7 +991,7 @@ IMF loan Description,"IMF Loan ability: Gives you $10,000 but you have to pay it
 Central Market Description,Earns heaps of money each round and gives Merchantmen +10% income.
 Banana Central Description,You want Banana? We have Banana!
 Monkey-Nomics Description,For when you're too big to fail...
-Monkey Wall Street Description,Hub of Monkey trades earns colossal income each round.
+Monkey Wall Street Description,Hub of Monkey trades earns colossal income and generates lives each round.
 ,
 Sentry Gun Description,Creates temporary sentry guns and deploys them nearby.
 Larger Service Area Description,Shoots further and deploys sentries in a much larger area. Sentries have longer range.
@@ -1053,7 +1053,7 @@ Monkey Town Description,All Monkeys within the radius of the Monkey Town get ext
 Primary Mentoring Description,"All Primary Monkeys in radius get tier 1 upgrades for free, increased range and reduced ability cooldowns."
 Call to Arms Description,Call to Arms Ability: Gives nearby Monkeys +50% attack speed and pops for a short time.
 Monkey City Description,"Increases influence radius, cash generation in radius, and gives you a free Dart Monkey every round."
-Primary Expertise Description,"Adds Mega Ballista attack, plus all Primary Monkeys in radius get more popping power and tier 1 and 2 upgrades for free. "
+Primary Expertise Description,"Adds Mega Ballista attack, plus all Primary Monkeys in radius get more popping power, ability cooldowns reduced further and tier 1 and 2 upgrades for free. "
 Homeland Defense Description,Ability now increases attack speed and pops by 100% for all Monkeys for 20 seconds
 Monkeyopolis Description,"Absorbs all nearby Banana Farms and their income, freeing up space for new Monkeys."
 ,
@@ -2623,7 +2623,7 @@ SentryBoom,Boom Sentry
 SentryCrushing,Crushing Sentry
 SentryCold,Cold Sentry
 SentryEnergy,Energy Sentry
-SentryParagon,Paragon Sentry
+SentryParagon,Champion Sentry
 EditorNumberOfPlayers,Number of Players
 EditorCoopAreaDivision,Co-op Area Division
 InvalidTarget,Invalid Target
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] to Darkshift within range
 DarkChampionDarkshift,[I] to Darkshift to any valid location
 SmallTowersMode,Small Monkey Towers
 BigTowersMode,Big Monkey Towers
-UpdatePopupTitle,Update 27!
-UpdatePopupDescription,"Epic Boss-sized content update!\n• Boss Bloon Events have arrived! Who dares challenge Bloonarius?!\n• Paragon Monkeys! Try out the all new Paragon Tier for Dart and Boomerang!\n• Brave the swampy new Intermediate map: Bloonarius Prime\n• New trophy store items: including brand new Profile Banners!\n• Co-op rejoining: Get back into your co-op games!\n• New achievements and rewards!\n• Balance changes: some towers have had bigger changes, check the patch notes for more"
+UpdatePopupTitle,Update 28!
+UpdatePopupDescription,"Huge content update!\n• Co-Op Boss Battles! Take on Boss Events with your friends for max Paragon levels!\n• New Boss Bloon - Gravelord Lych!\n• Boss Leaderboards! Choose Ranked Mode and set the best time on the leaderboards whether playing solo or co-op\n• New Paragon Tower - Ninja Monkey Ascended Shadow has arrived!\n• Viking Sauda has entered the fray! Grab the new Sauda skin and get slicin'!\n• Don't split up or get lost in the woods on the new Beginner Map - The Cabin\n• 12 new trophy store items, plus 6 all new Limited Time Halloween items - get them while you can!\n• Balancing and fixes - plenty of changes, check the update notes for all the details"
 ResetDailyChest,Reset Daily Chest
 JukeboxName,Jukebox
 EnableFunction,Enable
@@ -3009,7 +3009,7 @@ MonkeyNameInstruction,Choose a custom name for the first monkey of every type. L
 OdysseyCompleteDescription,"Congratulations, brave adventurer! You have completed your Odyssey and earned these rewards!"
 HeroBoosterDescription,Boost hero to Level 10 immediately?
 InappropriateNamedMonkeyName,Please choose a more appropriate Monkey Name
-PatchNotesLink,"For full update notes, go to "
+PatchNotesLink,"For full update notes, please go to:"
 TrophyPurchaseConfirmation,Purchase {0} for {1} Trophies?
 TrophyPurchaseInsufficient,You do not have enough Trophies to purchase this item. Get more from Races and Odyssey Mode.
 TrophyStoreBought,Bought
@@ -3024,7 +3024,7 @@ CoopEmoteTextAllIsFineWord,All Is Fine
 PlayerStatsTimesUpgraded,Times Upgraded
 PlayerStatsTimesSacrificed,Times Sacrificed
 TrophyStoreInfoHeader,Trophy Store Info
-TrophyStoreInfoBody,The Trophy Store is home to heaps of awesomer cosmetic upgrades!\n• Earn Trophies by completing Odysseys and placing in Races\n• Most purchased items can be enabled and disabled in the Inventory Tab\n• Purchased music tracks appear in the Jukebox\n• Purchased Avatars appear in your Main Menu Profile\n• Named Monkeys are edited via the Upgrades panel in-game
+TrophyStoreInfoBody,"The Trophy Store is home to heaps of awesomer cosmetic upgrades!\n• Earn Trophies by completing Odysseys, placing in Races and beating Bosses\n• Most purchased items can be enabled and disabled in the Inventory Tab\n• Purchased music tracks appear in the Jukebox\n• Purchased Avatars and Banners appear in your Main Menu Profile\n• Named Monkeys are edited via the Upgrades panel in-game"
 RestartOdysseyBody,Are you sure you want to restart your Odyssey?
 OdysseyBannerRewards,Earn Rewards and Trophies!
 UpdateNotes,Update Notes
@@ -3876,12 +3876,12 @@ CoopEmoteAnimationFistpumpShortName,Fist Pump
 CoopEmoteAnimationFistpumpDescription,For celebrating a job well done!
 GameUIProfileAvatar44Name,Custom Avatar - SAS Monkey
 GameUIProfileAvatar44ShortName,SAS Monkey Avatar
-GameUIProfileAvatar44Description,Avatar winner by Deacon
+GameUIProfileAvatar44Description,Avatar winner by LV-223_Deacon
 GameUIProfileAvatar45Name,Custom Avatar - Blueprint
 GameUIProfileAvatar45ShortName,Blueprint Avatar
 GameUIProfileAvatar45Description,Avatar winner by dungeon-raided
-GameUIProfileAvatar46Name,Custom Avatar - Ezili
-GameUIProfileAvatar46ShortName,Ezili Avatar
+GameUIProfileAvatar46Name,Custom Avatar - Masked Ezili
+GameUIProfileAvatar46ShortName,Masked Ezili Avatar
 GameUIProfileAvatar46Description,Also known as Morning Hair Ezili
 GameUIProfileAvatar47Name,Custom Avatar - Spiked Ball
 GameUIProfileAvatar47ShortName,Spiked Ball Avatar
@@ -3930,8 +3930,8 @@ EngineerMonkeys,Engineer Monkeys
 SpikeFactorys,Spike Factories
 MonkeyVillages,Monkey Villages
 BossInfoPanelTitle,Boss Bloon Event
-BossInfoPanelDescription,"Greetings brave adventurer, you have entered the realm of Bosses. Good luck and remember these important rules:\n• The Boss Event begins as soon as you hit Play and there is no pause between rounds.\n• Pop all 5 tiers of Boss to win each Boss mode.\n• Build your economy, prepare your abilities and make use of the time between tiers!\n• Earn Trophies and other rewards with each tier defeated.\n• Unlock Elite mode after winning Normal mode"
-BloonariusInfoPanelDescription,Sludge-dwelling Bloonarius spews Bloons as it takes damage then disgorges massive Bloon clusters when each skull on the health bar is reached.\n\nBloonarius' sludge infused husk makes it slow but extremely tough.
+BossInfoPanelDescription,"Greetings brave adventurer, you have entered the realm of Bosses! Good luck and remember these important rules:\n• The Boss Event begins when you hit Play, there is no pause between rounds, and Bosses cannot be slowed.\n• Pop all 5 tiers of Boss to win each Boss mode, beat Normal to unlock Elite.\n• Build your economy, prepare your abilities, and make use of the time between tiers!\n• Earn Trophies or other rewards with each tier defeated, but fail to defeat a tier in 20 rounds and you lose.\n• Compete against other players in Ranked Mode to see who can beat the Boss fastest and earn great prizes!\n• Your best ranking in single player OR co-op determines the rewards you win.\n• Normal and Elite modes have separate leaderboards and prizes, you can win on both!"
+BloonariusInfoPanelDescription,"Sludge-dwelling Bloonarius spews Bloons as it takes damage, then disgorges massive Bloon clusters when each skull on the health bar is reached.\n\nBloonarius' sludge infused husk makes it slow but extremely tough."
 NextBossIn,Boss Appears In: {0}
 ARound,1 Round
 SomeRounds,{0} Rounds
@@ -3958,8 +3958,8 @@ PlayerStatsHighestRoundCHIMPS,Highest Round CHIMPS
 PlayerStatsHighestRoundDeflation,Highest Round Deflation
 Rejoin Coop,Rejoin Co-op
 WaitingEndRound,Waiting for the end of the current round
-SoftwareCursor,Software Cursor
-LargeCursor,Large Cursor
+SoftwareCursor,Large Cursor
+LargeCursor,X-Large Cursor
 Cursor,Cursor
 SandboxCursor,Sandbox/Cursor
 Achievement 128 Name,What is this new Bloonery?
@@ -4013,3 +4013,107 @@ Retry From Checkpoint,Retry From Checkpoint
 RetryCheckpointText,Retry from your last checkpoint at Round {0}?
 Retry From Round,Retry From Round {0}
 EliteBossLockedPopup,Defeat the Boss on Normal Difficulty to unlock Elite Difficulty
+Custom Odyssey,Custom Odyssey
+Creating Odyssey,Creating Odyssey
+Creating Challenge,Creating Challenge
+TheCabin,The Cabin
+VikingSaudaSaudaSkinName,Viking Sauda Skin
+VikingSaudaSaudaSkinDescription,Axes at the ready!
+HeroesChurchillSentaiSkinPetDroneName,Sentai Churchill Drone Pet
+HeroesChurchillSentaiSkinPetDroneShortName,Sentai Churchill Drone
+HeroesChurchillSentaiSkinPetDroneDescription,Super Advanced Scout Sentry Y26G computes laser fast threat assessment and looks good doing it. No surprise we call it SASSY. Sentai Churchill only
+TowerPetGlueGunnerRatName,Glue Gunner Rat Pet
+TowerPetGlueGunnerRatShortName,Glue Gunner Rat Pet
+TowerPetGlueGunnerRatDescription,"Always at Glue Gunner's side, especially in the lab. Ever wonder who does the science behind glue's many properties? We think it's the rat."
+TowerEffectAllMonkeysPlacementUpgradesBatsName,Bats Placement and Upgrade Effects
+TowerEffectAllMonkeysPlacementUpgradesBatsShortName,Bats Upgrade FX
+TowerEffectAllMonkeysPlacementUpgradesBatsDescription,Spook the Bloons every time a tower is placed and upgraded with wicked bat animations that are hauntedly awesome on specific maps. 
+TowerPetMonkeyBuccaneerNarwhalName,Monkey Buccaneer Narwhal Pet
+TowerPetMonkeyBuccaneerNarwhalShortName,Buccaneer Narwhal Pet
+TowerPetMonkeyBuccaneerNarwhalDescription,Behold the mythic Narwhal with every Bucc placed! Who but the mighty Buccaneer could both rule the high seas and befriend their legends?!
+TowerProjectileEngineerVampireHunterName,Vampire Hunter Engineer Projectiles
+TowerProjectileEngineerVampireHunterShortName,Vampire Hunter Engineer
+TowerProjectileEngineerVampireHunterDescription,"On the off chance that Bloons are secretly all vampiric, the Engineer can now equip an arsenal of vampbloon popping projectiles like stakes, garlic, and coffins. Limited Time Collector's Item!"
+TowerPropMonkeyVillageCanadianFlagName,Monkey Village Canada Flag
+TowerPropMonkeyVillageCanadianFlagShortName,Village Canada Flag
+TowerPropMonkeyVillageCanadianFlagDescription,"Well it's aboot time! Oh Canada, fly this flag on all your Monkey Villages. Shows for all upgrades"
+BloonsZOMGSkinJackOLanternName,Jack-o-Lantern ZOMG
+BloonsZOMGSkinJackOLanternShortName,Jack-o-Lantern ZOMG
+BloonsZOMGSkinJackOLanternDescription,"Sauda's winning entry in the Annual Pumpkin-Carved-Like-A-ZOMG competition, and she's still able to cut a tomato! Limited Time Collector's Item!"
+BloonsAllBloonsVampireCapesName,Vampire Cape Bloons
+BloonsAllBloonsVampireCapesShortName,Vampire Cape Bloons
+BloonsAllBloonsVampireCapesDescription,Dress up your Bloons as creatures of the night this Halloween! Limited Time Collector's Item!
+CoopEmoteAnimationPanicMonkeyName,Panic Monkey Emote
+CoopEmoteAnimationPanicMonkeyShortName,Panic Monkey
+CoopEmoteAnimationPanicMonkeyDescription,"This is your co-op host speaking. Please. Don't Panic. Ok, NOW PANIC!"
+CoopEmoteAnimationBeggingMonkeyName,Pleeeease Monkey Emote
+CoopEmoteAnimationBeggingMonkeyShortName,Pleeeease Monkey
+CoopEmoteAnimationBeggingMonkeyDescription,"Pleeeease, I only need 10k more for this upgrade! It's just a coincidence that I'm player 3, honest!"
+GameUIPowerSkinThriveStonksName,Custom Power - Thrive Stonks
+GameUIPowerSkinThriveStonksShortName,Thrive Stonks
+GameUIPowerSkinThriveStonksDescription,"Ben says invest everything into Bananacoin, it's going to the moon!"
+GameUIProfileAvatar48Name,Custom Avatar - Hockey Mask Monkey
+GameUIProfileAvatar48ShortName,Hockey Mask Avatar
+GameUIProfileAvatar48Description,Beware the Hockey Mask Monkey! Limited Time Collector's Item!
+GameUIProfileAvatar49Name,Custom Avatar - Lead Zeppelin
+GameUIProfileAvatar49ShortName,Lead Zeppelin Avatar
+GameUIProfileAvatar49Description,Avatar winner by waywardzuck
+GameUIProfileAvatar50Name,Custom Avatar - Best Ben
+GameUIProfileAvatar50ShortName,Best Ben Avatar
+GameUIProfileAvatar50Description,"Who's got your IT needs covered? This guy! Who plays the phat beats? This guy! And who can cater your next team event with delicious sushi? Well, this guy of course."
+GameUIProfileAvatar51Name,Custom Avatar - Action Psi
+GameUIProfileAvatar51ShortName,Action Psi Avatar
+GameUIProfileAvatar51Description,Being at one with the universe all the time doesn't mean Psi can't have a little fun now and then! Rock this awesome Psi avatar to show them some love.
+GameUIProfileBanner6Name,Sun Temple Profile Banner
+GameUIProfileBanner6ShortName,Sun Temple Banner
+GameUIProfileBanner6Description,Witness the true power of a fully operational Sun Temple with this epic custom profile banner
+GameUIProfileBanner7Name,Ghosts'n'Candy Profile Banner
+GameUIProfileBanner7ShortName,Ghosts'n'Candy Banner
+GameUIProfileBanner7Description,Trick or treat! The perfect Halloween custom profile banner
+LychTagLine,The Gravelord
+LychTagLine2,has been Resurrected!
+Lych,Lych
+LychInfoPanelDescription,"• Gravelord Lych drains buffs from your Monkeys, healing itself in the process.\n• When each skull on its health bar is reached, Lych goes ethereal, resurrecting the empty shells of recently popped MOAB class Bloons.\n• When ethereal, Lych cannot be damaged until all resurrected Bloons have been popped, including the life-draining Lych-soul Bloon.\n• Resurrected MOAB class Bloons do not spawn children, selling towers will heal Lych."
+EditorReviewMap,Review Map
+YourBestTime,Your Best Time
+Boss,Boss
+MiniBoss,Mini Boss
+NormalRewards,Normal Rewards
+EliteRewards,Elite Rewards
+1Player,1 Player
+2Player,2 Player
+3Player,3 Player
+4Player,4 Player
+BossLeaderboard,Boss Leaderboard
+LeaderboardSubmissionFail,Can't Submit To Leaderboard
+SafeNameChallenge,{0}'s Challenge
+SafeNameOdyssey,{0}'s Odyssey
+BossEventEnded,The Boss Event has ended!
+RankedNormal,Ranked Normal
+RankedElite,Ranked Elite
+StartRankedBoss,Start Ranked Boss
+MusicHaunted,Haunted House
+GameUIMusicTrackMusicHauntedName,Jukebox: Haunted House
+GameUIMusicTrackMusicHauntedShortName,Jukebox: Haunted House
+GameUIMusicTrackMusicHauntedDescription,Haunting beats and spectral rhythms make this the must have track for Halloween or late night play sessions. Limited Time Collector's Item!
+NSCameraUsageDescription,Screenshots for Support Tickets
+btd6_needmoremonkeymoneyprompt_no_iap,Not enough Monkey Money!
+UseRacePassDescription,Use a Race Pass to get unlimited entries for this Race?
+RacePassActivated,Race Pass Activated
+UseRacePassTitle,Use Race Pass?
+Elite Best Time,Elite Best Time
+Normal Best Time,Normal Best Time
+NormalCursor,Normal Cursor
+MayAffectPerformance,*May Affect Performance
+GameUIMusicTrackMusicOnslaughtName,Onslaught
+GameUIMusicTrackMusicOnslaughtShortName,Onslaught
+GameUIMusicTrackMusicOnslaughtDescription,Onslaught Boss Track
+SharingCoopBoss,Join my boss game on Bloons TD 6!
+EliteBossEvent,Elite Boss Event
+NinjaMonkey Paragon,Ascended Shadow
+NinjaMonkey Paragon Description,The complete assassin package for dealing with any Bloon threat.
+Elite,Elite
+HackGameStopMessage,Game values cannot be resynced. Unfortunately this game cannot continue. Please try a new game.
+RankedMode,Ranked Mode
+Any,Any
+ScoreNotVerifiable,Your score was not submitted as it could not be verified.
