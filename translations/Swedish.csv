@@ -152,7 +152,7 @@ Gwendolin Level 3 Description,Eldcocktail: Slungar en flaska med brandfarlig vä
 Gwendolin Level 4 Description,Värm upp det - Med några sekunders mellanrum skapas en kraftfull sprängvåg med eld som smäller Bloons och lägger till eld till apattacker i närheten.
 Gwendolin Level 5 Description,Ökad smällkraft.
 Gwendolin Level 6 Description,Attackerna orsakar brännskador på Bloons.
-Gwendolin Level 7 Description,Värm upp det har ökad räckvidd.
+Gwendolin Level 7 Description,"Värm upp det har större radie, Eldcocktail är mera effektiv."
 Gwendolin Level 8 Description,Skjuter 2 eldvågor per skott.
 Gwendolin Level 9 Description,Den första träffen i varje våg smäller 1 extra lager.
 Gwendolin Level 10 Description,"Eldstorm: Sätter eld på hela skärmen, bränner alla Bloons och ger Höj värmen-effekt till alla apor."
@@ -213,14 +213,14 @@ ObynGreenfoot Level 1 Description,Skickar vargandar som attackerar Bloons.
 ObynGreenfoot Level 2 Description,Naturens vrede - Alla Druider i närheten får +1 genomslag.
 ObynGreenfoot Level 3 Description,Skapar en taggbuske på vägen som kan smälla 50 Bloons.
 ObynGreenfoot Level 4 Description,Var 18 sekund skapas en totem som gör alla Bloons i närheten av totempålen 30 % långsammare. Mindre effektiv mot Bloons i MOAB-klassen.
-ObynGreenfoot Level 5 Description,Ökad attackhastighet.
+ObynGreenfoot Level 5 Description,Ökad attackhastighet. Djungeldruider har längre räckvidd.
 ObynGreenfoot Level 6 Description,Ökad smällkraft och projektilerna rör sig snabbare.
 ObynGreenfoot Level 7 Description,Björnbärsbuskar kan smälla 100 Bloons.
 ObynGreenfoot Level 8 Description,Naturtempelpålar gör Bloons 40 % långsammare.
-ObynGreenfoot Level 9 Description,Attacken smäller extra lager.
+ObynGreenfoot Level 9 Description,Attacken smäller extra lager. Stormdruider har större stormar som ger mer skada på MOAB:er.
 ObynGreenfoot Level 10 Description,"Trädvägg: Frammanar en trädvägg på vägen som förstör alla Bloons som kommer dit. När väggen är full, förvandlas träden till pengar."
 ObynGreenfoot Level 11 Description,Naturens klarhet - Alla magikerapor i närheten får +5 räckvidd och +2 genomslag och Druiderna får ytterligare +1 genomslag.
-ObynGreenfoot Level 12 Description,Ökad attackhastighet.
+ObynGreenfoot Level 12 Description,Ökad attackhastighet och nedkylningen för magikerapor minskas med 5 %.
 ObynGreenfoot Level 13 Description,Ytterligare ökad smällkraft och projektilhastighet.
 ObynGreenfoot Level 14 Description,Attacken smäller extra lager.
 ObynGreenfoot Level 15 Description,Naturtemplet gör Bloons 60 % långsammare och har minskad nedkylningstid.
@@ -241,10 +241,10 @@ Ezili Level 8 Description,Ezilis attack åsamkar mycket större skada för MOAB-
 Ezili Level 9 Description,"Ezilis attack tar bort kamo, återväxt och förstärkningsegenskaper från Bloons som inte tillhör MOAB-klassen."
 Ezili Level 10 Description,"MOAB-förbannelse: kastar en förbannelse över en MOAB-klass-Bloon, som tar skada varje sekund tills den förintas."
 Ezili Level 11 Description,Ökad attackräckvidd. Ökat genomslag för återupplivade Bloons med 50 %.
-Ezili Level 12 Description,Minskad nedkylning och ökad varaktighet för hjärtstoppare.
+Ezili Level 12 Description,Minskad nedkylning och ökad varaktighet för hjärtstoppare. Ger ökad skada på MOAB:er.
 Ezili Level 13 Description,Större stänkradie och ökat genomslag för grundattack.
 Ezili Level 14 Description,Snabbare skada över tid.
-Ezili Level 15 Description,Ökad räckvidd.
+Ezili Level 15 Description,Ökad räckvidd. Skada över tid räcker längre.
 Ezili Level 16 Description,Offertotempålen räcker längre och kostar bara 1 liv att använda.
 Ezili Level 17 Description,Större stänkradie och ökat genomslag för grundattack.
 Ezili Level 18 Description,Ökad attackhastighet.
@@ -761,7 +761,7 @@ Re-Freeze Description,Kan återfrysa Bloons som redan är frusna.
 Ice Shards Description,Rakbladsvassa skärvor flyger ut när frusna Bloons smäller.
 Arctic Wind Description,Ökar genomträngningsförmågan betydligt och förvärvar en superkall aura som saktar ner Bloons och fryser vatten i närheten.
 Cryo Cannon Description,Skjuter frysbomber mot Bloons med längre räckvidd.
-Embrittlement Description,"Detekterar Kamobloons och alla Bloons, inklusive MOAB:er,  som träffas blir sköra, tar extra skada under en kort stund och förlorar sina kamo- och återväxtegenskaper permanent."
+Embrittlement Description,"Kan träffa Bloons i MOAB-klassen. Alla Bloons som träffas blir sköra, tar extra skada när de är frusna och förlorar sina kamoegenskaper."
 Snowstorm Description,"Snöstormförmåga: Fryser alla normala Bloons på skärmen och fryser Vita, Zebra och Kamo under en kort stund och gör Bloons i MOAB-klassen långsammare."
 Icicles Description,Frusna Bloons får vassa istappar som kan smälla Bloons som vidrör dem.
 Super Brittle Description,"Bloons tar stor skada när de frusna, även MOAB-klass-Bloons."
@@ -882,7 +882,7 @@ Blooncineration Description,"Supervarmt brinnande material smälter igenom 5 lag
 ,
 Focused Firing Description,Ökar träffsäkerheten för Pilsprutan.
 Advanced Targeting Description,Gör det möjligt för Pilspruteskytten att träffa Kamo-Bloons.
-Powerful Darts Description,Pilarna rör sig snabbare och kan smälla 3 Bloons vardera.
+Powerful Darts Description,"Pilar flyger snabbare, kan smälla frusna Bloons och kan smälla 3 Bloons vardera."
 Faster Swivel Description,Eldröret kan rotera mycket snabbare.
 Faster Barrel Spin Description,Får kanonen att avfyra mycket snabbare.
 Depleted Bloontonium Description,Skotten kan skada alla Bloontyper.
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] till Mörkskifte inom räckvidden
 DarkChampionDarkshift,[I] till Mörkskifte till valfri giltig plats
 SmallTowersMode,Små aptorn
 BigTowersMode,Stora aptorn
-UpdatePopupTitle,Uppdatering 28!
-UpdatePopupDescription,"Stor innehållsuppdatering!\n• Samarbetsbosskamper! Ta dig an Bossevents med dina vänner för maximala Paragon-nivåer!\n• Ny Bloonboss - Gravherren Lych!\n• Bosstopplistor! Välj rankat läge och få den bästa tiden på topplistorna, oavsett om du spelar ensam eller i samarbetsläge\n• Nytt Paragon-torn - Ninjaapans upphöjda skugga har anlänt!\n• Viking-Sauda har anslutit sig till kampen! Skaffa vårt nya Sauda-skin och hugg in!\n• Gå inte skilda vägar eller gå vilse i skogen på den nya nybörjarbanan - Skogskojan\n• 12 nya trofébutikartiklar, plus 6 helt nya Halloween-artiklar under begränsad tid - skaffa dem medan du kan!\n• Balansändringar och buggfixar - massor av ändringar, ta en titt på uppdateringsmeddelandet för alla detaljer"
+UpdatePopupTitle,Uppdatering 29!
+UpdatePopupDescription,"God jul-uppdatering!\n• Härska över alla hav med den senaste Apparagonen: Havens härskare\n• Få stopp på de där busiga Bloonsen på denna nya medelsvåra bana: Tysta gatan\n• Skaffa vårt nya fantastiska Ezili-skin: Galaxili!\n• Skapandet av samarbetslobbyn har omarbetats för att få in dig i spelet snabbare\n• 17 nya trofébutikartiklar, inklusive 6 nya under begränsad tid. Skynda dig!\n• Nya bedrifter, livskvalitetsändringar, balansändringar och fixar - massor av fantastiska förändringar, ta en titt på uppdateringsmeddelandet för ytterligare information\nVarma julhälsningar och gott nytt år från alla oss på Ninja Kiwi!"
 ResetDailyChest,Återställ daglig kista
 JukeboxName,Jukebox
 EnableFunction,Aktivera
@@ -3597,9 +3597,7 @@ btd6_4racespass Description,Tävla så mycket du vill i 4 lopp!
 btd6_4racespass,Pass för 4 lopp
 btd6_12racespass Description,Tävla så mycket du vill i 12 lopp!
 btd6_12racespass,Pass för 12 lopp
-AccountPermissionRestriction,Detta Xbox-konto har inte tillstånd att spela multiplayer-spel
 GetHeroBooster,Skaffa Hjälteförstärkare
-AccountCommunityPermissionRestriction,Detta Xbox-konto har inte tillstånd att visa eller skapa community-innehåll
 IntermediateUnlockText,Vinn en nybörjarbana för första gången för att låsa upp en medelsvår bana
 AdvancedUnlockText,Vinn en medelsvår bana för första gången för att låsa upp en avancerad bana
 ExpertUnlockText,Vinn en avancerad bana för första gången för att låsa upp en expertbana
@@ -3673,7 +3671,7 @@ PlayerPositionClosed,Spelarposition stängd
 YouFinished,Du slutade på:
 BestTime,Bästa tid:
 Claim,Begär
-PlayerRejoinedGame,har återanslutit till spelet
+PlayerRejoinedGame, har återanslutit till spelet
 PlayerKickedFromGame,{0} har avlägsnats från spelet
 ConfirmKickPlayer,Är du säker på att du vill ta bort {0}?
 Remove,Ta bort
@@ -4118,3 +4116,114 @@ HackGameStopMessage,Spelvärdena kan inte omsynkas. Tyvärr kan detta spel inte 
 RankedMode,Rankat läge
 Any,Valfri
 ScoreNotVerifiable,Din poäng skickades inte eftersom den inte kunde verifieras.
+NoBossDataYet,Besegra bossen för att vara med på en mini-boss-topplista!
+LeaderboardMessageMaxPlayers,Visar de 100 bästa spelarna
+ConfirmQuitCoopMessage,Du kommer inte att kunna återansluta till det här spelet om du avbryter nu. Är du säker?
+YouWereRemoved,"Din samarbetsposition stängdes i ditt senaste spel, går inte att återansluta."
+iCloudLongMessage,Om iCloud är aktiverat och tillgängligt kommer dina sparade spel att lagras automatiskt på ditt iCloud-konto som säkerhetskopior och för tillgång på andra enheter.
+CreateNew,Skapa ny
+SlotX,Plats {0}
+EmptySlot,Tom plats
+Delete,Radera
+CreatedDate,Skapad: {0}
+LastSavedDate,Senast sparat: {0}
+DeleteDescription,Är du säker på att du vill radera denna sparade fil från din enhet och ditt iCloud-konto?
+SaveSlots,Lagringsplatser
+LoadGame,Ladda spel
+DeleteDescriptionNotConnected,Är du säker på att du vill radera denna sparade fil från ditt lokala lagringsutrymme?
+icloudConflictMessage,Dina sparade data på iCloud och på din enhet skiljer sig från varandra. Var vänlig välj en att behålla. Den andra kommer att raderas permanent.
+GamecenterRestricted,Multiplayer otillgängligt – Du får inte spela multiplayer-spel eller innehåll på denna enhet.
+DeviceOfflineMessage,Denna enhet är offline för närvarande. Eventuella existerande sparade spel på cloud kommer inte att vara tillgängliga. Alla framsteg som gjorts i spelet kanske inte sparas.
+GamecenterLoginPrompt,"Var vänlig logga in på Game Center för åtkomst. Öppna enhetsinställningar, leta upp Game Center och logga in."
+GamecenterRestrictedTitle,Åtkomst till multiplayer begränsad
+GamecenterLoginTitle,Logga in på Game Center
+QuietStreet,Tysta gatan
+GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinDescription,Allting vi är och allting vi ser består av rymddamm
+MonkeyBuccaneer Paragon,Havens härskare
+MonkeyBuccaneer Paragon Description,Det mest fantastiska som någonsin har flutit på vatten.
+HeroesPsiPetBisonName,Psi Bison-husdjur
+HeroesPsiPetBisonShortName,Psi Bison-husdjur
+HeroesPsiPetBisonDescription,"Ett fantastiskt exemplar från hovdjurssläktet med jämn tå, som Psi råkar tycka är enormt bedårande. Endast original-Psi ;)"
+TowerPropMonkeyVillageAustralianFlagName,Apbyns australiensiska flagga
+TowerPropMonkeyVillageAustralianFlagShortName,Australiensisk byflagga
+TowerPropMonkeyVillageAustralianFlagDescription,"Aussie Aussie Aussie, Oi Oi Oi! Denna apbyflagga visas för alla uppgraderingar"
+TowerProjectileMortarSnowName,Granatkastarapans snöprojektil
+TowerProjectileMortarSnowShortName,Granatkastarsnöprojektil
+TowerProjectileMortarSnowDescription,Vinn alla snöbollskrig med granatkastarapans häftiga snöprojektil. Samlarföremål under begränsad tid!
+TowerPetIceMonkeySnowmanName,Isapans snögubbehusdjur
+TowerPetIceMonkeySnowmanShortName,Isapans snöhusdjur
+TowerPetIceMonkeySnowmanDescription,"Vad gör isapan när han inte smäller Bloons? Bygger fantastiska snöfigurer, så klart! Samlarföremål under begränsad tid!"
+BloonsDDTSkinSleighName,Domsläde-DDT
+BloonsDDTSkinSleighShortName,Domsläde-DDT
+BloonsDDTSkinSleighDescription,Leverera julklappar med stil i jul med den fruktade domsläden! Samlarföremål under begränsad tid!
+BloonsAllBloonsElfHatName,Bloons med tomteluva
+BloonsAllBloonsElfHatShortName,Bloons med tomteluva
+BloonsAllBloonsElfHatDescription,Allting blir sötare med en liten tomteluva! Samlarföremål under begränsad tid!
+CoopEmoteAnimationBenCoolName,Coola Ben-emote
+CoopEmoteAnimationBenCoolShortName,Coola Ben
+CoopEmoteAnimationBenCoolDescription,"Var som Ben och var cool, lev coolt"
+CoopEmoteAnimationBikerBonesRageName,Biker Bones raseri-emote
+CoopEmoteAnimationBikerBonesRageShortName,Biker Bones raseri
+CoopEmoteAnimationBikerBonesRageDescription,Offrade du precis alla mina torn för att bygga ditt tempel? Biker Bones RAAAAASERI!
+GameUIProfileAvatar52Name,Anpassad avatar - Bumerang
+GameUIProfileAvatar52ShortName,Bumerang-avatar
+GameUIProfileAvatar52Description,Vänsterhänt bumerang är bästerhänt bumerang!
+GameUIProfileAvatar53Name,Anpassad avatar - Sjörövarkapten
+GameUIProfileAvatar53ShortName,Sjörövarkapten-avatar
+GameUIProfileAvatar53Description,"Grrr! Visst vill du imponera på de där andra landkrabborna till spelare med den bästa avataren som går att köpa för troféer, eller hur?"
+GameUIProfileAvatar54Name,Anpassad avatar - Geometrisk Quincy
+GameUIProfileAvatar54ShortName,Geometrisk Quincy-avatar
+GameUIProfileAvatar54Description,Jag är alfa och omega. Jag är Quincy i kvadrat.
+GameUIProfileAvatar55Name,Anpassad avatar - Stjärn-Adora
+GameUIProfileAvatar55ShortName,Stjärn-Adora-avatar
+GameUIProfileAvatar55Description,Vem annars skulle få förtroendet att sätta stjärnan på julgranen? Adora låter å andra sidan inte någon att komma i närheten av den! Samlarföremål under begränsad tid!
+GameUIProfileBanner8Name,Språng in i rymden-profilbanner
+GameUIProfileBanner8ShortName,Språng in i rymden-banner
+GameUIProfileBanner8Description,Banner-vinnare av Galaksyz
+GameUIProfileBanner9Name,Vänd dig mot solen-profilbanner
+GameUIProfileBanner9ShortName,Vänd dig mot solen-banner
+GameUIProfileBanner9Description,Banner-vinnare av Bohrokki
+GameUIPowerSkinEnergisingTotemChristmasTreeName,Anpassad kraft - Julgransenergitotem
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,Energijulgran
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,Ge dina apor energi med denna färgglada julgran! Samlarföremål under begränsad tid!
+GameUIPowerSkinDartTimeMatrixName,Anpassad kraft - Piltidsstopp
+GameUIPowerSkinDartTimeMatrixShortName,Piltidsstopp
+GameUIPowerSkinDartTimeMatrixDescription,"Detta är inte ett tekniskt fel. Du har aldrig sett detta tidigare, men vi lovar att du kommer att gilla det."
+GameUIMusicTrackMusicWinterChilledMixName,Jukebox: Winter Nights - Chilled Remix
+GameUIMusicTrackMusicWinterChilledMixShortName,Winter Nights Chilled
+GameUIMusicTrackMusicWinterChilledMixDescription,"Chilla, spela och beundra vinterstjärnorna med denna coola nya remix"
+Achievement 134 Name,David mot Goliat
+Achievement 134 Description,Vinn en bosstrid utan att använda en hjälte
+Achievement 135 Name,Så kryddstarkt Ninja Kiwi
+Achievement 135 Description,Klara Kryddön med alternerande Bloonrundor med endast landtorn
+Achievement 136 Name,Ingen skörd
+Achievement 136 Description,Klara Majsfält i CHIMPANS-läge utan att ta bort någon majs
+Achievement 137 Name,Studentlån
+Achievement 137 Description,4 x 10^5 (skuldsätt dig $400 000)
+Achievement 138 Name,Ingen avsaknad av kritisk information
+Achievement 138 Description,Få in 25 000 kritiska träffar
+GameRestartedTitle,Spelet omstartat
+GameContinuedTitle,Spelet återupptaget
+GameRestartedDescription,Spelet har startats om av en annan spelare.
+GameContinuedDescription,Spelet har återupptagits av en annan spelare.
+EditorAbilityCooldown,Nedkylningshastighet för förmåga
+EditorRemovableCost,Borttagningskostnad
+AbilityCooldownIncreased,Nedkylningshastighet för förmåga ökad
+AbilityCooldownDecreased,Nedkylningshastighet för förmåga minskad
+RemovableCostIncreased,Borttagningskostnad ökad
+RemovableCostDecreased,Borttagningskostnad minskad
+Disabled,Inaktiverad
+ViewStats,Visa statistik
+CloseSlot,Stäng plats
+OpenSlot,Öppna plats
+CalloutBossCrusher,Bosskrossare
+CalloutBossCrusherDesc,{0} skada på boss
+CalloutWellRounded,Välrundad
+CalloutWellRoundedDesc,{0} av varje av de 4 torntyperna
+CalloutEndlessPower,Ändlös kraft!
+CalloutEndlessPowerDesc,Grad {0}-paragon skapad
+AnyGame,Vilket spel som helst
+AnyMap,Vilken karta som helst
+AnyDifficulty,Alla svårigheter
+AnyMode,Vilket läge som helst

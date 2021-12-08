@@ -152,7 +152,7 @@ Gwendolin Level 3 Description,Cocktail di fuoco: lancia un flacone di liquido in
 Gwendolin Level 4 Description,Raffica ustionante - Ogni pochi secondi crea un'ondata di fuoco che fa scoppiare i bloon e aggiunge più fuoco agli attacchi delle scimmie vicine.
 Gwendolin Level 5 Description,Più bloon distrutti per colpo.
 Gwendolin Level 6 Description,Gli attacchi provocano un effetto ustionante sui bloon bersaglio.
-Gwendolin Level 7 Description,Raggio della Raffica ustionante aumentato.
+Gwendolin Level 7 Description,"Raggio della Raffica ustionante aumentato, Cocktail di fuoco è più efficace."
 Gwendolin Level 8 Description,Spara 2 raffiche di fuoco per colpo.
 Gwendolin Level 9 Description,A ogni raffica il colpo iniziale fa scoppiare 1 strato extra.
 Gwendolin Level 10 Description,"Tempesta di fuoco: Incendia l'intero schermo, bruciando tutti i Bloon e garantendo a tutte le scimmie il potenziamento Raffica ustionante."
@@ -213,14 +213,14 @@ ObynGreenfoot Level 1 Description,Evoca lupi spirito per attaccare i bloon.
 ObynGreenfoot Level 2 Description,Ira della natura - I druidi a portata ottengono +1 perforazione.
 ObynGreenfoot Level 3 Description,Crea sul tracciato un cespuglio di rovi capace di far scoppiare 50 bloon.
 ObynGreenfoot Level 4 Description,Ogni 18 secondi crea un totem che rallenta del 30% tutti i bloon nelle sue vicinanze. Meno efficace nei confronti dei bloon classe MOAB.
-ObynGreenfoot Level 5 Description,Velocità d'attacco aumentata.
+ObynGreenfoot Level 5 Description,Velocità d'attacco aumentata. I druidi della giungla hanno una portata aumentata.
 ObynGreenfoot Level 6 Description,Più bloon distrutti per colpo e i proiettili si muovono più velocemente.
 ObynGreenfoot Level 7 Description,I Cespugli di rovi sono in grado di far scoppiare 100 bloon.
 ObynGreenfoot Level 8 Description,I totem Guardiano della natura rallentano i bloon del 40%.
-ObynGreenfoot Level 9 Description,L'attacco fa scoppiare strati aggiuntivi.
+ObynGreenfoot Level 9 Description,L'attacco fa scoppiare strati aggiuntivi. I druidi della tempesta creano tempeste più ampie che infliggono più danni ai MOAB.
 ObynGreenfoot Level 10 Description,"Muraglia d'alberi: crea una muraglia di alberi che si estende da un capo all'altro del tracciato e che è in grado di distruggere tutti i bloon in entrata. Una volta pieni, gli alberi esplodono tramutandosi in denaro."
 ObynGreenfoot Level 11 Description,Chiarezza della natura - Tutte le scimmie magiche a portata ottengono +5 portata e +2 perforazione e i druidi ottengono +1 perforazione extra.
-ObynGreenfoot Level 12 Description,Velocità d'attacco aumentata.
+ObynGreenfoot Level 12 Description,Velocità d'attacco aumentata e tempi di recupero delle scimmie magiche ridotti del 5%.
 ObynGreenfoot Level 13 Description,Ancora più bloon distrutti per colpo e velocità dei ancora maggiore proiettili.
 ObynGreenfoot Level 14 Description,L'attacco fa scoppiare strati aggiuntivi.
 ObynGreenfoot Level 15 Description,Il Guardiano della natura rallenta del 60% i bloon e ha un tempo di ricarica ridotto.
@@ -241,10 +241,10 @@ Ezili Level 8 Description,Gli attacchi di Ezili provocano molti più danni ai bl
 Ezili Level 9 Description,"Gli attacchi di Ezili sono in grado di privare i bloon (tranne quelli di classe MOAB) delle proprietà mimetizzazione, rigenerazione e fortificazione."
 Ezili Level 10 Description,Anatema MOAB: lancia una maledizione contro un bloon classe MOAB che subisce danno ogni secondo fino al completo annientamento.
 Ezili Level 11 Description,Portata di attacco aumentata. Aumenta la perforazione dei bloon rianimati del 50%.
-Ezili Level 12 Description,Tempo di ricarica ridotto e durata prolungata per Cuore in gola.
+Ezili Level 12 Description,Tempo di ricarica ridotto e durata prolungata per Cuore in gola. Infligge danni aumentati ai MOAB.
 Ezili Level 13 Description,Gli attacchi base di tipo radiale hanno un raggio d'azione più ampio e una penetrazione maggiore.
 Ezili Level 14 Description,Danno a tempo accelerato.
-Ezili Level 15 Description,Portata aumentata.
+Ezili Level 15 Description,Portata aumentata. Il danno a tempo ha una durata maggiore.
 Ezili Level 16 Description,Il Totem sacrificale dura più a lungo e il suo utilizzo costa solo 1 vita.
 Ezili Level 17 Description,Gli attacchi base di tipo radiale hanno un raggio d'azione più ampio e una penetrazione maggiore.
 Ezili Level 18 Description,Velocità d'attacco aumentata.
@@ -761,7 +761,7 @@ Re-Freeze Description,È in grado di ricongelare bloon già congelati.
 Ice Shards Description,"Quando un bloon congelato scoppia, vengono espulse schegge affilate."
 Arctic Wind Description,Aumenta considerevolmente la perforazione e ottiene un'aura super gelata che rallenta i bloon e congela l'acqua nelle vicinanze.
 Cryo Cannon Description,Spara bombe congelanti contro i bloon coprendo una portata ancora maggiore.
-Embrittlement Description,"Individua bloon mimetizzati e tutti i bloon colpiti, compresi i MOAB, diventano fragili, subendo danni extra per un breve periodo e perdendo permanentemente le proprietà mimetiche e rigenerative."
+Embrittlement Description,"Può colpire i bloon di classe MOAB. Tutti i bloon colpiti diventano fragili, subendo danni extra mentre sono congelati e perdendo tutte le proprietà mimetiche."
 Snowstorm Description,"Abilità Tempesta di neve: congela tutti i bloon normali sullo schermo e inoltre congela per un breve lasso di tempo i bloon bianchi, zebrati e mimetizzati. Rallenta invece i bloon di classe MOAB."
 Icicles Description,Dai bloon congelati spuntano ghiaccioli acuminati in grado di far scoppiare i bloon che vi entrano in contatto.
 Super Brittle Description,"Quando vengono congelati i bloon subiscono considerevoli danni, inclusi quelli classe MOAB."
@@ -882,7 +882,7 @@ Blooncineration Description,"Il caldissimo inceneritore scioglie 5 strati di blo
 ,
 Focused Firing Description,Aumenta la precisione del mitra a freccette.
 Advanced Targeting Description,Consente alla torre spara freccette di colpire i bloon mimetizzati.
-Powerful Darts Description,Le freccette sono più veloci e ognuna di esse è in grado di far scoppiare 3 bloon.
+Powerful Darts Description,"Le freccette sono più veloci, possono far scoppiare i bloon congelati e sono in grado di far esplodere 3 bloon ciascuna."
 Faster Swivel Description,La canna ruota molto più rapidamente.
 Faster Barrel Spin Description,Consente all'arma di sparare più velocemente.
 Depleted Bloontonium Description,I colpi possono danneggiare bloon di tutti i tipi.
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] per effettuare Passaggio oscuro nel raggio d'azione
 DarkChampionDarkshift,[I] per effettuare Passaggio oscuro in qualsiasi posizione valida
 SmallTowersMode,Torri scimmia piccola
 BigTowersMode,Torri scimmia grandi
-UpdatePopupTitle,Aggiornamento 28!
-UpdatePopupDescription,"Enorme aggiornamento dei contenuti!\n• Battaglie contro i boss in cooperativa! Partecipa agli Eventi dei boss con i tuoi amici per il massimo dei livelli Campione!\n• Nuovo boss dei bloon: Lych, il Signore delle tombe!\n• Classifiche dei boss! Scegli la modalità classificata per segnare il tempo migliore in classifica, che tu stia giocando in solitaria o in cooperativa\n• Nuova torre Campione: la nuova scimmia ninja Ombra ascesa è arrivata!\n• Sauda vichinga si è unita al divertimento! Ottieni la nuova skin di Sauda e comincia ad affettare!\n• Non dividetevi e non perdetevi nel bosco sulla nuova mappa livello principiante: La baita\n• 12 nuovi oggetti al Negozio trofei, più 6 oggetti a tema Halloween per un periodo limitato: ottienili tutti finché puoi!\n• Bilanciamento e sistemazioni: abbiamo apportato moltissimi cambiamenti. Leggi le note dell'aggiornamento per tutti i dettagli"
+UpdatePopupTitle,Aggiornamento 29!
+UpdatePopupDescription,"Felice aggiornamento della stagione festiva!\n• Domina le acque con il nuovo campione: Navarch dei mari\n• Ferma quei maleducati bloon sulla nuova mappa di livello intermedio: Strada silenziosa\n• Ottieni la fantastica nuova skin di Ezili: Galaxili!\n• Creazione della lobby cooperativa ripensata per farti entrare in gioco più in fretta\n• 17 nuovi oggetti nel negozio trofei, tra cui 6 a tempo limitato, acquistali subito!\n• Nuovi obiettivi, modifiche per la qualità della vita, bilanciamenti e correzioni. Nuove, fantastiche modifiche: dai un'occhiata alle note dell'aggiornamento per i dettagli\nTanti auguri di buone feste e felice anno nuovo da tutti noi di Ninja Kiwi!"
 ResetDailyChest,Azzera cassa delle ricompense giornaliere
 JukeboxName,Jukebox
 EnableFunction,Attiva
@@ -3597,9 +3597,7 @@ btd6_4racespass Description,Corri quanto vuoi per 4 Corse!
 btd6_4racespass,Pass per 4 Corse
 btd6_12racespass Description,Corri quanto vuoi per 12 Corse!
 btd6_12racespass,Pass per 12 Corse
-AccountPermissionRestriction,Questo account Xbox non è abilitato a giocare in modalità multigiocatore
 GetHeroBooster,Ottieni Potenziatore eroe
-AccountCommunityPermissionRestriction,Questo account Xbox non è abilitato a visualizzare o creare contenuti per la community
 IntermediateUnlockText,Supera una mappa di livello Principiante per la prima volta per sbloccare una mappa di livello Intermedio
 AdvancedUnlockText,Supera una mappa di livello Intermedio per la prima volta per sbloccare una mappa di livello Difficile
 ExpertUnlockText,Supera una mappa di livello Difficile per la prima volta per sbloccare una mappa di livello Esperto
@@ -3673,7 +3671,7 @@ PlayerPositionClosed,Posizione giocatore chiusa
 YouFinished,Hai ottenuto:
 BestTime,Record:
 Claim,Riscuoti
-PlayerRejoinedGame,rientra nella partita
+PlayerRejoinedGame, rientra nella partita
 PlayerKickedFromGame,{0} non partecipa più alla partita
 ConfirmKickPlayer,Vuoi davvero rimuovere {0}?
 Remove,Rimuovi
@@ -4117,4 +4115,115 @@ Elite,Élite
 HackGameStopMessage,I valori della partita non possono essere risincronizzati. Sfortunatamente questa partita non può continuare. Prova ad avviarne un'altra.
 RankedMode,Modalità classificata
 Any,Qualsiasi
-ScoreNotVerifiable,Il tuo punteggio non è stato inviato perché non è stato possibile verificarlo.
+ScoreNotVerifiable,"Il tuo punteggio non è stato inviato, non potendo essere verificato."
+NoBossDataYet,Sconfiggi il boss per entrare in una classifica dei mini-boss!
+LeaderboardMessageMaxPlayers,Mostra i migliori 100 giocatori
+ConfirmQuitCoopMessage,"Non potrai rientrare in questa partita, se l'abbandoni ora. Confermi?"
+YouWereRemoved,"La tua posizione cooperativa è stata chiusa nella tua ultima partita, non puoi rientrare."
+iCloudLongMessage,"Se iCloud è abilitato e disponibile, i tuoi salvataggi verranno automaticamente memorizzati sul tuo account iCloud come back-up e per accedervi su altri dispositivi."
+CreateNew,Crea nuovo
+SlotX,Slot {0}
+EmptySlot,Slot vuoto
+Delete,Elimina
+CreatedDate,Creato: {0}
+LastSavedDate,Ultimo salvataggio: {0}
+DeleteDescription,Vuoi davvero eliminare questo file di salvataggio dal tuo dispositivo e dal tuo account iCloud?
+SaveSlots,Slot di salvataggio
+LoadGame,Carica partita
+DeleteDescriptionNotConnected,Vuoi davvero eliminare questo file di salvataggio dal tuo dispositivo e dalla tua memoria locale?
+icloudConflictMessage,"I tuoi dati di salvataggio su iCloud e sul tuo dispositivo sono diversi. Scegli quale mantenere, l'altro verrà cancellato permanentemente."
+GamecenterRestricted,Multigiocatore non disponibile. Non ti è permesso giocare partite o contenuti multigiocatore su questo dispositivo.
+DeviceOfflineMessage,Questo dispositivo è attualmente offline. Qualsiasi salvataggio su cloud non sarà disponibile. Qualsiasi progresso di gioco non verrà salvato.
+GamecenterLoginPrompt,"Esegui l'accesso a Game Center per accedere. Apri le Impostazioni del dispositivo, trova Game Center ed esegui l'accesso."
+GamecenterRestrictedTitle,Accesso multigiocatore negato
+GamecenterLoginTitle,Accedi a Game Center
+QuietStreet,Strada silenziosa
+GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinDescription,"Tutto quel che siamo, tutto quel che vediamo, è polvere di stelle"
+MonkeyBuccaneer Paragon,Navarch dei mari
+MonkeyBuccaneer Paragon Description,La cosa più grande che abbia mai galleggiato sull'acqua.
+HeroesPsiPetBisonName,Animaletto Bisonte Psi
+HeroesPsiPetBisonShortName,Animaletto Bisonte Psi
+HeroesPsiPetBisonDescription,"Un esemplare speciale dell'ordine degli artiodattili, che Psi ritiene super adorabile. Solo Psi originale ;)"
+TowerPropMonkeyVillageAustralianFlagName,Bandiera villaggio delle scimmie Australia
+TowerPropMonkeyVillageAustralianFlagShortName,Bandiera villaggio Australia
+TowerPropMonkeyVillageAustralianFlagDescription,Quando senti la mancanza di un canguro. Questa bandiera del villaggio delle scimmie è valida per tutti i potenziamenti
+TowerProjectileMortarSnowName,Proiettile di neve Scimmia mortaio
+TowerProjectileMortarSnowShortName,Proiettile di neve mortaio
+TowerProjectileMortarSnowDescription,Vinci ogni lotta a palle di neve con questo fantastico proiettile nevoso per la Scimmia mortaio. Oggetto collezionabile per un periodo limitato!
+TowerPetIceMonkeySnowmanName,Animaletto Pupazzo di neve Scimmia di ghiaccio
+TowerPetIceMonkeySnowmanShortName,Animaletto di neve Scimmia di ghiaccio
+TowerPetIceMonkeySnowmanDescription,"Che cosa fa la Scimmia di ghiaccio quando non fa scoppiare i bloon? Costruisce fantastici animaletti di neve, ovviamente! Oggetto collezionabile per un periodo limitato!"
+BloonsDDTSkinSleighName,DDT Slitta mortale
+BloonsDDTSkinSleighShortName,DDT Slitta mortale
+BloonsDDTSkinSleighDescription,Consegna i regali con stile questo Natale con la Slitta mortale! Oggetto collezionabile per un periodo limitato!
+BloonsAllBloonsElfHatName,Bloon cappello da elfo
+BloonsAllBloonsElfHatShortName,Bloon cappello da elfo
+BloonsAllBloonsElfHatDescription,"Tutto diventa più carino, se aggiungi un piccolo cappello da elfo! Oggetto collezionabile per un periodo limitato!"
+CoopEmoteAnimationBenCoolName,Emote Ben il ganzo
+CoopEmoteAnimationBenCoolShortName,Ben il ganzo
+CoopEmoteAnimationBenCoolDescription,Sii come Ben: sangue freddo e sguardo gelido
+CoopEmoteAnimationBikerBonesRageName,Emote Ossa da biker furioso
+CoopEmoteAnimationBikerBonesRageShortName,Ossa da biker furioso
+CoopEmoteAnimationBikerBonesRageDescription,Hai davvero sacrificato tutte le mie torri per costruire il tuo tempio? Ossa da biker è FURIOSOOO!
+GameUIProfileAvatar52Name,Avatar personalizzato - Boomerang
+GameUIProfileAvatar52ShortName,Avatar Boomerang
+GameUIProfileAvatar52Description,Il boomerang per mancini è il boomerang dei migliori!
+GameUIProfileAvatar53Name,Avatar personalizzato - Capitano dei pirati
+GameUIProfileAvatar53ShortName,Avatar Capitano dei pirati
+GameUIProfileAvatar53Description,"Arrr! Vorrai impressionare gli altri marinai d'acqua dolce con i migliori trofei avatar che puoi acquistare, immagino!"
+GameUIProfileAvatar54Name,Avatar personalizzato - Quincy geometrico
+GameUIProfileAvatar54ShortName,Avatar Quincy geometrico
+GameUIProfileAvatar54Description,"Sono l'alfa e l'omega. Sono Quincy, al quadrato"
+GameUIProfileAvatar55Name,Avatar personalizzato - Adora decorazione a stella
+GameUIProfileAvatar55ShortName,Avatar Adora stella
+GameUIProfileAvatar55Description,"A chi altri ti affideresti per dare gli ultimi ritocchi all'albero? Beh, e poi Adora non lascia avvicinare nessun altro! Oggetto collezionabile per un periodo limitato!"
+GameUIProfileBanner8Name,Banner profilo Salto nello spazio
+GameUIProfileBanner8ShortName,Banner Salto nello spazio
+GameUIProfileBanner8Description,Banner vincitore di Galaksyz
+GameUIProfileBanner9Name,Banner profilo Verso il sole
+GameUIProfileBanner9ShortName,Banner Verso il sole
+GameUIProfileBanner9Description,Banner vincitore di Bohrokki
+GameUIPowerSkinEnergisingTotemChristmasTreeName,Potere personalizzato - Totem energizzante albero di Natale
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,Albero di Natale energizzato
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,Mantieni le tue scimmie cariche di energia con questo colorato albero di Natale! Oggetto collezionabile per un periodo limitato!
+GameUIPowerSkinDartTimeMatrixName,Potere personalizzato - Dardo fermatempo
+GameUIPowerSkinDartTimeMatrixShortName,Dardo fermatempo
+GameUIPowerSkinDartTimeMatrixDescription,"Non è un glitch, non è un déjà vu, ma ti piacerà, promesso"
+GameUIMusicTrackMusicWinterChilledMixName,Jukebox: Notti d'inverno - Remix tranquillo
+GameUIMusicTrackMusicWinterChilledMixShortName,Notti d'inverno tranquille
+GameUIMusicTrackMusicWinterChilledMixDescription,"Rilassati, ascolta e rifletti guardando le stelle invernali con questo nuovo remix"
+Achievement 134 Name,Davide contro Golia
+Achievement 134 Description,Vinci una battaglia contro un boss senza usare un eroe
+Achievement 135 Name,Speziatissimo Ninja Kiwi
+Achievement 135 Description,Supera le Isole delle spezie nei round bloon alternativo solo con torri terrestri
+Achievement 136 Name,Nessun raccolto
+Achievement 136 Description,Supera Campo di mais in modalità SCIMPANZÉ senza rimuovere il mais
+Achievement 137 Name,Debito studentesco
+Achievement 137 Description,4 x 10^5 (Indebitati per 400.000 $)
+Achievement 138 Name,Non mancano informazioni critiche
+Achievement 138 Description,Esegui 25.000 colpi critici
+GameRestartedTitle,Partita ricominciata
+GameContinuedTitle,Partita continuata
+GameRestartedDescription,La partita è stata riavviata da un altro giocatore.
+GameContinuedDescription,La partita è stata continuata da un altro giocatore.
+EditorAbilityCooldown,Tasso tempo di ricarica abilità
+EditorRemovableCost,Tasso costo rimozione
+AbilityCooldownIncreased,Tasso tempo di ricarica abilità aumentato
+AbilityCooldownDecreased,Tasso tempo di ricarica abilità diminuito
+RemovableCostIncreased,Costo rimozione aumentato
+RemovableCostDecreased,Costo rimozione diminuito
+Disabled,Disabilitato
+ViewStats,Vedi statistiche
+CloseSlot,Chiudi slot
+OpenSlot,Apri slot
+CalloutBossCrusher,Frantuma-boss
+CalloutBossCrusherDesc,{0} danni ai boss
+CalloutWellRounded,Ben bilanciato
+CalloutWellRoundedDesc,{0} di ciascuno dei 4 tipi di torre
+CalloutEndlessPower,Potere illimitato!
+CalloutEndlessPowerDesc,Campione grado {0} creato
+AnyGame,Qualsiasi gioco
+AnyMap,Qualsiasi mappa
+AnyDifficulty,Qualsiasi difficoltà
+AnyMode,Qualsiasi modalità

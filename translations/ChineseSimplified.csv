@@ -152,7 +152,7 @@ Gwendolin Level 3 Description,火焰鸡尾酒：掷出一瓶易燃液体，燃�
 Gwendolin Level 4 Description,烈焰 - 每隔几秒钟会产生强大的火焰爆炸波，对气球造成冲击并增加附近猴子的攻击力。
 Gwendolin Level 5 Description,爆破力增加。
 Gwendolin Level 6 Description,攻击会对目标气球产生燃烧效果。
-Gwendolin Level 7 Description,烈焰攻击半径增加。
+Gwendolin Level 7 Description,烈焰攻击半径增加，火焰鸡尾酒的威力进一步提升。
 Gwendolin Level 8 Description,每次射击可发射2个火柱。
 Gwendolin Level 9 Description,每个火柱的初始攻击额外爆破1层气球。
 Gwendolin Level 10 Description,火焰风暴：全屏攻击，燃烧所有气球，并为所有猴子提供烈焰攻击增益。
@@ -213,14 +213,14 @@ ObynGreenfoot Level 1 Description,放出幽魂之狼攻击气球。
 ObynGreenfoot Level 2 Description,自然之怒 – 范围内的所有德鲁伊获得穿刺+1。
 ObynGreenfoot Level 3 Description,在路径上生成尖刺灌木，可击破50个气球。
 ObynGreenfoot Level 4 Description,每18秒创建一个图腾，使该图腾附近的所有气球减速30％。与MOAB级气球相比效果较差。
-ObynGreenfoot Level 5 Description,提高攻击速度。
+ObynGreenfoot Level 5 Description,攻击速度加快。丛林德鲁伊攻击范围增加。
 ObynGreenfoot Level 6 Description,击破力增加，射弹飞行速度加快。
 ObynGreenfoot Level 7 Description,荆棘可击破100个气球。
 ObynGreenfoot Level 8 Description,大自然的守护图腾使气球减速40％。
-ObynGreenfoot Level 9 Description,攻擊更多層的爆炸
+ObynGreenfoot Level 9 Description,攻击可额外击破数层气球。风暴德鲁伊释放更大的风暴，可对MOAB级气球造成更大伤害。
 ObynGreenfoot Level 10 Description,树木之墙：在路径上召唤一堵破坏入侵气球的树木墙。结满的时候，树木绽放出金钱。
 ObynGreenfoot Level 11 Description,自然明澈 – 范围内的所有魔法猴子获得攻击范围+5和穿刺+2，德鲁伊额外获得穿刺+1。
-ObynGreenfoot Level 12 Description,提高攻击速度。
+ObynGreenfoot Level 12 Description,攻击速度加快，并且魔法猴子冷却时间缩短5%。
 ObynGreenfoot Level 13 Description,进一步增加击破力和加快射弹速度。
 ObynGreenfoot Level 14 Description,攻擊更多層的爆炸
 ObynGreenfoot Level 15 Description,大自然的守护使气球减速60％，并减少冷却时间。
@@ -241,10 +241,10 @@ Ezili Level 8 Description,艾泽里的攻击对MOAB级气球造成的伤害更�
 Ezili Level 9 Description,艾泽里的攻击可消除非MOAB级气球的迷彩、重生和强化属性。
 Ezili Level 10 Description,MOAB妖术：诅咒MOAB级气球，每秒造成一次伤害，直至其被歼灭。
 Ezili Level 11 Description,增加攻击范围。对复活的气球的穿透力增加50%。
-Ezili Level 12 Description,心脏止博器减少冷却时间并延长持续时间。
+Ezili Level 12 Description,心脏止博器冷却时间减少，持续时间增加。对MOAB级气球造成的伤害增加。
 Ezili Level 13 Description,基础攻击造成更大的溅射范围和更高的穿刺。
 Ezili Level 14 Description,随着时间的推移造成更快的伤害。
-Ezili Level 15 Description,范围增加。
+Ezili Level 15 Description,攻击范围增加。周期性伤害持续时间更长。
 Ezili Level 16 Description,牺牲图腾持续时间更长，不再需要消耗生命。
 Ezili Level 17 Description,基础攻击造成更大的溅射范围和更高的穿刺。
 Ezili Level 18 Description,提高攻击速度。
@@ -761,7 +761,7 @@ Re-Freeze Description,可再次冻结已经冻结的气球。
 Ice Shards Description,当被冻结的气球爆裂时，会飞出锋利的碎片。
 Arctic Wind Description,大大提高穿透力，并获得超级寒冷的光环，可减速靠近它的气球并冻结附近的水流。
 Cryo Cannon Description,在更远的范围外向气球发射冰冻炸弹。
-Embrittlement Description,探测迷彩气球，所有被击中的气球包括MOAB都会变脆弱，被冻结后会短暂受到额外伤害，并永久失去迷彩和重生属性。
+Embrittlement Description,可击中MOAB级气球。所有被击中的气球都会变脆弱，被冰冻且承受额外伤害，并且失去伪装。
 Snowstorm Description,暴风雪技能：冻结屏幕上所有的普通气球，短暂冻结白气球、斑马气球和迷彩气球，并减速MOAB级气球。
 Icicles Description,冻结的气球生长尖锐的冰柱，可以击破接触它们的气球。
 Super Brittle Description,包括MOAB级气球在内的气球在冻结时受到巨大伤害。
@@ -882,7 +882,7 @@ Blooncineration Description,超热燃烧每次攻击可烧穿5层气球，燃烧
 ,
 Focused Firing Description,提高飞镖枪的精度。
 Advanced Targeting Description,允许飞镖枪手击中迷彩气球。
-Powerful Darts Description,飞镖移动速度更快，每个飞镖可击破3个气球。
+Powerful Darts Description,飞镖移动速度更快，可击破冰冻气球，并且每支飞镖可击破3个气球。
 Faster Swivel Description,枪管旋转得更快。
 Faster Barrel Spin Description,开枪速度更快。
 Depleted Bloontonium Description,可对所有类型的气球造成伤害。
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,按[I]在范围内进行黑暗漂移
 DarkChampionDarkshift,按[I]黑暗漂移至任何有效位置
 SmallTowersMode,小猴子塔
 BigTowersMode,大猴子塔
-UpdatePopupTitle,更新 28！
-UpdatePopupDescription,海量内容更新！\n• 组队Boss战斗！与好友一起参加Boss活动，升至最高模范等级！\n• 新的Boss气球 - 墓穴领主巫妖！\n• Boss排行榜！选择排名模式，以单人或组队方式在排行榜上留下最好成绩\n• 新的模范猴子塔 - 忍者猴晋升暗影已登场！\n• 维京萨乌达加入战斗！获取新的萨乌达皮肤，将敌人大卸八块！\n• 当心新加入的新手地图 - 小木屋，别在树林里走散或迷路了\n• 新增12件奖杯商店物品和6件全新万圣节限时物品 - 机会难得，抓紧时间获取它们！\n• 大量平衡性修改和问题修复，详细信息，请查看更新说明
+UpdatePopupTitle,更新 29！
+UpdatePopupDescription,欢乐假期更新！\n• 使用最新模范猴子统治所有水域：海洋主宰\n• 在全新的中级地图中阻击吵闹的气球：静谧街道\n• 穿上全新的艾泽里酷炫皮肤：星系！\n• 改进合作大厅的创建操作，方便你更快地进入游戏。\n• 新增17件奖杯商店物品，其中包含6件限时物品，快去抢购吧！\n• 新的成就、生命质量修改、平衡和修复——大量改进，查看更新说明了解全部细节\nNinja Kiwi全体员工向你致以最温馨的节日祝福并祝你新年快乐！
 ResetDailyChest,重置每日奖励
 JukeboxName,点唱机
 EnableFunction,启用
@@ -3597,9 +3597,7 @@ btd6_4racespass Description,4场比赛，你想怎么赛就怎么赛!
 btd6_4racespass,4场比赛通行证
 btd6_12racespass Description,12场比赛，你想怎么赛就怎么赛!
 btd6_12racespass,12场比赛通行证
-AccountPermissionRestriction,此 Xbox 帐户没有玩多人游戏的权限
 GetHeroBooster,获取英雄助推器
-AccountCommunityPermissionRestriction,此 Xbox 帐户没有查看或创建社区内容的权限
 IntermediateUnlockText,首次通关新手地图，就可以解锁中级地图
 AdvancedUnlockText,首次通关中级地图，就可以解锁高级地图
 ExpertUnlockText,首次通关高级地图，就可以解锁专家地图
@@ -4117,4 +4115,115 @@ Elite,精英
 HackGameStopMessage,无法重新同步游戏数值。遗憾的是，这个游戏不能继续下去了。请尝试开始新游戏。
 RankedMode,排位赛模式
 Any,任何
-ScoreNotVerifiable,您的分数未提交，因为无法验证。
+ScoreNotVerifiable,无法验证您的分数，因此无法提交。
+NoBossDataYet,打败 Boss，跻身迷你 Boss 排行榜！
+LeaderboardMessageMaxPlayers,显示排名前 100 位玩家
+ConfirmQuitCoopMessage,现在退出的话，你将无法重新加入本局游戏。你确定要退出吗？
+YouWereRemoved,在上局游戏中你的合作位置已关闭，无法重新加入。
+iCloudLongMessage,如果 iCloud 被启用并可用，你所保存的游戏进度将自动存储在你的 iCloud 账户中，以便在其他设备上进行备份和访问。
+CreateNew,新建
+SlotX,存档栏 {0}
+EmptySlot,空存档栏
+Delete,删除
+CreatedDate,创建时间：{0}
+LastSavedDate,上次保存时间：{0}
+DeleteDescription,你确定要从你的设备和你的 iCloud 账户中删除此游戏存档吗？
+SaveSlots,保存栏位
+LoadGame,载入游戏
+DeleteDescriptionNotConnected,你确定要从你的本地存储中删除此游戏存档吗？
+icloudConflictMessage,你在 iCloud 和设备上保存的数据不一致。请选择一个保留。另一个将被永久丢弃。
+GamecenterRestricted,多人游戏不可用 - 您未获准在此设备上玩多人游戏或内容。
+DeviceOfflineMessage,该设备目前处于离线状态。现有的云存档都不可用。可能都不会保持任何游戏进度。
+GamecenterLoginPrompt,请登录游戏中心进行访问。打开设备“设置”，找到“游戏中心”，然后登录即可。
+GamecenterRestrictedTitle,多人游戏访问受限
+GamecenterLoginTitle,登录到游戏中心
+QuietStreet,静谧街道
+GalaxiliEziliSkinName,星系
+GalaxiliEziliSkinDescription,我们以及我们所看到的一切，都是宇宙尘埃的表象
+MonkeyBuccaneer Paragon,海洋主宰
+MonkeyBuccaneer Paragon Description,有史以来最强大的海上王者。
+HeroesPsiPetBisonName,灵机野牛宠物
+HeroesPsiPetBisonShortName,灵机野牛宠物
+HeroesPsiPetBisonDescription,偶蹄类动物的骄子，碰巧灵机觉得它非常可爱。仅限初始灵机;)
+TowerPropMonkeyVillageAustralianFlagName,猴子村澳大利亚国旗
+TowerPropMonkeyVillageAustralianFlagShortName,猴村澳大利亚国旗
+TowerPropMonkeyVillageAustralianFlagDescription,澳洲 澳洲 澳洲，嗷 嗷 嗷！这面猴村国旗显示所有升级
+TowerProjectileMortarSnowName,迫击炮猴雪球射弹
+TowerProjectileMortarSnowShortName,迫击炮雪球射弹
+TowerProjectileMortarSnowDescription,借助强力迫击炮猴雪球射弹赢得每一场雪仗的胜利。这是限时出售的道具哦！
+TowerPetIceMonkeySnowmanName,冰猴雪人宠物
+TowerPetIceMonkeySnowmanShortName,冰猴雪人宠物
+TowerPetIceMonkeySnowmanDescription,冰猴不打气球的时候在做什么？当然是在堆可爱的雪人宠物啦！这是限时出售的道具哦！
+BloonsDDTSkinSleighName,厄运雪橇 DDT
+BloonsDDTSkinSleighShortName,厄运雪橇 DDT
+BloonsDDTSkinSleighDescription,今年的圣诞节，用可怕的厄运雪橇来送礼物吧！这是限时出售的道具哦！
+BloonsAllBloonsElfHatName,精灵帽气球
+BloonsAllBloonsElfHatShortName,精灵帽气球
+BloonsAllBloonsElfHatDescription,戴上小精灵的帽子，一切都变得更可爱了！这是限时出售的道具哦！
+CoopEmoteAnimationBenCoolName,酷本的表情
+CoopEmoteAnimationBenCoolShortName,酷本
+CoopEmoteAnimationBenCoolDescription,像本一样酷，像Ben一样潇洒
+CoopEmoteAnimationBikerBonesRageName,狂怒骷髅骑手表情
+CoopEmoteAnimationBikerBonesRageShortName,狂怒骷髅骑手
+CoopEmoteAnimationBikerBonesRageDescription,你真的牺牲了我所有的塔来建造你的寺庙吗？骷髅骑手出离愤怒了！
+GameUIProfileAvatar52Name,自定义化身 - 骷髅骑手
+GameUIProfileAvatar52ShortName,回旋镖化身
+GameUIProfileAvatar52Description,左手回旋镖是最好用的回旋镖！
+GameUIProfileAvatar53Name,自定义化身 - 骷髅骑手
+GameUIProfileAvatar53ShortName,海盗船长化身
+GameUIProfileAvatar53Description,呀！你们想用最好的化身奖杯来打动其他的流氓玩家，不是吗？
+GameUIProfileAvatar54Name,自定义化身 - 骷髅骑手
+GameUIProfileAvatar54ShortName,几何昆西化身
+GameUIProfileAvatar54Description,我是阿尔法和欧米伽。我是昆西的平方
+GameUIProfileAvatar55Name,自定义化身 - 骷髅骑手
+GameUIProfileAvatar55ShortName,星星阿多拉化身
+GameUIProfileAvatar55Description,你还能信赖谁来为这棵树做最后的修饰？阿多拉当仁不让！这是限时出售的道具哦！
+GameUIProfileBanner8Name,跃入太空个人资料横幅
+GameUIProfileBanner8ShortName,跃入太空横幅
+GameUIProfileBanner8Description,横幅获胜者Galaksyz
+GameUIProfileBanner9Name,直面太阳个人资料横幅
+GameUIProfileBanner9ShortName,直面太阳横幅
+GameUIProfileBanner9Description,横幅获胜者Bohrokki
+GameUIPowerSkinEnergisingTotemChristmasTreeName,自定义力量 - 圣诞树活力图腾
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,活力圣诞树
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,用这棵五颜六色的圣诞树让你的猴子保持活力！这是限时出售的道具哦！
+GameUIPowerSkinDartTimeMatrixName,自定义力量 - 超级吸血鬼风暴
+GameUIPowerSkinDartTimeMatrixShortName,飞镖时间结束
+GameUIPowerSkinDartTimeMatrixDescription,这不是故障，你以前没有见过这个，但你会喜欢它，我们保证
+GameUIMusicTrackMusicWinterChilledMixName,点唱机：冬夜 - 放松混音版
+GameUIMusicTrackMusicWinterChilledMixShortName,冬夜 - 放松混音版
+GameUIMusicTrackMusicWinterChilledMixDescription,放松，播放这首酷酷的混音新曲，然后凝视一下冬天的星星。
+Achievement 134 Name,达维德与歌利亚的较量
+Achievement 134 Description,在不使用英雄的情况下赢得一场Boss战
+Achievement 135 Name,五味杂陈的Ninja Kiwi
+Achievement 135 Description,只用陆上塔就能在替补气球回合中通过香料群岛
+Achievement 136 Name,颗粒无收
+Achievement 136 Description,在不移除任何玉米的情况下在CHIMPs模式中通过玉米地
+Achievement 137 Name,学生贷款
+Achievement 137 Description,4 x 10^5 (欠下40万美元的债务)
+Achievement 138 Name,不缺少关键信息
+Achievement 138 Description,"完成25,000次关键命中"
+GameRestartedTitle,游戏重新启动
+GameContinuedTitle,游戏继续
+GameRestartedDescription,游戏已被另一玩家重新启动。
+GameContinuedDescription,游戏已被另一玩家继续进行。
+EditorAbilityCooldown,技能冷却速度
+EditorRemovableCost,移除费用
+AbilityCooldownIncreased,技能冷却速度加快
+AbilityCooldownDecreased,技能冷却速度减慢
+RemovableCostIncreased,移除费用增加
+RemovableCostDecreased,移除费用减少
+Disabled,已禁用
+ViewStats,查看统计数据
+CloseSlot,关闭栏位
+OpenSlot,启用栏位
+CalloutBossCrusher,Boss克星
+CalloutBossCrusherDesc,对Boss造成{0}伤害
+CalloutWellRounded,设计周密
+CalloutWellRoundedDesc,4种塔型中的每一种都有{0}
+CalloutEndlessPower,无尽的力量！
+CalloutEndlessPowerDesc,{0}级模范已创建
+AnyGame,任何游戏
+AnyMap,任何地图
+AnyDifficulty,任何困难
+AnyMode,任何模式

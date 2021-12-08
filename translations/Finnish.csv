@@ -152,7 +152,7 @@ Gwendolin Level 3 Description,"Tulicocktail: viskaisee pullollisen syttyvää ne
 Gwendolin Level 4 Description,"Pökköä pesään: luo aina muutaman sekunnin välein voimakkaan tulisen räjähdysaallon, joka poksauttaa blooneja ja lisää tulta lähellä olevien apinoiden hyökkäyksiin."
 Gwendolin Level 5 Description,Suurempi poksautusteho.
 Gwendolin Level 6 Description,Hyökkäykset sytyttävät kohdebloonit palamaan.
-Gwendolin Level 7 Description,Pökköä pesään toimii suuremmalla kantamalla.
+Gwendolin Level 7 Description,"Pökköä pesään toimii suuremmalla kantamalla, Tulicocktail on tehokkaampi."
 Gwendolin Level 8 Description,Ampuu 2 tulitusräjähdystä laukauksessa.
 Gwendolin Level 9 Description,Kunkin räjähdyksen ensimmäinen osuma poksauttaa 1 ylimääräisen kerroksen.
 Gwendolin Level 10 Description,"Tulimyrsky: Sytyttää koko näytön, polttaa kaikkia blooneja ja antaa Pökköä pesään -tehosteen kaikille apinoille."
@@ -213,14 +213,14 @@ ObynGreenfoot Level 1 Description,Lähettää henkisusia bloonien kimppuun.
 ObynGreenfoot Level 2 Description,Luonnon raivo: kaikki druidit alueella saavat +1 läpäisyyn.
 ObynGreenfoot Level 3 Description,Okaat: luo radalle piikkipensaan
 ObynGreenfoot Level 4 Description,"Luo 18 sekunnin välein toteemin, joka hidastaa kaikkia toteemin lähellä olevia blooneja 30 %. Ei niin tehokas MOAB-luokan blooneja vastaan."
-ObynGreenfoot Level 5 Description,Suurempi hyökkäysnopeus.
+ObynGreenfoot Level 5 Description,Suurempi hyökkäysnopeus. Viidakon druideilla on suurempi kantama.
 ObynGreenfoot Level 6 Description,Suurempi poksautusteho ja ammukset liikkuvat nopeammin.
 ObynGreenfoot Level 7 Description,Okaat voivat poksauttaa 100 bloonia.
 ObynGreenfoot Level 8 Description,Luonnontoteemit hidastavat blooneja 40 %.
-ObynGreenfoot Level 9 Description,Hyökkäys poksauttaa ylimääräisiä kerroksia.
+ObynGreenfoot Level 9 Description,"Hyökkäys poksauttaa ylimääräisiä kerroksia. Myrskyn druideilla on käytössä suuremmat myrskyt, jotka tekevät enemmän vahinkoa MOABeille."
 ObynGreenfoot Level 10 Description,"Puumuuri: Manaa esiin radan ylittävän puumuurin, joka tuhoaa kaikki saapuvat bloonit. Täytyttyään puut räjähtävät rahoiksi."
 ObynGreenfoot Level 11 Description,"Luonnon selkeys: kaikki maagiset apinat alueella saavat +5 kantamaan ja +2 lävistykseen, ja druidit saavat ylimääräisen +1 läpäisyyn."
-ObynGreenfoot Level 12 Description,Suurempi hyökkäysnopeus.
+ObynGreenfoot Level 12 Description,"Nopeampi hyökkäysnopeus, ja maagisten apinoiden kykyjen palautumisaika on 5 % pienempi."
 ObynGreenfoot Level 13 Description,Entistä suurempi poksautusteho ja ammusten nopeus.
 ObynGreenfoot Level 14 Description,Hyökkäys poksauttaa ylimääräisiä kerroksia.
 ObynGreenfoot Level 15 Description,Luonnontoteemi hidastaa blooneja 60 %:n verran ja sen palautumisaika on lyhyempi.
@@ -241,10 +241,10 @@ Ezili Level 8 Description,Ezilin hyökkäys tekee paljon enemmän vahinkoa MOAB-
 Ezili Level 9 Description,"Ezilin hyökkäykset poistavat muilta kuin MOAB-luokan blooneilta maastokuviointi-, regeneraatio- ja vahvistus-ominaisuudet."
 Ezili Level 10 Description,"MOAB-kirous: asettaa kirouksen MOAB-luokan bloonille, joka ottaa vahinkoa joka sekunti kunnes tuhoutuu."
 Ezili Level 11 Description,Suurempi hyökkäyksen kantama. Lisää epäkuolleiden bloonien läpäisyä 50 %.
-Ezili Level 12 Description,Sydämenpysäyttimen lyhyempi palautumisaika ja pidempi kesto.
+Ezili Level 12 Description,Sydämenpysäyttimen lyhyempi palautumisaika ja pidempi kesto. Tekee enemmän vahinkoa MOABeille.
 Ezili Level 13 Description,Perushyökkäyksellä on suurempi aluevahinkosäde ja tehokkaampi lävistys.
 Ezili Level 14 Description,Nopeampi vahingoittuminen ajan mittaan.
-Ezili Level 15 Description,Suurempi alue.
+Ezili Level 15 Description,Suurempi alue. Ajan mittaan tehty vahinko kestää pidempään.
 Ezili Level 16 Description,Uhritoteemi kestää pidempään ja sen käyttö maksaa vain 1 elämän.
 Ezili Level 17 Description,Perushyökkäyksellä on suurempi aluevahinkosäde ja tehokkaampi lävistys.
 Ezili Level 18 Description,Suurempi hyökkäysnopeus.
@@ -761,7 +761,7 @@ Re-Freeze Description,"Voi jäädyttää uudelleen bloonit, jotka ovat jo jääd
 Ice Shards Description,"Veitsenteräviä sirpaleita lentää, kun jäätyneet bloonit poksahtavat."
 Arctic Wind Description,"Lisää suuresti lävistystä ja saa superkylmän auran, joka hidastaa blooneja ja jäädyttää lähellä olevan veden."
 Cryo Cannon Description,Ampuu jäädytyspommeja blooneihin suuremmalla kantamalla.
-Embrittlement Description,"Tunnistaa maastokuvioidut bloonit, ja osuessa kaikista blooneista ja MOABeista tulee hauraita, ne kärsivät enemmän vahinkoa hetken aikaa ja menettävät maastokuvioinnin ja regeneroinnin lopullisesti."
+Embrittlement Description,"Voi osua MOAB-luokan blooneihin. Kaikista blooneista tulee hauraita, ne kärsivät enemmän vahinkoa jäädytyksen aikana ja menettävät maastokuvioinnin."
 Snowstorm Description,"Lumimyrsky-kyky: Jäädyttää kaikki tavalliset bloonit näytöllä ja jäähdyttää hetkeksi valkoiset, seeprakuvioidut ja maastokuvioidut bloonit ja hidastaa MOAB-luokkaa."
 Icicles Description,"Jäätyneet bloonit kasvattavat teräviä jääpuikkoja, jotka voivat poksauttaa niihin koskevia blooneja."
 Super Brittle Description,"Jäädytetyt bloonit kärsivät valtavia vahinkoja, mukaan lukien MOAB-luokan bloonit."
@@ -882,7 +882,7 @@ Blooncineration Description,"Superkuuma palava aines polttaa 5 bloonikerroksen l
 ,
 Focused Firing Description,Lisää Konetikka-aseen tarkkuutta.
 Advanced Targeting Description,Tikka-ampuja voi osua maastokuvioituihin blooneihin.
-Powerful Darts Description,Tikat liikkuvat nopeammin ja voivat poksauttaa 3 bloonia.
+Powerful Darts Description,Tikat liikkuvat nopeammin ja voivat poksauttaa jäisiä blooneja sekä 3 bloonia kerralla.
 Faster Swivel Description,Piippu voi pyöriä paljon nopeammin.
 Faster Barrel Spin Description,Saa aseen ampumaan paljon nopeammin.
 Depleted Bloontonium Description,Laukaukset voivat vahingoittaa mitä tahansa bloonityyppiä.
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] synkkäsiirtyäksesi alueella
 DarkChampionDarkshift,[I] synkkäsiirtyäksesi mihin tahansa kelvolliseen sijaintiin
 SmallTowersMode,Pienet apinatornit
 BigTowersMode,Suuret apinatornit
-UpdatePopupTitle,Päivitys 28!
-UpdatePopupDescription,"Suuri sisältöpäivitys!\n• Yhteistoiminnan pomotaistelut! Kokeile pomotapahtumia ystäviesi kanssa maksimaalisia esikuvatasoja varten!\n• Uusi pomoblooni – hautaherra Lych!\n• Pomojen pistetaulukot! Valitse Ranked-tila ja aseta ennätysaika pistetaulukkoon joko soolona tai yhteistoiminnassa\n• Uusi esikuvatorni – Ninja-apina Ylentynyt Varjo on saapunut!\n• Viikinki-Sauda on noussut kehään! Nappaa uusi Sauda-ulkoasu ja ala sivaltaa!\n• Älä joudu eroon muista tai eksy metsään uudessa Aloittelija-kartassa: Mökki\n• 12 uutta pokaalikaupan esinettä sekä 6 upouutta rajallisen ajan halloween-esinettä – nappaa ne, kun vielä voit!\n• Tasapainotusta ja korjauksia – paljon muutoksia, katso päivitystiedoista kaikki yksityiskohdat"
+UpdatePopupTitle,Päivitys 29!
+UpdatePopupDescription,"Hyvää joulua -kausipäivitys!\n• Ole kaikkien merten valtias apinaesikuvalla: Merten navarkki\n• Pysäytä itsepintaiset bloonit uudella keskitason kartalla: Hiljainen katu\n• Nappaa mahtava uusi malli Ezilille: Galaxili!n\• Yhteistoiminta-aulan luomista on viilattu, joten pääset peliin nopeammin\n• 17 uutta esinettä pokaalikauppaan, joista 6 on saatavilla vain rajoitetun ajan. Toimi nopeasti!\n• Uusia saavutuksia, pelin parannuksia, tasapainotuksia ja bugikorjauksia. Paljon uusia ja upeita muutoksia, katso koko lista päivitystiedoista.\n• Hyvää joulua ja onnellista uutta vuotta Ninja Kiwiltä!"
 ResetDailyChest,Nollaa päivittäinen arkku
 JukeboxName,Jukeboksi
 EnableFunction,Ota käyttöön
@@ -3597,9 +3597,7 @@ btd6_4racespass Description,Kisaa niin paljon kuin haluat 4 kisan ajan!
 btd6_4racespass,4 kisapassia
 btd6_12racespass Description,Kisaa niin paljon kuin haluat 12 kisan ajan!
 btd6_12racespass,12 kisapassia
-AccountPermissionRestriction,Tällä Xbox-tilillä ei ole lupaa pelata moninpelejä
 GetHeroBooster,Hanki sankaritehostin
-AccountCommunityPermissionRestriction,Tällä Xbox-tilillä ei ole lupaa näyttää tai luoda yhteisösisältöä
 IntermediateUnlockText,"Läpäise Aloittelija-kartta ensimmäistä kertaa, jotta saat avattua keskitason kartan"
 AdvancedUnlockText,"Läpäise keskitason kartta ensimmäistä kertaa, jotta saat avattua edistyneen kartan"
 ExpertUnlockText,"Läpäise edistynyt kartta ensimmäistä kertaa, jotta saat avattua asiantuntijan kartan"
@@ -4117,4 +4115,115 @@ Elite,Eliitti
 HackGameStopMessage,Peliarvoja ei voi synkronoida uudelleen. Ikävä kyllä tämä peli ei voi jatkua. Kokeile uutta peliä.
 RankedMode,Ranked-tila
 Any,Mikä tahansa
-ScoreNotVerifiable,Pisteitäsi ei lähetetty, koska sitä ei voitu vahvistaa.
+ScoreNotVerifiable,"Pisteitäsi ei lähetetty, sillä niiden oikeellisuutta ei voitu varmistaa."
+NoBossDataYet,Päihitä pomo ja pääset minipomojen pistetaulukkoon!
+LeaderboardMessageMaxPlayers,Näytetään pelaajien top 100
+ConfirmQuitCoopMessage,"Et voi enää palata peliin, jos poistut siitä nyt. Oletko varma?"
+YouWereRemoved,"Yhteistoimintapaikkasi suljettiin edellisessä pelissä, uudelleenliittyminen ei ole enää mahdollista."
+iCloudLongMessage,"Jos iCloud on aktivoitu ja saatavilla, tallennuksesi talletetaan automaattisesti iCloud-tilillesi varmuuskopiointia ja muita laitteita varten."
+CreateNew,Luo uusi
+SlotX,Paikka {0}
+EmptySlot,Tyhjä paikka
+Delete,Poista
+CreatedDate,Luotu: {0}
+LastSavedDate,Tallennettu viimeksi: {0}
+DeleteDescription,"Oletko varma, että haluat poistaa tämän tallennustiedoston laitteeltasi ja iCloud-tililtäsi?"
+SaveSlots,Tallennuspaikat
+LoadGame,Lataa peli
+DeleteDescriptionNotConnected,"Oletko varma, että haluat poistaa tämän tallennustiedoston laitteeltasi?"
+icloudConflictMessage,"Laitteellasi ja iCloudissa olevat tallennukset eroavat toisistaan. Valitse, kumman haluat pitää. Se, jota et valinnut, poistetaan lopullisesti."
+GamecenterRestricted,Moninpeli ei ole saatavilla – Et saa pelata moninpelejä tai moninpelisisältöä tällä laitteella.
+DeviceOfflineMessage,Tämä laite on tällä hetkellä offline-tilassa. Pilveen tallennettuja tiedostoja ei voi käyttää. Pelitila ei välttämättä tallennu.
+GamecenterLoginPrompt,"Kirjaudu sisään Game Centeriin, jotta voit ottaa tallennuksen käyttöön. Avaa Asetukset, Game Center ja kirjaudu sisään."
+GamecenterRestrictedTitle,Moninpeliä rajoitettu
+GamecenterLoginTitle,Kirjaudu sisään Game Centeriin
+QuietStreet,Hiljainen katu
+GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinDescription,"Kaikki, mitä olemme, ja kaikki, minkä näemme, koostuu tähtipölystä"
+MonkeyBuccaneer Paragon,Merten navarkki
+MonkeyBuccaneer Paragon Description,Mahtavin aallokossa kelluva asia ikinä.
+HeroesPsiPetBisonName,Psi-biisonilemmikki
+HeroesPsiPetBisonShortName,Psi-biisonilemmikki
+HeroesPsiPetBisonDescription,"Sorkkaeläinten valioyksilö, joka on Psin mielestä häkellyttävän söpö. Vain alkuperäiselle Psille ;)"
+TowerPropMonkeyVillageAustralianFlagName,Apinakylän Australian lippu
+TowerPropMonkeyVillageAustralianFlagShortName,Kylän Australian lippu
+TowerPropMonkeyVillageAustralianFlagDescription,Aussit rulaa! Tämä apinakylän lippu näkyy kaikissa päivityksissä
+TowerProjectileMortarSnowName,Mörssäriapinan lumiammus
+TowerProjectileMortarSnowShortName,Mörssärin lumiammus
+TowerProjectileMortarSnowDescription,Voita kaikki lumisodat tämän uskomattoman lumisen mörssäriapina-ammuksen avulla! Rajoitetun ajan keräilyesine!
+TowerPetIceMonkeySnowmanName,Jääapinan lumimieslemmikki
+TowerPetIceMonkeySnowmanShortName,Jääapinan lumilemmikki
+TowerPetIceMonkeySnowmanDescription,"Mitä jääapina tekee silloin, kun ei poksauttele blooneja? Rakentaa tietysti mahtavia lumilemmikkejä! Rajoitetun ajan keräilyesine!"
+BloonsDDTSkinSleighName,Tuhoreki-DDT
+BloonsDDTSkinSleighShortName,Tuhoreki-DDT
+BloonsDDTSkinSleighDescription,Kuljeta paketit tyylillä tällä pelottavalla tuhoreellä! Rajoitetun ajan keräilyesine!
+BloonsAllBloonsElfHatName,Tonttulakki-bloonit
+BloonsAllBloonsElfHatShortName,Tonttulakki-bloonit
+BloonsAllBloonsElfHatDescription,"Kaikki näyttää söpömmältä, jos sille pukee tonttulakin! Rajoitetun ajan keräilyesine!"
+CoopEmoteAnimationBenCoolName,Siisti-Ben-emote
+CoopEmoteAnimationBenCoolShortName,Siisti-Ben
+CoopEmoteAnimationBenCoolDescription,"Ole kuin Ben: pysy siistinä, ole siisti"
+CoopEmoteAnimationBikerBonesRageName,Prätkä-Bonesin raivo-emote
+CoopEmoteAnimationBikerBonesRageShortName,Prätkä-Bonesin raivo
+CoopEmoteAnimationBikerBonesRageDescription,Uhrasitko juuri kaikki tornini rakentaaksesi itsellesi temppelin? Prätkä-Bones RAIVOAAAA!
+GameUIProfileAvatar52Name,Oma avatar – Bumerangi
+GameUIProfileAvatar52ShortName,Bumerangi-avatar
+GameUIProfileAvatar52Description,Vasenkätinen bumerangi paras bumerangi!
+GameUIProfileAvatar53Name,Oma avatar – Merirosvokapteeni
+GameUIProfileAvatar53ShortName,Merirosvokapteeni-avatar
+GameUIProfileAvatar53Description,"Yarr! Etkö haluakin esitellä muille pelaajien lurjuksille, miten hienoja avatareja pokaaleilla saakaan hankittua?"
+GameUIProfileAvatar54Name,Oma avatar – Geometrinen Quincy
+GameUIProfileAvatar54ShortName,Geometrinen Quincy -avatar
+GameUIProfileAvatar54Description,Minä olen alfa ja omega. Minä olen Quincy potenssiin kaksi.
+GameUIProfileAvatar55Name,Oma avatar – Tähdenlaskija-Adora
+GameUIProfileAvatar55ShortName,Tähti-Adora-avatar
+GameUIProfileAvatar55Description,Kenen muun muka antaisit viimeistellä joulukuusen? Sitä paitsi Adora ei päästä ketään muuta kuusen lähelle! Rajoitetun ajan keräilyesine!
+GameUIProfileBanner8Name,Avaruusloikka-profiilibanneri
+GameUIProfileBanner8ShortName,Avaruusloikka-banneri
+GameUIProfileBanner8Description,Bannerivoittaja: Galaksyz
+GameUIProfileBanner9Name,Kohti aurinkoa -profiilibanneri
+GameUIProfileBanner9ShortName,Kohti aurinkoa -banneri
+GameUIProfileBanner9Description,Bannerivoittaja: Bohrokki
+GameUIPowerSkinEnergisingTotemChristmasTreeName,Mukautettua tehoa – Joulukuusen energisoiva toteemi
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,Energisoiva joulukuusi
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,Anna apinoillesi virtaa tällä värikkäällä joulukuusella! Rajoitetun ajan keräilyesine!
+GameUIPowerSkinDartTimeMatrixName,Mukautettua tehoa – Tikka-ajan pysäytys
+GameUIPowerSkinDartTimeMatrixShortName,Tikka-ajan pysäytys
+GameUIPowerSkinDartTimeMatrixDescription,"Tämä ei ole bugi. Et ole nähnyt tätä aikaisemmin, mutta lupaamme, että pidät tästä."
+GameUIMusicTrackMusicWinterChilledMixName,Jukeboksi: Talviyöt – Jäätävä remix
+GameUIMusicTrackMusicWinterChilledMixShortName,Talviyöt jäätävä
+GameUIMusicTrackMusicWinterChilledMixDescription,"Ota rennosti, pelaa ja pohdi talvisen tähtitaivaan ihmeitä tämä remix seuranasi"
+Achievement 134 Name,Daavid vs Goljat
+Achievement 134 Description,"Päihitä pomotaistelu ilman, että käytät sankaria."
+Achievement 135 Name,"Poppaa, Ninja Kiwi, poppaa"
+Achievement 135 Description,Päihitä Maustesaaret vaihtoehtoisilla bloonikierroksilla käyttämällä pelkkiä maatorneja
+Achievement 136 Name,Ei satoa
+Achievement 136 Description,"Päihitä maissipelto ilman, että poistat yhtään maissia"
+Achievement 137 Name,Opintolaina
+Achievement 137 Description,4 x 10^5 (nosta 400 000 € lainaa)
+Achievement 138 Name,Ei ainakaan tiedonpuutteesta kiinni
+Achievement 138 Description,Aiheuta 25 000 kriittistä osumaa
+GameRestartedTitle,Peli aloitettu alusta
+GameContinuedTitle,Peliä jatkettu
+GameRestartedDescription,Toinen pelaaja on aloittanut pelin alusta.
+GameContinuedDescription,Toinen pelaaja on jatkanut peliä.
+EditorAbilityCooldown,Kykyjen palautumisajan nopeus
+EditorRemovableCost,Poistamisen hinta
+AbilityCooldownIncreased,Suurempi kykyjen palautumisajan nopeus
+AbilityCooldownDecreased,Pienempi kykyjen palautumisajan nopeus
+RemovableCostIncreased,Suurempi poistamisen hinta
+RemovableCostDecreased,Pienempi poistamisen hinta
+Disabled,Poistettu käytöstä
+ViewStats,Näytä tilastot
+CloseSlot,Sulje paikka
+OpenSlot,Avaa paikka
+CalloutBossCrusher,Pomonmurskaaja
+CalloutBossCrusherDesc,{0} vahinkoa pomolle
+CalloutWellRounded,Tasapainossa
+CalloutWellRoundedDesc,{0} kutakin 4:ää tornityyppiä
+CalloutEndlessPower,Kyltymätöntä voimaa!
+CalloutEndlessPowerDesc,Luotu esikuva julistuksella {0}
+AnyGame,Mikä tahansa peli
+AnyMap,Mikä tahansa kartta
+AnyDifficulty,Mikä tahansa vaikeus
+AnyMode,Mikä tahansa tila

@@ -152,7 +152,7 @@ Gwendolin Level 3 Description,"Coquetel de Fogo: Lança um frasco de líquido in
 Gwendolin Level 4 Description,Esquenta Aí - A cada segundo cria uma onda de jato de chamas que estoura Bloons e adiciona chamas aos ataques dos Macacos próximos.
 Gwendolin Level 5 Description,Poder de estouro aumentado.
 Gwendolin Level 6 Description,Ataques causam um efeito de queima no Bloon alvo.
-Gwendolin Level 7 Description,Esquenta Aí tem raio aumentado.
+Gwendolin Level 7 Description,Esquenta Aí tem raio aumentado. Coquetel de Fogo é mais eficiente.
 Gwendolin Level 8 Description,Atira duas rajadas de fogo por disparo.
 Gwendolin Level 9 Description,Acerto inicial por rajada estoura 1 camada extra.
 Gwendolin Level 10 Description,"Tempestade de Fogo: Incendeia toda a tela, queimando todos os Bloons e concedendo a vantagem Esquenta Aí a todos os macacos."
@@ -188,7 +188,7 @@ Benjamin Level 18 Description,O Cavalo de Troia Bloon pode afetar Bloons BFB e D
 Benjamin Level 19 Description,Golpe Bancário dura 9 segundos e os macacos afetados estouram 3 cadas extras em vez de 2.
 Benjamin Level 20 Description,O Desvio de Fundos dura 20 segundos e o dinheiro por estouro é o triplo do normal para Bloons afetados.
 ,
-PatFusty Level 1 Description,Pat esmaga bloons no chão.
+PatFusty Level 1 Description,Pat esmaga Bloons no chão.
 PatFusty Level 2 Description,Aumenta o raio do ataque de estrondo.
 PatFusty Level 3 Description,Rugido de Guerra: Todos os Macacos próximos estouram +1 camada por um curto período.
 PatFusty Level 4 Description,Velocidade de ataque aumentada.
@@ -213,14 +213,14 @@ ObynGreenfoot Level 1 Description,Envia espíritos lobos para atacar os Bloons.
 ObynGreenfoot Level 2 Description,Fúria da Natureza - Todos os Druidas no alcance recebem +1 de perfuração.
 ObynGreenfoot Level 3 Description,Cria um arbusto espinhoso na pista que pode estourar 50 Bloons.
 ObynGreenfoot Level 4 Description,A cada 18 segundos cria um totem que reduz o movimento de todos os Bloons próximos em 30%. Menos eficiente contra Bloons de classe MOAB.
-ObynGreenfoot Level 5 Description,Velocidade de ataque aumentada.
+ObynGreenfoot Level 5 Description,Velocidade de ataque aumentada. Druidas da Selva têm maior alcance.
 ObynGreenfoot Level 6 Description,Aumenta o poder de estouro e os projéteis se movem mais rápido.
 ObynGreenfoot Level 7 Description,Espinheiros podem estourar 80 Bloons.
 ObynGreenfoot Level 8 Description,Totens da Natureza desaceleram Bloons em 40%.
-ObynGreenfoot Level 9 Description,Ataques estouram camadas extras.
+ObynGreenfoot Level 9 Description,Ataques estouram camadas extras. Druidas da Tempestade têm tempestades maiores que causam mais dano a MOABs.
 ObynGreenfoot Level 10 Description,"Muralha de Árvores: Invoca uma muralha de árvores na pista que destrói todos os Bloons que entram. Quando enchem, as árvores estouram dinheiro."
 ObynGreenfoot Level 11 Description,"Clareza da Natureza - Todos os Macacos Mágicos no alcance recebem +2 de perfuração e +5 de alcance, e os Druidas recebem +1 de perfuração adicional."
-ObynGreenfoot Level 12 Description,Velocidade de ataque aumentada.
+ObynGreenfoot Level 12 Description,Velocidade de ataque aumentada e recarga de Macacos Mágicos reduzida em 5%.
 ObynGreenfoot Level 13 Description,Aumenta ainda mais o poder de estouro e a velocidade dos projéteis.
 ObynGreenfoot Level 14 Description,Ataques estouram camadas extras.
 ObynGreenfoot Level 15 Description,Totens da natureza desaceleram Bloons em 60% e têm recarga reduzida.
@@ -241,10 +241,10 @@ Ezili Level 8 Description,Os ataques de Ezili causam muito mais dano a Bloons Cl
 Ezili Level 9 Description,"Os ataques de Ezili retiram as propriedades de Camuflagem, Regeneração e Fortificação dos Bloons não MOAB."
 Ezili Level 10 Description,Maldição MOAB: amaldiçoa um Bloon Classe MOAB que tomará dano por segundo até ser aniquilado.
 Ezili Level 11 Description,Alcance aumentado. Aumenta a perfuração de Bloons reanimados em 50%.
-Ezili Level 12 Description,Parada Cardíaca tem a duração aumentada e a recarga reduzida.
+Ezili Level 12 Description,Parada Cardíaca tem a duração aumentada e a recarga reduzida. Causa dano aumentado a MOABs.
 Ezili Level 13 Description,O ataque básico tem área e perfuração aumentadas.
 Ezili Level 14 Description,Dano por tempo mais rápido.
-Ezili Level 15 Description,Alcance aumentado.
+Ezili Level 15 Description,Alcance aumentado. O dano por tempo dura mais tempo.
 Ezili Level 16 Description,O Totem de Sacrifício dura mais e custa apenas uma vida para usar.
 Ezili Level 17 Description,O ataque básico tem área e perfuração aumentadas.
 Ezili Level 18 Description,Velocidade de ataque aumentada.
@@ -761,7 +761,7 @@ Re-Freeze Description,Pode recongelar Bloons já congelados.
 Ice Shards Description,Fragmentos afiados voam quando Bloons congelados estouram.
 Arctic Wind Description,Aumenta muito a perfuração e ganha uma aura superfria que desacelera Bloons e congela águas próximas.
 Cryo Cannon Description,Dispara bombas congelantes a Bloons em longa distância.
-Embrittlement Description,"Detecta Bloons Camuflados e todos os Bloons, incluindo MOABs, atingidos se tornam frágeis, recebendo dano extra por um curto tempo e perdendo as propriedades de camuflagem e regeneração permanentemente."
+Embrittlement Description,"Pode atingir Bloons classe MOAB. Todos os Bloons atingidos se tornam frágeis, recebem dano extra quando congelados e perdem as propriedades de camuflagem."
 Snowstorm Description,"Habilidade Nevasca: Congela todos os Bloons comuns na tela, congela brevemente Bloons Brancos, Zebra e Camuflados, e desacelera classe MOAB."
 Icicles Description,Bloons congelados criam fragmentos de gelo que podem estourar Bloons que tocam neles.
 Super Brittle Description,"Bloons tomam imenso dano enquanto estiverem congelados, inclusive os Classe MOAB."
@@ -882,7 +882,7 @@ Blooncineration Description,"Coisa superquente derrete 5 camadas de Bloon em cad
 ,
 Focused Firing Description,Aumenta a precisão da Arma de Dardos.
 Advanced Targeting Description,Permite ao Atirador de Dardos atingir Bloons Camuflados.
-Powerful Darts Description,Dardos se movem mais rápido e podem estourar três Bloons cada.
+Powerful Darts Description,"Dardos se movem mais rápido, podem estourar Bloons Congelados e podem estourar três Bloons cada."
 Faster Swivel Description,O cano pode girar muito mais rápido.
 Faster Barrel Spin Description,Faz a arma disparar muito mais rápido.
 Depleted Bloontonium Description,Os disparos podem danificar qualquer tipo de Bloon.
@@ -2686,7 +2686,7 @@ Ball of Light Ability Description,Cria uma poderosa bola de energia que ataca os
 SunAvatarMini,Avatar Solar
 TrueSunAvatarMini,Avatar Solar
 ComeOnEverybody,"Vamos Lá, Pessoal!"
-ComeOnEverybodyDescription,Torres primárias atacam 5% mais rápido se todas estiverem abaixo do nível 3 e custam 5% se todas forem nível 3 ou 4.
+ComeOnEverybodyDescription,Torres primárias atacam 5% mais rápido se todas estiverem abaixo do nível 3 e custam 5% menos se todas forem nível 3 ou 4.
 Wingmonkey,Macaco-Alado
 WingmonkeyDescription,Caminho de voo avançado que coordena múltiplos Macacos Áses em ataques atrasados.
 TT_Wingmonkey,Macaco-Alado
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] para usar Teleporte Sombrio no alcance
 DarkChampionDarkshift,[I] para usar Teleporte Sombrio para qualquer local válido
 SmallTowersMode,Torres Macacos Pequenos
 BigTowersMode,Torres Macacos Grandes
-UpdatePopupTitle,Atualização 28!
-UpdatePopupDescription,"Atualização de conteúdo imensa!\n• Batalhas de chefe cooperativas! Encare eventos de chefe com seus amigos para maximizar seu nível de Excelência!\n• Novo Chefe Bloon - Lych Lorde do Cemitério!\n• Placares de chefe! Escolha o modo ranqueado e defina o recorde nos placares jogo solo ou cooperativo\n• Nova Torre de Excelência - Macaco Ninja Sombra Ascendida chegou!\n• Sauda Viking chegou na luta! Pegue o novo visual da Sauda e comece a cortar!\n• Não se separem e fiquem perdidos na floresta no novo mapa Iniciante - A Cabana\n• 12 novos itens da loja de troféus, mais 6 novos itens limitados de Halloween - pegue enquanto puder!\n• Ajustes e correções - muitas mudanças, verifique as notas de atualização para todos os detalhes"
+UpdatePopupTitle,Atualização 29!
+UpdatePopupDescription,"Atualização de Boas Festas!\n• Domine todas as águas com o mais novo Macaco com Excelência: Navarco dos Mares\n• Impeça esses Bloons arruaceiros no novo mapa intermediário: Rua Quieta\n• Pegue o incrível novo visual de Ezili: Galaxili!\n• Criação de lobby cooperativo remodelada para você entrar no jogo mais rápido\n• 17 novos itens da loja de troféus, incluindo 6 itens de tempo limitado. Pegue-os logo!\n• Novas conquistas, melhorias de qualidade de vida, equilíbrios e correções - muitas grandes mudanças, configura as notas de atualização para ver todos os detalhes\nOs mais calorosos votos de boas festas e feliz ano novo, de todos nós da Ninja Kiwi!"
 ResetDailyChest,Zerar Baú Diário
 JukeboxName,Jukebox
 EnableFunction,Habilitar
@@ -3597,9 +3597,7 @@ btd6_4racespass Description,Corra o quanto puder durante 4 corridas!
 btd6_4racespass,Passe de 4 Corridas
 btd6_12racespass Description,Corra o quanto puder durante 12 corridas!
 btd6_12racespass,Passe de 12 Corridas
-AccountPermissionRestriction,Esta conta Xbox não tem permissão para jogar jogos multijogador.
 GetHeroBooster,Ganhe Impulso de Herói
-AccountCommunityPermissionRestriction,Esta conta Xbox não tem permissão para ver ou criar conteúdo da comunidade.
 IntermediateUnlockText,Vença um mapa Iniciante pela primeira vez para liberar um mapa Intermediário.
 AdvancedUnlockText,Vença um mapa Intermediário pela primeira vez para liberar um mapa Avançado.
 ExpertUnlockText,Vença um mapa Avançado pela primeira vez para liberar um mapa Expert.
@@ -3673,7 +3671,7 @@ PlayerPositionClosed,Posição de jogador fechada
 YouFinished,Você concluiu:
 BestTime,Melhor tempo:
 Claim,Coletar
-PlayerRejoinedGame,retornou ao jogo
+PlayerRejoinedGame, retornou ao jogo
 PlayerKickedFromGame,{0} foi removido(a) do jogo
 ConfirmKickPlayer,Quer mesmo remover {0}?
 Remove,Remover
@@ -4117,4 +4115,115 @@ Elite,Elite
 HackGameStopMessage,Valores de jogo não puderam ser ressincronizados. Infelizmente este jogo não pode continuar. Inicie um novo jogo.
 RankedMode,Modo ranqueado
 Any,Qualquer
-ScoreNotVerifiable,Sua pontuação não foi enviada porque não pôde ser verificada.
+ScoreNotVerifiable,Sua pontuação não foi enviada pois não pode ser confirmada.
+NoBossDataYet,Vença o chefe para se juntar a um miniplacar de chefes!
+LeaderboardMessageMaxPlayers,Mostrando os 100 melhores jogadores
+ConfirmQuitCoopMessage,Você não poderá voltar a este jogo se sair agora. Tem certeza?
+YouWereRemoved,Sua posição no cooperativo foi fechada em seu último jogo. Incapaz de retornar.
+iCloudLongMessage,"Se o iCloud estiver habilitado e disponível, seus jogos salvos serão armazenados automaticamente na sua conta do iCloud para backup e acesso por outros dispositivos."
+CreateNew,Criar novo
+SlotX,Espaço {0}
+EmptySlot,Espaço vazio
+Delete,Deletar
+CreatedDate,Criado: {0}
+LastSavedDate,Salvo por último: {0}
+DeleteDescription,Tem certeza de que deseja deletar este jogo salvo do seu dispositivo e sua sua conta do iCloud?
+SaveSlots,Espaços de salvamento
+LoadGame,Carregar jogo
+DeleteDescriptionNotConnected,Tem certeza de que deseja deletar este jogo salvo do armazenamento local?
+icloudConflictMessage,Seu jogo salvo na iCloud e no seu dispositivo são diferentes. Escolha um para manter. O outro será descartado permanentemente.
+GamecenterRestricted,Multijogador indisponível – Você não tem permissão para jogar jogos ou conteúdo de multijogador neste dispositivo.
+DeviceOfflineMessage,O dispositivo está offline no momento. Qualquer jogo salvo na nuvem não estará disponível. Progressos no jogo não poderão ser salvos.
+GamecenterLoginPrompt,"Faça login no Game Center para acessar. Abra as Configurações do dispositivo, encontre o Game Center e faça login."
+GamecenterRestrictedTitle,Acesso ao multijogador restrito
+GamecenterLoginTitle,Login no Game Center
+QuietStreet,Rua Quieta
+GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinDescription,"Tudo o que somos, tudo o que vemos, é feito de poeira espacial."
+MonkeyBuccaneer Paragon,Navarco dos Mares
+MonkeyBuccaneer Paragon Description,A coisa mais incrível que já flutuou sobre a água.
+HeroesPsiPetBisonName,Pet Psi Bisão
+HeroesPsiPetBisonShortName,Pet Psi Bisão
+HeroesPsiPetBisonDescription,"Um espécime exemplar de artiodáctilo, que Psi por acaso acha totalmente adorável. Apenas para Psi original ;)"
+TowerPropMonkeyVillageAustralianFlagName,Bandeira da Austrália na Vila Macaco
+TowerPropMonkeyVillageAustralianFlagShortName,Bandeira da Austrália na Vila
+TowerPropMonkeyVillageAustralianFlagDescription,"Aussie Aussie Aussie, Oi Oi Oi! Essa bandeira da Vila Macaco aparece em todas as melhorias."
+TowerProjectileMortarSnowName,Macaco Morteiro Projétil de Neve
+TowerProjectileMortarSnowShortName,Morteiro Projétil de Neve
+TowerProjectileMortarSnowDescription,Vença todas as batalhas de bola de neve com esse incrível projétil gelado do Macaco Morteiro. Item de colecionador por tempo limitado!
+TowerPetIceMonkeySnowmanName,Macaco de Gelo Pet Boneco de Neve
+TowerPetIceMonkeySnowmanShortName,Macaco de Gelo Pet de Neve
+TowerPetIceMonkeySnowmanDescription,"O que o Macaco de Gelo faz quando não está estourando Bloons? Constrói incríveis pets de gelo, é claro! Item de colecionador por tempo limitado!"
+BloonsDDTSkinSleighName,DDT Trenó Maldito
+BloonsDDTSkinSleighShortName,DDT Trenó Maldito
+BloonsDDTSkinSleighDescription,Entregue presentes com estilo neste Natal com o terrível Trenó Maldito! Item de colecionador por tempo limitado!
+BloonsAllBloonsElfHatName,Bloons de Chapéu de Duende
+BloonsAllBloonsElfHatShortName,Bloons de Chapéu de Duende
+BloonsAllBloonsElfHatDescription,Tudo fica mais fofo com pequenos chapéus de duende! Item de colecionador por tempo limitado!
+CoopEmoteAnimationBenCoolName,Reação Ben Maneiro
+CoopEmoteAnimationBenCoolShortName,Ben Maneiro
+CoopEmoteAnimationBenCoolDescription,Seja como Ben e seja maneiro.
+CoopEmoteAnimationBikerBonesRageName,Reação Ossos de Motoqueiro Raivoso
+CoopEmoteAnimationBikerBonesRageShortName,Ossos de Motoqueiro Raivoso
+CoopEmoteAnimationBikerBonesRageDescription,Você realmente sacrificou todas as minhas torres pra construir seu Templo? Ossos de Motoqueiro está com RAIVAAAAA!
+GameUIProfileAvatar52Name,Avatar Personalizado - Bumerangue
+GameUIProfileAvatar52ShortName,Avatar Bumerangue
+GameUIProfileAvatar52Description,Bumerangue canhoto é o melhor bumerangue!
+GameUIProfileAvatar53Name,Avatar Personalizado - Capitão Pirata
+GameUIProfileAvatar53ShortName,Avatar Capitão Pirata
+GameUIProfileAvatar53Description,"Yarr! Você quer impressionar os outros marujos com o melhor avatar que os troféus podem comprar, não quer?"
+GameUIProfileAvatar54Name,Avatar Personalizado - Quincy Geométrico
+GameUIProfileAvatar54ShortName,Avatar Quincy Geométrico
+GameUIProfileAvatar54Description,"Eu sou alfa e ômega. Eu sou Quincy, ao quadrado."
+GameUIProfileAvatar55Name,Avatar Personalizado - Adora Responsável da Estrela
+GameUIProfileAvatar55ShortName,Avatar Adora da Estrela
+GameUIProfileAvatar55Description,"Em quem mais você confiaria para colocar os toques finais na árvore? Bem, isso e a Adora não deixa ninguém mais chegar perto. Item de colecionador por tempo limitado!"
+GameUIProfileBanner8Name,Bandeira de Perfil Salto no Espaço
+GameUIProfileBanner8ShortName,Bandeira Salto no Espaço
+GameUIProfileBanner8Description,Bandeira vencedora por Galaksyz
+GameUIProfileBanner9Name,Bandeira de Perfil Encare o Sol
+GameUIProfileBanner9ShortName,Bandeira Encare o Sol
+GameUIProfileBanner9Description,Bandeira vencedora por Bohrokki
+GameUIPowerSkinEnergisingTotemChristmasTreeName,Poder Personalizado - Totem Energizado Árvore de Natal
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,Árvore de Natal Energizada
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,Mantenha seus macacos energizados com essa colorida Árvore de Natal! Item de colecionador por tempo limitado!
+GameUIPowerSkinDartTimeMatrixName,Poder Personalizado - Tempo Parado de Dardos
+GameUIPowerSkinDartTimeMatrixShortName,Tempo Parado de Dardos
+GameUIPowerSkinDartTimeMatrixDescription,"Isso não é um erro, você não viu isso antes, mas vai gostar, prometemos."
+GameUIMusicTrackMusicWinterChilledMixName,Jukebox: Winter Nights - Chilled Remix
+GameUIMusicTrackMusicWinterChilledMixShortName,Winter Nights Chilled
+GameUIMusicTrackMusicWinterChilledMixDescription,"Relaxe, jogue e pondere as estrelas do inverno com esse novo remix."
+Achievement 134 Name,Davi vs. Golias
+Achievement 134 Description,Vença uma batalha de chefe sem usar um herói.
+Achievement 135 Name,Que Picante Ninja Kiwi
+Achievement 135 Description,Vença as Ilhas das Especiarias em Rodadas de Bloon Alternativas com apenas torres terrestres.
+Achievement 136 Name,Sem Colheita
+Achievement 136 Description,Vença Milharal em CHIMPS sem remover nenhum milho.
+Achievement 137 Name,Empréstimo de Estudante
+Achievement 137 Description,4 x 10^5 (Tenha $400.000 de dívida).
+Achievement 138 Name,Sem Escassez de Informações Críticas
+Achievement 138 Description,Consiga 25.000 acertos críticos.
+GameRestartedTitle,Jogo reiniciado
+GameContinuedTitle,Jogo continuado
+GameRestartedDescription,O jogo foi reiniciado por outro jogador.
+GameContinuedDescription,O jogo foi continuado por outro jogador.
+EditorAbilityCooldown,Recarga de Habilidade
+EditorRemovableCost,Custo de Remover
+AbilityCooldownIncreased,Recarga de habilidade aumentada
+AbilityCooldownDecreased,Recarga de habilidade reduzida
+RemovableCostIncreased,Custo de remover aumentado
+RemovableCostDecreased,Custo de remover reduzido
+Disabled,Desabilitado
+ViewStats,Ver estatísticas
+CloseSlot,Fechar espaço
+OpenSlot,Abrir espaço
+CalloutBossCrusher,Destruidor de Chefe
+CalloutBossCrusherDesc,{0} de dano no chefe
+CalloutWellRounded,Equilibrado
+CalloutWellRoundedDesc,{0} de cada dos 4 tipos de torre
+CalloutEndlessPower,Poder Infinito!
+CalloutEndlessPowerDesc,Grau {0} de Excelência criado
+AnyGame,Qualquer jogo
+AnyMap,Qualquer mapa
+AnyDifficulty,Qualquer dificuldade
+AnyMode,Qualquer modo

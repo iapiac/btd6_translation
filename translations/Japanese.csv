@@ -64,7 +64,7 @@ ObynGreenfoot,オービン・グリーンフット
 ,
 //Hero Short Descriptions,
 Quincy Short Description,アーチャー
-StrikerJones Short Description,砲撃司令官
+StrikerJones Short Description,砲兵司令官
 CaptainChurchill Short Description,戦車
 Gwendolin Short Description,放火魔
 Benjamin Short Description,コーディングモンキー
@@ -123,7 +123,7 @@ StrikerJones Level 16 Description,攻撃速度が増加。
 StrikerJones Level 17 Description,範囲が増え、発射ごとに4層を割る。
 StrikerJones Level 18 Description,すべての爆弾シューターと迫撃砲モンキーはさらに10％速く攻撃します。
 StrikerJones Level 19 Description,加速された攻撃スピードで、全ての黒ブルーンの爆破ダメージに対する耐性を下げる。
-StrikerJones Level 20 Description,砲撃コマンドはまた、爆弾シューターと迫撃砲モンキーの両方に2秒間のダメージとポップを10秒間与えます。
+StrikerJones Level 20 Description,砲兵コマンドはまた、爆弾シューターと迫撃砲モンキーの両方に2秒間のダメージとポップを10秒間与えます。
 ,
 CaptainChurchill Level 1 Description,戦車から撃ち放った爆弾が、最高で3回爆発する。
 CaptainChurchill Level 2 Description,発射ごとの割る力が増加。
@@ -149,10 +149,10 @@ CaptainChurchill Level 20 Description,MOAB射撃砲弾とメインのガンは�
 Gwendolin Level 1 Description,放火銃からの火でブルーンを爆破する。
 Gwendolin Level 2 Description,発射ごとの割る力が、少し増加。
 Gwendolin Level 3 Description,炎のカクテル：引火性の液体のフラスクを投げつけ、炎を通過するブルーンを燃やす。
-Gwendolin Level 4 Description,ヒートアップ：数秒ごとに協力な炎の爆風を作りだし、ブルーンを割り、付近のMonkeysâ€™攻撃に炎を加える。
+Gwendolin Level 4 Description,ヒートアップ：数秒ごとに強力な炎の爆風を作りだしてブルーンを割り、付近のモンキー攻撃に炎を加える。
 Gwendolin Level 5 Description,破裂パワーが増加。
 Gwendolin Level 6 Description,攻撃すると、狙ったブルーンに燃焼効果を起こす。
-Gwendolin Level 7 Description,ヒートアップの半径が増加。
+Gwendolin Level 7 Description,ヒートアップの半径が増加し、炎のカクテルがより効果的になった。
 Gwendolin Level 8 Description,発射ごとに、2個の火炎弾を撃つ。
 Gwendolin Level 9 Description,爆破ごとの初回の命中で破裂させる層が一層増える。
 Gwendolin Level 10 Description,火の嵐：画面全体に火をつけ全てのブルーンを燃やし、全てのモンキーにヒートアップのバフを与える。
@@ -213,20 +213,20 @@ ObynGreenfoot Level 1 Description,オオカミの精でブルーンを攻撃。
 ObynGreenfoot Level 2 Description,自然の怒り―範囲内の全てのドルイドの貫通がプラス1に。
 ObynGreenfoot Level 3 Description,トラック上に、一度の50個のブルーンを割れるトゲの茂みを作り出す。
 ObynGreenfoot Level 4 Description,付近の全てのブルーンを30％遅延させるトーテムを、18秒に1回作る。MOAB級ブルーンに対する効果は薄い。
-ObynGreenfoot Level 5 Description,攻撃速度が増加。
+ObynGreenfoot Level 5 Description,攻撃速度が大幅に増加。ジャングルのドルイドの射程距離がアップした。
 ObynGreenfoot Level 6 Description,破裂パワーが増え、投射物がもっと高速で移動する。
 ObynGreenfoot Level 7 Description,ブランブルは100個のブルーンを割ることができる。
 ObynGreenfoot Level 8 Description,自然区域のトーテムが、ブルーンを40％遅らせる。
-ObynGreenfoot Level 9 Description,攻撃すると余分な層を割れる。
+ObynGreenfoot Level 9 Description,攻撃すると余分な層を割れる。嵐のドルイドに、MOABに対しもっとたくさんのダメージを与えるより大きな嵐が備わっている。
 ObynGreenfoot Level 10 Description,木の壁：通過する全てのブルーンを破壊してくれる木の壁をトラック上に召喚する。一杯になると、木々は破裂してお金になる。
 ObynGreenfoot Level 11 Description,自然の明晰－範囲内の全ての魔法モンキーの範囲がプラス5、貫通がプラス2、そしてドルイドの貫通が追加でプラス1になる。
-ObynGreenfoot Level 12 Description,攻撃速度が増加。
+ObynGreenfoot Level 12 Description,攻撃速度が増加し、マジックモンキーのクールダウンが5％減少した。
 ObynGreenfoot Level 13 Description,破裂パワーと投射物の速度がさらにアップ。
 ObynGreenfoot Level 14 Description,攻撃すると余分な層を割れる。
 ObynGreenfoot Level 15 Description,自然区域が、ブルーンを60％遅らせる。クールダウンが短縮。
 ObynGreenfoot Level 16 Description,ブランブルはそれぞれ500個のブルーンを割り、全種類のブルーンにダメージを与えられる。
 ObynGreenfoot Level 17 Description,攻撃速度が増加。
-ObynGreenfoot Level 18 Description,怒りの改善-怒りのドルイド+E229:E241全てが、各ラウンド開始時に200個割る。
+ObynGreenfoot Level 18 Description,怒りの改善-怒りのドルイド全てが、各ラウンド開始時の割り数が200になる。
 ObynGreenfoot Level 19 Description,攻撃すると余分な層を割れる。
 ObynGreenfoot Level 20 Description,木の壁が、もっとたくさんのブルーンを収容できるようになる。
 ,
@@ -236,26 +236,26 @@ Ezili Level 3 Description,ハートストッパー：6秒の間、再増殖型�
 Ezili Level 4 Description,エジーリのメイン攻撃が、複数のブルーンを呪うようになる。
 Ezili Level 5 Description,攻撃速度が増加。
 Ezili Level 6 Description,時間経過ダメージの期間とダメージ持続時間が増える。
-Ezili Level 7 Description,いけにえのトーテム：付近のモンキーに、カモフラージュ検知、さらなる貫通、攻撃範囲、攻撃スピードを与えるトーテム。10個のライフを消費する、
+Ezili Level 7 Description,いけにえのトーテム：付近のモンキーに、カモフラージュ検知、さらなる貫通、攻撃範囲、攻撃スピードを与えるトーテム。10個のライフを消費する。
 Ezili Level 8 Description,エジーリの攻撃はMOAB級ブルーンよりはるかに大きなダメージを与える。
 Ezili Level 9 Description,イージーリの攻撃は、迷彩、再増殖型、および非MOABクラスのブルーンからの武装プロパティを取り除きます。
 Ezili Level 10 Description,MOABヘックス：MOAB級ブルーンの一つに呪いをかけ、全滅するまで一秒ごとにダメージを与える。
 Ezili Level 11 Description,攻撃範囲を増やす。蘇生ブルーンに対する貫通度が50％アップ。
-Ezili Level 12 Description,ハートストッパーのクールダウンが短縮し、期間が増加。
+Ezili Level 12 Description,ハートストッパーのクールダウンが短縮し、期間が増加。MOABへのダメージが増加。
 Ezili Level 13 Description,基本攻撃のスプラッシュ範囲が広がり、貫通も増加。
 Ezili Level 14 Description,時間経過ダメージがよりスピーディーに。
-Ezili Level 15 Description,範囲が拡大。
-Ezili Level 16 Description,いけにえトーテムが長持ちし、使用に必要なのは1ライフのみ。
+Ezili Level 15 Description,範囲が拡大。時間経過ダメージの期間が増える。
+Ezili Level 16 Description,いけにえのトーテムが長持ちし、使用に必要なのは1ライフのみ。
 Ezili Level 17 Description,基本攻撃のスプラッシュ範囲が広がり、貫通も増加。
 Ezili Level 18 Description,攻撃速度が増加。
 Ezili Level 19 Description,基本攻撃からの各ダメージ数が、3層分割る！
-Ezili Level 20 Description,MOAB Hexはよりスピーディーに働くので、BADブルーンを破壊できる。
+Ezili Level 20 Description,MOABヘックスはよりスピーディーに働くので、BADブルーンを破壊できる。
 ,
 //Hero Ability Names,
 Rapid Shot Ability,急速ショット
 Storm of Arrows Ability,矢の嵐 
 Concussive Shell Ability,ブルブル炸裂弾
-Artillery Command Ability,砲撃指令
+Artillery Command Ability,砲兵コマンド
 Armor Piercing Shells Ability,武装貫通炸裂弾
 MOAB Barrage Ability,MOAB一斉攻撃
 Cocktail of Fire Ability,炎のカクテル
@@ -761,7 +761,7 @@ Re-Freeze Description,既に凍結しているブルーンを、再凍結でき�
 Ice Shards Description,凍結ブルーンが割れると剃刀のように鋭い破片が飛び散る。
 Arctic Wind Description,貫通度を大きく上げて、近寄るブルーンの動きを遅らせるとても冷たいオーラを取得する。
 Cryo Cannon Description,もっと遠距離のブルーンめがけて、凍結ボムを発射。
-Embrittlement Description,カモフラージュブルーンとMOABを含む全てのブルーンを検知し短期間ブルーンを全部もろくして追加ダメージを与え、カモフラージュと再増殖の能力を永久に失わせる。
+Embrittlement Description,MOAB級ブルーンに命中できる。命中した全てのブルーンはもろくなり、凍結中に追加のダメージを受け、カモフラージュ性を失う。
 Snowstorm Description,雪嵐の能力：画面上の全てのブルーンを凍結させる。白、ゼブラ、カモフラージュ、MOAB級は短時間凍結させる。
 Icicles Description,凍結したブルーンは、鋭いつららを作り、触れたブルーンを割ることができる。
 Super Brittle Description,MOAB級ブルーンを含めたブルーンが、凍結中に巨大ダメージを与える。
@@ -882,7 +882,7 @@ Blooncineration Description,とても熱いバーニースタッフが、ショ�
 ,
 Focused Firing Description,ダートリング砲の精度が上がる。
 Advanced Targeting Description,ダートリング砲手が迷彩ブルーンを打てるようになる。
-Powerful Darts Description,ダーツがより早く動き、それぞれ三個のブルーンを割ることができる。
+Powerful Darts Description,ダーツはより速く動いて凍結ブルーンを破裂させることができつほか、それぞれ3個のブルーンを割れる。
 Faster Swivel Description,銃身がもっと速く回転できるようになる。
 Faster Barrel Spin Description,銃をより速く撃てるようになる。
 Depleted Bloontonium Description,どの種類のブルーンにもダメージを与えられるようになる。
@@ -1245,7 +1245,7 @@ Free,無料
 Round,ラウンド：
 Max Tier Reached,最高段階に達しました
 Empty,空
-Not Upgraded,アップグレードしていませｎ
+Not Upgraded,アップグレードしていません
 Owned,所有済み
 Max Upgrades,最大限アップグレード
 Deployed Message,破壊済み{0} 
@@ -2354,8 +2354,8 @@ RewardsTopPercent,優勝{0}%
 RaceEventEnded,レースイベントは終了しました！
 RaceFinishedPlaceAndTime,最高記録{1}で{0}を終了しました。
 Heartstopper Ability,ハートストッパー
-Sacrificial Totem Ability,犠牲トーテム
-MOAB Hex Ability,MOAB 魔術
+Sacrificial Totem Ability,いけにえのトーテム
+MOAB Hex Ability,MOABヘックス
 RaceClock,レースクロック
 LoginRequiredTitle,ログインが必要
 LoginRequiredBody,この機能を使うにはログインする必要があります
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,[I]で範囲内にダークシフト
 DarkChampionDarkshift,[I]で任意の有効な場所にダークシフト
 SmallTowersMode,スモールモンキータワー
 BigTowersMode,ビッグモンキータワー
-UpdatePopupTitle,アップデート28！
-UpdatePopupDescription,大規模なコンテンツの更新！\n•ボスバトル協力プレイ！ 友達と一緒にボスイベントに参加して、最大のパラゴンレベルを手に入れよう！\n•新しいボスブルーン - 墓所王リッチ！\n• ボスリーダーボード！ ランクモードを選択し、ソロでも協力プレイでもリーダーボードでベストタイムを設定\n•新しいパラゴンタワー - 忍者モンキー昇華の影が登場！\n•バイキングサウダが争いに参戦！ 新しいサウダスキンををゲットして、スライスしよう！\n•新しい初心者マップ：キャビン‐森で離れ離れになったり、迷子になったりしないように - キャビン\n•12個の新しいトロフィーストアアイテムと6個の新しい期間限定ハロウィーンアイテム - お見逃しなく！\n•バランスと修正 – 多くの変更がありますので、詳細については、アップデートノートを確認してください
+UpdatePopupTitle,アップデート29！
+UpdatePopupDescription,ハッピーホリデーシーズンの最新情報！\n•最新のモンキーパラゴンですべての海を支配しよう：海の提督\n•新しい中級マップのトラック、乱暴なブルーンをくい止めよう：静かなストリート\n•素晴らしい最新のエジーリスキンを手に入れよう：ギャラクシリ！\n•協力ロビーの作成が刷新され、ゲームにすばやく参加できるようになりました\n•6つの新しい期間限定アイテムを含む17の新しいトロフィーストアアイテムが登場、早く手に入れて！\n•新しい実績、QOLの更新、バランス調整、 修正 - 沢山の素晴らしい変更、詳細については、アップデートノートを確認してください\n Ninja Kiwi全員から、最も温かい休日の願いをこめて、そして新年あけましておめでとうございます！
 ResetDailyChest,日替わり宝箱をリセット
 JukeboxName,ジュークボックス
 EnableFunction,有効化
@@ -2856,7 +2856,7 @@ AdmiralBrickell Level 6 Description,海の地雷とピストル攻撃のダメ�
 AdmiralBrickell Level 7 Description,迷彩ブルーン検知と攻撃範囲が増える。
 AdmiralBrickell Level 8 Description,海軍戦術で、影響を受けたモンキーが迷彩ブルーンに命中できるようになる。
 AdmiralBrickell Level 9 Description,海の地雷が追加ダメージを与える。
-AdmiralBrickell Level 10 Description,メガマイン：任意の水域に、MOABでトリガーし付近のブルーンをマヒさせる破壊的な機雷を展開させる。メガマインは3ラウンドの間、継続する。
+AdmiralBrickell Level 10 Description,メガ地雷：任意の水域に、MOABでトリガーし付近のブルーンをマヒさせる破壊的な機雷を展開させる。メガ地雷は3ラウンドの間、継続する。
 AdmiralBrickell Level 11 Description,海の地雷の展開率と展開スピードが、さらに速くなる。
 AdmiralBrickell Level 12 Description,ピストル攻撃のスピードとダメージを増え、海の地雷がダメージを増える。
 AdmiralBrickell Level 13 Description,メガ地雷のクールダウンが短縮。
@@ -2866,7 +2866,7 @@ AdmiralBrickell Level 16 Description,攻撃と海の地雷の展開範囲が、�
 AdmiralBrickell Level 17 Description,海の地雷が及ぼすダメージが増える。
 AdmiralBrickell Level 18 Description,メガ地雷のクールダウンが、さらに短縮。
 AdmiralBrickell Level 19 Description,海軍戦術があらゆる場所の水ベースのタワーに影響を与える。
-AdmiralBrickell Level 20 Description,メガマインが与えるダメージは大きく増大しているほか、マヒもより長くなる。
+AdmiralBrickell Level 20 Description,メガ地雷が与えるダメージは大きく増大しているほか、マヒもより長くなる。
 btd6_moremoneypack,もっとマネーパック
 btd6_moremoneypack Description,お金をもっとスピーディーに取得するための、正しいパワー。キャッシュ投下が20、モンキー百姓が5人、目標達成が5個！期間限定オファー！
 HeroesQuincyCyberQuincyPlacementFireworksName,サイバークインシー花火の設置とアップデート
@@ -2939,7 +2939,7 @@ TrophyTrophiesEarned,獲得したトロフィー：
 Naval Tactics Ability,海軍戦術
 Naval Tactics Ability Description,短時間の間、付近の水ベースのモンキーの攻撃速度を大幅にアップする。
 Mega Mine Ability,メガ地雷
-Mega Mine Ability Description,MOABでトリガーし付近のブルーンをマヒさせる破壊的なメガマインを展開させる。
+Mega Mine Ability Description,MOABでトリガーし付近のブルーンをマヒさせる破壊的なメガ地雷を展開させる。
 Confirm,確認
 PlayerStatsTimesPlaced,配置した回数
 Trophies,トロフィー
@@ -3546,7 +3546,7 @@ Sauda Short Description,刀剣マスター
 Sauda Description,静かな怒りで、サウダは鋭い剣2本でブルーンを削ることができる。
 Sauda Level 1 Description,両方の剣で近くのブルーンを切り裂く。カモフラージュも破裂できる。
 Sauda Level 2 Description,攻撃ごとにより多くのブルーンを破裂させる。
-Sauda Level 3 Description,跳躍剣の攻撃:サウダーの鉛を破裂するドラマチックな跳躍攻撃は、狙ったブルーンを撃ち落とす。
+Sauda Level 3 Description,跳躍剣の攻撃:鉛を破裂するサウダのドラマチックな跳躍攻撃は、狙ったブルーンを撃ち落とす。
 Sauda Level 4 Description,サウダの剣はブルーンの2層をスパっと切る。
 Sauda Level 5 Description,より高速にサウダが攻撃する。
 Sauda Level 6 Description,攻撃範囲と破裂パワーが大きくなる。
@@ -3555,7 +3555,7 @@ Sauda Level 8 Description,サウダの攻撃がさらに高速になる。
 Sauda Level 9 Description,ブルーンの出血：攻撃ごとにブルーンの3層を切って破裂させて、時間と共にゆっくりをダメージを与える。
 Sauda Level 10 Description,剣のチャージ：サウダはトラック全体に沿ってスライドして、ブルーンを破滅させる。
 Sauda Level 11 Description,他のモンキーが遅くしたり、動けなくしたり、時間経過ダメージを与えたりしたブルーンに対し、サウダが追加ダメージを与える。
-Sauda Level 12 Description,跳躍する剣の攻撃で、パワーが大幅にアップする。
+Sauda Level 12 Description,跳躍剣の攻撃で、パワーが大幅にアップする。
 Sauda Level 13 Description,魔法のかかったブレードはより大きなダメージを与え、サウダは全部のブルーンにダメージを与えることができる。
 Sauda Level 14 Description,さらに高速にサウダが攻撃する。
 Sauda Level 15 Description,攻撃範囲が拡大して破裂パワーが大きくなり、跳躍剣の攻撃が与えるダメージが大きくなる。
@@ -3598,9 +3598,7 @@ btd6_4racespass Description,4レース分、思う存分レースしよう！
 btd6_4racespass,レースパス4回分
 btd6_12racespass Description,1レース分、思う存分レースしよう！
 btd6_12racespass,レースパス12回分
-AccountPermissionRestriction,このXboxアカウントには、マルチプレイヤーゲームのプレイ許可がありません
 GetHeroBooster,ヒーローブースターを入手
-AccountCommunityPermissionRestriction,このXboxアカウントには、コミュニティーコンテンツの閲覧や作成の許可がありません
 IntermediateUnlockText,初級マップで初めて勝利して、中級マップをアンロックしよう
 AdvancedUnlockText,中級マップで初めて勝利して、上級マップをアンロックしよう
 ExpertUnlockText,上級マップで初めて勝利して、エキスパートマップをアンロックしよう
@@ -3702,11 +3700,11 @@ Psi Short Description,サイオニックモンキー
 Psi Description,才能に恵まれた子ザルのサイは、マインドパワーだけを使ってブルーンを内側から破壊する。
 Psi Level 1 Description,どのような範囲や障害物があっても、サイはブルーンを一度に一個ずつ完全破壊する致命的な振動を設定する。カモフラージュも標的にできる。
 Psi Level 2 Description,少し素早く攻撃するようになる。
-Psi Level 3 Description,サイキック爆破：付近のブルーンを長時間マヒさせる力の波動をサイが発動する。
+Psi Level 3 Description,サイキックブラスト：付近のブルーンを長時間マヒさせる力の波動をサイが発動する。
 Psi Level 4 Description,サイの攻撃は、狙ったブルーンのすぐそばの別のブルーンがある場合、それにも命中する。
 Psi Level 5 Description,サイオニック振動が、通常より素早くブルーンを破壊する。
 Psi Level 6 Description,サイの強力なマインドは、鉛ブルーンをも貫通する。
-Psi Level 7 Description,サイの爆破が二度パルスを出す。サイが付近の陶器ブルーンを破壊できるようになった。
+Psi Level 7 Description,サイキックブラストが二度パルスを出す。サイが陶器ブルーンを破壊できるようになった。
 Psi Level 8 Description,破壊的共振はサイの主攻撃でブルーンを破壊させ、その際、近く別のブルーンにダメージを与える。
 Psi Level 9 Description,マインド分割。サイが一度に2個の異なるブルーンを攻撃できるようになった。
 Psi Level 10 Description,サイオニックの叫び：サイが沈黙の叫びを発し、ブルーンをカオスへといざなう。
@@ -3829,7 +3827,7 @@ OdysseyEditor,オデッセイエディター
 MaxPowers,最大パワー：
 MaxMonkeySlots,最大モンキースロット：
 MaxPowerSlots,最大パワースロット：
-MapNumber,マップ{0}
+MapNumber,マップ {0}
 ExtremeMode,究極モード：
 Edit,編集
 OdysseyInviteReceivedDescription,オデッセイコードを試す招待を受けました: {0}
@@ -4119,3 +4117,114 @@ HackGameStopMessage,ゲームの値を再同期することはできません。
 RankedMode,ランクモード
 Any,どれでも
 ScoreNotVerifiable,スコアを確認できなかったため、スコアは送信されませんでした。
+NoBossDataYet,ボスを倒してミニボスのリーダーボードに参加しましょう！
+LeaderboardMessageMaxPlayers,トップ100プレーヤーを表示
+ConfirmQuitCoopMessage,"終了すると、このゲームに再び参加することはできません。本当に終了しますか？"
+YouWereRemoved,協力ポジションは最後にプレイしたゲームで閉じられ、再び参加することができません。
+iCloudLongMessage,iCloudが有効で利用可能な場合、保存はバックアップと他のデバイスへのアクセスのためにiCloudアカウントに自動的に保存されます。
+CreateNew,新規作成
+SlotX,スロット {0}
+EmptySlot,空きスロット
+Delete,削除
+CreatedDate,作成済み: {0}
+LastSavedDate,最終保存: {0}
+DeleteDescription,この保存ファイルをデバイスとiCloudアカウントから削除してもよろしいですか？
+SaveSlots,スロットを保存
+LoadGame,ゲームを読み込む
+DeleteDescriptionNotConnected,この保存ファイルをローカルストレージから削除してもよろしいですか？
+icloudConflictMessage,iCloudとデバイスの保存データは異なります。 保管するものを1つ選択してください。 もう一方は永久に破棄されます。
+GamecenterRestricted,マルチプレイヤー利用不可–このデバイスでマルチプレイヤーゲーム、またはコンテンツをプレイすることは許可されていません。
+DeviceOfflineMessage,このデバイスは現在オフラインです。既存のクラウド保存は利用できません。ゲームの進行状況は保存されない場合があります。
+GamecenterLoginPrompt,アクセスするには、GameCenterにサインインしてください。 デバイス設定を開き、Game Centerを見つけて、サインインします。
+GamecenterRestrictedTitle,マルチプレイヤーアクセスが制限されています
+GamecenterLoginTitle,GameCenterにサインイン
+QuietStreet,静かなストリート
+GalaxiliEziliSkinName,ギャラクシリ
+GalaxiliEziliSkinDescription,私たちの存在すべて、私たちが見るすべては - スペースダストでできています
+MonkeyBuccaneer Paragon,海の提督
+MonkeyBuccaneer Paragon Description,水に浮かぶ史上最高のもの。
+HeroesPsiPetBisonName,サイバイソンペット
+HeroesPsiPetBisonShortName,サイバイソンペット
+HeroesPsiPetBisonDescription,偶蹄目有蹄類の典型的な標本で、サイはたまたま超愛らしい。 元のサイのみ;）
+TowerPropMonkeyVillageAustralianFlagName,モンキービレッジのオーストラリア国旗
+TowerPropMonkeyVillageAustralianFlagShortName,ビレッジのオーストラリア国旗
+TowerPropMonkeyVillageAustralianFlagDescription,オージーオージーオージー、オイオイオイ！このモンキービレッジの旗は、すべてのアップグレードで表示されます
+TowerProjectileMortarSnowName,迫撃砲モンキースノーの投射物
+TowerProjectileMortarSnowShortName,迫撃砲スノー投射物
+TowerProjectileMortarSnowDescription,この素敵な雪に覆われた迫撃砲モンキー投射物で、すべての雪合戦で勝ってね。期間限定コレクターズアイテム！
+TowerPetIceMonkeySnowmanName,アイスモンキー雪だるまペット
+TowerPetIceMonkeySnowmanShortName,アイスモンキー雪ペット
+TowerPetIceMonkeySnowmanDescription,ブルーンを割っていない時は、アイスモンキーって何をしてるの？素敵なスノーペットを作るのさ！ 期間限定コレクターズアイテム！
+BloonsDDTSkinSleighName,破滅のそりDDT
+BloonsDDTSkinSleighShortName,破滅のそりDDT
+BloonsDDTSkinSleighDescription,このクリスマスは、恐ろしい破滅のそりでかっこよくプレゼントを届けちゃおう！期間限定コレクターズアイテム！
+BloonsAllBloonsElfHatName,エルフ帽子のブルーン
+BloonsAllBloonsElfHatShortName,エルフ帽子のブルーン
+BloonsAllBloonsElfHatDescription,ちっちゃなエルフの帽子をかぶると、何でもかわいくなります！期間限定コレクターズアイテム！
+CoopEmoteAnimationBenCoolName,クールベンのエモーティ
+CoopEmoteAnimationBenCoolShortName,クールベン
+CoopEmoteAnimationBenCoolDescription,ベンのようにかっこよく振舞い、そしてかっこよく生きよう
+CoopEmoteAnimationBikerBonesRageName,バイカーボーンの怒りのエモーティ
+CoopEmoteAnimationBikerBonesRageShortName,バイカーボーンの怒り
+CoopEmoteAnimationBikerBonesRageDescription,寺院を建てるために、全てのタワーを本当に犠牲にしちゃったの？ バイカーボーンのい、い、怒り！
+GameUIProfileAvatar52Name,カスタムアバター - ブーメラン
+GameUIProfileAvatar52ShortName,ブーメランアバター
+GameUIProfileAvatar52Description,左利きのブーメランは最高のブーメランです！
+GameUIProfileAvatar53Name,カスタムアバター - 海賊キャプテン
+GameUIProfileAvatar53ShortName,海賊キャプテンアバター
+GameUIProfileAvatar53Description,ヤー！購入できる最高のアバタートロフィーで、他の骨無し野郎プレイヤーに対して印象付けたいと思わない？
+GameUIProfileAvatar54Name,カスタムアバター-幾何学的なクインシー
+GameUIProfileAvatar54ShortName,幾何学的なクインシーアバター
+GameUIProfileAvatar54Description,私はアルファとオメガです。 私はクインシー、二乗
+GameUIProfileAvatar55Name,カスタムアバター - スタートッパーアドラ
+GameUIProfileAvatar55ShortName,スターアドラのアバター
+GameUIProfileAvatar55Description,他の誰にツリーの最後の仕上げを任せるの？それに、アドラは誰も近くに寄せません！期間限定コレクターズアイテム！
+GameUIProfileBanner8Name,スペースプロフィールバナーに飛び込む
+GameUIProfileBanner8ShortName,スペースバナーに飛び込む
+GameUIProfileBanner8Description,Galaksyzによるバナーの勝者
+GameUIProfileBanner9Name,太陽のプロフィールバナーに直面する
+GameUIProfileBanner9ShortName,太陽のバナーに直面する
+GameUIProfileBanner9Description,Bohrokkiによるバナーの勝者
+GameUIPowerSkinEnergisingTotemChristmasTreeName,カスタムパワー-クリスマスツリーに活力を与えるトーテム
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,活気に満ちたクリスマスツリー
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,このカラフルなクリスマスツリーであなたのモンキーにエネルギーを与え続けてください！ 期間限定コレクターズアイテム！
+GameUIPowerSkinDartTimeMatrixName,カスタムパワー-ダーツタイムストップ
+GameUIPowerSkinDartTimeMatrixShortName,ダーツタイムストップ
+GameUIPowerSkinDartTimeMatrixDescription,これはバグではありません、あなたはこれまでにこれを見たことがありませんが、きっと気に入るでしょう、約束します
+GameUIMusicTrackMusicWinterChilledMixName,ジュークボックス：ウィンターナイト-チルドリミックス
+GameUIMusicTrackMusicWinterChilledMixShortName,冷えた冬の夜
+GameUIMusicTrackMusicWinterChilledMixDescription,このクールな新しいリミックスで、冬の星をリラックスして遊んで、熟考してください
+Achievement 134 Name,デビッド対ゴリアテ
+Achievement 134 Description,ヒーローを使わずにボス戦に勝つ
+Achievement 135 Name,すごいスパイシーNinja Kiwi
+Achievement 135 Description,陸のタワーだけで、一回おきのブルーンラウンドでスパイス諸島を打ち負かす
+Achievement 136 Name,収穫なし
+Achievement 136 Description,トウモロコシを一切除去せずにCHIMPでトウモロコシ畑をクリアする
+Achievement 137 Name,学生ローン
+Achievement 137 Description,"4 x 10 ^ 5（$ 400,000の借金を負う）"
+Achievement 138 Name,クリティカル情報が不足していない
+Achievement 138 Description,"25,000のクリティカルヒットを得る"
+GameRestartedTitle,ゲームが再開されました
+GameContinuedTitle,ゲームは続く
+GameRestartedDescription,ゲームが別のプレーヤーによって再開されました。
+GameContinuedDescription,ゲームは別のプレイヤーによって続行されました。
+EditorAbilityCooldown,能力クールダウン率
+EditorRemovableCost,取り外しコスト率
+AbilityCooldownIncreased,能力クールダウン率が増加しました
+AbilityCooldownDecreased,能力のクールダウン率が低下しました
+RemovableCostIncreased,取り外しコストの増加
+RemovableCostDecreased,取り外しコストが削減されました
+Disabled,無効
+ViewStats,統計を見る
+CloseSlot,閉鎖スロット
+OpenSlot,開放スロット
+CalloutBossCrusher,ボスクラッシャー
+CalloutBossCrusherDesc,ボスへ{0}ダメージ
+CalloutWellRounded,丸みのある
+CalloutWellRoundedDesc,4つのタワータイプのそれぞれの{0}
+CalloutEndlessPower,無限の力！
+CalloutEndlessPowerDesc,度数{0} パラゴンが作成されました
+AnyGame,任意のゲーム
+AnyMap,任意のマップ
+AnyDifficulty,難しさ
+AnyMode,任意のモード

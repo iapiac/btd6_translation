@@ -152,7 +152,7 @@ Gwendolin Level 3 Description,"Feuercocktail: Wirft eine Flasche mit einer brenn
 Gwendolin Level 4 Description,"„Es ist angeheizt“ – erzeugt alle paar Sekunden einen mächtigen Feuerstoß, der Bloons platzen lässt und Affenangriffe in der Nähe verstärkt."
 Gwendolin Level 5 Description,Erhöhte Kraft zum Platzenlassen.
 Gwendolin Level 6 Description,Angriffe verursachen Verbrennungseffekte bei anvisierten Bloons.
-Gwendolin Level 7 Description,„Es ist angeheizt“ verfügt über einen größeren Radius.
+Gwendolin Level 7 Description,"„Es ist angeheizt“ verfügt über einen größeren Radius, Feuercocktail ist effektiver."
 Gwendolin Level 8 Description,Verschießt 2 Feuerstöße pro Schuss.
 Gwendolin Level 9 Description,Der erste Treffer lässt eine Extraschicht platzen.
 Gwendolin Level 10 Description,Feuersturm: Setzt den ganzen Bildschirm in Brand und verbrennt alle Bloons und gewährt allen Affen den „Es ist angeheizt“-Vorteil.
@@ -213,14 +213,14 @@ ObynGreenfoot Level 1 Description,"Sendet Wolfgeister, um die Bloons anzugreifen
 ObynGreenfoot Level 2 Description,Zorn der Natur – alle Druiden in Reichweite erhalten +1 Durchschlagskraft.
 ObynGreenfoot Level 3 Description,"Erstellt einen stacheligen Busch, an dem 50 Bloons platzen können."
 ObynGreenfoot Level 4 Description,"Erschafft alle 18 Sekunden ein Totem, das alle Bloons in der Nähe des Totems um 30 % verlangsamt. Weniger effektiv gegen Bloons der MOAB-Klasse."
-ObynGreenfoot Level 5 Description,Erhöhte Angriffsgeschwindigkeit.
+ObynGreenfoot Level 5 Description,Erhöhte Angriffsgeschwindigkeit. Druiden des Dschungels verfügen über einen größeren Radius.
 ObynGreenfoot Level 6 Description,Erhöhte Kraft zum Platzenlassen und  Projektile bewegen sich schneller.
 ObynGreenfoot Level 7 Description,Bromberen können 100 Bloons platzen lassen.
 ObynGreenfoot Level 8 Description,Naturschutztotems verlangsamen Bloons um 40 %.
-ObynGreenfoot Level 9 Description,Angriff lässt mehr Schichten platzen.
+ObynGreenfoot Level 9 Description,"Angriff lässt mehr Schichten platzen. Druiden des Sturms haben größere Stürme, die MOABs mehr Schaden zufügen."
 ObynGreenfoot Level 10 Description,"Baumwall: Ruft einen Baumwall auf die Strecke, der alle Bloons vernichtet, die sie betreten. Ist er voll, bersten die Bäume zu Geld."
 ObynGreenfoot Level 11 Description,"Klarheit der Natur – alle Zauberaffen in Reichweite erhalten +5 Reichweite +2 Durchschlagskraft, und Druiden erhalten zusätzlich +1 Durchschlagskraft."
-ObynGreenfoot Level 12 Description,Erhöhte Angriffsgeschwindigkeit.
+ObynGreenfoot Level 12 Description,Erhöhte Angriffsgeschwindigkeit und Abkühlphasen der Zauberaffen um 5 % reduziert.
 ObynGreenfoot Level 13 Description,Noch stärker erhöhte Kraft zum Platzenlassen und Projektilgeschwindigkeit.
 ObynGreenfoot Level 14 Description,Angriff lässt mehr Schichten platzen.
 ObynGreenfoot Level 15 Description,Der Naturschutz verlangsamt Bloons um 60 % und verkürzt die Abkühlphase.
@@ -241,10 +241,10 @@ Ezili Level 8 Description,Ezilis Angriff verursacht weitaus mehr Schaden bei Blo
 Ezili Level 9 Description,"Ezilis Angriff entzieht Bloons, die nicht der MOAB-Klasse angehören, Tarnung, Runderneuern und Befestigungen."
 Ezili Level 10 Description,"MOAB-Zauber: Verpasst Bloons der MOAB-Klasse einen Fluch, sodass sie jede Sekunde bis zur Vernichtung Schaden erleiden."
 Ezili Level 11 Description,Erhöhte Angriffsreichweite. Erhöht die Durchschlagskraft von wiederbelebten Bloons um 50 %
-Ezili Level 12 Description,Herzstopper verkürzt die Abkühlphase und verlängert die Wirkdauer.
+Ezili Level 12 Description,Herzstopper verkürzt die Abkühlphase und verlängert die Wirkdauer. Teilt erhöhten Schaden an MOABs aus.
 Ezili Level 13 Description,Der Basisangriff hat einen größeren Wirkradius und erhöhte Durchschlagskraft.
 Ezili Level 14 Description,Schnellerer Schaden über Zeit.
-Ezili Level 15 Description,Erhöhte Reichweite.
+Ezili Level 15 Description,Erhöhte Reichweite. Schaden im Laufe der Zeit dauert länger.
 Ezili Level 16 Description,Das Opfertotem dauert länger und seine Verwendung kostet nur 1 Leben.
 Ezili Level 17 Description,Der Basisangriff hat einen größeren Wirkradius und erhöhte Durchschlagskraft.
 Ezili Level 18 Description,Erhöhte Angriffsgeschwindigkeit.
@@ -761,7 +761,7 @@ Re-Freeze Description,"Kann Bloons nochmals einfrieren, die schon gefroren sind.
 Ice Shards Description,"Messerscharfe Scherben fliegen durch die Gegend, wenn Eis-Bloons platzen."
 Arctic Wind Description,"Erhöht massiv die Durchschlagskraft und erhält eine superkalte Aura, die Bloons verlangsamt und Wasser in der Nähe gefrieren lässt."
 Cryo Cannon Description,Verschießt Gefrierbomben auf Bombe mit großer Reichweite.
-Embrittlement Description,"Erkennt Tarn-Bloons und alle getroffenen Bloons, einschließlich MOAB-Bloons, werden brüchig, erleiden für kurze Zeit Extraschaden und verlieren dauerhaft Tarn- und Runderneuerungseigenschaften."
+Embrittlement Description,"Kann Bloons der MOAB-Klasse treffen. Alle getroffenen Bloons werden brüchig, erleiden Extraschaden solange sie gefroren sind und verlieren Tarneigenschaften."
 Snowstorm Description,"Schneesturm-Fähigkeit: Friert alle normalen Bloons auf dem Bildschirm ein, friert für kurze Zeit Weiße, Zebra- und Tarn-Bloons ein und verlangsamt MOAB-Bloons."
 Icicles Description,"Eis-Bloons wachsen scharfe Eiszapfen, die Bloons platzen lassen, welche sie berühren."
 Super Brittle Description,"Bloons (inklusive Bloons der MOAB-Klasse) erleiden großen Schaden, während sie gefroren sind."
@@ -882,7 +882,7 @@ Blooncineration Description,"Superheißes Zeug schmilzt sich bei jedem Schuss du
 ,
 Focused Firing Description,Höhere Zielgenauigkeit beim Pfeilschussgewehr.
 Advanced Targeting Description,Ermöglicht Pfeilschussschütze Tarn-Bloons zu treffen.
-Powerful Darts Description,Die Pfeile sind schneller und können jeweils 3 Bloons platzen lassen.
+Powerful Darts Description,"Die Pfeile sind schneller, können gefrorene Bloons und jeweils 3 Bloons platzen lassen."
 Faster Swivel Description,Der Lauf kann viel schneller gedreht werden.
 Faster Barrel Spin Description,Die Waffe feuert damit viel schneller.
 Depleted Bloontonium Description,Die Schüsse können jetzt jeder Bloon-Klasse schaden.
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,"[I], um Dunkelsprung in Reichweite zu machen"
 DarkChampionDarkshift,"[I], um Dunkelsprung zu einem gültigen Ort zu machen"
 SmallTowersMode,Kleine Affentürme
 BigTowersMode,Große Affentürme
-UpdatePopupTitle,Update 28!
-UpdatePopupDescription,"Großes Inhaltsupdate!\n• Koop-Boss-Kämpfe! Stelle dich mit deinen Freunden den Boss-Events für max. Vorbild-Level!\n• Neuer Boss-Bloon – Grabherr Lych!\n• Boss-Bestenlisten! Wähle den Rang-Modus und erziele die beste Zeit auf den Bestenlisten, ob du nun allein oder im Koop-Modus spielst\n• Neuer Vorbildturm – Ninja-Affe Aufgestiegener Schatten ist da!\n• Der Wikinger Sauda ist nun mitten im Getümmel! Hol dir die neue Sauda-Skin und schnapp dir dein Messer!\n• Teilt euch nicht auf oder verirrt euch in den Wäldern auf der neuen Anfängerkarte – Die Waldhütte\n• 12 neue Artikel im Trophäen-Laden, plus 6 brandneue Halloween-Artikel für eine begrenzte Zeit – hol sie dir, solange es geht!\n• Ausbalancierungen und Fehlerkorrekturen – viele Änderungen, deren Einzelheiten du in den Update-Hinweisen findest"
+UpdatePopupTitle,Update 29!
+UpdatePopupDescription,"Großes Feiertagsupdate!\n• Beherrsche alle Weltmeere mit dem neusten Affen-Vorbild: Navarch der Meere!\n• Halte diese randalierenden Bloons auf der neuen Karte für Zwischenstüfler auf: Ruhige Straße!\n• Schnappe dir die neue Ezili-Skin: Galaxili!\n• Die Co-Op-Lobby-Erstellung wurde überarbeitet, damit du noch schneller ins Spiel gelangst!\n• 17 neue Artikel im Trophäen-Laden, plus 6 neue Artikel für eine begrenzte Zeit – hol sie dir schnell!\n• Neue Erfolge, Änderungen bei der Lebensqualität, Ausbalancierungen und Fehlerkorrekturen – viele tolle Änderungen, deren Einzelheiten du in den Update-Hinweisen findest.\nWir alle von Ninja Kiwi wünschen euch schöne Feiertage und ein frohes neues Jahr!"
 ResetDailyChest,Tägliche Truhe zurücksetzen
 JukeboxName,Musikbox
 EnableFunction,Aktivieren
@@ -3598,9 +3598,7 @@ btd6_4racespass Description,Rase so viel du möchtest in 4 Rennen!
 btd6_4racespass,4-Rennen-Pass
 btd6_12racespass Description,Rase so viel du möchtest in 12 Rennen!
 btd6_12racespass,12-Rennen-Pass
-AccountPermissionRestriction,Dieses Xbox-Konto hat keine Berechtigung zum Spielen von Mehrspieler-Spielen.
 GetHeroBooster,Hol dir Helden-Booster
-AccountCommunityPermissionRestriction,"Dieses Xbox-Konto hat keine Berechtigung, Community-Inhalte anzusehen oder zu erstellen."
 IntermediateUnlockText,"Bezwinge eine Anfänger-Karte das erste Mal, um eine Zwischenstüfler-Karte freizuschalten."
 AdvancedUnlockText,"Bezwinge eine Zwischenstüfler-Karte das erste Mal, um eine Fortgeschrittene-Karte freizuschalten."
 ExpertUnlockText,"Bezwinge eine Fortgeschritten-Karte das erste Mal, um eine Experten-Karte freizuschalten."
@@ -4118,4 +4116,115 @@ Elite,Elite
 HackGameStopMessage,Die Spielwerte können nicht wieder synchronisiert werden. Leider kann dieses Spiel nicht fortgesetzt werden. Bitte versuche es mit einem anderen Spiel.
 RankedMode,Rang-Modus
 Any,Alle
-ScoreNotVerifiable,Ihre Punktzahl wurde nicht übermittelt, da sie nicht verifiziert werden konnte.
+ScoreNotVerifiable,"Deine Punktzahl wurde nicht übermittelt, da sie nicht verifiziert werden konnte."
+NoBossDataYet,"Besiege den Boss, um einer Mini-Boss-Bestenliste beizutreten!"
+LeaderboardMessageMaxPlayers,Top-100-Spieler werden angezeigt
+ConfirmQuitCoopMessage,"Du wirst nicht mehr an diesem Spiel teilnehmen können, wenn du jetzt gehst. Bist du sicher?"
+YouWereRemoved,"Deine Co-op-Position wurde in deinem letzten Spiel geschlossen, du kannst nicht mehr teilnehmen."
+iCloudLongMessage,"Wenn die iCloud aktiviert und verfügbar ist, werden deine Spielstände automatisch für den Backup und Zugriff von anderen Geräten aus automatisch in deinem iCloud-Konto gespeichert."
+CreateNew,Neu erstellen
+SlotX,Slot {0}
+EmptySlot,Leerer Slot
+Delete,Löschen
+CreatedDate,Erstellt: {0}
+LastSavedDate,Zuletzt gespeichert: {0}
+DeleteDescription,"Bist du sicher, dass du diese gespeicherte Datei von deinem Gerät und deinem iCloud-Konto löschen willst?"
+SaveSlots,Slots speichern
+LoadGame,Spiel laden
+DeleteDescriptionNotConnected,"Bist du sicher, dass du diese gespeicherte Datei aus deinem lokalen Speicher löschen willst?"
+icloudConflictMessage,"Deine Speicherdateien in der iCloud und auf deinem Gerät unterscheiden sich. Bitte wähle die Datei aus, die beibehalten werden soll. Die andere Datei wird dauerhaft gelöscht."
+GamecenterRestricted,Multiplayer nicht verfügbar - Du kannst keine Multiplayer-Spiele oder Inhalte auf diesem Gerät spielen.
+DeviceOfflineMessage,Dieses Gerät ist aktuell offline. Jegliche bestehende Cloud-Speicherungen sind nicht verfügbar. Jeglicher Fortschritt im Spiel wird nicht gespeichert werden.
+GamecenterLoginPrompt,"Bitte melde dich im Game Center an, um darauf zuzugreifen. Öffne die Geräteeinstellungen, suche nach dem Game Center und melde dich an."
+GamecenterRestrictedTitle,Multiplayer-Zugang eingeschränkt
+GamecenterLoginTitle,Im Game Center anmelden
+QuietStreet,Ruhige Straße
+GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinDescription,"Alles was wir sind, alles was wir sehen – besteht aus Sternenstaub!"
+MonkeyBuccaneer Paragon,Navarch der Meere
+MonkeyBuccaneer Paragon Description,"Das Tollste, das je über Wasser geglitten ist."
+HeroesPsiPetBisonName,Psi Bison-Tier
+HeroesPsiPetBisonShortName,Psi Bison-Tier
+HeroesPsiPetBisonDescription,"Ein Beispielexemplar der Paarhufer-Spezies, die Psi so richtig süß findet. Nur Original-Psi ;)"
+TowerPropMonkeyVillageAustralianFlagName,Affendorf Australienflagge
+TowerPropMonkeyVillageAustralianFlagShortName,Dorf-Australienflagge
+TowerPropMonkeyVillageAustralianFlagDescription,"Aussie, Aussie, Aussie, oi, oi, oi! Diese Affendorf-Flagge wird für alle Updates angezeigt"
+TowerProjectileMortarSnowName,Mörseraffen-Schneeprojektil
+TowerProjectileMortarSnowShortName,Mörser-Schneeprojektil
+TowerProjectileMortarSnowDescription,Gewinne jede Schneeballschlacht mit diesem wunderbar schneereichen Mörseraffen-Projektil.  Zeitlich begrenzt verfügbares Sammlerobjekt!
+TowerPetIceMonkeySnowmanName,Eisaffe-Schneemanntier
+TowerPetIceMonkeySnowmanShortName,Eisaffe-Schneetier
+TowerPetIceMonkeySnowmanDescription,"Was macht ein Eisaffe, wenn er nicht gerade Bloons zum Platzen bringt? Natürlich, er baut wunderbare Schneetiere!  Zeitlich begrenzt verfügbares Sammlerobjekt!"
+BloonsDDTSkinSleighName,Schicksalsschlitten DDT
+BloonsDDTSkinSleighShortName,Schicksalsschlitten DDT
+BloonsDDTSkinSleighDescription,Liefere dieses Weihnachten stilvoll deine Geschenke ab mit dem gefürchteten Schicksalsschlitten! Zeitlich begrenzt verfügbares Sammlerobjekt!
+BloonsAllBloonsElfHatName,Elfenhut-Bloons
+BloonsAllBloonsElfHatShortName,Elfenhut-Bloons
+BloonsAllBloonsElfHatDescription,"Alles ist nochmal so süß, wenn man einen winzigen Elfenhut auf dem Kopf hat!  Zeitlich begrenzt verfügbares Sammlerobjekt!"
+CoopEmoteAnimationBenCoolName,Cooler-Ben-Emote
+CoopEmoteAnimationBenCoolShortName,Cooler Ben
+CoopEmoteAnimationBenCoolDescription,"Sei wie Ben und bleib cool, lebe cool"
+CoopEmoteAnimationBikerBonesRageName,Biker-Knochenwut-Emote
+CoopEmoteAnimationBikerBonesRageShortName,Biker-Knochenwut
+CoopEmoteAnimationBikerBonesRageDescription,"Hast du gerade alle meine Türme geopfert, um deinen Tempel zu errichten? Biker-Knochen-WUUUUT!"
+GameUIProfileAvatar52Name,Eigener Avatar – Bumerang
+GameUIProfileAvatar52ShortName,Bumerang-Avatar
+GameUIProfileAvatar52Description,Der Linkshänder-Bumerang ist der handlichste Bumerang!
+GameUIProfileAvatar53Name,Eigener Avatar - Piratenkapitän
+GameUIProfileAvatar53ShortName,Piratenkapitän-Avatar
+GameUIProfileAvatar53Description,"Yarr! Du willst wohl die anderen landrattigen Spieler mit dem besten Avatar beeindrucken, den man mit Trophäen kaufen kann? Klar soweit?"
+GameUIProfileAvatar54Name,Individueller Avatar - Geometrischer Quincy
+GameUIProfileAvatar54ShortName,Geometrischer Quincy-Avatar
+GameUIProfileAvatar54Description,Ich bin das Alpha und das Omega. Ich bin Quincy hoch 2.
+GameUIProfileAvatar55Name,Eigener Avatar – Sternentopper-Adora
+GameUIProfileAvatar55ShortName,Sternen-Adora-Avatar
+GameUIProfileAvatar55Description,"Wen sonst würdest du damit beauftragen, letzte Hand an den Baum zu legen? Genau das und außerdem lässt Adora niemanden sonst in die Nähe!  Zeitlich begrenzt verfügbares Sammlerobjekt!"
+GameUIProfileBanner8Name,„In das Weltall hüpfen“-Profilbanner
+GameUIProfileBanner8ShortName,„In das Weltall hüpfen“-Banner
+GameUIProfileBanner8Description,Bannergewinner von Galaksyz
+GameUIProfileBanner9Name,„Der Sonne zugewandt“-Profilbanner
+GameUIProfileBanner9ShortName,„Der Sonne zugewandt“-Banner
+GameUIProfileBanner9Description,Bannergewinner von Bohrokki
+GameUIPowerSkinEnergisingTotemChristmasTreeName,Maßgeschneiderte Kraft – Weihnachtsbaumenergie-Totem
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,Energie-Weihnachtsbaum
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,Versorge deine Affen mithilfe dieses bunten Weihnachtsbaums mit neuer Energie!  Zeitlich begrenzt verfügbares Sammlerobjekt!
+GameUIPowerSkinDartTimeMatrixName,Maßgeschneiderte Kraft – Dartzeitstopp
+GameUIPowerSkinDartTimeMatrixShortName,Dartzeitstopp
+GameUIPowerSkinDartTimeMatrixDescription,"Das ist kein Systemfehler, du hast das hier noch nie gesehen, aber du wirst es mögen. Versprochen!"
+GameUIMusicTrackMusicWinterChilledMixName,Jukebox: Winternächte – Chilled Remix
+GameUIMusicTrackMusicWinterChilledMixShortName,Winter Nights Chilled
+GameUIMusicTrackMusicWinterChilledMixDescription,"Chill' mal, spiel 'ne Runde und betrachte die Sterne während du diesem coolen neuen Remix lauschst"
+Achievement 134 Name,David gegen Goliath
+Achievement 134 Description,Gewinne einen Boss-Kampf ohne Einsatz eines Helden
+Achievement 135 Name,So würziiiger Ninja Kiwi
+Achievement 135 Description,Besiege Gewürzinsel in jeder zweiten Bloons-Runde nur mit Landtürmen
+Achievement 136 Name,Keine Ernte
+Achievement 136 Description,"Besiege Maisfelder auf SCHIMPANSEN, ohne Mais zu entfernen"
+Achievement 137 Name,Studentenkredite
+Achievement 137 Description,4 x 10^5 (Nimm 400.000 $ Schulden auf)
+Achievement 138 Name,Kritische Information fehlt nicht
+Achievement 138 Description,Erhalte 25.000 kritische Treffer
+GameRestartedTitle,Spiel neu gestartet
+GameContinuedTitle,Spiel fortgesetzt
+GameRestartedDescription,Das Spiel wurde von einem anderen Spieler neu gestartet.
+GameContinuedDescription,Das Spiel wurde von einem anderen Spieler fortgesetzt.
+EditorAbilityCooldown,Fähigkeitsabkühlrate
+EditorRemovableCost,Kostenrate fürs Entfernen
+AbilityCooldownIncreased,Fähigkeitsabkühlrate erhöht
+AbilityCooldownDecreased,Fähigkeitsabkühlrate reduziert
+RemovableCostIncreased,Kosten fürs Entfernen erhöht
+RemovableCostDecreased,Kosten fürs Entfernen reduziert
+Disabled,Deaktiviert
+ViewStats,Statistiken ansehen
+CloseSlot,Slot schließen
+OpenSlot,Slot öffnen
+CalloutBossCrusher,Boss-Zerquetscher
+CalloutBossCrusherDesc,{0} Schaden am Boss
+CalloutWellRounded,Vielseitig
+CalloutWellRoundedDesc,{0} von jeder der 4 Turmarten
+CalloutEndlessPower,Endlose Kraft!
+CalloutEndlessPowerDesc,Grad-{0}-Vorbild erschaffen
+AnyGame,Irgendein Spiel
+AnyMap,Beliebige Karte
+AnyDifficulty,Jede Schwierigkeit
+AnyMode,Beliebiger Modus

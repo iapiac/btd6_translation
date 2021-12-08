@@ -152,7 +152,7 @@ Gwendolin Level 3 Description,"불의 칵테일: 불에 잘 타는 액체가 든
 Gwendolin Level 4 Description,"후끈후끈 - 몇 초마다 위력적인 불길의 파도를 방출합니다. 불길은 풍선을 터트리고, 주변 원숭이의 공격에 불을 추가합니다."
 Gwendolin Level 5 Description,터트리는 힘이 증가합니다.
 Gwendolin Level 6 Description,공격 시 대상 풍선에 불타는 효과를 부여합니다.
-Gwendolin Level 7 Description,후끈후끈의 반경이 증가합니다.
+Gwendolin Level 7 Description,"후끈후끈의 반경이 증가하고, 불의 칵테일의 위력이 증가합니다."
 Gwendolin Level 8 Description,공격당 2개의 불길을 방출합니다.
 Gwendolin Level 9 Description,각각의 불길이 처음 명중할 때 풍선을 추가로 1겹 더 터트립니다.
 Gwendolin Level 10 Description,불기둥: 화면 전체를 화염으로 휩싸 모든 풍선을 태우며 후끈후끈 버프를 모든 원숭이에게 부여합니다.
@@ -213,14 +213,14 @@ ObynGreenfoot Level 1 Description,늑대 정령을 보내 풍선을 공격합니
 ObynGreenfoot Level 2 Description,자연의 분노 - 사정거리 내의 모든 드루이드의 관통력에 +1 효과를 줍니다.
 ObynGreenfoot Level 3 Description,트랙에 풍선 50개를 터트릴 수 있는 가시덤불을 만듭니다.
 ObynGreenfoot Level 4 Description,18초마다 주변 풍선의 이동 속도를 30% 감소하는 토템을 만듭니다. MOAB급 풍선을 상대로는 효과가 떨어집니다.
-ObynGreenfoot Level 5 Description,공격 속도가 증가합니다.
+ObynGreenfoot Level 5 Description,공격 속도가 증가합니다. 정글의 드루이드의 사정거리가 증가합니다.
 ObynGreenfoot Level 6 Description,터트리는 힘과 발사무기의 이동 속도가 증가합니다.
 ObynGreenfoot Level 7 Description,가시덤불이 풍선 100개를 터트립니다.
 ObynGreenfoot Level 8 Description,자연의 수호자 토템이 풍선의 속도를 40% 감소시킵니다.
-ObynGreenfoot Level 9 Description,공격 시 추가 겹을 터트립니다.
+ObynGreenfoot Level 9 Description,공격 시 추가 겹을 터트립니다. 폭풍의 드루이드의 폭풍이 더 커져 MOAB 풍선에 더 많은 피해를 줍니다.
 ObynGreenfoot Level 10 Description,나무벽: 트랙을 가로지르는 나무의 벽을 소환하여 들어오는 풍선을 모두 파괴합니다. 나무가 가득 차면 머니로 변하며 터집니다.
 ObynGreenfoot Level 11 Description,"자연의 청명함 - 사정거리 내의 모든 마법 원숭이의 사정거리가 +5, 관통력이 +2 증가하고 드루이드의 관통력이 추가로 +1이 됩니다."
-ObynGreenfoot Level 12 Description,공격 속도가 증가합니다.
+ObynGreenfoot Level 12 Description,공격 속도가 증가하고 마법 원숭이의 쿨다운이 5% 감소합니다.
 ObynGreenfoot Level 13 Description,터트리는 힘과 발사무기의 이동 속도가 더욱더 증가합니다.
 ObynGreenfoot Level 14 Description,공격 시 추가 겹을 터트립니다.
 ObynGreenfoot Level 15 Description,"자연의 수호자가 풍선의 속도를 60% 감소하며, 쿨다운도 감소합니다."
@@ -241,10 +241,10 @@ Ezili Level 8 Description,이질리의 공격이 MOAB급 풍선에 훨씬 더 �
 Ezili Level 9 Description,"이질리의 공격이 비MOAB급 풍선에게서 캐모, 재생, 강화 속성을 해제합니다."
 Ezili Level 10 Description,MOAB 저주: MOAB급 풍선에 저주를 걸어 파멸할 때까지 매 초마다 피해를 줍니다.
 Ezili Level 11 Description,공격 사정거리가 증가합니다. 되살아난 풍선을 상대로 관통력이 50% 증가합니다.
-Ezili Level 12 Description,심장정지기의 쿨다운이 감소하며 지속 시간이 증가합니다.
+Ezili Level 12 Description,심장정지기의 쿨다운이 감소하며 지속 시간이 증가합니다. MOAB 풍선에 추가 피해를 줍니다.
 Ezili Level 13 Description,기본 공격의 방사 피해 반경과 관통력이 증가합니다.
 Ezili Level 14 Description,지속 피해의 피해 간격이 짧아집니다.
-Ezili Level 15 Description,사정거리가 증가합니다.
+Ezili Level 15 Description,사정거리가 증가합니다. 지속 피해의 지속 시간이 길어집니다.
 Ezili Level 16 Description,"제물 토템의 지속 시간이 증가하며, 사용할 때 목숨을 1개만 소모합니다."
 Ezili Level 17 Description,기본 공격의 방사 피해 반경과 관통력이 증가합니다.
 Ezili Level 18 Description,공격 속도가 증가합니다.
@@ -761,7 +761,7 @@ Re-Freeze Description,이미 얼린 상태인 풍선을 다시 얼릴 수 있습
 Ice Shards Description,얼린 풍선이 터지면 날카롭고 뾰족한 파편이 방출됩니다.
 Arctic Wind Description,"관통력이 매우 높아지며, 주변의 풍선을 느리게 만들고 물을 얼리는 엄청나게 추운 한기를 얻습니다."
 Cryo Cannon Description,원거리로 풍선을 향해 얼리기 폭탄을 쏩니다.
-Embrittlement Description,"캐모 풍선을 감지하며, MOAB을 포함하여 공격에 맞은 풍선은 깨지기 쉬워져 잠시 동안 추가 피해를 받고 캐모 속성과 재생 속성을 영구히 잃습니다."
+Embrittlement Description,MOAB급 풍선을 공격할 수 있습니다. 공격에 맞은 풍선은 깨지기 쉬워져 얼린 상태에서 추가 피해를 받고 캐모 속성을 잃습니다.
 Snowstorm Description,"눈폭풍 능력: 화면의 모든 일반 풍선을 얼리며, 잠시 동안 하얀 풍선, 줄무늬 풍선, 캐모 풍선을 얼리고 MOAB급 풍선을 느리게 만듭니다."
 Icicles Description,얼린 풍선은 다른 풍선이 건드리면 터트리는 뾰족한 고드름이 생깁니다.
 Super Brittle Description,MOAB급 풍선을 포함하여 얼린 풍선이 받는 피해가 어마어마하게 증가합니다.
@@ -882,7 +882,7 @@ Blooncineration Description,"초고열 연소 물질이 매번 풍선의 5겹을
 ,
 Focused Firing Description,다트포의 명중률이 증가합니다.
 Advanced Targeting Description,다트포 사수가 캐모 풍선을 공격할 수 있습니다.
-Powerful Darts Description,"다트의 이동 속도가 빨라지며, 각각 풍선 3개를 터트립니다."
+Powerful Darts Description,"다트의 이동 속도가 빨라지며, 얼린 풍선을 터트릴 수 있고, 각각 풍선 3개를 터트립니다."
 Faster Swivel Description,총열 회전 속도가 더욱 증가합니다.
 Faster Barrel Spin Description,총 발사를 훨씬 더 빠르게 합니다.
 Depleted Bloontonium Description,공격으로 모든 풍선 유형에 피해를 줄 수 있습니다.
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] 눌러 사정거리 내로 어둠포털을 통해 이동
 DarkChampionDarkshift,[I] 눌러 아무 가능한 장소로 어둠포털을 통해 이동하기
 SmallTowersMode,작은 원숭이 타워
 BigTowersMode,커다란 원숭이 타워
-UpdatePopupTitle,업데이트 28!
-UpdatePopupDescription,대규모 콘텐츠 업데이트!\n• 협동 보스전! 친구들과 함께 보스 이벤트에 도전해 최대 파라곤 레벨을 노리세요!\n• 신규 보스 풍선 - 무덤군주 리치!\n• 보스 순위표! 랭커 모드를 선택하고 솔로 혹은 협동 플레이로 최고의 기록을 내어 순위표에 오르세요\n• 신규 파라곤 타워 - 천상의 그림자 닌자 원숭이 등장!\n• 바이킹 사우다 출전! 새로 나온 사우다 스킨을 획득하고 화려한 칼질을 보여주세요!\n• 새 초보 맵 '오두막집'에서 공연히 길을 잃지 않도록 조심하세요\n• 트로피 상점 신규 아이템 12종 및 기간 한정 할로윈 신상 6종이 나왔으니 놓치지 마세요!\n• 밸런스 조정 및 버그 수정 - 변경 사항이 많으니 자세한 정보는 패치 노트에서 확인하세요
+UpdatePopupTitle,업데이트 29!
+UpdatePopupDescription,"메리 크리스마스 시즌 업데이트!\n• 신규 파라곤 원숭이 '대양의 나바크'로 모든 수면을 제패하세요.\n• 신규 중급 맵 '조용한 거리'에서 말썽꾸러기 풍선들을 저지하세요.\n• 근사한 이질리 스킨 '갤럭실리'가 새로 나왔습니다!\n• 게임에 더 빠르게 입장할 수 있도록 협동 로비를 재단장했습니다\n• 신규 기간 한정 아이템 6종을 비롯한 17종의 신규 트로피 상점 아이템이 입고되었으니 얼른 구매하세요!\n• 신규 업적, 편의성 개선, 밸런스 조정, 버그 수정 등 많이 바뀌었습니다. 자세한 정보는 업데이트 노트에서 확인하세요.\n여러분 모두 따뜻한 크리스마스와 즐거운 새해 맞으시기를 Ninja Kiwi 전직원이 기원합니다!"
 ResetDailyChest,일일 상자 초기화
 JukeboxName,주크박스
 EnableFunction,사용
@@ -3159,9 +3159,9 @@ TrophyStoreLimitedTime,기간 한정
 TowerProjectileBombshooterPumpkinName,폭탄 슈터 호박 폭탄
 TowerProjectileBombshooterPumpkinShortName,호박 폭탄
 TowerProjectileBombshooterPumpkinDescription,폭탄 슈터가 이제 폭발하는 호박을 발사합니다. 기간 한정 수집가용 품목!
-TowerPetSupermonkeyBatName,슈퍼원숭이 박쥐 펫
-TowerPetSupermonkeyBatShortName,슈퍼원숭이 박쥐
-TowerPetSupermonkeyBatDescription,"끔찍하게 깜찍하달까요, 깜찍하게 끔찍하달까요? 슈퍼원숭이라면 펫 박쥐 하나 정도는 당연히 있어야죠"
+TowerPetSupermonkeyBatName,슈퍼 원숭이 박쥐 펫
+TowerPetSupermonkeyBatShortName,슈퍼 원숭이 박쥐
+TowerPetSupermonkeyBatDescription,"끔찍하게 깜찍하달까요, 깜찍하게 끔찍하달까요? 슈퍼 원숭이라면 펫 박쥐 하나 정도는 당연히 있어야죠"
 BloonsBADSkinBonesName,해골 BAD
 BloonsBADSkinBonesShortName,해골 BAD
 BloonsBADSkinBonesDescription,"무시무시한 해골 BAD의 모습을 넋 놓고 바라보거나, 친구들에게 MOAB의 새로운 등급이 나왔다고 전해주세요"
@@ -3597,9 +3597,7 @@ btd6_4racespass Description,4번의 이벤트에서 경주를 무한히 시도�
 btd6_4racespass,4경주 패스
 btd6_12racespass Description,12번의 이벤트에서 경주를 무한히 시도할 수 있어요!
 btd6_12racespass,12경주 패스
-AccountPermissionRestriction,해당 Xbox 계정에 멀티플레이어 게임을 플레이할 권한이 없습니다
 GetHeroBooster,영웅 부스터 얻기
-AccountCommunityPermissionRestriction,해당 Xbox 계정에 커뮤니티 콘텐츠를 보거나 생성할 권한이 없습니다
 IntermediateUnlockText,초보 맵을 최초로 깨면 중급 맵이 열립니다
 AdvancedUnlockText,중급 맵을 최초로 깨면 고급 맵이 열립니다
 ExpertUnlockText,고급 맵을 최초로 깨면 전문 맵이 열립니다
@@ -3826,7 +3824,7 @@ ResetOdysseyProgress,오디세이 진행 상황이 무효화됩니다. 그래도
 OdysseyName,오디세이 이름
 OdysseyEditor,오디세이 편집기
 MaxPowers,최대 힘:
-MaxMonkeySlots,최대 원숭이 슬롯 :
+MaxMonkeySlots,최대 원숭이 슬롯:
 MaxPowerSlots,최대 힘 슬롯:
 MapNumber,맵 {0}
 ExtremeMode,극한 모드:
@@ -4117,4 +4115,115 @@ Elite,엘리트
 HackGameStopMessage,게임 데이터 동기화에 실패했습니다. 안타깝게도 이 게임은 계속할 수 없습니다. 새 게임을 시작해보세요.
 RankedMode,랭커 모드
 Any,모두
-ScoreNotVerifiable,귀하의 점수는 확인할 수 없어 제출되지 않았습니다.
+ScoreNotVerifiable,점수를 검증할 수 없어서 점수가 전송되지 않았습니다.
+NoBossDataYet,보스를 깨고 미니보스 순위표에 진입하세요!
+LeaderboardMessageMaxPlayers,상위 100위 플레이어 목록
+ConfirmQuitCoopMessage,지금 나가면 이 게임에 재입장할 수 없습니다. 정말 나가시겠습니까?
+YouWereRemoved,지난 게임의 협동 포지션이 닫혀서 재입장할 수 없습니다.
+iCloudLongMessage,iCloud의 사용이 설정되었고 가능한 상태라면 iCloud 계정에 세이브 파일이 자동으로 저장되어 백업이 가능하고 다른 기기에서 접근할 수 있습니다.
+CreateNew,새로 생성
+SlotX,슬롯 {0}
+EmptySlot,빈 슬롯
+Delete,삭제
+CreatedDate,생성일: {0}
+LastSavedDate,마지막 저장일: {0}
+DeleteDescription,정말 기기와 iCloud 계정에서 해당 세이브 파일을 삭제하시겠습니까?
+SaveSlots,세이브 슬롯
+LoadGame,게임 불러오기
+DeleteDescriptionNotConnected,정말 로컬 저장소에서 해당 세이브 파일을 삭제하시겠습니까?
+icloudConflictMessage,iCloud와 기기에 있는 세이브 데이터가 서로 다릅니다. 유지할 데이터를 선택하십시오. 선택하지 않은 데이터는 영구히 폐기됩니다.
+GamecenterRestricted,멀티플레이어 사용 불가 - 현재 기기에서 멀티플레이어 게임이나 콘텐츠를 플레이할 수 없도록 설정되어 있습니다.
+DeviceOfflineMessage,기기가 현재 오프라인 상태입니다. 클라우드에 저장된 세이브데이터를 불러올 수 없습니다. 게임 진행 상황이 저장되지 않습니다.
+GamecenterLoginPrompt,게임을 진행하려면 Game Center에 로그인해야 합니다. 기기 설정에서 Game Center를 선택해 로그인하십시오.
+GamecenterRestrictedTitle,멀티플레이어 기능 제한됨
+GamecenterLoginTitle,Game Center 로그인
+QuietStreet,조용한 거리
+GalaxiliEziliSkinName,갤럭실리
+GalaxiliEziliSkinDescription,"우리를 이루는 것, 우리 눈에 보이는 것 모두는 우주의 먼지로 구성되어 있다."
+MonkeyBuccaneer Paragon,대양의 나바크
+MonkeyBuccaneer Paragon Description,물에 뜨는 것 중 가장 위대합니다.
+HeroesPsiPetBisonName,사이 바이슨 펫
+HeroesPsiPetBisonShortName,사이 바이슨 펫
+HeroesPsiPetBisonDescription,"짝수 발굽을 지닌 우제류 포유동물의 우람한 표본으로, 사이의 눈에는 그저 깜찍하기만 합니다. 오리지널 사이 전용 ^^"
+TowerPropMonkeyVillageAustralianFlagName,원숭이 마을 호주 국기
+TowerPropMonkeyVillageAustralianFlagShortName,마을 호주 국기
+TowerPropMonkeyVillageAustralianFlagDescription,호주는 오스트레일리아라고도 하지요! 이 원숭이 마을 국기는 모든 업그레이드에서 표시됩니다.
+TowerProjectileMortarSnowName,박격포 원숭이 눈뭉치
+TowerProjectileMortarSnowShortName,박격포 눈뭉치
+TowerProjectileMortarSnowDescription,박격포 원숭이로 눈뭉치를 던지면 눈싸움에서 절대 지는 일이 없지요. 기간 한정 수집가용 품목!
+TowerPetIceMonkeySnowmanName,얼음 원숭이 눈사람 펫
+TowerPetIceMonkeySnowmanShortName,얼음 원숭이 눈 펫
+TowerPetIceMonkeySnowmanDescription,풍선을 터트리지 않을 때 얼음 원숭이는 뭘 할까요? 멋진 눈사람 펫을 만들지요! 기간 한정 수집가용 품목!
+BloonsDDTSkinSleighName,둠슬레이 DDT
+BloonsDDTSkinSleighShortName,둠슬레이 DDT
+BloonsDDTSkinSleighDescription,무시무시한 둠슬레이로 폼나게 크리스마스 선물을 전달해요! 기간 한정 수집가용 품목!
+BloonsAllBloonsElfHatName,요정 모자 풍선
+BloonsAllBloonsElfHatShortName,요정 모자 풍선
+BloonsAllBloonsElfHatDescription,작고 깜찍한 요정 모자를 씌우면 무엇이든지 귀여워 보이죠! 기간 한정 수집가용 품목!
+CoopEmoteAnimationBenCoolName,쿨한 벤 감정표현
+CoopEmoteAnimationBenCoolShortName,쿨한 벤
+CoopEmoteAnimationBenCoolDescription,벤처럼 언제나 쿨한 태도를 유지해요
+CoopEmoteAnimationBikerBonesRageName,바이커 본즈 분노 아바타
+CoopEmoteAnimationBikerBonesRageShortName,바이커 본즈 분노
+CoopEmoteAnimationBikerBonesRageDescription,방금 사원을 짓겠다고 내 타워를 몽땅 희생한 거야? 바이커 본즈 화났다아아아아!
+GameUIProfileAvatar52Name,커스텀 아바타 - 부메랑
+GameUIProfileAvatar52ShortName,부메랑 아바타
+GameUIProfileAvatar52Description,왼손잡이용 부메랑은 최고!
+GameUIProfileAvatar53Name,커스텀 아바타 - 해적 선장
+GameUIProfileAvatar53ShortName,해적 선장 아바타
+GameUIProfileAvatar53Description,아르르르르! 트로피로 구할 수 있는 최고의 아바타를 다른 플레이어들에게 과시하고 싶지 않나?
+GameUIProfileAvatar54Name,커스텀 아바타 - 기하학 퀸시
+GameUIProfileAvatar54ShortName,기하학 퀸시 아바타
+GameUIProfileAvatar54Description,내가 곧 알파이자 오메가이니라. 나는 제곱 퀸시다.
+GameUIProfileAvatar55Name,커스텀 아바타 - 별 장식 아도라
+GameUIProfileAvatar55ShortName,별 장식 아도라
+GameUIProfileAvatar55Description,트리 장식의 하이라이트를 맡기에 최적이죠! 다른 사람에게 시켰다간 아도라가 가만 안 있을 테고요! 기간 한정 수집가용 품목!
+GameUIProfileBanner8Name,우주를 향한 도약 프로필 배너
+GameUIProfileBanner8ShortName,우주를 향한 도약 배너
+GameUIProfileBanner8Description,Galaksyz 님의 배너 공모전 당선작
+GameUIProfileBanner9Name,태양을 마주하기 프로필 배너
+GameUIProfileBanner9ShortName,태양을 마주하기 배너
+GameUIProfileBanner9Description,Bohrokki 님의 배너 공모전 당선작
+GameUIPowerSkinEnergisingTotemChristmasTreeName,커스텀 힘 - 크리스마스트리 에너자이저 토템
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,에너자이저 크리스마스트리
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,화려한 크리스마스트리로 원숭이들의 에너지를 채워줘요! 기간 한정 수집가용 품목!
+GameUIPowerSkinDartTimeMatrixName,커스텀 힘 - 다트 시간 정지
+GameUIPowerSkinDartTimeMatrixShortName,다트 시간 정지
+GameUIPowerSkinDartTimeMatrixDescription,"오류가 아닙니다. 처음 보시겠지만, 분명 마음에 들 거예요."
+GameUIMusicTrackMusicWinterChilledMixName,주크박스: 겨울밤 - 칠링 리믹스
+GameUIMusicTrackMusicWinterChilledMixShortName,겨울밤 칠링
+GameUIMusicTrackMusicWinterChilledMixDescription,멋진 리믹스를 들으며 느긋하게 게임을 즐기고 겨울 밤하늘의 별 풍경을 감상해요.
+Achievement 134 Name,다윗과 골리앗
+Achievement 134 Description,영웅 없이 보스전에서 승리
+Achievement 135 Name,톡 쏘는 Ninja Kiwi
+Achievement 135 Description,대체 풍선 라운드에서 향신료 제도를 랜드 타워만 사용해서 깨기
+Achievement 136 Name,수확 없음
+Achievement 136 Description,CHIMPS 모드에서 옥수수밭을 옥수수 하나도 안 없애고 깨기
+Achievement 137 Name,학자금 대출
+Achievement 137 Description,"4 x 10^5 ($400,000어치 빚지기)"
+Achievement 138 Name,치명적인 정보 부족하지 않음
+Achievement 138 Description,"치명타 25,000회 날리기"
+GameRestartedTitle,게임 재시작
+GameContinuedTitle,게임 계속
+GameRestartedDescription,다른 플레이어가 게임을 재시작했습니다.
+GameContinuedDescription,다른 플레이어가 게임을 계속했습니다.
+EditorAbilityCooldown,능력 쿨다운 비율
+EditorRemovableCost,제거 비용 비율
+AbilityCooldownIncreased,능력 쿨다운 비율 증가됨
+AbilityCooldownDecreased,능력 쿨다운 비율 감소됨
+RemovableCostIncreased,제거 비용 증가됨
+RemovableCostDecreased,제거 비용 감소됨
+Disabled,사용 안 함
+ViewStats,전적 보기
+CloseSlot,슬롯 닫기
+OpenSlot,슬롯 열기
+CalloutBossCrusher,보스 크러셔
+CalloutBossCrusherDesc,보스에게 {0}의 피해를 줍니다.
+CalloutWellRounded,올라운더
+CalloutWellRoundedDesc,4가지 타워 유형에서 각각 {0}개씩
+CalloutEndlessPower,무한한 힘!
+CalloutEndlessPowerDesc,{0}급 파라곤 생성
+AnyGame,모든 게임
+AnyMap,모든 지도
+AnyDifficulty,모든 어려움
+AnyMode,모든 모드

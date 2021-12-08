@@ -152,7 +152,7 @@ Gwendolin Level 3 Description,"Cocktail of Fire: Hurls a flask of flammable liqu
 Gwendolin Level 4 Description,Heat it up - Every few seconds creates a powerful blast wave of fire that pops Bloons and adds fire to nearby Monkeys’ attacks.
 Gwendolin Level 5 Description,Increased popping power.
 Gwendolin Level 6 Description,Attacks cause a burn effect on target Bloon.
-Gwendolin Level 7 Description,Heat it up has increased radius.
+Gwendolin Level 7 Description,"Heat it up has increased radius, Cocktail of Fire is more effective."
 Gwendolin Level 8 Description,Shoots 2 blasts of fire per shot.
 Gwendolin Level 9 Description,Initial hit per blast pops 1 extra layer.
 Gwendolin Level 10 Description,"Firestorm: Sets the whole screen alight, burning all Bloons and granting the Heat It Up buff to all Monkeys."
@@ -188,7 +188,7 @@ Benjamin Level 18 Description,Bloon Trojan can affect BFB and DDT Bloons.
 Benjamin Level 19 Description,Biohack lasts 9 seconds and affected Monkeys pop 3 extra layers instead of 2.
 Benjamin Level 20 Description,Syphon Funding lasts 20 seconds and cash per pop is triple normal for affected Bloons.
 ,
-PatFusty Level 1 Description,Pat slams bloons into the ground.
+PatFusty Level 1 Description,Pat slams Bloons into the ground.
 PatFusty Level 2 Description,Increase radius of slam attack.
 PatFusty Level 3 Description,Rallying Roar: All nearby Monkeys can pop +1 layer for a short time.
 PatFusty Level 4 Description,Increased attack speed.
@@ -211,20 +211,20 @@ PatFusty Level 20 Description,Big Squeeze can grab several big Bloons at once.
 ,
 ObynGreenfoot Level 1 Description,Sends wolf spirits to attack the Bloons.
 ObynGreenfoot Level 2 Description,Nature's Wrath - all Druids in range get +1 pierce.
-ObynGreenfoot Level 3 Description,Brambles: Creates a spiked bush on the track that can pop 50 bloons.
-ObynGreenfoot Level 4 Description,Every 18 seconds creates a totem that slows all bloons near the totem by 30%. Less effective vs MOAB-class Bloons.
-ObynGreenfoot Level 5 Description,Increased attack speed.
+ObynGreenfoot Level 3 Description,Brambles: Creates a spiked bush on the track that can pop 50 Bloons.
+ObynGreenfoot Level 4 Description,Every 18 seconds creates a totem that slows all Bloons near the totem by 30%. Less effective vs MOAB-class Bloons.
+ObynGreenfoot Level 5 Description,Increased attack speed. Druids of the Jungle have increased range.
 ObynGreenfoot Level 6 Description,Increased popping power and projectiles move faster.
 ObynGreenfoot Level 7 Description,Brambles can pop 100 Bloons.
 ObynGreenfoot Level 8 Description,Nature's ward totems slow Bloons 40%.
-ObynGreenfoot Level 9 Description,Attack pops extra layers.
+ObynGreenfoot Level 9 Description,Attack pops extra layers. Druids of the Storm have larger storms that deal more damage to MOABs.
 ObynGreenfoot Level 10 Description,"Wall of Trees: Summons a wall of trees across the track that destroy all Bloons that enter. When full, the trees burst into money."
 ObynGreenfoot Level 11 Description,"Nature's Clarity - all Magic Monkeys in range get +5 range and +2 pierce, and Druids get an additional +1 pierce."
-ObynGreenfoot Level 12 Description,Increased attack speed.
+ObynGreenfoot Level 12 Description,Increased attack speed and Magic Monkeys cooldowns reduced by 5%.
 ObynGreenfoot Level 13 Description,Further increased popping power and projectile speed.
 ObynGreenfoot Level 14 Description,Attack pops extra layers.
 ObynGreenfoot Level 15 Description,"Nature's Ward slows Bloons by 60%, and has reduced cooldown."
-ObynGreenfoot Level 16 Description,Brambles pop 500 bloons each and can damage all Bloon types.
+ObynGreenfoot Level 16 Description,Brambles pop 500 Bloons each and can damage all Bloon types.
 ObynGreenfoot Level 17 Description,Increased attack speed.
 ObynGreenfoot Level 18 Description,Improved Wrath - all Druid of Wrath pops start each round at 200.
 ObynGreenfoot Level 19 Description,Attack pops extra layers.
@@ -233,7 +233,7 @@ ObynGreenfoot Level 20 Description,Wall of Trees can hold a lot more Bloons.
 Ezili Level 1 Description,Ezili curses Bloons with dark voodoo power.
 Ezili Level 2 Description,Increased attack range.
 Ezili Level 3 Description,Heartstopper: Prevents any Regrow from happening for 6 seconds.
-Ezili Level 4 Description,Ezili's main attack now curses multiple bloons.
+Ezili Level 4 Description,Ezili's main attack now curses multiple Bloons.
 Ezili Level 5 Description,Increased attack speed.
 Ezili Level 6 Description,Damage over time lasts longer and damages faster.
 Ezili Level 7 Description,"Sacrificial Totem: A totem that gives Camo detection, extra pierce, attack range, attack speed, and projectile speed to nearby Monkeys. Drains 10 lives."
@@ -761,7 +761,7 @@ Re-Freeze Description,Can re-freeze Bloons that are already frozen.
 Ice Shards Description,Razor sharp shards fly out when Frozen Bloons pop.
 Arctic Wind Description,Greatly increases pierce & gains a super cold aura that slows Bloons and freezes water nearby.
 Cryo Cannon Description,Shoots freezing bombs at Bloons over longer range.
-Embrittlement Description,"Detects Camo Bloons and all Bloons including MOABs hit become brittle, taking extra damage for a short time and losing Camo & Regrow properties permanently."
+Embrittlement Description,"Can hit MOAB class Bloons. All hit Bloons become brittle, take extra damage while frozen, and lose Camo properties."
 Snowstorm Description,"Snowstorm Ability: Freezes all regular Bloons on screen, briefly freezes White, Zebra, and Camo, and slows MOAB-class."
 Icicles Description,Frozen Bloons grow sharp icicles that can pop Bloons that touch them.
 Super Brittle Description,Bloons take huge damage while frozen including MOAB-Class Bloons.
@@ -784,16 +784,16 @@ The Bloon Solver Description,Bloons a problem? Here's the solution.
 Glue Storm Description,Glue Storm ability pelts the whole screen over 15 seconds with glue. Glued Bloons take extra damage while glued.
 Super Glue Description,Glue so strong it temporarily immobilizes all affected Bloons!
 ,
-Full Metal Jacket Description,"Shots pop through 4 layers of bloon, and both bullets and shrapnel can pop Lead and Frozen Bloons."
+Full Metal Jacket Description,"Shots pop through 4 layers of Bloon, and both bullets and shrapnel can pop Lead and Frozen Bloons."
 Night Vision Goggles Description,Allows Sniper to detect and do an additional 2 damage to Camo Bloons.
 Fast Firing Description,Shoots faster than normal.
 Large Calibre Description,Shots can pop through 7 layers of Bloon.
-Shrapnel Shot Description,Damaged bloons spray out a cone of sharp shrapnel.
+Shrapnel Shot Description,Damaged Bloons spray out a cone of sharp shrapnel.
 Even Faster Firing Description,Shoots even faster!
 Deadly Precision Description,"20 damage per shot, plus bonus damage to ceramics."
 Bouncing Bullet Description,Shots bounce to new targets up to 3 times.
 Semi-Automatic Description,Attacks 3x as fast!
-Maim MOAB Description,Deals much more damage and immobilizes MOAB class bloons for a short time.
+Maim MOAB Description,Deals much more damage and immobilizes MOAB-Class Bloons for a short time.
 Supply Drop Description,Supply Drop Ability: drops a crate full of cash. Regular attack also damages Lead Bloons and increases Shrapnel popping power.
 Full Auto Rifle Description,Fully automatic weapon with incredible popping power.
 Cripple MOAB Description,Crippled MOABs are immobilized for longer and take extra damage from all other attacks.
@@ -806,11 +806,11 @@ Twin Guns Description,Added twin gun doubles attack speed. Enhances Ballistic Mi
 Advanced Intel Description,Allows long range targeting of Bloons in radius of your other towers.
 Heat-tipped Darts Description,Heat tipped darts allow popping of Frozen and Lead Bloons.
 Airburst Darts Description,Airburst darts split into 3 on impact for massive popping power. Further enhances Ballistic Missile and Bloontonium Reactor.
-Submerge and Support Description,Adds Submerge targeting option that permanently reveals Camo bloons in its radius but does not attack while submerged.
+Submerge and Support Description,Adds Submerge targeting option that permanently reveals Camo Bloons in its radius but does not attack while submerged.
 Ballistic Missile Description,Missile seeks target within range and does extra MOAB and Ceramic damage.
 Triple Guns Description,Adds a third gun for even faster firing.
 Bloontonium Reactor Description,"Submerge to detect Camo, pop Bloons and reduce ability cooldowns of nearby water-based Monkeys by 15%."
-First Strike Capability Description,"First Strike Ability: A devastating missile strike targeting the largest bloon on screen, plus splash damage."
+First Strike Capability Description,"First Strike Ability: A devastating missile strike targeting the largest Bloon on screen, plus splash damage."
 Armor Piercing Darts Description,"Special AP darts gain increased damage and popping power, plus additional damage to MOAB class Bloons."
 Energizer Description,"Reduces ability cooldowns everywhere by 20%. While in radius, Heroes earn XP 50% faster and water Monkeys ability cooldowns are halved."
 Pre-emptive Strike Description,Automatically triggers a powerful missile attack whenever MOAB-Class Bloon spawns from the Bloon entrance.
@@ -870,19 +870,19 @@ Increased Accuracy Description,Makes the shots more accurate.
 Bloon Buster Description,Smash through 2 layers of Bloons at once!
 Mortar Rapid Reload Description,Even faster reload.
 Burny Stuff Description,Damaged Bloons are set ablaze momentarily with each hit.
-Shockwave Description,"Blast shockwave stuns bloons at impact, pops bloons in a wider area, and increases Burny Stuff damage."
-Heavy Shells Description,"Heavy shells do extra damage to Ceramic, Lead, all Fortified, and all stunned bloons. Can also pop black Bloons."
+Shockwave Description,"Blast shockwave stuns Bloons at impact, pops bloons in a wider area, and increases Burny Stuff damage."
+Heavy Shells Description,"Heavy shells do extra damage to Ceramic, Lead, all Fortified, and all stunned Bloons. Can also pop black Bloons."
 Signal Flare Description,Camo Bloons popped by flares lose their camouflage permanently.
-The Big One Description,"Devastating explosions pop 5 layers of bloon, plus increases Burny Stuff damage further."
+The Big One Description,"Devastating explosions pop 5 layers of Bloon, plus increases Burny Stuff damage further."
 Artillery Battery Description,Bombardment Ability: Unleashes a rapid fire attack in a slightly wider area. Main attack upgrades to 3 barrels for incredibly fast attacks.
-Shattering Shells Description,Shattering shells strip all special bloon properties off all but the biggest bloons.
+Shattering Shells Description,Shattering shells strip all special Bloon properties off all but the biggest bloons.
 The Biggest One Description,"Blasts deeply through Bloons and layers over a huge area, plus powerful Burny Stuff damage."
-Pop and Awe Description,"Pop and Awe Ability: rains explosions over the whole screen, damaging and immobilizing all bloons for a few seconds. Main attack gains additional bonus damage to stunned Bloons."
-Blooncineration Description,"Superhot burny stuff melts through 5 layers of bloon each shot, burns MOAB class bloons for extra damage, and strips DDT camo."
+Pop and Awe Description,"Pop and Awe Ability: rains explosions over the whole screen, damaging and immobilizing all Bloons for a few seconds. Main attack gains additional bonus damage to stunned Bloons."
+Blooncineration Description,"Superhot burny stuff melts through 5 layers of Bloon each shot, burns MOAB-Class Bloons for extra damage, and strips DDT camo."
 ,
 Focused Firing Description,Increases accuracy of the Dartling Gun.
 Advanced Targeting Description,Allows Dartling Gunner to hit Camo Bloons.
-Powerful Darts Description,Darts move faster and can pop 3 Bloons each.
+Powerful Darts Description,"Darts move faster, can pop frozen Bloons and can pop 3 Bloons each."
 Faster Swivel Description,Barrel can swivel much faster.
 Faster Barrel Spin Description,Makes gun fire much faster.
 Depleted Bloontonium Description,Shots can damage any Bloon type.
@@ -1121,7 +1121,7 @@ Elite Sniper Ability Description,Supply drop gives much more cash.
 Elite Defender Ability Description,A lost life gives this Sniper 2x attack speed for a short time in retaliation.
 First Strike Capability Ability Description,"A devastating missile strike on the largest Bloon on screen. Destroys up to a ZOMG Bloon in one go, or many smaller Bloons."
 Pre-emptive Strike Ability Description,Automatically triggers an extra anti-MOAB missile whenever MOAB-Class Bloon spawns from the Bloon entrance.
-Monkey Pirates Ability Description,MOAB Takedown Ability: grapples a MOAB class bloon and brings it down. Main attack adds two more cannons.
+Monkey Pirates Ability Description,MOAB Takedown Ability: grapples a MOAB-Class Bloon and brings it down. Main attack adds two more cannons.
 Pirate Lord Ability Description,"Can shoot 3 grappling hooks at once, and plunder extra cash from each MOAB-Class Bloon brought down with them."
 Ground Zero Ability Description,Increases effectiveness of bomb drops. Ground Zero Ability: drops a huge bomb that destroys most things on screen.
 Tsar Bomba Ability Description,"A very, very large bomb. Someone put a stop to this craziness!"
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] to Darkshift within range
 DarkChampionDarkshift,[I] to Darkshift to any valid location
 SmallTowersMode,Small Monkey Towers
 BigTowersMode,Big Monkey Towers
-UpdatePopupTitle,Update 28!
-UpdatePopupDescription,"Huge content update!\n• Co-Op Boss Battles! Take on Boss Events with your friends for max Paragon levels!\n• New Boss Bloon - Gravelord Lych!\n• Boss Leaderboards! Choose Ranked Mode and set the best time on the leaderboards whether playing solo or co-op\n• New Paragon Tower - Ninja Monkey Ascended Shadow has arrived!\n• Viking Sauda has entered the fray! Grab the new Sauda skin and get slicin'!\n• Don't split up or get lost in the woods on the new Beginner Map - The Cabin\n• 12 new trophy store items, plus 6 all new Limited Time Halloween items - get them while you can!\n• Balancing and fixes - plenty of changes, check the update notes for all the details"
+UpdatePopupTitle,Update 29!
+UpdatePopupDescription,"Happy Holidays Season Update!\n• Rule all waters with the latest Monkey Paragon: Navarch of the Seas\n• Stop those rowdy Bloons in their tracks on the new intermediate map: Quiet Street\n• Grab the awesome new Ezili skin: Galaxili!\n• Co-op lobby creation revamped to get you in the game faster\n• 17 new trophy store items including 6 new limited time ones, get them quick!\n• New achievements, quality of life changes, balancing, and fixes - lots of great changes, check the update notes for all the details\nWarmest Holiday Wishes and Happy New Years from all of us at Ninja Kiwi!"
 ResetDailyChest,Reset Daily Chest
 JukeboxName,Jukebox
 EnableFunction,Enable
@@ -3212,7 +3212,7 @@ PlayerStatsNecroBloons,Necro Bloons Reanimated
 Achievement 102 Name,Chunky Monkeys
 Achievement 102 Description,"I like 'em big, I like 'em chunkay"
 Achievement 103 Name,Oathbreakers
-Achievement 103 Description,"Reanimate 250,000 bloons to fight on your side using the Necromancer Wizard"
+Achievement 103 Description,"Reanimate 250,000 Bloons to fight on your side using the Necromancer Wizard"
 HiddenAchievementQuestionMarkString,???
 Achievement 104 Name,Living on the Edge
 Achievement 104 Description,Win any non-CHIMPS/Impoppable game with only 1 life remaining
@@ -3323,7 +3323,7 @@ CoopEmoteAnimationCelebrationShortName,Celebration
 CoopEmoteAnimationCelebrationDescription,Count in the New Year then make a resolution to reach a new personal highest round
 CoopEmoteAnimationFacepalmName,Facepalm Emote
 CoopEmoteAnimationFacepalmShortName,Facepalm
-CoopEmoteAnimationFacepalmDescription,Ben not sharing cash? Quincy letting bloons past his bow? Ezili facepalms are appropriate in so many situations!
+CoopEmoteAnimationFacepalmDescription,Ben not sharing cash? Quincy letting Bloons past his bow? Ezili facepalms are appropriate in so many situations!
 GameUIPowerSkinBaubleMineName,Custom Power - Bauble Mine
 GameUIPowerSkinBaubleMineShortName,Bauble Mine
 GameUIPowerSkinBaubleMineDescription,Blow up MOABs then decorate the Christmas tree! Limited Time Collector's Item!
@@ -3671,7 +3671,7 @@ PlayerPositionClosed,Player position closed
 YouFinished,You Finished:
 BestTime,Best Time:
 Claim,Claim
-PlayerRejoinedGame,has rejoined the game
+PlayerRejoinedGame, has rejoined the game
 PlayerKickedFromGame,{0} has been removed from the game
 ConfirmKickPlayer,Are you sure you want to remove {0}?
 Remove,Remove
@@ -3788,10 +3788,10 @@ GameUIProfileAvatar41Name,Custom Avatar - Flash Bomb Ninja
 GameUIProfileAvatar41ShortName,Flash Bomb Avatar
 GameUIProfileAvatar41Description,Avatar winner by _Concilliabule_
 GameUIProfileAvatar42Name,Custom Avatar - Corporate Patch
-GameUIProfileAvatar42ShortName,Corporate Patch
+GameUIProfileAvatar42ShortName,Corporate Patch Avatar
 GameUIProfileAvatar42Description,Patch has been quietly climbing the corporate ladder of Monkeydom
 GameUIProfileAvatar43Name,Custom Avatar - Fireworks Bomb Shooter
-GameUIProfileAvatar43ShortName,Fireworks Bomb Shooter
+GameUIProfileAvatar43ShortName,Fireworks Bomb Avatar
 GameUIProfileAvatar43Description,What better way to fire off those rockets? Limited Time Collector's Item!
 GameUIPowerSkinMonkeyBoostFireworksName,Custom Power - Fireworks Monkey Boost
 GameUIPowerSkinMonkeyBoostFireworksShortName,Fireworks Monkey Boost
@@ -4073,7 +4073,7 @@ GameUIProfileBanner7Description,Trick or treat! The perfect Halloween custom pro
 LychTagLine,The Gravelord
 LychTagLine2,has been Resurrected!
 Lych,Lych
-LychInfoPanelDescription,"• Gravelord Lych drains buffs from your Monkeys, healing itself in the process.\n• When each skull on its health bar is reached, Lych goes ethereal, resurrecting the empty shells of recently popped MOAB class Bloons.\n• When ethereal, Lych cannot be damaged until all resurrected Bloons have been popped, including the life-draining Lych-soul Bloon.\n• Resurrected MOAB class Bloons do not spawn children, selling towers will heal Lych."
+LychInfoPanelDescription,"• Gravelord Lych drains buffs from your Monkeys, healing itself in the process.\n• When each skull on its health bar is reached, Lych goes ethereal, resurrecting the empty shells of recently popped MOAB class Bloons.\n• When ethereal, Lych cannot be damaged until all resurrected Bloons have been popped, including the life-draining Lych-soul Bloon.\n• Resurrected MOAB class Bloons do not spawn children."
 EditorReviewMap,Review Map
 YourBestTime,Your Best Time
 Boss,Boss
@@ -4094,7 +4094,7 @@ RankedElite,Ranked Elite
 StartRankedBoss,Start Ranked Boss
 MusicHaunted,Haunted House
 GameUIMusicTrackMusicHauntedName,Jukebox: Haunted House
-GameUIMusicTrackMusicHauntedShortName,Jukebox: Haunted House
+GameUIMusicTrackMusicHauntedShortName,Haunted House
 GameUIMusicTrackMusicHauntedDescription,Haunting beats and spectral rhythms make this the must have track for Halloween or late night play sessions. Limited Time Collector's Item!
 NSCameraUsageDescription,Screenshots for Support Tickets
 btd6_needmoremonkeymoneyprompt_no_iap,Not enough Monkey Money!
@@ -4117,3 +4117,114 @@ HackGameStopMessage,Game values cannot be resynced. Unfortunately this game cann
 RankedMode,Ranked Mode
 Any,Any
 ScoreNotVerifiable,Your score was not submitted as it could not be verified.
+NoBossDataYet,Beat the Boss to join a mini-Boss leaderboard!
+LeaderboardMessageMaxPlayers,Showing Top 100 Players
+ConfirmQuitCoopMessage,You won't be able to rejoin this game if you leave now. Are you sure?
+YouWereRemoved,"Your co-op position was closed in your last game, unable to rejoin."
+iCloudLongMessage,If iCloud is enabled and available your saves will be automatically stored in your iCloud account for back-up and access on other devices.
+CreateNew,Create New
+SlotX,Slot {0}
+EmptySlot,Empty Slot
+Delete,Delete
+CreatedDate,Created: {0}
+LastSavedDate,Last saved: {0}
+DeleteDescription,Are you sure you want to delete this save file from your device and your iCloud account?
+SaveSlots,Save Slots
+LoadGame,Load Game
+DeleteDescriptionNotConnected,Are you sure you want to delete this save file from your local storage?
+icloudConflictMessage,Your save data on iCloud and on your device are different. Please choose one to keep. The other will be permanently discarded.
+GamecenterRestricted,Multiplayer Unavailable – You are not allowed to play multiplayer games or content on this device.
+DeviceOfflineMessage,This device is currently offline. Any existing cloud saves will not be available. Any game progress made may not be saved.
+GamecenterLoginPrompt,"Please sign in to Game Center to access. Open device Settings, locate Game Center, and sign in."
+GamecenterRestrictedTitle,Multiplayer Access Restricted
+GamecenterLoginTitle,Sign in to Game Center
+QuietStreet,Quiet Street
+GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinDescription,"Everything we are, everything we see - is made of spacedust"
+MonkeyBuccaneer Paragon,Navarch of the Seas
+MonkeyBuccaneer Paragon Description,The greatest thing ever to float on water.
+HeroesPsiPetBisonName,Psi Bison Pet
+HeroesPsiPetBisonShortName,Psi Bison Pet
+HeroesPsiPetBisonDescription,"An exemplary specimen of the even-toed ungulate genus, which Psi happens to find mega adorable. Original Psi only ;)"
+TowerPropMonkeyVillageAustralianFlagName,Monkey Village Australia Flag
+TowerPropMonkeyVillageAustralianFlagShortName,Village Australia Flag
+TowerPropMonkeyVillageAustralianFlagDescription,"Aussie Aussie Aussie, Oi Oi Oi! This Monkey Village flag shows for all upgrades"
+TowerProjectileMortarSnowName,Mortar Monkey Snow Projectile
+TowerProjectileMortarSnowShortName,Mortar Snow Projectile
+TowerProjectileMortarSnowDescription,Win every snowball fight ever with this awesomely snowy Mortar Monkey projectile. Limited Time Collector's Item!
+TowerPetIceMonkeySnowmanName,Ice Monkey Snowman Pet
+TowerPetIceMonkeySnowmanShortName,Ice Monkey Snow Pet
+TowerPetIceMonkeySnowmanDescription,What does Ice Monkey do when not popping Bloons? Builds awesome snow pets of course! Limited Time Collector's Item!
+BloonsDDTSkinSleighName,Doomsleigh DDT
+BloonsDDTSkinSleighShortName,Doomsleigh DDT
+BloonsDDTSkinSleighDescription,Deliver presents in style this Christmas with the Dreaded Doomsleigh! Limited Time Collector's Item!
+BloonsAllBloonsElfHatName,Elf Hat Bloons
+BloonsAllBloonsElfHatShortName,Elf Hat Bloons
+BloonsAllBloonsElfHatDescription,Everything is cuter with a teeny tiny elf hat on! Limited Time Collector's Item!
+CoopEmoteAnimationBenCoolName,Cool Ben Emote
+CoopEmoteAnimationBenCoolShortName,Cool Ben
+CoopEmoteAnimationBenCoolDescription,"Be like Ben and stay cool, live cool"
+CoopEmoteAnimationBikerBonesRageName,Biker Bones Rage Emote
+CoopEmoteAnimationBikerBonesRageShortName,Biker Bones Rage
+CoopEmoteAnimationBikerBonesRageDescription,Did you really just sacrifice all my towers to build your Temple? Biker Bones RAAAAAGE!
+GameUIProfileAvatar52Name,Custom Avatar - Boomerang
+GameUIProfileAvatar52ShortName,Boomerang Avatar
+GameUIProfileAvatar52Description,Left-handed Boomerang is best-handed Boomerang!
+GameUIProfileAvatar53Name,Custom Avatar - Pirate Captain
+GameUIProfileAvatar53ShortName,Pirate Captain Avatar
+GameUIProfileAvatar53Description,"Yarr! Ye be wantin' to impress them other scallywag players with the best avatar trophies can buy, now don't ye?"
+GameUIProfileAvatar54Name,Custom Avatar - Geometric Quincy
+GameUIProfileAvatar54ShortName,Geometric Quincy Avatar
+GameUIProfileAvatar54Description,"I am the alpha and the omega. I am Quincy, squared"
+GameUIProfileAvatar55Name,Custom Avatar - Star Topper Adora
+GameUIProfileAvatar55ShortName,Star Adora Avatar
+GameUIProfileAvatar55Description,Who else would you entrust with putting the finishing touches onto the tree? Well that and Adora doesn't let anyone else near it! Limited Time Collector's Item!
+GameUIProfileBanner8Name,Leaping Into Space Profile Banner
+GameUIProfileBanner8ShortName,Leaping Into Space Banner
+GameUIProfileBanner8Description,Banner winner by Galaksyz
+GameUIProfileBanner9Name,Face The Sun Profile Banner
+GameUIProfileBanner9ShortName,Face The Sun Banner
+GameUIProfileBanner9Description,Banner winner by Bohrokki
+GameUIPowerSkinEnergisingTotemChristmasTreeName,Custom Power - Christmas Tree Energising Totem
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,Energised Christmas Tree
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,Keep your monkeys energized with this colorful Christmas Tree! Limited Time Collector's Item!
+GameUIPowerSkinDartTimeMatrixName,Custom Power - Dart Time Stop
+GameUIPowerSkinDartTimeMatrixShortName,Dart Time Stop
+GameUIPowerSkinDartTimeMatrixDescription,"This is not a glitch, you haven't seen this before but you're going to like it, we promise"
+GameUIMusicTrackMusicWinterChilledMixName,Jukebox: Winter Nights - Chilled Remix
+GameUIMusicTrackMusicWinterChilledMixShortName,Winter Nights Chilled
+GameUIMusicTrackMusicWinterChilledMixDescription,"Chill out, play, and ponder the winter stars with this cool new remix"
+Achievement 134 Name,Davids vs Goliath
+Achievement 134 Description,Win a boss battle without using a Hero
+Achievement 135 Name,So Spiiicey Ninja Kiwi
+Achievement 135 Description,Beat Spice Islands on Alternate Bloon Rounds with only land towers
+Achievement 136 Name,No Harvest
+Achievement 136 Description,Beat Cornfield on CHIMPs without removing any corn
+Achievement 137 Name,Student Loans
+Achievement 137 Description,"4 x 10^5 (Go into $400,000 of debt)"
+Achievement 138 Name,Not Lacking Critical Information
+Achievement 138 Description,"Get 25,000 Critical hits"
+GameRestartedTitle,Game Restarted
+GameContinuedTitle,Game Continued
+GameRestartedDescription,Game has been restarted by another player.
+GameContinuedDescription,Game has been continued by another player.
+EditorAbilityCooldown,Ability Cooldown Rate
+EditorRemovableCost,Removable Cost Rate
+AbilityCooldownIncreased,Ability Cooldown Rate Increased
+AbilityCooldownDecreased,Ability Cooldown Rate Decreased
+RemovableCostIncreased,Removable Cost Increased
+RemovableCostDecreased,Removable Cost Decreased
+Disabled,Disabled
+ViewStats,View Stats
+CloseSlot,Close Slot
+OpenSlot,Open Slot
+CalloutBossCrusher,Boss Crusher
+CalloutBossCrusherDesc,{0} Damage to Boss
+CalloutWellRounded,Well Rounded
+CalloutWellRoundedDesc,{0} of each of the 4 tower types
+CalloutEndlessPower,Endless Power!
+CalloutEndlessPowerDesc,Degree {0} Paragon created
+AnyGame,Any Game
+AnyMap,Any Map
+AnyDifficulty,Any Difficulty
+AnyMode,Any Mode

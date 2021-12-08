@@ -152,7 +152,7 @@ Gwendolin Level 3 Description,"Cocktail de flammes : lance violemment une flasq
 Gwendolin Level 4 Description,"Allumer le feu : à un intervalle régulier de quelques secondes, crée une explosion puissante, une vague de flammes qui fait éclater les Bloons et ajoute du feu dans les attaques des singes à proximité."
 Gwendolin Level 5 Description,Puissance d'éclatement augmentée.
 Gwendolin Level 6 Description,Les attaques infligent des brûlures au Bloon ciblé.
-Gwendolin Level 7 Description,Augmentation de la portée d'Allumer le feu.
+Gwendolin Level 7 Description,"Augmentation du rayon d'Allumer le feu, Cocktail de flammes est plus efficace."
 Gwendolin Level 8 Description,Tire 2 explosions de flammes par tir.
 Gwendolin Level 9 Description,La cible atteinte par l'explosion initiale fait éclater une couche de plus.
 Gwendolin Level 10 Description,"Tempête de feu : Embrase la totalité de l'écran, brûlant tous les Bloons et conférant le bonus Allumer le feu à tous les singes."
@@ -213,14 +213,14 @@ ObynGreenfoot Level 1 Description,Envoie les esprits des loups attaquer les Bloo
 ObynGreenfoot Level 2 Description,Courroux de la nature : tous les druides à portée reçoivent + 1 en percée.
 ObynGreenfoot Level 3 Description,Crée un buisson piquant sur le circuit qui peut faire éclater 50 Bloons.
 ObynGreenfoot Level 4 Description,Crée toutes les 18 secondes un totem qui ralentit tous les Bloons près du totem de 30 %. Moins efficace contre les Bloons de classe MOAB.
-ObynGreenfoot Level 5 Description,Vitesse d'attaque augmentée.
+ObynGreenfoot Level 5 Description,Vitesse d'attaque augmentée. Portée augmentée pour les Druides de la jungle.
 ObynGreenfoot Level 6 Description,Puissance d'éclatement augmentée et les projectiles se déplacent plus rapidement.
 ObynGreenfoot Level 7 Description,Les ronces peuvent faire éclater 100 Bloons.
 ObynGreenfoot Level 8 Description,Les totems de gardien de la nature ralentissent les Bloons de 40 %.
-ObynGreenfoot Level 9 Description,Ton attaque permet d'éclater des couches supplémentaires.
+ObynGreenfoot Level 9 Description,L'attaque fait éclater des couches supplémentaires. Les tempêtes de Druide de la tempête sont plus grandes et infligent plus de dégâts aux MOAB.
 ObynGreenfoot Level 10 Description,"Mur d'arbres : invoque un mur d'arbres traversant le circuit pour détruire tout Bloon qui y entrera. Lorsque plein, les arbres se transforment en argent."
 ObynGreenfoot Level 11 Description,Clarté de la nature : tous les singes magiques à portée reçoivent + 5 en portée et +1 en percée et les druides reçoivent +1 en percée en plus.
-ObynGreenfoot Level 12 Description,Vitesse d'attaque augmentée.
+ObynGreenfoot Level 12 Description,Vitesse d'attaque augmentée et les temps de recharge des singes magiques sont réduits de 5 %.
 ObynGreenfoot Level 13 Description,Puissance d'éclatement et vitesse des projectiles augmentées encore plus.
 ObynGreenfoot Level 14 Description,Ton attaque permet d'éclater des couches supplémentaires.
 ObynGreenfoot Level 15 Description,Le gardien de la nature ralentit les Bloons de 60 % et son temps de recharge est réduit.
@@ -241,10 +241,10 @@ Ezili Level 8 Description,L'attaque d'Ezili inflige bien plus de dégâts aux Bl
 Ezili Level 9 Description,"L'attaque d'Ezili retire les propriétés de camouflage, de regonflage et de fortification de tous les Bloons, sauf pour ceux de classe MOAB."
 Ezili Level 10 Description,"Sortilège MOAB : jette un sort sur un Bloon de classe MOAB, qui reçoit des dégâts toutes les secondes jusqu'à annihilation."
 Ezili Level 11 Description,Portée d'attaque augmentée. Augmente de 50 % la percée des Bloons réanimés.
-Ezili Level 12 Description,Temps de recharge réduit et augmentation de durée pour le coup de cœur.
+Ezili Level 12 Description,Temps de recharge réduit et augmentation de durée pour le Coup de cœur. Inflige des dégâts accrus aux MOAB.
 Ezili Level 13 Description,L'attaque de base possède un rayon d'éclaboussement et un pouvoir perforant plus grands.
 Ezili Level 14 Description,Dégâts plus rapides au fil du temps.
-Ezili Level 15 Description,Portée augmentée.
+Ezili Level 15 Description,Portée augmentée. Les dégâts au fil du temps durent plus longtemps.
 Ezili Level 16 Description,Le totem du sacrifice dure plus longtemps et coûte seulement 1 vie pour l'utiliser.
 Ezili Level 17 Description,L'attaque de base possède un rayon d'éclaboussement et un pouvoir perforant plus grands.
 Ezili Level 18 Description,Vitesse d'attaque augmentée.
@@ -761,7 +761,7 @@ Re-Freeze Description,Peut regeler les Bloons qui ont déjà été gelés.
 Ice Shards Description,"Des éclats, tels des rasoirs, s'envolent lorsque les Bloons gelés éclatent."
 Arctic Wind Description,Augmente considérablement la percée et confère une aura super froide qui ralentit les Bloons et gèle l'eau à proximité.
 Cryo Cannon Description,"Tire des bombes glaciales sur les Bloons, à longue portée."
-Embrittlement Description,"Détecte les Bloons camouflés et tous les Bloons touchés, y compris les MOAB, s'effritent, subissant davantage de dégâts pour un bref laps de temps et perdant leurs propriétés de camouflage et de regonflage de manière permanente."
+Embrittlement Description,"Peut toucher les Bloons de classe MOAB. Tous les Bloons touchés s'effritent, subissent davantage de dégâts lorsqu'ils sont gelés et perdent leurs propriétés de camouflage."
 Snowstorm Description,"Aptitude Tempête de neige : gèle tous les Bloons ordinaires à l'écran, gèle brièvement les Bloons blancs, zébrés et camouflés, et ralentit les Bloons de classe MOAB."
 Icicles Description,Les Bloons gelés développent des stalactites tranchantes qui peuvent faire éclater les Bloons qui les touchent.
 Super Brittle Description,"Les Bloons, y compris les Bloons de classe MOAB, subissent des dégâts considérables lorsque gelés."
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] pour effectuer Téléportation obscure à portée
 DarkChampionDarkshift,[I] pour effectuer Téléportation obscure à tout endroit valide
 SmallTowersMode,Petites tours de singe
 BigTowersMode,Grandes tours de singe
-UpdatePopupTitle,Mise à jour 28 !
-UpdatePopupDescription,"Énorme mise à jour de contenu !\n• Batailles de boss en coop ! Mesurez-vous aux événements de boss avec vos amis pour les niveaux max. de parangon !\n• Nouveau boss Bloon : Lych Seigneur des tombes !\n• Classements de boss ! Choisissez le mode Classé et effectuez le meilleur temps dans les classements, que ce soit en solo ou en coop\n• Nouvelle tour parangon : le singe ninja Ombre transcendée est arrivé !\n• Sauda Viking a rejoint la mêlée ! Procurez-vous la nouvelle apparence de Sauda et mettez-vous à trancher !\n• Ne vous séparez pas et ne vous perdez pas dans les bois sur la nouvelle carte de niveau débutant : Le Chalet\n• 12 nouveaux articles de boutique de trophées et 6 tout nouveaux articles à durée limitée de Halloween ; mettez la main dessus tant que vous le pourrez !\n• Équilibrage et correctifs : plein de modifications, consultez les notes de mise à jour pour tous les détails."
+UpdatePopupTitle,Mise à jour 29 !
+UpdatePopupDescription,"Mise à jour de saison Joyeuses fêtes !\n• Régnez sur les eaux avec le nouveau parangon singe : Navarque des mers\n• Arrêtez net ces Bloons tapageurs sur la nouvelle carte de niveau intermédiaire : Rue tranquille\n• Procurez-vous la nouvelle apparence géniale d'Ezili : Galaxili !\n• Création de lobby coop remaniée pour vous permettre d'entrer dans la partie plus rapidement\n• 17 nouveaux articles de Boutique de trophées, dont 6 à durée limitée, procurez-les-vous rapidement !\n• Nouveaux succès, modifications de qualité de vie, équilibrage et correctifs - plein de super changements, consultez les notes de mises à jour pour tous les détails\n• Meilleurs vœux de fêtes de fin d'année et Bonne année de la part de nous tous ici à Ninja Kiwi !"
 ResetDailyChest,Réinitialiser le Coffre quotidien
 JukeboxName,Juke-box
 EnableFunction,Activer
@@ -3597,9 +3597,7 @@ btd6_4racespass Description,Fais la course autant que tu le veux sur 4 courses 
 btd6_4racespass,Passe de 4 courses
 btd6_12racespass Description,Fais la course autant que tu le veux sur 12 courses !
 btd6_12racespass,Passe de 12 courses
-AccountPermissionRestriction,Ce compte Xbox n'est pas autorisé à jouer à des parties multijoueurs
 GetHeroBooster,Obtenir un Boost de héros
-AccountCommunityPermissionRestriction,Ce compte Xbox n'est pas autorisé à voir ou créer du contenu de communauté
 IntermediateUnlockText,Remporte une carte de niveau Débutant pour la première fois pour débloquer une carte de niveau Intermédiaire
 AdvancedUnlockText,Remporte une carte de niveau Intermédiaire pour la première fois pour débloquer une carte de niveau Avancé
 ExpertUnlockText,Remporte une carte de niveau Avancé pour la première fois pour débloquer une carte de niveau Expert
@@ -4117,4 +4115,115 @@ Elite,Élite
 HackGameStopMessage,"Les valeurs de la partie de peuvent pas être re-synchronisées. Malheureusement, cette partie ne peut pas se poursuivre. Veuillez essayer une nouvelle partie."
 RankedMode,Mode Classé
 Any,N’importe lequel
-ScoreNotVerifiable,Votre score n'a pas été envoyé car il n'a pas pu être vérifié.
+ScoreNotVerifiable,Ton score n'a pas été soumis car il n'a pas pu être vérifié.
+NoBossDataYet,Triomphe du boss pour rejoindre un classement de mini-boss !
+LeaderboardMessageMaxPlayers,Top 100 des joueurs affiché
+ConfirmQuitCoopMessage,Tu ne pourras pas rejoindre cette partie si tu la quittes. Es-tu sûr(e) ?
+YouWereRemoved,"Ta position coop a été fermée lors de ta dernière partie, impossible de rejoindre."
+iCloudLongMessage,"Si iCloud est activé et disponible, tes sauvegardes seront automatiquement stockées sur ton compte iCloud et tu pourras y accéder à partir d'autres appareils."
+CreateNew,Créer nouveau
+SlotX,Emplacement {0}
+EmptySlot,Emplacement vide
+Delete,Supprimer
+CreatedDate,Créé : {0}
+LastSavedDate,Dernière sauvegarde : {0}
+DeleteDescription,Veux-tu vraiment supprimer ce fichier de sauvegarde de ton appareil et de ton compte iCloud ?
+SaveSlots,Emplacements de sauvegarde
+LoadGame,Charger partie
+DeleteDescriptionNotConnected,Veux-tu vraiment supprimer ce fichier de sauvegarde de ton stockage local ?
+icloudConflictMessage,Tes données de sauvegarde sur iCloud et sur ton appareil sont différentes. Choisis la version que tu souhaites conserver. L'autre sera supprimée de manière permanente.
+GamecenterRestricted,Multijoueurs non disponible – Tu n'es pas autorisé(e) à jouer à des parties ou du contenu multijoueurs sur cet appareil.
+DeviceOfflineMessage,Cet appareil est actuellement hors ligne. Aucune sauvegarde existante sur le cloud ne sera disponible. Il se peut que la progression effectuée dans le jeu ne soit pas sauvegardée.
+GamecenterLoginPrompt,"Connecte-toi au Game Center pour y accéder. Ouvre les paramètres de l'appareil, trouve le Game Center et connecte-toi."
+GamecenterRestrictedTitle,Accès au mode multijoueurs restreint
+GamecenterLoginTitle,Se connecter au Game Center
+QuietStreet,Rue tranquille
+GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinDescription,"Tout ce que nous sommes, tout ce que nous voyons, se compose de poussière d'étoiles"
+MonkeyBuccaneer Paragon,Navarque des mers
+MonkeyBuccaneer Paragon Description,Rien de plus formidable n'a jamais flotté sur les eaux.
+HeroesPsiPetBisonName,Compagnon bison de Psi
+HeroesPsiPetBisonShortName,Compagnon bison de Psi
+HeroesPsiPetBisonDescription,"Un spécimen exemplaire du genre des ongulés à nombre de doigts pairs, que Psi trouve méga-adorable. Psi originale uniquement ;)"
+TowerPropMonkeyVillageAustralianFlagName,Drapeau d'Australie de village de singes
+TowerPropMonkeyVillageAustralianFlagShortName,Drapeau d'Australie de village
+TowerPropMonkeyVillageAustralianFlagDescription,"Aussie Aussie Aussie, Oi Oi Oi ! Ce drapeau de village de singes s'affiche pour toutes les améliorations"
+TowerProjectileMortarSnowName,Projectile neigeux de singe à mortier
+TowerProjectileMortarSnowShortName,Projectile neigeux de mortier
+TowerProjectileMortarSnowDescription,Gagnez toutes les batailles de boules de neige avec ce projectile neigeux génial pour singe à mortier. Pièce de collection à durée limitée !
+TowerPetIceMonkeySnowmanName,Compagnon bonhomme de neige de singe de glace
+TowerPetIceMonkeySnowmanShortName,Compagnon neige de singe de glace
+TowerPetIceMonkeySnowmanDescription,"Que fait le singe de glace quand il ne fait pas éclater des Bloons ? Il bâtit de super compagnons de neige, bien sûr ! Pièce de collection à durée limitée !"
+BloonsDDTSkinSleighName,DDT traîneau de la mort
+BloonsDDTSkinSleighShortName,DDT traîneau de la mort
+BloonsDDTSkinSleighDescription,Livrez les cadeaux avec panache à Noël cette année avec le traîneau redouté ! Pièce de collection à durée limitée !
+BloonsAllBloonsElfHatName,Bloons à chapeau de lutin de Noël
+BloonsAllBloonsElfHatShortName,Bloons à chapeau de lutin de Noël
+BloonsAllBloonsElfHatDescription,Tout est plus mignon avec un petit chapeau de lutin de Noël ! Pièce de collection à durée limitée !
+CoopEmoteAnimationBenCoolName,Émoticône Cool Ben
+CoopEmoteAnimationBenCoolShortName,Cool Ben
+CoopEmoteAnimationBenCoolDescription,"Faites comme Ben et restez cool, vivez cool"
+CoopEmoteAnimationBikerBonesRageName,Émoticône Biker Bones enrage
+CoopEmoteAnimationBikerBonesRageShortName,Biker Bones enrage
+CoopEmoteAnimationBikerBonesRageDescription,Tu viens vraiment de sacrifier toutes mes tours pour construire ton temple ? Biker Bones ENRAAAAAGE !
+GameUIProfileAvatar52Name,Avatar personnalisé - Boomerang
+GameUIProfileAvatar52ShortName,Avatar de boomerang
+GameUIProfileAvatar52Description,Le boomerang pour main gauche est le meilleur boomerang !
+GameUIProfileAvatar53Name,Avatar personnalisé - Capitaine pirate
+GameUIProfileAvatar53ShortName,Avatar de capitaine pirate
+GameUIProfileAvatar53Description,"Yarr ! Tu veux impressionner les autres marins d'eau douce de joueurs avec les meilleurs avatars que des trophées peuvent t'acheter, pas vrai moussaillon ?"
+GameUIProfileAvatar54Name,Avatar personnalisé - Quincy géométrique
+GameUIProfileAvatar54ShortName,Avatar de Quincy géométrique
+GameUIProfileAvatar54Description,Je suis l'alpha et l'oméga. Je suis Quincy au carré.
+GameUIProfileAvatar55Name,Avatar personnalisé - Adora étoile au sommet
+GameUIProfileAvatar55ShortName,Avatar d'Adora étoile
+GameUIProfileAvatar55Description,"À qui d'autre confieriez-vous la tâche de mettre les touches finales sur l'arbre de Noël ? Et de toute manière, Adora ne laisse personne s'en approcher ! Pièce de collection à durée limitée !"
+GameUIProfileBanner8Name,Bannière de profil Saut dans l'espace
+GameUIProfileBanner8ShortName,Bannière Saut dans l'espace
+GameUIProfileBanner8Description,Bannière gagnante par Galaksyz
+GameUIProfileBanner9Name,Bannière de profil Face au soleil
+GameUIProfileBanner9ShortName,Bannière Face au soleil
+GameUIProfileBanner9Description,Bannière gagnante par Bohrokki
+GameUIPowerSkinEnergisingTotemChristmasTreeName,Pouvoir personnalisé - Totem énergisant arbre de Noël
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,Arbre de Noël énergisé
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,Maintenez vos singes sous tension avec cet arbre de Noël haut en couleurs ! Pièce de collection à durée limitée !
+GameUIPowerSkinDartTimeMatrixName,Pouvoir personnalisé - Arrêt du temps de fléchette
+GameUIPowerSkinDartTimeMatrixShortName,Arrêt du temps de fléchette
+GameUIPowerSkinDartTimeMatrixDescription,"Ceci n'est pas un bug, vous ne l'avez pas vu avant mais vous allez aimer, nous vous le promettons"
+GameUIMusicTrackMusicWinterChilledMixName,Juke-box : Nuits d'hiver - Remix chill
+GameUIMusicTrackMusicWinterChilledMixShortName,Nuits d'hiver chill
+GameUIMusicTrackMusicWinterChilledMixDescription,"Chillez, jouez et méditez sur les étoiles d'hiver avec ce nouveau remix très cool"
+Achievement 134 Name,Davids contre Goliath
+Achievement 134 Description,Gagnez une bataille de boss sans utiliser de héros
+Achievement 135 Name,Ninja Kiwi avec le plein d'épices
+Achievement 135 Description,Battez L'île des épices en mode Manches de Bloons alternatives en n'ayant que des tours terrestres
+Achievement 136 Name,Pas de moisson
+Achievement 136 Description,Battez Champ de maïs en mode CHIMPANZÉS sans retirer de maïs
+Achievement 137 Name,Prêts étudiants
+Achievement 137 Description,4 x 10^5 (Accumulez 400 000 $ de dettes)
+Achievement 138 Name,Informations critiques
+Achievement 138 Description,Effectuez 25 000 coups critiques
+GameRestartedTitle,Partie recommencée
+GameContinuedTitle,Partie continuée
+GameRestartedDescription,La partie a été recommencée par un autre joueur.
+GameContinuedDescription,La partie a été continuée par un autre joueur.
+EditorAbilityCooldown,Taux de temps de recharge d'aptitude
+EditorRemovableCost,Taux de coût de retrait d'objet
+AbilityCooldownIncreased,Taux de temps de recharge d'aptitude augmenté
+AbilityCooldownDecreased,Taux de temps de recharge d'aptitude réduit
+RemovableCostIncreased,Coût de retrait d'objet augmenté
+RemovableCostDecreased,Coût de retrait d'objet réduit
+Disabled,Désactivé(e)
+ViewStats,Afficher les stats
+CloseSlot,Fermer l'emplacement
+OpenSlot,Ouvrir l'emplacement
+CalloutBossCrusher,Briseur de boss
+CalloutBossCrusherDesc,{0} dégâts à un boss
+CalloutWellRounded,Complet
+CalloutWellRoundedDesc,{0} de chacun des 4 types de tours
+CalloutEndlessPower,Pouvoir illimité !
+CalloutEndlessPowerDesc,Parangon de degré {0} créé
+AnyGame,N'importe quel jeu
+AnyMap,N'importe quelle carte
+AnyDifficulty,Toute difficulté
+AnyMode,N'importe quel mode

@@ -152,7 +152,7 @@ Gwendolin Level 3 Description,Ateş Kokteyli: Yanıcı bir sıvı fırlatarak at
 Gwendolin Level 4 Description,Biberleyelim - Her birkaç saniyede bir Bloon’ları patlatan ve yakındaki Maymun saldırılarına ateş ekleyen güçlü bir ateş patlaması dalgası oluşturur.
 Gwendolin Level 5 Description,Yüksek patlatma gücü.
 Gwendolin Level 6 Description,"Saldırılar, hedef Bloon üzerinde bir yanma etkisine yol açar."
-Gwendolin Level 7 Description,Biberleyelim etkisinin yarıçapı artar.
+Gwendolin Level 7 Description,"Biberleyelim etkisinin yarıçapı artar, Ateş Kokteyli daha etkilidir."
 Gwendolin Level 8 Description,Atış başına 2 ateş patlaması fırlatır.
 Gwendolin Level 9 Description,Patlama başına ilk vuruş 1 ekstra katman patlatır.
 Gwendolin Level 10 Description,Ateş Fırtınası: Tüm Bloon’ları yakarak ekranın tamamını tutuşturur ve tüm Maymunlara Biberleyelim güçlendirmesi kazandırır.
@@ -188,7 +188,7 @@ Benjamin Level 18 Description,Bloon Truva Atı BFB ve DDT Bloon’ları etkileye
 Benjamin Level 19 Description,Biyokorsanlık 9 saniye sürer ve etkilenen Maymunlar 2 yerine 3 ekstra katman patlatır.
 Benjamin Level 20 Description,Sifon Fonlama 20 saniye sürer ve etkilenen Bloon’lar için patlatma başına nakit normalin üç katına çıkar.
 ,
-PatFusty Level 1 Description,Pat bloon’ları yere çarpar.
+PatFusty Level 1 Description,Pat Bloon’ları yere çarpar.
 PatFusty Level 2 Description,Çarpma saldırısının yarıçapı artar.
 PatFusty Level 3 Description,Toplanmış Gürleme: Yakındaki tüm Maymunlar kısa süreliğine +1 katman patlatabilir.
 PatFusty Level 4 Description,Yüksek saldırı hızı.
@@ -212,15 +212,15 @@ PatFusty Level 20 Description,Büyük Sıkıştırma tek seferde birkaç büyük
 ObynGreenfoot Level 1 Description,Bloon’lara saldırmak için kurt ruhları gönderir.
 ObynGreenfoot Level 2 Description,Doğanın Gazabı - Menzildeki tüm Medyumlar +1 delme kazanır.
 ObynGreenfoot Level 3 Description,Parkur üzerinde 50 bloon patlatabilen dikenli bir tuzak oluşturur.
-ObynGreenfoot Level 4 Description,Her 18 saniyede bir totemin yakınındaki tüm bloon’ları %30 yavaşlatan bir totem oluşturur. Daha az etkili vs MOAB sınıfı Bloon’lar.
-ObynGreenfoot Level 5 Description,Yüksek saldırı hızı.
+ObynGreenfoot Level 4 Description,Her 18 saniyede bir totemin yakınındaki tüm Bloon’ları %30 yavaşlatan bir totem oluşturur. Daha az etkili vs MOAB sınıfı Bloon’lar.
+ObynGreenfoot Level 5 Description,Yüksek saldırı hızı. Orman Medyumunun menzili artar.
 ObynGreenfoot Level 6 Description,Yüksek patlatma gücü ve fırlatıcılar daha hızlı hareket eder.
 ObynGreenfoot Level 7 Description,Dikenli Bitkiler 100 Bloon patlatabilir.
 ObynGreenfoot Level 8 Description,Doğanın koruyucu totemleri Bloon’ları %40 yavaşlatır.
-ObynGreenfoot Level 9 Description,"Saldırı, ekstra katmanları patlatır."
+ObynGreenfoot Level 9 Description,"Saldırı ekstra katmanlar patlatır. Fırtına Medyumu, MOAB’lara daha fazla hasar veren daha büyük fırtınalara sahiptir."
 ObynGreenfoot Level 10 Description,Ağaç Duvarı: Giriş yapan tüm Bloon’ları yok eden bir ağaç duvarını parkura çağırır. Dolduğunda ağaçlar patlayarak paraya dönüşür.
 ObynGreenfoot Level 11 Description,"Doğanın Belirginliği - menzildeki tüm Sihirli Maymunlar +5 menzil ve +2 delme, Medyumlar ek +1 delme kazanır."
-ObynGreenfoot Level 12 Description,Yüksek saldırı hızı.
+ObynGreenfoot Level 12 Description,Saldırı hızı artırılır ve Sihirli Maymunların gecikme süreleri %5 azalır.
 ObynGreenfoot Level 13 Description,Daha yüksek patlatma gücü ve fırlatıcı hızı.
 ObynGreenfoot Level 14 Description,"Saldırı, ekstra katmanları patlatır."
 ObynGreenfoot Level 15 Description,Doğanın koruyucu totemi Bloon’ları %60 yavaşlatır ve gecikme süresini azaltır.
@@ -233,7 +233,7 @@ ObynGreenfoot Level 20 Description,Ağaç Duvarı çok daha fazla Bloon’u tuta
 Ezili Level 1 Description,"Ezili, karanlık vudu gücü ile Bloon’ları lanetler."
 Ezili Level 2 Description,Yüksek saldırı menzili.
 Ezili Level 3 Description,Yürek Hoplatan: 6 saniye boyunca herhangi bir Yeniden Şişme etkinliğini engeller.
-Ezili Level 4 Description,Ezili’nin ana saldırısı artık birden fazla bloon’u lanetler.
+Ezili Level 4 Description,Ezili’nin ana saldırısı artık birden fazla Bloon’u lanetler.
 Ezili Level 5 Description,Yüksek saldırı hızı.
 Ezili Level 6 Description,Zamanla oluşan hasar daha uzun sürer ve daha hızlı hasar verir.
 Ezili Level 7 Description,"Kurban Totemi: Kamuflajlı tespiti, ekstra delme, saldırı menzili, saldırı hızı ve yakındaki Maymunlara fırlatıcı hızı sağlayan bir totemdir."
@@ -241,10 +241,10 @@ Ezili Level 8 Description,Ezili’nin saldırısı MOAB Sınıfı Bloon’lara �
 Ezili Level 9 Description,"Ezili’nin saldırısı, MOAB olmayan Bloon’ların Kamuflaj, Yeniden Şişme ve Güçlendirilme özelliklerini kaldırır."
 Ezili Level 10 Description,"MOAB Büyüsü: MOAB Sınıfı Bloon’lara bir lanet salar, söz konusu bloon yok edilene kadar her saniyede bir hasar alır."
 Ezili Level 11 Description,Yüksek saldırı menzili. Canlandırılmış Bloon’ların delinme oranını %50 artırır.
-Ezili Level 12 Description,Yürek Hoplatanda gecikme süresini kısalır ve süre artar.
+Ezili Level 12 Description,Yürek Hoplatanda gecikme süresini kısalır ve süre artar. MOAB’lara yüksek hasar verir.
 Ezili Level 13 Description,Temel saldırıda daha geniş yarıçap ve yüksek delme.
 Ezili Level 14 Description,Zaman geçtikçe daha hızlı hasar verir.
-Ezili Level 15 Description,Artırılmış menzil.
+Ezili Level 15 Description,Artırılmış menzil. Zaman geçtikçe hasar daha uzun sürer.
 Ezili Level 16 Description,Kurban Totemi daha uzun sürer ve yalnızca 1 cana mal olur.
 Ezili Level 17 Description,Temel saldırıda daha geniş yarıçap ve yüksek delme.
 Ezili Level 18 Description,Yüksek saldırı hızı.
@@ -761,7 +761,7 @@ Re-Freeze Description,Zaten donuk olan Bloon’ları tekrar dondurabilir.
 Ice Shards Description,Donmuş Bloon’lar patlarken jilet gibi keskin parçalar fırlar.
 Arctic Wind Description,Delmeyi büyük oranda artırır ve Bloon’ları yavaşlatıp yakındaki suyu donduran bir süper soğuk aura kazanır.
 Cryo Cannon Description,Bloon’lara daha uzun menzilli dondurucu bombalar atar.
-Embrittlement Description,"Kamuflajlı Bloon’ları tespit eder ve MOAB’lar dahil, tüm Bloon vuruşları kırılganlaşır, kısa süreliğine ekstra hasar alırlar, Kamuflaj ve Yeniden Şişme özelliklerini kalıcı olarak kaybederler."
+Embrittlement Description,"MOAB Sınıfı Bloon’ları vurabilir. Vurulan tüm Bloon’lar kırılganlaşır, donukken ekstra hasar alırlar ve Kamuflajlı özelliklerini kaybederler."
 Snowstorm Description,"Kar Fırtınası Yeteneği: Ekrandaki tüm normal Bloon’ları, Beyaz, Zebra ve Kamuflajlıları dondurur ve MOAB Sınıfı Bloon’ları yavaşlatır."
 Icicles Description,Donmuş Bloon’lar onlara dokunan Bloon’ları patlatabilen keskin sarkıtlar oluşturur.
 Super Brittle Description,MOAB Sınıfı Bloon’lar dahil donmuş Bloon’lar ağır hasar alır.
@@ -784,7 +784,7 @@ The Bloon Solver Description,Bloon’lar sorun mu yaratıyor? İşte çözüm.
 Glue Storm Description,Yapışkan Fırtınası yeteneği 15 saniye boyunca ekrana yapışkan yağdırır. Yapışkanlı Bloon’lar yapışkanlıyken ekstra hasar alır.
 Super Glue Description,"Yapışkan öyle güçlüdür ki, etkilenen tüm Bloon’ları geçici olarak hareketsizleştirir!"
 ,
-Full Metal Jacket Description,Atışlar bloon’ların 4 katmanını patlatabilir mermiler ve şarapnel Kurşun ve Donmuş Bloon’ları patlatabilir.
+Full Metal Jacket Description,Atışlar Bloon’ların 4 katmanını patlatabilir mermiler ve şarapnel Kurşun ve Donmuş Bloon’ları patlatabilir.
 Night Vision Goggles Description,Nişancının Kamuflajlı bloon’ları tespit edip ek 2 hasar uygulamasını sağlar.
 Fast Firing Description,Normalden daha hızlı fırlatır.
 Large Calibre Description,Atışlar Bloon’ların 7 katmanını patlatabilir.
@@ -793,7 +793,7 @@ Even Faster Firing Description,Çok daha hızlı fırlatır!
 Deadly Precision Description,"Atış başına 20 hasar, artı seramiklere bonus hasar. Seramiği yok etmeye yeterlidir."
 Bouncing Bullet Description,3 sefere kadar yeni hedeflere sekerek fırlatır.
 Semi-Automatic Description,3 kat hızlı saldırır!
-Maim MOAB Description,Çok daha fazla hasar verir ve kısa süre için MOAB Sınıfı bloon’ları hareketsizleştirir.
+Maim MOAB Description,Çok daha fazla hasar verir ve kısa süre için MOAB Sınıfı Bloon’ları hareketsizleştirir.
 Supply Drop Description,İkmal Malzemesi Düşürme Yeteneği: nakitle dolu bir sandık düşürür. Normal saldırı Kurşun Bloon’lara da hasar verir ve Şarapnelle patlatma gücünü artırır.
 Full Auto Rifle Description,İnanılmaz patlatma gücüne sahip tam otomatik silah.
 Cripple MOAB Description,Felç olan MOAB’lar daha uzun süre hareketsizleşir ve diğer tüm saldırılardan ekstra hasar alır.
@@ -878,11 +878,11 @@ Artillery Battery Description,"Bombardıman Yeteneği: Biraz daha geniş bir ala
 Shattering Shells Description,"Ezici mermiler, en büyük bloon’lar hariç tüm özel bloon özelliklerini çıkarır."
 The Biggest One Description,Geniş bir alanda Bloon’ları ve katmanlarını derinlemesine patlatır ve güçlü Yanıcı Madde hasarı verir.
 Pop and Awe Description,"Korkut Patlat Yeteneği: Tüm ekrana patlamalar yağdırır, tüm Bloon’ları patlatır ve birkaç saniyeliğine hareketsizleştirir."
-Blooncineration Description,"Süper sıcak yakıcı malzeme, her atışta bloon’un 5 katmanını eritir, ekstra hasar için MOAB sınıfı bloon’ları yakar ve DDT kamuflajlıyı soyar. MOAB Sınıfı Bloon’ları da yakabilir."
+Blooncineration Description,"Süper sıcak yakıcı malzeme, her atışta Bloon’un 5 katmanını eritir, ekstra hasar için MOAB sınıfı bloon’ları yakar ve DDT kamuflajlıyı soyar. MOAB Sınıfı Bloon’ları da yakabilir."
 ,
 Focused Firing Description,Ok Silahının isabetini artırır.
 Advanced Targeting Description,Ok Nişancısının Kamuflajlı Bloon’ları vurmasını sağlar.
-Powerful Darts Description,Oklar daha hızlı hareket eder ve her biri 3 Bloon patlatabilir.
+Powerful Darts Description,"Oklar daha hızlı hareket eder, donmuş bloon’ları patlatabilir ve her biri 3 Bloon patlatabilir."
 Faster Swivel Description,Namlu çok daha hızlı dönebilir.
 Faster Barrel Spin Description,Silah ateşini çok daha hızlandırır.
 Depleted Bloontonium Description,Atışlar herhangi bir Bloon türüne hasar verebilir.
@@ -968,7 +968,7 @@ Heart of Thunder Description,Düzenli olarak Bloon’dan Bloon’a kavis çizen 
 Heart of Oak Description,"Saldırılar, Yeniden Şişen Bloon'ları normal Bloon’lara dönüştürür."
 Heart of Vengeance Description,Yükseltmeden sonra başlangıç değerinden itibaren %10 saldırı hızı ve kaybedilen her can için %1 saldırı hızı kazanır. %100’de maksimuma çıkar ve canlar geri yüklenirse azalır.
 Druid of the Storm Description,Kuvvetli rüzgâr Bloon’ları çıkıştan uzağa parkurun dışına uçurur.
-Druid of the Jungle Description,Bloon’ları teker teker engellemek ve çarpmak için yerden bir üzüm asması çağırır; geride ölümcül bir diken yığını bırakır.
+Druid of the Jungle Description,Bloon’ları teker teker engellemek ve çarpmak için yerden bir üzüm asması çağırır, geride ölümcül bir diken yığını bırakır.
 Druid of Wrath Description,Tur sırasında Medyum Bloon’lara saldırdığı sürece saldırı hızı artar.
 Ball Lightning Description,Ek yıldırımlar fırlatan güçlü yıldırım topları oluşturur.  
 Jungle's Bounty Description,Ormanın Hediyesi Yeteneği: Her kullanımda ve ayrıca Medyumun yanındaki her Muz Çiftliği için ekstra nakit oluşturur. Asma yapraklarıyla tek seferde iki Bloon da yakalayabilir.
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,Menzilde Karanlık Kayması için [I]
 DarkChampionDarkshift,Herhangi bir geçerli konuma Karanlık Kayması için [I]
 SmallTowersMode,Küçük Maymun Atıcılar
 BigTowersMode,Büyük Maymun Atıcılar
-UpdatePopupTitle,28’yı Güncelle!
-UpdatePopupDescription,"Büyük içerik güncellemesi!\n• İş Birliği Patron Savaşları! Maks Gözcü seviyeleri için arkadaşlarınla Patron Etkinliklerine katıl!\n• Yeni Patron Bloon - Mezar Lordu Lych!\n• Patron Lider Tabloları! Sıralamalı Modu seç ve ister tek kişi ister iş birliği halinde oynayarak lider tablolarında en iyi süreyi yakala\n• Yeni Gözcü Atıcı - Ninja Maymun Yükselmiş Gölge geldi!\n• Viking Sauda mücadeleye katıldı! Yeni Sauda dış görünümünü kap ve dilimlemeye başla!\n• Yeni Acemi Haritası, Kulübedeki ormanlarda birbirinizden ayrılmayın ya da kaybolmayın\n• 12 yeni ganimet mağazası eşyası, ayrıca 6 tamamen yeni Sınırlı Süreli Cadılar Bayramı eşyaları, hâlâ şansın varken onlardan al!\n• Denge ayarları ve düzeltmeler - birçok değişiklik, daha fazla ayrıntı için güncelleme notlarına göz at"
+UpdatePopupTitle,29’yı Güncelle!
+UpdatePopupDescription,"Mutlu Yıllar Güncellemesi!\n• En yeni Maymun Gözcü ile denizlerin hakimi ol: Donanma Kumandanı\n• Yeni orta seviye haritadaki parkurları üzerinde şu zorba Bloon’ları durdur: Sessiz Sokak\n• Yeni, muhteşem Ezili dış görünümünü kap: Galaxili!\n• İş Birliği Lobisi oluşturma, oyuna daha hızlı girmen için yenilendi\n• 6 yeni sınırlı süreli olanlar dahil, 17 yeni ganimet mağazası eşyası; onları hemen al!\n• Yeni başarılar, yaşam kalitesi değişiklikleri, denge ayarları ve düzeltmeler - pek çok harika değişiklik, daha fazla ayrıntı için güncelleme notlarına göz at\nNinja Kiwi ekibi olarak En İçten Yılbaşı Dileklerimizi sunar ve Mutlu Yıllar dileriz!"
 ResetDailyChest,Günlük Sandığı Sıfırla
 JukeboxName,Müzik Kutusu
 EnableFunction,Etkinleştir
@@ -3597,9 +3597,7 @@ btd6_4racespass Description,4 yarış için istediğin kadar yarış!
 btd6_4racespass,4 Yarış Pasosu
 btd6_12racespass Description,12 yarış için istediğin kadar yarış!
 btd6_12racespass,12 Yarış Pasosu
-AccountPermissionRestriction,Bu Xbox hesabının çok oyunculu oyunlar oynama izni yok
 GetHeroBooster,Kahraman Desteği al
-AccountCommunityPermissionRestriction,Bu Xbox hesabının topluluk içeriğini görüntüleme veya oluşturma izni yok
 IntermediateUnlockText,Bir Orta Seviye haritanın kilidini açmak için bir Acemi Haritasını ilk defa bitir
 AdvancedUnlockText,Bir Zor Seviye haritanın kilidini açmak için bir Orta Seviye Haritayı ilk defa bitir
 ExpertUnlockText,Bir Uzman Seviye haritanın kilidini açmak için bir Zor Seviye Haritayı ilk defa bitir
@@ -3673,7 +3671,7 @@ PlayerPositionClosed,Oyuncu sıralaması kapandı
 YouFinished,Bitirdin:
 BestTime,En İyi Süre:
 Claim,Al
-PlayerRejoinedGame,oyuna tekrar katıldı
+PlayerRejoinedGame, oyuna tekrar katıldı
 PlayerKickedFromGame,{0} oyundan çıkarıldı
 ConfirmKickPlayer,{0} için çıkarma işlemi yapmak istediğinden emin misin?
 Remove,Çıkar
@@ -3868,7 +3866,7 @@ BloonsAllBloonsBucketHatShortName,Balıkçı Şapkası Bloon’lar
 BloonsAllBloonsBucketHatDescription,En yeni dijital balıkçı şapkası tasarımıyla Bloon’ları modaya uygun hale getir.
 BloonsAllBloonsPopsWaterbloonName,Su Bloon’u Patlatma Efekti
 BloonsAllBloonsPopsWaterbloonShortName,Su Bloon’u Patlatma Efekti
-BloonsAllBloonsPopsWaterbloonDescription,Herhangi bir sıcaklık dalgası için mükemmeldir; her Bloon’u bu ıslatan harika patlatma efektiyle bir su Bloon’una dönüştür
+BloonsAllBloonsPopsWaterbloonDescription,Herhangi bir sıcaklık dalgası için mükemmeldir, her Bloon’u bu ıslatan harika patlatma efektiyle bir su Bloon’una dönüştür
 CoopEmoteTextNextRoundScaryName,Sonraki Tur! Korkutucu! Metin Emojisi
 CoopEmoteTextNextRoundScaryShortName,Sonraki Tur! Korkutucu!
 CoopEmoteTextNextRoundScaryDescription,İş birliği takım arkadaşlarını sonraki tur için uyar! Özellikle Cadılar Bayramı yaklaşırken kullanışlıdır.
@@ -4025,7 +4023,7 @@ HeroesChurchillSentaiSkinPetDroneShortName,Sentai Churchill Dron
 HeroesChurchillSentaiSkinPetDroneDescription,"Süper Gelişmiş İzci Gözcü Y26G, lazer hızlı tehdit değerlendirmesi yapar ve bunu iyi şekilde başarır. Ona KÜSTAH dememiz tesadüf değil. Yalnızca Sentai Churchill"
 TowerPetGlueGunnerRatName,Yapışkan Nişancı Fare Evcil Hayvan
 TowerPetGlueGunnerRatShortName,Yapışkan Nişancı Fare Evcil Hayvan
-TowerPetGlueGunnerRatDescription,Her zaman Yapışkan Nişancının çevresindedir; özellikle de laboratuvarda. Yapışkan Nişancının birçok özelliğinin ardında yatan bilimin kaynağını hiç merak ettin mi? Bizce kaynağı fare.
+TowerPetGlueGunnerRatDescription,Her zaman Yapışkan Nişancının çevresindedir, özellikle de laboratuvarda. Yapışkan Nişancının birçok özelliğinin ardında yatan bilimin kaynağını hiç merak ettin mi? Bizce kaynağı fare.
 TowerEffectAllMonkeysPlacementUpgradesBatsName,Yarasa Yerleştirmesi ve Yükseltme Efektleri
 TowerEffectAllMonkeysPlacementUpgradesBatsShortName,Yarasa Yükseltmesi FX
 TowerEffectAllMonkeysPlacementUpgradesBatsDescription,"Bir atıcı, belirli haritalarda ürkütücü şekilde müthiş olan yarasa animasyonlarıyla yükseltildiği ve yerleştirildiği her sefer Bloon’ları korkutur."
@@ -4117,4 +4115,115 @@ Elite,Elit
 HackGameStopMessage,Oyun değerleri eşitlenemiyor. Maalesef bu oyun devam edemez. Lütfen yeni bir oyun dene.
 RankedMode,Sıralamalı Mod
 Any,Herhangi
-ScoreNotVerifiable,Puanınız doğrulanamadığı için gönderilemedi.
+ScoreNotVerifiable,Skorun doğrulanamadığı için gönderilmedi.
+NoBossDataYet,Mini Patron lider tablosuna katılmak için Patronu yen!
+LeaderboardMessageMaxPlayers,En İyi 100 Oyuncu Gösteriliyor
+ConfirmQuitCoopMessage,Şimdi ayrılırsan bu oyuna tekrar katılamazsın. Emin misin?
+YouWereRemoved,Son oyununda iş birliği pozisyonun kapatıldı, tekrar katılamazsın.
+iCloudLongMessage,"iCloud etkinleştirilmişse ve kullanılabilir durumdaysa kayıtların, yedekleme ve diğer cihazlardan erişim için otomatik olarak iCloud hesabında saklanır."
+CreateNew,Yeni Oluştur
+SlotX,Yuva {0}
+EmptySlot,Boş Yuva
+Delete,Sil
+CreatedDate,Oluşturma Tarihi: {0}
+LastSavedDate,Son Kayıt Tarihi: {0}
+DeleteDescription,Bu kayıt dosyasını cihazından ve iCloud hesabından silmek istediğinden emin misin?
+SaveSlots,Kayıt Yuvaları
+LoadGame,Oyunu Yükle
+DeleteDescriptionNotConnected,Bu kayıt dosyasını yerel depolama alanından silmek istediğinden emin misin?
+icloudConflictMessage,iCloud ve cihazın üzerinde kayıtlı veriler birbirinden farklı. Lütfen saklamak için birini seç. Diğeri kalıcı olarak kullanım dışı bırakılacaktır.
+GamecenterRestricted,Çok Oyunculu Kullanım Dışı – Bu cihaz üzerinde çok oyunculu oyunlar veya içerik oynama iznin yok.
+DeviceOfflineMessage,Bu cihaz şu anda çevrimdışı. Var olan herhangi bir bulut kaydı kullanılamaz. Herhangi bir oyun ilerlemen kaydedilemeyebilir.
+GamecenterLoginPrompt,"Erişmek için lütfen Game Center hesabında oturum aç. Cihaz Ayarlarını aç, Game Center’ı bul ve oturum aç."
+GamecenterRestrictedTitle,Çok Oyunculu Erişimi Kısıtlanmış
+GamecenterLoginTitle,Game Center hesabında oturum aç
+QuietStreet,Sessiz Sokak
+GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinDescription,"Olduğumuz her şey, gördüğümüz her şey uzay tozundan yapılmıştır."
+MonkeyBuccaneer Paragon,Donanma Kumandanı
+MonkeyBuccaneer Paragon Description,Deniz yüzdürmek için gelmiş geçmiş en harika şey.
+HeroesPsiPetBisonName,Psi Bizon Evcil Hayvan
+HeroesPsiPetBisonShortName,Psi Bizon Evcil Hayvan
+HeroesPsiPetBisonDescription,Psi’nin çok ama çok sevimli bulduğu çift toynaklı türün emsal niteliğindeki numunesi. Yalnızca Orijinal Psi ;)
+TowerPropMonkeyVillageAustralianFlagName,Maymun Köyü Avustralya Bayrağı
+TowerPropMonkeyVillageAustralianFlagShortName,Avustralya Köyü Bayrağı
+TowerPropMonkeyVillageAustralianFlagDescription,"Avustralyalı, Avustralyalı, Avustralyalı, Selam, Selam, Selam! Bu Maymun Köyü bayrağı tüm yükseltmeleri gösterir"
+TowerProjectileMortarSnowName,Havancı Maymun Kar Fırlatıcısı
+TowerProjectileMortarSnowShortName,Havancı Kar Fırlatıcısı
+TowerProjectileMortarSnowDescription,Bu muhteşem karlı Havancı Maymun Fırlatıcısı ile tüm kartopu savaşlarını kazan. Sınırlı Süreli Koleksiyoncu Eşyası!
+TowerPetIceMonkeySnowmanName,Buz Maymunu Kardan Adam Evcil Hayvanı
+TowerPetIceMonkeySnowmanShortName,Buz Maymunu Kar Evcil Hayvanı
+TowerPetIceMonkeySnowmanDescription,Buz Maymunu Bloon’ları patlatmıyorken ne yapar? Tabii ki muhteşem kar evcil hayvanları oluşturur! Sınırlı Süreli Koleksiyoncu Eşyası!
+BloonsDDTSkinSleighName,Kıyamet Kızağı DDT
+BloonsDDTSkinSleighShortName,Kıyamet Kızağı DDT
+BloonsDDTSkinSleighDescription,Haşmetli Kıyamet Kızağı ile bu Yılbaşı hediyeleri tarz şekilde dağıt! Sınırlı Süreli Koleksiyoncu Eşyası!
+BloonsAllBloonsElfHatName,Elf Şapkalı Bloon’lar
+BloonsAllBloonsElfHatShortName,Elf Şapkalı Bloon’lar
+BloonsAllBloonsElfHatDescription,Mini minnacık elf şapkasını takınca her şey daha şirin! Sınırlı Süreli Koleksiyoncu Eşyası!
+CoopEmoteAnimationBenCoolName,Harika Ben Emojisi
+CoopEmoteAnimationBenCoolShortName,Harika Ben
+CoopEmoteAnimationBenCoolDescription,"Ben gibi ol ve harika kal, harika yaşa"
+CoopEmoteAnimationBikerBonesRageName,Biker Bones Hışmı Emojisi
+CoopEmoteAnimationBikerBonesRageShortName,Biker Bones Hışmı
+CoopEmoteAnimationBikerBonesRageDescription,Tapınağını inşa etmek için gerçekten tüm atıcılarımı feda mı ettin? Biker Bones HIŞŞŞMII!
+GameUIProfileAvatar52Name,Özel Avatar - Bumerang
+GameUIProfileAvatar52ShortName,Bumerang Avatarı
+GameUIProfileAvatar52Description,Solak Bumerang en becerikli Bumerangtır!
+GameUIProfileAvatar53Name,Özel Avatar - Korsan Yüzbaşı
+GameUIProfileAvatar53ShortName,Korsan Yüzbaşı Avatarı
+GameUIProfileAvatar53Description,"Hırr! Alabileceğin en iyi avatar ganimetleriyle diğer fırlama oyuncuları etkilemek istiyorsun, değil mi?"
+GameUIProfileAvatar54Name,Özel Avatar - Geometrik Quincy
+GameUIProfileAvatar54ShortName,Geometrik Quincy Avatarı
+GameUIProfileAvatar54Description,"Ben Alfa ve Omegayım. Ben Quincy, daima hazırım"
+GameUIProfileAvatar55Name,Özel Avatar - Yıldız Sınıfı Adora
+GameUIProfileAvatar55ShortName,Yıldız Adora Avatarı
+GameUIProfileAvatar55Description,"Ağaca son dokunuşlarda bulunması için başka kime güvenirdin? Pekâlâ, Adora ağacın yanına başka kimsenin yaklaşmasına izin vermez! Sınırlı Süreli Koleksiyoncu Eşyası!"
+GameUIProfileBanner8Name,Uzaya Sıçrayış Profil Afişi
+GameUIProfileBanner8ShortName,Uzaya Sıçrayış Afişi
+GameUIProfileBanner8Description,"Galaksyz, Afiş galibi"
+GameUIProfileBanner9Name,Yüzünü Güneşe Dön Profil Afişi
+GameUIProfileBanner9ShortName,Yüzünü Güneşe Dön Afişi
+GameUIProfileBanner9Description,"Bohrokki, Afiş galibi"
+GameUIPowerSkinEnergisingTotemChristmasTreeName,Özel Güç - Yılbaşı Ağacı Enerji Verici Totemi
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,Enerjiyle Dolu Yılbaşı Ağacı
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,Bu rengârenk Yılbaşı Ağacı ile maymunlarını enerji dolu kıl! Sınırlı Süreli Koleksiyoncu Eşyası!
+GameUIPowerSkinDartTimeMatrixName,Özel Güç - Ok Zaman Durdurma
+GameUIPowerSkinDartTimeMatrixShortName,Ok Zaman Durdurma
+GameUIPowerSkinDartTimeMatrixDescription,"Bu bir hata değil, bunu daha önce görmedin ama hoşuna gidecek; söz veriyoruz"
+GameUIMusicTrackMusicWinterChilledMixName,Müzik Kutusu: Winter Nights - Sakin Remiks
+GameUIMusicTrackMusicWinterChilledMixShortName,Winter Nights Sakin
+GameUIMusicTrackMusicWinterChilledMixDescription,"Bu harika yeni remiksle rahatla, oyna ve kış yıldızlarını hayal et"
+Achievement 134 Name,Davids karşısında Goliath
+Achievement 134 Description,Bir Kahraman kullanmadan bir patron savaşını kazan
+Achievement 135 Name,Çok Espriliiii Ninja Kiwi
+Achievement 135 Description,Yalnızca kara atıcılarıyla Bloon Turlarını Değiştir üzerindeki Baharat Adalarını kazan
+Achievement 136 Name,Hasat Yok
+Achievement 136 Description,Hiçbir mısırı kaldırmadan CHIMP üzerindeki Mısır Tarlasını kazan
+Achievement 137 Name,Öğrenci Kredileri
+Achievement 137 Description,4 x 10^5 (400.000 dolar borca gir)
+Achievement 138 Name,Kritik Bilgiler Eksik Değil
+Achievement 138 Description,25.000 Kritik vuruş kazan
+GameRestartedTitle,Oyun Yeniden Başlatıldı
+GameContinuedTitle,Oyun Devam Ettirildi
+GameRestartedDescription,Oyun başka bir oyuncu tarafından yeniden başlatıldı.
+GameContinuedDescription,Oyun başka bir oyuncu tarafından devam ettirildi.
+EditorAbilityCooldown,Yetenek Gecikme Süresi Oranı
+EditorRemovableCost,Taşınabilir Maliyeti Oranı
+AbilityCooldownIncreased,Yetenek Gecikme Süresi Oranı Artırıldı
+AbilityCooldownDecreased,Yetenek Gecikme Süresi Oranı Azaltıldı
+RemovableCostIncreased,Taşınabilir Maliyeti Artırıldı
+RemovableCostDecreased,Taşınabilir Maliyeti Azaltıldı
+Disabled,Devre Dışı
+ViewStats,İstatistikleri Göster
+CloseSlot,Yuvayı Kapat
+OpenSlot,Yuvayı Aç
+CalloutBossCrusher,Patron Parçalayıcı
+CalloutBossCrusherDesc,Patrona {0} Hasar
+CalloutWellRounded,Çok Yönlü
+CalloutWellRoundedDesc,4 atıcı türünün her birinden {0} adet
+CalloutEndlessPower,Sınırsız Güç!
+CalloutEndlessPowerDesc,{0}. Derece Gözcü oluşturuldu
+AnyGame,Herhangi Oyun
+AnyMap,Herhangi bir Harita
+AnyDifficulty,Herhangi Bir Zorluk
+AnyMode,Herhangi bir Mod

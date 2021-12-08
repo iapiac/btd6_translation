@@ -152,7 +152,7 @@ Gwendolin Level 3 Description,火焰雞尾酒：投擲一瓶易燃液體，燒�
 Gwendolin Level 4 Description,燒起來 - 每隔幾秒鐘就會產生強大的火力衝擊波，可擊破氣球並給周圍的 Monkeysâ€™攻擊增加火攻。
 Gwendolin Level 5 Description,增加擊破力。
 Gwendolin Level 6 Description,攻擊對目標氣球有燃燒效果。
-Gwendolin Level 7 Description,燒起來有更大的半徑。
+Gwendolin Level 7 Description,燒起來攻擊範圍增大，火焰鷄尾酒傷害增加。
 Gwendolin Level 8 Description,每次射擊射出2顆燃燒彈。
 Gwendolin Level 9 Description,每彈初始打擊額外擊破1層。
 Gwendolin Level 10 Description,烈焰暴：整個螢幕被點燃，燒掉所有氣球，並為所有猴子提供燒起來增益。
@@ -213,14 +213,14 @@ ObynGreenfoot Level 1 Description,派遣狼魂攻擊氣球。
 ObynGreenfoot Level 2 Description,自然之怒 – 範圍內的所有督伊德獲得穿刺+1。
 ObynGreenfoot Level 3 Description,在路徑上生成尖刺灌木，可擊破50個氣球。
 ObynGreenfoot Level 4 Description,每隔18秒生成一個圖騰，使附近氣球的移動速度減慢30%。對MOAB級氣球的減速效果降低。
-ObynGreenfoot Level 5 Description,攻速提升。
+ObynGreenfoot Level 5 Description,攻擊速度加快。叢林督伊德作用範圍增大。
 ObynGreenfoot Level 6 Description,擊破力增加，射彈飛行速度加快。
 ObynGreenfoot Level 7 Description,荊棘可擊破100個氣球。
 ObynGreenfoot Level 8 Description,自然守護圖騰減慢氣球40%。
-ObynGreenfoot Level 9 Description,攻擊可額外擊破一層氣球。
+ObynGreenfoot Level 9 Description,攻擊可擊破多層氣球。風暴督伊德可釋放更大的風暴，對MOAB級氣球造成更高傷害。
 ObynGreenfoot Level 10 Description,樹牆：在路徑上樹牆，可摧毀進入的所有氣球。滿了之後樹即爆成錢。
 ObynGreenfoot Level 11 Description,自然明澈 – 範圍內的所有魔法猴子獲得攻擊範圍+5和穿刺+2，督伊德額外獲得穿刺+1。
-ObynGreenfoot Level 12 Description,攻速提升。
+ObynGreenfoot Level 12 Description,攻擊速度加快，魔法猴子的冷卻時間縮短5%。
 ObynGreenfoot Level 13 Description,進一步增加擊破力和加快射彈速度。
 ObynGreenfoot Level 14 Description,攻擊可額外擊破一層氣球。
 ObynGreenfoot Level 15 Description,自然守護減慢氣球60%，且冷卻時間減少。
@@ -241,10 +241,10 @@ Ezili Level 8 Description,Ezili的攻擊對MOAB級氣球產生更多傷害。
 Ezili Level 9 Description,Ezili 的攻擊去除了非 MOAB 級氣球的偽裝、重生與強化屬性。
 Ezili Level 10 Description,MOAB詛咒：對MOAB級氣球實施詛咒，在被摧毀之前每秒都造成傷害。
 Ezili Level 11 Description,攻擊範圍增加。對復活氣球的穿透增加50%。
-Ezili Level 12 Description,心跳終止減少冷卻時間，增加時長。
+Ezili Level 12 Description,心跳終止冷卻時間縮短，持續時間增加。對MOAB級氣球造成的傷害增加。
 Ezili Level 13 Description,基本攻擊獲得更大的飛濺半徑和穿透力。
 Ezili Level 14 Description,持續傷害的速度更快。
-Ezili Level 15 Description,攻擊範圍增大。
+Ezili Level 15 Description,攻擊範圍增大。周期性傷害持續時間更長。
 Ezili Level 16 Description,祭祀圖騰持續時間更長，且使用時只花費1個性命。
 Ezili Level 17 Description,基本攻擊獲得更大的飛濺半徑和穿透力。
 Ezili Level 18 Description,攻速提升。
@@ -761,7 +761,7 @@ Re-Freeze Description,可對已經凍結的氣球再次凍結。
 Ice Shards Description,凍結氣球爆掉時飛出剃刀尖銳碎片。
 Arctic Wind Description,大幅增加穿透力，並獲得超冷光環，可使靠近的氣球減速和凍結附近的水面。
 Cryo Cannon Description,向氣球遠程射出凍結炸彈。
-Embrittlement Description,檢測偽裝氣球，所有被擊中的氣球會變得脆弱，包括MOAB級氣球，短時間內受到額外傷害，並永久失去偽裝和重生特性。
+Embrittlement Description,可擊中MOAB級氣球，所有被擊中的氣球會變得脆弱，被凍結時受到額外傷害，並永久失去偽裝特性。
 Snowstorm Description,暴風雪技能：凍結螢幕上包括白色氣球、斑馬條紋氣球、偽裝氣球在內的所有普通氣球，並使MOAB級氣球減速。
 Icicles Description,被凍結的氣球長出尖銳冰柱，可擊破接觸到的氣球。
 Super Brittle Description,氣球被凍結後會受到巨大傷害，對MOAB級氣球有效。
@@ -882,7 +882,7 @@ Blooncineration Description,每次射擊超熱刺釘可以熔化5層氣球，點
 ,
 Focused Firing Description,提高了飛鏢槍的精度。
 Advanced Targeting Description,使飛鏢槍手能夠命中偽裝氣球。
-Powerful Darts Description,飛鏢移動速度加快，每支可以擊破3個氣球。
+Powerful Darts Description,飛鏢移動速度更快，可擊破凍結的地球，每隻飛鏢可擊破3個氣球。
 Faster Swivel Description,槍管旋轉得更快。
 Faster Barrel Spin Description,使槍射擊更快。
 Depleted Bloontonium Description,射擊會損壞任何氣球類型。
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I]黑暗轉移至範圍內
 DarkChampionDarkshift,[I]黑暗轉移至任何有效位置
 SmallTowersMode,小猴子塔
 BigTowersMode,大猴子塔
-UpdatePopupTitle,更新 28！
-UpdatePopupDescription,海量内容更新！\n• 組隊頭目戰鬥！與好友一起參加頭目活動，升至最高典範等級！\n• 新的頭目氣球 - 墓穴領主巫妖！\n• 頭目排行榜！選擇排名模式，以單人或組隊方式在排行榜上留下最好成績\n• 新的典範猴子塔 - 忍者猴晉升暗影已登場！\n• 海盜Sauda加入戰鬥！獲取新的Sauda皮膚，將敵人大卸八塊！\n• 當心新加入的新手地圖 - 小木屋，別在樹林裏走散或迷路了\n• 新增12件獎杯商店物品和6件全新萬聖節限時物品 - 機會難得，抓緊時間獲取它們！\n• 大量平衡性修改和問題修復，詳細信息，請查看更新説明
+UpdatePopupTitle,更新 29！
+UpdatePopupDescription,快樂假日更新！\n• 藉助最新猴子典範統領所有水域：海盜艦隊司令\n• 在新的中級地圖：寧靜街道，阻止那些惹是生非的氣球繼續搗亂\n• 獲取Ezili很棒的新皮膚：星光熠熠！\n• 改進了組隊游戲大廳創建，讓您更快地進入游戲\n• 17種新的獎杯商店物品，包括6種限時出售物品，抓緊時間購買吧！\n• 新的成就，生活品質和平衡性更改和Bug修復 - 大量非常棒的修改，詳細資訊，請查看更新説明\n最誠摯的節日祝福，祝所有Ninja Kiwi的游戲玩家新年快樂！
 ResetDailyChest,重設每日寶箱
 JukeboxName,自動唱機
 EnableFunction,啟用
@@ -3597,9 +3597,7 @@ btd6_4racespass Description,你最多可進行4場競速！
 btd6_4racespass,4张競速通行證
 btd6_12racespass Description,你最多可進行12場競速！
 btd6_12racespass,12张競速通行證
-AccountPermissionRestriction,Xbox 帳戶沒有玩多人游戲的權限
 GetHeroBooster,獲取英雄推動器
-AccountCommunityPermissionRestriction,Xbox 帳戶沒有檢視或建立社群内容的權限
 IntermediateUnlockText,首次通關初學者地圖即可解除鎖定中級地圖
 AdvancedUnlockText,首次通關中級地圖即可解除鎖定高級地圖
 ExpertUnlockText,首次通關高級地圖即可解除鎖定專家地圖
@@ -4094,7 +4092,7 @@ RankedNormal,排名普通
 RankedElite,排名精英
 StartRankedBoss,開始排名頭目
 MusicHaunted,鬼屋
-GameUIMusicTrackMusicHauntedName,自動點唱機：鬼屋
+GameUIMusicTrackMusicHauntedName,點唱機：鬼屋
 GameUIMusicTrackMusicHauntedShortName,自動點唱機：鬼屋
 GameUIMusicTrackMusicHauntedDescription,具有鬼魅一般的節拍和律動，是萬聖節或深夜游戲不可或缺的歌曲。限時收藏家物品！
 NSCameraUsageDescription,支援票證螢幕擷取畫面
@@ -4117,4 +4115,115 @@ Elite,精英
 HackGameStopMessage,無法重新同步游戲數值。很遺憾，此游戲無法繼續進行。請嘗試開始新的游戲。
 RankedMode,排名模式
 Any,任何
-ScoreNotVerifiable,您的分數未提交，因為無法驗證。
+ScoreNotVerifiable,無法驗證您的得分，因此未提交。
+NoBossDataYet,打敗頭目，加入迷你頭目排行榜！
+LeaderboardMessageMaxPlayers,顯示排名前100的玩家
+ConfirmQuitCoopMessage,如果現在離開，您將無法重新加入此游戲？您確定要離開嗎？
+YouWereRemoved,您上一次游戲時關閉了組隊位置，無法重新加入。
+iCloudLongMessage,如果啟用了iCloud，并且iCloud可用，您的存檔資料將自動儲存在您的iCloud帳戶中，以便在其他設備上備份和存取。
+CreateNew,新建
+SlotX,存檔欄{0}
+EmptySlot,空的存檔欄
+Delete,刪除
+CreatedDate,創建於：{0}
+LastSavedDate,上次存檔時間：{0}
+DeleteDescription,您確定要將此文件從您的設備和iCloud帳戶中刪除嗎？
+SaveSlots,存檔欄
+LoadGame,載入游戲
+DeleteDescriptionNotConnected,您確定要將此文件從您的本地儲存空間中刪除嗎？
+icloudConflictMessage,iCloud上的儲存資料和您設備上的不一致。請選擇要保留的一個。另一個將被永久捨棄。
+GamecenterRestricted,多人游戲無法使用 - 您未獲准在此設備上玩多人游戲或内容。
+DeviceOfflineMessage,此設備目前為離綫狀態。無法使用任何現有的雲端儲存資料。無法儲存任何游戲進度。
+GamecenterLoginPrompt,請登入游戲中心進行存取。打開「設備」設定，找到「游戲中心」，然後登入。
+GamecenterRestrictedTitle,多人游戲存取受限
+GamecenterLoginTitle,登入游戲中心
+QuietStreet,寧靜街道
+GalaxiliEziliSkinName,星光熠熠
+GalaxiliEziliSkinDescription,萬物皆有太空塵埃所造
+MonkeyBuccaneer Paragon,海盜艦隊司令
+MonkeyBuccaneer Paragon Description,水面上最偉大的主宰。
+HeroesPsiPetBisonName,靈能術士野牛寵物
+HeroesPsiPetBisonShortName,靈能術士野牛寵物
+HeroesPsiPetBisonDescription,偶蹄目動物的典範，靈能術士正好發現它非常可愛。僅限初始靈能術士。
+TowerPropMonkeyVillageAustralianFlagName,猴村澳大利亞國旗
+TowerPropMonkeyVillageAustralianFlagShortName,猴村澳大利亞國旗
+TowerPropMonkeyVillageAustralianFlagDescription,澳大利亞人，澳大利亞人，澳大利亞人，嗨，嗨，嗨！這面猴村旗子表明全部升級
+TowerProjectileMortarSnowName,迫擊砲猴雪彈
+TowerProjectileMortarSnowShortName,迫擊砲猴雪彈
+TowerProjectileMortarSnowDescription,使用這種迫擊砲猴雪彈贏得每一場打雪仗的勝利。限時收藏家物品！
+TowerPetIceMonkeySnowmanName,冰猴雪人寵物
+TowerPetIceMonkeySnowmanShortName,冰猴雪人寵物
+TowerPetIceMonkeySnowmanDescription,冰猴不擊破氣球的時候做什麽呢？當然是造棒極了的雪人寵物！限時收藏家物品！
+BloonsDDTSkinSleighName,毀滅雪橇DDT
+BloonsDDTSkinSleighShortName,毀滅雪橇DDT
+BloonsDDTSkinSleighDescription,這個耶誕節用令人畏懼的毀滅雪橇運送禮物！限時收藏家物品！
+BloonsAllBloonsElfHatName,精靈帽氣球
+BloonsAllBloonsElfHatShortName,精靈帽氣球
+BloonsAllBloonsElfHatDescription,戴上小小的精靈帽，一切都變得更可愛了！限時收藏家物品！
+CoopEmoteAnimationBenCoolName,酷Ben表情
+CoopEmoteAnimationBenCoolShortName,酷Ben
+CoopEmoteAnimationBenCoolDescription,像Ben一樣，保持冷靜，活得瀟灑
+CoopEmoteAnimationBikerBonesRageName,骷髏騎手憤怒表情
+CoopEmoteAnimationBikerBonesRageShortName,骷髏騎手憤怒
+CoopEmoteAnimationBikerBonesRageDescription,你真犧牲了我所有的防禦塔來建造你的神廟？骷髏騎手憤怒了！
+GameUIProfileAvatar52Name,自訂化身- 迴旋鏢
+GameUIProfileAvatar52ShortName,迴旋鏢化身
+GameUIProfileAvatar52Description,左手用迴旋鏢是最好的迴旋鏢！
+GameUIProfileAvatar53Name,自訂化身 - 海盜船長
+GameUIProfileAvatar53ShortName,海盜船長化身
+GameUIProfileAvatar53Description,是的！你想要用獎杯可以買到的最好化身來讓其他惡棍玩家銘記在心，對嗎？
+GameUIProfileAvatar54Name,自訂化身 - 幾何Quincy
+GameUIProfileAvatar54ShortName,幾何Quincy化身
+GameUIProfileAvatar54Description,我是阿爾法，我是奧米伽。我是正方形的Quincy
+GameUIProfileAvatar55Name,自訂化身 - 星星禮帽Adora
+GameUIProfileAvatar55ShortName,星星禮帽Adora化身
+GameUIProfileAvatar55Description,你還可以委托誰來為耶誕樹加上最後的點睛之筆？好了，Adora，不要讓其他任何人靠近它！限時收藏家物品！
+GameUIProfileBanner8Name,躍入太空個人檔案橫幅
+GameUIProfileBanner8ShortName,躍入太空橫幅
+GameUIProfileBanner8Description,橫幅獲勝者Galaksyz
+GameUIProfileBanner9Name,面朝太陽個人檔案橫幅
+GameUIProfileBanner9ShortName,面朝太陽
+GameUIProfileBanner9Description,橫幅獲勝者Bohrokki
+GameUIPowerSkinEnergisingTotemChristmasTreeName,自訂力量 - 耶誕樹活力圖騰
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,活力滿滿耶誕樹
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,用這顆五彩繽紛的耶誕樹讓您的猴子保持活力滿滿！限時收藏家物品！
+GameUIPowerSkinDartTimeMatrixName,自訂力量 - 飛鏢時間停止
+GameUIPowerSkinDartTimeMatrixShortName,飛鏢時間停止
+GameUIPowerSkinDartTimeMatrixDescription,這可不是什麽小故障，雖然你此前沒見過，但我們保證你會喜歡上它。
+GameUIMusicTrackMusicWinterChilledMixName,點唱機：冬夜 - 放鬆混音版
+GameUIMusicTrackMusicWinterChilledMixShortName,冬夜 - 放鬆混音版
+GameUIMusicTrackMusicWinterChilledMixDescription,在這首新的混音版曲目的陪伴下，放鬆、游戲和沉思
+Achievement 134 Name,大衛對葛利亞
+Achievement 134 Description,不使用英雄贏得一場頭目戰鬥勝利
+Achievement 135 Name,香料味十足的Ninja Kiwi
+Achievement 135 Description,在備用氣球回合，在只部署地面防禦塔的情況下通關香料群島
+Achievement 136 Name,沒有收穫
+Achievement 136 Description,在CHIMP模式，在不移除任何玉米的情況下通關玉米地。
+Achievement 137 Name,學生貸款
+Achievement 137 Description,"4 x 10^5（欠債$400,000）"
+Achievement 138 Name,不缺致命一擊資訊
+Achievement 138 Description,達成25000次致命一擊
+GameRestartedTitle,游戲已重新開始
+GameContinuedTitle,游戲已繼續
+GameRestartedDescription,另一個玩家已重新開始游戲。
+GameContinuedDescription,另一個玩家已繼續游戲。
+EditorAbilityCooldown,技能冷卻速度
+EditorRemovableCost,移除花費比率
+AbilityCooldownIncreased,技能冷卻速度加快
+AbilityCooldownDecreased,技能冷卻速度減慢
+RemovableCostIncreased,移除花費增加
+RemovableCostDecreased,移除花費減少
+Disabled,已停用
+ViewStats,查看統計數據
+CloseSlot,關閉欄位
+OpenSlot,打開欄位
+CalloutBossCrusher,頭目粉碎者
+CalloutBossCrusherDesc,對頭目造成{0}傷害
+CalloutWellRounded,面面俱到
+CalloutWellRoundedDesc,4種防禦塔，每種有{0} 座
+CalloutEndlessPower,無窮力量！
+CalloutEndlessPowerDesc,建立了{0}等級的典範
+AnyGame,任何遊戲
+AnyMap,任何地圖
+AnyDifficulty,任何困難
+AnyMode,任何模式

@@ -152,7 +152,7 @@ Gwendolin Level 3 Description,Cóctel de fuego: lanza un frasco de líquido infl
 Gwendolin Level 4 Description,"Caliéntalo: cada varios segundos, crea una onda de fuego poderosa que revienta los bloons y le agrega fuego a los ataques de los monos cercanos."
 Gwendolin Level 5 Description,Potencia reventadora aumentada.
 Gwendolin Level 6 Description,Los ataques causan un efecto de quemadura en el bloon objetivo.
-Gwendolin Level 7 Description,Caliéntalo tiene un radio aumentado.
+Gwendolin Level 7 Description,Caliéntalo tiene un radio aumentado y Cóctel de fuego es más eficaz.
 Gwendolin Level 8 Description,Lanza 2 estallidos de fuego por disparo.
 Gwendolin Level 9 Description,El impacto inicial de cada onda revienta 1 capa extra.
 Gwendolin Level 10 Description,"Tormenta de Fuego: Le da lumbre a toda la pantalla, quemando a todos los Bloons y otorgando la potenciación Caliéntalo a todos los Monos."
@@ -213,14 +213,14 @@ ObynGreenfoot Level 1 Description,Envía espíritus lupinos que atacan a los blo
 ObynGreenfoot Level 2 Description,La Furia de la Naturaleza: Todos los Druidas a su alcance reciben +1 de perforación.
 ObynGreenfoot Level 3 Description,Crea un arbusto espinoso en el camino capaz de reventar 50 Bloons.
 ObynGreenfoot Level 4 Description,"Cada 18 segundos, crea un tótem que lentifica un 30 % a los bloons cercanos. Efecto reducido contra los MOAB."
-ObynGreenfoot Level 5 Description,Velocidad de ataque aumentada.
+ObynGreenfoot Level 5 Description,Velocidad de ataque aumentada. Los druidas de la selva tienen mayor alcance.
 ObynGreenfoot Level 6 Description,Poder reventador aumentado y los proyectiles se mueven más rápido.
 ObynGreenfoot Level 7 Description,Los Zarzales pueden reventar 80 Bloons.
 ObynGreenfoot Level 8 Description,Los tótems de Centinela de la naturaleza hacen que los bloons sean un 40 % más lentos.
-ObynGreenfoot Level 9 Description,Los ataques revientan capas extra.
+ObynGreenfoot Level 9 Description,Los ataques revientan capas extra. Los druidas de la tormenta causan tormentas mayores que dañan más a los MOAB.
 ObynGreenfoot Level 10 Description,"Pared de árboles: invoca una pared de árboles que atraviesa el camino y destruye a todos los bloons que entran. Cuando se llena, los árboles estallan y arrojan dinero."
 ObynGreenfoot Level 11 Description,"La Claridad de la Naturaleza: Todos los Monos Mágicos a su alcance reciben +5 de alcance y +2 de perforación, y los Druidas reciben +1 de perforación adicional."
-ObynGreenfoot Level 12 Description,Velocidad de ataque aumentada.
+ObynGreenfoot Level 12 Description,Velocidad de ataque aumentada y recuperación de monos mágicos reducida en 5 %.
 ObynGreenfoot Level 13 Description,Poder reventador y velocidad de proyectiles aumentados aún más.
 ObynGreenfoot Level 14 Description,Los ataques revientan capas extra.
 ObynGreenfoot Level 15 Description,Centinela de la naturaleza hace que los bloons se muevan un 60 % más lento y tiene un tiempo de recuperación reducido.
@@ -241,10 +241,10 @@ Ezili Level 8 Description,El ataque de Ezili hace mucho más daño a los bloons 
 Ezili Level 9 Description,"El ataque de Ezili les quita las propiedades de camuflaje, regeneración y fortificación a los bloons que no son de clase MOAB."
 Ezili Level 10 Description,"Maleficio de MOAB: maldice a un bloon clase MOAB, que recibe daño por segundo hasta quedar eliminado."
 Ezili Level 11 Description,Alcance de ataque aumentado. Aumenta la perforación de bloons reanimados en 50 %.
-Ezili Level 12 Description,Reduce el tiempo de recuperación de Infartador y aumenta la duración.
+Ezili Level 12 Description,Reduce el tiempo de recuperación de Infartador y aumenta la duración. Causa más daño a los MOAB.
 Ezili Level 13 Description,El ataque básico tiene un daño de proximidad de radio mayor y una perforación aumentada.
 Ezili Level 14 Description,Daño por tiempo más rápido.
-Ezili Level 15 Description,Alcance aumentado.
+Ezili Level 15 Description,Alcance aumentado. El daño por tiempo dura más.
 Ezili Level 16 Description,Tótem sacrificial dura más y solo gasta 1 vida.
 Ezili Level 17 Description,El ataque básico tiene un daño de proximidad de radio mayor y una perforación aumentada.
 Ezili Level 18 Description,Velocidad de ataque aumentada.
@@ -761,7 +761,7 @@ Re-Freeze Description,Puede volver a congelar bloons que ya están congelados.
 Ice Shards Description,"Cuando los bloons congelados revientan, despiden esquirlas afiladísimas."
 Arctic Wind Description,Aumenta mucho la perforación y gana un aura superfría que desacelera a los bloons y derrite el agua cercana.
 Cryo Cannon Description,Dispara bombas congelantes a los bloons con un alcance mayor.
-Embrittlement Description,"Detecta camufloons y todos los bloons golpeados (incluidos los MOAB) se vuelven frágiles, reciben daño extra durante un tiempo corto y pierden el camuflaje y el recrecimiento de forma permanente."
+Embrittlement Description,"Ataca a los bloons clase MOAB y todos los bloons golpeados se vuelven frágiles, reciben daño extra cuando están congelados y pierden el camuflaje."
 Snowstorm Description,"Habilidad Tormenta de nieve: congela a todos los bloons en pantalla, congela durante un tiempo corto a los blancos, cebras y camufloons y desacelera a los clase MOAB."
 Icicles Description,A los bloons congelados les salen estalactitas que revientan a los bloons que los tocan.
 Super Brittle Description,"Los bloons reciben un daño enorme mientras están congelados, incluidos los clase MOAB."
@@ -882,7 +882,7 @@ Blooncineration Description,"La sustancia superardiente derrite 5 capas de bloon
 ,
 Focused Firing Description,Aumenta la precisión de la pistola dardera.
 Advanced Targeting Description,Permite que el pistolero movedizo alcance a los bloons camuflados.
-Powerful Darts Description,Los dardos se mueven más rápido y cada uno puede reventar 3 bloons.
+Powerful Darts Description,"Los dardos se mueven más rápido, cada uno puede reventar 3 bloons y revientan congelados."
 Faster Swivel Description,El cañón pivotea mucho más rápido.
 Faster Barrel Spin Description,Hace que el arma dispare mucho más rápido.
 Depleted Bloontonium Description,Los disparos pueden dañar a cualquier tipo de bloon.
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] para usar Desvío oscuro dentro del alcance
 DarkChampionDarkshift,[I] para usar Desvío oscuro a cualquier ubicación válida
 SmallTowersMode,Torres moneriles pequeñas
 BigTowersMode,Torres moneriles grandes
-UpdatePopupTitle,¡Actualización 28!
-UpdatePopupDescription,"¡Actualización de contenido enorme!\n• Batallas de jefe cooperativas. Enfréntate a eventos de jefe con tus amigos para alcanzar niveles máximos de modelo.\n• Nuevo bloon jefe: liche tumulario.\n• Marcadores de jefe. Elige el modo clasificado y obtén el mejor tiempo en los marcadores de forma individual o cooperativa.\n• Torre modelo nueva: llegó la sombra ascendida del mono ninja.\n• Sauda vikinga se une a la pelea. Obtén el aspecto nuevo para cortar al enemigo.\n• No te alejes ni te pierdas en el bosque en el mapa nuevo para principiantes: La cabina.\n• 12 objetos nuevos en la tienda de trofeos y 6 objetos nuevos de Halloween de tiempo limitado. Consíguelos mientras puedas.\n• Equilibrio y errores reparados. Hay muchos cambios, consulta las notas para conocer más detalles."
+UpdatePopupTitle,¡Actualización 29!
+UpdatePopupDescription,"¡Actualización de felices fiestas!\n• Gobierna los mares con el mono modelo más reciente: navarca de los mares.\n• Frena por completo a los bloons revoltosos con este mapa intermedio nuevo: calle silenciosa.\n• Obtén el aspecto nuevo increíble de Ezili, Galaxili.\n• Creación de antesala cooperativa renovada para que entres al juego más rápido.\n• 17 objetos nuevos en la tienda de trofeos, entre ellos 6 por tiempo limitado. ¡Consíguelos rápido!\n• Logros nuevos, cambios vitales, equilibrio y errores reparados. Hay muchas modificaciones, consulta las notas de la actualización para saber los detalles.\nEl equipo de Ninja Kiwi te desea lo mejor para las fiestas y feliz año nuevo."
 ResetDailyChest,Restablecer cofre diario
 JukeboxName,Rocola
 EnableFunction,Habilitar
@@ -3597,9 +3597,7 @@ btd6_4racespass Description,Corre todo lo que quieras en 4 carreras.
 btd6_4racespass,4 pases de carrera
 btd6_12racespass Description,Corre todo lo que quieras en 12 carreras.
 btd6_12racespass,12 pases de carrera
-AccountPermissionRestriction,Esta cuenta de Xbox no tiene permiso para partidas multijugador.
 GetHeroBooster,Obtener potenciador de héroe
-AccountCommunityPermissionRestriction,Esta cuenta de Xbox no tiene permiso para ver o crear contenido comunitario.
 IntermediateUnlockText,Supera un mapa de principiante por primera vez para desbloquear un mapa de intermedio
 AdvancedUnlockText,Supera un mapa de intermedio por primera vez para desbloquear un mapa de avanzado
 ExpertUnlockText,Supera un mapa de avanzado por primera vez para desbloquear un mapa de experto
@@ -4117,4 +4115,115 @@ Elite,Élite
 HackGameStopMessage,"No se pueden resincronizar los valores del juego. Por desgracia, no se puede continuar la partida. Intenta una nueva."
 RankedMode,Modo clasificado
 Any,Cualquiera
-ScoreNotVerifiable,Su puntuación no se envió porque no se pudo verificar.
+ScoreNotVerifiable,No se envió la puntuación porque no se pudo verificar.
+NoBossDataYet,Derrota al jefe para unirte a un marcador de minijefes.
+LeaderboardMessageMaxPlayers,Lista de 100 mejores jugadores
+ConfirmQuitCoopMessage,No podrás unirte a la partida de nuevo si abandonas ahora. ¿Seguro?
+YouWereRemoved,Tu puesto cooperativo se cerró en la última partida. No puedes unirte de nuevo.
+iCloudLongMessage,"Si iCloud está activado y disponible, las partidas de guardarán de forma automática en la cuenta de iCloud para crear respaldos y usar otros dispositivos."
+CreateNew,Crear nueva
+SlotX,Ranura {0}
+EmptySlot,Ranura vacía
+Delete,Eliminar
+CreatedDate,Creación: {0}
+LastSavedDate,Guardado más reciente: {0}
+DeleteDescription,¿Seguro que quieres eliminar este archivo guardado del dispositivo y la cuenta de iCloud?
+SaveSlots,Ranuras de guardado
+LoadGame,Cargar partida
+DeleteDescriptionNotConnected,¿Seguro que quieres eliminar este archivo guardado del almacenamiento local?
+icloudConflictMessage,Los datos guardados en iCloud no coinciden con los del dispositivo. Elige cuáles quieres guardar. Los otros se descartarán por completo.
+GamecenterRestricted,Multijugador no disponible. No puedes jugar partidas multijugador ni usar contenido de ese modo en este dispositivo.
+DeviceOfflineMessage,El dispositivo no tiene conexión. No estarán disponibles los datos guardados en la nube. Puede que no se guarde el progreso.
+GamecenterLoginPrompt,"Debes conectarte a Game Center para tener acceso. Abre la Configuración del dispositivo, busca Game Center e inicia sesión."
+GamecenterRestrictedTitle,Acceso a multijugador restringido
+GamecenterLoginTitle,Inicia sesión en Game Center
+QuietStreet,Calle tranquila
+GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinDescription,Todo lo que vemos y lo que somos está hecho de polvo estelar.
+MonkeyBuccaneer Paragon,Navarca de los mares
+MonkeyBuccaneer Paragon Description,Lo más impresionante que alguna vez surcó las aguas.
+HeroesPsiPetBisonName,Mascota bisonte de Psi
+HeroesPsiPetBisonShortName,Mascota bisonte de Psi
+HeroesPsiPetBisonDescription,Un espécimen ejemplar de la familia de los ungulados que Psi adora. Solo Psi original ;)
+TowerPropMonkeyVillageAustralianFlagName,Bandera de Australia para la monoaldea
+TowerPropMonkeyVillageAustralianFlagShortName,Bandera de Australia
+TowerPropMonkeyVillageAustralianFlagDescription,"¡Vamos, Australia! ¡Oi, oi, oi! Esta bandera para la monoaldea aparece en todas las actualizaciones."
+TowerProjectileMortarSnowName,Proyectil nevado del mono mortero
+TowerProjectileMortarSnowShortName,Proyectil nevado de mortero
+TowerProjectileMortarSnowDescription,Gana las guerras de bolas de nieve con este proyectil increíble para el mono mortero. Objeto para coleccionistas por tiempo limitado.
+TowerPetIceMonkeySnowmanName,Mascota hombre de nieve del mono gélido
+TowerPetIceMonkeySnowmanShortName,Mascota de nieve del mono gélido
+TowerPetIceMonkeySnowmanDescription,¿Qué hace el mono gélido cuando no revienta bloons? ¡Crea mascotas de nieve increíbles! Objeto para coleccionistas por tiempo limitado.
+BloonsDDTSkinSleighName,DDT trineo letal
+BloonsDDTSkinSleighShortName,DDT trineo letal
+BloonsDDTSkinSleighDescription,Entrega regalos esta Navidad con el temible trineo letal. Objeto para coleccionistas por tiempo limitado.
+BloonsAllBloonsElfHatName,Bloons con gorro élfico
+BloonsAllBloonsElfHatShortName,Bloons con gorro élfico
+BloonsAllBloonsElfHatDescription,Todo es más bonito con un gorro de elfo puesto. Objeto para coleccionistas por tiempo limitado.
+CoopEmoteAnimationBenCoolName,Emote de Ben indiferente
+CoopEmoteAnimationBenCoolShortName,Ben indiferente
+CoopEmoteAnimationBenCoolDescription,Sé como ben y vive tranquilo.
+CoopEmoteAnimationBikerBonesRageName,Emote de ira de Biker Bones
+CoopEmoteAnimationBikerBonesRageShortName,Ira de Biker Bones
+CoopEmoteAnimationBikerBonesRageDescription,¿De verdad sacrificaste todas mis torres para construir tu templo? ¡Biker Bones está furioso!
+GameUIProfileAvatar52Name,Avatar personalizado: búmeran
+GameUIProfileAvatar52ShortName,Avatar de búmeran
+GameUIProfileAvatar52Description,¡El búmeran zurdo es el mejor!
+GameUIProfileAvatar53Name,Avatar personalizado: capitán pirata
+GameUIProfileAvatar53ShortName,Avatar de capitán pirata
+GameUIProfileAvatar53Description,"¡Arr! Quieres impresionar a los otros botarates con el mejor avatar que compran los trofeos, ¿no?"
+GameUIProfileAvatar54Name,Avatar personalizado: Quincy geométrico
+GameUIProfileAvatar54ShortName,Avatar de Quincy geométrico
+GameUIProfileAvatar54Description,Soy el alfa y el omega. Soy Quincy al cuadrado.
+GameUIProfileAvatar55Name,Avatar personalizado: Adora estrella
+GameUIProfileAvatar55ShortName,Avatar de Adora estrella
+GameUIProfileAvatar55Description,"¿En quién más confiarías para darle el toque final al árbol? Además, Adora no dejará que nadie se le acerque. Objeto para coleccionistas por tiempo limitado."
+GameUIProfileBanner8Name,Banderola de perfil de salto al espacio
+GameUIProfileBanner8ShortName,Banderola de salto al espacio
+GameUIProfileBanner8Description,Banderola ganadora de Galaksyz
+GameUIProfileBanner9Name,Banderola de perfil de cara al sol
+GameUIProfileBanner9ShortName,Banderola de cara al sol
+GameUIProfileBanner9Description,Banderola ganadora de Bohrokki
+GameUIPowerSkinEnergisingTotemChristmasTreeName,Poder personalizado: tótem vigorizante de árbol navideño
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,Árbol navideño energizado
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,Vigoriza a los monos con este árbol de Navidad colorido. Objeto para coleccionistas por tiempo limitado.
+GameUIPowerSkinDartTimeMatrixName,Poder personalizado: detención temporal de dardos
+GameUIPowerSkinDartTimeMatrixShortName,Detención temporal de dardos
+GameUIPowerSkinDartTimeMatrixDescription,"No es un fallo y no lo viste antes, pero juramos que te gustará."
+GameUIMusicTrackMusicWinterChilledMixName,Rocola: Noches invernales - Mezcla tranquila
+GameUIMusicTrackMusicWinterChilledMixShortName,Noches invernales
+GameUIMusicTrackMusicWinterChilledMixDescription,"Relájate, juega y mira las estrellas invernales con esta mezcla nueva."
+Achievement 134 Name,David y Goliat
+Achievement 134 Description,Gana una batalla de jefe sin usar un héroe.
+Achievement 135 Name,Ninja Kiwi muy picante
+Achievement 135 Description,Supera Islas de especias en las rondas de bloons alternados solo con torres de tierra.
+Achievement 136 Name,Cosecha vacía
+Achievement 136 Description,Supera Maizal en CHIMPS sin quitar nada de maíz.
+Achievement 137 Name,Préstamos estudiantiles
+Achievement 137 Description,4 x 10^5 (Contrae una deuda de 400 000)
+Achievement 138 Name,No falta información crítica
+Achievement 138 Description,Acierta 25 000 golpes críticos
+GameRestartedTitle,Partida reiniciada
+GameContinuedTitle,Partida continuada
+GameRestartedDescription,Otro jugador reinició la partida.
+GameContinuedDescription,Otro jugador continuó la partida.
+EditorAbilityCooldown,Tasa de recuperación de habilidad
+EditorRemovableCost,Tasa de costo eliminable
+AbilityCooldownIncreased,Más tasa de recuperación de habilidad
+AbilityCooldownDecreased,Menos tasa de recuperación de habilidad
+RemovableCostIncreased,Más costo eliminable
+RemovableCostDecreased,Menos costo eliminable
+Disabled,Desactivado
+ViewStats,Ver estadísticas
+CloseSlot,Cerrar ranura
+OpenSlot,Abrir ranura
+CalloutBossCrusher,Aplastajefes
+CalloutBossCrusherDesc,{0} de daño al jefe
+CalloutWellRounded,Buen equilibrio
+CalloutWellRoundedDesc,{0} de cada uno de los 4 tipos de torre
+CalloutEndlessPower,¡Poder infinito!
+CalloutEndlessPowerDesc,Modelo de grado {0} creado
+AnyGame,Cualquier juego
+AnyMap,Cualquier mapa
+AnyDifficulty,Cualquier dificultad
+AnyMode,Cualquier modo

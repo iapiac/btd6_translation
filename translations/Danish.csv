@@ -152,7 +152,7 @@ Gwendolin Level 3 Description,"Ild-cocktail: kaster en flaske med brandfarlig v�
 Gwendolin Level 4 Description,"Sæt varme på - med sekunders mellemrum genereres der en kraftfuld trykbølge af ild, som springer bloons og tilføjer ild til Monkey-angreb i nærheden."
 Gwendolin Level 5 Description,Øget springkraft.
 Gwendolin Level 6 Description,Angreb der brænder bloons.
-Gwendolin Level 7 Description,Sæt varme på' får øget radius.
+Gwendolin Level 7 Description,"Sæt varme på får øget radius, Ild-cocktail er mere effektiv."
 Gwendolin Level 8 Description,Affyrer 2 ildskud pr. skud.
 Gwendolin Level 9 Description,Første træfning pr. bølge springer 1 ekstra lag.
 Gwendolin Level 10 Description,"Ildstorm: Sætter hele skærmen i brand, brænder alle bloons og giver Sæt varme på-bonus til alle aber."
@@ -213,14 +213,14 @@ ObynGreenfoot Level 1 Description,Sender ulveånder for at angribe Bloons.
 ObynGreenfoot Level 2 Description,Naturens vrede - alle druider indenfor rækkevidde får +1 springkraft.
 ObynGreenfoot Level 3 Description,"Skaber en tornet busk på vejen, som kan springe 20 bloons."
 ObynGreenfoot Level 4 Description,Hver 18. sekund skabes et totem som sinker alle bloons i nærheden med 30%. Mindre effektiv mod MOAB-klasse bloons
-ObynGreenfoot Level 5 Description,Øget angrebshastighed.
+ObynGreenfoot Level 5 Description,Øget angrebshastighed. Junglens druider får øget rækkevidde.
 ObynGreenfoot Level 6 Description,Øget springkraft og projektiler bevæger sig hurtigere.
 ObynGreenfoot Level 7 Description,Tornebuske kan springe 100 bloons.
 ObynGreenfoot Level 8 Description,Naturens Beskyttelse totemmer hæmmer bloons med 40 %.
-ObynGreenfoot Level 9 Description,Flere lag springes ved angreb.
+ObynGreenfoot Level 9 Description,"Angreb springer ekstra lag. Stormens druider skaber større storme, som gør mere skade på MOABs."
 ObynGreenfoot Level 10 Description,"Træmur: hidkalder en mur af træer på tværs af vejen, som smadrer alle bloons, der svæver ind. Når de er fulde, brister træerne i en regn af penge."
 ObynGreenfoot Level 11 Description,"Naturens klarhed - alle magiske aber indenfor rækkevidde får +5 springkraft, og druider får yderligere +1 springkraft."
-ObynGreenfoot Level 12 Description,Øget angrebshastighed.
+ObynGreenfoot Level 12 Description,Øget angrebshastighed og Magi-abers nedkølingstid reduceret med 5%.
 ObynGreenfoot Level 13 Description,Endnu mere springkraft og projektil-fart.
 ObynGreenfoot Level 14 Description,Flere lag springes ved angreb.
 ObynGreenfoot Level 15 Description,Naturens beskyttelse hæmmer bloons med 60 % og har reduceret nedkøling.
@@ -241,10 +241,10 @@ Ezili Level 8 Description,Ezilis angreb gør meget mere skade mod MOAB-klasse-bl
 Ezili Level 9 Description,"Ezilis angreb fjerner camo, regenerering og forstærkninger fra ikke-MOAB Bloons."
 Ezili Level 10 Description,"MOAB-forbandelse: lægger en forbandelse på en MOAB-klasse-bloon, der så tager skade hvert sekund, indtil den springer."
 Ezili Level 11 Description,Øget angrebsrækkevidde. Øger springningen af genoplivne bloons med 50%.
-Ezili Level 12 Description,Reduceret nedkøling og øget varighed for Hjertestopper.
+Ezili Level 12 Description,Reduceret nedkøling og øget varighed for Hjertestopper. Gør øget skade på MOABs.
 Ezili Level 13 Description,Grundangreb får øget skaderadius og øget springkraft.
 Ezili Level 14 Description,Hurtigere skade over tid.
-Ezili Level 15 Description,Øget rækkevidde.
+Ezili Level 15 Description,Øget rækkevidde. Skade over tid varer længere.
 Ezili Level 16 Description,"Offer-totem varer længere, og koster kun 1 liv at bruge."
 Ezili Level 17 Description,Grundangreb får øget skaderadius og øget springkraft.
 Ezili Level 18 Description,Øget angrebshastighed.
@@ -762,7 +762,7 @@ Re-Freeze Description,"Kan genfryse bloons, der allerede er frosne."
 Ice Shards Description,"Knivskarpe isskår flyver til alle sider, når frosne bloons springer."
 Arctic Wind Description,Øger springkraften kraftigt og giver en super-kold aura som sinker bloons og fryser al vand i nærheden.
 Cryo Cannon Description,Affyrer isbomber mod bloons over længere rækkevidde.
-Embrittlement Description,"Sporer camo-bloons, og alle ramte bloons, inklusive MOABs, bliver skøre, kortvarigt  mere skadet af at blive frosset og mister permanent camo- og regenererings-evnen."
+Embrittlement Description,"Kan træffe MOAB-bloons. Alle ramte MOAB-bloons bliver skrøbelige, bliver mere skadet, mens de er frosne, og mister deres camo-evner."
 Snowstorm Description,"Snestormsevne: Fryser alle bloons på banen, og fryser midlertidigt hvide, zebra, camo, og sinker MOAB-klasse bloons."
 Icicles Description,"Frosne bloons får skarpe istapper, som springer bloons, de kommer i kontakt med."
 Super Brittle Description,"Bloons - også MOAB-klasse-bloons - tager enormt mere skade, når de er frosne."
@@ -883,7 +883,7 @@ Blooncineration Description,"Superhedt brændende snask som smelter igennem 5 bl
 ,
 Focused Firing Description,Øger Dartling-geværets præcision.
 Advanced Targeting Description,Gør at dartlinger kan ramme camo-bloons
-Powerful Darts Description,Dartpile bevæger sig hurtigere og kan springe 3 bloons hver.
+Powerful Darts Description,"Dartpile får mere fart på, og kan springe frosne bloons og springe op til 3 bloons hver."
 Faster Swivel Description,Løber drejer meget hurtigere
 Faster Barrel Spin Description,Får maskingeværet til at skyde meget hurtigere.
 Depleted Bloontonium Description,Skud kan skade enhver bloon-type.
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,[I] for at Mørke-skifte indenfor rækkevidde
 DarkChampionDarkshift,[I] for at Mørke-skifte til ethvert gyldigt sted
 SmallTowersMode,Små abetårne
 BigTowersMode,Store abetårne
-UpdatePopupTitle,Opdatering 28!
-UpdatePopupDescription,"Kæmpe indholds-opdatering!\n• Co-op Boss-kampe! Deltag i boss begivenheder med dine venner for maksimum mønster-niveauer!\n• Ny boss-bloon - Grav-herre Lig!\n• Boss førertavler! Vælg rangordnet mode og få den bedste tid på førertavlerne når du spiller solo eller co-op\n• Nyt mønster-tårn - Ninja-abe Opstegne Skygge er ankommet! \n• Viking Sauda er med i kampen!\n• Få det nye Sauda-skin og hug løs!\n• Far ikke vild i skoven på den nye begynderbane - Hytten!\n• 12 nye emner i trofæ-forretningen , plus 6 nye Halloween emner - tidsbegrænset tilbud!\n• \n• Balance-ændringer og fejlretninger - masser af ændringer, se opdaterings-notaterne for at læse detaljerne."
+UpdatePopupTitle,Opdatering 29!
+UpdatePopupDescription,"God jul opdatering!\n• Behersk verdenshavene med det nyeste abe-mønster: Søens Navarch\n• Giv bloonsene en overhaling på den nye mellemsvære bane: Stillevej\n• Få fat i det seje nye Ezili-skin: Galaxili!\n• Co-op lobby-skabelse renoveret, så du hurtigere kan komme i gang med spillet\n• 17 nye ting i trofæforretningen, og 6 seks som kun kan fås i begrænset tid, så det er om at være hurtig!\n• Nye præstationer, livskvalitetsændringer, balance og fejlretninger - masser af ændringer, se opdateringsnotaterne for at læse alle detaljerne \nDu ønskes en rigtig god jul og godt nytår fra Ninja Kiwi!"
 ResetDailyChest,Geninstil den daglige belønning
 JukeboxName,Jukebox
 EnableFunction,Tillad
@@ -3598,9 +3598,7 @@ btd6_4racespass Description,Race så meget du vil i 4 løb!
 btd6_4racespass,4 løb-pas
 btd6_12racespass Description,Race så meget du vil i 12 løb!
 btd6_12racespass,12 løb-pas
-AccountPermissionRestriction,Denne Xbox-konto har ikke tilladelse til at spille multispiller
 GetHeroBooster,Få en helte-booster
-AccountCommunityPermissionRestriction,Denne Xbox-konto har ikke tilladelse til at vise eller skabe community-indhold
 IntermediateUnlockText,Vind på en begynderbane for første gang for at låse op for en mellemsvær bane.
 AdvancedUnlockText,Vind på en mellemsvær bane for første gang for at låse op for en avanceret bane.
 ExpertUnlockText,Vind på en avanceret bane for første gang for at låse op for en ekspert bane.
@@ -3674,7 +3672,7 @@ PlayerPositionClosed,Spiller position lukket
 YouFinished,Din placering:
 BestTime,Bedste tid:
 Claim,Accepter
-PlayerRejoinedGame,har tilsluttet sig spillet igen
+PlayerRejoinedGame, har tilsluttet sig spillet igen
 PlayerKickedFromGame,{0} er blevet fjernet fra spillet
 ConfirmKickPlayer,"Er du sikker på, at du vil fjerne {0}?"
 Remove,Fjern
@@ -4118,4 +4116,115 @@ Elite,Elite
 HackGameStopMessage,Spillet kan ikke gensynkroniseres. Spillet kan desværre ikke fortsættes. Prøv et nyt spil.
 RankedMode,Rangordnet mode
 Any,Enhver
-ScoreNotVerifiable,Din score blev ikke indsendt, da den ikke kunne verificeres.
+ScoreNotVerifiable,"Dit resultat blev ikke indsendt, for det kunne ikke verificeres"
+NoBossDataYet,Slå bossen for at komme på en mini-boss førertavle!
+LeaderboardMessageMaxPlayers,Top 100 spillere
+ConfirmQuitCoopMessage,"Du vil ikke kunne tilslutte dig spillet igen, hvis du forlader det nu. Er du sikker?"
+YouWereRemoved,"Din co-op stilling blev lukket ved dit sidste spil, du kan ikke tilmeldes igen."
+iCloudLongMessage,"Hvis iCloud er aktiveret og tilgængeligt bliver dine gemte spil automatisk lagret i din iCloud-konto som backup, og vil være til rådighed på andre enheder."
+CreateNew,Skab ny
+SlotX,Indstikslot {0}
+EmptySlot,Tomt indstikslot
+Delete,Slet
+CreatedDate,Skabt: {0}
+LastSavedDate,Sidst gemt: {0}
+DeleteDescription,"Er du sikker på, at du vil slette dette gemte spil fra din enhed og din iCloud-konto?"
+SaveSlots,Indstikslots til opbevaring
+LoadGame,Indlæs spillet
+DeleteDescriptionNotConnected,"Er du sikker på, at du vil slette dette lokalt opbevarede gemte spil?"
+icloudConflictMessage,"Dine gemte data på iCloud og på din enhed er ikke ens. Vælg, hvilke du vil beholde. De andre vil blive permanent slettet."
+GamecenterRestricted,Multispiller ikke tilladt - Du kan ikke spille multispiller spil eller indhold på denne enhed.
+DeviceOfflineMessage,Enheden er offline. Ingen gemte iCloud spil kan startes. Spil-fremskridt kan muligvis ikke gemmes.
+GamecenterLoginPrompt,"Login på Game Center for at få adgang. Luk op for enhedsindstillinger, find Game Center, og login."
+GamecenterRestrictedTitle,Multispiller ikke tilladt
+GamecenterLoginTitle,Login på Game Center
+QuietStreet,Stillevej
+GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinDescription,Alt og alle er skabt af stjernestøv
+MonkeyBuccaneer Paragon,Søens Navarch
+MonkeyBuccaneer Paragon Description,"Det ypperste i ting, som kan flyde"
+HeroesPsiPetBisonName,Psi bison-Kæledyr
+HeroesPsiPetBisonShortName,Psi bison-Kæledyr
+HeroesPsiPetBisonDescription,"Et udsøgt eksemplar af et parrettået hovdyr, som Psi synes er så nuttede. Kun for original Psi ;)"
+TowerPropMonkeyVillageAustralianFlagName,Abe-landsby Australien-flag
+TowerPropMonkeyVillageAustralianFlagShortName,Landsby Australien-flag
+TowerPropMonkeyVillageAustralianFlagDescription,"Aussie Aussie Aussie, Oi Oi Oi! Abelandsby-flaget kan ses i alle opgraderinger"
+TowerProjectileMortarSnowName,Mortér-abe sne-projektil
+TowerProjectileMortarSnowShortName,Mortér sne-projektil
+TowerProjectileMortarSnowDescription,"Vind hver eneste sneboldkamp med vores nye Mortér-abe projektil - Samlerobjekt, tidsbegrænset tilbud!"
+TowerPetIceMonkeySnowmanName,Is-abe snemands-kæledyr
+TowerPetIceMonkeySnowmanShortName,Is-abe kæledyr
+TowerPetIceMonkeySnowmanDescription,"Hvad laver is-aben, når han ikke har travlt med at springe bloons? Han skaber seje sne-kæledyr, selvfølgelig! Samlerobjekt, tidsbegrænset tilbud!"
+BloonsDDTSkinSleighName,Dommedags-slæde DDT
+BloonsDDTSkinSleighShortName,Dommedags-slæde DDT
+BloonsDDTSkinSleighDescription,"Del julegaver ud med stil i den frygtede Dommedags-slæde!  - Samlerobjekt, tidsbegrænset tilbud!"
+BloonsAllBloonsElfHatName,Alfehat bloons
+BloonsAllBloonsElfHatShortName,Alfehat bloons
+BloonsAllBloonsElfHatDescription,"En lille alfehat gør alt mere nuttet! Samlerobjekt, tidsbegrænset tilbud!"
+CoopEmoteAnimationBenCoolName,Cool Ben Emote
+CoopEmoteAnimationBenCoolShortName,Cool Ben
+CoopEmoteAnimationBenCoolDescription,Vær som Ben - vær cool
+CoopEmoteAnimationBikerBonesRageName,Knoglerytter raseri-emote
+CoopEmoteAnimationBikerBonesRageShortName,Knoglerytter raseri
+CoopEmoteAnimationBikerBonesRageDescription,Ofrede du virkelig lige alle mine tårne for at bygge dit tempel? Knoglerytter RAAAAASER!
+GameUIProfileAvatar52Name,Custom Avatar - Boomerang
+GameUIProfileAvatar52ShortName,Boomerang Avatar
+GameUIProfileAvatar52Description,Venstrehånds-boomeranger er bedste-hånds-boomeranger!
+GameUIProfileAvatar53Name,Custom Avatar - Piratkaptajn
+GameUIProfileAvatar53ShortName,Piratkaptajn avatar
+GameUIProfileAvatar53Description,"Splitte mine bramsejl! Du må prøve at imponere de andre søulke, med de fineste avatartrofæer som kan købes for penge, ikke også?"
+GameUIProfileAvatar54Name,Custom Avatar - Geometrisk Quincy
+GameUIProfileAvatar54ShortName,Geometrisk Quincy Avatar
+GameUIProfileAvatar54Description,Jeg er Alfa og Omega. Jeg er Quincy i anden.
+GameUIProfileAvatar55Name,Custom Avatar - Stjerne-topper Adora
+GameUIProfileAvatar55ShortName,Stjerne Adora Avatar
+GameUIProfileAvatar55Description,"Hvem bedre til at pynte juletræet? Adora lader alligevel ingen andre komme i nærheden af det! Samlerobjekt, tidsbegrænset tilbud!"
+GameUIProfileBanner8Name,Spring ud i rummet profilbanner
+GameUIProfileBanner8ShortName,Spring ud i rummet banner
+GameUIProfileBanner8Description,Banner-vinder af Galaksyz
+GameUIProfileBanner9Name,Se solen i øjnene profilbanner
+GameUIProfileBanner9ShortName,Se solen i øjnene banner
+GameUIProfileBanner9Description,Banner-vinder af Bohrokki
+GameUIPowerSkinEnergisingTotemChristmasTreeName,Custom kraft - Juletræsaktiverende totem
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,Aktiveret juletræ
+GameUIPowerSkinEnergisingTotemChristmasTreeDescription,"Sørg for, at dine aber har masser af energi med dette farvestrålende juletræ! Samlerobjekt, tidsbegrænset tilbud!"
+GameUIPowerSkinDartTimeMatrixName,Custom kraft - Dartpil-tidsstop
+GameUIPowerSkinDartTimeMatrixShortName,Dartpil-tidsstop
+GameUIPowerSkinDartTimeMatrixDescription,"Det er ikke en fejl. Du har ikke set det før, men vi lover, at du vil elske det!"
+GameUIMusicTrackMusicWinterChilledMixName,Jukebox: Vinternætter - Køligt Remix
+GameUIMusicTrackMusicWinterChilledMixShortName,Vinternætter Køligt
+GameUIMusicTrackMusicWinterChilledMixDescription,"Slap af, spil og fundér over vinterstjernerne med vores nye coole remix"
+Achievement 134 Name,David mod Goliat
+Achievement 134 Description,Vind en boss-kamp uden at bruge en helt
+Achievement 135 Name,"Godt krydret, Ninja Kiwi"
+Achievement 135 Description,Slå Krydderøer på Alternative bloons-runder med udelukkende landbaserede tårne
+Achievement 136 Name,Ingen høst
+Achievement 136 Description,Slå Majsmark i CHIMPS-mode uden at fjerne noget majs
+Achievement 137 Name,Studenterlån
+Achievement 137 Description,4 x 10^5 (Få en gæld på $400.000)
+Achievement 138 Name,Mangler ingen kritiske oplysninger
+Achievement 138 Description,Opnå 25.000 kritiske træffere
+GameRestartedTitle,Spil genstartet
+GameContinuedTitle,Spil fortsat
+GameRestartedDescription,Spillet er blevet genstartet af en anden spiller
+GameContinuedDescription,Spillet er blevet fortsat af en anden spiller
+EditorAbilityCooldown,Evne-nedkølingstid
+EditorRemovableCost,Justerbar pris
+AbilityCooldownIncreased,Evne-nedkølingstid øget
+AbilityCooldownDecreased,Evne-nedkølingstid formindsket
+RemovableCostIncreased,Justerbar pris øget
+RemovableCostDecreased,Justerbar pris sænket
+Disabled,Slået fra
+ViewStats,Se statistikker
+CloseSlot,Luk indstikslot
+OpenSlot,Åbn indstikslot
+CalloutBossCrusher,Boss-basker
+CalloutBossCrusherDesc,{0} Skade mod bossen
+CalloutWellRounded,Velafbalanceret
+CalloutWellRoundedDesc,{0} af hver af de 4 tårntyper
+CalloutEndlessPower,Uendelige mængder kraft!
+CalloutEndlessPowerDesc,Grad {0} mønster skabt
+AnyGame,Ethvert spil
+AnyMap,Ethvert kort
+AnyDifficulty,Enhver vanskelighed
+AnyMode,Enhver tilstand
