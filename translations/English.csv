@@ -727,7 +727,7 @@ Heavy Bombs Description,Heavy duty bombs can smash through 2 layers of Bloon at 
 Missile Launcher Description,"Exchanges bombs for missiles, which fire faster, fly faster, and increase range."
 Frag Bombs Description,Explosions throw out sharp fragments that can pop more Bloons including Black Bloons.
 Really Big Bombs Description,Huge bombs deal greater damage in a large area and allow Frags to pop more Bloons.
-MOAB Mauler Description,MOAB Maulers do much more damage to MOAB-Class Bloons and ceramics.
+MOAB Mauler Description,MOAB Maulers do much more damage to MOAB-Class Bloons.
 Cluster Bombs Description,Throws out secondary bombs instead of sharp fragments every shot.
 Bloon Impact Description,Explosions become so violent Bloons are stunned for a short time when they are hit. Range is increased and frags are even more effective.
 MOAB Assassin Description,Assassinate MOAB Ability: Special missile flies out and does massive damage to MOAB class Bloons. Regular attack range and MOAB-class damage also increased.
@@ -798,14 +798,14 @@ Supply Drop Description,Supply Drop Ability: drops a crate full of cash. Regular
 Full Auto Rifle Description,Fully automatic weapon with incredible popping power.
 Cripple MOAB Description,Crippled MOABs are immobilized for longer and take extra damage from all other attacks.
 Elite Sniper Description,Supply drop gives much more cash. Grants Elite targeting prio and faster reload to all snipers.
-Elite Defender Description,A lost life gives this Sniper 4x attack speed for a short time in retaliation. Also attacks faster the further the Bloons are along the track.
+Elite Defender Description,A lost life gives this Sniper 4x attack speed for a short time in retaliation. Also attacks faster the further the Bloons are along the track. Deals more damage to MOAB-class Bloons.
 ,
 Longer Range Description,Increases attack range.
 Barbed Darts Description,Sub's darts can pop an additional 3 Bloons.
 Twin Guns Description,Added twin gun doubles attack speed. Enhances Ballistic Missile and Bloontonium Reactor.
 Advanced Intel Description,Allows long range targeting of Bloons in radius of your other towers.
 Heat-tipped Darts Description,Heat tipped darts allow popping of Frozen and Lead Bloons.
-Airburst Darts Description,Airburst darts split into 3 on impact for massive popping power. Further enhances Ballistic Missile and Bloontonium Reactor.
+Airburst Darts Description,Airburst darts split into 3 on impact for massive popping power. Further enhances Bloontonium Reactor.
 Submerge and Support Description,Adds Submerge targeting option that permanently reveals Camo Bloons in its radius but does not attack while submerged.
 Ballistic Missile Description,Missile seeks target within range and does extra MOAB and Ceramic damage.
 Triple Guns Description,Adds a third gun for even faster firing.
@@ -897,7 +897,7 @@ Ray of Doom Description,Creates a solid line of annihilation. You can erase most
 M.A.D Description,MOAB Assured Destroyer. Slower firing mega missiles deal extreme damage to MOAB-class Bloons.
 Bloon Exclusion Zone Description,Upgraded to 6 barrels and massively increased damage. Bloons are excluded from existence.
 ,
-Guided Magic Description,"Magic shots seek out the Bloons, even behind cover."
+Guided Magic Description,"Magic shots last longer and seek out the Bloons, even behind cover."
 Fireball Description,Every few seconds casts an explosive fireball spell.
 Intense Magic Description,More powerful magic shots move faster and can pop more Bloons.
 Arcane Blast Description,"Bigger, more powerful magic blasts pop through 2 layers of Bloon."
@@ -970,7 +970,7 @@ Heart of Vengeance Description,Gains 10% attack speed and 1% for every life lost
 Druid of the Storm Description,Gusts of wind blow Bloons off the track away from the exit.
 Druid of the Jungle Description,"Calls a vine from the ground to entangle and crush Bloons one at a time, leaving behind a deadly thorn pile."
 Druid of Wrath Description,Gains attack speed during the round as long as the Druid is attacking Bloons.
-Ball Lightning Description,Creates powerful balls of lightning that shoot additional lightning bolts. 
+Ball Lightning Description,Creates powerful balls of lightning that shoot additional lightning bolts and can freeze Bloons. 
 Jungle's Bounty Description,"Jungle's Bounty Ability: Generates cash each use, plus extra cash per Banana Farm near the Druid. Can also grab two Bloons with vines at once."
 Poplust Description,Boosts attack speed and pierce for other Druids in the radius. Can stack up to 5 times on any single Druid.
 Superstorm Description,Superstorm blasts all Bloon types for massive damage and blows them away from the exit.
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,MOAB Glue slows more than normal.
 CheaperSolution,Cheaper Solution
 CheaperSolutionDescription,Bloon Liquefier cost reduced by 1000.
 BonusMonkey,Bonus Monkey!
-BonusMonkeyDescription,Start each game with 1 free Dart Monkey!
+BonusMonkeyDescription,Start each game with 1 free Dart Monkey! (Only 1 free Monkey Tower per game)
 MoreCash,More Cash
 MoreCashDescription,Increase starting cash by 200.
 ,
@@ -1950,7 +1950,7 @@ HotMagicDescription,All Magic type towers can pop Frozen Bloons.
 ArcaneImpale,Arcane Impale
 ArcaneImpaleDescription,Arcane Spike does extra damage to MOAB-Class and Ceramic Bloons.
 ColdFront,Cold Front
-ColdFrontDescription,Ball Lightning hits have a chance to freeze Bloons after doing damage.
+ColdFrontDescription,Ball Lightning hits freeze Bloons after doing damage.
 FlameJet,Flame Jet
 FlameJetDescription,Dragon's Breath flame projectiles move much faster.
 StrikeDownTheFalse,Strike Down the False
@@ -2625,7 +2625,7 @@ SentryCold,Cold Sentry
 SentryEnergy,Energy Sentry
 SentryParagon,Champion Sentry
 EditorNumberOfPlayers,Number of Players
-EditorCoopAreaDivision,Co-op Area Division
+EditorCoopAreaDivision,Map Split
 InvalidTarget,Invalid Target
 Adora,Adora
 Adora Short Description,High Priestess
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] to Darkshift within range
 DarkChampionDarkshift,[I] to Darkshift to any valid location
 SmallTowersMode,Small Monkey Towers
 BigTowersMode,Big Monkey Towers
-UpdatePopupTitle,Update 29!
-UpdatePopupDescription,"Happy Holidays Season Update!\n• Rule all waters with the latest Monkey Paragon: Navarch of the Seas\n• Stop those rowdy Bloons in their tracks on the new intermediate map: Quiet Street\n• Grab the awesome new Ezili skin: Galaxili!\n• Co-op lobby creation revamped to get you in the game faster\n• 17 new trophy store items including 6 new limited time ones, get them quick!\n• New achievements, quality of life changes, balancing, and fixes - lots of great changes, check the update notes for all the details\nWarmest Holiday Wishes and Happy New Years from all of us at Ninja Kiwi!"
+UpdatePopupTitle,Update 30!
+UpdatePopupDescription,"New Content Update!\n• Battle your way through the new Advanced Map: Sunken Columns\n• Bring the noise with the new Psi skin: Psimbals!\n• Co-op splits update: 2 brand-new splits added and all selectable when setting up a co-op game\n• 16 new Trophy Store items including 5 new limited time ones, get them quick!\n• 4 new Monkey Knowledges to unlock\n• New Achievements, quality of life and balance changes, check the update notes for full details"
 ResetDailyChest,Reset Daily Chest
 JukeboxName,Jukebox
 EnableFunction,Enable
@@ -2852,8 +2852,8 @@ AdmiralBrickell Level 3 Description,Naval Tactics: greatly increases attack spee
 AdmiralBrickell Level 4 Description,More popping power for Sea Mines.
 AdmiralBrickell Level 5 Description,Naval Tactics increases popping power and allows affected Monkeys to hit all Bloon types except Camo.
 AdmiralBrickell Level 6 Description,Increases the damage of Sea Mines and Pistol attacks.
-AdmiralBrickell Level 7 Description,Increased attack range and Camo Bloon detection.
-AdmiralBrickell Level 8 Description,Naval Tactics allows affected Monkeys to hit Camo Bloons.
+AdmiralBrickell Level 7 Description,Brickell gains increased attack range and Camo Bloon detection.
+AdmiralBrickell Level 8 Description,Naval Tactics allows affected Monkeys to hit Camo Bloons. Water towers in radius gain extra pierce.
 AdmiralBrickell Level 9 Description,Sea Mines do extra damage.
 AdmiralBrickell Level 10 Description,Mega Mine: deploys to any water area a devastating Mine that triggers on MOABs and stuns nearby Bloons. Mega Mines last 3 rounds.
 AdmiralBrickell Level 11 Description,Faster deploy speed and deploy rate for Sea Mines.
@@ -3062,7 +3062,7 @@ Drone Swarm Ability Description,Etienne launches 4 more temporary drones to wrea
 UCAV Ability,UCAV
 UCAV Ability Description,High altitude surveillance drone becomes devastating combat drone for a short time.
 Mesa,Mesa
-DreadPirateBrickellAdmiralBrickellSkinName,Dread Pirate Brickell
+DreadPirateBrickellAdmiralBrickellSkinName,Dread Pirate Brickell Skin
 DreadPirateBrickellAdmiralBrickellSkinDescription,The Queen of the Seven Seas sails again!
 No Insta Reward,No Round 100 Reward
 GameUIProfileAvatar19Name,Custom Avatar - Adora Resting Face
@@ -3644,7 +3644,7 @@ GameUIPowerSkinLavaLakeName,Custom Power - Portable Lava Lake
 GameUIPowerSkinLavaLakeShortName,Portable Lava Lake
 GameUIPowerSkinLavaLakeDescription,It's getting hot in here! Boil your cares away in this hunka pool-a burnin' lava!
 Resort,Resort
-ETnEtienneSkinName,ETn
+ETnEtienneSkinName,ETn Skin
 ETnEtienneSkinDescription,Take me to your leader.
 VeteranXP,Veteran XP
 GameUIMusicTrackMusicSailsAgain,Sails Again
@@ -3672,7 +3672,7 @@ YouFinished,You Finished:
 BestTime,Best Time:
 Claim,Claim
 PlayerRejoinedGame, has rejoined the game
-PlayerKickedFromGame,{0} has been removed from the game
+PlayerKickedFromGame, has been removed from the game
 ConfirmKickPlayer,Are you sure you want to remove {0}?
 Remove,Remove
 MiniRacesFirstTimeTitle,Mini-races!
@@ -3904,8 +3904,7 @@ GameUIProfileBanner5Description,Power and danger combine in this Sub-inspired cu
 Paragon Title,Upgrade to Paragon
 Paragon Body,"This action will create a Paragon {0}. All other {1} will be destroyed in the process, feeding the Paragon’s Power!"
 ft_paragontitle,Paragon Upgrade Enabled!
-ft_paragondescription,"Upgrade one of your Tier 5 Monkeys into a Paragon! Paragons absorb all Monkeys of their type, including the Tier 5 Monkeys from the other two paths.\n\nThe Degree of the Paragon is influenced by how much power is absorbed at the moment of upgrade.
-"
+ft_paragondescription,"Upgrade one of your Tier 5 Monkeys into a Paragon! Paragons absorb all Monkeys of their type, including the Tier 5 Monkeys from the other two paths.\n\nThe Degree of the Paragon is influenced by how much power is absorbed at the moment of upgrade. Not available in Sandbox."
 ParagonDegreeText,Paragon Degree
 DartMonkeys,Dart Monkeys
 BoomerangMonkeys,Boomerang Monkeys
@@ -4139,7 +4138,7 @@ GamecenterLoginPrompt,"Please sign in to Game Center to access. Open device Sett
 GamecenterRestrictedTitle,Multiplayer Access Restricted
 GamecenterLoginTitle,Sign in to Game Center
 QuietStreet,Quiet Street
-GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinName,Galaxili Skin
 GalaxiliEziliSkinDescription,"Everything we are, everything we see - is made of spacedust"
 MonkeyBuccaneer Paragon,Navarch of the Seas
 MonkeyBuccaneer Paragon Description,The greatest thing ever to float on water.
@@ -4199,7 +4198,7 @@ Achievement 134 Description,Win a boss battle without using a Hero
 Achievement 135 Name,So Spiiicey Ninja Kiwi
 Achievement 135 Description,Beat Spice Islands on Alternate Bloon Rounds with only land towers
 Achievement 136 Name,No Harvest
-Achievement 136 Description,Beat Cornfield on CHIMPs without removing any corn
+Achievement 136 Description,Beat Cornfield on CHIMPS without removing any corn
 Achievement 137 Name,Student Loans
 Achievement 137 Description,"4 x 10^5 (Go into $400,000 of debt)"
 Achievement 138 Name,Not Lacking Critical Information
@@ -4228,3 +4227,103 @@ AnyGame,Any Game
 AnyMap,Any Map
 AnyDifficulty,Any Difficulty
 AnyMode,Any Mode
+DataConsentTitle,Enable Data Transfer
+DataConsentBody,"Hello! We at Ninja Kiwi need to use your gameplay information, including IP address, GameCenter name and gameplay progress, to enable you to play Odysseys, Races, Bosses, Co-op and other Events. (These won't work without this data.) Is this OK?"
+DataConsentAccepted,Thanks! Enjoy playing those events
+DataConsentRejected,"No problem. We won't use your gameplay information, so Odysseys, Races, Bosses, Co-op and Content Browser will be disabled. You can still play Single Player and can revise this setting at any time in the Settings menu."
+DataConsentCurrent,Data Transfer: {0}
+DataConsentEnabled,Enabled
+DataConsentDisabled,Disabled
+DataConsentReview,Review
+DataConsentYes,Yes
+DataConsentNo,No
+BionicAugmentation,Bionic Augmentation
+BionicAugmentationDescription,"While Turbo Charge is active, Bionic Boomerang is able to target Camo Bloons"
+XrayUltra,X-ray Ultra
+XrayUltraDescription,Ultravision allows Super Monkeys to see through and fire through blocking objects
+BonusGlueGunner,Bonus Glue Gunner
+BonusGlueGunnerDescription,Start each game with 1 free Glue Gunner! (Only 1 free Monkey Tower per game)
+Achievement 139 Name,Sticky Situation
+Achievement 139 Description,"Glue 500,000 Bloons"
+Achievement 140 Name,Big Spender
+Achievement 140 Description,"Spend 1,000,000 cash in one round"
+Achievement 141 Name,The Daily Reid
+Achievement 141 Description,Win 365 unique daily challenges
+Achievement 142 Name,I'll Be Back
+Achievement 142 Description,"Spend 1,000 MM on Continues or Checkpoints"
+PetSounds,Pet Sounds
+UserID,User ID
+SunkenColumns,Sunken Columns
+PsimbalsPsiSkinName,Psimbals Skin
+PsimbalsPsiSkinDescription,Are you ready for a show?!
+HeroesStrikerJonesPetGermanShepherdName,Striker Jones German Shepherd Pet
+HeroesStrikerJonesPetGermanShepherdShortName,Striker Pup Pet
+HeroesStrikerJonesPetGermanShepherdDescription,Of course Striker has a German Shepherd! Takes a robust canine to play fetch with shoulder-fired toys. Original Striker Jones only
+HeroesETnPlacementBeamDownName,ET-n Beam Down Place & Upgrade
+HeroesETnPlacementBeamDownShortName,ET-n Beam Down
+HeroesETnPlacementBeamDownDescription,No phoning home or beaming up here. ET-n thinks teleporters are better used to jump right into action or add signature flair to upgrades. ET-n only
+TowerPetHeliPilotHummingbirdName,Heli Pilot Hummingbird Pet
+TowerPetHeliPilotHummingbirdShortName,Heli Pilot Hummingbird Pet
+TowerPetHeliPilotHummingbirdDescription,"Heli Pilot has some mad hover skills, but this beautiful hummingbird pet shows there's always room for improvement"
+TowerProjectileWizardZombiesName,Wizard Necromancer Zombie Bloons
+TowerProjectileWizardZombiesShortName,Wizard Necro Bloons
+TowerProjectileWizardZombiesDescription,Bring out your dead! These necro Bloons and MOAB-class Bloons feel happy about making invading Bloons stone dead in a moment.
+BloonsAllBloonsDaisyChainName,Daisy Chain Bloons
+BloonsAllBloonsDaisyChainShortName,Daisy Chain Bloons
+BloonsAllBloonsDaisyChainDescription,"Ring around the rosie, all Bloons are topped with posies! Celebrate Spring with this flowery circlet on all regular Bloons. Limited Time Collector's Item!"
+BloonsBADSkinWhaleName,BAD Whale
+BloonsBADSkinWhaleShortName,BAD Whale
+BloonsBADSkinWhaleDescription,"We tend to think that all whales are good whales, but this cuddly-looking magenta beast is definitely a BAD whale."
+CoopEmoteAnimationObynPeaceName,Obyn Peace Emote
+CoopEmoteAnimationObynPeaceShortName,Obyn Peace
+CoopEmoteAnimationObynPeaceDescription,"Your choice - offer a zen greeting, get others to ease up on Player 3, or apologize goofing your activated. Obyn Peace is the answer. Limited Time Collector's Item!"
+CoopEmoteAnimationThinkingMonkeyName,Thinking Monkey Emote
+CoopEmoteAnimationThinkingMonkeyShortName,Thinking Monkey
+CoopEmoteAnimationThinkingMonkeyDescription,"A Thinking Monkey is a good monkey. Works when you are thinking, or when you are wondering what the heck someone else was thinking."
+GameUIProfileAvatar56Name,Druid Spring Flowers Avatar
+GameUIProfileAvatar56ShortName,Druid Spring Avatar
+GameUIProfileAvatar56Description,"Invoke the magic of Spring any time of the year with this beautiful, contemplative Druid avatar. Limited Time Collector's Item!"
+GameUIProfileAvatar57Name,Explorer Monkey Sub Avatar
+GameUIProfileAvatar57ShortName,Explorer Sub Avatar
+GameUIProfileAvatar57Description,There's no better view in a submarine than with your entire face pressed against the glass. Give the Sub some love with this wide-eyed avatar. 
+GameUIProfileAvatar58Name,Fusty the Snowman Ice Cream Avatar
+GameUIProfileAvatar58ShortName,Fusty Ice Cream Avatar
+GameUIProfileAvatar58Description,"I scream, you scream, Pat Frosty loves his ice cream. Clearly the best avatar for those of us who appreciate the finer things in life."
+GameUIPowerSkinRoadSpikesFlowerPatchName,Custom Power - Flower Patch Road Spikes
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,Flower Patch Spikes
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,"Who says Road Spikes need to look like rough, industrial fasteners? You try to pick these flowers, you get the thorns!"
+GameUIPowerSkinMonkeyBoostSugarRushName,Custom Power - Sugar Rush Monkey Boost
+GameUIPowerSkinMonkeyBoostSugarRushShortName,Sugar Rush Boost
+GameUIPowerSkinMonkeyBoostSugarRushDescription,Humans: we all know we perform better under the influence of copious amounts of sugary awesomeness. Monkeys: same.
+GameUIProfileBanner10Name,Doodle Brilliance Profile Banner
+GameUIProfileBanner10ShortName,Doodle Brilliance Banner
+GameUIProfileBanner10Description,Banner winner by bonbonni
+GameUIProfileBanner11Name,Arcanum Necronicom Profile Banner
+GameUIProfileBanner11ShortName,Arcanum Necronicom Banner
+GameUIProfileBanner11Description,Banner winner by _Concilliabule_
+GameUIProfileBanner12Name,So Buzzed Profile Banner
+GameUIProfileBanner12ShortName,So Buzzed Banner
+GameUIProfileBanner12Description,The bees are buzzin' in the trees to make some honey just for me. Limited Time Collector's Item!
+FilterAll,All
+FilterHeroPlacementUpgrades,Place FX
+FilterHeroPets,Pets
+FilterTowerPlacementUpgrades,Upgrade FX
+FilterTowerPets,Pets
+FilterProjectiles,Projectiles
+FilterFlags,Flags
+FilterPopFX,Pop FX
+FilterAllBloonSkins,All Bloon Skins
+FilterRegularSkins,Bloon Skins
+FilterMoabSkins,MOAB Skins
+FilterStandardEmotes,Standard Emotes
+FilterTextEmotes,Text Emotes
+FilterSoundEmotes,Sound Emotes
+FilterFullScreenEmotes,Fullscreen Emotes
+FilterMusicTracks,Music Tracks
+FilterAvatars,Avatars
+FilterPowerSkins,Power Skins
+FilterProfileBanners,Profile Banners
+FilterMisc,Misc
+Blast Chain Ability,Blast Chain
+Blast Chain Ability Description,Sea mines fire off quicker for a short time
+TowerSpecial,Monkey Special

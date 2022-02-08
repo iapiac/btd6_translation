@@ -727,7 +727,7 @@ Heavy Bombs Description,Tunge bomber kan smadre 2 bloon-lag på en gang og sprin
 Missile Launcher Description,"Udskifter bomber med missiler, som affyres hurtigere, flyver hurtigere, og har øget rækkevidde."
 Frag Bombs Description,"Eksplosioner spreder skarpe fragmenter, som kan springe flere bloons, herunder sorte bloons."
 Really Big Bombs Description,Kæmpe bomber gør skade over et stort område og gør at fragmenteringsbomber kan springe flere bloons.
-MOAB Mauler Description,MOAB-Mukkerter gør meget mere skade på MOAB-klasse og keramik-bloons
+MOAB Mauler Description,MOAB-Mukkerter gør meget mere skade på MOAB-klasse bloons.
 Cluster Bombs Description,Kaster for hvert skud sekundære bomber i stedet for skarpe fragmenter.
 Bloon Impact Description,Eksplosioner bliver så voldsomme at bloons bliver lammet i kort tid når de bliver ramt. Rækkevidden er øget og fragmenteringsbomber er endnu mere effektive.
 MOAB Assassin Description,"MOAB-snigmorder-evne: Særlige missiler affyres, som gør enorm skade på MOAB-klasse-bloons. Normal angrebsrækkevidde og skade på MOAB-klasse bloons er også forøget."
@@ -799,14 +799,14 @@ Supply Drop Description,Forsyningsnedkastningsevne: kaster en kasse fuld af peng
 Full Auto Rifle Description,Fuldautomatisk våben med utrolig springkraft.
 Cripple MOAB Description,Skadede MOAB-bloons immobiliseres i længere tid og tager ekstra skade fra andre angreb.
 Elite Sniper Description,Forsyningsnedkastning giver flere penge. Giver alle snigskytter Elite-målsøgningsprioritet og hurtigere genopladning.
-Elite Defender Description,Et mistet liv giver kortvarigt denne snigskytte 4x angrebshastighed til at hævne sig.
+Elite Defender Description,Et mistet liv giver kortvarigt denne snigskytte 4x angrebshastighed til at hævne sig. Angrebshastigheden bliver øget jo længere bloons'ene når hen ad banen. Gør mere skade på MOAB-klasse bloons.
 ,
 Longer Range Description,Øger angrebsrækkevidde.
 Barbed Darts Description,Ubådens dartpile kan springe yderligere 3 bloons.
 Twin Guns Description,Ekstra dobbeltløbet maskingevær fordobler angrebshastighed. Forbedrer Ballistisk missil og Bloontonium reaktor.
 Advanced Intel Description,Giver mulighed for langdistanceangreb af bloons indenfor rækkevide af dine andre tårne.
 Heat-tipped Darts Description,Varmebehandlede dartpile kan springe frosne bloons og bly-bloons.
-Airburst Darts Description,Luftsprængningspile deler sig i 3 ved kollision og yder ekstrem springstyrke. Forbedrer Ballistisk missil og Bloontonium reaktor endnu mere.
+Airburst Darts Description,Luftsprængningspile deler sig i 3 ved kollision og yder ekstrem springstyrke. Forbedrer Bloontonium reaktor yderligere.
 Submerge and Support Description,"Undervandsmålsøgning kan permanent se camo-bloons indenfor dens radius, men kan ikke angribe under vand."
 Ballistic Missile Description,Missilet søger mål indefor rækkevidde og gør ekstra skade på MOAB og keramiske bloons.
 Triple Guns Description,"Tilføjer et tredje maskingevær, der skyder endnu hurtigere."
@@ -898,7 +898,7 @@ Ray of Doom Description,"Skaber en solid linje af bloon-udslettelse. Du kan fakt
 M.A.D Description,MOAB-sikret ødelægger. Affyrer langsomt mega-missiler som gør ekstrem skade på MOAB-klasse bloons.
 Bloon Exclusion Zone Description,Opgraderet til 6 geværløb og gør mere skade. Bloons holder simpelthen op med at eksistere.
 ,
-Guided Magic Description,Magiske skud som søger bloons - selv bloons i dækning.
+Guided Magic Description,Magiske skud som varer længere og som søger bloons - selv bloons i dækning.
 Fireball Description,Kaster eksplosive ildkugler med sekunders mellemrum.
 Intense Magic Description,"Flere kraftfulde magiske skud, der flyver hurtigere og kan springe flere bloons."
 Arcane Blast Description,"Større, mere kraftfulde magiske eksplosioner, der springer 2 bloon-lag."
@@ -971,7 +971,7 @@ Heart of Vengeance Description,"Får 10% angrebshastighed, plus 1% for hvert liv
 Druid of the Storm Description,Vindstød blæser bloons af vejen og væk fra udgangen.
 Druid of the Jungle Description,"Hidkalder en ranke fra jorden til at fange bloons og knuse dem én ad gangen, og efterlader en bunke farlige torne."
 Druid of Wrath Description,Øger angrebshastigheden igennem runden så længe druiden angriber bloons.
-Ball Lightning Description,"Skaber kraftfulde kuglelyn, som udspyr ekstra lyn. "
+Ball Lightning Description,"Skaber kraftfulde kuglelyn, som udspyr ekstra lyn og kan frysse bloons."
 Jungle's Bounty Description,"Junglens Skatte-evne: Genererer penge ved hvert brug, og giver ekstra penge pr. bananfarm i nærheden af druiden. Kan også fange to bloons ad gangen med rænkerne."
 Poplust Description,Øger angrebshastigheden og springkraften for andre druider indenfor radius. Kan sammenlægges op til 5 gange på en enkelt druide.
 Superstorm Description,"Superstorm raser alle bloon-typer, som tilfører enorm skade og blæser dem væk fra udgangen."
@@ -1801,7 +1801,7 @@ AviationGradeGlueDescription,MOAB-lim hæmmer mere end normalt.
 CheaperSolution,Billigere Opløsning
 CheaperSolutionDescription,Bloon-smelters pris reduceret med 1000.
 BonusMonkey,Bonus-abe!
-BonusMonkeyDescription,Start spillet med 1 gratis dart-abe!
+BonusMonkeyDescription,Start spillet med 1 gratis dart-abe! (Kun 1 gratis abetårn per spil)
 MoreCash,Flere Penge
 MoreCashDescription,Øger dit startbeløb med 200.
 ,
@@ -1951,7 +1951,7 @@ HotMagicDescription,Alle magiske tårne kan springe frosne bloons.
 ArcaneImpale,Mystisk Spydning
 ArcaneImpaleDescription,Mystisk Søm gør ekstra skade mod MOAB-klasse-bloons og keramiske bloons.
 ColdFront,Koldfront
-ColdFrontDescription,Træfninger med kuglelyn har en chance for at fryse bloons efter springning.
+ColdFrontDescription,Træfninger med kuglelyn fryser bloons efter de har taget skade.
 FlameJet,Flammesøjle
 FlameJetDescription,Drageåndes flamme flyver hurtigere.
 StrikeDownTheFalse,Slå Ned på De Falske
@@ -2572,7 +2572,7 @@ Achievement 72 Description,Færdiggør et løb på under 3 minutter
 Achievement 73 Name,Den største udfordring
 Achievement 73 Description,Skab eller spil 200 udfordringer
 Achievement 74 Name,For lækker
-Achievement 74 Description,Vind 100 spil uden at bruge et helte-skin
+Achievement 74 Description,Vind 100 spil i et helte-skin
 Achievement 75 Name,Økuller
 Achievement 75 Description,Spring {0} Bloons på Halvøen
 Achievement 76 Name,Bloon Mester Springkymist
@@ -2626,7 +2626,7 @@ SentryCold,Kold vagtpost
 SentryEnergy,Energi-vagtpost
 SentryParagon,Mønster-vagtpost
 EditorNumberOfPlayers,Antal spillere
-EditorCoopAreaDivision,Co-op Areal-opdeling
+EditorCoopAreaDivision,Areal-opdeling
 InvalidTarget,Ugyldigt mål
 Adora,Adora
 Adora Short Description,Ypperstepræstinde
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,[I] for at Mørke-skifte indenfor rækkevidde
 DarkChampionDarkshift,[I] for at Mørke-skifte til ethvert gyldigt sted
 SmallTowersMode,Små abetårne
 BigTowersMode,Store abetårne
-UpdatePopupTitle,Opdatering 29!
-UpdatePopupDescription,"God jul opdatering!\n• Behersk verdenshavene med det nyeste abe-mønster: Søens Navarch\n• Giv bloonsene en overhaling på den nye mellemsvære bane: Stillevej\n• Få fat i det seje nye Ezili-skin: Galaxili!\n• Co-op lobby-skabelse renoveret, så du hurtigere kan komme i gang med spillet\n• 17 nye ting i trofæforretningen, og 6 seks som kun kan fås i begrænset tid, så det er om at være hurtig!\n• Nye præstationer, livskvalitetsændringer, balance og fejlretninger - masser af ændringer, se opdateringsnotaterne for at læse alle detaljerne \nDu ønskes en rigtig god jul og godt nytår fra Ninja Kiwi!"
+UpdatePopupTitle,Opdatering 30!
+UpdatePopupDescription,"Ny indholds-opdatering!\n• Kæmp dig igennem den nye avancerede bane: Sunkne søjler\n• Skru op for musikken med nyt Psi-skin: Psi på bækken!\n• Co-op opdelings-opdatering: 2 helt nye opdelinger og alle kan vægles når du opretter et co-op spil\n• 16 nye ting i trofæforretningen og fire nye tidsbegrænsede ting, skynd dig og få fat i dem!\n• 4 nye abekundskaber at låse op for\n• Nye præstationer, livskvalitet og balance-ændringer, se opdaterings-notaterne for at læse detaljerne."
 ResetDailyChest,Geninstil den daglige belønning
 JukeboxName,Jukebox
 EnableFunction,Tillad
@@ -2853,8 +2853,8 @@ AdmiralBrickell Level 3 Description,Flådetaktik: stærk forøgelse af Brickells
 AdmiralBrickell Level 4 Description,Mere springkraft til sø-minerne.
 AdmiralBrickell Level 5 Description,Flåde-taktik øger springkraften og gør at påvirkede aber kan ramme alle bloontyper bortset fra camo.
 AdmiralBrickell Level 6 Description,Øger skaden fra sø-mine- og pistolangreb.
-AdmiralBrickell Level 7 Description,Øget rækkevidde og evnen til at se camo-bloons.
-AdmiralBrickell Level 8 Description,Flådetaktik giver aber evnen til at ramme camo-bloons.
+AdmiralBrickell Level 7 Description,Brickell får øget angrebsrækkevidde og kan se camo-bloons.
+AdmiralBrickell Level 8 Description,"Flådetaktik gør, at påvirkede aber kan ramme camo-bloons. Nærliggende vandbaserede aber får mere springkraft."
 AdmiralBrickell Level 9 Description,Sø-miner gør ekstra skade
 AdmiralBrickell Level 10 Description,Mega-mine: en mine som kan lægges i alle vandområder og som udløses af MOABs og lammer bloons i nærheden. Mega-minen holder i 3 runder.
 AdmiralBrickell Level 11 Description,Hurtigere indsættelsestid og hyppighed for sø-miner.
@@ -3112,7 +3112,7 @@ OdysseyExtremeModeTitle,Ekstrem-mode!
 OdysseyExtremeModeDescription,• I Ekstrem-mode ofrer du dit abehold\n• Efter placering bliver hvert abetårn brugt op og kan ikke bruges igen
 OdysseyCrewRemaining,Tilbageværende holdmedlemmer:
 SaveVersionConflict,Gem udgave-konflikt
-SaveVersionConflictDescription,"Du har et gemt spil fra en nyere udgave af spillet end det du spiller nu.\nOpdater denne udgave, ellers risikerer du at miste dit spil."
+SaveVersionConflictDescription,"Du har et gemt spil fra en nyere udgave af spillet, end det du spiller nu.\nOpdater denne udgave, ellers risikerer du at miste dit spil."
 OdysseyStatsLivesRemaining,Tilbageværende liv
 OdysseyStatsTimeTaken,Tid brugt
 OdysseyStatsTotalMonkeysPlaced,Samlet antal abetårn placeret
@@ -3324,7 +3324,7 @@ CoopEmoteAnimationCelebrationShortName,Fest-emote
 CoopEmoteAnimationCelebrationDescription,Opnå en personlig rekord for at fejre det nye år
 CoopEmoteAnimationFacepalmName,Facepalm-emote
 CoopEmoteAnimationFacepalmShortName,Facepalm
-CoopEmoteAnimationFacepalmDescription,Vil Ben ikke dele sine penge med andre? Lader Quincy bloons slippe forbi ham? Ezili-facepalms er kan passende bruges i mange situationer!
+CoopEmoteAnimationFacepalmDescription,Vil Ben ikke dele sine penge med andre? Lader Quincy bloons slippe forbi ham? Ezili-facepalms kan passende bruges i mange situationer!
 GameUIPowerSkinBaubleMineName,Custom-kraft - Julepynts-mine
 GameUIPowerSkinBaubleMineShortName,Julepynts-mine
 GameUIPowerSkinBaubleMineDescription,"Spring MOABs, og pynt juletræet! Tidsbegrænset samlerobjekt!"
@@ -3673,7 +3673,7 @@ YouFinished,Din placering:
 BestTime,Bedste tid:
 Claim,Accepter
 PlayerRejoinedGame, har tilsluttet sig spillet igen
-PlayerKickedFromGame,{0} er blevet fjernet fra spillet
+PlayerKickedFromGame, er blevet fjernet fra spillet
 ConfirmKickPlayer,"Er du sikker på, at du vil fjerne {0}?"
 Remove,Fjern
 MiniRacesFirstTimeTitle,Mini-løb!
@@ -3789,10 +3789,10 @@ GameUIProfileAvatar41Name,Custom Avatar - Lynbombe-ninja
 GameUIProfileAvatar41ShortName,Lynbombe-avatar
 GameUIProfileAvatar41Description,Avatar vinder af _Concilliabule_
 GameUIProfileAvatar42Name,Custom avatar - Direktør Patch
-GameUIProfileAvatar42ShortName,Direktør Patch
+GameUIProfileAvatar42ShortName,Direktør Patch avatar
 GameUIProfileAvatar42Description,Patch har stille og roligt steget i graderne i abe-finansverdenen
 GameUIProfileAvatar43Name,Custom Avatar - Fyrværkeri-bombekanon
-GameUIProfileAvatar43ShortName,Fyrværkeri-bombekanon
+GameUIProfileAvatar43ShortName,Fyrværkeri-bombe avatar
 GameUIProfileAvatar43Description,Der er ingen bedre måde at affyre de her raketter! Samlerobjekt kan fås i begrænset tid!
 GameUIPowerSkinMonkeyBoostFireworksName,Speciel kraft - Fyrværkeri-abe-boost
 GameUIPowerSkinMonkeyBoostFireworksShortName,Fyrværkeri abe-boost
@@ -3905,7 +3905,7 @@ GameUIProfileBanner5Description,Styrke og slagkraft forenes i dette ubåds-inspi
 Paragon Title,Opgrader til mønster
 Paragon Body,"Dette vil skabe et mønster {0}. Alle andre {1} vil blive destrueret, for at give mønsteret deres kræfter!"
 ft_paragontitle,Mønster-opgradering
-ft_paragondescription,"Opgrader en af dine niveau-5 aber til et mønster! Mønstre absorberer alle aber af deres type, også niveau-5 aber, fra de andre to stier.\n\nGraden af mønster er påvirket af hvor meget kraft bliver absorberet i opgraderings-øjeblikket."
+ft_paragondescription,"Opgrader en af dine niveau 5 aber til mester! Mestre absorberer alle aber af deres slags, inklusive niveau 5 aber fra de andre to stier.\n\nMesterens grad afhænger af, hvor meget energi, som bliver absorberet i opgraderingsøjeblikket. Ikke tilgængelig i Sandkasse."
 ParagonDegreeText,Mønster grad
 DartMonkeys,Dart-aber
 BoomerangMonkeys,Boomerang-aber
@@ -4225,6 +4225,106 @@ CalloutWellRoundedDesc,{0} af hver af de 4 tårntyper
 CalloutEndlessPower,Uendelige mængder kraft!
 CalloutEndlessPowerDesc,Grad {0} mønster skabt
 AnyGame,Ethvert spil
-AnyMap,Ethvert kort
-AnyDifficulty,Enhver vanskelighed
-AnyMode,Enhver tilstand
+AnyMap,Enhver bane
+AnyDifficulty,Enhver sværhedsgrad
+AnyMode,Enhver mode
+DataConsentTitle,Aktiver dataoverførsel
+DataConsentBody,"Hej! Ninja Kiwi har brug for din spil-information, IP-adresse, Gamecenter navn og spil-fremskridt, for at du kan spille Odysséer, Løb, Bosser, Co-op og andre begivenheder. (De fungerer ikke uden data.) Er det i orden?"
+DataConsentAccepted,Tak! Hyg dig med spillene
+DataConsentRejected,"Ikke noget problem. Vi vil ikke bruge din spilinformation, så Odysséer, Løb, Bosser, Co-op og andre begivenheder kan ikke spilles. Du kan stadig spille som enkeltspiller og du kan altid ombestemme dig i indstillingsmenuen."
+DataConsentCurrent,Dataoverførsel: {0}
+DataConsentEnabled,Aktiveret
+DataConsentDisabled,Deaktiveret
+DataConsentReview,Revider
+DataConsentYes,Ja
+DataConsentNo,Nej
+BionicAugmentation,Bionisk forstærkning
+BionicAugmentationDescription,Når turboladning er aktiveret kan bioniske boomeranger se camo-bloons
+XrayUltra,Røntgen ultra
+XrayUltraDescription,Ultra-syn gør at superabe kan både se og skyde igennem forhindringer
+BonusGlueGunner,Bonus limskyder
+BonusGlueGunnerDescription,Start hvert spil med 1 gratis limskyder! (Kun 1 gratis abetårn per spil)
+Achievement 139 Name,En klistret situation
+Achievement 139 Description,Lim 500.000 bloons
+Achievement 140 Name,Flottenheimer
+Achievement 140 Description,Brug 500.000 i en runde
+Achievement 141 Name,Dagens nyheder
+Achievement 141 Description,Vind 365 forskellige daglige udfordringer
+Achievement 142 Name,Jeg vender tilbage
+Achievement 142 Description,Brug 1.000.000 på fortsæt'er og kontrolpunkter
+PetSounds,Kæledyrs-lyde
+UserID,Bruger ID
+SunkenColumns,Sunkne søjler
+PsimbalsPsiSkinName,Bækken
+PsimbalsPsiSkinDescription,Er i klar til noget musik?!
+HeroesStrikerJonesPetGermanShepherdName,Angriber Jones' schæfer-kæledyr
+HeroesStrikerJonesPetGermanShepherdShortName,Angriber schæferhvalp-kæledyr
+HeroesStrikerJonesPetGermanShepherdDescription,Selvfølgelig har Angriber-Jones en schæfer! Det kræver sin hund at lege apport med tungt skyts. Gælder kun original Angriber-Jones.
+HeroesETnPlacementBeamDownName,ET-n teleporter ned og opgrader
+HeroesETnPlacementBeamDownShortName,ET-n teleporter ned
+HeroesETnPlacementBeamDownDescription,Der skal ikke ringes hjem eller teleporteres her. ET-n synes at teleportører er bedst brugt til at springe direkte ind I kampen eller give et unikt pift til en opgradering. Kun ET-n
+TowerPetHeliPilotHummingbirdName,Heli-pilots kolibri-kæledyr
+TowerPetHeliPilotHummingbirdShortName,Heli-pilots kolibri-kæledyr
+TowerPetHeliPilotHummingbirdDescription,Heli-pilot er fantastisk til at at svæve helt stille I luften. Men det smukke kolobri-kæledyr er i en helt anden liga
+TowerProjectileWizardZombiesName,Åndemaner-troldmand zombie-bloons
+TowerProjectileWizardZombiesShortName,Troldmands zombie-bloons
+TowerProjectileWizardZombiesDescription,"Kom med de døde! Disse zombie-bloons og MOAB-klasse bloons er superglade for, at de kan gøre bloons'ene stendøde på et øjeblik."
+BloonsAllBloonsDaisyChainName,Tusindfrydskrans bloons
+BloonsAllBloonsDaisyChainShortName,Tusindfrydskrans bloons
+BloonsAllBloonsDaisyChainDescription,Bloons'ene får blomster! Du kan fejre foråret ved at give alle almindelige bloons en blomsterkrans. Tidsbegrænset samlerobjekt!
+BloonsBADSkinWhaleName,BAD hval
+BloonsBADSkinWhaleShortName,BAD hval
+BloonsBADSkinWhaleDescription,"Vi har det med at tro, at alle hvaler er søde hvaler, men det her lille nuttede lilla bæst er helt afgjort en BAD hval"
+CoopEmoteAnimationObynPeaceName,Obyns freds-emote
+CoopEmoteAnimationObynPeaceShortName,Obyns freds
+CoopEmoteAnimationObynPeaceDescription,"Frit valg - giv en zen-hilsen, få de andre spillere til at være søde med Spiller 3, eller sig undskyld fordi du har forkludret dine aktivere evner. Tidsbegrænset samlerobjekt!"
+CoopEmoteAnimationThinkingMonkeyName,Tænkende abe emote
+CoopEmoteAnimationThinkingMonkeyShortName,Tænkende abe
+CoopEmoteAnimationThinkingMonkeyDescription,"En tænkende abe er en god abe. Kan bruges når man tænker, eller når man undrer sig over, hvad pokker de andre tænker"
+GameUIProfileAvatar56Name,Druide forårsblomster-avatar
+GameUIProfileAvatar56ShortName,Druide forårs-avatar
+GameUIProfileAvatar56Description,"Hidkald forårets magi uanset årstid med denne smukke, eftertænksomme druide-avatar. Tidsbegrænset samlerobjekt!"
+GameUIProfileAvatar57Name,Opdagelsesrejsende-abe ubåds-avatar
+GameUIProfileAvatar57ShortName,Opdagelsesrejsende ubåds-avatar
+GameUIProfileAvatar57Description,Den bedste udsigt fra en ubåd får man ved at tvære sit ansigt helt op ad ruden. Vis din kærlighed for abe-ubåd med denne storøjede avatar.
+GameUIProfileAvatar58Name,Snemanden Fusty is-avatar
+GameUIProfileAvatar58ShortName,Fusty is-avatar
+GameUIProfileAvatar58Description,Patty Frosty elsker is. Klart den bedste avatar for os der sætter pris på de finere ting livet.
+GameUIPowerSkinRoadSpikesFlowerPatchName,Custom kraft - Blomsterbeds-vejspyd
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,Blomsterbeds-vejspyd
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,Hvem siger at vejspyd skal se grove og industrielle ud? Ingen roser uden torne!
+GameUIPowerSkinMonkeyBoostSugarRushName,Custom kraft Sukkerchok abe-boost
+GameUIPowerSkinMonkeyBoostSugarRushShortName,Sukkerchok boost
+GameUIPowerSkinMonkeyBoostSugarRushDescription,"Mennesker: vi ved alle, at vi præsterer mere under indflydelse af kolonorme portioner sukkerguf. Aber: det samme her"
+GameUIProfileBanner10Name,Krusedulle-mester profilbanner
+GameUIProfileBanner10ShortName,Krusedulle-mester banner
+GameUIProfileBanner10Description,Vinderbanner af bonbonni
+GameUIProfileBanner11Name,Åndemanerkundskab profilbanner
+GameUIProfileBanner11ShortName,Åndemanerkundskab banner
+GameUIProfileBanner11Description,Vinderbanner af _Concilliabule_
+GameUIProfileBanner12Name,Det summer profilbanner
+GameUIProfileBanner12ShortName,Det summer banner
+GameUIProfileBanner12Description,Bierne har travlt med at lave honning til mig. Tidsbegrænset samlerobjekt!
+FilterAll,Alle
+FilterHeroPlacementUpgrades,Placerings FX
+FilterHeroPets,Kæledyr
+FilterTowerPlacementUpgrades,Opgrader FX
+FilterTowerPets,Kæledyr
+FilterProjectiles,Projektiler
+FilterFlags,Flag
+FilterPopFX,Spring FX
+FilterAllBloonSkins,Alle bloon skins
+FilterRegularSkins,Bloon skins
+FilterMoabSkins,MOAB skins
+FilterStandardEmotes,Standard emoter
+FilterTextEmotes,Tekst emoter
+FilterSoundEmotes,Lyd emoter
+FilterFullScreenEmotes,Fuldskærm emoter
+FilterMusicTracks,Musik
+FilterAvatars,Avatarer
+FilterPowerSkins,Power-skins
+FilterProfileBanners,Profil-bannere
+FilterMisc,Div
+Blast Chain Ability,Kæde-eksplosion
+Blast Chain Ability Description,Søminer eksploderer hurtigere i en kort periode
+TowerSpecial,Abe Special

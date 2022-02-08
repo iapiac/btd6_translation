@@ -595,7 +595,7 @@ Banana Central,Banansentral
 Monkey-Nomics,Apenomi
 Monkey Wall Street,Ape Wall Street
 ,
-Sentry Gun,Frontkanon
+Sentry Gun,Vaktpistol
 Larger Service Area,Større tjenesteområde
 Oversize Nails,Forstørrede spiker
 Faster Engineering,Raskere ingeniørarbeid
@@ -604,10 +604,10 @@ Pin,Stikke
 Sprockets,Kjedehjul
 Cleansing Foam,Renseskum
 Double Gun,Dobbelpistol
-Sentry Expert,Sentry-ekspert
+Sentry Expert,Vaktekspert
 Overclock,Overklokking
 Bloon Trap,Bloon-felle
-Sentry Paragon,Vakttårnmester
+Sentry Paragon,Mestervakt
 Ultraboost,Ultraboost
 XXXL Trap,XXXL felle
 ,
@@ -651,7 +651,7 @@ Radar Scanner,Radarskanner
 Monkey Commerce,Ape-handel
 Primary Training,Primærtrening
 Monkey Intelligence Bureau,Ape-etteretningsbyrå
-Monkey Town,Apeby
+Monkey Town,Apelandsby
 Primary Mentoring,Primærveiledning
 Call to Arms,Kampinnkalling
 Monkey City,Apeby
@@ -727,7 +727,7 @@ Heavy Bombs Description,Massive bomber som kan sprenge gjennom 2 bloonslag samti
 Missile Launcher Description,"Bytt ut bomber med missiler, for raskere avfyring, redusert lufttid og økt rekkevidde."
 Frag Bombs Description,"Eksplosjoner kaster ut skarpe fragmenter som kan poppe flere bloons, inkludert svarte bloons."
 Really Big Bombs Description,Enorme bomber påfører større skade i et stort område og gjør det mulig for håndgranater å poppe flere bloons.
-MOAB Mauler Description,MOAB-kløyvere gjør mye mer skade på bloons av MOAB-klasse og keramikk.
+MOAB Mauler Description,MOAB-kløyvere gjør mye mer skade på bloons av MOAB-klasse.
 Cluster Bombs Description,Kaster ut sekundærbomber i stedet for skarpe fragmenter hvert skudd.
 Bloon Impact Description,Eksplosjonene blir så voldelige at bloons blir lamslåtte i en kort periode når de blir truffet. Rekkevidden økes og fragmenter blir enda mer effektive.
 MOAB Assassin Description,Drep MOAB-evne: Spesialmissil flyr ut og gjør massiv skade på bloons av MOAB-klasse. Vanlig angrepsrekkevidde og skade på MOAB-klasse økes også.
@@ -798,14 +798,14 @@ Supply Drop Description,Forsyningsslipp-evne: slipper en kasse full av penger. V
 Full Auto Rifle Description,Helautomatisk våpen med utrolig poppekraft.
 Cripple MOAB Description,Skadede MOABer blir immobile lenger og påføres ekstra skade fra alle andre angrep.
 Elite Sniper Description,Forsyningsslipp gir mye mer penger. Gir elite-målprioritet og raskere omlading til alle snikskyttere.
-Elite Defender Description,Et tapt liv gir denne snikskytteren 4x angrepshastighet i en kort periode under motangrep.
+Elite Defender Description,Et tapt liv gir denne snikskytteren 4x angrepshastighet i en kort periode under motangrep. Angriper også raskere jo lengre unna bloonsene er på banen. Gjør ekstra skade på bloons av MOAB-klasse.
 ,
 Longer Range Description,Øker angrepsrekkevidde.
 Barbed Darts Description,Ubåtens dartpiler kan poppe ytterligere 3 bloons.
 Twin Guns Description,Dobbelkraft dobler angrepshastigheten. Forsterker Ballistisk missil og Bloontoniumreaktor.
 Advanced Intel Description,Gjør det mulig å treffe bloons innenfor radiusen til tårnene dine.
 Heat-tipped Darts Description,Varme dartpiler kan poppe frosne bloons og bly-bloons.
-Airburst Darts Description,Deler dartpiler inn i 3 ved kontakt for enormt større poppekraft. Forsterker Ballistisk missil og Bloontoniumreaktor ytterligere.
+Airburst Darts Description,Deler dartpiler inn i 3 ved kontakt for enormt større poppekraft. Forbedrer Bloontonium-reaktoren ytterligere.
 Submerge and Support Description,"Tilfører målrettingsalternativet Gå under, som permanent viser kamuflerte bloons innen rekkevidde, men angriper ikke mens man er under."
 Ballistic Missile Description,Missilet søker mål innen rekkevidde og gjør ekstra skade på MOAB-klasse og keramiske bloons.
 Triple Guns Description,Legger til en tredje pistol for raskere skyting.
@@ -897,7 +897,7 @@ Ray of Doom Description,Skaper en solid linje med utslettelse. Du kan viske ut d
 M.A.D Description,MOAB Absolutte Død. Langsomme megamissiler gjør ekstrem skade på bloons av MOAB-klasse.
 Bloon Exclusion Zone Description,Oppgrader til seks munninger og enormt mye mer skade. Bloons er ekskludert fra eksistens.
 ,
-Guided Magic Description,"Magiske skudd sikter seg inn på bloons, selv de som gjemmer seg."
+Guided Magic Description,"Magiske skudd varer lengre og sikter seg inn på bloons, selv de som gjemmer seg."
 Fireball Description,Med sekunders mellomrom blir det kastet en ildkule-forhekselse.
 Intense Magic Description,Flere kraftige magiske skudd beveger seg raskere og kan poppe flere bloons.
 Arcane Blast Description,Større og kraftigere magiske eksplosjoner popper gjennom 2 lag med bloons.
@@ -970,7 +970,7 @@ Heart of Vengeance Description,"Får 10 % angrepshastighet, i tillegg til 1 % fo
 Druid of the Storm Description,Vindkast blåser bloons av banen og bort fra utgangen.
 Druid of the Jungle Description,"Får en ranke fra bakken til å vikle seg rundt og knuse bloons én etter én, og den etterlater seg en sti av dødelige torner."
 Druid of Wrath Description,Øker angrepshastighet i løpet av runden så lenge Druiden angriper bloons.
-Ball Lightning Description,Skaper kraftfulle lynkuler som skyter ytterligere lyn. 
+Ball Lightning Description,Skaper kraftfulle lynkuler som skyter ytterligere lyn og kan fryser bloons.
 Jungle's Bounty Description,"Jungelens overflod-evne: Genererer penger hver gang den brukes, pluss ekstra penger per banangård i nærheten av druiden. Kan også gripe tak i to bloons med ranker om gangen."
 Poplust Description,Øker angrepshastigheten og gjennomtrengningskraften til alle Druider innenfor radiusen. Kan stables opptil 5 ganger på én Druide.
 Superstorm Description,Superstorm sprenger alle bloon-typer for massiv skade og blåser dem vekk fra utgangen.
@@ -993,19 +993,19 @@ Banana Central Description,Vil du ha en banan? Vi har bananer!
 Monkey-Nomics Description,Når du er for stor til å feile …
 Monkey Wall Street Description,Sentrum for Ape-handel gir kolossal inntekt og genererer liv i hver runde.
 ,
-Sentry Gun Description,Oppretter midlertidige frontkanoner og distribuerer dem i nærheten.
-Larger Service Area Description,Skyter lenger og utplasserer soldater på et mye større område. Vakttårn har lenger rekkevidde.
+Sentry Gun Description,Oppretter midlertidige vaktpistoler og distribuerer dem i nærheten.
+Larger Service Area Description,Skyter lenger og utplasserer vakter på et mye større område. Vakttårn har lenger rekkevidde.
 Oversize Nails Description,"Massivering gjør det mulig for nagler å poppe 8 bloons samtidig, inkludert frosne. Øker også effektiviteten til skum og vakter."
-Faster Engineering Description,"Økt effektivitet gjør det mulig for ingeniøren å produsere vakttårn, skum og bloonfeller oftere."
-Deconstruction Description,Spikerpistol- og vakt skudd gjør ekstra skade på alle bloons av MOAB-klasse og Forsterkede bloons.
+Faster Engineering Description,"Økt effektivitet gjør det mulig for ingeniøren å produsere vakter, skum og bloonfeller oftere."
+Deconstruction Description,Spikerpistol- og vaktskudd gjør ekstra skade på alle bloons av MOAB-klasse og Forsterkede bloons.
 Pin Description,Spikrer fast en bloon i en kort periode når de blir truffet.
-Sprockets Description,Øker angrepshastigheten til kanontårnet og Ingeniør.
+Sprockets Description,Øker angrepshastigheten til vaktpistolen og Ingeniør.
 Cleansing Foam Description,Sprayer skum som fjerner kamuflasje og gjenvekst og popper bly-bloons.
 Double Gun Description,To pistoler for dobbelt så mye moro.
-Sentry Expert Description,Soldater utplasseres med forskjellige skadetyper etter dine behov.
+Sentry Expert Description,Vakter utplasseres med forskjellige skadetyper etter dine behov.
 Overclock Description,Overklokke-evne: Sikter på et annet tårn for å superlade angrepshastigheten dets i kort tid.
 Bloon Trap Description,Bloonfelle fanger bloons til den blir full. Velg fellen for å tømme den mot penger.
-Sentry Paragon Description,"Lager superkraftige, men svært ustabile vakttårn."
+Sentry Paragon Description,"Lager superkraftige, men svært ustabile vakter."
 Ultraboost Description,"Ultra-overklokkede aper får små, men permanente boostere hver gang de overklokkes."
 XXXL Trap Description,Store bloon-feller kan fange selv noen av de største bloons …
 ,
@@ -1312,7 +1312,7 @@ Get More,Skaff mer
 // PauseMenu ,
 Controls,Kontroller
 Drag & Drop,Dra og slipp
-Lock & Drop,Dra og slipp
+Lock & Drop,Slipp og lås
 Line of Sight,Siktelinje
 Continuous Play,Kontinuerlig spill
 Off,Av
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,MOAB-lim sakker ned mer enn normalt.
 CheaperSolution,Billigere løsning
 CheaperSolutionDescription,Kostnad for bloon-væskeomgjører redusert med 1000.
 BonusMonkey,Bonusape!
-BonusMonkeyDescription,Hvert spill starter med 1 gratis Dart-ape!
+BonusMonkeyDescription,Hvert spill starter med 1 gratis Dart-ape! (Bare 1 gratis apetårn per spill)
 MoreCash,Mer penger
 MoreCashDescription,Øker startpenger med 200.
 ,
@@ -1811,8 +1811,8 @@ FarmSubsidy,Gårdstilskudd
 FarmSubsidyDescription,Første Banangård i hvert spill koster 100 mindre.
 MoreValuableBananas,Flere verdifulle bananer
 MoreValuableBananasDescription,Verdifulle bananer-oppgradering øker med 30%.
-VigilantSentries,Årvåkent kanontårn
-VigilantSentriesDescription,Kanontårn varer lenger enn normalt.
+VigilantSentries,Årvåkne vakter
+VigilantSentriesDescription,Vakttårn varer lenger enn normalt.
 OneMoreSpike,Én til spiker
 OneMoreSpikeDescription,Spikerfabrikkstabling får +1 spiker.
 GlobalAbilityCooldowns,Globale evnenedkjølinger
@@ -1950,7 +1950,7 @@ HotMagicDescription,Alle magiske tårn kan poppe frosne bloons.
 ArcaneImpale,Mystisk spidding
 ArcaneImpaleDescription,Mystiske spikere gjør ekstra skade på bloons MOAB-klasse og keramiske bloons.
 ColdFront,Kald front
-ColdFrontDescription,Lynkule-treff har muligheten til å fryse bloons etter å ha påført skade.
+ColdFrontDescription,Lynkule-treff fryser bloons etter å ha påført skade.
 FlameJet,Flammejet
 FlameJetDescription,Dragepust-flammeprosjektiler beveger seg mye raskere.
 StrikeDownTheFalse,Slå ned de falske
@@ -2618,14 +2618,14 @@ CalloutMostGenerous,Den mest sjenerøse
 CalloutMostGenerousDesc,{0} kontanter gitt bort
 CoopDailyChallenge,Daglig samarbeidsutfordring
 Spillway,Forgiftning
-Sentry,Vaktpost
+Sentry,Vakt
 SentryBoom,Eksplosjonsvakt
 SentryCrushing,Piggball-vakt
 SentryCold,Kuldevakt
 SentryEnergy,Energivakt
-SentryParagon,Tårnmester
+SentryParagon,Mestervakt
 EditorNumberOfPlayers,Antall spillere
-EditorCoopAreaDivision,Delt samarbeidsområde
+EditorCoopAreaDivision,Kartdeling
 InvalidTarget,Ugyldig mål
 Adora,Adora
 Adora Short Description,Yppersteprestinne
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] for å Mørkehoppe innen rekkevidde
 DarkChampionDarkshift,[I] for å Mørkehoppe til et gyldig sted
 SmallTowersMode,Små apetårn
 BigTowersMode,Store apetårn
-UpdatePopupTitle,Oppdatering 29!
-UpdatePopupDescription,"God jul – sesongoppdatering!\n• Dominer alle vann med den nyeste Ape-paragonen: Havets admiral\n• Stopp de ville bloonsene på det nye middels vanskelige kartet: Stillegata\n• Plukk med deg en herlig ny Ezili-drakt: Galaxili!\n• Samarbeidsbasert lobbyopprettelse går nå raskere!\n• 17 nye ting i trofébutikken, blant annet 6 tidsbegrensede – vær rask!\n• Nye prestasjoner, forbedringer, balanseringer og rettelser – mange herlige endringer. Sjekk oppdateringsmerknadene for å få all informasjonen.\nGledelig jul og godt nyttår fra alle oss i Ninja Kiwi!"
+UpdatePopupTitle,Oppdatering 30!
+UpdatePopupDescription,"Ny innholdsoppdatering!\n• Kjemp deg gjennom det nye avanserte kartet: Sunkne søyler\n•Tilfør støy med den nye Psi-drakten: Psimbaler!\n• Samarbeidsdeling-oppdatering: 2 splitter nye delinger er lagt til og alle kan velges i samarbeidsspill\n• 16 nye gjenstander i Trofébutikk, blant annet 4 nye tidsbegrensede – skaff dem raskt!\n• 4 nye apekunnskaper å låse opp\n• Nye prestasjoner, forbedringer og justeringer – sjekk oppdateringsmerknadene for å få all informasjonen."
 ResetDailyChest,Tilbakestill den Daglige kisten
 JukeboxName,Jukeboks
 EnableFunction,Aktiver
@@ -2852,8 +2852,8 @@ AdmiralBrickell Level 3 Description,Marinetaktikker: Øker i kort tid angrepshas
 AdmiralBrickell Level 4 Description,Mer poppekraft for sjøminer.
 AdmiralBrickell Level 5 Description,Marinetaktikker øker poppekraften og lar påvirkede aper treffe alle bloon-typer unntatt kamuflerte bloons.
 AdmiralBrickell Level 6 Description,Øker skaden til sjøminer og pistolangrep.
-AdmiralBrickell Level 7 Description,Økt angrepsrekkevidde og deteksjon av kamuflerte bloons.
-AdmiralBrickell Level 8 Description,Marinetaktikker lar påvirkede aper treffe kamuflerte bloons.
+AdmiralBrickell Level 7 Description,Brickell får økt angrepsrekkevidde og kan oppdage kamuflerte bloons.
+AdmiralBrickell Level 8 Description,Med marinetaktikk kan påvirkede aper treffe kamuflerte bloons. Vanntårn i radius får ekstra gjennomtrening.
 AdmiralBrickell Level 9 Description,Sjøminer gir ekstra skade.
 AdmiralBrickell Level 10 Description,Megamine: En masseødeleggende mine plasseres i et vannområde som utløses av MOAB-klasse bloons og lamslår bloons i nærheten. Megaminen varer i 3 runder.
 AdmiralBrickell Level 11 Description,Raskere utsettingshastighet og -frekvens for sjøminer.
@@ -3672,7 +3672,7 @@ YouFinished,Du kom på:
 BestTime,Beste tid:
 Claim,Hent
 PlayerRejoinedGame, har blitt med i spillet igjen
-PlayerKickedFromGame,{0} har blitt fjernet fra spillet
+PlayerKickedFromGame, har blitt fjernet fra spillet
 ConfirmKickPlayer,Er du sikker på at du vil fjerne {0}?
 Remove,Fjern
 MiniRacesFirstTimeTitle,Mini-race!
@@ -3788,10 +3788,10 @@ GameUIProfileAvatar41Name,Tilpasset avatar – Flashbombeninja
 GameUIProfileAvatar41ShortName,Flashbombeninja
 GameUIProfileAvatar41Description,Avatarvinner av _Concilliabule_
 GameUIProfileAvatar42Name,Tilpasset avatar - forretnings-Patch
-GameUIProfileAvatar42ShortName,Forretnings-Patch
+GameUIProfileAvatar42ShortName,Forretnings-Patch-avatar
 GameUIProfileAvatar42Description,Patch har i det stille klatret på bedriftsstigen i Apedom
 GameUIProfileAvatar43Name,Tilpasset avatar – Fyrverkeriskyter
-GameUIProfileAvatar43ShortName,Fyrverkeriskyter
+GameUIProfileAvatar43ShortName,Fyrverkeriskyter-avatar
 GameUIProfileAvatar43Description,Finnes det en bedre måte å skyte raketter på? Tidsbegrenset samlergjenstand!
 GameUIPowerSkinMonkeyBoostFireworksName,Tilpasset kraft – fyrverkeri-apeøkning
 GameUIPowerSkinMonkeyBoostFireworksShortName,Fyrverkeri-apeøkning
@@ -3904,7 +3904,7 @@ GameUIProfileBanner5Description,Makt og faretruende harmoni kombineres i dette u
 Paragon Title,Oppgrader til paragon
 Paragon Body,"Denne handlingen vil lage en paragon {0}. Alle andre {1} blir ødelagt i prosessen, for å gi styrke til paragonen!"
 ft_paragontitle,Paragonoppgradering aktivert!
-ft_paragondescription,"Oppgrader én av apene dine på nivå 5 til en paragon! Paragoner absorberer alle apene av sin type, inkludert aper på nivå 5 fra de to andre banene.\n\nParagongraden påvirkes av hvor mye kraft som absorberes ved oppgraderingen."
+ft_paragondescription,"Oppgrader én av apene dine på nivå 5 til en paragon! Paragoner absorberer alle apene av sin type, inkludert aper på nivå 5 fra de to andre banene.\n\nParagongraden påvirkes av hvor mye kraft som absorberes ved oppgraderingen. Ikke tilgjengelig i Sandkasse."
 ParagonDegreeText,Paragongrad
 DartMonkeys,Dart-aper
 BoomerangMonkeys,Bumerang-aper
@@ -4223,7 +4223,107 @@ CalloutWellRounded,Allsidig
 CalloutWellRoundedDesc,{0} av hver av de 4 tårntypene
 CalloutEndlessPower,Endeløs kraft!
 CalloutEndlessPowerDesc,Paragon av grad {0} opprettet
-AnyGame,Hvilket som helst spill
-AnyMap,Ethvert kart
-AnyDifficulty,Enhver vanskelighetsgrad
-AnyMode,Enhver modus
+AnyGame,Alle spill
+AnyMap,Alle kart
+AnyDifficulty,Alle vanskelighetsgrader
+AnyMode,Alle moduser
+DataConsentTitle,Aktiver dataoverføring
+DataConsentBody,"Hei! Vi i Ninja Kiwi må bruke spillinformasjonen din, som IP-adresse, GameCenter-navn og spillframdrift, for å at du skal kunne spille odysseer, løp, mot sjefer, samarbeid og andre hendelser. (Disse fungerer ikke uten denne informasjonen.) Er det greit?"
+DataConsentAccepted,Takk! Kos deg med hendelsene
+DataConsentRejected,"Ingen problem. Vi skal ikke bruke spillinformasjonen din, så odysseer, løp, mot sjefer, samarbeid og innholdsvisning deaktiveres. Du kan fortsatt spille enspillermodusen og du kan endre valget i Innstillinger."
+DataConsentCurrent,Dataoverføring: {0}
+DataConsentEnabled,Aktivert
+DataConsentDisabled,Deaktivert
+DataConsentReview,Les mer
+DataConsentYes,Ja
+DataConsentNo,Nei
+BionicAugmentation,Bionisk forbedring
+BionicAugmentationDescription,Mens turbolading er aktiv kan bionisk bumerang også treffe kamuflerte bloons.
+XrayUltra,Ultrarøntgen
+XrayUltraDescription,Med ultrasyn kan superaper se og skyte gjennom blokkerende gjenstander
+BonusGlueGunner,Ekstra limskyter
+BonusGlueGunnerDescription,Hvert spill starter med 1 gratis limskyter! (Bare 1 gratis apetårn per spill)
+Achievement 139 Name,Klebrig situasjon
+Achievement 139 Description,Lim 500 000 ballonger
+Achievement 140 Name,Storforbruker
+Achievement 140 Description,Bruk 1 000 000 penger i én runde
+Achievement 141 Name,Dagens Reid
+Achievement 141 Description,Vinn 365 unike daglige utfordringer
+Achievement 142 Name,Jeg kommer tilbake
+Achievement 142 Description,Bruk 1000 apepenger på Fortsett eller Kontrollpunkt
+PetSounds,Dyrelyder
+UserID,Bruker-ID
+SunkenColumns,Sunkne søyler
+PsimbalsPsiSkinName,Psimbaler
+PsimbalsPsiSkinDescription,Er du klar for et show?!
+HeroesStrikerJonesPetGermanShepherdName,Striker Jones' gjeterhund-kjæledyr
+HeroesStrikerJonesPetGermanShepherdShortName,Strikers valpekjæledyr
+HeroesStrikerJonesPetGermanShepherdDescription,Så klart har Striker en gjeterhund! Tar en robust hund for å leke apport med skulderskutte leker. Bare originale Striker Jones
+HeroesETnPlacementBeamDownName,ET-n nedadgående stråling – plassering og oppgradering
+HeroesETnPlacementBeamDownShortName,ET-n nedadgående stråling
+HeroesETnPlacementBeamDownDescription,Ingen ringing eller stråling hjem. ET-n tror teleporterere er bedre for å hoppe rett i spenningen eller tilføre signaturtrekk til oppgraderinger. Kun ET-n
+TowerPetHeliPilotHummingbirdName,Helikopterpilot – kolibri-kjæledyr
+TowerPetHeliPilotHummingbirdShortName,Helikopterpilot – kolibri-kjæledyr
+TowerPetHeliPilotHummingbirdDescription,"Helikopterpilot er sykt flink å fly, men dette vakre kolibri-kjæledyret er bevis på at at man alltid kan bli bedre."
+TowerProjectileWizardZombiesName,Trollmann-åndemaner – zombie-bloons
+TowerProjectileWizardZombiesShortName,Trollmann-åndebloons
+TowerProjectileWizardZombiesDescription,Hent fram de døde! Disse åndebloonsene og bloonsene av MOAB-klasse liker å gjøre invaderende bloons steindøde på et øyeblikk.
+BloonsAllBloonsDaisyChainName,Tusenfrydkjede-bloons
+BloonsAllBloonsDaisyChainShortName,Tusenfrydkjede-bloons
+BloonsAllBloonsDaisyChainDescription,"Ring rundt rosen, alle bloons toppes med kranser! Feir våren med denne blomsterkransen på alle vanlige bloons. Tidsbegrenset samlergjenstand!"
+BloonsBADSkinWhaleName,BAD-hval
+BloonsBADSkinWhaleShortName,BAD-hval
+BloonsBADSkinWhaleDescription,Dette søte magentabeistet er noen majestetiske hvaler.
+CoopEmoteAnimationObynPeaceName,Obyn – fredsemote
+CoopEmoteAnimationObynPeaceShortName,Obyn-fred
+CoopEmoteAnimationObynPeaceDescription,"Valget er ditt – tilby en zen-hilsen, få andre til å gi spiller 3 litt pusterom, eller beklag for alt tullet med de aktiverte evnene. Obyn-fred er svaret. Tidsbegrenset samlergjenstand!"
+CoopEmoteAnimationThinkingMonkeyName,Tenkende ape-emote
+CoopEmoteAnimationThinkingMonkeyShortName,Tenkende ape
+CoopEmoteAnimationThinkingMonkeyDescription,"En tenkende ape er en god ape. Fungerer når du tenker, eller når du lurer på hva i alle dager noen andre tenker på."
+GameUIProfileAvatar56Name,Druide-vårblomster-avatar
+GameUIProfileAvatar56ShortName,Druide-våravatar
+GameUIProfileAvatar56Description,"Ta i bruk vårmagien året rundt med denne vakre, moderne druideavataren. Tidsbegrenset samlergjenstand!"
+GameUIProfileAvatar57Name,Utforskerape-ubåt-avatar
+GameUIProfileAvatar57ShortName,Utforskerubåt-avatar
+GameUIProfileAvatar57Description,Det finnes ikke bedre utsikt i en ubåt enn når hele ansiktet ditt er presset mot glasset. Vis ubåten litt kjærlighet i denne avataren med vide øyne.
+GameUIProfileAvatar58Name,Snømannen Fusty iskrem-avatar
+GameUIProfileAvatar58ShortName,Fusty iskrem-avatar
+GameUIProfileAvatar58Description,Pat Frosty elsker virkelig iskrem. Helt klart den beste avataren for de av oss som er ekte livsnytere.
+GameUIPowerSkinRoadSpikesFlowerPatchName,Tilpasset kraft – blomsterbed-spikermatter
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,Blomsterbed-spiker
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,"Hvem sa at spikermatter må se røffe og industrielle ut? Hvis du prøver å plukke disse blomstene, stikker du deg!"
+GameUIPowerSkinMonkeyBoostSugarRushName,Tilpasset kraft – sukkerkick-apeøkning
+GameUIPowerSkinMonkeyBoostSugarRushShortName,Sukkerkick-økning
+GameUIPowerSkinMonkeyBoostSugarRushDescription,Mennesker: Vi vet alle at vi presterer bedre under enorme mengder med deilig sukker. Aper også.
+GameUIProfileBanner10Name,Doodlebriljans – profilbanner
+GameUIProfileBanner10ShortName,Doodlebriljans-banner
+GameUIProfileBanner10Description,Bannervinner av bonbonni
+GameUIProfileBanner11Name,Arkaisk nekronikom – profilbanner
+GameUIProfileBanner11ShortName,Arkaisk nekronikom-banner
+GameUIProfileBanner11Description,Bannervinner av _Concillabule_
+GameUIProfileBanner12Name,Summende klar – profilbanner
+GameUIProfileBanner12ShortName,Summende klar-banner
+GameUIProfileBanner12Description,Biene summer i trærne for å lage meg honning. Tidsbegrenset samlergjenstand!
+FilterAll,Alle
+FilterHeroPlacementUpgrades,Plasser FX
+FilterHeroPets,Kjæledyr
+FilterTowerPlacementUpgrades,Oppgrader FX
+FilterTowerPets,Kjæledyr
+FilterProjectiles,Prosjektiler
+FilterFlags,Flagg
+FilterPopFX,Popp FX
+FilterAllBloonSkins,Alle bloonsdrakter
+FilterRegularSkins,Bloonsdrakter
+FilterMoabSkins,MOAB-drakter
+FilterStandardEmotes,Standard emoter
+FilterTextEmotes,Tekstemoter
+FilterSoundEmotes,Lydemoter
+FilterFullScreenEmotes,Fullskjermsemoter
+FilterMusicTracks,Musikkspor
+FilterAvatars,Avatarer
+FilterPowerSkins,Kraftskins
+FilterProfileBanners,Profilbannere
+FilterMisc,Diverse
+Blast Chain Ability,Hurtigkjede
+Blast Chain Ability Description,Havminer avfyres i kort tid raskere
+TowerSpecial,Apespesial

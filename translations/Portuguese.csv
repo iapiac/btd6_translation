@@ -727,7 +727,7 @@ Heavy Bombs Description,Bombas pesadas que podem estourar 2 camadas de Bloons de
 Missile Launcher Description,"Troca bombas por mísseis, que disparam mais rápido e têm maior alcance."
 Frag Bombs Description,"Explosões espalham fragmentos afiados que podem estourar mais Bloons, inclusive os Pretos."
 Really Big Bombs Description,Grandes bombas causam mais dano numa grande área e permitem que os fragmentos explodam mais Bloons.
-MOAB Mauler Description,Esmaga MOAB causa muito mais dano a Bloons Classe MOAB e Cerâmica.
+MOAB Mauler Description,Esmaga MOAB causa muito mais dano a Bloons Classe MOAB.
 Cluster Bombs Description,Lança bombas secundárias ao invés de fragmentos afiados a cada disparo.
 Bloon Impact Description,As explosões ficam tão violentas que os Bloons ficam atordoados por um pequeno tempo quando atingidos. O alcance aumenta e os fragmentos são ainda mais eficientes.
 MOAB Assassin Description,Habilidade Assassinar MOAB: Míssil especial voa e causa dano massivo a Bloons Classe MOAB. O alcance do ataque básica e o dano contra classe MOAB também aumentam.
@@ -798,14 +798,14 @@ Supply Drop Description,Habilidade Descarga de Suprimentos: Deixa uma caixa chei
 Full Auto Rifle Description,Arma completamente automática com incrível poder de estouro.
 Cripple MOAB Description,MOABs ficam incapacitados por mais tempo e tomam dano extra de todos os outros ataques.
 Elite Sniper Description,A Descarga de Suprimentos dá muito mais dinheiro. Concede mira de elite e recarga mais rápida para todos os atiradores.
-Elite Defender Description,Uma vida perdida dá a esse Atirador velocidade de ataque x4 por um curto período de tempo em resposta.
+Elite Defender Description,Uma vida perdida dá a esse Atirador velocidade de ataque x4 por um curto período de tempo em resposta. Também ataca mais rápido conforme os Bloons avançam mais na pista. Causa mais dano a todos os Bloons classe MOAB.
 ,
 Longer Range Description,Aumenta o alcance do ataque.
 Barbed Darts Description,Os dardos do Sub podem estourar mais 3 Bloons.
 Twin Guns Description,Arma Dupla duplica velocidade de ataque. Melhora o Míssil Balístico e o Reator de Bloontônio.
 Advanced Intel Description,Possibilita disparos de longo alcance contra Bloons no raio de suas outras torres.
 Heat-tipped Darts Description,Dardos com pontas incandescentes possibilitam o estouro de Bloons Congelados e de Chumbo.
-Airburst Darts Description,Dardos de Ar se dividem em três no impacto para maior poder de estouro. Melhora ainda mais o Míssil Balístico e o Reator de Bloontônio.
+Airburst Darts Description,Dardos de Ar se dividem em três no impacto para maior poder de estouro. Melhora ainda mais o Reator de Bloontônio.
 Submerge and Support Description,"Adiciona a opção de mira submersa que revela permanentemente Bloons Camuflados no seu raio, mas não ataca enquanto submerso."
 Ballistic Missile Description,O míssil persegue o alvo dentro do alcance e causa dano extra em MOAB e Cerâmica.
 Triple Guns Description,Adiciona uma terceira arma para disparos ainda mais rápidos.
@@ -897,7 +897,7 @@ Ray of Doom Description,Cria uma linha sólida de aniquilação. Você pode apag
 M.A.D Description,Destruidor Garantido de MOAB. Megamísseis de disparo lento causam dano extremo a Bloons classe MOAB.
 Bloon Exclusion Zone Description,Melhoria para 6 canos e um aumento enorme no dano. Bloons são excluídos da existência.
 ,
-Guided Magic Description,"Rajadas mágicas seguem os Bloons, mesmo protegidos."
+Guided Magic Description,"Rajadas mágicas duram mais e seguem os Bloons, mesmo protegidos."
 Fireball Description,"A cada segundo, lança uma magia de bola de fogo explosiva."
 Intense Magic Description,Rajadas mágicas mais poderosas se movem mais rápido e podem estourar mais Bloons.
 Arcane Blast Description,Rajadas mágicas maiores e mais poderosas estouram duas camadas de Bloons.
@@ -970,7 +970,7 @@ Heart of Vengeance Description,"Ganha 10% de velocidade de ataque, mais 1% por c
 Druid of the Storm Description,Rajadas de vento afastam Bloons da saída.
 Druid of the Jungle Description,"Invoca vinhas do chão para enredar e esmagar Bloons, um de cada vez, deixando para trás uma pilha de espinhos mortal."
 Druid of Wrath Description,Ganha velocidade de ataque durante a rodada enquanto o Druida estiver atacando Bloons.
-Ball Lightning Description,Cria poderosas bolas de raios que disparam raios adicionais. 
+Ball Lightning Description,Cria poderosas bolas de raios que disparam raios adicionais e pode congelar Bloons.
 Jungle's Bounty Description,Habilidade Dom da Selva: Gera dinheiro a cada uso e dinheiro extra por Fazenda de Bananas perto do Druida. Também pode pegar dois Bloons com vinhas de uma vez.
 Poplust Description,Aumenta a velocidade de ataque e perfuração dos outros Druidas no raio. Pode acumular com até 5 vezes em um único Druida.
 Superstorm Description,A Supertempestade estoura todos os tipos de Bloon com dano massivo e os afasta da saída.
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,A Cola MOAB desacelera mais que o normal.
 CheaperSolution,Solução mais Barata
 CheaperSolutionDescription,Custo do Liquidifica Bloons reduzido em 1000.
 BonusMonkey,Macaco Bônus!
-BonusMonkeyDescription,Comece cada jogo com um Macaco Dardo grátis!
+BonusMonkeyDescription,Comece cada jogo com um Macaco Dardo grátis! (Apenas 1torre macaco grátis por jogo)
 MoreCash,Mais Dinheiro
 MoreCashDescription,Aumenta o Dinheiro Inicial em 200.
 ,
@@ -1950,7 +1950,7 @@ HotMagicDescription,Todas as torres do tipo Mágico podem estourar Bloons Congel
 ArcaneImpale,Empalamento Arcano
 ArcaneImpaleDescription,A Lança Arcana causa dano extra em Bloons de Cerâmica e Classe MOAB.
 ColdFront,Frente Gélida
-ColdFrontDescription,Acertos da Esfera de Raios têm uma chance de congelar Bloons após causar dano.
+ColdFrontDescription,Acertos da Esfera de Raios congelam Bloons após causar dano.
 FlameJet,Jato de Chamas
 FlameJetDescription,Projéteis do Sopro do Dragão se movem muito mais rápido.
 StrikeDownTheFalse,Derrubar os Falsos
@@ -2625,7 +2625,7 @@ SentryCold,Torre Gélida
 SentryEnergy,Torre de Energia
 SentryParagon,Torre Campeã
 EditorNumberOfPlayers,Número de jogadores
-EditorCoopAreaDivision,Divisão de área do Cooperativo
+EditorCoopAreaDivision,Divisão de Mapa
 InvalidTarget,Alvo inválido
 Adora,Adora
 Adora Short Description,Sumo Sacerdotisa
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] para usar Teleporte Sombrio no alcance
 DarkChampionDarkshift,[I] para usar Teleporte Sombrio para qualquer local válido
 SmallTowersMode,Torres Macacos Pequenos
 BigTowersMode,Torres Macacos Grandes
-UpdatePopupTitle,Atualização 29!
-UpdatePopupDescription,"Atualização de Boas Festas!\n• Domine todas as águas com o mais novo Macaco com Excelência: Navarco dos Mares\n• Impeça esses Bloons arruaceiros no novo mapa intermediário: Rua Quieta\n• Pegue o incrível novo visual de Ezili: Galaxili!\n• Criação de lobby cooperativo remodelada para você entrar no jogo mais rápido\n• 17 novos itens da loja de troféus, incluindo 6 itens de tempo limitado. Pegue-os logo!\n• Novas conquistas, melhorias de qualidade de vida, equilíbrios e correções - muitas grandes mudanças, configura as notas de atualização para ver todos os detalhes\nOs mais calorosos votos de boas festas e feliz ano novo, de todos nós da Ninja Kiwi!"
+UpdatePopupTitle,Atualização 30!
+UpdatePopupDescription,"Nova atualização de conteúdo!\n• Lute pelo novo mapa Avançado: Colunas Submersas\n• Aumente o som com o novo visual de Psi: Psimbals!\n• Atualização da divisão cooperativa: 2 novas divisões adicionadas e todas são selecionáveis ao definir uma partida cooperativa\n• 16 novos itens na Loja de Troféus, incluindo 4 novos itens por tempo limitado. Pegue-os logo!\n• 4 novos Conhecimentos Símios para liberar\n• Novas conquistas, melhorias de qualidade de vida e mudanças de equilíbrio. Confira as notas de atualização para ver todos os detalhes."
 ResetDailyChest,Zerar Baú Diário
 JukeboxName,Jukebox
 EnableFunction,Habilitar
@@ -2852,8 +2852,8 @@ AdmiralBrickell Level 3 Description,Táticas Navais: aumenta muito a velocidade 
 AdmiralBrickell Level 4 Description,Mais poder de estouro para Minas Marítimas.
 AdmiralBrickell Level 5 Description,"Táticas Navais aumentam o poder de estouro e permitem que Macacos afetados atinjam todos os Bloons, exceto Camuflados."
 AdmiralBrickell Level 6 Description,Aumenta o dano de Minas Aquáticas e ataques de Pistola.
-AdmiralBrickell Level 7 Description,Aumenta o alcance dos ataques e a detecção de Bloons Camuflados.
-AdmiralBrickell Level 8 Description,Táticas Navais permitem que Macacos atinjam Bloons Camuflados.
+AdmiralBrickell Level 7 Description,Brickell ganha aumento no alcance dos ataques e detecção de Bloons Camuflados.
+AdmiralBrickell Level 8 Description,Táticas Navais permitem que Macacos atinjam Bloons Camuflados. Torres de água no alcance ganham perfuração extra.
 AdmiralBrickell Level 9 Description,Minas Aquáticas causam dano extra.
 AdmiralBrickell Level 10 Description,Megamina: envia uma mina devastadora em qualquer área aquática que ativa em MOABs e atordoa Bloons próximos. Megaminas duram 3 rodadas.
 AdmiralBrickell Level 11 Description,Velocidade e frequência de uso mais rápidas para Minas Aquáticas.
@@ -3672,7 +3672,7 @@ YouFinished,Você concluiu:
 BestTime,Melhor tempo:
 Claim,Coletar
 PlayerRejoinedGame, retornou ao jogo
-PlayerKickedFromGame,{0} foi removido(a) do jogo
+PlayerKickedFromGame, foi removido(a) do jogo
 ConfirmKickPlayer,Quer mesmo remover {0}?
 Remove,Remover
 MiniRacesFirstTimeTitle,Minicorridas!
@@ -3788,10 +3788,10 @@ GameUIProfileAvatar41Name,Avatar Personalizado - Ninja da Bomba de Luz
 GameUIProfileAvatar41ShortName,Avatar Bomba de Luz
 GameUIProfileAvatar41Description,Avatar vencedor por _Concilliabule_
 GameUIProfileAvatar42Name,Avatar Personalizado - Patch Corporativo
-GameUIProfileAvatar42ShortName,Patch Corporativo
+GameUIProfileAvatar42ShortName,Avatar Patch Corporativo
 GameUIProfileAvatar42Description,Patch esteve silenciosamente subindo a ladeira corporativa do mundo macaco.
 GameUIProfileAvatar43Name,Avatar Personalizado - Bombardeiro de Fogos
-GameUIProfileAvatar43ShortName,Bombardeiro de Fogos
+GameUIProfileAvatar43ShortName,Avatar Bomba de Fogos
 GameUIProfileAvatar43Description,Que jeito melhor de disparar esses foguetes? Item de colecionador por tempo limitado!
 GameUIPowerSkinMonkeyBoostFireworksName,Poder Personalizado - Impulso Símio de Fogos
 GameUIPowerSkinMonkeyBoostFireworksShortName,Impulso Símio de Fogos
@@ -3904,7 +3904,7 @@ GameUIProfileBanner5Description,Poder e perigo se combinam nesta bandeira de per
 Paragon Title,Melhoria para Excelência
 Paragon Body,"Essa ação criará um {0} de Excelência. Todos os outros {1} serão destruídos no processo, alimentando o poder da Excelência!"
 ft_paragontitle,Melhoria de Excelência habilitada!
-ft_paragondescription,"Melhore um dos seus macacos nível 5 para Excelência! Excelência absorve todos os macacos do mesmo tipo, incluindo os macacos nível 5 dos outros dois caminhos.\n\nO grau da Excelência é influenciado por quanto poder é absorvido no momento da melhoria."
+ft_paragondescription,"Melhore um dos seus macacos nível 5 para Excelência! Excelência absorve todos os macacos do mesmo tipo, incluindo os macacos nível 5 dos outros dois caminhos.\n\nO grau da Excelência é influenciado por quanto poder é absorvido no momento da melhoria. Não disponível no Sandbox."
 ParagonDegreeText,Grau da Excelência
 DartMonkeys,Macacos Dardos
 BoomerangMonkeys,Macacos Bumerangues
@@ -4227,3 +4227,103 @@ AnyGame,Qualquer jogo
 AnyMap,Qualquer mapa
 AnyDifficulty,Qualquer dificuldade
 AnyMode,Qualquer modo
+DataConsentTitle,Habilitar transferência de dados
+DataConsentBody,"Olá! Nós da Ninja Kiwi precisamos usar suas informações de jogo, incluindo endereço de IP, nome do GameCenter e progresso de jogo, para permitir que você jogue Odisseias, Corridas, Chefes, Cooperativo e outros eventos. (Eles não funcionam sem esses dados."
+DataConsentAccepted,Obrigado! Divirta-se jogando esses eventos.
+DataConsentRejected,"Sem problema. Não vamos usar suas informações de jogo, então Odisseias, Corridas, Chefes, Cooperativo e o navegador de conteúdo serão desabilitados. Você ainda pode jogar o modo solo e pode revisar esta configuração a qualquer momento no menu de configura"
+DataConsentCurrent,Transferência de dados: {0}
+DataConsentEnabled,Habilitada
+DataConsentDisabled,Desabilitada
+DataConsentReview,Rever
+DataConsentYes,Sim
+DataConsentNo,Não
+BionicAugmentation,Melhoria Biônica
+BionicAugmentationDescription,"Enquanto a Carga Turbo estiver ativa, o Bumerangue Biônico é capaz de atingir Bloons Camuflados."
+XrayUltra,Raio X Ultra
+XrayUltraDescription,Ultravisão permite que os Supermacacos vejam e disparem através de bloqueios.
+BonusGlueGunner,Cospe Cola Bônus
+BonusGlueGunnerDescription,Comece cada jogo com um Cospe Cola grátis! (Apenas 1torre macaco grátis por jogo)
+Achievement 139 Name,Situação Pegajosa
+Achievement 139 Description,Cole 500.000 Bloons.
+Achievement 140 Name,Ostentação
+Achievement 140 Description,Gaste 1.000.000 em uma rodada.
+Achievement 141 Name,Desafio Periódico
+Achievement 141 Description,Vença 365 Desafios Diários únicos.
+Achievement 142 Name,Eu Voltarei
+Achievement 142 Description,Gaste 1.000 de DdM em continuações ou pontos de verificação.
+PetSounds,Sons de Animais
+UserID,ID de usuário
+SunkenColumns,Colunas Submersas
+PsimbalsPsiSkinName,Psimbals
+PsimbalsPsiSkinDescription,Tudo pronto pro show?!
+HeroesStrikerJonesPetGermanShepherdName,Pet Pastor Alemão do Striker Jones
+HeroesStrikerJonesPetGermanShepherdShortName,Pet Pastor Striker
+HeroesStrikerJonesPetGermanShepherdDescription,Claro que o Striker tem um Pastor Alemão! É preciso um canino robusto para brincar de pegar com brinquedos disparados por um canhão. Apenas Striker Jones original.
+HeroesETnPlacementBeamDownName,ET-n Teleporte Posicionamento e Melhoria
+HeroesETnPlacementBeamDownShortName,ET-n Teleporte
+HeroesETnPlacementBeamDownDescription,Nada de ligar pra casa ou voltar aqui. ET-n acha que teleportes são melhores para cair direto na ação ou adicionar um estilo próprio às melhorias. Apenas ET-n.
+TowerPetHeliPilotHummingbirdName,Pet Beija-Flor do Helicóptero
+TowerPetHeliPilotHummingbirdShortName,Pet Beija-Flor do Helicóptero
+TowerPetHeliPilotHummingbirdDescription,"O Helicóptero é incrível no ar, mas esse belo beija-flor mostra que sempre é possível melhorar."
+TowerProjectileWizardZombiesName,Feiticeiro Necromante Bloons Zumbis
+TowerProjectileWizardZombiesShortName,Feiticeiro Necro Bloons
+TowerProjectileWizardZombiesDescription,Tragam seus mortos! Esses Bloons e classe MOAB necro parecem felizes em tornar Bloons invasores mortos rapidinho.
+BloonsAllBloonsDaisyChainName,Ciranda de Bloons
+BloonsAllBloonsDaisyChainShortName,Ciranda de Bloons
+BloonsAllBloonsDaisyChainDescription,"Ciranda, cirandinha, todos os Bloons vão cirandar! Comemore a primavera com esse círculo florido em todos os Bloons comuns. Item de colecionador por tempo limitado!"
+BloonsBADSkinWhaleName,Baleia BAD
+BloonsBADSkinWhaleShortName,Baleia BAD
+BloonsBADSkinWhaleDescription,"Costumamos pensar que todas as baleias são boas, mas essa fera magenta com aparência fofa é definitivamente má."
+CoopEmoteAnimationObynPeaceName,Emote Obyn Paz
+CoopEmoteAnimationObynPeaceShortName,Obyn Paz
+CoopEmoteAnimationObynPeaceDescription,"Você pode escolher: oferecer uma saudação zen, pedir pra pegarem leve com o jogador 3, ou pedir desculpas por errar seu especial. Obyn Paz é a resposta. Item de colecionador por tempo limitado!"
+CoopEmoteAnimationThinkingMonkeyName,Reação Macaco Pensativo
+CoopEmoteAnimationThinkingMonkeyShortName,Macaco Pensativo
+CoopEmoteAnimationThinkingMonkeyDescription,"Um macaco pensativo é um bom macaco. Funciona quando você está pensando, ou quando se pergunta o que os outros estão pensando."
+GameUIProfileAvatar56Name,Avatar Druida Flores da Primavera
+GameUIProfileAvatar56ShortName,Avatar Druida Primavera
+GameUIProfileAvatar56Description,Invoque a magia da primavera a qualquer momento do ano com esse belo e contemplativo avatar de Druida. Item de colecionador por tempo limitado!
+GameUIProfileAvatar57Name,Avatar Explorador do Macaco Sub
+GameUIProfileAvatar57ShortName,Avatar Explorador Sub
+GameUIProfileAvatar57Description,O melhor jeito de olhar no submarino é com seu rosto inteiro contra o vidro. Dê amor ao Sub com esse avatar de olhos arregalados.
+GameUIProfileAvatar58Name,"Avatar de Sorvete de Fusty, o Boneco de Neve"
+GameUIProfileAvatar58ShortName,Avatar Fusty Sorvete
+GameUIProfileAvatar58Description,"Eu gosto, você gosta, todos adoram esse sorvete. Claramente o melhor avatar para quem aprecia as melhores coisas da vida."
+GameUIPowerSkinRoadSpikesFlowerPatchName,Poder Personalizado - Espinhos de Flores
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,Espinhos de Flores
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,Quem disse que Espinhos precisam parecer industriais e violentos? Tente pegar essas flores e veja os espinhos!
+GameUIPowerSkinMonkeyBoostSugarRushName,Poder Personalizado - Impulso Símio de Açúcar
+GameUIPowerSkinMonkeyBoostSugarRushShortName,Impulso de Açúcar
+GameUIPowerSkinMonkeyBoostSugarRushDescription,Humanos: todos sabemos que funcionamos melhor com quantidades absurdas de açúcar. Macacos: também.
+GameUIProfileBanner10Name,Bandeira de Perfil Desenho Brilhante
+GameUIProfileBanner10ShortName,Bandeira Desenho Brilhante
+GameUIProfileBanner10Description,Bandeira vencedora por bonbonni
+GameUIProfileBanner11Name,Bandeira de Perfil Arcanum Necronomicon
+GameUIProfileBanner11ShortName,Bandeira Arcanum Necronomicon
+GameUIProfileBanner11Description,Bandeira vencedora por _Concilliabule_
+GameUIProfileBanner12Name,Bandeira de Perfil Zumbido
+GameUIProfileBanner12ShortName,Bandeira Zumbido
+GameUIProfileBanner12Description,As abelhas estão zumbindo nas árvores para fazer mel só pra mim. Item de colecionador por tempo limitado!
+FilterAll,Tudo
+FilterHeroPlacementUpgrades,Som de posicionamento
+FilterHeroPets,Pets
+FilterTowerPlacementUpgrades,Som de melhoria
+FilterTowerPets,Pets
+FilterProjectiles,Projéteis
+FilterFlags,Bandeiras
+FilterPopFX,Som de estouro
+FilterAllBloonSkins,Todos os visuais de Bloon
+FilterRegularSkins,Visuais de Bloon
+FilterMoabSkins,Visuais de MOAB
+FilterStandardEmotes,Reações padrão
+FilterTextEmotes,Reações de texto
+FilterSoundEmotes,Reações de som
+FilterFullScreenEmotes,Reações de tela cheia
+FilterMusicTracks,Faixas de música
+FilterAvatars,Avatares
+FilterPowerSkins,Visuais de poder
+FilterProfileBanners,Bandeiras de perfil
+FilterMisc,Diversos
+Blast Chain Ability,Sequência de Explosões
+Blast Chain Ability Description,Minas marítimas disparam mais rápido por um curto período.
+TowerSpecial,Especial de Macaco

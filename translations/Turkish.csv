@@ -727,7 +727,7 @@ Heavy Bombs Description,Dayanıklı bombalar Bloon’ların tek seferde 2 katman
 Missile Launcher Description,"Bombaları füzelerle değiştirir; bombalar daha hızlı ateşlenir, daha hızlı uçar ve menzili artırır."
 Frag Bombs Description,"Patlamalar, Siyah Bloon’lar dahil daha fazla Bloon’u patlatabilen keskin parçalar fırlatır."
 Really Big Bombs Description,Büyük bombalar geniş bir alana daha fazla hasar verir ve Bomba Parçalarının daha fazla Bloon patlatmasına olanak tanır.
-MOAB Mauler Description,"TBA Hırpalayıcı Açıklaması TBA Hırpalayıcılar, TBA Sınıfı Bloomlara ve seramiklere daha fazla hasar verir."
+MOAB Mauler Description,"MOAB Hırpalayıcılar, MOAB Sınıfı Bloon’lara çok daha fazla hasar verir."
 Cluster Bombs Description,Her atışta keskin parçalar yerine ikincil bombalar fırlatır.
 Bloon Impact Description,"Patlamalar öyle şiddetlenir ki, vurulan Bloon’lar kısa süreliğine sersemler. Menzil artar ve bomba parçaları daha da etkili hale gelir."
 MOAB Assassin Description,Suikast MOAB Yeteneği: Özel füze uçar ve MOAB sınıfı Bloon’lara toplu hasar verir. Normal saldırı menzili ve MOAB sınıfı hasar da artırıldı.
@@ -798,14 +798,14 @@ Supply Drop Description,İkmal Malzemesi Düşürme Yeteneği: nakitle dolu bir 
 Full Auto Rifle Description,İnanılmaz patlatma gücüne sahip tam otomatik silah.
 Cripple MOAB Description,Felç olan MOAB’lar daha uzun süre hareketsizleşir ve diğer tüm saldırılardan ekstra hasar alır.
 Elite Sniper Description,İkmal malzemesi düşürme çok daha fazla nakit kazandırır. Tüm keskin nişancılara Elit hedefleme önceliği ve daha hızlı yükleme sağlar.
-Elite Defender Description,Kayıp bir ömür bu Keskin Nişancıya kısa süreliğine 4 kat saldırı hızı kazandırır.
+Elite Defender Description,"Kayıp bir ömür bu Keskin Nişancıya kısa süreliğine 4 kat saldırı hızı kazandırır. Ayrıca, Bloon’lar parkurdan ne kadar uzaktaysa saldırılar o kadar hızlanır. MOAB Sınıfı Bloon’lara daha fazla hasar verir."
 ,
 Longer Range Description,Saldırı menzili artar.
 Barbed Darts Description,Denizaltının okları ek olarak 3 Bloon patlatabilir.
 Twin Guns Description,Eklenen ikiz silah. Balistik Füze ve Bloontoniyum Reaktörü’nü iyileştirir.
 Advanced Intel Description,Diğer atıcılarının yarıçapı içindeki Bloon’ların uzun menzilli hedeflenmesini sağlar.
 Heat-tipped Darts Description,Kızgın uçlu oklar Donmuş ve Kurşun Bloon’ların patlamasını sağlar.
-Airburst Darts Description,Havada patlayan oklar büyük oranda arttırılmış patlatma gücü için 3 parçaya ayrılır. Balistik Füze ve Bloontoniyum Reaktörü’nü daha fazla iyileştirir.
+Airburst Darts Description,Havada patlayan oklar büyük oranda arttırılmış patlatma gücü için 3 parçaya ayrılır. Bloontoniyum Reaktörü’nü daha fazla iyileştirir.
 Submerge and Support Description,Yarıçapı içindeki Kamuflajlı Bloon’ları kalıcı olarak görünür hale getiren Suya Batık hedefleme seçeneği ekler ancak batıkken saldırıda bulunmaz.
 Ballistic Missile Description,Füze menzil içinde hedefi bulabilir ekstra MOAB ve Seramik hasarı verir.
 Triple Guns Description,Çok daha hızlı ateşleme için üçüncü bir silah ekler.
@@ -897,7 +897,7 @@ Ray of Doom Description,Kesintisiz bir imha oluşturur. Zamanın olduğunda ço�
 M.A.D Description,MOAB Garantili Yok Edici. Daha yavaş ateşlemeli mega füzeler MOAB Sınıfı Bloon’lara aşırı derecede hasar verir.
 Bloon Exclusion Zone Description,6 namluya yükseltildi ve son derece yüksek hasar verir. Bloon’ların varlığı silinir.
 ,
-Guided Magic Description,Büyülü atışlar saklanıyor olsalar bile Bloon’ları arayıp bulur.
+Guided Magic Description,"Büyülü atışlar, saklanıyor olsalar bile Bloon’ları arayıp bulur ve daha uzun sürer."
 Fireball Description,Her birkaç saniyede bir patlayıcı ateş topu büyüsü yapar.
 Intense Magic Description,Daha güçlü büyülü atışlar daha hızlı hareket eder ve daha fazla Bloon patlatabilir.
 Arcane Blast Description,"Daha büyük, daha güçlü büyülü patlamalar Bloon’un 2 katmanını patlatır."
@@ -968,9 +968,9 @@ Heart of Thunder Description,Düzenli olarak Bloon’dan Bloon’a kavis çizen 
 Heart of Oak Description,"Saldırılar, Yeniden Şişen Bloon'ları normal Bloon’lara dönüştürür."
 Heart of Vengeance Description,Yükseltmeden sonra başlangıç değerinden itibaren %10 saldırı hızı ve kaybedilen her can için %1 saldırı hızı kazanır. %100’de maksimuma çıkar ve canlar geri yüklenirse azalır.
 Druid of the Storm Description,Kuvvetli rüzgâr Bloon’ları çıkıştan uzağa parkurun dışına uçurur.
-Druid of the Jungle Description,Bloon’ları teker teker engellemek ve çarpmak için yerden bir üzüm asması çağırır, geride ölümcül bir diken yığını bırakır.
+Druid of the Jungle Description,Bloon’ları teker teker engellemek ve çarpmak için yerden bir üzüm asması çağırır geride ölümcül bir diken yığını bırakır.
 Druid of Wrath Description,Tur sırasında Medyum Bloon’lara saldırdığı sürece saldırı hızı artar.
-Ball Lightning Description,Ek yıldırımlar fırlatan güçlü yıldırım topları oluşturur.  
+Ball Lightning Description,Ek yıldırımlar fırlatan güçlü yıldırım topları oluşturur ve Bloon’ları dondurabilir.
 Jungle's Bounty Description,Ormanın Hediyesi Yeteneği: Her kullanımda ve ayrıca Medyumun yanındaki her Muz Çiftliği için ekstra nakit oluşturur. Asma yapraklarıyla tek seferde iki Bloon da yakalayabilir.
 Poplust Description,Yarıçaptaki tüm Medyumlar için saldırı hızını ve delmeyi artırır. Herhangi bir tek Medyumda 5 kez istiflenebilir.
 Superstorm Description,Süper Fırtına tüm Bloon türlerini ağır hasar vererek patlatır ve onları çıkışın uzağına uçurur.
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,MOAB Yapışkanı normalden daha fazla yavaşlatır
 CheaperSolution,Daha Ucuz Çözüm
 CheaperSolutionDescription,Bloon Sıvılaştırıcı maliyeti 1000 azalır.
 BonusMonkey,Bonus Maymun!
-BonusMonkeyDescription,Her oyuna 1 ücretsiz Okçu Maymun ile başla!
+BonusMonkeyDescription,Her oyuna 1 ücretsiz Okçu Maymun ile başla! (Oyun başına yalnızca 1 ücretsiz Maymun Atıcı)
 MoreCash,Daha Fazla Nakit
 MoreCashDescription,Başlangıç nakdini 200 artır.
 ,
@@ -1950,7 +1950,7 @@ HotMagicDescription,Tüm Sihir türü atıcılar Donmuş Bloon’ları patlatabi
 ArcaneImpale,Gizli Delme
 ArcaneImpaleDescription,Gizli Çivi MOAB Sınıfı ve Seramik Bloon’lara ekstra hasar verir.
 ColdFront,Soğuk Cephe
-ColdFrontDescription,Top Şimşek vuruşlarının hasar verdikten sonra Bloon’ları dondurma şansı vardır.
+ColdFrontDescription,Top Şimşek vuruşları hasar verdikten sonra Bloon’ları dondurur.
 FlameJet,Alevli Jet
 FlameJetDescription,Ejderha Nefesi alev fırlatıcıları çok daha hızlı hareket eder.
 StrikeDownTheFalse,Kötüye Saldırı
@@ -2625,7 +2625,7 @@ SentryCold,Soğuk Nöbetçi
 SentryEnergy,Enerji Nöbetçisi
 SentryParagon,Şampiyon Gözcü
 EditorNumberOfPlayers,Oyuncu Sayısı
-EditorCoopAreaDivision,İşbirliği Alan Bölme
+EditorCoopAreaDivision,Harita Bölümü
 InvalidTarget,Geçersiz Hedef
 Adora,Adora
 Adora Short Description,Yüce Rahibe
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,Menzilde Karanlık Kayması için [I]
 DarkChampionDarkshift,Herhangi bir geçerli konuma Karanlık Kayması için [I]
 SmallTowersMode,Küçük Maymun Atıcılar
 BigTowersMode,Büyük Maymun Atıcılar
-UpdatePopupTitle,29’yı Güncelle!
-UpdatePopupDescription,"Mutlu Yıllar Güncellemesi!\n• En yeni Maymun Gözcü ile denizlerin hakimi ol: Donanma Kumandanı\n• Yeni orta seviye haritadaki parkurları üzerinde şu zorba Bloon’ları durdur: Sessiz Sokak\n• Yeni, muhteşem Ezili dış görünümünü kap: Galaxili!\n• İş Birliği Lobisi oluşturma, oyuna daha hızlı girmen için yenilendi\n• 6 yeni sınırlı süreli olanlar dahil, 17 yeni ganimet mağazası eşyası; onları hemen al!\n• Yeni başarılar, yaşam kalitesi değişiklikleri, denge ayarları ve düzeltmeler - pek çok harika değişiklik, daha fazla ayrıntı için güncelleme notlarına göz at\nNinja Kiwi ekibi olarak En İçten Yılbaşı Dileklerimizi sunar ve Mutlu Yıllar dileriz!"
+UpdatePopupTitle,30’yı Güncelle!
+UpdatePopupDescription,"Yeni içerik güncellemesi!\n• Yeni Zor Seviye Harita Batık Sütunlar ile mücadelende ilerle\n• Yeni Psi dış görünümü Psimbal ile ses getir!\n• İş birliği bölümleri güncellemesi: 2 yepyeni bölüm eklendi ve iş birliği oyunu ayarlandığında tümü seçilebilir\n• 4 yeni sınırlı süreli eşya dahil, 16 yeni Ganimet Mağazası eşyası, onları hemen al!\n• Açılacak 4 yeni Maymun Bilgisi\n• Yeni Başarılar, yaşam kalitesi ve denge değişiklikleri, tüm ayrıntılar için güncelleme notlarına göz at"
 ResetDailyChest,Günlük Sandığı Sıfırla
 JukeboxName,Müzik Kutusu
 EnableFunction,Etkinleştir
@@ -2852,8 +2852,8 @@ AdmiralBrickell Level 3 Description,Deniz Taktikleri: Brickell ve yakında suda 
 AdmiralBrickell Level 4 Description,Deniz Mayınları için daha fazla patlatma gücü.
 AdmiralBrickell Level 5 Description,"Deniz Taktikleri patlatma gücünü artırır ve etkilenen Maymunların Kamuflajlı hariç, tüm Bloon türlerini vurmasına olanak tanır."
 AdmiralBrickell Level 6 Description,Deniz Mayınları ve Tabanca saldırılarının hasarını artırır.
-AdmiralBrickell Level 7 Description,Yüksek saldırı menzili ve Kamuflajlı Bloon tespiti.
-AdmiralBrickell Level 8 Description,Deniz Taktikleri etkilenen Maymunların Kamuflajlı Bloon’ları vurmasına olanak tanır.
+AdmiralBrickell Level 7 Description,"Brickell, yüksek saldırı menzili ve Kamuflajlı Bloon tespiti kazanır."
+AdmiralBrickell Level 8 Description,Deniz Taktikleri etkilenen Maymunların Kamuflajlı Bloon’ları vurmasına olanak tanır. Yarıçaptaki su atıcıları ekstra delme kazanır.
 AdmiralBrickell Level 9 Description,Deniz Mayınları ekstra hasar verir.
 AdmiralBrickell Level 10 Description,Mega Mayın: herhangi bir suya MOAB’lar üzerinde tetiklenen ve yakındaki Bloon’ları sersemleten bir yok edici Mayın yerleştirir. Mega Mayınlar 3 tur sürer.
 AdmiralBrickell Level 11 Description,Deniz Mayınları için daha hızlı konuşlanma hızı ve konuşlanma oranı.
@@ -3672,7 +3672,7 @@ YouFinished,Bitirdin:
 BestTime,En İyi Süre:
 Claim,Al
 PlayerRejoinedGame, oyuna tekrar katıldı
-PlayerKickedFromGame,{0} oyundan çıkarıldı
+PlayerKickedFromGame, oyundan çıkarıldı
 ConfirmKickPlayer,{0} için çıkarma işlemi yapmak istediğinden emin misin?
 Remove,Çıkar
 MiniRacesFirstTimeTitle,Mini Yarışlar!
@@ -3788,10 +3788,10 @@ GameUIProfileAvatar41Name,Özel Avatar - Flaş Bomba Ninjası
 GameUIProfileAvatar41ShortName,Flaş Bomba Avatarı
 GameUIProfileAvatar41Description,"_Concilliabule_, Avatar galibi"
 GameUIProfileAvatar42Name,Özel Avatar - Şirketin Yaması
-GameUIProfileAvatar42ShortName,Şirketin Yaması
+GameUIProfileAvatar42ShortName,Şirketin Yaması Avatarı
 GameUIProfileAvatar42Description,"Yama, Maymun Kubbesine giden şirket merdivenlerini sessizce tırmanıyordu"
 GameUIProfileAvatar43Name,Özel Avatar - Havai Fişek Bombası Fırlatıcı
-GameUIProfileAvatar43ShortName,Havai Fişek Bombası Fırlatıcı
+GameUIProfileAvatar43ShortName,Havai Fişek Bombası Avatarı
 GameUIProfileAvatar43Description,Bu roketleri daha iyi ateşlemenin bir yolu var mı? Sınırlı Süreli Koleksiyoncu Eşyası!
 GameUIPowerSkinMonkeyBoostFireworksName,Özel Güç - Havai Fişek Maymun Desteği
 GameUIPowerSkinMonkeyBoostFireworksShortName,Havai Fişek Maymun Desteği
@@ -3904,7 +3904,7 @@ GameUIProfileBanner5Description,"Bu Denizaltıdan esinlenilen özel profil afiş
 Paragon Title,Gözcüye Yükselt
 Paragon Body,Bu eylemle bir Gözcü {0} oluşur. Diğer tüm {1} olanlar işlem sırasında yok edilerek Gözcünün Gücünü besler!
 ft_paragontitle,Gözcü Yükseltmesi Etkinleştirildi!
-ft_paragondescription,"5. Kademe Maymunlarından birini Gözcüye yükselt! Gözcüler, diğer iki yoldaki 5. Kademe Maymunlar dahil, kendi türlerindeki tüm Maymunları emer.\n\nYükseltme sırasında ne kadar gücün emildiği Gözcünün derecesini etkiler."
+ft_paragondescription,"5. Kademe Maymunlarından birini Gözcüye yükselt! Gözcüler, diğer iki yoldaki 5. Kademe Maymunlar dahil, kendi türlerindeki tüm Maymunları emer.\n\nYükseltme sırasında ne kadar gücün emildiği Gözcünün derecesini etkiler. Özgür modda mevcut değil."
 ParagonDegreeText,Gözcü Derecesi
 DartMonkeys,Okçu Maymunlar
 BoomerangMonkeys,Bumerang Maymunlar
@@ -4223,7 +4223,107 @@ CalloutWellRounded,Çok Yönlü
 CalloutWellRoundedDesc,4 atıcı türünün her birinden {0} adet
 CalloutEndlessPower,Sınırsız Güç!
 CalloutEndlessPowerDesc,{0}. Derece Gözcü oluşturuldu
-AnyGame,Herhangi Oyun
-AnyMap,Herhangi bir Harita
+AnyGame,Herhangi Bir Oyun
+AnyMap,Herhangi Bir Harita
 AnyDifficulty,Herhangi Bir Zorluk
-AnyMode,Herhangi bir Mod
+AnyMode,Herhangi Bir Mod
+DataConsentTitle,Veri Aktarımını Etkinleştir
+DataConsentBody,"Merhaba! Yolculukları, Yarışları, Patronları, İş Birliğini ve diğer Etkinlikleri oynamanı sağlayabilmemiz için Ninja Kiwi ekibi olarak; IP adresi, Game Center adı ve oyun deneyimi ilerlemesi dahil, oyun deneyimine ilişkin bilgileri kullanmamız gerekir. (Bu etkinlikler söz konusu bilgiler olmadan çalışmaz.) Bu senin için uygun mu?"
+DataConsentAccepted,Teşekkürler! Bu etkinliklerin tadını çıkar
+DataConsentRejected,"Sorun değil. Oyun deneyimine ilişkin bilgileri kullanmayız; böylece Yolculuklar, Yarışlar, Patronlar, İş Birliği ve İçerik Tarayıcısı devre dışı bırakılır. Yine Tek Oyunculu oyun oynayabilir ve Ayarlar menüsünden istediğin zaman bu ayarı değiştirebilirsin."
+DataConsentCurrent,Veri Aktarımı: {0}
+DataConsentEnabled,Etkin
+DataConsentDisabled,Devre Dışı
+DataConsentReview,İncele
+DataConsentYes,Evet
+DataConsentNo,Hayır
+BionicAugmentation,Biyonik Büyüme
+BionicAugmentationDescription,"Turbo Yük etkinken, Biyonik Bumerang, Kamuflajlı Bloon’ları hedefleyebilir."
+XrayUltra,X-ışını Ultra
+XrayUltraDescription,"Ultravizyon, Süper Maymunların engelleyen nesnelerin içinden görmesine ve atış yapabilmesine olanak tanır."
+BonusGlueGunner,Bonus Yapışkan Nişancı
+BonusGlueGunnerDescription,Her oyuna 1 ücretsiz Yapışkan Nişancı ile başla! (Oyun başına yalnızca 1 ücretsiz Maymun Atıcı)
+Achievement 139 Name,Yapışkan Durum
+Achievement 139 Description,500.000 Bloon’u yapışkanla
+Achievement 140 Name,Savurgan
+Achievement 140 Description,Tek turda 1.000.000 nakit harca
+Achievement 141 Name,Günlük Reid
+Achievement 141 Description,365 benzersiz günlük görev kazan
+Achievement 142 Name,Geri Döneceğim
+Achievement 142 Description,Devam veya Kontrol Noktaları için 1000 MP harca
+PetSounds,Evcil Hayvan Sesleri
+UserID,Kullanıcı Kimliği
+SunkenColumns,Batık Sütunlar
+PsimbalsPsiSkinName,Zilli Psi
+PsimbalsPsiSkinDescription,Bir gösteriye hazır mısın?!
+HeroesStrikerJonesPetGermanShepherdName,Vurucu Jones Alman Çobanı Evcil Hayvanı
+HeroesStrikerJonesPetGermanShepherdShortName,Striker Köpek Evcil Hayvanı
+HeroesStrikerJonesPetGermanShepherdDescription,Tabii ki Striker’ın Alman Çoban Köpeği var! Omuzdan atılan oyuncakları gidip getirmeli oyunlar için güçlü bir köpek alır. Yalnızca Orijinal Vurucu Jones
+HeroesETnPlacementBeamDownName,ET-n Işınlama Yeri ve Yükseltmesi
+HeroesETnPlacementBeamDownShortName,ET-n Işınlama
+HeroesETnPlacementBeamDownDescription,"Buradan evi aramak veya ışınlanmak yok. ET-n, ışınlayıcıların harekete geçmede veya yükseltmelere muhteşem bir kabiliyet eklemede kullanılmasının daha iyi olduğunu düşünüyor. Yalnızca ET-n"
+TowerPetHeliPilotHummingbirdName,Helikopter Pilotu Sinek Kuşu Evcil Hayvanı
+TowerPetHeliPilotHummingbirdShortName,Helikopter Pilotu Sinek Kuşu Evcil Hayvanı
+TowerPetHeliPilotHummingbirdDescription,"Helikopter Pilotunun bazı çılgın havada durma becerileri var ama bu güzel sinek kuşu evcil hayvanı, her zaman gelişime yer olduğunu gösteriyor"
+TowerProjectileWizardZombiesName,Büyücü Sihirbaz Zombi Bloon’lar
+TowerProjectileWizardZombiesShortName,Büyücü Sihirbaz Bloon’lar
+TowerProjectileWizardZombiesDescription,"Ölünü ortaya çıkar! Bu büyücü Bloon’lar ve MOAB Sınıfı Bloon’lar, istilacı Bloon’ları anında yok etmekten mutluluk duyuyor."
+BloonsAllBloonsDaisyChainName,Papatya Dizimli Bloon’lar
+BloonsAllBloonsDaisyChainShortName,Papatya Dizimli Bloon’lar
+BloonsAllBloonsDaisyChainDescription,Tüm Bloon’ları güzel çiçeklerle kapla! Bu çiçekli halkayı tüm normal Bloon’lar üzerinde uygulayarak Baharı kutla. Sınırlı Süreli Koleksiyoncu Eşyası!
+BloonsBADSkinWhaleName,BAD Balina
+BloonsBADSkinWhaleShortName,BAD Balina
+BloonsBADSkinWhaleDescription,"Tüm balinaların iyi balinalar olduğunu düşünürdük ama bu sevimli görünüşlü macenta yaratık kesinlikle kötü, yani BAD balina."
+CoopEmoteAnimationObynPeaceName,Obyn Barış Emojisi
+CoopEmoteAnimationObynPeaceShortName,Obyn Barış
+CoopEmoteAnimationObynPeaceDescription,"Sen seç; bir zen selamı ver, diğerlerinin Oyuncu 3’e baskılarını azalt veya etkinleşmiş becerilerini mahvettiğin için özür dile. Obyn Barış cevaptır. Sınırlı Süreli Koleksiyoncu Eşyası!"
+CoopEmoteAnimationThinkingMonkeyName,Düşünen Maymun Emojisi
+CoopEmoteAnimationThinkingMonkeyShortName,Düşünen Maymun
+CoopEmoteAnimationThinkingMonkeyDescription,Düşünen Maymun iyi bir maymundur. Sen düşünürken veya bir başkasının ne haltlar düşündüğünü merak ettiğinde çalışır.
+GameUIProfileAvatar56Name,Medyum Bahar Çiçekleri Avatarı
+GameUIProfileAvatar56ShortName,Medyum Bahar Avatarı
+GameUIProfileAvatar56Description,"Bu güzel, düşünceli Medyum avatarı ile yılın herhangi bir zamanında Baharın sihrini uyandır. Sınırlı Süreli Koleksiyoncu Eşyası!"
+GameUIProfileAvatar57Name,Kâşif Maymun Denizaltı Avatarı
+GameUIProfileAvatar57ShortName,Kâşif Denizaltı Avatarı
+GameUIProfileAvatar57Description,"Bir denizaltıda, tüm yüzünün cama yaslanmış olduğu bir manzaradan daha güzeli yoktur. Bu gözleri fal taşı gibi açılmış avatarla Denizaltıya biraz sevgi ver."
+GameUIProfileAvatar58Name,Fusty Kardan Adam Dondurma Avatarı
+GameUIProfileAvatar58ShortName,Fusty Dondurma Avatarı
+GameUIProfileAvatar58Description,"Ben donmayayım, sen donma, Pat Frosty sever dondurma. Hayatta daha güzel şeyleri takdir edenlerimiz için kesinlikle en iyi avatar."
+GameUIPowerSkinRoadSpikesFlowerPatchName,Özel Güç - Çiçek Yamalı Yol Çivileri
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,Çiçek Yamalı Çiviler
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,"Kim demiş Yol Çivilerinin sert, endüstriyel raptiyeler gibi görünmesi gerekiyor diye? Bu çiçekleri koparmaya çalışırsan dikenlerine katlanırsın!"
+GameUIPowerSkinMonkeyBoostSugarRushName,Özel Güç - Şekere Hücum Maymun Desteği
+GameUIPowerSkinMonkeyBoostSugarRushShortName,Şekere Hücum Desteği
+GameUIPowerSkinMonkeyBoostSugarRushDescription,İnsanlar: hepimiz bol miktarda şeker muhteşemliğinin etkisiyle daha iyi performans gösterdiğimizi biliyoruz. Maymunlar: aynı.
+GameUIProfileBanner10Name,Karalama Muhteşemliği Profil Afişi
+GameUIProfileBanner10ShortName,Karalama Muhteşemliği Afişi
+GameUIProfileBanner10Description,"bonbonni, Afiş galibi"
+GameUIProfileBanner11Name,İksir Büyücüsü Profil Afişi
+GameUIProfileBanner11ShortName,İksir Büyücüsü Afişi
+GameUIProfileBanner11Description,"_Concilliabule_, Afiş galibi"
+GameUIProfileBanner12Name,Çok Vızıltılı Profil Afişi
+GameUIProfileBanner12ShortName,Çok Vızıltılı Afişi
+GameUIProfileBanner12Description,Arılar sadece bana bal yapmak için ağaçlarda vızıldıyor. Sınırlı Süreli Koleksiyoncu Eşyası!
+FilterAll,Tümü
+FilterHeroPlacementUpgrades,Yerleştirme Efekti
+FilterHeroPets,Evcil Hayvanlar
+FilterTowerPlacementUpgrades,Yükseltme Efekti
+FilterTowerPets,Evcil Hayvanlar
+FilterProjectiles,Fırlatıcılar
+FilterFlags,Bayraklar
+FilterPopFX,Patlatma Efekti
+FilterAllBloonSkins,Tüm Bloon Dış Görünümleri
+FilterRegularSkins,Bloon Dış Görünümleri
+FilterMoabSkins,MOAB Dış Görünümleri
+FilterStandardEmotes,Standart Emojiler
+FilterTextEmotes,Metin Emojileri
+FilterSoundEmotes,Ses Emojileri
+FilterFullScreenEmotes,Tam Ekran Emojiler
+FilterMusicTracks,Müzik Parçaları
+FilterAvatars,Avatarlar
+FilterPowerSkins,Güç Dış Görünümleri
+FilterProfileBanners,Profil Afişleri
+FilterMisc,Çeşitli
+Blast Chain Ability,Patlama Zinciri
+Blast Chain Ability Description,Kısa süre için deniz mayınları daha hızlı ateşlenir
+TowerSpecial,Maymun Özel

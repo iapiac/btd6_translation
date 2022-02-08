@@ -727,7 +727,7 @@ Heavy Bombs Description,Mega bombe in grado di farsi strada attraverso 2 strati 
 Missile Launcher Description,"Sostituisce le bombe coi missili che colpiscono prima, sono più veloci e hanno una portata maggiore."
 Frag Bombs Description,"L'esplosione proietta frammenti affilati capaci di far esplodere più bloon, inclusi quelli neri."
 Really Big Bombs Description,"Enormi bombe infliggono danni maggiori in un'area ampia, e consentono ai frammenti di far scoppiare ulteriori bloon."
-MOAB Mauler Description,I Demolitori MOAB provocano molto più danno ai bloon classe MOAB e ceramica.
+MOAB Mauler Description,I Demolitori MOAB provocano molto più danno ai bloon di classe MOAB.
 Cluster Bombs Description,Con ogni colpo lancia un bomba secondaria anziché frammenti affilati.
 Bloon Impact Description,Le esplosioni sono così violente che i Bloon sono storditi per un breve tempo quando colpiti. La portata è aumentata e i frammenti sono ancora più efficaci.
 MOAB Assassin Description,Abilità Assassinio MOAB: un missile speciale si abbatte contro bloon di classe MOAB provocando enormi danni. Aumenta anche la portata di attacco normale e i danni ai bloon classe MOAB.
@@ -798,14 +798,14 @@ Supply Drop Description,Abilità Lancio scorte: rilascia una cassa piena di cont
 Full Auto Rifle Description,Arma completamente automatica dotata di un'incredibile potenza distruttiva.
 Cripple MOAB Description,I MOAB azzoppati vengono immobilizzati per un lasso di tempo maggiore e subiscono danno extra da tutti gli altri attacchi.
 Elite Sniper Description,Il Lancio scorte fornisce molto più contante. Conferisce mira prioritaria élite e caricamento accelerato a tutti i cecchini.
-Elite Defender Description,"Per una vita perduta un cecchino riceve, in contraccambio, un attacco 4 volte più rapido per un breve lasso di tempo."
+Elite Defender Description,"Per una vita perduta un cecchino riceve, in contraccambio, una velocità d'attacco 4 volte maggiore per un breve lasso di tempo. Infligge più danni ai bloon di classe MOAB."
 ,
 Longer Range Description,Portata di attacco aumentata.
 Barbed Darts Description,Le freccette sparate dal sommergibile sono in grado far scoppiare altri 3 bloon.
 Twin Guns Description,Velocità d'attacco raddoppiata. Potenzia il Missile balistico e il Reattore al bloontonio.
 Advanced Intel Description,Conferisce mira a lunga distanza per colpire i bloon situati nel raggio d'azione delle altre tue torri.
 Heat-tipped Darts Description,Le freccette con punta rovente sono in grado di far scoppiare i bloon congelati e quelli di piombo.
-Airburst Darts Description,"Una volta colpito il bersaglio, si dividono in 3 per aumentare la potenza distruttiva. Potenzia ulteriormente il Missile balistico e il Reattore al Bloontonio."
+Airburst Darts Description,"Una volta colpito il bersaglio, si dividono in 3 per aumentare la potenza distruttiva. Potenzia ulteriormente il Reattore al bloontonio."
 Submerge and Support Description,"Aggiunge l'opzione Mira sommersa che consente di individuare permanentemente la presenza di bloon mimetizzati nel proprio raggio d'azione, ma non attacca in immersione."
 Ballistic Missile Description,Il missile è in grado di trovare il proprio bersaglio se a portata e di provocare danno extra a bloon MOAB e di ceramica.
 Triple Guns Description,Aggiunge una terza pistola per sparare ancora più rapidamente.
@@ -897,7 +897,7 @@ Ray of Doom Description,Crea una solida linea di annientamento. Puoi eliminare i
 M.A.D Description,Distruzione garantita MOAB. I mega missili con velocità di tiro ridotta infliggono danni molto gravi ai bloon di classe MOAB.
 Bloon Exclusion Zone Description,Ora presenta 6 canne e infligge danni enormemente maggiori. I bloon verranno spazzati via dall'esistenza.
 ,
-Guided Magic Description,"I colpi magici sono in grado di trovare i bloon, anche quelli nascosti."
+Guided Magic Description,"I colpi magici durano più a lungo e sono in grado di trovare i bloon, anche quelli nascosti."
 Fireball Description,Lancia ogni pochi secondi una sfera di fuoco esplosiva.
 Intense Magic Description,I colpi magici più potenti sono in grado di muoversi più rapidamente e di far scoppiare un maggior numero di bloon.
 Arcane Blast Description,Raffiche magiche più potenti e dal raggio d'azione più ampio capaci di far scoppiare 2 strati di bloon.
@@ -970,7 +970,7 @@ Heart of Vengeance Description,Conferisce il 10% di velocità di attacco e l'1% 
 Druid of the Storm Description,Raffiche di vento spazzano i bloon via dal tracciato e lontani dall'uscita.
 Druid of the Jungle Description,"Evoca un rampicante che germoglia dal suolo e avvolge stritolandolo un bloon per volta, lasciandosi dietro una pila di spine letali."
 Druid of Wrath Description,Conferisce velocità d'attacco durante il round fintantoché il druido continua ad attaccare bloon.
-Ball Lightning Description,Crea potenti fulmini globulari dai quali scaturiscono fulmini aggiuntivi. 
+Ball Lightning Description,Crea potenti fulmini globulari dai quali scaturiscono fulmini aggiuntivi e può congelare i bloon.
 Jungle's Bounty Description,"Abilità Dono della giungla: genera contante a ogni utilizzo, più contante extra per ciascun vivaio di banane accanto al druido. Può anche afferrare due bloon alla volta con i rampicanti."
 Poplust Description,Potenzia la velocità d'attacco e la perforazione di tutti i druidi nel suo raggio d'azione. È cumulabile con un massimo di 5 volte su un singolo druido.
 Superstorm Description,Super tempesta provoca danno grave a tutti i tipi di bloon e li allontana dall'uscita.
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,La colla MOAB rallenta più del normale.
 CheaperSolution,Soluzione a buon mercato
 CheaperSolutionDescription,Riduzione di 1000 sul prezzo dello Sciogli bloon.
 BonusMonkey,Bonus scimmia!
-BonusMonkeyDescription,Inizia ogni partita con 1 scimmia lancia freccette gratis!
+BonusMonkeyDescription,Inizia ogni partita con 1 scimmia lancia freccette gratis! (Solo 1 torre scimmiesca gratis per partita)
 MoreCash,Contante in quantità
 MoreCashDescription,Aumento di 200 del contante iniziale.
 ,
@@ -1950,7 +1950,7 @@ HotMagicDescription,Tutte le torri di tipo magico sono in grado di far scoppiare
 ArcaneImpale,Punteruolo arcano
 ArcaneImpaleDescription,L'aculeo arcano provoca danno extra ai bloon classe MOAB e a quelli di ceramica.
 ColdFront,Fronte freddo
-ColdFrontDescription,Il fulmine globulare ha una probabilità di paralizzare i bloon dopo averli danneggiati.
+ColdFrontDescription,Il fulmine globulare paralizza i bloon dopo averli danneggiati.
 FlameJet,Fiamma del propulsore
 FlameJetDescription,I proiettili roventi Respiro del drago si muovono più velocemente.
 StrikeDownTheFalse,Abbasso il falso dio
@@ -2625,7 +2625,7 @@ SentryCold,Sentinella fredda
 SentryEnergy,Sentinella energetica
 SentryParagon,Sentinella Vincitore
 EditorNumberOfPlayers,Numero di giocatori
-EditorCoopAreaDivision,Divisone schermo in modalità cooperativa
+EditorCoopAreaDivision,Divisione mappa
 InvalidTarget,Bersaglio non valido
 Adora,Adora
 Adora Short Description,Grande sacerdotessa
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] per effettuare Passaggio oscuro nel raggio d'azione
 DarkChampionDarkshift,[I] per effettuare Passaggio oscuro in qualsiasi posizione valida
 SmallTowersMode,Torri scimmia piccola
 BigTowersMode,Torri scimmia grandi
-UpdatePopupTitle,Aggiornamento 29!
-UpdatePopupDescription,"Felice aggiornamento della stagione festiva!\n• Domina le acque con il nuovo campione: Navarch dei mari\n• Ferma quei maleducati bloon sulla nuova mappa di livello intermedio: Strada silenziosa\n• Ottieni la fantastica nuova skin di Ezili: Galaxili!\n• Creazione della lobby cooperativa ripensata per farti entrare in gioco più in fretta\n• 17 nuovi oggetti nel negozio trofei, tra cui 6 a tempo limitato, acquistali subito!\n• Nuovi obiettivi, modifiche per la qualità della vita, bilanciamenti e correzioni. Nuove, fantastiche modifiche: dai un'occhiata alle note dell'aggiornamento per i dettagli\nTanti auguri di buone feste e felice anno nuovo da tutti noi di Ninja Kiwi!"
+UpdatePopupTitle,Aggiornamento 30!
+UpdatePopupDescription,"Nuovo aggiornamento contenuti!\n• Fatti strada combattendo nella nuova mappa di livello Difficile: Colonne sommerse\n• Fai rumore con la nuova skin Psi: Psimbals!\n• Aggiornamento divisioni co-op: 2 nuove divisioni aggiunte e completamente selezionabili quando si imposta una partita cooperativa\n• 16 nuovi oggetti del Negozio trofei tra cui 4 a tempo limitato, fai presto!\n• 4 nuove sapienze scimmiesche da sbloccare\n• Nuovi obiettivi, modifiche al bilanciamento e alla qualità della vita, dai un'occhiata alle note per tutti i dettagli"
 ResetDailyChest,Azzera cassa delle ricompense giornaliere
 JukeboxName,Jukebox
 EnableFunction,Attiva
@@ -2852,8 +2852,8 @@ AdmiralBrickell Level 3 Description,Tattiche navali: aumenta sensibilmente la ve
 AdmiralBrickell Level 4 Description,Maggior potenza di scoppio per le Mine navali.
 AdmiralBrickell Level 5 Description,"Tattiche navali aumenta la potenza di scoppio e permette alle scimmie sotto il suo effetto di colpire tutti i tipi di Bloon, tranne quelli mimetizzati."
 AdmiralBrickell Level 6 Description,Aumenta i danni degli attacchi Mine navali e Pistola.
-AdmiralBrickell Level 7 Description,Aumentata la portata di attacco e la rilevazione dei Bloon mimetizzati.
-AdmiralBrickell Level 8 Description,Tattiche navali permette alle scimmie di colpire i Bloon mimetizzati.
+AdmiralBrickell Level 7 Description,Brickell ottiene la portata d'attacco aumentata e la rilevazione dei bloon mimetizzati.
+AdmiralBrickell Level 8 Description,Tattiche navali permette alle scimmie di colpire i bloon mimetizzati. Le Torri d'acqua nelle vicinanze ottengono perforazione extra.
 AdmiralBrickell Level 9 Description,Le Mine navali infliggono danni extra.
 AdmiralBrickell Level 10 Description,Mega mina: schiera in qualsiasi area d'acqua una mina devastante che si attiva con i MOAB e stordisce i bloon circostanti. Le Mega mine durano 3 round.
 AdmiralBrickell Level 11 Description,Velocità di schieramento e tasso di schieramento maggiore per le Mine navali.
@@ -3672,7 +3672,7 @@ YouFinished,Hai ottenuto:
 BestTime,Record:
 Claim,Riscuoti
 PlayerRejoinedGame, rientra nella partita
-PlayerKickedFromGame,{0} non partecipa più alla partita
+PlayerKickedFromGame, non partecipa più alla partita
 ConfirmKickPlayer,Vuoi davvero rimuovere {0}?
 Remove,Rimuovi
 MiniRacesFirstTimeTitle,Minigare!
@@ -3788,10 +3788,10 @@ GameUIProfileAvatar41Name,Avatar personalizzato - Bomba abbagliante ninja
 GameUIProfileAvatar41ShortName,Avatar Bomba abbagliante
 GameUIProfileAvatar41Description,Avatar vincitore di _Concilliabule_
 GameUIProfileAvatar42Name,Avatar personalizzato: Patch aziendale
-GameUIProfileAvatar42ShortName,Patch aziendale
+GameUIProfileAvatar42ShortName,Avatar Patch aziendale
 GameUIProfileAvatar42Description,Patch ha scalato silenziosamente i vertici aziendali di Monkeydom
 GameUIProfileAvatar43Name,Avatar personalizzato - Spara bombe: fuochi d'artificio
-GameUIProfileAvatar43ShortName,Spara bombe: fuochi d'artificio
+GameUIProfileAvatar43ShortName,Avatar Bomba fuochi d'artificio
 GameUIProfileAvatar43Description,Esiste forse un modo migliore per sparare quei razzi? Oggetto collezionabile per un periodo limitato!
 GameUIPowerSkinMonkeyBoostFireworksName,Potere personalizzato - Potenziamento scimmia fuochi d'artificio
 GameUIPowerSkinMonkeyBoostFireworksShortName,Potenziamento scimmia fuochi d'artificio
@@ -3904,7 +3904,7 @@ GameUIProfileBanner5Description,Combina rischi e potenza in questo banner profil
 Paragon Title,Potenzia in campione
 Paragon Body,Quest'azione creerà un'unità di {0} campione. Tutte le altre unità di {1} verranno distrutte per alimentare il potere del campione!
 ft_paragontitle,Potenziamento campione abilitato!
-ft_paragondescription,"Potenzia una delle tue scimmie di livello 5 per creare un campione! I campioni assorbono tutte le scimmie del loro tipo, tra cui le scimmie di livello 5 degli altri due percorsi.\n\nIl grado del campione è influenzato dalla quantità di potere assorbito al"
+ft_paragondescription,"Potenzia una delle tue scimmie di livello 5 per creare un campione! I campioni assorbono tutte le scimmie del loro tipo, tra cui le scimmie di livello 5 degli altri due percorsi.\n\nIl grado del campione è influenzato dalla quantità di potere assorbito al momento del potenziamento. Non disponibile nella modalità Sandbox."
 ParagonDegreeText,Grado campione
 DartMonkeys,Scimmie lancia freccette
 BoomerangMonkeys,Scimmie boomerang
@@ -4223,7 +4223,107 @@ CalloutWellRounded,Ben bilanciato
 CalloutWellRoundedDesc,{0} di ciascuno dei 4 tipi di torre
 CalloutEndlessPower,Potere illimitato!
 CalloutEndlessPowerDesc,Campione grado {0} creato
-AnyGame,Qualsiasi gioco
-AnyMap,Qualsiasi mappa
-AnyDifficulty,Qualsiasi difficoltà
-AnyMode,Qualsiasi modalità
+AnyGame,Partita qualsiasi
+AnyMap,Mappa qualsiasi
+AnyDifficulty,Difficoltà qualsiasi
+AnyMode,Modalità qualsiasi
+DataConsentTitle,Abilita trasferimento dati
+DataConsentBody,"Ciao! Noi di Ninja Kiwi abbiamo bisogno di usare le tue informazioni di gioco, incluso l'indirizzo IP e il nome e i progressi di gioco del GameCenter per permetterti di giocare a Odissee, Corse, boss, co-op e altri eventi (che non funzionano senza questi "
+DataConsentAccepted,Grazie! Divertiti a giocare a questi eventi
+DataConsentRejected,"Nessun problema. Non utilizzeremo le tue informazioni di gioco, perciò Odissee, Corse, boss, co-op e Ricerca contenuti non saranno abilitati. Puoi comunque giocare in modalità giocatore singolo e cambiare questa impostazione in qualsiasi momento dal menu "
+DataConsentCurrent,Trasferimento dati: {0}
+DataConsentEnabled,Abilitato
+DataConsentDisabled,Disabilitato
+DataConsentReview,Leggi
+DataConsentYes,Sì
+DataConsentNo,No
+BionicAugmentation,Incremento bionico
+BionicAugmentationDescription,"Mentre Carica turbo è attiva, Boomerang bionico può prendere a bersaglio i bloon mimetizzati."
+XrayUltra,Raggi X ultra
+XrayUltraDescription,La Ultra visione consente alle Super scimmie di vedere attraverso il fuoco e gli oggetti bloccanti
+BonusGlueGunner,Spara colla bonus
+BonusGlueGunnerDescription,Inizia ogni partita con 1 Spara colla gratis! (Solo 1 torre scimmiesca gratis per partita)
+Achievement 139 Name,Situazione appiccicosa
+Achievement 139 Description,Ricopre di colla 500.000 bloon
+Achievement 140 Name,Spendaccione
+Achievement 140 Description,Spendi 1.000.000 contanti in un solo round
+Achievement 141 Name,Un raid al giorno
+Achievement 141 Description,Vinci 365 sfide giornaliere uniche
+Achievement 142 Name,Tornerò
+Achievement 142 Description,Spendi 1.000 MM su Tentativi o Checkpoint
+PetSounds,Suoni animaletto
+UserID,ID utente
+SunkenColumns,Colonne sommerse
+PsimbalsPsiSkinName,Psi-cimbali
+PsimbalsPsiSkinDescription,È l'ora dello spettacolo!
+HeroesStrikerJonesPetGermanShepherdName,Animaletto pastore tedesco di Striker Jones
+HeroesStrikerJonesPetGermanShepherdShortName,Cucciolo di animaletto di Striker
+HeroesStrikerJonesPetGermanShepherdDescription,Ma certo che Striker ha un pastore tedesco! Ci vuole un cane robusto per giocare al riporto sparando i giocattoli. Solo Striker Jones originale
+HeroesETnPlacementBeamDownName,Posizionamento e potenziamento Teletrasporto ET-n
+HeroesETnPlacementBeamDownShortName,Teletrasporto ET-n
+HeroesETnPlacementBeamDownDescription,"Niente chiamate a casa, né viaggi di ritorno qui. ET-n pensa che sia meglio usare il teletrasporto per saltare direttamente nell'azione o aggiungere quel tocco in più ai potenziamenti. Solo ET-n"
+TowerPetHeliPilotHummingbirdName,Animaletto colibrì pilota di elicottero
+TowerPetHeliPilotHummingbirdShortName,Animaletto colibrì pilota di elicottero
+TowerPetHeliPilotHummingbirdDescription,"Pilota di elicottero se la cava piuttosto bene quando si tratta di fare hovering, ma questo meraviglioso animaletto dimostra che c'è sempre spazio per migliorare"
+TowerProjectileWizardZombiesName,Bloon zombie mago necromante
+TowerProjectileWizardZombiesShortName,Bloon mago necro
+TowerProjectileWizardZombiesDescription,Tirate fuori i morti! Questi bloon necro e bloon di classe MOAB sono felici di fare un'invasione di bloon stecchiti in un attimo.
+BloonsAllBloonsDaisyChainName,Bloon collana di margherite
+BloonsAllBloonsDaisyChainShortName,Bloon collana di margherite
+BloonsAllBloonsDaisyChainDescription,"La primavera bloon è colorita, si vede già la prima margherita! Festeggia la primavera con cerchietti floreali su tutti i bloon normali. Oggetto collezionabile per un periodo limitato!"
+BloonsBADSkinWhaleName,Balena BAD
+BloonsBADSkinWhaleShortName,Balena BAD
+BloonsBADSkinWhaleDescription,"Di solito pensiamo che tutte le balene siano buone, ma questa coccolosa bestia magenta è decisamente una balena BAD."
+CoopEmoteAnimationObynPeaceName,Emote pace Obyn
+CoopEmoteAnimationObynPeaceShortName,Pace Obyn
+CoopEmoteAnimationObynPeaceDescription,"La scelta è tua: offri un saluto zen, fai in modo che gli altri ci vadano piano con giocatore 3 o scusati per una gaffe che hai fatto. Pace Obyn è la risposta. Oggetto collezionabile per un periodo limitato!"
+CoopEmoteAnimationThinkingMonkeyName,Emote Scimmia pensante
+CoopEmoteAnimationThinkingMonkeyShortName,Scimmia pensante
+CoopEmoteAnimationThinkingMonkeyDescription,Una Scimmia pensante è una scimmia buona. Funziona quando stai pensando o quando ti chiedi a che cosa cavolo sta pensando qualcun altro.
+GameUIProfileAvatar56Name,Avatar druido fiori di primavera
+GameUIProfileAvatar56ShortName,Druido fiori di primavera
+GameUIProfileAvatar56Description,Invoca la magia della primavera in qualsiasi momento quest'anno con questo meraviglioso avatar druido contemplativo. Oggetto collezionabile per un periodo limitato!
+GameUIProfileAvatar57Name,Avatar scimmia sommergibile esploratrice
+GameUIProfileAvatar57ShortName,Scimmia sommergibile esploratrice
+GameUIProfileAvatar57Description,In un sottomarino non c'è visuale migliore di quella che si ottiene schiacciando la faccia contro il vetro. Dai un po' d'amore alla scimmia sommergibile con questo avatar di grandi occhi.
+GameUIProfileAvatar58Name,Avatar gelato Fusty il pupazzo di neve
+GameUIProfileAvatar58ShortName,Avatar Fusty il pupazzo di neve
+GameUIProfileAvatar58Description,"Per una strana coincidenza del fato, A Pat Frosty piace il gelato. Chiaramente l'avatar migliore per chi apprezza le cose buone della vita."
+GameUIPowerSkinRoadSpikesFlowerPatchName,Potere personalizzato - Aculei da strada patch fiore
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,Aculei cespuglio floreale
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,Chi l'ha detto che gli Aculei da strada devono sembrare rozzi aggeggi industriali? Prova a raccogliere questi fiori e sentirai le spine!
+GameUIPowerSkinMonkeyBoostSugarRushName,Potere personalizzato - Potenziamento scimmia scarica di zuccheri
+GameUIPowerSkinMonkeyBoostSugarRushShortName,Potenziamento scarica di zuccheri
+GameUIPowerSkinMonkeyBoostSugarRushDescription,Umani: sappiamo tutti che performiamo meglio sotto l'influenza di una grande quantità di zuccheri. Per le scimmie vale la stessa cosa.
+GameUIProfileBanner10Name,Banner profilo Scarabocchio luccicante
+GameUIProfileBanner10ShortName,Banner Scarabocchio luccicante
+GameUIProfileBanner10Description,Banner vincitore di bonbonni
+GameUIProfileBanner11Name,Banner profilo Necronicom Arcanum
+GameUIProfileBanner11ShortName,Banner Necronicom Arcanum
+GameUIProfileBanner11Description,Banner vincitore di _Concilliabule_
+GameUIProfileBanner12Name,Banner profilo Ronzante
+GameUIProfileBanner12ShortName,Banner Ronzante
+GameUIProfileBanner12Description,Le api ronzano tra gli alberi per fare un po' di miele solo per me. Oggetto collezionabile per un periodo limitato!
+FilterAll,Tutto
+FilterHeroPlacementUpgrades,Effetti posizionamento
+FilterHeroPets,Animaletti
+FilterTowerPlacementUpgrades,Effetti potenziamento
+FilterTowerPets,Animaletti
+FilterProjectiles,Proiettili
+FilterFlags,Bandiere
+FilterPopFX,Effetti esplosione
+FilterAllBloonSkins,Tutte le skin bloon
+FilterRegularSkins,Skin bloon
+FilterMoabSkins,Skin MOAB
+FilterStandardEmotes,Emote standard
+FilterTextEmotes,Emote testo
+FilterSoundEmotes,Emote suono
+FilterFullScreenEmotes,Emote schermo intero
+FilterMusicTracks,Tracce musicali
+FilterAvatars,Avatar
+FilterPowerSkins,Skin potere
+FilterProfileBanners,Banner profilo
+FilterMisc,Varie
+Blast Chain Ability,Catena di esplosioni
+Blast Chain Ability Description,Le Mine navali esplodono più velocemente per un breve lasso di tempo.
+TowerSpecial,Speciale scimmia

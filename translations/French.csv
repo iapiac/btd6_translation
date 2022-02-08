@@ -727,7 +727,7 @@ Heavy Bombs Description,Bombes puissantes qui fracassent 2 couches de Bloons d'u
 Missile Launcher Description,"Remplace les bombes par des missiles, qui font feu plus rapidement, volent plus vite et ont une plus longue portée."
 Frag Bombs Description,"Les explosions éparpillent des fragments tranchants qui font éclater plus de Bloons, y compris des Bloons noirs."
 Really Big Bombs Description,D'énormes bombes qui infligent plus de dégâts sur une vaste zone et permettent aux fragmentations de faire éclater plus de Bloons.
-MOAB Mauler Description,"Description de cogneurs de MOAB,Les cogneurs de MOAB infligent bien plus de dégâts aux Bloons en céramique et de classe MOAB."
+MOAB Mauler Description,Les cogneurs de MOAB infligent bien plus de dégâts aux Bloons de classe MOAB.
 Cluster Bombs Description,Lance des bombes secondaires au lieu de fragments tranchants à chaque tir.
 Bloon Impact Description,Les explosions deviennent si violentes que les Bloons sont étourdis pendant un bref laps de temps lorsqu'ils sont touchés. La portée est augmentée et les fragmentations sont encore plus efficaces.
 MOAB Assassin Description,Aptitude Assassinat de MOAB : un missile spécial est déclenché et inflige d'énormes dégâts aux Bloons de classe MOAB. La portée d'attaque ordinaire et les dégâts infligés à la classe MOAB sont également augmentés.
@@ -798,14 +798,14 @@ Supply Drop Description,Aptitude Caisse de ravitaillement : largue une caisse r
 Full Auto Rifle Description,Arme entièrement automatique dotée d'une puissance d'éclatement incroyable.
 Cripple MOAB Description,Les MOAB paralysés sont immobilisés pour plus longtemps et subissent davantage de dégâts lorsque touchés par toutes les autres attaques.
 Elite Sniper Description,Les caisses de ravitaillement fournissent davantage d'argent. Accorde une priorité de ciblage d'élite et un rechargement plus rapide à tous les snipers.
-Elite Defender Description,"Une vie perdue donne à ce sniper une vitesse d'attaque 4 fois supérieure pendant une courte durée, en représailles."
+Elite Defender Description,"Une vie perdue donne à ce sniper une vitesse d'attaque 4 fois supérieure pendant une courte durée, en représailles. En plus de cela, plus les Bloons sont avancés sur le circuit et plus il attaque rapidement. Inflige plus de dégâts aux Bloons de classe MOAB."
 ,
 Longer Range Description,Augmente la portée d'attaque.
 Barbed Darts Description,Les fléchettes des sous-marins peuvent faire éclater 3 Bloons supplémentaires.
 Twin Guns Description,Le double canon multiplie par deux la vitesse d’attaque. Améliore le Missile balistique et le Réacteur au bloontonium.
 Advanced Intel Description,Permet un ciblage de longue portée sur les Bloons dans un rayon autour de vos autres tours.
 Heat-tipped Darts Description,Les fléchettes à pointes brûlantes permettent de faire exploser les Bloons gelés et en plomb.
-Airburst Darts Description,Fléchettes à air divisées en 3 à l’impact pour augmentation massive de la puissance d’éclatement. Améliore encore plus le Missile balistique et le Réacteur au bloontonium.
+Airburst Darts Description,Fléchettes à air divisées en 3 à l'impact pour augmentation massive de la puissance d'éclatement. Améliore encore plus le Réacteur au bloontonium.
 Submerge and Support Description,"Ajoute l'option de ciblage Immersion qui révèle les Bloons camouflés dans son rayon de façon permanente, mais n'attaque pas tant qu'il est immergé."
 Ballistic Missile Description,Le missile cherche une cible à portée et inflige des dégâts supplémentaires aux Bloons MOAB et en céramique.
 Triple Guns Description,Ajoute un troisième canon pour des fusillades encore plus rapides.
@@ -897,7 +897,7 @@ Ray of Doom Description,Crée une ligne solide d'annihilation. Tu peux supprimer
 M.A.D Description,MOAB Absolument Détruits. Des méga-missiles à cadence de tir moins rapide infligent des dégâts extrêmes aux Bloons de classe MOAB.
 Bloon Exclusion Zone Description,Amélioré à six canons avec augmentation massive des dégâts. Les Bloons sont bannis de l'existence.
 ,
-Guided Magic Description,"Les tirs magiques ciblent les Bloons, même à l'abri."
+Guided Magic Description,Les tirs magiques durent plus longtemps et ciblent les Bloons même à couvert.
 Fireball Description,"À un intervalle régulier de quelques secondes, jette un sort de boule de feu explosive."
 Intense Magic Description,Tirs magiques encore plus puissants qui se déplacent plus rapidement et peuvent faire exploser davantage de Bloons.
 Arcane Blast Description,Des explosions magiques encore plus grosses et puissantes qui font exploser 2 couches de Bloons.
@@ -970,7 +970,7 @@ Heart of Vengeance Description,"Gagne 10 % de vitesse d'attaque, plus 1 % pour
 Druid of the Storm Description,Les coups de vent emportent les Bloons loin du circuit et de la sortie.
 Druid of the Jungle Description,"Invoque une plante grimpante à partir du sol pour emmêler et écraser les Bloons, un par un, laissant derrière elle un tas de ronces mortel."
 Druid of Wrath Description,Gagne de la vitesse d'attaque durant la manche tant que le druide attaque des Bloons.
-Ball Lightning Description,Crée de puissantes boules de foudre qui lancent des éclairs supplémentaires. 
+Ball Lightning Description,Crée de puissantes boules de foudre qui lancent des éclairs supplémentaires et peuvent geler les Bloons.
 Jungle's Bounty Description,"Aptitude Abondance de la jungle : génère de l'argent à chaque utilisation, plus de l'argent supplémentaire pour chaque bananeraie près du druide. Peut également saisir deux Bloons à la fois avec des plantes grimpantes."
 Poplust Description,Augmente la vitesse d'attaque et la percée des autres druides dans le rayon d'effet. Peut être cumulé jusqu'à 5 fois sur un même druide.
 Superstorm Description,La super tempête touche tous les types de Bloons en leur infligeant des dégâts considérables et les faisant reculer loin de la sortie.
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,La colle anti-MOAB ralentit plus que d'habitude.
 CheaperSolution,Solution moins chère
 CheaperSolutionDescription,Le coût du liquéfieur de Bloons est réduit de 1 000.
 BonusMonkey,Singe bonus !
-BonusMonkeyDescription,Débute chaque partie avec 1 singe à fléchettes gratuit !
+BonusMonkeyDescription,Commence chaque partie avec 1 singe à fléchettes gratuit ! (Seulement 1 tour de singe gratuite par partie)
 MoreCash,Plus d'argent
 MoreCashDescription,L'argent de départ est augmenté de 200.
 ,
@@ -1950,7 +1950,7 @@ HotMagicDescription,Toutes les tours de type magique peuvent faire éclater des 
 ArcaneImpale,Empalement mystérieux
 ArcaneImpaleDescription,La herse ésotérique inflige des dégâts supplémentaires aux Bloons de classe MOAB et en céramique.
 ColdFront,Front d'air froid
-ColdFrontDescription,Les tirs de boules de foudre peuvent geler les Bloons après avoir fait des dégâts.
+ColdFrontDescription,Les tirs de boules de foudre gèlent les Bloons après avoir infligé des dégâts.
 FlameJet,Jet de flammes
 FlameJetDescription,Les projectiles de flammes du souffle du dragon se déplacent bien plus vite.
 StrikeDownTheFalse,À bas les infidèles
@@ -2625,7 +2625,7 @@ SentryCold,Sentinelle givrée
 SentryEnergy,Sentinelle à énergie
 SentryParagon,Sentinelle champion
 EditorNumberOfPlayers,Nombre de joueurs
-EditorCoopAreaDivision,Division de la zone en coop
+EditorCoopAreaDivision,Division de carte
 InvalidTarget,Cible non valide
 Adora,Adora
 Adora Short Description,Grande prêtresse
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] pour effectuer Téléportation obscure à portée
 DarkChampionDarkshift,[I] pour effectuer Téléportation obscure à tout endroit valide
 SmallTowersMode,Petites tours de singe
 BigTowersMode,Grandes tours de singe
-UpdatePopupTitle,Mise à jour 29 !
-UpdatePopupDescription,"Mise à jour de saison Joyeuses fêtes !\n• Régnez sur les eaux avec le nouveau parangon singe : Navarque des mers\n• Arrêtez net ces Bloons tapageurs sur la nouvelle carte de niveau intermédiaire : Rue tranquille\n• Procurez-vous la nouvelle apparence géniale d'Ezili : Galaxili !\n• Création de lobby coop remaniée pour vous permettre d'entrer dans la partie plus rapidement\n• 17 nouveaux articles de Boutique de trophées, dont 6 à durée limitée, procurez-les-vous rapidement !\n• Nouveaux succès, modifications de qualité de vie, équilibrage et correctifs - plein de super changements, consultez les notes de mises à jour pour tous les détails\n• Meilleurs vœux de fêtes de fin d'année et Bonne année de la part de nous tous ici à Ninja Kiwi !"
+UpdatePopupTitle,Mise à jour 30 !
+UpdatePopupDescription,"Nouvelle mise à jour de contenu !\n• Sors vainqueur de combats intenses dans la nouvelle carte de niveau Avancé : les Colonnes submergées\n• Fais une entrée remarquée avec la nouvelle apparence de Psi : Psimbales !\n• Mise à jour de divisions en mode Coop : 2 nouvelles divisions ajoutées et possibilité de toutes les sélectionner lors de la configuration d'une partie en mode coop\n• 16 nouveaux articles dans la boutique de trophées, dont 4 nouveaux objets à durée limitée : profites-en rapidement !\n• 4 nouvelles Connaissances de singes à déverrouiller\n• Nouvelles Réussites et modifications destinées à améliorer la qualité et l'équilibrage du jeu ; consulte les notes de mise à jour pour tous les détails"
 ResetDailyChest,Réinitialiser le Coffre quotidien
 JukeboxName,Juke-box
 EnableFunction,Activer
@@ -2852,8 +2852,8 @@ AdmiralBrickell Level 3 Description,Tactique navale : augmente considérablemen
 AdmiralBrickell Level 4 Description,Puissance d'éclatement accrue pour les mines marines.
 AdmiralBrickell Level 5 Description,"Tactique navale augmente la puissance d'éclatement et permet aux singes affectés de toucher tous les types de Bloons, sauf les camouflés."
 AdmiralBrickell Level 6 Description,Augmente les dégâts infligés par les mines marines et les attaques au pistolet.
-AdmiralBrickell Level 7 Description,Portée d'attaque et détection de Bloons camouflés augmentées.
-AdmiralBrickell Level 8 Description,Tactique navale permet aux singes affectés de toucher les Bloons camouflés.
+AdmiralBrickell Level 7 Description,Brickell bénéficie d'une portée d'attaque et d'une détection de Bloons camouflés accrues.
+AdmiralBrickell Level 8 Description,Tactique navale permet aux singes affectés de toucher les Bloons camouflés. Les tours d'eau présentes dans le rayon d'effet profitent d'un pouvoir perçant accru.
 AdmiralBrickell Level 9 Description,Les mines marines infligent plus de dégâts.
 AdmiralBrickell Level 10 Description,Méga mine : déploie une mine marine dévastatrice touchant les Bloons MOAB et étourdissant les Bloons proches. Les Méga mines durent 3 tours.
 AdmiralBrickell Level 11 Description,Vitesse de déploiement et taux de déploiement des mines marines plus rapides.
@@ -3672,7 +3672,7 @@ YouFinished,Tu as terminé :
 BestTime,Meilleur temps :
 Claim,Obtenir
 PlayerRejoinedGame, a rejoint la partie
-PlayerKickedFromGame,{0} a été retiré de la partie
+PlayerKickedFromGame, a été retiré de la partie
 ConfirmKickPlayer,Veux-tu vraiment retirer {0} ?
 Remove,Retirer
 MiniRacesFirstTimeTitle,Mini-courses !
@@ -3788,10 +3788,10 @@ GameUIProfileAvatar41Name,Avatar personnalisé - Ninja à bombe aveuglante
 GameUIProfileAvatar41ShortName,Avatar à bombe aveuglante
 GameUIProfileAvatar41Description,Avatar gagnant par _Concilliabule_
 GameUIProfileAvatar42Name,Avatar personnalisé - Patch cadre d'entreprise
-GameUIProfileAvatar42ShortName,Patch cadre d'entreprise
+GameUIProfileAvatar42ShortName,Avatar de Patch cadre d'entreprise
 GameUIProfileAvatar42Description,Patch gravit sans faire de vagues les échelons du monde de l'entreprise chez les singes
 GameUIProfileAvatar43Name,Avatar personnalisé - Lanceur de bombes à feux d'artifice
-GameUIProfileAvatar43ShortName,Lanceur de bombes à feux d'artifice
+GameUIProfileAvatar43ShortName,Avatar de bombe à feux d'artifice
 GameUIProfileAvatar43Description,Quelle meilleure façon de lancer ces fusées ? Pièce de collection à durée limitée !
 GameUIPowerSkinMonkeyBoostFireworksName,Pouvoir personnalisé - Boost de singe feu d'artifice
 GameUIPowerSkinMonkeyBoostFireworksShortName,Boost de singe feu d'artifice
@@ -3904,7 +3904,7 @@ GameUIProfileBanner5Description,Puissance et danger sont associés dans cette ba
 Paragon Title,Améliorer en parangon
 Paragon Body,"Cette action créera un {0} parangon. Tous les autres {1} seront détruits par le processus, nourrissant le pouvoir du parangon !"
 ft_paragontitle,Amélioration parangon activée !
-ft_paragondescription,"Améliore un de tes singes de niveau 5 en parangon ! Les parangons absorbent tous les singes de leur type, y compris les singes de niveau 5 des deux autres voies.\n\nLe degré du parangon est déterminé par la quantité de pouvoir absorbée au moment de l'amél"
+ft_paragondescription,"Améliorez un de vos singes de niveau 5 en parangon ! Les parangons absorbent tous les singes de leur type, y compris les singes de niveau 5 des deux autres voies.\n\nLe degré du parangon est déterminé par la quantité de pouvoir absorbée au moment de l'amélioration. Non disponible en Bac à sable."
 ParagonDegreeText,Degré de parangon
 DartMonkeys,Singes à fléchettes
 BoomerangMonkeys,Singes à boomerang
@@ -4223,7 +4223,107 @@ CalloutWellRounded,Complet
 CalloutWellRoundedDesc,{0} de chacun des 4 types de tours
 CalloutEndlessPower,Pouvoir illimité !
 CalloutEndlessPowerDesc,Parangon de degré {0} créé
-AnyGame,N'importe quel jeu
+AnyGame,N'importe quelle partie
 AnyMap,N'importe quelle carte
-AnyDifficulty,Toute difficulté
+AnyDifficulty,N'importe quelle difficulté
 AnyMode,N'importe quel mode
+DataConsentTitle,Activer le transfert de données
+DataConsentBody,"Bonjour ! À Ninja Kiwi, nous avons besoin d'utiliser vos informations de jeu, dont votre adresse IP, votre nom de GameCenter et votre progression de jeu, afin de vous permettre de jouer aux Odyssées, aux Courses, aux Boss, en Coop et à d'autres Événements"
+DataConsentAccepted,Merci ! Amusez-vous bien en jouant à ces événements
+DataConsentRejected,"Pas de problèmes. Nous n'utiliserons pas vos informations de jeu, donc les Odyssées, les Courses, les Boss, le Coop et le Navigateur de contenu seront désactivés. Vous pouvez tout de même jouer en solo et pouvez modifier à tout moment ce paramètre dans le"
+DataConsentCurrent,Transfert de données : {0}
+DataConsentEnabled,Activé
+DataConsentDisabled,Désactivé
+DataConsentReview,Consulter
+DataConsentYes,Oui
+DataConsentNo,Non
+BionicAugmentation,Augmentation bionique
+BionicAugmentationDescription,"Pendant que Charge turbo est active, le boomerang bionique peut cibler les Bloons camouflés"
+XrayUltra,Ultravision à rayons X
+XrayUltraDescription,Ultravision permet aux super singes de voir et tirer à travers des obstacles
+BonusGlueGunner,Encolleur bonus
+BonusGlueGunnerDescription,Commence chaque partie avec 1 encolleur gratuit ! (Seulement 1 tour de singe gratuite par partie)
+Achievement 139 Name,Situation délicate
+Achievement 139 Description,Encolle 500 000 Bloons
+Achievement 140 Name,Grosses dépenses
+Achievement 140 Description,Dépense une somme d'argent de 1 000 000 en une seule manche
+Achievement 141 Name,Le point quotidien
+Achievement 141 Description,Remporte 365 défis quotidiens uniques
+Achievement 142 Name,Je reviendrai
+Achievement 142 Description,Dépense 1 000 MS pour continuer la partie ou utiliser des points de contrôle
+PetSounds,Sons de compagnons
+UserID,Identifiant utilisateur
+SunkenColumns,Colonnes submergées
+PsimbalsPsiSkinName,Psimbales
+PsimbalsPsiSkinDescription,Prêts pour le spectacle ?!
+HeroesStrikerJonesPetGermanShepherdName,Compagnon berger allemand de Striker Jones
+HeroesStrikerJonesPetGermanShepherdShortName,Compagnon chiot de Striker
+HeroesStrikerJonesPetGermanShepherdDescription,Évidemment que Striker a un berger allemand ! Il faut un chien sacrément sportif pour aller chercher des balles lancées avec autant de puissance. Striker Jones originel uniquement
+HeroesETnPlacementBeamDownName,Placement et amélioration d'ET-n Téléportation sur le terrain
+HeroesETnPlacementBeamDownShortName,ET-n Téléportation sur le terrain
+HeroesETnPlacementBeamDownDescription,"Pas de « téléphone maison » ni de téléportation de secours possible ici. Pour ET-n, les téléporteurs sont parfaits pour se jeter en plein dans l'action ou ajouter une touche de style aux améliorations. ET-n seulement"
+TowerPetHeliPilotHummingbirdName,Compagnon colibri pour pilote d'hélicoptère
+TowerPetHeliPilotHummingbirdShortName,Compagnon colibri pour pilote d'hélicoptère
+TowerPetHeliPilotHummingbirdDescription,"Le pilote d'hélicoptère est un pro du vol stationnaire, mais ce magnifique compagnon colibri est la preuve vivante qu'on peut toujours s'améliorer"
+TowerProjectileWizardZombiesName,Bloons zombies du sorcier nécromancien
+TowerProjectileWizardZombiesShortName,Nécro-Bloons du sorcier
+TowerProjectileWizardZombiesDescription,Apportez vos morts ! Ces Nécro-Bloons et Bloons de classe MOAB prennent beaucoup de plaisir à enterrer 6 pieds sous terre en un instant les Bloons envahisseurs.
+BloonsAllBloonsDaisyChainName,Bloons fleuris à la chaîne
+BloonsAllBloonsDaisyChainShortName,Bloons fleuris à la chaîne
+BloonsAllBloonsDaisyChainDescription,"Chantons, chantons tous en cœur, tous les Bloons sont décorés de fleurs ! Célèbre le printemps avec cette couronne fleurie décorant tous les Bloons ordinaires. Objet de collection à durée limitée !"
+BloonsBADSkinWhaleName,Baleine BAD
+BloonsBADSkinWhaleShortName,Baleine BAD
+BloonsBADSkinWhaleDescription,"On a souvent tendance à penser que les baleines sont des créatures pacifiques, mais cette baleine magenta d'apparence si mignonne est une exception à la règle."
+CoopEmoteAnimationObynPeaceName,Émoticône paix Obyn
+CoopEmoteAnimationObynPeaceShortName,Obyn Paix
+CoopEmoteAnimationObynPeaceDescription,"À toi de choisir : des salutations paisibles, convaincre les autres de laisser un peu tranquille le Joueur 3, ou demander pardon pour avoir raté tes aptitudes activées. Obyn Paix est la seule réponse possible. Objet de collection à durée limitée !"
+CoopEmoteAnimationThinkingMonkeyName,Émoticône Singe penseur
+CoopEmoteAnimationThinkingMonkeyShortName,Singe penseur
+CoopEmoteAnimationThinkingMonkeyDescription,"Un singe penseur est un bon singe. Fonctionne quand tu penses, ou quand tu te demandes à quoi pouvait bien penser quelqu'un d'autre."
+GameUIProfileAvatar56Name,Avatar Druide fleurs printanières
+GameUIProfileAvatar56ShortName,Avatar Druide printemps
+GameUIProfileAvatar56Description,Invoque la magie du printemps à tout moment de l'année grâce à ce superbe avatar de druide. Objet de collection à durée limitée !
+GameUIProfileAvatar57Name,Avatar Sous-marin singe explorateur
+GameUIProfileAvatar57ShortName,Avatar Sous-marin explorateur
+GameUIProfileAvatar57Description,"Dans un sous-marin, on voit toujours les plus belles merveilles le visage entier collé contre les hublots. Offre un peu d'attention bien méritée au sous-marin grâce à cet avatar avide de découverte."
+GameUIProfileAvatar58Name,Avatar Fusty le Bonhomme de neige Glace
+GameUIProfileAvatar58ShortName,Avatar Fusty Glace
+GameUIProfileAvatar58Description,"Quelle que soit la saison, Pat Fusty aime ses glaces. Clairement le meilleur avatar pour celles et ceux d'entre nous qui apprécient les meilleures choses dans la vie."
+GameUIPowerSkinRoadSpikesFlowerPatchName,Pouvoir personnalisé - Herses fleuries
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,Herses fleuries
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,Qui a dit que les herses devaient toujours avoir un air menaçant ? Gare à tes doigts si tu essaies de cueillir ces fleurs-là !
+GameUIPowerSkinMonkeyBoostSugarRushName,Pouvoir personnalisé - Boost de singe Surdose de sucre
+GameUIPowerSkinMonkeyBoostSugarRushShortName,Boost Surdose de sucre
+GameUIPowerSkinMonkeyBoostSugarRushDescription,Les humains : on sait tous que l'on est plus efficaces après avoir consommé une quantité astronomique de délicieuses sucreries. Les singes : pareil pour nous.
+GameUIProfileBanner10Name,Bannière de profil Brillante esquisse
+GameUIProfileBanner10ShortName,Bannière Brillante esquisse
+GameUIProfileBanner10Description,Bannière gagnante par bonbonni
+GameUIProfileBanner11Name,Bannière de profil Arcanum Necronicom
+GameUIProfileBanner11ShortName,Bannière Arcanum Necronicom
+GameUIProfileBanner11Description,Bannière gagnante par _Concilliabule_
+GameUIProfileBanner12Name,Bannière de profil Ça bourdonne
+GameUIProfileBanner12ShortName,Bannière Ça bourdonne
+GameUIProfileBanner12Description,"Les abeilles bourdonnent dans les arbres, pour produire du miel juste pour moi. Objet de collection à durée limitée !"
+FilterAll,Tous
+FilterHeroPlacementUpgrades,Effet de placement
+FilterHeroPets,Compagnons
+FilterTowerPlacementUpgrades,Effet d'amélioration
+FilterTowerPets,Compagnons
+FilterProjectiles,Projectiles
+FilterFlags,Drapeaux
+FilterPopFX,Effets d'éclatement
+FilterAllBloonSkins,Toutes les apparences de Bloons
+FilterRegularSkins,Apparences de Bloons
+FilterMoabSkins,Apparences de MOAB
+FilterStandardEmotes,Émoticônes standard
+FilterTextEmotes,Émoticônes de texte
+FilterSoundEmotes,Émoticônes sonores
+FilterFullScreenEmotes,Émoticônes plein écran
+FilterMusicTracks,Pistes de musique
+FilterAvatars,Avatars
+FilterPowerSkins,Apparences de pouvoir
+FilterProfileBanners,Bannières de profil
+FilterMisc,Divers
+Blast Chain Ability,Explosions à la chaîne
+Blast Chain Ability Description,Les mines marines explosent plus rapidement pendant une courte durée
+TowerSpecial,Spécialité de singe

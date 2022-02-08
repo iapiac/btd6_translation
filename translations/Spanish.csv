@@ -727,7 +727,7 @@ Heavy Bombs Description,Las bombas de alto impacto destruyen 2 capas a la vez y 
 Missile Launcher Description,"Cambia bombas por misiles, que se disparan y vuelan más rápido y aumentan el alcance."
 Frag Bombs Description,"Las explosiones despiden fragmentos filosos que revientan más bloons, incluidos los bloons negros."
 Really Big Bombs Description,Bombas enormes hacen daño en un área grande y permiten que las de fragmentación revienten más Bloons.
-MOAB Mauler Description,Los golpeadores de MOAB hacen mucho más daño a los bloons clase MOAB y a los cerámicos.
+MOAB Mauler Description,Los golpeadores de MOAB hacen mucho más daño a los bloons clase MOAB.
 Cluster Bombs Description,Arroja bombas secundarias en vez de fragmentos filosos con cada disparo.
 Bloon Impact Description,Las explosiones se vuelven tan violentas que aturden a los Bloons por poco tiempo cuando impactan. Se aumenta el alcance y las Bombas de Fragmentación son aún más efectivas.
 MOAB Assassin Description,Habilidad Asesino de MOAB: un misil especial hace un daño tremendo a los bloons clase MOAB. También aumentan el alcance de ataque regular y el daño a la clase MOAB.
@@ -798,14 +798,14 @@ Supply Drop Description,Habilidad Entrega de provisiones: suelta una caja llena 
 Full Auto Rifle Description,Arma automática de poder reventador increíble.
 Cripple MOAB Description,Los MOAB paralizados no se pueden mover por más tiempo y reciben más daño de otros ataques.
 Elite Sniper Description,La Entrega de Provisiones da mucho más dinero. Otorga prioridad de objetivo Élite y recarga más rápida a todos los francotiradores.
-Elite Defender Description,Una vida perdida le da a este francotirador una velocidad de ataque de 4x por poco tiempo.
+Elite Defender Description,Una vida perdida le da a este francotirador una velocidad de ataque de 4x durante poco tiempo. También ataca más rápido cuando los bloons están más lejos. Hace más daño a los bloons clase MOAB.
 ,
 Longer Range Description,Aumenta el alcance de ataque.
 Barbed Darts Description,Los dardos del submonino pueden reventar 3 bloons más cada uno.
 Twin Guns Description,Las armas gemelas duplican la velocidad de ataque. Mejora el Misil Balístico y el Reactor de Bloontonio.
 Advanced Intel Description,Permite apuntar a largo alcance a los bloons que están en el radio de tus otras torres.
 Heat-tipped Darts Description,Los dardos con punta caliente permiten reventar bloons congelados y emplomados.
-Airburst Darts Description,Mejora aún más el Misil Balístico y el Reactor de Bloontonio.
+Airburst Darts Description,Los dardos se dividen en 3 cuando impactan y generan más potencia reventadora. Mejora más el reactor de bloontonio.
 Submerge and Support Description,"Agrega la opción de apuntar sumergido, que revela de forma permanente a los camufloons en el radio y no ataca bajo el agua."
 Ballistic Missile Description,El misil busca un objetivo a su alcance y hace daño extra a MOAB y cerámicos.
 Triple Guns Description,Agrega una tercera arma para disparar aún más rápido.
@@ -897,7 +897,7 @@ Ray of Doom Description,Crea una línea sólida de aniquilación. Puedes elimina
 M.A.D Description,Destructor asegurado de MOAB. Los megamisiles de disparo más lento hacen muchísimo daño a los bloons clase MOAB.
 Bloon Exclusion Zone Description,Mejora a 6 cañones y aumenta mucho el daño. Elimina a los bloons de la existencia.
 ,
-Guided Magic Description,"Unos disparos mágicos rastrean a los bloons, incluso si están cubiertos."
+Guided Magic Description,"Los disparos mágicos duran más y rastrean a los bloons, incluso si están cubiertos."
 Fireball Description,"Cada varios segundos, lanza una bola de fuego explosiva."
 Intense Magic Description,Estos disparos mágicos más poderosos se mueven más rápido y revientan más bloons.
 Arcane Blast Description,Estallidos mágicos más grandes y más poderosos que atraviesan 2 capas de bloons.
@@ -970,7 +970,7 @@ Heart of Vengeance Description,Obtiene 10 % de velocidad de ataque y 1 % por c
 Druid of the Storm Description,La ráfagas de viento vuelan a los bloons del camino y los alejan de la salida.
 Druid of the Jungle Description,Hace crecer unas enredaderas que atrapan y aplastan a los bloons uno a la vez. Deja una pila de espinas letales.
 Druid of Wrath Description,Gana velocidad de ataque durante la ronda siempre que el druida esté atacando a bloons.
-Ball Lightning Description,Crea una bola de rayo poderosa que dispara rayos adicionales.  
+Ball Lightning Description,Crea bolas de rayo poderosas que disparan rayos adicionales y congelan a los bloons.
 Jungle's Bounty Description,Habilidad La abundancia de la selva: genera dinero adicional por cada bananal cerca del druida. También puede atrapar a dos bloons con enredaderas a la vez.
 Poplust Description,Potencia la velocidad de ataque y perforación de otros druidas en su radio. Puede acumularse hasta 5 veces en un mismo druida.
 Superstorm Description,"La Supertormenta impacta en todos los tipos de bloon, hace un daño enorme y los aleja de la salida."
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,Pegamento de MOAB desacelera más de lo normal.
 CheaperSolution,Solución más barata
 CheaperSolutionDescription,Licuador de bloons cuesta 1000 menos.
 BonusMonkey,¡Mono adicional!
-BonusMonkeyDescription,Empieza cada partida con 1 mono dardero gratis.
+BonusMonkeyDescription,Empieza cada partida con 1 mono dardero gratis. (Solo 1 por torre moneril en cada partida)
 MoreCash,Más dinero
 MoreCashDescription,Aumenta el dinero inicial en 200.
 ,
@@ -1950,7 +1950,7 @@ HotMagicDescription,Todas las torres de tipo mágico revientan bloons congelados
 ArcaneImpale,Empalador arcano
 ArcaneImpaleDescription,El clavo arcano hace más daño a los bloons clase MOAB y cerámicos.
 ColdFront,Frente frío
-ColdFrontDescription,Los impactos de Esfera de rayo tienen una probabilidad de congelar Bloons después de hacer daño.
+ColdFrontDescription,Los impactos de Esfera de rayo congelan a los bloons después de hacer daño.
 FlameJet,Chorro de fuego
 FlameJetDescription,Los proyectiles del aliento de dragón se mueven mucho más rápido.
 StrikeDownTheFalse,Destrucción de los falsos
@@ -2625,7 +2625,7 @@ SentryCold,Centinela frío
 SentryEnergy,Centinela energético
 SentryParagon,Centinela campeón
 EditorNumberOfPlayers,Cantidad de jugadores
-EditorCoopAreaDivision,División del área cooperativa
+EditorCoopAreaDivision,División de mapa
 InvalidTarget,Objetivo no válido
 Adora,Adora
 Adora Short Description,Sacerdotisa suprema
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] para usar Desvío oscuro dentro del alcance
 DarkChampionDarkshift,[I] para usar Desvío oscuro a cualquier ubicación válida
 SmallTowersMode,Torres moneriles pequeñas
 BigTowersMode,Torres moneriles grandes
-UpdatePopupTitle,¡Actualización 29!
-UpdatePopupDescription,"¡Actualización de felices fiestas!\n• Gobierna los mares con el mono modelo más reciente: navarca de los mares.\n• Frena por completo a los bloons revoltosos con este mapa intermedio nuevo: calle silenciosa.\n• Obtén el aspecto nuevo increíble de Ezili, Galaxili.\n• Creación de antesala cooperativa renovada para que entres al juego más rápido.\n• 17 objetos nuevos en la tienda de trofeos, entre ellos 6 por tiempo limitado. ¡Consíguelos rápido!\n• Logros nuevos, cambios vitales, equilibrio y errores reparados. Hay muchas modificaciones, consulta las notas de la actualización para saber los detalles.\nEl equipo de Ninja Kiwi te desea lo mejor para las fiestas y feliz año nuevo."
+UpdatePopupTitle,¡Actualización 30!
+UpdatePopupDescription,"¡Nueva actualización de contenido!\n• Lucha en el mapa avanzado nuevo: columnas hundidas\n• Hora de hacer bullicio con el aspecto nuevo de Psi: Psímbalos\n• Actualización de divisiones cooperativas: se agregaron 2 divisiones nuevas que pueden seleccionarse cuando configuras una partida cooperativa\n• 16 objetos nuevos de la tienda de trofeos que incluyen 4 por tiempo limitado. ¡Consíguelos ahora!\n• 4 conocimientos moneriles nuevos para desbloquear\n• Logros nuevos, cambios de equilibrio y calidad. Consulta las notas para saber más."
 ResetDailyChest,Restablecer cofre diario
 JukeboxName,Rocola
 EnableFunction,Habilitar
@@ -2852,8 +2852,8 @@ AdmiralBrickell Level 3 Description,Táctica naval: aumenta mucho la velocidad d
 AdmiralBrickell Level 4 Description,Más poder reventador para las Minas Marinas.
 AdmiralBrickell Level 5 Description,Táctica Naval aumenta el poder reventador y permite a los Monos afectados dañar a todos los tipos de Bloons excepto Camu.
 AdmiralBrickell Level 6 Description,Aumenta el daño de las Minas Marinas y los ataques de Pistolas.
-AdmiralBrickell Level 7 Description,Aumenta el alcance de ataque y la detección de Camufloons.
-AdmiralBrickell Level 8 Description,Táctica Naval permite a los Monos afectados dañar a Camufloons.
+AdmiralBrickell Level 7 Description,Aumenta el alcance de ataque y la detección de camufloons de Brickell.
+AdmiralBrickell Level 8 Description,Táctica Naval permite que los Monos afectados dañen camufloons. Las torres acuáticas en el radio ganan más perforación.
 AdmiralBrickell Level 9 Description,Las Minas Marinas hacen daño extra.
 AdmiralBrickell Level 10 Description,Megamina: Despliega una Mina devastadora a cualquier área acuática que se activa bajo MOAB y aturde a los Bloons cercanos. Las Megaminas duran 3 rondas.
 AdmiralBrickell Level 11 Description,Velocidad y frecuencia de despliegue más rápidas para las Minas Marinas.
@@ -3009,7 +3009,7 @@ MonkeyNameInstruction,Elige un nombre personalizado para el primer mono de cada 
 OdysseyCompleteDescription,"¡Felicitaciones, valiente aventurero! ¡Completaste tu Odisea y ganaste estas recompensas!"
 HeroBoosterDescription,¿Potenciar al héroe al Nivel 10 inmediatamente?
 InappropriateNamedMonkeyName,Elige un nombre de mono más apropiado
-PatchNotesLink,"Para ver las notas completas, visita "
+PatchNotesLink,"Para ver las notas completas, visita"
 TrophyPurchaseConfirmation,¿Comprar {0} usando {1} Trofeos?
 TrophyPurchaseInsufficient,No te alcanzan los Trofeos para comprar este artículo. Recibe más en las Carreras y en el Modo Odisea.
 TrophyStoreBought,Comprado
@@ -3672,7 +3672,7 @@ YouFinished,Completaste:
 BestTime,Récord:
 Claim,Reclamar
 PlayerRejoinedGame, se unió a la partida de nuevo
-PlayerKickedFromGame,Se quitó a {0} de la partida.
+PlayerKickedFromGame,Se quitó a  de la partida.
 ConfirmKickPlayer,¿Seguro que quieres quitar a {0}?
 Remove,Quitar
 MiniRacesFirstTimeTitle,¡Minicarreras!
@@ -3788,10 +3788,10 @@ GameUIProfileAvatar41Name,Avatar personalizado: ninja de bomba cegadora
 GameUIProfileAvatar41ShortName,Avatar de bomba cegadora
 GameUIProfileAvatar41Description,Avatar ganador de _Concilliabule_
 GameUIProfileAvatar42Name,Avatar personalizado: Patch empresaria
-GameUIProfileAvatar42ShortName,Patch empresaria
+GameUIProfileAvatar42ShortName,Avatar de Patch empresaria
 GameUIProfileAvatar42Description,Patch subió poco a poco en la escala corporativa del mundo moneril.
 GameUIProfileAvatar43Name,Avatar personalizado: lanzabombas de pirotecnia
-GameUIProfileAvatar43ShortName,Lanzabombas de pirotecnia
+GameUIProfileAvatar43ShortName,Avatar de lanzabombas de pirotecnia
 GameUIProfileAvatar43Description,¿Qué mejor forma de encender los cohetes? Objeto para coleccionistas por tiempo limitado.
 GameUIPowerSkinMonkeyBoostFireworksName,Poder personalizado: potenciador moneril pirotécnico
 GameUIPowerSkinMonkeyBoostFireworksShortName,Potenciador moneril pirotécnico
@@ -3904,7 +3904,7 @@ GameUIProfileBanner5Description,La potencia y el peligro se combinan en esta ban
 Paragon Title,Mejorar a ejemplar
 Paragon Body,Esta acción creará un {0} ejemplar. Se destruirán todos los otros {1} en el proceso para alimentar el poder ejemplar.
 ft_paragontitle,¡Se activó la mejora ejemplar!
-ft_paragondescription,"Mejora uno de los monos de nivel 5 a ejemplar. Estos monos absorben a todos los de su tipo, incluidos los de nivel 5 de las otras dos ramas.\n\nEl grado de ejemplar depende de cuánto poder se absorbe en el momento de la mejora."
+ft_paragondescription,"Mejora uno de los monos de nivel 5 a ejemplar. Estos monos absorben a todos los de su tipo, incluidos los de nivel 5 de las otras dos ramas.\n\nEl grado de ejemplar depende de cuánto poder se absorbe en el momento de la mejora. No disponible en entorno de pruebas."
 ParagonDegreeText,Grado de ejemplar
 DartMonkeys,Monos darderos
 BoomerangMonkeys,Monos bumeraneros
@@ -4223,7 +4223,107 @@ CalloutWellRounded,Buen equilibrio
 CalloutWellRoundedDesc,{0} de cada uno de los 4 tipos de torre
 CalloutEndlessPower,¡Poder infinito!
 CalloutEndlessPowerDesc,Modelo de grado {0} creado
-AnyGame,Cualquier juego
+AnyGame,Cualquier partida
 AnyMap,Cualquier mapa
 AnyDifficulty,Cualquier dificultad
 AnyMode,Cualquier modo
+DataConsentTitle,Habilitar transferencia de datos
+DataConsentBody,"¡Hola! En Ninja Kiwi necesitamos usar la información de juego (que incluye tu dirección IP, nombre de GameCenter y progreso en el juego) para que puedas jugar Odiseas, carreras, partidas cooperativas y otros eventos que no funcionan sin estos datos. ¿Acep"
+DataConsentAccepted,¡Gracias! Disfruta los eventos.
+DataConsentRejected,"No hay problema. No usaremos la información de juego y se desactivarán Odiseas, carreras, jefes, partidas cooperativas y explorador de contenido. Aún podrás jugar el modo de un jugador y cambiar tu decisión desde Configuración."
+DataConsentCurrent,Transferencia de datos: {0}
+DataConsentEnabled,Activada
+DataConsentDisabled,Desactivada
+DataConsentReview,Revisar
+DataConsentYes,Sí
+DataConsentNo,No
+BionicAugmentation,Avatar de aumento biónico
+BionicAugmentationDescription,"Cuando Turbocarga se activa, Búmeran biónico puede atacar camufloons."
+XrayUltra,Rayos X ultra
+XrayUltraDescription,La ultravisión permite que los Supermonos vean y disparen a través de los objetos.
+BonusGlueGunner,Artillero pegajoso adicional
+BonusGlueGunnerDescription,Empieza cada partida con 1 artillero pegajoso gratis. (Solo 1 por torre moneril en cada partida)
+Achievement 139 Name,Situación pegajosa
+Achievement 139 Description,Pega 500 000 bloons
+Achievement 140 Name,Derrochador
+Achievement 140 Description,Gasta 1 000 000 en una ronda
+Achievement 141 Name,Lectura diaria
+Achievement 141 Description,Gana 365 desafíos diarios únicos
+Achievement 142 Name,Volveré
+Achievement 142 Description,Gasta 1000 mónares en continuaciones o puntos de control
+PetSounds,Sonidos de mascotas
+UserID,ID de usuario
+SunkenColumns,Columnas hundidas
+PsimbalsPsiSkinName,Psímbalos
+PsimbalsPsiSkinDescription,¿Todo listo para el espectáculo?
+HeroesStrikerJonesPetGermanShepherdName,Pastor alemán mascota de Striker Jones
+HeroesStrikerJonesPetGermanShepherdShortName,Perro mascota de Striker
+HeroesStrikerJonesPetGermanShepherdDescription,Claro que Striker tiene un pastor alemán. Se necesita un perro robusto para jugar con artillería. Solo Striker Jones original.
+HeroesETnPlacementBeamDownName,Colocación y mejora de rayo de ET-n
+HeroesETnPlacementBeamDownShortName,Rayo de ET-n
+HeroesETnPlacementBeamDownDescription,Nada de teléfono ni casa. ET-n cree que es mejor usar la teletransportación para entrar en acción o agregarle un toque a las mejoras. Solo ET-n original.
+TowerPetHeliPilotHummingbirdName,Colibrí mascota de helipiloto
+TowerPetHeliPilotHummingbirdShortName,Colibrí mascota de helipiloto
+TowerPetHeliPilotHummingbirdDescription,"El helipiloto tiene habilidades increíbles, pero este colibrí demuestra que siempre se puede mejorar."
+TowerProjectileWizardZombiesName,Bloons zombis de mago nigromante
+TowerProjectileWizardZombiesShortName,Necrobloons mágicos
+TowerProjectileWizardZombiesDescription,¡Que vengan los muertos! A estos necrobloons y bloons clase MOAB les encanta convertir a los invasores en muertos vivientes.
+BloonsAllBloonsDaisyChainName,Guirnalda de bloons
+BloonsAllBloonsDaisyChainShortName,Guirnalda de bloons
+BloonsAllBloonsDaisyChainDescription,Temporada de capullos y pétalos. Celebra la primavera con esta guirnalda floral para los bloons regulares. Objeto para coleccionistas por tiempo limitado.
+BloonsBADSkinWhaleName,Ballena BAD
+BloonsBADSkinWhaleShortName,Ballena BAD
+BloonsBADSkinWhaleDescription,"Creemos que todas las ballenas son buenas, pero esta bestia magenta sin duda es bastante mala."
+CoopEmoteAnimationObynPeaceName,Emote de Obyn pacífico
+CoopEmoteAnimationObynPeaceShortName,Obyn pacífico
+CoopEmoteAnimationObynPeaceDescription,"Tú eliges: ofrece un saludo zen, haz que los demás sean buenos con el jugador 3 o discúlpate por estropear lo que activaste. La respuesta es Obyn pacífico. Objeto para coleccionistas por tiempo limitado."
+CoopEmoteAnimationThinkingMonkeyName,Emote de mono pensador
+CoopEmoteAnimationThinkingMonkeyShortName,Mono pensador
+CoopEmoteAnimationThinkingMonkeyDescription,Un mono que piensa es un mono bueno. Funciona cuando reflexionas o cuando te preguntas qué diablos pensaba otra persona.
+GameUIProfileAvatar56Name,Avatar de flores de primavera druídica
+GameUIProfileAvatar56ShortName,Avatar de primavera druídica
+GameUIProfileAvatar56Description,Invoca la magia de la primavera en cualquier momento del año con este avatar druídico bello y contemplativo. Objeto para coleccionistas por tiempo limitado.
+GameUIProfileAvatar57Name,Avatar de submonino explorador
+GameUIProfileAvatar57ShortName,Avatar de submarino explorador
+GameUIProfileAvatar57Description,No hay mejor vista en un submarino que la del rostro contra el vidrio. Dale cariño al submarino con este avatar sorprendido.
+GameUIProfileAvatar58Name,Avatar de Musti el hombre de nieve
+GameUIProfileAvatar58ShortName,Avatar de Musti de helado
+GameUIProfileAvatar58Description,¡Helado para todos! El mejor avatar para quienes aman los placeres de la vida.
+GameUIPowerSkinRoadSpikesFlowerPatchName,Poder personalizado: clavos de jardín
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,Clavos de jardín
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,¿Quién dice que deben tener un aspecto industrial? Tratas de recoger las flores y te clavas las espinas.
+GameUIPowerSkinMonkeyBoostSugarRushName,Poder personalizado: potenciador moneril azucarado
+GameUIPowerSkinMonkeyBoostSugarRushShortName,Potenciador azucarado
+GameUIPowerSkinMonkeyBoostSugarRushDescription,"Humanos, sabemos que rinden más bajo la influencia del azúcar. Es igual para los monos."
+GameUIProfileBanner10Name,Banderola de perfil garabato genial
+GameUIProfileBanner10ShortName,Banderola garabato genial
+GameUIProfileBanner10Description,Banderola ganadora de bonbonni
+GameUIProfileBanner11Name,Banderola de perfil Arcanum Necronicom
+GameUIProfileBanner11ShortName,Banderola de perfil Arcanum Necronicom
+GameUIProfileBanner11Description,Banderola ganadora de _Concilliabule_
+GameUIProfileBanner12Name,Banderola de perfil zumbadora
+GameUIProfileBanner12ShortName,Banderola zumbadora
+GameUIProfileBanner12Description,Las abejas zumban en los árboles y fabrican miel para mí. Objeto para coleccionistas por tiempo limitado.
+FilterAll,Todos
+FilterHeroPlacementUpgrades,Efecto de colocación
+FilterHeroPets,Mascotas
+FilterTowerPlacementUpgrades,Efecto de mejora
+FilterTowerPets,Mascotas
+FilterProjectiles,Proyectiles
+FilterFlags,Banderas
+FilterPopFX,Efecto de reviente
+FilterAllBloonSkins,Todos los aspectos de bloons
+FilterRegularSkins,Aspectos de bloons
+FilterMoabSkins,Aspectos de MOAB
+FilterStandardEmotes,Emotes estándar
+FilterTextEmotes,Emotes textuales
+FilterSoundEmotes,Emotes de sonido
+FilterFullScreenEmotes,Emotes de pantalla completa
+FilterMusicTracks,Pistas de música
+FilterAvatars,Avatares
+FilterPowerSkins,Aspectos de poderes
+FilterProfileBanners,Banderolas de perfil
+FilterMisc,Miscelánea
+Blast Chain Ability,Cadena explosiva
+Blast Chain Ability Description,Las minas marinas se disparan más rápido durante poco tiempo.
+TowerSpecial,Especial moneril

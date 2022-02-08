@@ -727,7 +727,7 @@ Heavy Bombs Description,중량 폭탄이 한꺼번에 풍선 2겹을 폭파고 �
 Missile Launcher Description,폭탄을 발사 속도와 이동 속도가 더 높으며 사정거리도 더 긴 미사일로 교체합니다.
 Frag Bombs Description,폭발하면 검은 풍선을 포함해 더 많은 풍선을 터트릴 수 있는 뾰족한 파편을 방출합니다.
 Really Big Bombs Description,"대형 폭탄이 광역 공격에서 더 높은 피해를 주며, 파편이 더 많은 풍선을 터트립니다."
-MOAB Mauler Description,MOAB 격투자는 MOAB급 풍선과 세라믹 풍선에 훨씬 더 많은 피해를 줍니다.
+MOAB Mauler Description,MOAB 격투자는 MOAB급 풍선에 훨씬 더 많은 피해를 줍니다.
 Cluster Bombs Description,발사당 뾰족한 파편 대신 이차 폭탄을 던집니다.
 Bloon Impact Description,맞은 풍선이 잠시 동안 기절할 정도로 폭발의 위력이 강해집니다. 사정거리가 증가하며 파편의 위력이 더욱더 향상됩니다.
 MOAB Assassin Description,MOAB 암살 능력: 특수 미사일이 날아가 MOAB급 풍선에게 막대한 피해를 줍니다. 일반 공격 사정거리와 MOAB급에 주는 피해도 증가합니다.
@@ -798,14 +798,14 @@ Supply Drop Description,"보급품 투하 능력: 캐시가 가득 든 상자를
 Full Auto Rifle Description,어마어마한 터트리는 힘을 가진 전자동 무기입니다.
 Cripple MOAB Description,"손상된 MOAB 풍선이 움직이지 못하는 시간이 증가하며, 다른 공격에서 추가 피해를 받습니다."
 Elite Sniper Description,보급품 투하로 받는 캐시의 양이 상당히 증가합니다. 모든 저격수가 엘리트 표적우선순위와 빠른 재장전 속도를 갖게 됩니다.
-Elite Defender Description,목숨을 잃으면 그에 대한 보복으로 잠시 동안 이 저격수의 공격 속도가 4배가 됩니다.
+Elite Defender Description,"목숨을 잃으면 그에 대한 보복으로 잠시 동안 이 저격수의 공격 속도가 4배가 됩니다. 또한, 트랙 위의 풍선의 거리가 멀수록 더 빨리 공격합니다. MOAB급 풍선에 훨씬 더 많은 피해를 줍니다."
 ,
 Longer Range Description,공격 사정거리가 증가합니다.
 Barbed Darts Description,잠수함의 다트가 풍선 3개를 추가로 터트립니다.
 Twin Guns Description,추가 트윈 건이 공격 속도를 2배로 만듭니다. 탄도 미사일과 블루토니움 원자로를 향상합니다.
 Advanced Intel Description,다른 타워의 반경 내에 있는 풍선을 원거리에서 표적으로 삼을 수 있습니다.
 Heat-tipped Darts Description,열처리 다트로 얼린 풍선과 납 풍선을 터트릴 수 있습니다.
-Airburst Darts Description,공중 폭발 다트가 풍선과 접촉하면 3개로 쪼개져 엄청난 터트리는 힘을 발휘합니다. 탄도 미사일과 블루토니움 원자로를 더욱더 향상합니다.
+Airburst Darts Description,공중 폭발 다트가 풍선과 접촉하면 3개로 쪼개져 엄청난 터트리는 힘을 발휘합니다. 블루토니움 원자로를 더욱더 개량합니다.
 Submerge and Support Description,잠수 중에는 공격을 멈추는 대신 반경 내 캐모 풍선을 영구적으로 드러내는 잠수 표적 옵션을 추가합니다.
 Ballistic Missile Description,"미사일이 사정거리 내의 표적을 추적하며, MOAB과 세라믹 풍선에 추가 피해를 줍니다."
 Triple Guns Description,세 번째 대포를 추가하여 공격 속도가 더욱 증가합니다.
@@ -897,7 +897,7 @@ Ray of Doom Description,일직선상의 풍선을 확실하게 학살합니다. 
 M.A.D Description,MOAB 확정 파괴자. 공격 속도는 느리지만 MOAB급 풍선에 극심한 피해를 주는 메가 미사일을 발사합니다.
 Bloon Exclusion Zone Description,포열을 6개로 업그레이드하고 공격력도 어마어마하게 증가합니다. 풍선이라는 존재를 아예 지워버립니다.
 ,
-Guided Magic Description,마법 공격이 엄폐물 뒤에 있는 풍선도 발견하여 추적합니다.
+Guided Magic Description,"마법 공격이 더 오래 지속되며, 엄폐물 뒤에 있는 풍선도 발견하여 추적합니다."
 Fireball Description,몇 초마다 폭발하는 불덩이 주문을 시전합니다.
 Intense Magic Description,"마법 공격의 위력과 이동 속도가 증가하며, 더 많은 풍선을 터트립니다."
 Arcane Blast Description,더욱 강력하고 규모가 커진 마법 공격이 풍선 2겹을 터트립니다.
@@ -970,7 +970,7 @@ Heart of Vengeance Description,"발사 속도가 10% 상승하며, 업그레이�
 Druid of the Storm Description,드센 바람이 불어 트랙 위의 풍선을 출구에서 멀리 날려보냅니다.
 Druid of the Jungle Description,풍선을 하나씩 휘감아 으스러뜨리고 무시무시한 가시 더미를 남기는 넝쿨을 땅에서 소환합니다.
 Druid of Wrath Description,드루이드가 풍선을 공격하고 있는 한 라운드 중에 공격 속도가 증가합니다.
-Ball Lightning Description,추가로 벼락을 쏘는 강력한 번개구를 생성합니다.  
+Ball Lightning Description,추가로 벼락을 쏘며 풍선을 얼리는 강력한 번개구를 생성합니다. 
 Jungle's Bounty Description,"정글의 축복 능력: 사용할 때마다 캐시를 생성하며, 드루이드 주변 농장의 수에 따라 추가 캐시를 생성합니다. 또한, 넝쿨로 한꺼번에 풍선을 두 개씩 붙잡습니다."
 Poplust Description,반경 내에 있는 다른 드루이드의 공격 속도와 관통력이 증가합니다. 드루이드당 5번까지 중첩될 수 있습니다.
 Superstorm Description,슈퍼 폭풍이 모든 유형의 풍선에게 어마어마한 피해를 주며 출구에서 멀리 날려보냅니다.
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,MOAB 글루는 보통보다 이동 속도를 더 �
 CheaperSolution,저렴한 해결책
 CheaperSolutionDescription,풍선 액화기 비용을 1000 감소합니다.
 BonusMonkey,보너스 원숭이!
-BonusMonkeyDescription,게임마다 무료 다트 원숭이 1마리와 함께 시작하세요!
+BonusMonkeyDescription,게임마다 무료 다트 원숭이 1마리와 함께 시작하세요! (게임당 무료 원숭이 1마리만 적용)
 MoreCash,캐시 증가
 MoreCashDescription,시작 캐시액을 200 증가합니다.
 ,
@@ -1950,7 +1950,7 @@ HotMagicDescription,모든 마법 유형의 타워가 얼린 풍선을 터트릴
 ArcaneImpale,마력 관통
 ArcaneImpaleDescription,마력 스파이크가 MOAB급 풍선과 세라믹 풍선에 추가 피해를 줍니다.
 ColdFront,한랭전선
-ColdFrontDescription,번개구가 피해를 준 후에 일정 확률로 풍선을 얼립니다.
+ColdFrontDescription,번개구가 피해를 준 후에 풍선을 얼립니다.
 FlameJet,화염 추진기
 FlameJetDescription,용의 입김 화염 발사무기의 이동 속도가 훨씬 증가합니다.
 StrikeDownTheFalse,가짜는 끌어내려
@@ -2625,7 +2625,7 @@ SentryCold,추위 경비 탑
 SentryEnergy,에너지 경비 탑
 SentryParagon,챔피언 경비 탑
 EditorNumberOfPlayers,플레이어 수
-EditorCoopAreaDivision,협동 지역 분할
+EditorCoopAreaDivision,맵 분할
 InvalidTarget,잘못된 대상
 Adora,아도라
 Adora Short Description,고위 여사제
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] 눌러 사정거리 내로 어둠포털을 통해 이동
 DarkChampionDarkshift,[I] 눌러 아무 가능한 장소로 어둠포털을 통해 이동하기
 SmallTowersMode,작은 원숭이 타워
 BigTowersMode,커다란 원숭이 타워
-UpdatePopupTitle,업데이트 29!
-UpdatePopupDescription,"메리 크리스마스 시즌 업데이트!\n• 신규 파라곤 원숭이 '대양의 나바크'로 모든 수면을 제패하세요.\n• 신규 중급 맵 '조용한 거리'에서 말썽꾸러기 풍선들을 저지하세요.\n• 근사한 이질리 스킨 '갤럭실리'가 새로 나왔습니다!\n• 게임에 더 빠르게 입장할 수 있도록 협동 로비를 재단장했습니다\n• 신규 기간 한정 아이템 6종을 비롯한 17종의 신규 트로피 상점 아이템이 입고되었으니 얼른 구매하세요!\n• 신규 업적, 편의성 개선, 밸런스 조정, 버그 수정 등 많이 바뀌었습니다. 자세한 정보는 업데이트 노트에서 확인하세요.\n여러분 모두 따뜻한 크리스마스와 즐거운 새해 맞으시기를 Ninja Kiwi 전직원이 기원합니다!"
+UpdatePopupTitle,업데이트 30!
+UpdatePopupDescription,"신규 콘텐츠 업데이트!\n• 새 고급 맵 '잠긴 기둥'에서 전투를 펼치세요\n• 신규 사이 스킨 '사임벌즈'로 즐거운 소리를 만들어 봐요!\n• 협동 분할 업데이트: 협동 게임을 설정할 때 사용할 수 있는 2가지 새로운 분할 옵션을 추가했으며, 모두 선택 가능합니다\n• 기간 한정 4종 포함 트로피 상점 신규 아이템 16종이 나왔으니 놓치지 마세요!\n• 잠금 해제 가능한 신규 원숭이 지식 4종 추가\n• 신규 업적 추가, 편의성 및 밸런스 조정 등 자세한 정보는 업데이트 노트를 참고하세요"
 ResetDailyChest,일일 상자 초기화
 JukeboxName,주크박스
 EnableFunction,사용
@@ -2852,8 +2852,8 @@ AdmiralBrickell Level 3 Description,해군 전술: 브릭켈과 주변 수중 �
 AdmiralBrickell Level 4 Description,어뢰의 터트리는 힘 증가.
 AdmiralBrickell Level 5 Description,해군 전술이 터트리는 힘을 증가하고 영향을 받는 원숭이가 캐모를 제외한 모든 유형의 풍선을 공격할 수 있게 합니다.
 AdmiralBrickell Level 6 Description,어뢰와 권총 공격의 공격력을 증가합니다.
-AdmiralBrickell Level 7 Description,공격 범위와 캐모 풍선 감지력을 증가합니다.
-AdmiralBrickell Level 8 Description,해군 전술이 영향을 받는 원숭이가 캐모 풍선을 공격할 수 있게 합니다.
+AdmiralBrickell Level 7 Description,브릭켈의 공격 범위가 증가하고 캐모 풍선 감지 능력을 얻습니다.
+AdmiralBrickell Level 8 Description,해군 전술이 영향을 받는 원숭이가 캐모 풍선을 공격할 수 있게 합니다. 범위 내 수중 타워의 관통력이 증가합니다.
 AdmiralBrickell Level 9 Description,어뢰가 추가 피해를 줍니다.
 AdmiralBrickell Level 10 Description,메가 어뢰: MOAB이 닿으면 폭발하며 주변 풍선을 기절시키는 어마어마한 어뢰를 물이 있는 곳에 배치합니다. 메가 어뢰는 3라운드 동안 지속됩니다.
 AdmiralBrickell Level 11 Description,어뢰의 발사 속도와 발사율을 증가합니다.
@@ -3672,7 +3672,7 @@ YouFinished,최종 순위:
 BestTime,최단 시간:
 Claim,받기
 PlayerRejoinedGame,님이 게임에 다시 입장했습니다
-PlayerKickedFromGame,{0} 님이 게임에서 추방되었습니다
+PlayerKickedFromGame, 님이 게임에서 추방되었습니다
 ConfirmKickPlayer,정말 {0} 님을 추방하시겠습니까?
 Remove,추방
 MiniRacesFirstTimeTitle,미니경주!
@@ -3788,10 +3788,10 @@ GameUIProfileAvatar41Name,커스텀아바타 - 섬광 폭탄 닌자
 GameUIProfileAvatar41ShortName,섬광 폭탄 아바타
 GameUIProfileAvatar41Description,_Concilliabule_ 님의 아바타 공모전 당선작
 GameUIProfileAvatar42Name,커스텀 아바타 - 기업 패치
-GameUIProfileAvatar42ShortName,기업 패치
+GameUIProfileAvatar42ShortName,기업 패치 아바타
 GameUIProfileAvatar42Description,패치가 원숭이계의 기업 서열에서 조용히 승승장구해왔어요
 GameUIProfileAvatar43Name,커스텀아바타 - 불꽃놀이 폭탄 슈터
-GameUIProfileAvatar43ShortName,불꽃놀이 폭탄 슈터
+GameUIProfileAvatar43ShortName,불꽃놀이 폭탄 아바타
 GameUIProfileAvatar43Description,로켓을 쏘는 방법으로는 이게 최고죠! 기간 한정 수집가용 품목!
 GameUIPowerSkinMonkeyBoostFireworksName,커스텀 힘 - 불꽃놀이 원숭이 부스트
 GameUIPowerSkinMonkeyBoostFireworksShortName,불꽃놀이 원숭이 부스트
@@ -3904,7 +3904,7 @@ GameUIProfileBanner5Description,"힘과 위험이 어우러진, 잠수함을 모
 Paragon Title,파라곤으로 업그레이드
 Paragon Body,파라곤 {0}를 생산합니다. 다른 모든 {1}가 파괴되어 파라곤에게 힘을 줍니다!
 ft_paragontitle,파라곤 업그레이드 가능!
-ft_paragondescription,5티어 원숭이를 파라곤으로 업그레이드하세요! 파라곤은 다른 두 업그레이드 경로의 5티어 원숭이를 포함해 같은 유형의 모든 원숭이를 흡수합니다.\n\n업그레이드할 때 흡수한 힘의 양에 따라 파라곤의 경지가 결정됩니다.
+ft_paragondescription,5티어 원숭이 한 마리를 파라곤으로 업그레이드하세요! 파라곤은 다른 두 업그레이드 경로의 5티어 원숭이를 포함해 같은 유형의 모든 원숭이를 흡수합니다.\n\n업그레이드할 때 흡수한 힘의 양에 따라 파라곤의 경지가 정해집니다. 샌드박스에서는 사용할 수 없습니다.
 ParagonDegreeText,파라곤 경지
 DartMonkeys,다트 원숭이
 BoomerangMonkeys,부메랑 원숭이
@@ -4223,7 +4223,107 @@ CalloutWellRounded,올라운더
 CalloutWellRoundedDesc,4가지 타워 유형에서 각각 {0}개씩
 CalloutEndlessPower,무한한 힘!
 CalloutEndlessPowerDesc,{0}급 파라곤 생성
-AnyGame,모든 게임
-AnyMap,모든 지도
-AnyDifficulty,모든 어려움
-AnyMode,모든 모드
+AnyGame,아무 게임
+AnyMap,아무 맵
+AnyDifficulty,아무 난이도
+AnyMode,아무 모드
+DataConsentTitle,데이터 이전 허용
+DataConsentBody,"안녕하세요! 귀하가 게임에서 오디세이, 경주, 보스, 협동 및 기타 이벤트를 플레이할 수 있도록 하려면 Ninja Kiwi에서 귀하의 IP 주소, GameCenter 사용자 이름, 게임플레이 진행 상황 등 게임플레이 관련 정보를 사용해야 합니다. (해당 게임 콘텐츠 사용에 반드시 필요한 정보입니다.) 이러한 정보 사용에 동의하십니까?"
+DataConsentAccepted,감사합니다! 콘텐츠를 즐겨 주세요.
+DataConsentRejected,"알겠습니다. 귀하의 게임플레이 정보를 사용하지 않겠습니다. 따라서 게임 내에서 오디세이, 경주, 보스, 협동, 콘텐츠 탐색기 콘텐츠는 이용할 수 없게 됩니다. 귀하는 이 게임의 싱글 플레이어 모드를 즐길 수 있으며, 언제든지 설정 메뉴에서 선택을 바꿀 수 있습니다."
+DataConsentCurrent,데이터 이전: {0}
+DataConsentEnabled,허용함
+DataConsentDisabled,허용 안 함
+DataConsentReview,리뷰하기
+DataConsentYes,예
+DataConsentNo,아니요
+BionicAugmentation,생체공학 개조
+BionicAugmentationDescription,터보 과급기가 작동 중이면 생체공학 부메랑이 캐모 풍선을 표적으로 삼을 수 있습니다.
+XrayUltra,엑스레이 울트라
+XrayUltraDescription,슈퍼 원숭이가 울트라 시력으로 엄폐물도 뚫어서 보고 공격할 수 있습니다.
+BonusGlueGunner,보너스 글루 사수
+BonusGlueGunnerDescription,게임마다 무료 글루 사수 1마리와 함께 시작하세요! (게임당 무료 원숭이 1마리만 적용)
+Achievement 139 Name,끈적한 상황
+Achievement 139 Description,"풍선 500,000개에 글루 묻히기"
+Achievement 140 Name,경제계의 큰 손
+Achievement 140 Description,"한 라운드에서 1,000,000 캐시 사용"
+Achievement 141 Name,개근상
+Achievement 141 Description,365개의 고유한 일일 도전 수행
+Achievement 142 Name,나는 돌아온다
+Achievement 142 Description,"계속하기나 체크포인트에서 1,000 멍키 머니 사용"
+PetSounds,펫 사운드
+UserID,사용자 ID
+SunkenColumns,잠긴 기둥
+PsimbalsPsiSkinName,사임벌즈
+PsimbalsPsiSkinDescription,공연할 준비 됐나요?!
+HeroesStrikerJonesPetGermanShepherdName,스트라이커 존스 저먼 셰퍼드 펫
+HeroesStrikerJonesPetGermanShepherdShortName,스트라이커 강아지 펫
+HeroesStrikerJonesPetGermanShepherdDescription,스트라이커는 당연히 저먼 셰퍼드를 기르죠! 어깨에서 발사하는 장난감을 찾아서 물어오려면 보통 개의 체력으로는 어림도 없으니까요. 오리지널 스트라이커 존스 전용
+HeroesETnPlacementBeamDownName,ET-n 우주선 전송 배치 & 업그레이드
+HeroesETnPlacementBeamDownShortName,ET-n 우주선 전송
+HeroesETnPlacementBeamDownDescription,집에 전화를 걸거나 우주선으로 올라갈 때는 안 써요. ET-n은 텔레포트 전송기란 무릇 전투에 뛰어들거나 업그레이드에 품격을 더하는 데에만 써야 한다고 생각하지요. ET-n 전용
+TowerPetHeliPilotHummingbirdName,헬기 조종사 벌새 펫
+TowerPetHeliPilotHummingbirdShortName,헬기 조종사 벌새 펫
+TowerPetHeliPilotHummingbirdDescription,"헬기 조종사의 공중 부유 스킬은 굉장하지만, 이 아름다운 벌새 펫을 보면 아직 개선의 여지가 있다는 것을 느낄 수 있죠."
+TowerProjectileWizardZombiesName,마법사 강령술사 좀비 풍선
+TowerProjectileWizardZombiesShortName,마법사 강령술사 풍선
+TowerProjectileWizardZombiesDescription,시체들의 시간! 침략하는 풍선들을 망자들의 군대로 만들어 버리는 걸 즐거워하는 망자 풍선과 MOAB급 풍선입니다.
+BloonsAllBloonsDaisyChainName,데이지 체인 풍선
+BloonsAllBloonsDaisyChainShortName,데이지 체인 풍선
+BloonsAllBloonsDaisyChainDescription,꽃을 쓴 풍선들과 함께 강강술래! 모든 일반 풍선에 화관을 씌워서 봄을 기념해요. 기간 한정 수집가용 품목!
+BloonsBADSkinWhaleName,BAD 고래
+BloonsBADSkinWhaleShortName,BAD 고래
+BloonsBADSkinWhaleDescription,"고래라면 다 착하다고 생각합니다만, 이 폭신폭신해 보이는 자홍색 짐승은 나쁜 고래가 틀림없습니다."
+CoopEmoteAnimationObynPeaceName,오빈 평화 감정표현
+CoopEmoteAnimationObynPeaceShortName,오빈 평화
+CoopEmoteAnimationObynPeaceDescription,"평화를 뜻하는 인사로 쓰거나, 플레이어 3에게 발끈하는 다른 사람들을 진정하거나, 잘못 능력을 발동한 것에 대해 사과하는 의미로 쓸 수 있습니다.  기간 한정 수집가용 품목!"
+CoopEmoteAnimationThinkingMonkeyName,생각하는 원숭이 감정표현
+CoopEmoteAnimationThinkingMonkeyShortName,생각하는 원숭이
+CoopEmoteAnimationThinkingMonkeyDescription,"생각하는 원숭이는 좋은 원숭이입니다. 뭔가 생각하고 있거나, 다른 사람이 대체 무슨 생각을 하는지 모르겠을 때 쓰면 좋습니다."
+GameUIProfileAvatar56Name,드루이드 봄꽃 아바타
+GameUIProfileAvatar56ShortName,드루이드 봄 아바타
+GameUIProfileAvatar56Description,사색에 잠긴 아름다운 드루이드 아바타로 연중 내내 봄의 마법을 부리세요. 기간 한정 수집가용 품목!
+GameUIProfileAvatar57Name,탐험가 멍키 잠수함 아바타
+GameUIProfileAvatar57ShortName,탐험가 잠수함 아바타
+GameUIProfileAvatar57Description,유리창에 얼굴을 바짝 대는 것이야말로 잠수함에서 가장 좋은 전망을 차지하는 비결이지요. 커다란 눈으로 세상을 담는 아바타로 잠수함을 꾸며주세요.
+GameUIProfileAvatar58Name,눈사람 퍼스티 아이스크림 아바타
+GameUIProfileAvatar58ShortName,퍼스티 아이스크림 아바타
+GameUIProfileAvatar58Description,팻 프로스티는 아이스크림을 정말 좋아하지요. 인생의 소소한 행복을 소중하게 여기는 이들에게 안성맞춤인 아바타입니다.
+GameUIPowerSkinRoadSpikesFlowerPatchName,커스텀 힘 - 꽃밭 로드 스파이크
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,꽃밭 로드 스파이크
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,로드 스파이크라고 꼭 거칠고 투박한 모양일 필요가 있나요? 이 꽃을 따려고 했다가는 가시에 찔립니다!
+GameUIPowerSkinMonkeyBoostSugarRushName,커스텀 힘 - 슈가 러시 원숭이 부스트
+GameUIPowerSkinMonkeyBoostSugarRushShortName,슈가 러시 부스트
+GameUIPowerSkinMonkeyBoostSugarRushDescription,인간이라면 누구나 당을 섭취해 줘야 일의 능률이 오른다는 것을 잘 알고 있지요. 원숭이도 마찬가지입니다.
+GameUIProfileBanner10Name,비범한 낙서 프로필 배너
+GameUIProfileBanner10ShortName,비범한 낙서 배너
+GameUIProfileBanner10Description,bonbonni 님의 배너 공모전 당선작
+GameUIProfileBanner11Name,아르카눔 네크로니콤 프로필 배너
+GameUIProfileBanner11ShortName,아르카눔 네크로니콤 배너
+GameUIProfileBanner11Description,_Concilliabule_ 님의 배너 공모전 당선작
+GameUIProfileBanner12Name,벌떼 윙윙 프로필 배너
+GameUIProfileBanner12ShortName,벌떼 윙윙 배너
+GameUIProfileBanner12Description,벌들이 꿀을 만드느라 열심히 나무 속에서 윙윙대고 있어요. 기간 한정 수집가용 품목!
+FilterAll,전체
+FilterHeroPlacementUpgrades,배치 효과
+FilterHeroPets,펫
+FilterTowerPlacementUpgrades,업그레이드 효과
+FilterTowerPets,펫
+FilterProjectiles,발사무기
+FilterFlags,깃발
+FilterPopFX,터지는 효과
+FilterAllBloonSkins,모든 풍선 스킨
+FilterRegularSkins,풍선 스킨
+FilterMoabSkins,MOAB 스킨
+FilterStandardEmotes,표준 감정표현
+FilterTextEmotes,텍스트 감정표현
+FilterSoundEmotes,사운드 감정표현
+FilterFullScreenEmotes,전체화면 감정표현
+FilterMusicTracks,음악 트랙
+FilterAvatars,아바타
+FilterPowerSkins,힘 스킨
+FilterProfileBanners,프로필 배너
+FilterMisc,기타
+Blast Chain Ability,블래스트 체인
+Blast Chain Ability Description,잠시 동안 어뢰 발사 속도가 빨라집니다.
+TowerSpecial,원숭이 스페셜

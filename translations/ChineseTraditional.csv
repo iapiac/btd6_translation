@@ -727,7 +727,7 @@ Heavy Bombs Description,重型炸彈可一次擊碎2層氣球，並擊破更多�
 Missile Launcher Description,用炸彈交換射速更快、飛行速度更快，並且射程更遠的導彈。
 Frag Bombs Description,爆炸扔出鋒利碎片，可擊破更多氣球，其中包括黑氣球。
 Really Big Bombs Description,巨型炸彈在大片區域造成大量傷害，並使碎片擊破更多氣球。
-MOAB Mauler Description,MOAB重鎚可以對MOAB級氣球與陶瓷氣球造成更多傷害。
+MOAB Mauler Description,MOAB重鎚可以對MOAB級氣球造成更多傷害。
 Cluster Bombs Description,每次射擊扔出二級炸彈，而不是碎片。
 Bloon Impact Description,造成劇烈爆炸，使被擊中的氣球短暫眩暈。攻擊範圍增加，碎片的威力的進一步提升。
 MOAB Assassin Description,暗殺MOAB技能：射出特種飛彈，對MOAB級氣球造成巨大傷害，並增加普通攻擊範圍和對MOAB級氣球造成的傷害。
@@ -798,14 +798,14 @@ Supply Drop Description,搖錢樹技能：掉下一個裝滿現金的寶箱。�
 Full Auto Rifle Description,全自動武器，具備難以置信的擊破力。
 Cripple MOAB Description,被致殘的MOAB氣球被困住的時間更長，且其他類打擊對它有額外的傷害。
 Elite Sniper Description,空投補給帶來了更多的現金。為所有狙擊手賦予精英目標神諭及快速裝填屬性。
-Elite Defender Description,失去一條性命，此狙擊手可獲得4x的攻擊速度，在短時間內進行報復時有效。
+Elite Defender Description,失去生命可以使狙擊手短時間内獲得4倍的攻擊速度進行報復，并且可以對MOAB級氣球造成更多傷害。
 ,
 Longer Range Description,增加攻擊範圍。
 Barbed Darts Description,潛艇的飛鏢可額外擊破3個氣球。
 Twin Guns Description,添加雙槍時攻擊速度翻倍。增強彈道導彈和氣球反應堆。
 Advanced Intel Description,允許遠程瞄準在其他塔的半徑範圍之內的氣球。
 Heat-tipped Darts Description,熱尖飛鏢可擊破凍結及鉛氣球。
-Airburst Darts Description,空爆飛鏢在接觸時分成3個，可獲得巨大的擊破力。進一步增強彈道飛彈和氣球反應堆。
+Airburst Darts Description,空爆飛鏢在接觸時分成3個，可獲得巨大的擊破力。進一步增強氣球反應堆。
 Submerge and Support Description,增加潛入鎖定目標選項，可在其半徑內永久顯示偽裝氣球，但無法在潛入時進行攻擊。
 Ballistic Missile Description,飛彈可在範圍內追蹤目標，並對MOAB氣球和陶瓷氣球有額外傷害。
 Triple Guns Description,添加第三把槍，射擊還要更快。
@@ -897,7 +897,7 @@ Ray of Doom Description,創造一條完整氣球湮滅線。這樣，你可以�
 M.A.D Description,MOAB氣球篤定毀滅者。慢速射出超級飛彈，可對MOAB級氣球造成巨大傷害。
 Bloon Exclusion Zone Description,大幅增加傷害並升級到6管大炮。氣球將被全部消滅。
 ,
-Guided Magic Description,魔法射擊可自動追蹤氣球，在掩體後面也照樣能追蹤到。
+Guided Magic Description,魔法射擊持續時間更長，氣球即使躲在掩體之後也會被追蹤到。
 Fireball Description,每幾秒施出爆炸火球法術。
 Intense Magic Description,更多強大的魔法，射擊速度更快，並可擊破更多氣球。
 Arcane Blast Description,更大更強的魔法，爆炸可擊破2層氣球。
@@ -970,7 +970,7 @@ Heart of Vengeance Description,完成此升級後，獲得10%的攻擊速度提�
 Druid of the Storm Description,一陣陣風從出口將氣球吹出路徑。
 Druid of the Jungle Description,從地面召喚葡萄藤，同時可纏住並砸碎一個氣球，並留下一堆致命荊棘。
 Druid of Wrath Description,本回合期間，只要督伊德正在擊破氣球，即增加攻擊速度。
-Ball Lightning Description,創造出強大的閃電球，射出額外的閃電。 
+Ball Lightning Description,生成强大的閃電球，不僅可射出額外閃電箭，還可凍結氣球。
 Jungle's Bounty Description,叢林賞金技能：每次使用可生成現金，並且督伊德附近的每座香蕉農場都會生成額外現金。葡萄藤可同時纏住兩個氣球。
 Poplust Description,本回合期間，只要德魯伊正在擊破氣球，即增加攻擊速度。
 Superstorm Description,超級風暴造成所有種類的氣球巨大傷害，並將它們從出口處吹走。
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,MOAB粘膠減速效果更强。
 CheaperSolution,廉價方案
 CheaperSolutionDescription,氣球液化器花費減少1000。
 BonusMonkey,獎勵猴！
-BonusMonkeyDescription,每局遊戲開始時免費獲得一個飛鏢猴！
+BonusMonkeyDescription,每局遊戲開始時免費獲得一個飛鏢猴！（每局遊戲只能免費獲得1個猴子塔）
 MoreCash,更多現金
 MoreCashDescription,起始現金增加200。
 ,
@@ -1950,7 +1950,7 @@ HotMagicDescription,所有魔法型猴子塔可以擊破凍結氣球。
 ArcaneImpale,奧術穿刺
 ArcaneImpaleDescription,奧術針刺對MOAB級和陶瓷氣球造成額外傷害。
 ColdFront,冷鋒
-ColdFrontDescription,球形閃電在造成傷害后有機率凍結氣球。
+ColdFrontDescription,閃電球造成傷害后可以凍結擊中的氣球。
 FlameJet,火焰噴射
 FlameJetDescription,龍之吐息火焰射彈移動得更快。
 StrikeDownTheFalse,擊倒虛偽
@@ -2625,7 +2625,7 @@ SentryCold,冷凍哨兵
 SentryEnergy,能量哨兵
 SentryParagon,冠軍哨兵
 EditorNumberOfPlayers,玩家人數
-EditorCoopAreaDivision,合作區分配
+EditorCoopAreaDivision,地圖劃分
 InvalidTarget,無效目標
 Adora,安多拉
 Adora Short Description,高級女祭司
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I]黑暗轉移至範圍內
 DarkChampionDarkshift,[I]黑暗轉移至任何有效位置
 SmallTowersMode,小猴子塔
 BigTowersMode,大猴子塔
-UpdatePopupTitle,更新 29！
-UpdatePopupDescription,快樂假日更新！\n• 藉助最新猴子典範統領所有水域：海盜艦隊司令\n• 在新的中級地圖：寧靜街道，阻止那些惹是生非的氣球繼續搗亂\n• 獲取Ezili很棒的新皮膚：星光熠熠！\n• 改進了組隊游戲大廳創建，讓您更快地進入游戲\n• 17種新的獎杯商店物品，包括6種限時出售物品，抓緊時間購買吧！\n• 新的成就，生活品質和平衡性更改和Bug修復 - 大量非常棒的修改，詳細資訊，請查看更新説明\n最誠摯的節日祝福，祝所有Ninja Kiwi的游戲玩家新年快樂！
+UpdatePopupTitle,更新 30！
+UpdatePopupDescription,新内容更新！\n• 挑戰新的高級地圖：沉沒的石柱\n• 歡呼吧，新的靈能術士皮膚：Psimbals！\n• 組隊地圖劃分更新：新增兩種全新的地圖劃分方式，玩家可在設定組隊游戲時選擇\n• 新增16個獎杯商店物品，包括4個新的限時出售物品，抓緊時間購買吧！\n• 新增4種猴子知識等待玩家解鎖\n• 新的成就，生活品質和平衡性修改，詳細資訊，請監視更新説明
 ResetDailyChest,重設每日寶箱
 JukeboxName,自動唱機
 EnableFunction,啟用
@@ -2852,8 +2852,8 @@ AdmiralBrickell Level 3 Description,海軍策略 - 短時間內大幅加快附�
 AdmiralBrickell Level 4 Description,水雷擊破力增加。
 AdmiralBrickell Level 5 Description,海軍策略可增強擊破力，使受影響的猴子能夠擊中除迷彩氣球外的所有氣球。
 AdmiralBrickell Level 6 Description,增加水雷和手槍攻擊造成的傷害。
-AdmiralBrickell Level 7 Description,增加射程，加強迷彩氣球偵測。
-AdmiralBrickell Level 8 Description,海軍策略使受影響的猴子能夠擊中迷彩氣球。
+AdmiralBrickell Level 7 Description,Brickell獲得攻擊範圍增加和僞裝氣球偵測。
+AdmiralBrickell Level 8 Description,海軍策略可使受影響的猴子能夠擊中僞裝氣球。作用範圍内的水塔獲得額外穿透力。
 AdmiralBrickell Level 9 Description,水雷造成額外傷害。
 AdmiralBrickell Level 10 Description,巨型水雷：在任何水域部署一枚破壞力巨大的水雷，引爆MOAB級氣球並且擊暈附近的氣球。巨型水雷持續3個回合。
 AdmiralBrickell Level 11 Description,加快水雷的部署速度。
@@ -3672,7 +3672,7 @@ YouFinished,你的完成時間：
 BestTime,最佳時間：
 Claim,領取
 PlayerRejoinedGame,已重新加入游戲
-PlayerKickedFromGame,已將{0}移除遊戲
+PlayerKickedFromGame,已將移除遊戲
 ConfirmKickPlayer,你確定要移除{0}嗎？
 Remove,移除
 MiniRacesFirstTimeTitle,迷你競速！
@@ -3788,10 +3788,10 @@ GameUIProfileAvatar41Name,自訂化身 - 閃光炸彈忍者
 GameUIProfileAvatar41ShortName,閃光炸彈化身
 GameUIProfileAvatar41Description,化身獲勝者 _Concilliabule_
 GameUIProfileAvatar42Name,自訂化身 - 公司帕奇
-GameUIProfileAvatar42ShortName,公司帕奇
+GameUIProfileAvatar42ShortName,公司貼片化身
 GameUIProfileAvatar42Description,帕奇一直毫不張揚地在 Monkeydom 中步步高升
 GameUIProfileAvatar43Name,自訂化身 - 煙火炸彈射手
-GameUIProfileAvatar43ShortName,煙火炸彈射手
+GameUIProfileAvatar43ShortName,煙火炸彈化身
 GameUIProfileAvatar43Description,難道還有比這更好地射出火箭的方式嗎？限時收藏家物品！
 GameUIPowerSkinMonkeyBoostFireworksName,自訂力量 - 煙火猴子强化
 GameUIPowerSkinMonkeyBoostFireworksShortName,煙火猴子强化
@@ -3904,7 +3904,7 @@ GameUIProfileBanner5Description,這一設計靈感來自猴子潛艇的自訂個
 Paragon Title,升級至典範
 Paragon Body,此操作將創建一個典範{0}。所有其他{1}都將在此過程中被摧毀，為典範提供力量！
 ft_paragontitle,已啓用典範升級！
-ft_paragondescription,將你的一個5階猴子升級為典範！典範會吸收所有同類型的猴子，包括其他兩條升級路綫的5階猴子。\n\n升級時吸收的力量會影響典範的等級。
+ft_paragondescription,將一種5階猴子升級至典範！模範會吸收所有同種類猴子，包括另兩條升級路綫的5階猴子。\n\n升級時吸收的力量會影典範等級。沙箱中不可用。
 ParagonDegreeText,典範等級
 DartMonkeys,飛鏢猴
 BoomerangMonkeys,迴旋鏢猴
@@ -4223,7 +4223,107 @@ CalloutWellRounded,面面俱到
 CalloutWellRoundedDesc,4種防禦塔，每種有{0} 座
 CalloutEndlessPower,無窮力量！
 CalloutEndlessPowerDesc,建立了{0}等級的典範
-AnyGame,任何遊戲
-AnyMap,任何地圖
-AnyDifficulty,任何困難
-AnyMode,任何模式
+AnyGame,任意遊戲
+AnyMap,任意地圖
+AnyDifficulty,任意難度
+AnyMode,任意模式
+DataConsentTitle,啟用數據傳輸
+DataConsentBody,您好！Ninja Kiwi需要使用您的遊戲資訊（包括IP地址、GameCenter名稱和遊戲進度）才能啟用征程、競速、頭目、組隊及其它活動。這樣可以嗎？
+DataConsentAccepted,非常感謝！請享受這些活動帶來的樂趣
+DataConsentRejected,沒關係。我們不會使用您的遊戲資訊，因此將禁用征程、競速、頭目、組隊活動。您仍可以玩單人遊戲，並且可隨時在設定選單中更改此項設定。
+DataConsentCurrent,資料傳輸：{0}
+DataConsentEnabled,已啟用
+DataConsentDisabled,已停用
+DataConsentReview,檢視
+DataConsentYes,是
+DataConsentNo,否
+BionicAugmentation,仿生增强
+BionicAugmentationDescription,當渦輪充能啟用時，仿生迴旋鏢能夠瞄準僞裝氣球
+XrayUltra,X射綫超視野
+XrayUltraDescription,超視野允許超猴看穿和擊穿阻擋的目標
+BonusGlueGunner,獎勵粘膠槍手
+BonusGlueGunnerDescription,每局遊戲開始時免費獲得一個粘膠槍手！（每局遊戲只能免費獲得1個猴子塔）
+Achievement 139 Name,黏糊糊
+Achievement 139 Description,黏住500000個氣球
+Achievement 140 Name,揮金如土
+Achievement 140 Description,一回合花費1000000現金
+Achievement 141 Name,每日Reid
+Achievement 141 Description,完成365個不同每日挑戰
+Achievement 142 Name,我會捲土重來
+Achievement 142 Description,在「繼續游戲」和「檢查點」上花費1000猴幣
+PetSounds,寵物聲音
+UserID,用戶ID
+SunkenColumns,沉沒石柱
+PsimbalsPsiSkinName,鐃鈸靈能術士
+PsimbalsPsiSkinDescription,你準備好露兩手了嗎！？
+HeroesStrikerJonesPetGermanShepherdName,攻擊者Jones德國牧羊犬寵物
+HeroesStrikerJonesPetGermanShepherdShortName,攻擊者小狗寵物
+HeroesStrikerJonesPetGermanShepherdDescription,攻擊者當然有一隻德國牧羊犬！用肩部發射的玩具和一隻强壯的狗狗玩取物游戲。僅限原始攻擊者Jones
+HeroesETnPlacementBeamDownName,ET-n瞬間傳送放置和升級
+HeroesETnPlacementBeamDownShortName,ET-n瞬間傳送
+HeroesETnPlacementBeamDownDescription,這裏沒有召回或瞬間傳回。ET-n認爲傳送器更適合用來立即采取行動或給升級增加標志性的元素。僅限ET-n
+TowerPetHeliPilotHummingbirdName,直升機飛行員寵物
+TowerPetHeliPilotHummingbirdShortName,直升機飛行員寵物
+TowerPetHeliPilotHummingbirdDescription,雖然直升機飛行員都會一些瘋狂的停懸技巧，但這隻漂亮的蜂鳥寵物證明了什麽叫一山更比一山高
+TowerProjectileWizardZombiesName,法師死靈法師殭屍氣球
+TowerProjectileWizardZombiesShortName,法師死靈法師氣球
+TowerProjectileWizardZombiesDescription,召喚亡靈！這些死靈法師氣球和MOAB級氣球樂於瞬間秒殺入侵氣球。
+BloonsAllBloonsDaisyChainName,雛菊花環氣球
+BloonsAllBloonsDaisyChainShortName,雛菊花環氣球
+BloonsAllBloonsDaisyChainDescription,所有氣球圍城一圈，都點綴上花束！用漂亮的花環裝飾所有常規類型氣球，慶祝春天的到來。限時收藏家物品！
+BloonsBADSkinWhaleName,BAD鯨魚
+BloonsBADSkinWhaleShortName,BAD鯨魚
+BloonsBADSkinWhaleDescription,雖然我們傾向於認爲所有鯨魚都是友好的，但這隻長相可愛的洋紅色巨獸絕對是一隻BAD鯨魚。
+CoopEmoteAnimationObynPeaceName,Obyn勝利手勢表情
+CoopEmoteAnimationObynPeaceShortName,Obyn勝利手勢
+CoopEmoteAnimationObynPeaceDescription,你的選擇 - 無論是想致以佛禪式問候，想讓他人緩和對玩家3的態度，還是想因為搞砸了你啟用的技能而致歉。Obyn勝利手勢都可以派上用場。限時收藏家物品！
+CoopEmoteAnimationThinkingMonkeyName,思考猴子表情
+CoopEmoteAnimationThinkingMonkeyShortName,思考猴子
+CoopEmoteAnimationThinkingMonkeyDescription,一隻在思考的猴子是一隻好猴子。一邊思考一邊工作，或者想知道別人思考什麽。
+GameUIProfileAvatar56Name,督伊德春花化身
+GameUIProfileAvatar56ShortName,督伊德春花
+GameUIProfileAvatar56Description,使用靚麗、沉思的督伊德化身，隨時召喚春天的魔力。限時收藏家物品！
+GameUIProfileAvatar57Name,探索者猴子潛艇化身
+GameUIProfileAvatar57ShortName,探索者潛艇化身
+GameUIProfileAvatar57Description,在潛艇裏，只有把你的整張臉都壓在玻璃上才能獲得最好的視野。使用這個睜大眼睛的化身，表達一些對潛艇的愛意。
+GameUIProfileAvatar58Name,雪人Fusty冰淇淋化身
+GameUIProfileAvatar58ShortName,Fusty冰淇淋化身
+GameUIProfileAvatar58Description,和你我一樣，冰霜Pat也喜歡冰淇淋。這顯然是生活中喜歡冰淇淋的我們的最佳化身。
+GameUIPowerSkinRoadSpikesFlowerPatchName,自訂力量 - 花田路刺
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,花田路刺
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,誰說路刺需要看起來硬朗的工業摁扣？摘下這些帶刺的花，魚和熊掌兼得！
+GameUIPowerSkinMonkeyBoostSugarRushName,自訂力量 - 糖份猴子强化
+GameUIPowerSkinMonkeyBoostSugarRushShortName,糖份强化
+GameUIPowerSkinMonkeyBoostSugarRushDescription,人類：衆所周知，如果攝入大量糖，我們會表現得更好。猴子：相同。
+GameUIProfileBanner10Name,塗鴉才華個人檔案橫幅
+GameUIProfileBanner10ShortName,塗鴉才華橫幅
+GameUIProfileBanner10Description,橫幅獲勝者bonbonni
+GameUIProfileBanner11Name,神秘死靈之書個人檔案橫幅
+GameUIProfileBanner11ShortName,神秘死靈之書橫幅
+GameUIProfileBanner11Description,橫幅獲勝者_Concilliabule_
+GameUIProfileBanner12Name,蜜蜂鳴叫個人檔案橫幅
+GameUIProfileBanner12ShortName,蜜蜂鳴叫橫幅
+GameUIProfileBanner12Description,樹上鳴叫的蜜蜂正在爲我釀造蜂蜜。限時收藏家物品！
+FilterAll,所有
+FilterHeroPlacementUpgrades,放置特效
+FilterHeroPets,寵物
+FilterTowerPlacementUpgrades,升級特效
+FilterTowerPets,寵物
+FilterProjectiles,射彈
+FilterFlags,旗
+FilterPopFX,擊破特效
+FilterAllBloonSkins,所有氣球皮膚
+FilterRegularSkins,氣球皮膚
+FilterMoabSkins,MOAB級氣球皮膚
+FilterStandardEmotes,標準表情
+FilterTextEmotes,文本表情
+FilterSoundEmotes,聲音表情
+FilterFullScreenEmotes,全螢幕表情
+FilterMusicTracks,音樂曲目
+FilterAvatars,化身
+FilterPowerSkins,力量皮膚
+FilterProfileBanners,個人檔案橫幅
+FilterMisc,其他
+Blast Chain Ability,爆炸鏈
+Blast Chain Ability Description,水雷發射速度短時間内加快
+TowerSpecial,特種猴子

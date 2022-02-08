@@ -727,7 +727,7 @@ Heavy Bombs Description,一度にブルーン2層分をつぶし、もっと多�
 Missile Launcher Description,爆弾を、もっとスピーディーに発砲し、さらに長い距離を速く飛べるミサイルに交換しよう。
 Frag Bombs Description,爆破すると鋭い破片を投げつけ、黒ブルーンを含めたブルーンを割ることができる。
 Really Big Bombs Description,巨大爆弾が広範囲でもっと大きなダメージを与え、手りゅう弾がもっと多くのブルーンを割れるようにする。
-MOAB Mauler Description,MOABモーラーは、MOAB級ブルーンと陶器により大きなダメージを与える。
+MOAB Mauler Description,MOABモーラーは、MOAB級ブルーンにさらに大きなダメージを与える。
 Cluster Bombs Description,発射のたびに、鋭い破片の代わりに第二の爆弾を投じる。
 Bloon Impact Description,爆破の勢いがとても強いので、当たるとブルーンは短時間マヒする。範囲が増え、手りゅう弾がもっと効果的になる。
 MOAB Assassin Description,暗殺MOAB能力：MOAB級ブルーンにダメージを与える特別なミサイルを発射する。通常の攻撃範囲とMOAB級ダメージも増加する。
@@ -798,14 +798,14 @@ Supply Drop Description,供給品ドロップ能力：箱に一杯のキャッ�
 Full Auto Rifle Description,信じられないほどの破裂パワーがある完全自動式の武器。
 Cripple MOAB Description,打撃をういけたMOABがより長い時間動けなくなり、全てのほかの攻撃から追加ダメージを受ける。
 Elite Sniper Description,供給品ドロップで投下されるキャッシュが増える。全てのスナイパーに、エリート照準プリオとより速いリロードを与えてくれる。
-Elite Defender Description,ライフが一つ失われると、短時間の間、このスナイパーに報復として4倍の攻撃速度が与えられる。
+Elite Defender Description,ライフが一つ失われると、短時間の間、このスナイパーに報復として4倍の攻撃速度が与えられる。また、ブルーンがトラックに沿っているほど、攻撃がより速く遠くまで到達する。MOAB級ブルーンにより大きなダメージを与える。
 ,
 Longer Range Description,攻撃距離を増やす。
 Barbed Darts Description,潜水艦のダーツが、追加で3個のブルーンを割れる。
 Twin Guns Description,ツインガンを追加すると攻撃スピードが2倍に。弾道ミサイルとブルーントニウム炉を増強する。
 Advanced Intel Description,ほかのタワーの半径内のブルーンを遠くから狙えるようになる。
 Heat-tipped Darts Description,加熱ダーツが命中すると3つに分裂し、巨大な破裂パワーとなる。
-Airburst Darts Description,エアバースト・ダーツは当たると3つに分裂し、巨大な破裂パワーを発する。弾道ミサイルとブルーントニウム炉をさらに増強する。
+Airburst Darts Description,エアバースト・ダーツは当たると3つに分裂し、巨大な破裂パワーを発する。ブルーントニウム炉をさらに増強する。
 Submerge and Support Description,潜水中は攻撃しないが、半径内のカモフラージュブルーンを永久的に見えるようにする潜水照準オプションを加える。
 Ballistic Missile Description,範囲内の標的を探し、追加のMOABおよぼ後期ダメージを与える。
 Triple Guns Description,もっと速く射撃できるように、三番目の銃を追加する。
@@ -897,7 +897,7 @@ Ray of Doom Description,ブルーン破滅への明確な線を作り出す。�
 M.A.D Description,MOAB保証付きデストロイヤー。ゆっくり発射するメガミサイルが、MOAB級ブルーンに絶大なダメージを与える。
 Bloon Exclusion Zone Description,6銃身にグレードアップされており、ダメージも大幅に増加。ブルーンの存在自体が排除される。
 ,
-Guided Magic Description,魔法攻撃がブルーンを探し出す。隠れているものまでも。
+Guided Magic Description,魔法攻撃が長もちし、ブルーンを探し出す。隠れているものまでも。
 Fireball Description,数秒ごとに、爆破の火の玉の呪文を唱える。
 Intense Magic Description,もっとパワフルな魔法攻撃
 Arcane Blast Description,より大規模でパワフルな魔法攻撃が、ブルーン2層分を割る。
@@ -970,7 +970,7 @@ Heart of Vengeance Description,攻撃スピードが10%アップ、さらにア�
 Druid of the Storm Description,突風がトラック上に吹き、ブルーンを出口から遠ざける。
 Druid of the Jungle Description,地面からツルを呼び出して、ブルーンを一度に1つずつ絡ませて押しつぶし、致命的なとげの山を残す。
 Druid of Wrath Description,ドルイドがブルーンを攻撃している間は、ラウンド中に攻撃速度がアップする。
-Ball Lightning Description,追加の稲妻を発射する光の球を作る。 
+Ball Lightning Description,追加の稲妻を発射する光の球を作り、ブルーンを凍結する。 
 Jungle's Bounty Description,ジャングルのめぐみ能力：使うたびに現金を生成するほか、ドルイドの近くのバナナ農園がそれぞれ追加キャッシュを作り出す。ツルで2個のブルーンを一度につかむこともできる。
 Poplust Description,半径内の他のドルイドの貫通と攻撃速度をアップさせる。任意のドルイド一体につき、5回まで効果を重ねることができる。
 Superstorm Description,スーパーストームは全種類のブルーンに莫大なダメージを与え、出口から遠ざける。
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,MOABグルーによる遅延が通常より大き�
 CheaperSolution,お安い解決策
 CheaperSolutionDescription,ブルーン液化装置の値段が1000下がる。
 BonusMonkey,ボーナスモンキー！
-BonusMonkeyDescription,各ゲームを無料のダーツモンキー1匹とスタート！
+BonusMonkeyDescription,各ゲームを無料のダーツモンキー1匹とスタート！（ゲームごとに無料のモンキータワー1塔のみ）
 MoreCash,もっとキャッシュ
 MoreCashDescription,開始時のキャッシュを200増加。
 ,
@@ -1950,7 +1950,7 @@ HotMagicDescription,全ての魔法タイプのタワーが、凍結ブルーン
 ArcaneImpale,アーケイン刺突
 ArcaneImpaleDescription,アーケインのスパイクが、MOAB級と陶器ブルーンに追加ダメージを与える。
 ColdFront,寒冷前線
-ColdFrontDescription,球電光の打撃には、ダメージを与えた後にブルーンをフリーズするチャンスがある。
+ColdFrontDescription,球電光の打撃は、ブルーンにダメージを与えた後で凍結させる。
 FlameJet,炎のジェット
 FlameJetDescription,ドラゴンの息の炎投射物が、もっと早く動く。
 StrikeDownTheFalse,偽物は撃ち落とせ
@@ -2626,7 +2626,7 @@ SentryCold,冷たい見張り番
 SentryEnergy,エネルギー見張り番
 SentryParagon,チャンピオンの見張り番
 EditorNumberOfPlayers,プレイヤー数
-EditorCoopAreaDivision,協力プレイエリア分割
+EditorCoopAreaDivision,マップ分画
 InvalidTarget,無効なターゲット
 Adora,アドラ
 Adora Short Description,位の高い巫女
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,[I]で範囲内にダークシフト
 DarkChampionDarkshift,[I]で任意の有効な場所にダークシフト
 SmallTowersMode,スモールモンキータワー
 BigTowersMode,ビッグモンキータワー
-UpdatePopupTitle,アップデート29！
-UpdatePopupDescription,ハッピーホリデーシーズンの最新情報！\n•最新のモンキーパラゴンですべての海を支配しよう：海の提督\n•新しい中級マップのトラック、乱暴なブルーンをくい止めよう：静かなストリート\n•素晴らしい最新のエジーリスキンを手に入れよう：ギャラクシリ！\n•協力ロビーの作成が刷新され、ゲームにすばやく参加できるようになりました\n•6つの新しい期間限定アイテムを含む17の新しいトロフィーストアアイテムが登場、早く手に入れて！\n•新しい実績、QOLの更新、バランス調整、 修正 - 沢山の素晴らしい変更、詳細については、アップデートノートを確認してください\n Ninja Kiwi全員から、最も温かい休日の願いをこめて、そして新年あけましておめでとうございます！
+UpdatePopupTitle,アップデート30！
+UpdatePopupDescription,新しいコンテンツの更新！\n•新しい上級マップを戦い抜く：沈下した柱\n•新しいサイのスキンで快進撃する：シンバル！\n•協力プレイ分裂の更新：2つの新しい分裂が追加され、協力プレイゲームの設定時にすべて選択可能\n•4つの新しい期間限定アイテムを含む16の新しいトロフィーストアアイテムが登場。すぐに入手しよう！\n•アンロックできる4つの新しいモンキー知識\n•新しい実績、生活の質とバランスの変更、詳細についてはアップデートノートを確認してください
 ResetDailyChest,日替わり宝箱をリセット
 JukeboxName,ジュークボックス
 EnableFunction,有効化
@@ -2853,8 +2853,8 @@ AdmiralBrickell Level 3 Description,海軍戦術－短時間の間、ブリッ�
 AdmiralBrickell Level 4 Description,海の地雷の破裂パワーが増える。
 AdmiralBrickell Level 5 Description,海軍戦術では、破裂パワーが増え、影響を受けたモンキーが迷彩を除く全てのブルーンに命中できるようになる。
 AdmiralBrickell Level 6 Description,海の地雷とピストル攻撃のダメージが増える。
-AdmiralBrickell Level 7 Description,迷彩ブルーン検知と攻撃範囲が増える。
-AdmiralBrickell Level 8 Description,海軍戦術で、影響を受けたモンキーが迷彩ブルーンに命中できるようになる。
+AdmiralBrickell Level 7 Description,ブリッケルの攻撃範囲が拡大し、迷彩ブルーンの検出が増加する。
+AdmiralBrickell Level 8 Description,海軍戦術で、影響を受けたモンキーが迷彩ブルーンに命中できるようになる。水タワーの半径内の給水塔は、追加の貫通度を得る。
 AdmiralBrickell Level 9 Description,海の地雷が追加ダメージを与える。
 AdmiralBrickell Level 10 Description,メガ地雷：任意の水域に、MOABでトリガーし付近のブルーンをマヒさせる破壊的な機雷を展開させる。メガ地雷は3ラウンドの間、継続する。
 AdmiralBrickell Level 11 Description,海の地雷の展開率と展開スピードが、さらに速くなる。
@@ -3673,7 +3673,7 @@ YouFinished,終了：
 BestTime,ベストタイム：
 Claim,回収
 PlayerRejoinedGame,が再びゲームに参加しました
-PlayerKickedFromGame,{0}がゲームから排除されました
+PlayerKickedFromGame,がゲームから排除されました
 ConfirmKickPlayer,本当に{0}をゲームから排除したいですか?
 Remove,排除
 MiniRacesFirstTimeTitle,ミニレース！
@@ -3789,10 +3789,10 @@ GameUIProfileAvatar41Name,カスタムアバター：閃光爆弾忍者
 GameUIProfileAvatar41ShortName,閃光爆弾アバター
 GameUIProfileAvatar41Description, _Concilliabule_によるアバター受賞作
 GameUIProfileAvatar42Name,カスタムアバター：企業パッチ
-GameUIProfileAvatar42ShortName,企業パッチ
+GameUIProfileAvatar42ShortName,企業パッチアバター
 GameUIProfileAvatar42Description,パッチはモンキーダムの企業の階段を静かに上がってきているんだ
 GameUIProfileAvatar43Name,カスタムアバター：花火爆弾シューター
-GameUIProfileAvatar43ShortName,花火爆弾シューター
+GameUIProfileAvatar43ShortName,花火爆弾アバター
 GameUIProfileAvatar43Description,これらのロケットを発射するのに、これ以上の方法は無いよね？期間限定のコレクターアイテム！
 GameUIPowerSkinMonkeyBoostFireworksName,カスタムパワー：花火モンキーブースター
 GameUIPowerSkinMonkeyBoostFireworksShortName,花火モンキーブースター
@@ -3905,7 +3905,7 @@ GameUIProfileBanner5Description,潜水艦にインスパイアされたカスタ
 Paragon Title,パラゴンにアップグレードする
 Paragon Body,このアクションにより、パラゴン{0}が作成されます。 他のすべての{1}はその過程で破壊され、パラゴンの力を供給します！
 ft_paragontitle,パラゴンアップグレードが有効になりました！
-ft_paragondescription,ティア５のモンキーの1匹をパラゴンにアップグレードしてください！ パラゴンは、他の2つのパスからのティア５のモンキーを含む、そのタイプのすべてのモンキーを吸収します。\n\nパラゴンの度合いは、アップグレード時に吸収される電力量に影響されます。
+ft_paragondescription,ティア5のモンキーの1匹をパラゴンにアップグレードしてください！パラゴンは、他の2つのパスからのティア5のモンキーを含む、同じタイプのすべてのモンキーを吸収します。\n\nパラゴンの度合いは、アップグレード時に吸収される電力量に影響されます。サンドボックスでも使えるようになりました。
 ParagonDegreeText,バラゴン度
 DartMonkeys,ダーツモンキー
 BoomerangMonkeys,ブーメランモンキー
@@ -4226,5 +4226,106 @@ CalloutEndlessPower,無限の力！
 CalloutEndlessPowerDesc,度数{0} パラゴンが作成されました
 AnyGame,任意のゲーム
 AnyMap,任意のマップ
-AnyDifficulty,難しさ
+AnyDifficulty,任意の難易度
 AnyMode,任意のモード
+DataConsentTitle,データ通信を有効にする
+DataConsentBody,こんにちは！Ninja Kiwiでは、IPアドレス、GameCenterでの名前やゲームプレイの進捗を含むお客様のゲームプレイ情報を使って、オデッセイ、レース、ボス、協力プレイやそのほかのイベントのプレイできるようにしています。（このデータがないと、これらは機能しません。）よろしいでしょうか。
+DataConsentAccepted,ありがとうございます！これらのイベントを楽しくプレイしてください
+DataConsentRejected,問題ありません。お客様のゲームプレイ情報は使いませんので、オデッセイ、レース、ボス、協力プレイ、そしてコンテンツブラウザーが無効化されます。シングルプレイヤーのプレイは可能ですし、いつでも設定メニューでこの設定を修正することができます。
+DataConsentCurrent,データ通信: {0}
+DataConsentEnabled,有効化済み
+DataConsentDisabled,無効化済み
+DataConsentReview,詳しく確認
+DataConsentYes,はい
+DataConsentNo,いいえ
+BionicAugmentation,バイオニック増強
+BionicAugmentationDescription,ターボチャージが有効の間、バイオニックブーメランは迷彩ブルーンを標的にできる
+XrayUltra,X線ウルトラ
+XrayUltraDescription,ウルトラビジョンにより、スーパーモンキーはブロックしている物体を透視して、通過発射できる。
+BonusGlueGunner,グルーガンマン
+BonusGlueGunnerDescription,各ゲームを無料のグルーガンマン1人とスタート！（ゲームごとに無料のモンキータワー1塔のみ）
+Achievement 139 Name,ネバネバ状態
+Achievement 139 Description,"500,000ブルーンを接着"
+Achievement 140 Name,太っ腹
+Achievement 140 Description,"1ラウンドで1,000,000キャッシュを使う"
+Achievement 141 Name,今日のリーディング
+Achievement 141 Description,365の日替わりチャレンジに勝つ
+Achievement 142 Name,戻って来るぜ
+Achievement 142 Description,"続行またはチェックポイントで1,000モンキーマネーを使う"
+PetSounds,ペットのサウンド
+UserID,ユーザーID
+SunkenColumns,沈下した柱
+PsimbalsPsiSkinName,シンバル
+PsimbalsPsiSkinDescription,ショーの準備はできていますか?!
+HeroesStrikerJonesPetGermanShepherdName,ストライカー・ジョーンズのペットのジャーマンシェパード
+HeroesStrikerJonesPetGermanShepherdShortName,ストライカーのペットの仔犬
+HeroesStrikerJonesPetGermanShepherdDescription,もちろん、ストライカーはジャーマンシェパードを飼っている！肩から発射されるおもちゃでフェッチをするには、丈夫な犬でないと。オリジナルのストライカー・ジョーンズのみ
+HeroesETnPlacementBeamDownName,ET-nビームダウン配置とアップグレード
+HeroesETnPlacementBeamDownShortName,ET-nビームダウン
+HeroesETnPlacementBeamDownDescription,家に電話をかけたり、ここにビームを当てるのはダメ。ET-nは、テレポーターを使用してすぐに行動したり、アップグレードに特徴的な才能を追加したりする方がよいと思っている。ET-nのみ
+TowerPetHeliPilotHummingbirdName,ヘリパイロットのペットのハチドリ
+TowerPetHeliPilotHummingbirdShortName,ヘリパイロットのペットのハチドリ
+TowerPetHeliPilotHummingbirdDescription,ヘリパイロットにはいくつかホバリングのすごいスキルがありますが、この美しいペットのハチドリのペットは常に改善の余地があることを示しています
+TowerProjectileWizardZombiesName,魔法使いのネクロマンサーのゾンビーブルーン
+TowerProjectileWizardZombiesShortName,魔法使いのネクロマンサーブルーン
+TowerProjectileWizardZombiesDescription,死者を連れ出せ！これらのネクロマンサーブルーンとMOAB級ブルーンは、侵入したブロンを一瞬で完全に死なせることに満足しています。
+BloonsAllBloonsDaisyChainName,デイジーチェーンブルーン
+BloonsAllBloonsDaisyChainShortName,デイジーチェーンブルーン
+BloonsAllBloonsDaisyChainDescription,バラの花輪、ブルーンはみんな花束でお飾り！すべての通常のブルーンにこの小さな花輪を付けて、春を祝いましょう。期間限定のコレクターアイテム！
+BloonsBADSkinWhaleName,悪いクジラ
+BloonsBADSkinWhaleShortName,悪いクジラ
+BloonsBADSkinWhaleDescription,クジラはみんな良いクジラだと思われがちですが、このかわいらしいマゼンタの獣は間違いなく悪いクジラです。
+CoopEmoteAnimationObynPeaceName,オービン・ピースのエモート
+CoopEmoteAnimationObynPeaceShortName,オービン・ピース
+CoopEmoteAnimationObynPeaceDescription,禅らしい挨拶をするか、他の人にプレイヤー3を許してもらうか、有効化した能力を台無しししたことを謝るか、これはあなた次第。オービン・ピースがその答え。期間限定のコレクターアイテム！
+CoopEmoteAnimationThinkingMonkeyName,考えるモンキーのエモート
+CoopEmoteAnimationThinkingMonkeyShortName,考えるモンキー
+CoopEmoteAnimationThinkingMonkeyDescription,考えるモンキーは良いモンキー。あなたが考えているとき、またはあなたが他の人が一体何を考えていたのか疑問に思っているときに機能します。
+GameUIProfileAvatar56Name,ドルイドの春の花のアバター
+GameUIProfileAvatar56ShortName,ドルイドの春のアバター
+GameUIProfileAvatar56Description,この美しく、瞑想的なドルイドのアバターで、一年中いつでも春の魔法を呼び起こしましょう。期間限定のコレクターアイテム！
+GameUIProfileAvatar57Name,探検家モンキー潜水艦のアバター
+GameUIProfileAvatar57ShortName,探検家潜水艦のアバター
+GameUIProfileAvatar57Description,潜水艦では、顔全体をガラスに押し付けて見るのよりも良い景色はありません。この目を丸くしたアバターで潜水艦に愛を与えましょう。
+GameUIProfileAvatar58Name,スノーマン・ファスティーのアイスクリームのアバター
+GameUIProfileAvatar58ShortName,ファスティーのアイスクリームのアバター
+GameUIProfileAvatar58Description,私も大好き、あなたも大好き、パット・フロスティも大好きなアイスクリーム。人生のより良いものに感謝する私たちにとって、明らかに最高のアバターです。
+GameUIPowerSkinRoadSpikesFlowerPatchName,カスタムパワー：フラワーパッチロードのスパイク
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,フラワーパッチのスパイク
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,路上スパイクがでこぼこの工業用ファスナーみたいに見えないといけないって、誰が言いますか？これらの花を摘もうとすれば、棘が手に刺さります！
+GameUIPowerSkinMonkeyBoostSugarRushName,カスタムパワー：シュガーラッシュモンキーのブースト
+GameUIPowerSkinMonkeyBoostSugarRushShortName,シュガーラッシュのブースト
+GameUIPowerSkinMonkeyBoostSugarRushDescription,"人間：私たちは皆、大量の砂糖たっぷりの美味しいものの影響下で、より良く能力を発揮することを知っています。
+モンキー：同じ。"
+GameUIProfileBanner10Name,Doodle Brillianceのプロフィールバナー
+GameUIProfileBanner10ShortName,Doodle Brillianceのバナー
+GameUIProfileBanner10Description,bonbonniによるバナーの勝者
+GameUIProfileBanner11Name,Arcanum Necronicomのプロフィールバナー
+GameUIProfileBanner11ShortName,Arcanum Necronicomのバナー
+GameUIProfileBanner11Description,_Concilliabule_によるバナーの勝者
+GameUIProfileBanner12Name,So Buzzedのプロフィールバナー
+GameUIProfileBanner12ShortName,So Buzzedのバナー
+GameUIProfileBanner12Description,私のためだけに蜂蜜を作るために、蜂が木の中でブンブンいっています。期間限定のコレクターアイテム！
+FilterAll,全部
+FilterHeroPlacementUpgrades,配置FX
+FilterHeroPets,ペット
+FilterTowerPlacementUpgrades,アップグレードFX
+FilterTowerPets,ペット
+FilterProjectiles,投射物
+FilterFlags,旗
+FilterPopFX,ポップFX
+FilterAllBloonSkins,すべてのブルーンのスキン
+FilterRegularSkins,ブルーンのスキン
+FilterMoabSkins,MOABスキン
+FilterStandardEmotes,標準エモート
+FilterTextEmotes,テキストエモート
+FilterSoundEmotes,サウンドエモート
+FilterFullScreenEmotes,フルスクリーンのエモート
+FilterMusicTracks,音楽トラック
+FilterAvatars,アバター
+FilterPowerSkins,パワースキン
+FilterProfileBanners,プロフィールバナー
+FilterMisc,その他
+Blast Chain Ability,ブラストチェーン
+Blast Chain Ability Description,海の地雷は短時間でより速く爆発する
+TowerSpecial,モンキースペシャル

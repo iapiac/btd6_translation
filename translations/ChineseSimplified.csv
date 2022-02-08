@@ -727,7 +727,7 @@ Heavy Bombs Description,重型炸弹可一次击碎两层气球并击破更多�
 Missile Launcher Description,用气球交换导弹，导弹的发射速度和飞行速度都更快，攻击范围更大。
 Frag Bombs Description,爆炸产生的锋利碎片可以击破包括黑气球在内的更多气球。
 Really Big Bombs Description,巨型炸弹，可在大片区域内造成更大的伤害，并使碎片能够击破更多气球。
-MOAB Mauler Description,MOAB重锤对MOAB级气球和陶瓷气球造成更多伤害。
+MOAB Mauler Description,MOAB重锤对MOAB级气球造成更多伤害。
 Cluster Bombs Description,每发炮弹都能发射次级炸弹，而不是锋利碎片。
 Bloon Impact Description,造成剧烈爆炸，使被击中的气球短暂眩晕。攻击范围增加，碎片的威力的进一步提升。
 MOAB Assassin Description,刺杀MOAB技能：特制导弹对MOAB级气球造成巨大伤害。普通攻击范围和对MOAB级气球的伤害也增加。
@@ -798,14 +798,14 @@ Supply Drop Description,空投补给技能：空投一个装满现金的箱子�
 Full Auto Rifle Description,全自动武器具有令人难以置信的爆破力。
 Cripple MOAB Description,受创的MOAB气球被固定时间更长，其他攻击可对其造成额外伤害。
 Elite Sniper Description,空投补给带来了更多的现金。为所有狙击手授予精英目标神谕，并加快他们的装弹速度。
-Elite Defender Description,失去生命会让狙击手在短时间内以4倍的攻击速度进行报复。
+Elite Defender Description,失去生命会让狙击手在短时间内以4倍的攻击速度进行报复。气球沿着路径移动得越远，攻击速度也越快。对MOAB级气球造成更多伤害。
 ,
 Longer Range Description,增加攻击范围。
 Barbed Darts Description,每个潜艇飞镖可以额外击破3个气球。
 Twin Guns Description,双枪的攻击速度加倍。增强弹道导弹和气球反应堆。
 Advanced Intel Description,允许在其他塔的半径范围内对气球进行远距离定位。
 Heat-tipped Darts Description,滚烫的飞镖可击破冰冻气球和铅气球。
-Airburst Darts Description,空爆飞镖可在命中气球时分裂成3个，大幅增加击破力，并进一步增强弹道导弹和反应堆。
+Airburst Darts Description,空爆飞镖可在命中气球时分裂成3个，大幅增加击破力。进一步增强反应堆。
 Submerge and Support Description,增加潜望锁定选项，可永久显示其半径内的迷彩气球，但在潜水时不进行攻击。
 Ballistic Missile Description,导弹会自动寻找射程内的目标，并对MOAB级气球和陶瓷气球造成额外伤害。
 Triple Guns Description,增加第三支枪，以便更快地射击。
@@ -897,7 +897,7 @@ Ray of Doom Description,形成一条坚固的气球消灭线。这样，你可�
 M.A.D Description,MOAB毁灭者。发射速度较慢的巨型导弹对MOAB级气球造成极大伤害。
 Bloon Exclusion Zone Description,升级为6管大炮，伤害大幅提升。气球全部消失。
 ,
-Guided Magic Description,即使藏身掩体之下，魔法炮弹也能搜寻到气球。
+Guided Magic Description,魔法炮弹能持续更长时间，即使藏身掩体之下的气球，也能搜寻到。
 Fireball Description,每隔几秒施放一个爆炸性的火球法术符咒。
 Intense Magic Description,更强大的魔法炮弹，飞行得更快，并可以击破更多气球。
 Arcane Blast Description,更大、更强的魔法炮弹，可击破2层气球。
@@ -970,7 +970,7 @@ Heart of Vengeance Description,获得10%的攻击速度，并且升级后每失�
 Druid of the Storm Description,几阵风将气球从出口处吹开。
 Druid of the Jungle Description,召唤藤蔓缠绕并一次碾碎一个气球，留下一堆致命的荆棘。
 Druid of Wrath Description,只要德鲁伊在攻击气球，攻击速度每回合都会变快。
-Ball Lightning Description,制造强大的闪电球，射出额外的闪电。
+Ball Lightning Description,制造强大的闪电球，射出额外的闪电球并可以冻结气球。
 Jungle's Bounty Description,丛林赏金技能：每次使用可生成现金，并且德鲁伊附近的每座香蕉农场都会生成额外现金。葡萄藤可同时缠住两个气球。
 Poplust Description,强化作用范围内德鲁伊的攻击速度和穿透。每个德鲁伊身上的增益效果可最多叠加5次。
 Superstorm Description,超级风暴对所有类型的气球造成巨大伤害，并将它们从出口处吹开。
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,MOAB胶水减速效果更强。
 CheaperSolution,廉价解决方案
 CheaperSolutionDescription,气球液化器花费1000。
 BonusMonkey,奖励猴！
-BonusMonkeyDescription,每局游戏开始时免费获得一只飞镖猴
+BonusMonkeyDescription,每局游戏开始时免费获得一只飞镖猴！（每局游戏只能免费获得一个猴子塔）
 MoreCash,更多现金
 MoreCashDescription,起始现金增加200。
 ,
@@ -1950,7 +1950,7 @@ HotMagicDescription,所有魔法型猴子塔都可以击破冰冻气球。
 ArcaneImpale,奥术穿刺
 ArcaneImpaleDescription,奥术钉刺对MOAB级和陶瓷气球造成额外伤害。
 ColdFront,冷锋
-ColdFrontDescription,球形闪电造成伤害后有机会冻结气球。
+ColdFrontDescription,闪电球造成伤害后可冻结击中的气球。
 FlameJet,火焰喷射
 FlameJetDescription,龙之吐息火焰射弹移动得更快。
 StrikeDownTheFalse,击倒虚伪
@@ -2625,7 +2625,7 @@ SentryCold,冰冷哨兵
 SentryEnergy,能量哨兵
 SentryParagon,冠军哨兵
 EditorNumberOfPlayers,玩家数量
-EditorCoopAreaDivision,协作模式分屏
+EditorCoopAreaDivision,地图划分
 InvalidTarget,无效目标
 Adora,阿多拉
 Adora Short Description,高阶女祭司
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,按[I]在范围内进行黑暗漂移
 DarkChampionDarkshift,按[I]黑暗漂移至任何有效位置
 SmallTowersMode,小猴子塔
 BigTowersMode,大猴子塔
-UpdatePopupTitle,更新 29！
-UpdatePopupDescription,欢乐假期更新！\n• 使用最新模范猴子统治所有水域：海洋主宰\n• 在全新的中级地图中阻击吵闹的气球：静谧街道\n• 穿上全新的艾泽里酷炫皮肤：星系！\n• 改进合作大厅的创建操作，方便你更快地进入游戏。\n• 新增17件奖杯商店物品，其中包含6件限时物品，快去抢购吧！\n• 新的成就、生命质量修改、平衡和修复——大量改进，查看更新说明了解全部细节\nNinja Kiwi全体员工向你致以最温馨的节日祝福并祝你新年快乐！
+UpdatePopupTitle,更新 30！
+UpdatePopupDescription,新内容更新！\n•在新的高级地图中战斗：凹陷的柱子\n•使用新的灵机皮肤来制造噪音：铙钹灵机！\n•组队地图划分更新：新增两种全新地图划分方式，可在设置组队游戏时选择\n• 新增16件奖杯商店物品，包括4件见款新的限时物品，抓紧时间获取它们吧！\n• 新增4种猴子知识等待玩家去解锁\n•  新成就、生活质量和平衡性优化；有关详情，请查阅更新说明
 ResetDailyChest,重置每日奖励
 JukeboxName,点唱机
 EnableFunction,启用
@@ -2852,8 +2852,8 @@ AdmiralBrickell Level 3 Description,海军策略 - 短时间内大幅加快附�
 AdmiralBrickell Level 4 Description,水雷击破力增加。
 AdmiralBrickell Level 5 Description,海军策略可增强击破力，使受影响的猴子能够击中除迷彩气球外的所有气球。
 AdmiralBrickell Level 6 Description,增加水雷和手枪攻击造成的伤害。
-AdmiralBrickell Level 7 Description,增加射程，加强迷彩气球侦测。
-AdmiralBrickell Level 8 Description,海军策略使受影响的猴子能够击中迷彩气球。
+AdmiralBrickell Level 7 Description,布里克尔获得了射程增加和迷彩气球侦测增强。
+AdmiralBrickell Level 8 Description,海军策略使受影响的猴子能够击中迷彩气球。作用范围内的水塔可获得额外穿透力。
 AdmiralBrickell Level 9 Description,水雷造成额外伤害。
 AdmiralBrickell Level 10 Description,巨型水雷：部署一枚能够摧毁MOAB级气球及附近气球的巨大水雷。巨型水雷可存在3回合。
 AdmiralBrickell Level 11 Description,加快水雷的部署速度。
@@ -3672,7 +3672,7 @@ YouFinished,你完成了：
 BestTime,最佳时间：
 Claim,宣称
 PlayerRejoinedGame,已重新加入了游戏
-PlayerKickedFromGame,{0}已从游戏中移除
+PlayerKickedFromGame,已从游戏中移除
 ConfirmKickPlayer,你确定要移除{0}吗？
 Remove,移除
 MiniRacesFirstTimeTitle,迷你竞速！
@@ -3788,10 +3788,10 @@ GameUIProfileAvatar41Name,自定义头像 - 闪光弹忍者
 GameUIProfileAvatar41ShortName,闪光弹忍者头像
 GameUIProfileAvatar41Description,化身获胜者 _Concilliabule_
 GameUIProfileAvatar42Name,自定义化身 - 企业帕奇
-GameUIProfileAvatar42ShortName,企业帕奇
+GameUIProfileAvatar42ShortName,公司贴片化身
 GameUIProfileAvatar42Description,帕奇正在默默攀爬猴子王国的企业阶梯
 GameUIProfileAvatar43Name,自定义头像 - 烟花炸弹射手
-GameUIProfileAvatar43ShortName,烟花炸弹射手
+GameUIProfileAvatar43ShortName,烟花炸弹化身
 GameUIProfileAvatar43Description,还有什么更好的方式来发射这些火箭呢？这是限时出售的道具哦！
 GameUIPowerSkinMonkeyBoostFireworksName,自定义力量 - 烟花猴子士气提升
 GameUIPowerSkinMonkeyBoostFireworksShortName,烟花猴子士气提升
@@ -4166,16 +4166,16 @@ CoopEmoteAnimationBenCoolDescription,像本一样酷，像Ben一样潇洒
 CoopEmoteAnimationBikerBonesRageName,狂怒骷髅骑手表情
 CoopEmoteAnimationBikerBonesRageShortName,狂怒骷髅骑手
 CoopEmoteAnimationBikerBonesRageDescription,你真的牺牲了我所有的塔来建造你的寺庙吗？骷髅骑手出离愤怒了！
-GameUIProfileAvatar52Name,自定义化身 - 骷髅骑手
+GameUIProfileAvatar52Name,自定义化身 – 回旋镖
 GameUIProfileAvatar52ShortName,回旋镖化身
 GameUIProfileAvatar52Description,左手回旋镖是最好用的回旋镖！
-GameUIProfileAvatar53Name,自定义化身 - 骷髅骑手
+GameUIProfileAvatar53Name,自定义化身 – 海盗船长
 GameUIProfileAvatar53ShortName,海盗船长化身
 GameUIProfileAvatar53Description,呀！你们想用最好的化身奖杯来打动其他的流氓玩家，不是吗？
-GameUIProfileAvatar54Name,自定义化身 - 骷髅骑手
+GameUIProfileAvatar54Name,自定义化身 – 几何学昆西
 GameUIProfileAvatar54ShortName,几何昆西化身
 GameUIProfileAvatar54Description,我是阿尔法和欧米伽。我是昆西的平方
-GameUIProfileAvatar55Name,自定义化身 - 骷髅骑手
+GameUIProfileAvatar55Name,自定义化身 – 圣诞星阿多拉
 GameUIProfileAvatar55ShortName,星星阿多拉化身
 GameUIProfileAvatar55Description,你还能信赖谁来为这棵树做最后的修饰？阿多拉当仁不让！这是限时出售的道具哦！
 GameUIProfileBanner8Name,跃入太空个人资料横幅
@@ -4198,7 +4198,7 @@ Achievement 134 Description,在不使用英雄的情况下赢得一场Boss战
 Achievement 135 Name,五味杂陈的Ninja Kiwi
 Achievement 135 Description,只用陆上塔就能在替补气球回合中通过香料群岛
 Achievement 136 Name,颗粒无收
-Achievement 136 Description,在不移除任何玉米的情况下在CHIMPs模式中通过玉米地
+Achievement 136 Description,在不移除任何玉米的情况下在CHIMPS模式中通过玉米地
 Achievement 137 Name,学生贷款
 Achievement 137 Description,4 x 10^5 (欠下40万美元的债务)
 Achievement 138 Name,不缺少关键信息
@@ -4223,7 +4223,107 @@ CalloutWellRounded,设计周密
 CalloutWellRoundedDesc,4种塔型中的每一种都有{0}
 CalloutEndlessPower,无尽的力量！
 CalloutEndlessPowerDesc,{0}级模范已创建
-AnyGame,任何游戏
-AnyMap,任何地图
-AnyDifficulty,任何困难
-AnyMode,任何模式
+AnyGame,任意游戏
+AnyMap,任意地图
+AnyDifficulty,任意难度
+AnyMode,任意模式
+DataConsentTitle,启用数据传输
+DataConsentBody,您好！Ninja Kiwi需要使用您的游戏信息（包括IP地址、GameCenter名称和游戏进度）才能启用征程、竞速、Boss、合作及其它活动。这样可以吗？
+DataConsentAccepted,非常感谢！请享受这些活动带来的乐趣
+DataConsentRejected,没关系。我们不会使用您的游戏信息，因此将禁用征程、竞速、Boss、合作活动。您仍可以玩单人游戏，并且可随时在设置菜单中更改此项设置。
+DataConsentCurrent,数据传输：{0}
+DataConsentEnabled,已启用
+DataConsentDisabled,已禁用
+DataConsentReview,查看
+DataConsentYes,是
+DataConsentNo,否
+BionicAugmentation,仿生增强
+BionicAugmentationDescription,当涡轮增压启动时，仿生回旋镖可以瞄准迷彩气球
+XrayUltra,超X射线
+XrayUltraDescription,超级视距使超级猴子能够看穿并射穿阻挡的物体
+BonusGlueGunner,奖励胶水炮手
+BonusGlueGunnerDescription,每局游戏开始时免费获得一个胶水炮手！（每局游戏只能免费获得一个猴子塔）
+Achievement 139 Name,胶着局面
+Achievement 139 Description,"粘上500,000个气球"
+Achievement 140 Name,大手笔
+Achievement 140 Description,"在一回合中花费1,000,000块钱"
+Achievement 141 Name,每日雷德
+Achievement 141 Description,赢得365场独特的每日挑战
+Achievement 142 Name,我会卷土重来
+Achievement 142 Description,"在继续或检查站上花费1,000个猴币"
+PetSounds,宠物声音
+UserID,用户身份
+SunkenColumns,凹陷的柱子
+PsimbalsPsiSkinName,铙钹灵机
+PsimbalsPsiSkinDescription,你准备好表演了吗？！
+HeroesStrikerJonesPetGermanShepherdName,先锋琼斯德国牧羊犬宠物
+HeroesStrikerJonesPetGermanShepherdShortName,先锋幼崽宠物
+HeroesStrikerJonesPetGermanShepherdDescription,先锋当然有一只德国牧羊犬！用肩部发射玩具和一只健壮的狗狗玩取物游戏。仅限初始先锋琼斯
+HeroesETnPlacementBeamDownName,ET-n 瞬间传送放置和升级
+HeroesETnPlacementBeamDownShortName,ET-n 瞬间传送
+HeroesETnPlacementBeamDownDescription,这里没有召回和瞬间传回。ET-n 认为传送器更适合直接投入行动或为升级添加标志性天赋。仅限 ET-n
+TowerPetHeliPilotHummingbirdName,直升机飞行员蜂鸟宠物
+TowerPetHeliPilotHummingbirdShortName,直升机飞行员蜂鸟宠物
+TowerPetHeliPilotHummingbirdDescription,直升机飞行员都会一些疯狂的悬停技巧，但这只美丽的蜂鸟宠物表明了它还有进步的空间
+TowerProjectileWizardZombiesName,死灵法师僵尸气球
+TowerProjectileWizardZombiesShortName,死灵法师气球
+TowerProjectileWizardZombiesDescription,死亡宣告！这些死灵气球和MOAB级乐于瞬间秒杀入侵气球。
+BloonsAllBloonsDaisyChainName,雏菊花环气球
+BloonsAllBloonsDaisyChainShortName,雏菊花环气球
+BloonsAllBloonsDaisyChainDescription,所有气球围成一圈，都点缀上了花束！用漂亮的花环装饰所有常规类型气球，庆祝春天的到来。这是限时出售的道具哦！
+BloonsBADSkinWhaleName,BAD鲸鱼
+BloonsBADSkinWhaleShortName,BAD鲸鱼
+BloonsBADSkinWhaleDescription,我们倾向于认为所有鲸鱼都是友好的，但这只看起来很可爱的洋红色野兽绝对是一只BAD鲸鱼。
+CoopEmoteAnimationObynPeaceName,奥本胜利手势表情
+CoopEmoteAnimationObynPeaceShortName,奥本胜利手势
+CoopEmoteAnimationObynPeaceDescription,你的选择 — 无论是想致以佛禅式问候，想让他人缓和对玩家3的态度，还是想因为搞砸了你激活的技能而致歉。奥本胜利手势都能派上用场。这是限时出售的道具哦！
+CoopEmoteAnimationThinkingMonkeyName,思考的猴子表情
+CoopEmoteAnimationThinkingMonkeyShortName,思考的猴子
+CoopEmoteAnimationThinkingMonkeyDescription,一只会思考的猴子是一只好猴子。当你在思考或者想知道别人到底在想什么的时候，它就会起作用了。
+GameUIProfileAvatar56Name,德鲁伊春天鲜花头像
+GameUIProfileAvatar56ShortName,德鲁伊春天头像
+GameUIProfileAvatar56Description,用这个美丽、沉思的德鲁伊头像来随时唤起春天的魔力。这是限时出售的道具哦！
+GameUIProfileAvatar57Name,探险家猴子潜艇头像
+GameUIProfileAvatar57ShortName,探险家潜艇头像
+GameUIProfileAvatar57Description,在潜水艇里，没有比整个脸贴在玻璃上有更好的视野了。用这个睁大眼睛的头像给潜艇带来一些爱。
+GameUIProfileAvatar58Name,暴风雪人冰淇淋头像
+GameUIProfileAvatar58ShortName,暴风冰淇淋头像
+GameUIProfileAvatar58Description,我咆哮，你也咆哮，帕特·弗洛斯第喜欢他的冰淇淋。显然，对于我们这些欣赏生活中美好事物的人来说，这是最好的头像。
+GameUIPowerSkinRoadSpikesFlowerPatchName,自定义力量 — 花田路钉
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,花田刺钉
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,谁说路钉需要看起来像粗糙的工业紧固件？采摘这些带刺的鲜花，鱼与熊掌兼得！
+GameUIPowerSkinMonkeyBoostSugarRushName,自定义力量 — 糖果大战猴子士气提升
+GameUIPowerSkinMonkeyBoostSugarRushShortName,糖果大战士气提升
+GameUIPowerSkinMonkeyBoostSugarRushDescription,人类：我们都知道，我们在大量含糖物质的影响下表现更好。猴子：我们也一样。
+GameUIProfileBanner10Name,涂鸦才华档案横幅
+GameUIProfileBanner10ShortName,涂鸦才华横幅
+GameUIProfileBanner10Description,横幅获胜者bonbonni
+GameUIProfileBanner11Name,奥秘 Necronicom 档案横幅
+GameUIProfileBanner11ShortName,奥秘 Necronicom 横幅
+GameUIProfileBanner11Description,横幅获胜者_Concilliabule_
+GameUIProfileBanner12Name,蜜蜂鸣叫档案横幅
+GameUIProfileBanner12ShortName,蜜蜂鸣叫横幅
+GameUIProfileBanner12Description,蜜蜂树上嗡嗡叫，专来为我酿蜂蜜。这是限时出售的道具哦！
+FilterAll,所有
+FilterHeroPlacementUpgrades,放置特效
+FilterHeroPets,宠物
+FilterTowerPlacementUpgrades,升级特效
+FilterTowerPets,宠物
+FilterProjectiles,射弹
+FilterFlags,旗帜
+FilterPopFX,爆破特效
+FilterAllBloonSkins,所有气球皮肤
+FilterRegularSkins,气球皮肤
+FilterMoabSkins,MOAB皮肤
+FilterStandardEmotes,标准表情
+FilterTextEmotes,文字表情
+FilterSoundEmotes,声音表情
+FilterFullScreenEmotes,全屏表情
+FilterMusicTracks,音乐曲目
+FilterAvatars,化身
+FilterPowerSkins,力量皮肤
+FilterProfileBanners,档案横幅
+FilterMisc,其他
+Blast Chain Ability,爆破链
+Blast Chain Ability Description,水雷在短时间内发射速度更快
+TowerSpecial,特制猴子

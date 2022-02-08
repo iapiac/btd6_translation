@@ -727,7 +727,7 @@ Heavy Bombs Description,Tunga bomber kan tränga igenom 2 Bloonlager med en gån
 Missile Launcher Description,"Byter ut bomber mot missiler, som avfyras snabbare, flyger snabbare och har längre räckvidd."
 Frag Bombs Description,"Explosionerna kastar ut vasst splitter som kan smälla fler Bloons, inklusive Svarta Bloons."
 Really Big Bombs Description,Stora bomber gör större skada i ett stort område och tillåter splitterbomber att smälla fler Bloons.
-MOAB Mauler Description,MOAB-misshandlare åsamkar mycket större skada på MOAB-klass-Bloons och Keramikbloons.
+MOAB Mauler Description,MOAB-misshandlare åsamkar mycket större skada på MOAB-klass-Bloons.
 Cluster Bombs Description,Kastar ut sekundära bomber istället för vasst splitter i varje attack.
 Bloon Impact Description,Explosionerna blir så våldsamma att Bloons bedövas en kort stund när de träffas. Räckvidden ökar och splitterbomberna är effektivare.
 MOAB Assassin Description,MOAB-mördarförmåga: Specialmissil flyger iväg och åsamkar massiv skada på Bloons i MOAB-klassen. Den normala attackräckvidden och skadan på Bloons i MOAB-klassen ökar också.
@@ -798,14 +798,14 @@ Supply Drop Description,Släpp av förnödenheter-förmåga: släpper en låda f
 Full Auto Rifle Description,Helautomatiskt vapen med otrolig smällkraft.
 Cripple MOAB Description,Skadade MOAB:er är orörliga längre och tar extra skada från alla andra attacker.
 Elite Sniper Description,Släpp av förnödenheter ger mycket mera pengar. Ger elitsiktesprioritet och snabbare omladdning till alla prickskyttar.
-Elite Defender Description,Ett förlorat liv ger denna Prickskytt 4x attackhastighet under en kort stund som vedergällning.
+Elite Defender Description,Ett förlorat liv ger denna Prickskytt 4x attackhastighet under en kort stund som vedergällning. Attackerar även snabbare ju längre Bloons har kommit på banan. Ger större skada på MOAB-klass-Bloons.
 ,
 Longer Range Description,Ökar attackräckvidden.
 Barbed Darts Description,Ubåtens pilar kan smälla 3 extra Bloons.
 Twin Guns Description,Tillagd dubbelkanon fördubblar attackhastigheten. Förbättrar den Ballistiska missilen och Bloontoniumreaktorn.
 Advanced Intel Description,Möjliggör långdistansskjutning på Bloons som befinner sig inom radien för dina andra torn.
 Heat-tipped Darts Description,Värmespetsade pilar möjliggör smällning av frusna Bloons och Blybloons.
-Airburst Darts Description,Luftexploderande pilar delas i 3 när de träffar för massiv smällkraft. Förbättrar den Ballistiska missilen och Bloontoniumreaktorn ännu mer.
+Airburst Darts Description,Luftexploderande pilar delas i 3 när de träffar för massiv smällkraft. Förstärker Bloontoniumreaktorn ytterligare.
 Submerge and Support Description,"Lägger till ett målsökningsalternativ i U-läge som avslöjar Kamobloons permanent inom dess radie, men attackerar inte från U-läge."
 Ballistic Missile Description,Missilen söker mål inom räckvidd och ger extra skada på MOAB och Keramik-Bloons.
 Triple Guns Description,Lägger till en tredje kulspruta för ännu snabbare eldgivning.
@@ -897,7 +897,7 @@ Ray of Doom Description,Skapar en stark linje av förstörelse. Du kan tillintet
 M.A.D Description,MOAB-säker jagare. Megamissiler med långsam eldhastighet åsamkar extrem skada på Bloons i MOAB-klassen.
 Bloon Exclusion Zone Description,Uppgraderad till 6 eldrör och massivt större skada. Bloons upphör att existera.
 ,
-Guided Magic Description,"Magiska skott söker upp Bloons, även bakom skydd."
+Guided Magic Description,"Magiska skott varar längre och söker upp Bloons, även bakom skydd."
 Fireball Description,Med några få sekunders mellanrum kastas en expoderande eldboll-formel.
 Intense Magic Description,Fler kraftfulla magiska skott rör sig snabbare och kan smälla fler Bloons.
 Arcane Blast Description,"Större, mera kraftfulla magiska explosioner smäller igenom 2 Bloonlager."
@@ -970,7 +970,7 @@ Heart of Vengeance Description,Ger 10 % högre attackhastighet och 1 % för varj
 Druid of the Storm Description,Vindstötar blåser bort Bloons från vägen och bort från utgången.
 Druid of the Jungle Description,Frammanar en vinranka från marken som trasslar in och krossar en Bloon i taget och efterlämnar en dödlig tagghög.
 Druid of Wrath Description,Får ökad attackhastighet under rundan så länge som Druiden attackerar Bloons.
-Ball Lightning Description,Skapar kraftfulla åskbollar som skjuter åskviggar.  
+Ball Lightning Description,Skapar kraftfulla åskbollar som skjuter fler åskviggar och kan frysa Bloons.
 Jungle's Bounty Description,"Djungelskattförmåga: Genererar pengar vid varje användning, plus extra pengar per Bananplantage nära Druiden. Kan även fånga två Bloons med vinrankor samtidigt."
 Poplust Description,Ökar attackhastigheten och genomslagsförmågan för övriga Druider inom radien. Kan staplas upp till 5 gånger på valfri ensam Druid.
 Superstorm Description,Superstorm angriper alla Bloontyper och åsamkar massiv skada och blåser bort dem från utgången.
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,MOAB-klister saktar ner mer än normalt.
 CheaperSolution,Billigare lösning
 CheaperSolutionDescription,Kostnaden för Bloonsmältare minskas med 1 000.
 BonusMonkey,Bonusapa!
-BonusMonkeyDescription,Börja varje spel med 1 gratis Pilapa!
+BonusMonkeyDescription,Börja varje spel med 1 gratis Pilapa! (Endast 1 gratis Aptorn per spel)
 MoreCash,Mer pengar
 MoreCashDescription,Öka startkapitalet med 200.
 ,
@@ -1950,7 +1950,7 @@ HotMagicDescription,Alla magiska torntyper kan smälla frusna Bloons.
 ArcaneImpale,Hemlig spetsning
 ArcaneImpaleDescription,Hemlig spik åsamkar extra skada på MOAB-klass- och Keramikbloons.
 ColdFront,Kallfront
-ColdFrontDescription,Åskbollträffar har en chans att frysa Bloons efter att ha åsamkat skada.
+ColdFrontDescription,Åskbollträffar fryser Bloons efter att ha åsamkat skada.
 FlameJet,Jetflamma
 FlameJetDescription,Drakandedräktsbrandprojektiler rör sig mycket snabbare.
 StrikeDownTheFalse,Slå ner den falska
@@ -2625,7 +2625,7 @@ SentryCold,Kallt vakttorn
 SentryEnergy,Energivakttorn
 SentryParagon,Mästarvaktpost
 EditorNumberOfPlayers,Antal spelare
-EditorCoopAreaDivision,Områdesuppdelning för samarbete
+EditorCoopAreaDivision,Bandelning
 InvalidTarget,Ogiltigt mål
 Adora,Adora
 Adora Short Description,Överprästinna
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] till Mörkskifte inom räckvidden
 DarkChampionDarkshift,[I] till Mörkskifte till valfri giltig plats
 SmallTowersMode,Små aptorn
 BigTowersMode,Stora aptorn
-UpdatePopupTitle,Uppdatering 29!
-UpdatePopupDescription,"God jul-uppdatering!\n• Härska över alla hav med den senaste Apparagonen: Havens härskare\n• Få stopp på de där busiga Bloonsen på denna nya medelsvåra bana: Tysta gatan\n• Skaffa vårt nya fantastiska Ezili-skin: Galaxili!\n• Skapandet av samarbetslobbyn har omarbetats för att få in dig i spelet snabbare\n• 17 nya trofébutikartiklar, inklusive 6 nya under begränsad tid. Skynda dig!\n• Nya bedrifter, livskvalitetsändringar, balansändringar och fixar - massor av fantastiska förändringar, ta en titt på uppdateringsmeddelandet för ytterligare information\nVarma julhälsningar och gott nytt år från alla oss på Ninja Kiwi!"
+UpdatePopupTitle,Uppdatering 30!
+UpdatePopupDescription,"Ny innehållsuppdatering!\n• Kämpa dig fram genom den nya avancerade banan: Sjunkna Pelare\n• Frigör bullret med detta nya Psi-skin: Psimbaler!\n• Uppdatering av samarbetsdelning: 2 helt nya delningar tillagda som går att välja när man startar ett samarbetsspel\n• 16 nya trofébutikartiklar, inklusive 4 med begränsad tid, skaffa dem snabbt!\n• 4 nya Apkunskaper att låsa upp\n• Nya Prestationer, livskvalitet och balansändringar, läs uppdateringsmeddelandet för fullständiga detaljer"
 ResetDailyChest,Återställ daglig kista
 JukeboxName,Jukebox
 EnableFunction,Aktivera
@@ -2852,8 +2852,8 @@ AdmiralBrickell Level 3 Description,Sjötaktik: ökar attackhastigheten betydlig
 AdmiralBrickell Level 4 Description,Större smällkraft för sjöminor.
 AdmiralBrickell Level 5 Description,Sjötaktik ökar smällkraften och tillåter påverkade apor att träffa alla Bloontyper utom Kamo.
 AdmiralBrickell Level 6 Description,Ökar skadan från sjöminor och pistolattacker.
-AdmiralBrickell Level 7 Description,Ökad attackräckvidden och detektering av Kamobloons.
-AdmiralBrickell Level 8 Description,Sjötaktik tillåter påverkade apor att träffa Kamobloons.
+AdmiralBrickell Level 7 Description,Ökad attackräckvidd och detektering av Kamobloons för Brickell.
+AdmiralBrickell Level 8 Description,Sjötaktik tillåter påverkade apor att träffa Kamobloons. Vattentorn inom radien får extra genomslag.
 AdmiralBrickell Level 9 Description,Sjöminor ger extra skada.
 AdmiralBrickell Level 10 Description,Megamina: aktiverar en förödande mina i valfritt vattenområde som utlöses av MOAB:er och bedövar Bloons i närheten. Megaminan varar i 3 rundor.
 AdmiralBrickell Level 11 Description,Snabbare utläggningshastighet och utläggningsfrekvens för sjöminor.
@@ -3672,7 +3672,7 @@ YouFinished,Du slutade på:
 BestTime,Bästa tid:
 Claim,Begär
 PlayerRejoinedGame, har återanslutit till spelet
-PlayerKickedFromGame,{0} har avlägsnats från spelet
+PlayerKickedFromGame, har avlägsnats från spelet
 ConfirmKickPlayer,Är du säker på att du vill ta bort {0}?
 Remove,Ta bort
 MiniRacesFirstTimeTitle,Minilopp!
@@ -3788,10 +3788,10 @@ GameUIProfileAvatar41Name,Anpassad avatar - Lysbombninja
 GameUIProfileAvatar41ShortName,Lysbombavatar
 GameUIProfileAvatar41Description,Avatarvinnare av _Concilliabule_
 GameUIProfileAvatar42Name,Anpassad avatar - Bolags-Patch
-GameUIProfileAvatar42ShortName,Bolags-Patch
+GameUIProfileAvatar42ShortName,Bolagspatchavatar
 GameUIProfileAvatar42Description,Patch har klättrat i hemlighet på bolagsstegen i Apriket
 GameUIProfileAvatar43Name,Anpassad avatar - Fyrverkeribombskytt
-GameUIProfileAvatar43ShortName,Fyrverkeribombskytt
+GameUIProfileAvatar43ShortName,Fyrverkeribombavatar
 GameUIProfileAvatar43Description,Finns det något bättre sätt att skjuta iväg raketer? Samlarföremål under begränsad tid!
 GameUIPowerSkinMonkeyBoostFireworksName,Anpassad förmåga - Fyrverkerieffekthöjare för apor
 GameUIPowerSkinMonkeyBoostFireworksShortName,Fyrverkeriapeffekthöjare
@@ -3904,7 +3904,7 @@ GameUIProfileBanner5Description,Kraft och fara kombineras i detta ubåtsinspirer
 Paragon Title,Uppgradera till Paragon
 Paragon Body,Denna åtgärd kommer att skapa en Paragon {0}. Alla andra {1} kommer att förstöras under processen och öka Paragonens kraft!
 ft_paragontitle,Paragon-uppgradering aktiverad!
-ft_paragondescription,"Uppgradera en av dina nivå 5-apor till en Paragon! Paragoner absorberar alla apor av sin typ, inklusive nivå 5-apor från de andra två vägarna.\n\nParagonens grad påverkas av hur mycket kraft som absorberas vid uppgraderingstidpunkten."
+ft_paragondescription,"Uppgradera en av dina nivå 5-apor till en Paragon! Paragoner absorberar alla apor av sin typ, inklusive nivå 5-apor från de andra två vägarna.\n\nParagonens grad påverkas av hur mycket kraft som absorberas vid uppgraderingstidpunkten. Ej tillgängligt i Sandlåda."
 ParagonDegreeText,Paragongrad
 DartMonkeys,Pilapor
 BoomerangMonkeys,Bumerangapor
@@ -4223,7 +4223,107 @@ CalloutWellRounded,Välrundad
 CalloutWellRoundedDesc,{0} av varje av de 4 torntyperna
 CalloutEndlessPower,Ändlös kraft!
 CalloutEndlessPowerDesc,Grad {0}-paragon skapad
-AnyGame,Vilket spel som helst
-AnyMap,Vilken karta som helst
-AnyDifficulty,Alla svårigheter
-AnyMode,Vilket läge som helst
+AnyGame,Alla spel
+AnyMap,Alla banor
+AnyDifficulty,Alla svårighetsgrader
+AnyMode,Alla lägen
+DataConsentTitle,Aktivera dataöverföring
+DataConsentBody,"Hej! Vi på Ninja Kiwi behöver använda din spelinformation, inklusive IP-adress, GameCenter-namn och spelförlopp för att göra det möjligt för dig att spela Odysséer, Tävlingar, Bossar, Samarbetsläge och andra Events. (Dessa kommer inte att fungera utan den"
+DataConsentAccepted,Tack! Tack!
+DataConsentRejected,"Inga problem. Vi kommer inte att använda din spelinformation, så Odysséer, Tävlingar, Bossar, Samarbetsläge och Innehållswebbläsare kommer att inaktiveras. Du kan fortfarande spela ensam och ändra denna inställning när du vill i inställningsmenyn."
+DataConsentCurrent,Dataöverföring: {0}
+DataConsentEnabled,Aktiverad
+DataConsentDisabled,Inaktiverad
+DataConsentReview,Granska
+DataConsentYes,Ja
+DataConsentNo,Nej
+BionicAugmentation,Bionisk förstärkning
+BionicAugmentationDescription,"Medan Turboladdning är aktiv, kan den Bioniska Bumerangen rikta in sig på Kamobloons"
+XrayUltra,Ultraröntgen
+XrayUltraDescription,Ultrasyn gör det möjligt för Stålapor att se och skjuta genom blockerande föremål
+BonusGlueGunner,Bonusklisterskytt
+BonusGlueGunnerDescription,Börja varje spel med 1 gratis Klisterskytt! (Endast 1 gratis Aptorn per spel)
+Achievement 139 Name,Sitta i klistret
+Achievement 139 Description,Klistra 500 000 Bloons
+Achievement 140 Name,Storslösare
+Achievement 140 Description,Spendera 1 000 000 pengar under en spelrunda
+Achievement 141 Name,Den Dagliga Uppladdningen
+Achievement 141 Description,Vinn 365 unika Dagliga utmaningar
+Achievement 142 Name,Jag kommer tillbaka
+Achievement 142 Description,Spendera 1 000 Appengar på Fortsättningar eller Kontrollpunkter
+PetSounds,Pet Sounds
+UserID,Användar-ID
+SunkenColumns,Sjunkna Pelare
+PsimbalsPsiSkinName,Psimbaler
+PsimbalsPsiSkinDescription,Är du redo för en uppvisning?!
+HeroesStrikerJonesPetGermanShepherdName,Striker Jones schäferhund
+HeroesStrikerJonesPetGermanShepherdShortName,Strikers hundvalp
+HeroesStrikerJonesPetGermanShepherdDescription,Självklart har Striker en schäferhund! Det krävs en stursk vovve för att leka apport med leksaker som skjuts av från skuldran. Endast original-Striker Jones
+HeroesETnPlacementBeamDownName,ET-n Nedstrålning Placera och Uppgradera
+HeroesETnPlacementBeamDownShortName,ET-n Nedstrålning
+HeroesETnPlacementBeamDownDescription,Inte ringa hem eller stråla upp här. ET-n anser att det bästa sättet att använda teleportörer är att kasta sig rakt in i striden eller lägga till särskild stil till uppgraderingar. Enbart ET-n
+TowerPetHeliPilotHummingbirdName,Helikopterpilotens kolibri
+TowerPetHeliPilotHummingbirdShortName,Helikopterpilotens kolibri
+TowerPetHeliPilotHummingbirdDescription,"Helikopterpiloten är en hejare på att sväva, men den här vackra kolibrin bevisar att det alltid finns utrymme för förbättring."
+TowerProjectileWizardZombiesName,Trollkarlsbesvärjarens Zombiebloons
+TowerProjectileWizardZombiesShortName,Trollkarlens Besvärjarbloons
+TowerProjectileWizardZombiesDescription,Bär ut era döda! Dessa Besvärjarbloons och MOAB-klass-Bloons ser med glädje till att invaderande Bloons är stendöda i ett huj.
+BloonsAllBloonsDaisyChainName,Tusensköne-Bloons
+BloonsAllBloonsDaisyChainShortName,Tusensköne-Bloons
+BloonsAllBloonsDaisyChainDescription,Låt oss glömma gamla oförrätter med Bloons klädda i buketter! Fira våren med denna blommiga krans på alla vanliga Bloons. Samlarföremål under begränsad tid!
+BloonsBADSkinWhaleName,STYGG Val
+BloonsBADSkinWhaleShortName,STYGG Val
+BloonsBADSkinWhaleDescription,"Vi brukar tro att alla valar är snälla valar, men den här kramvänliga magenta-besten är definitivt en STYGG val."
+CoopEmoteAnimationObynPeaceName,Obyns fredsemote
+CoopEmoteAnimationObynPeaceShortName,Obyns fred
+CoopEmoteAnimationObynPeaceDescription,"Du väljer - erbjud en zenhälsning, få andra att vara snällare mot Spelare 3 eller be om ursäkt för trams du har aktiverat. Obyns fred är svaret. Samlarföremål under begränsad tid!"
+CoopEmoteAnimationThinkingMonkeyName,Tänkande apemote
+CoopEmoteAnimationThinkingMonkeyShortName,Tänkande apa
+CoopEmoteAnimationThinkingMonkeyDescription,En tänkande apa är en bra apa. Fungerar när du tänker eller när du undrar hur fasiken någon annan tänkte.
+GameUIProfileAvatar56Name,Druidens vårblomavatar
+GameUIProfileAvatar56ShortName,Druidens våravatar
+GameUIProfileAvatar56Description,Åkalla vårens magi när som helst under året med denna vackra och begrundande Druidavatar. Samlarföremål under begränsad tid!
+GameUIProfileAvatar57Name,Apornas upptäcksreseubåtsavatar
+GameUIProfileAvatar57ShortName,Upptäcksreseubåtsavatar
+GameUIProfileAvatar57Description,Det finns ingen bättre vy i en ubåt än med hela ansiktet pressat mot glaset. Ge ubåten lite kärlek med denna storögda avatar.
+GameUIProfileAvatar58Name,Snögubben Fustys glassavatar
+GameUIProfileAvatar58ShortName,Fustys glassavatar
+GameUIProfileAvatar58Description,Pat Frosty älskar glass i stora lass. Helt klart den bästa avataren för dem av oss som uppskattar det goda i livet.
+GameUIPowerSkinRoadSpikesFlowerPatchName,Anpassad förmåga - Blommande vägspikar
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,Blomspikar
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,"Vem har sagt att vägspikar måste se ut som grova, industriella spännen? Om du försöker att plocka dessa blommor kommer du att sticka dig!"
+GameUIPowerSkinMonkeyBoostSugarRushName,Anpassad förmåga - Apornas sockerchockeffekthöjare
+GameUIPowerSkinMonkeyBoostSugarRushShortName,Sockerchock
+GameUIPowerSkinMonkeyBoostSugarRushDescription,Människor: alla vet att vi presterar bättre under påverkan av kopiösa mängder sockersöt härlighet. Apor: vi håller med.
+GameUIProfileBanner10Name,Klotterbriljans-profilbanner
+GameUIProfileBanner10ShortName,Klotterbriljansbanner
+GameUIProfileBanner10Description,Banner-vinnare av bonbonni
+GameUIProfileBanner11Name,Arcanum Necronicom-profilbanner
+GameUIProfileBanner11ShortName,Arcanum Necronicom-banner
+GameUIProfileBanner11Description,Bannervinnare av _Concilliabule_
+GameUIProfileBanner12Name,Surrigt värre-profilbanner
+GameUIProfileBanner12ShortName,Surrigt värre-banner
+GameUIProfileBanner12Description,Bina surrar i träden för att göra lite honung bara till mig. Samlarföremål under begränsad tid!
+FilterAll,Totalt
+FilterHeroPlacementUpgrades,Plats-FX
+FilterHeroPets,Husdjur
+FilterTowerPlacementUpgrades,Uppgraderings-FX
+FilterTowerPets,Husdjur
+FilterProjectiles,Projektiler
+FilterFlags,Flaggor
+FilterPopFX,Smällnings-FX
+FilterAllBloonSkins,Alla Bloonskins
+FilterRegularSkins,Bloonskins
+FilterMoabSkins,MOAB-skins
+FilterStandardEmotes,Standard-emotes
+FilterTextEmotes,Text-emotes
+FilterSoundEmotes,Ljud-emotes
+FilterFullScreenEmotes,Helskärms-emotes
+FilterMusicTracks,Musikspår
+FilterAvatars,Avatarer
+FilterPowerSkins,Förmågor-skins
+FilterProfileBanners,Profilbanners
+FilterMisc,Diverse
+Blast Chain Ability,Sprängkedja
+Blast Chain Ability Description,Sjöminor sprängs snabbare under en kort stund
+TowerSpecial,Apspecial

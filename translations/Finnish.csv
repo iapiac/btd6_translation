@@ -727,7 +727,7 @@ Heavy Bombs Description,Raskastekoiset pommit voivat räjäyttää 2 bloonikerro
 Missile Launcher Description,"Vaihtaa pommit ohjuksiin, jotka ammutaan nopeammin, lentävät nopeammin ja yltävät pidemmälle."
 Frag Bombs Description,"Räjähdykset sinkoavat ulos teräviä sirpaleita, jotka voivat poksauttaa enemmän blooneja, mukaan lukien mustat bloonit."
 Really Big Bombs Description,Valtavat pommit tekevät suurempaa vahinkoa laajalla alueella ja sirpaleet voivat poksauttaa enemmän blooneja.
-MOAB Mauler Description,MOAB-raatelijat tekevät paljon enemmän vahinkoa MOAB-luokan ja keraamisille blooneille.
+MOAB Mauler Description,MOAB-raatelijat tekevät paljon enemmän vahinkoa MOAB-luokan blooneille.
 Cluster Bombs Description,Lennättää toissijaisia pommeja terävien sirpaleiden sijaan kullakin laukauksella.
 Bloon Impact Description,"Räjähdykset tulevat niin rajuiksi, että bloonit pökertyvät hetkeksi, kun niihin osutaan. Kantama kasvaa ja sirpaleista tulee entistä tehokkaampia."
 MOAB Assassin Description,MOAB-salamurhaaja-kyky: Erityinen ohjus lentää ja tekee valtavasti vahinkoa MOAB-luokan blooneille. Myös suurempi tavallinen hyökkäyskantama ja MOAB-luokan vahinko.
@@ -798,14 +798,14 @@ Supply Drop Description,Tarvikepudotus-kyky: pudottaa rahaa täynnä olevan laat
 Full Auto Rifle Description,Täysin automaattinen ase uskomattomalla poksautusteholla.
 Cripple MOAB Description,Pysäytetyt MOABit ovat liikuntakyvyttömiä pidempään ja vastaanottavat vahinkoa kaikista muista hyökkäyksistä.
 Elite Sniper Description,Tarvikepudotus antaa paljon enemmän käteistä. Antaa eliittikohdeprioriteetin ja nopeamman latauksen kaikille tarkka-ampujille.
-Elite Defender Description,Menetetty elämä antaa tälle tarkka-ampujalle 4x hyökkäysnopeuden lyhyeksi ajaksi kostoa varten.
+Elite Defender Description,Menetetty elämä antaa tälle tarkka-ampujalle 4x hyökkäysnopeuden lyhyeksi ajaksi kostoa varten. Lisäksi hyökkää sitä nopeammin mitä pidemmällä reittiä bloonit ovat. Tekee lisävahinkoa MOAB-luokan blooneille.
 ,
 Longer Range Description,Lisää hyökkäyskantamaa.
 Barbed Darts Description,Sukellusveneen tikat voivat poksauttaa 3 bloonia lisää.
 Twin Guns Description,Lisätty tupla-ase tuplaa hyökkäysnopeuden. Parantaa ballistista ohjusta ja bloontonium-reaktoria.
 Advanced Intel Description,"Mahdollistaa kaukaisiinkin blooneihin tähtäämisen, kunhan nämä ovat muiden torniesi kantamalla."
 Heat-tipped Darts Description,Kuumakärkiset tikat mahdollistavat jäätyneiden ja lyijybloonien poksautukset.
-Airburst Darts Description,"Ilmaräjähdetikat jakautuvat törmäyksestä kolmeksi, mikä lisää poksautusvoimaa. Parantaa entisestään ballistista ohjusta ja bloontonium-reaktoria."
+Airburst Darts Description,"Ilmaräjähdetikat jakautuvat törmäyksestä kolmeksi, mikä lisää poksautusvoimaa. Parantaa Bloontonium-reaktoria entisestään."
 Submerge and Support Description,"Lisää tähtäykseen sukellusvalinnan, joka paljastaa pysyvästi maastokuvioidut bloonit alueellaan, mutta ei hyökkää sukelluksen aikana."
 Ballistic Missile Description,Ohjus hakee kohdetta kantamalta ja tuottaa lisävahinkoa MOAB-luokan ja keraamisille blooneille.
 Triple Guns Description,Lisää kolmas ase vieläkin nopeampaa tulitusta varten.
@@ -897,7 +897,7 @@ Ray of Doom Description,Luo kiinteän tuholinjan. Voit pyyhkäistä useimmat blo
 M.A.D Description,MOAB-varmistettu tuhoaja. Hitaammin ammuttavat megaohjukset tekevät äärimmäistä vahinkoa MOAB-luokan blooneille.
 Bloon Exclusion Zone Description,Päivitetty 6 piippuun ja massiivisesti suurempaan vahinkoon. Bloonit suorastaan lakkaavat olemasta.
 ,
-Guided Magic Description,"Maagiset ammukset hakevat blooneja, jopa suojien takaa."
+Guided Magic Description,"Maagiset ammukset kestävät pidempään, ja ne hakevat blooneja jopa suojien takaa."
 Fireball Description,Sinkoaa aina muutaman sekunnin välein räjähtävän tulipalloloitsun.
 Intense Magic Description,Voimakkaammat maagiset laukaukset liikkuvat nopeammin ja voivat poksauttaa enemmän blooneja.
 Arcane Blast Description,"Suuremmat, voimakkaammat maagiset räjähdykset poksauttavat blooneista 2 kerrosta."
@@ -970,7 +970,7 @@ Heart of Vengeance Description,"Saa 10 % hyökkäysnopeutta plus 1 %:n jokaisest
 Druid of the Storm Description,Tuulenpyörre puhaltaa blooneja taaksepäin pois reitiltä.
 Druid of the Jungle Description,"Kutsuu viiniköynnöksiä maasta kietoutumaan ja murskaamaan blooneja yksi kerrallaan, ja jälkeen jää tappavia piikkikasoja."
 Druid of Wrath Description,Lisää hyökkäysnopeutta kierroksen aikana niin pitkään kuin druidi hyökkää bloonien kimppuun.
-Ball Lightning Description,"Luo voimakkaita pallosalamoita, jotka ampuvat lisää salamoita.  "
+Ball Lightning Description,"Luo voimakkaita pallosalamoita, jotka ampuvat lisää salamoita ja jotka voivat jäädyttää blooneja."
 Jungle's Bounty Description,"Viidakon anteliaisuus -kyky: luo rahaa jokaisella käyttökerralla, plus lisärahaa jokaista druidin lähellä olevaa banaanifarmia kohden. Voi myös napata köynnöksellä kaksi bloonia kerrallaan."
 Poplust Description,Tehostaa muiden kantamalla olevien druidien hyökkäysnopeutta ja lävistystä. Voi kerääntyä enintään 5 kertaa kuhunkin yksittäiseen druidiin.
 Superstorm Description,Supermyrsky räjäyttää kaikille bloonityypeille massiivista vahinkoa ja paiskaa ne pois uloskäynnistä.
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,MOAB-liima hidastaa enemmän kuin normaali.
 CheaperSolution,Halvempi ratkaisu
 CheaperSolutionDescription,Bloonin nesteyttäjän hintaa pudotettu 1 000 $:lla.
 BonusMonkey,Bonusapina!
-BonusMonkeyDescription,Aloita kukin peli 1 ilmaisella Tikka-apinalla!
+BonusMonkeyDescription,Aloita kukin peli 1 ilmaisella tikka-apinalla! (Vain 1 ilmainen apina peliä kohden.)
 MoreCash,Lisää käteistä
 MoreCashDescription,Lisää aloituskäteistä 200 $:lla.
 ,
@@ -1950,7 +1950,7 @@ HotMagicDescription,Kaikki magiatyypin tornit voivat poksauttaa jäätyneet bloo
 ArcaneImpale,Mystinen seivästys
 ArcaneImpaleDescription,Mystinen piikki tekee lisävahinkoa MOAB-luokan ja keraamisille blooneille.
 ColdFront,Kylmä rintama
-ColdFrontDescription,Pallosalaman osumat voivat jäädyttää bloonit vahingon tekemisen jälkeen.
+ColdFrontDescription,Pallosalaman osumat jäädyttävät bloonit vahingon tekemisen jälkeen.
 FlameJet,Liekkiruisku
 FlameJetDescription,Lohikäärmeen henkäyksen liekkiammukset liikkuvat paljon nopeammin.
 StrikeDownTheFalse,Kukista kelvottomat
@@ -2625,7 +2625,7 @@ SentryCold,Jäätykki
 SentryEnergy,Energiatykki
 SentryParagon,Mestarivartiotykki
 EditorNumberOfPlayers,Pelaajien määrä
-EditorCoopAreaDivision,Yhteistyön aluejako
+EditorCoopAreaDivision,Jaettu kartta
 InvalidTarget,Kohde ei kelpaa
 Adora,Adora
 Adora Short Description,Suurpapitar
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] synkkäsiirtyäksesi alueella
 DarkChampionDarkshift,[I] synkkäsiirtyäksesi mihin tahansa kelvolliseen sijaintiin
 SmallTowersMode,Pienet apinatornit
 BigTowersMode,Suuret apinatornit
-UpdatePopupTitle,Päivitys 29!
-UpdatePopupDescription,"Hyvää joulua -kausipäivitys!\n• Ole kaikkien merten valtias apinaesikuvalla: Merten navarkki\n• Pysäytä itsepintaiset bloonit uudella keskitason kartalla: Hiljainen katu\n• Nappaa mahtava uusi malli Ezilille: Galaxili!n\• Yhteistoiminta-aulan luomista on viilattu, joten pääset peliin nopeammin\n• 17 uutta esinettä pokaalikauppaan, joista 6 on saatavilla vain rajoitetun ajan. Toimi nopeasti!\n• Uusia saavutuksia, pelin parannuksia, tasapainotuksia ja bugikorjauksia. Paljon uusia ja upeita muutoksia, katso koko lista päivitystiedoista.\n• Hyvää joulua ja onnellista uutta vuotta Ninja Kiwiltä!"
+UpdatePopupTitle,Päivitys 30!
+UpdatePopupDescription,"Uusi sisältöpäivitys!\n• Taistele tiesi halki uuden edistyneen kartan: Uponneet pylväät!\n• Anna sen soida Psin uudella ulkoasulla: Psimbalit!\n• Yhteistoimintatilan jakopäivitys:  Lisätty 2 uutta jakoa, ja ne kaikki ovat valittavissa yhteistoimintatilaa valmistellessa\n• 16 uutta pokaalikaupan esinettä, mukaan lukien 4 esinettä, jotka ovat saatavilla vain rajoitetun ajan – nappaa ne nopeasti!\n• 4 uutta avattavaa apinatietämystä\n• Uusia saavutuksia sekä peliä parantavia ja tasapainottavia muutoksia. Katso tarkemmat tiedot päivitystiedoista"
 ResetDailyChest,Nollaa päivittäinen arkku
 JukeboxName,Jukeboksi
 EnableFunction,Ota käyttöön
@@ -2852,8 +2852,8 @@ AdmiralBrickell Level 3 Description,Laivastotaktiikat:  parantaa Brickellin ja l
 AdmiralBrickell Level 4 Description,Lisää poksautusvoimaa merimiinoihin.
 AdmiralBrickell Level 5 Description,Laivastotaktiikat parantavat poksautustehoa ja mahdollistavat vaikutuksen alaisten apinoiden osuvan kaikkiin blooneihin paitsi maastokuvioituihin.
 AdmiralBrickell Level 6 Description,Kasvattaa merimiinojen ja pistoolihyökkäysten vahinkoa.
-AdmiralBrickell Level 7 Description,Suurempi hyökkäyksen kantama ja maastokuvioitujen bloonien tunnistus.
-AdmiralBrickell Level 8 Description,Laivastotaktiikat mahdollistavat vaikutuksen alaisten apinoiden osuvan maastokuvioituihin blooneihin.
+AdmiralBrickell Level 7 Description,Brickell saa hyökkäykselle suuremman kantaman ja maastokuvioitujen bloonien tunnistuksen.
+AdmiralBrickell Level 8 Description,Laivastotaktiikat mahdollistavat vaikutuksen alaisten apinoiden osumisen maastokuvioituihin blooneihin. Vaikutusalueella olevat vesitornit saavat lävistykseen lisätehoa.
 AdmiralBrickell Level 9 Description,Merimiinat tekevät lisävahinkoa.
 AdmiralBrickell Level 10 Description,"Megamiina: jättää minne tahansa vesialueelle tuhovoimaisen miinan, joka räjähtää MOAB-kosketuksesta ja tyrmää lähellä olevat bloonit. Megamiinat kestävät 3 kierrosta."
 AdmiralBrickell Level 11 Description,Nopeampi jättönopeus ja jättötahti merimiinoille.
@@ -3672,7 +3672,7 @@ YouFinished,Sijoituksesi:
 BestTime,Paras aika:
 Claim,Lunasta
 PlayerRejoinedGame, liittyi uudelleen peliin
-PlayerKickedFromGame,{0} on poistettu pelistä
+PlayerKickedFromGame, on poistettu pelistä
 ConfirmKickPlayer,Haluatko varmasti poistaa pelaajan {0}?
 Remove,Poista
 MiniRacesFirstTimeTitle,Minikisat!
@@ -3788,10 +3788,10 @@ GameUIProfileAvatar41Name,Oma avatar – Välähdyspommininja
 GameUIProfileAvatar41ShortName,Välähdyspommi-avatar
 GameUIProfileAvatar41Description,"Voittaja-avatar, _Concilliabule_"
 GameUIProfileAvatar42Name,Oma avatar – Yritys-Patch
-GameUIProfileAvatar42ShortName,Yritys-Patch
+GameUIProfileAvatar42ShortName,Yritys-Patch-avatar
 GameUIProfileAvatar42Description,Patch on hiljalleen kiivennyt apinamaailman yritystikkaita
 GameUIProfileAvatar43Name,Oma avatar – Ilotulituspommittaja
-GameUIProfileAvatar43ShortName,Ilotulituspommittaja
+GameUIProfileAvatar43ShortName,Ilotulituspommi-avatar
 GameUIProfileAvatar43Description,Mikäpä olisi parempi tapa rakettien ampumiseen? Rajallisen ajan keräilykappale!
 GameUIPowerSkinMonkeyBoostFireworksName,Oma voima – Ilotulitusapinatehoste
 GameUIPowerSkinMonkeyBoostFireworksShortName,Ilotulitusapinatehoste
@@ -3904,7 +3904,7 @@ GameUIProfileBanner5Description,Voima ja vaara yhdistyvät tässä sukellusvenee
 Paragon Title,Päivitä esikuvaksi
 Paragon Body,"Tämä toiminto luo esikuvan apinasta {0}. Kaikki muut {1} -tornit tuhotaan, ja niiden voimat siirtyvät esikuvalle!"
 ft_paragontitle,Esikuvapäivitys aktivoitu!
-ft_paragondescription,"Päivitä yksi viidennen tason apinoistasi esikuvaksi! Esikuvat imevät itseensä kaikki samantyyppiset apinat, mukaan lukien viidennen tason apinat muilta polulta.\n\nEsikuvajulistuksen voima riippuu siitä, kuinka paljon voimaa imettiin päivityshetkellä."
+ft_paragondescription,"Päivitä yksi viidennen tason apinoistasi esikuvaksi! Esikuvat imevät itseensä kaikki samantyyppiset apinat, mukaan lukien viidennen tason apinat muilta polulta.\n\nEsikuvajulistuksen voima riippuu siitä, kuinka paljon voimaa imettiin päivityshetkellä. Ei saatavilla hiekkalaatikkotilassa."
 ParagonDegreeText,Esikuvajulistus
 DartMonkeys,Tikka-apinat
 BoomerangMonkeys,Bumerangiapinat
@@ -4225,5 +4225,105 @@ CalloutEndlessPower,Kyltymätöntä voimaa!
 CalloutEndlessPowerDesc,Luotu esikuva julistuksella {0}
 AnyGame,Mikä tahansa peli
 AnyMap,Mikä tahansa kartta
-AnyDifficulty,Mikä tahansa vaikeus
+AnyDifficulty,Mikä tahansa vaikeustaso
 AnyMode,Mikä tahansa tila
+DataConsentTitle,Ota tiedonsiirto käyttöön
+DataConsentBody,"Hei! Meidän Ninja Kiwillä on käytettävä pelitietojasi, kuten IP-osoitettasi, GameCenter-nimeäsi ja pelisi edistymistä, jotta voimme antaa sinun pelata odysseioja, kilpailuita, pomoja, yhteistoimintaa ja muita tapahtumia. (Nämä eivät toimi ilman näitä tiet"
+DataConsentAccepted,Kiitos! Nauti tapahtumien pelaamisesta
+DataConsentRejected,"Ei hätää. Emme käytä pelitietojasi, joten odysseiat, kilpailut, pomot, yhteistoiminta ja sisältöselain eivät ole käytettävissä. Voit yhä pelata yksinpeliä. Voit muuttaa tätä asetusta milloin tahansa Asetukset-valikosta."
+DataConsentCurrent,Tiedonsiirto: {0}
+DataConsentEnabled,Käytössä
+DataConsentDisabled,Ei käytössä
+DataConsentReview,Tarkista
+DataConsentYes,Kyllä
+DataConsentNo,Ei
+BionicAugmentation,Bioninen augmentaatio
+BionicAugmentationDescription,"Bioninen bumerangi pystyy näkemään maastokuvioidut bloonit silloin, kun turbolataus on aktiivisena."
+XrayUltra,Ultraröntgen
+XrayUltraDescription,Superapinat näkevät ultranäön ansiosta esteiden ohi ja voivat ampua niiden läpi
+BonusGlueGunner,Ylimääräinen liima-ampuja
+BonusGlueGunnerDescription,Aloita kukin peli 1 ilmaisella liima-ampujalla! (Vain 1 ilmainen apina peliä kohden.)
+Achievement 139 Name,Tahmainen tilanne
+Achievement 139 Description,Liimaa 500 000 bloonia
+Achievement 140 Name,Löysät kukkaronnyörit
+Achievement 140 Description,Kuluta 1 000 000 rahaa yhdessä kierroksessa.
+Achievement 141 Name,Päivittäinen Reidimme
+Achievement 141 Description,"Voita 365 uniikkia, päivittäistä haastetta"
+Achievement 142 Name,Minä palaan vielä
+Achievement 142 Description,Kuluta 1 000 apinarahaa jatkoihin tai tarkistuspisteisiin
+PetSounds,Lemmikkiäänet
+UserID,Käyttäjätunnus
+SunkenColumns,Uponneet pylväät
+PsimbalsPsiSkinName,Psimbalit
+PsimbalsPsiSkinDescription,Oletko valmiina esitykseen?!
+HeroesStrikerJonesPetGermanShepherdName,Iskijä-Jonesin lemmikkisaksanpaimenkoira
+HeroesStrikerJonesPetGermanShepherdShortName,Iskijän lemmikkipentu
+HeroesStrikerJonesPetGermanShepherdDescription,Tietenkin Iskijällä on saksanpaimenkoira! Ei mikä tahansa koira nouda olalta ammuttuja leluja. Vain alkuperäinen Iskijä Jones
+HeroesETnPlacementBeamDownName,"ET-n:n sädetä, aseta, päivitä"
+HeroesETnPlacementBeamDownShortName,ET-n:n sädetys
+HeroesETnPlacementBeamDownDescription,Täältä ei soitella kotiin. ET-n:n mielestä teleporttien avulla on kätevä hypätä suoraan toiminnan tiimellykseen tai antaa päivityksille ripaus persoonallisuutta. Vain ET-n
+TowerPetHeliPilotHummingbirdName,Kopterilentäjän lemmikkikolibri
+TowerPetHeliPilotHummingbirdShortName,Kopterilentäjän lemmikkikolibri
+TowerPetHeliPilotHummingbirdDescription,"Kopterilentäjä osaa toki leijumisen jalon taidon, mutta tämä kaunis lemmikkikolibri näyttää, että aina on varaa parantaa"
+TowerProjectileWizardZombiesName,Manaajavelhon zombi-bloonit
+TowerProjectileWizardZombiesShortName,Velhon zombi-bloonit
+TowerProjectileWizardZombiesDescription,Kuolleiden on aika vaeltaa! Nämä epäkuolleet bloonit ja MOAB-luokan bloonit ilahtuvat saamastaan seurasta.
+BloonsAllBloonsDaisyChainName,Kukkaseppele-bloonit
+BloonsAllBloonsDaisyChainShortName,Kukkaseppele-bloonit
+BloonsAllBloonsDaisyChainDescription,"Sä kasvoit blooni kaunoinen. Juhli kevättä kukkaseppelein, jotka on hellästi asetettu bloonien kruunuksi. Rajoitetun ajan keräilijänimike!"
+BloonsBADSkinWhaleName,BAD-valas
+BloonsBADSkinWhaleShortName,BAD-valas
+BloonsBADSkinWhaleDescription,"Ajattelemme helposti, että kaikki valaat ovat kilttejä valaita. Mutta tämä halittavalta näyttävä magentanvärinen peto ei tasan tarkkaan kuulu niiden joukkoon."
+CoopEmoteAnimationObynPeaceName,Obynin rauhanmerkki-emote
+CoopEmoteAnimationObynPeaceShortName,Obynin rauha
+CoopEmoteAnimationObynPeaceDescription,"Valinta on sinun: tarjoa zenimäinen tervehdys, rauhoittele muut pelaajat pois kolmannen pelaajan kimpusta tai pahoittele töppäystäsi. Obynin rauha vastaa kaikkiin tarpeisiin. Rajoitetun ajan keräilijänimike!"
+CoopEmoteAnimationThinkingMonkeyName,Ajatteleva apina -emote
+CoopEmoteAnimationThinkingMonkeyShortName,Ajatteleva apina
+CoopEmoteAnimationThinkingMonkeyDescription,"Ajatteleva apina on kelpo apina. Toimii silloin, kun sinä ajattelet, tai silloin, kun sinä ajattelet, mitä himskattia tuo toinen oikein ajattelee."
+GameUIProfileAvatar56Name,Druidin kevätkukat -avatar
+GameUIProfileAvatar56ShortName,Druidin kevät-avatar
+GameUIProfileAvatar56Description,"Tarjoa ripaus kevään taianomaisuutta joka vuodenaikaan tällä kauniilla, pohdiskelevalla druidi-avatarilla.  Rajoitetun ajan keräilijänimike!"
+GameUIProfileAvatar57Name,Sukellusveneen tutkija-avatar
+GameUIProfileAvatar57ShortName,Sukellusveneen tutkija-avatar
+GameUIProfileAvatar57Description,"Sukellusveneen paras näköalapaikka vaatii, että koko naama on painettava lasia vasten. Anna sukellusveneelle silmäkarkkia tällä avatarilla."
+GameUIProfileAvatar58Name,Lumiukko-Fustyn jäätelö-avatar
+GameUIProfileAvatar58ShortName,Fustyn jäätelö-avatar
+GameUIProfileAvatar58Description,"Sulle jätskiä, mulle jätskiä, Pat Frosty rakastaa jätskiä. Selvästi avatarien parhaimmistoa niille, jotka arvostavat elämän herkullisia puolia."
+GameUIPowerSkinRoadSpikesFlowerPatchName,Oma voima – Kukkaisat tiepiikit
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,Kukkaiset tiepiikit
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,"Kuka muka väittää, että tiepiikkien on aina näytettävä niin teollisilta? Näitä kukkia poimimalla saa käsiinsä pelkkiä okaita!"
+GameUIPowerSkinMonkeyBoostSugarRushName,Oma voima – Sokerihumalatehoste
+GameUIPowerSkinMonkeyBoostSugarRushShortName,Sokerihumalatehoste
+GameUIPowerSkinMonkeyBoostSugarRushDescription,"Ihmiset: kyllähän me kaikki tiedämme, että jaksamme paremmin sokeriöverien energialla, eikö niin? Apinat: samiksia."
+GameUIProfileBanner10Name,Raapustettua nerokkuutta -profiilibanneri
+GameUIProfileBanner10ShortName,Raapustettua -profiilibanneri
+GameUIProfileBanner10Description,Bannerivoittaja: bonbonni
+GameUIProfileBanner11Name,Arcanum Necronicom -profiilibanneri
+GameUIProfileBanner11ShortName,Arcanum Necronicom -banneri
+GameUIProfileBanner11Description,Bannerivoittaja: _Concilliabule_
+GameUIProfileBanner12Name,Pörinäkaveri-profiilibanneri
+GameUIProfileBanner12ShortName,Pörinäkaveri-banneri
+GameUIProfileBanner12Description,Nämä mehiläiset pörisevät puissa tehdäkseen hunajaa vain minua varten. Rajoitetun ajan keräilijänimike!
+FilterAll,Kaikki
+FilterHeroPlacementUpgrades,Aseta tehoste
+FilterHeroPets,Lemmikit
+FilterTowerPlacementUpgrades,Päivitä tehoste
+FilterTowerPets,Lemmikit
+FilterProjectiles,Ammukset
+FilterFlags,Liput
+FilterPopFX,Poksautustehoste
+FilterAllBloonSkins,Kaikki bloonien ulkoasut
+FilterRegularSkins,Bloonien ulkoasut
+FilterMoabSkins,MOAB-ulkoasu
+FilterStandardEmotes,Perusemotet
+FilterTextEmotes,Tekstiemote
+FilterSoundEmotes,Ääniemotet
+FilterFullScreenEmotes,Kokoruudun emotet
+FilterMusicTracks,Musiikkiraidat
+FilterAvatars,Avatarit
+FilterPowerSkins,Voimaulkoasut
+FilterProfileBanners,Profiilibannerit
+FilterMisc,Sekalaiset
+Blast Chain Ability,Räjähdeketju
+Blast Chain Ability Description,Merimiinat räjähtävät nopeammin hetken aikaa
+TowerSpecial,Apinaerikoisuus

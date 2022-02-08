@@ -727,7 +727,7 @@ Heavy Bombs Description,"Hochleistungsbomben, die 2 Schichten Bloons auf einmal 
 Missile Launcher Description,"Tauscht Bomben in Raketen ein, die schneller feuern, schneller fliegen und weiter reichen."
 Frag Bombs Description,"Explosionen schleudern scharfe Fragmente, die mehr Bloons und auch Schwarze Bloons platzen lassen können."
 Really Big Bombs Description,"Große Bomben richten in einem größeren Bereich Schaden an und ermöglichen Splitterbomben, mehr Bloons platzen zu lassen."
-MOAB Mauler Description,MOAB-Schläger richten bei Bloons der MOAB-Klasse weit mehr Schaden an.
+MOAB Mauler Description,MOAB-Schläger richten bei Bloons der MOAB-Klasse viel mehr Schaden an.
 Cluster Bombs Description,Wirft bei jedem Schuss Sekundärbomben statt scharfe Fragmente aus.
 Bloon Impact Description,"Die Explosionen sind so stark, dass getroffene Bloons für kurze Zeit betäubt werden. Die Reichweite ist erhöht und Splitterbomben sind noch effektiver,"
 MOAB Assassin Description,MOAB-Killer-Fähigkeit: Eine Spezialrakete fliegt los und verursacht bei Bloons der MOAB-Klasse schweren Schaden. Normale Angriffsreichweite und Schaden an Bloons der MOAB-Klasse sind auch erhöht.
@@ -798,14 +798,14 @@ Supply Drop Description,Versorgungs-Fähigkeit: Wirft eine Kiste voller Geld ab.
 Full Auto Rifle Description,Vollautomatische Waffe mit unglaublicher Platzkraft.
 Cripple MOAB Description,Angeschlagene MOABs sind länger bewegungsunfähig und erleiden Extraschaden durch alle anderen Angriffe.
 Elite Sniper Description,Nachschub-Abwurf bringt viel mehr Geld. Ergibt Elite-Zielprio und schnelleres Nachladen für alle Scharfschützen.
-Elite Defender Description,Ein verlorenes Leben verleiht diesem Scharfschützen beim Gegenschlag für kurze Zeit 4-fache Angriffsgeschwindigkeit.
+Elite Defender Description,"Ein verlorenes Leben verleiht diesem Scharfschützen beim Gegenschlag für kurze Zeit 4-fache Angriffsgeschwindigkeit. Und er greift schneller an, je weiter die Bloons auf der Strecke sind. Richtet auch bei Bloons der MOAB-Klasse mehr Schaden an."
 ,
 Longer Range Description,Erhöhte Angriffsreichweite.
 Barbed Darts Description,U-Boot-Pfeile können zusätzlich 3 Bloons platzen lassen.
 Twin Guns Description,Hinzugefügte Zwillingskanone verdoppelt das Angriffstempo. Verbessert ballistische Raketen und den Bloontonium-Reaktor.
 Advanced Intel Description,"Ermöglicht aus großer Entfernung das Zielen auf Bloons, die im Radius deiner anderen Türme sind."
 Heat-tipped Darts Description,Heißspitzenpfeile ermöglichen das Platzenlassen von Eis- und Blei-Bloons.
-Airburst Darts Description,Luftdetonationspfeile teilen sich beim Aufprall in 3 Pfeile und erhöhen so die Kraft zum Platzen lassen. Verbessert ballistische Raketen und den Bloontonium-Reaktor noch mehr.
+Airburst Darts Description,Luftdetonationspfeile teilen sich beim Aufprall in 3 Pfeile und erhöhen so die Kraft zum Platzen lassen. Verbessert den Bloontonium-Reaktor noch mehr.
 Submerge and Support Description,"Fügt Untertauch-Zieloption hinzu, die dauerhaft Tarn-Bloons in deren Radius zeigt, aber im Untertauchmodus nicht angreift."
 Ballistic Missile Description,Rakete sucht Ziel in Reichweite und fügt zusätzlichen MOAB- und Keramikschaden zu.
 Triple Guns Description,Fügt eine dritte Waffe für schnelleres Feuern hinzu.
@@ -897,7 +897,7 @@ Ray of Doom Description,Vernichtet eine ganze Reihe. Du kannst die meisten Bloon
 M.A.D Description,Moab Assured Destroyer. Langsam fliegende Mega-Raketen verursachen extremen Schaden bei Bloons der MOAB-Klasse.
 Bloon Exclusion Zone Description,Verbesserung auf 6 Läufe und massiv erhöhter Schaden. Den Bloons wird die Existenz geraubt.
 ,
-Guided Magic Description,Zauberschüsse finden die Bloons sogar hinter einer Deckung.
+Guided Magic Description,Zauberschüsse halten länger und finden die Bloons sogar hinter einer Deckung.
 Fireball Description,Beschwört alle paar Sekunden einen explosiven Feuerballzauber herauf.
 Intense Magic Description,Mächtigere Zauberschüsse bewegen sich schneller und können mehr Bloons platzen lassen.
 Arcane Blast Description,Größere und stärkere magische Explosionen lassen 2 Schichten Bloons platzen.
@@ -970,7 +970,7 @@ Heart of Vengeance Description,"Erhöht die Angriffsgeschwindigkeit um 10 % und 
 Druid of the Storm Description,Windböen pusten die Bloons von der Strecke und vom Ausgang weg.
 Druid of the Jungle Description,"Ruft eine Schlingpflanze aus dem Boden, die einen Bloon nach dem anderen fesselt und vernichtet und einen tödlichen Dornenhaufen hinterlässt."
 Druid of Wrath Description,"Gewinnt an Angriffsgeschwindigkeit während der Runde, solange der Druide Bloons angreift."
-Ball Lightning Description,"Erzeugt mächtige Blitzkugeln, die weitere Blitzschläge aussenden.  "
+Ball Lightning Description,"Erzeugt mächtige Blitzkugeln, die weitere Blitzschläge aussenden und Bloons einfrieren können."
 Jungle's Bounty Description,"Dschungelbeute-Fähigkeit: Erzeugt bei jedem Einsatz Geld, plus Extrageld pro Bananenfarm in der Nähe des Druiden. Kann auch zwei Bloons gleichzeitig mit Schlingpflanzen packen."
 Poplust Description,Verbessert Angriffsgeschwindigkeit und Durchschlagskraft für andere Druiden im Umkreis. Kann bis zu 5-mal auf einem einzelnen Druiden angehäuft werden.
 Superstorm Description,Supersturm fügt allen Bloon-Arten schweren Schaden zu und bläst sie vom Ausgang weg.
@@ -1800,7 +1800,7 @@ AviationGradeGlueDescription,MOAB-Kleber verlangsamt stärker als üblich.
 CheaperSolution,Billiglösung
 CheaperSolutionDescription,Bloon-Verdünner-Kosten um 1.000 reduziert.
 BonusMonkey,Bonus-Affe!
-BonusMonkeyDescription,Beginne jedes Spiel mit einem kostenlosen Wurfpfeilaffen!
+BonusMonkeyDescription,Beginne jedes Spiel mit einem kostenlosen Wurfpfeilaffen! (nur 1 kostenloser Affenturm pro Spiel)
 MoreCash,Mehr Geld
 MoreCashDescription,Erhöhe dein Startkapital um 200.
 ,
@@ -1950,7 +1950,7 @@ HotMagicDescription,Alle Magietürme können Eis-Bloons platzen lassen.
 ArcaneImpale,Arkanpfahl
 ArcaneImpaleDescription,Schüsse mit Arkannägeln verursachen Extraschaden bei Bloons der MOAB-Klasse und bei Keramik-Bloons.
 ColdFront,Kalte Front
-ColdFrontDescription,Treffer mit dem Kugelblitz frieren Bloons nach dem Verursachen von Schaden möglicherweise ein.
+ColdFrontDescription,Treffer mit dem Kugelblitz frieren Bloons nach dem Verursachen von Schaden ein.
 FlameJet,Feuerstrahl
 FlameJetDescription,Drachenatem-Feuerprojektile bewegen sich viel schneller.
 StrikeDownTheFalse,Nieder mit den Falschen
@@ -2626,7 +2626,7 @@ SentryCold,Kaltwachposten
 SentryEnergy,Energiewachtposten
 SentryParagon,Champion-Wachposten
 EditorNumberOfPlayers,Spielerzahl
-EditorCoopAreaDivision,Coop Area Division
+EditorCoopAreaDivision,Geteilte Karte
 InvalidTarget,Ungültiges Ziel
 Adora,Adora
 Adora Short Description,Hohe Priesterin
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,"[I], um Dunkelsprung in Reichweite zu machen"
 DarkChampionDarkshift,"[I], um Dunkelsprung zu einem gültigen Ort zu machen"
 SmallTowersMode,Kleine Affentürme
 BigTowersMode,Große Affentürme
-UpdatePopupTitle,Update 29!
-UpdatePopupDescription,"Großes Feiertagsupdate!\n• Beherrsche alle Weltmeere mit dem neusten Affen-Vorbild: Navarch der Meere!\n• Halte diese randalierenden Bloons auf der neuen Karte für Zwischenstüfler auf: Ruhige Straße!\n• Schnappe dir die neue Ezili-Skin: Galaxili!\n• Die Co-Op-Lobby-Erstellung wurde überarbeitet, damit du noch schneller ins Spiel gelangst!\n• 17 neue Artikel im Trophäen-Laden, plus 6 neue Artikel für eine begrenzte Zeit – hol sie dir schnell!\n• Neue Erfolge, Änderungen bei der Lebensqualität, Ausbalancierungen und Fehlerkorrekturen – viele tolle Änderungen, deren Einzelheiten du in den Update-Hinweisen findest.\nWir alle von Ninja Kiwi wünschen euch schöne Feiertage und ein frohes neues Jahr!"
+UpdatePopupTitle,Update 30!
+UpdatePopupDescription,"Neues Inhaltsupdate!\n• Kämpfe dich durch die neue Fortgeschrittenen-Karte: Versunkene Säulen\n• Mach Lärm mit der neuen Psi-Skin: Psimbeln!\n• Koop-Geteilte-Karten-Update: 2 brandneue geteilte Karten wurden hinzugefügt und alle sind wählbar, wenn ein Koop-Spiel eingerichtet wird.\n• 16 neue Artikel im Trophäen-Laden, darunter 4 neue zeitlich begrenzt verfügbare, hol sie dir schnell!\n• 4 neue Affenwissen zum Freischalten\n• Neue Erfolge, Änderungen an der Lebensqualität und Balance. Sieh dir alle Einzelheiten in den Update-Hinweisen an."
 ResetDailyChest,Tägliche Truhe zurücksetzen
 JukeboxName,Musikbox
 EnableFunction,Aktivieren
@@ -2853,8 +2853,8 @@ AdmiralBrickell Level 3 Description,Flottentaktik: erhöht für kurze Zeit enorm
 AdmiralBrickell Level 4 Description,Mehr Kraft zum Platzenlassen für Seeminen.
 AdmiralBrickell Level 5 Description,"Flottentaktik erhöht die Kraft zum Platzenlassen und ermöglicht betroffenen Affen, alle Bloon-Typen zu treffen, außer Tarn-Bloons."
 AdmiralBrickell Level 6 Description,Erhöht den Schaden von Seeminen und Pistolenangriffen.
-AdmiralBrickell Level 7 Description,Erhöhte Angriffsreichweite und Enttarnungsfähigkeit.
-AdmiralBrickell Level 8 Description,"Flottentaktik ermöglicht betroffenen Affen, Tarn-Bloons zu treffen."
+AdmiralBrickell Level 7 Description,Brickell erhält erhöhte Angriffsreichweite und Enttarnungsfähigkeit.
+AdmiralBrickell Level 8 Description,"Flottentaktik ermöglicht betroffenen Affen, Tarn-Bloons zu treffen. Wassertürme im Radius erhalten zusätzliche Durchschlagskraft. "
 AdmiralBrickell Level 9 Description,Seeminen richten Extraschaden an.
 AdmiralBrickell Level 10 Description,"Mega-Mine: setzt in jedem Wasserbereich eine  vernichtende Mine ein, die bei MOABs auslöst und Bloons in der Nähe betäubt. Mega-Minen halten 3 Runden lang."
 AdmiralBrickell Level 11 Description,Schnellere Einsatzgeschwindigkeit und höhere Einsatzrate für Seeminen.
@@ -3673,7 +3673,7 @@ YouFinished,Du hast erreicht:
 BestTime,Bestzeit:
 Claim,Einfordern
 PlayerRejoinedGame, nimmt nun wieder am Spiel teil
-PlayerKickedFromGame,{0} wurde aus dem Spiel entfernt
+PlayerKickedFromGame, wurde aus dem Spiel entfernt
 ConfirmKickPlayer,Möchtest du wirklich {0} aus dem Spiel entfernen?
 Remove,Entfernen
 MiniRacesFirstTimeTitle,Mini-Rennen!
@@ -3789,10 +3789,10 @@ GameUIProfileAvatar41Name,Eigener Avatar – Blendgranatenninja
 GameUIProfileAvatar41ShortName,Blendgranaten-Avatar
 GameUIProfileAvatar41Description,Avatar-Sieger by _Concilliabule_
 GameUIProfileAvatar42Name,Eigener Avatar – Corporate Patch
-GameUIProfileAvatar42ShortName,Corporate Patch
+GameUIProfileAvatar42ShortName,Corporate Patch Avatar
 GameUIProfileAvatar42Description,Patch hat die Karriereleiter des Affenreichs in aller Stille erklommen.
 GameUIProfileAvatar43Name,Eigener Avatar – Feuerwerksbombenschießer
-GameUIProfileAvatar43ShortName,Feuerwerksbombenschießer
+GameUIProfileAvatar43ShortName,Feuerwerksbombenschießer-Avatar
 GameUIProfileAvatar43Description,"Gibt es einen besseren Weg, diese Raketen abzufeuern? Sammlerobjekt nur für begrenzte Zeit erhältlich!"
 GameUIPowerSkinMonkeyBoostFireworksName,Maßgeschneiderte Kraft – Feuerwerksaffen-Boost
 GameUIPowerSkinMonkeyBoostFireworksShortName,Feuerwerksaffen-Boost
@@ -3905,7 +3905,7 @@ GameUIProfileBanner5Description,Kraft und Gefahr wurden in diesem durch U-Boote 
 Paragon Title,Upgrade auf Paragon
 Paragon Body,Diese Aktion erschafft einen Paragon {0}. Alle anderen {1} werden im Rahmen dieses Vorgangs zerstört und fließen in die Kraft des Paragons ein!
 ft_paragontitle,Paragon-Upgrade ermöglicht!
-ft_paragondescription,"Upgrade einen deiner Rang-5-Affen auf Paragon! Paragons absorbieren alle Affen ihres Typs, einschließlich der Rang-5-Affen der beiden anderen Strecken.\n\nDer Rang des Paragon wird davon beeinflusst, wie viel Kraft im Moment des Upgrades absorbiert wird."
+ft_paragondescription,"Upgrade einen deiner Rang-5-Affen auf Paragon! Paragons absorbieren alle Affen ihres Typs, einschließlich der Rang-5-Affen der beiden anderen Strecken.\n\nDer Rang des Paragon wird davon beeinflusst, wie viel Kraft im Moment des Upgrades absorbiert wird. Nicht in Sandkiste verfügbar."
 ParagonDegreeText,Paragon-Grad
 DartMonkeys,Wurfpfeilaffen
 BoomerangMonkeys,Bumerangaffen
@@ -4224,7 +4224,107 @@ CalloutWellRounded,Vielseitig
 CalloutWellRoundedDesc,{0} von jeder der 4 Turmarten
 CalloutEndlessPower,Endlose Kraft!
 CalloutEndlessPowerDesc,Grad-{0}-Vorbild erschaffen
-AnyGame,Irgendein Spiel
-AnyMap,Beliebige Karte
+AnyGame,Jedes Spiel
+AnyMap,Jede Karte
 AnyDifficulty,Jede Schwierigkeit
-AnyMode,Beliebiger Modus
+AnyMode,Jeder Modus
+DataConsentTitle,Datentransfer aktivieren
+DataConsentBody,"Hallo! Wir von Ninja Kiwi müssen deine Gameplay-Information, einschließlich IP-Adresse, GameCenter-Namen und Gameplay-Fortschritt verwenden, damit du Odysseen, Rennen, Bosses, Co-op und andere Events spielen kannst. (Diese Events funktionieren nicht ohne "
+DataConsentAccepted,Dankeschön! Viel Spaß beim Spielen dieser Events
+DataConsentRejected,"Kein Problem. Wir werden deine Gameplay-Information nicht verwenden. Aus diesem Grund werden Odysseen, Rennen, Bosses, Co-op und Content-Browser deaktiviert. Du kannst immer noch als Einzelspieler spielen. Diese Einstellung kannst du in dem Menü ""Einstell"
+DataConsentCurrent,Datentransfer: {0}
+DataConsentEnabled,Aktiviert
+DataConsentDisabled,Deaktiviert
+DataConsentReview,Feedback geben
+DataConsentYes,Ja
+DataConsentNo,Nein
+BionicAugmentation,Bionische Verstärkung
+BionicAugmentationDescription,"Während Turboladung aktiv ist, kann Bionik-Bumerang auch auf Tarn-Bloons zielen."
+XrayUltra,Ultra-Röntgenblick
+XrayUltraDescription,Ultrasicht ermöglicht Superaffen durch blockierende Objekte zu sehen und zu feuern.
+BonusGlueGunner,Bonus-Klebstoffschütze
+BonusGlueGunnerDescription,Beginne jedes Spiel mit einem kostenlosen Klebstoffschützen! (nur 1 kostenloser Affenturm pro Spiel)
+Achievement 139 Name,Klebrige Sache
+Achievement 139 Description,Verklebe 500.000 Bloons
+Achievement 140 Name,Spendierhosen
+Achievement 140 Description,Gib in einer Runde 1.000.000 Geld aus
+Achievement 141 Name,Der tägliche Reid
+Achievement 141 Description,Gewinne 365 einzigartige tägliche Herausforderungen
+Achievement 142 Name,Ich komm wieder
+Achievement 142 Description,Gib 1.000 Affengeld für Fortsetzungen oder Checkpoints aus
+PetSounds,Tiergeräusche
+UserID,User-ID
+SunkenColumns,Versunkene Säulen
+PsimbalsPsiSkinName,Psimbeln
+PsimbalsPsiSkinDescription,"Bist du bereit, eine Show abzuziehen?!"
+HeroesStrikerJonesPetGermanShepherdName,Striker Jones Deutscher Schäferhund-Haustier
+HeroesStrikerJonesPetGermanShepherdShortName,Striker Welpe-Haustier
+HeroesStrikerJonesPetGermanShepherdDescription,"Natürlich hat Striker einen Deutschen Schäferhund! Der Bursche muss robust sein, um mit Strikers Spielsachen Spaß zu haben. Nur für Original Striker Jones"
+HeroesETnPlacementBeamDownName,ET-n Abwärtsstrahl Ort & Upgrade
+HeroesETnPlacementBeamDownShortName,ET-n Abwärtsstrahl
+HeroesETnPlacementBeamDownDescription,"Kein Anruf nach Hause oder hier raufstrahlen, ET-n findet, Teleporter eignen sich besser, um sich ins Getümmel zu stürzen oder um Upgrades ein unverkennbares Flair zu geben. Nur für ET-n"
+TowerPetHeliPilotHummingbirdName,Hubschrauberpilot Kolibri-Haustier
+TowerPetHeliPilotHummingbirdShortName,Hubschrauberpilot Kolibri-Haustier
+TowerPetHeliPilotHummingbirdDescription,"Der Hubschrauberpilot hat einige verrückte Schwebemanöver drauf, aber dieses wunderschöne Kolibri-Haustier zeigt, dass es noch viel besser geht."
+TowerProjectileWizardZombiesName,Zauberer-Nekromant Zombie-Bloons
+TowerProjectileWizardZombiesShortName,Zauberer-Nekro-Bloons
+TowerProjectileWizardZombiesDescription,"Bring deine Toten ins Spiel! Diese Nekromanten-Bloons und Bloons der MOAB-Klasse haben Spaß daran, eindringende Bloons im Nu mausetot zu machen."
+BloonsAllBloonsDaisyChainName,Gänseblümchenketten-Bloons
+BloonsAllBloonsDaisyChainShortName,Gänseblümchenketten-Bloons
+BloonsAllBloonsDaisyChainDescription,"Ringel, Ringel, Rosen, gelbe Aprikosen! Begrüße den Frühling mit diesem Bumenkränzchen auf allen normal Bloons. Sammlerobjekt nur für begrenzte Zeit erhältlich! "
+BloonsBADSkinWhaleName,BAD-Wal
+BloonsBADSkinWhaleShortName,BAD-Wal
+BloonsBADSkinWhaleDescription,"Wir glauben immer, alle Wale sind gute Wale, aber diese knuffig aussehende magentafarbene Bestie ist ganz sicher keiner der Guten, er ist BAD."
+CoopEmoteAnimationObynPeaceName,Obyn Frieden-Emoji
+CoopEmoteAnimationObynPeaceShortName,Obyn Frieden-Emoji
+CoopEmoteAnimationObynPeaceDescription,"Du hast die Wahl – biete einen Zen-Gruß, bring andere dazu, sich mit Spieler 3 zurückzuhalten oder entschuldige dich für den Quatsch deiner Aktivierten. Obyn Frieden ist die Antwort. Sammlerobjekt nur für begrenzte Zeit erhältlich! "
+CoopEmoteAnimationThinkingMonkeyName,Denkender Affe Emoji
+CoopEmoteAnimationThinkingMonkeyShortName,Denkender Affe
+CoopEmoteAnimationThinkingMonkeyDescription,"Ein denkender Affe ist ein guter Affe. Funktioniert, wenn du gerade denkst oder wenn du dich fragst, was zum Teufel wieder andere denken."
+GameUIProfileAvatar56Name,Frühlingsblumen-Druide-Avatar
+GameUIProfileAvatar56ShortName,Frühlings-Druide-Avatar
+GameUIProfileAvatar56Description,"Beschwöre die Magie des Frühlings zu jeder Jahreszeit mit diesem schönen, beschaulichen Druiden-Avatar. Sammlerobjekt nur für begrenzte Zeit erhältlich! "
+GameUIProfileAvatar57Name,U-Boot-Forscheraffe-Avatar
+GameUIProfileAvatar57ShortName,U-Boot-Forscher-Avatar
+GameUIProfileAvatar57Description,Es gibt keinen besseren Blick in einem U-Boot als mit einem gegen das Glas gepressten Gesicht. Schenk dem U-Boot etwas Besonderes mit diesem Avatar mit großen Augen.
+GameUIProfileAvatar58Name,Fusty der Schneemann Eiscreme-Avatar
+GameUIProfileAvatar58ShortName,Fusty Eiscreme-Avatar
+GameUIProfileAvatar58Description,"Ich schreie, du schreist, Pat Frosty liebt sein Eis. Eindeutig einer der besten Avatare für jene unter uns, die die feinen Dinge im Leben schätzen."
+GameUIPowerSkinRoadSpikesFlowerPatchName,Besondere Energie -  Blumenteppich-Nagelsperren
+GameUIPowerSkinRoadSpikesFlowerPatchShortName,Blumenteppich-Nagelsperren
+GameUIPowerSkinRoadSpikesFlowerPatchDescription,"Wer sagt, dass Nagelsperren wie riesige Haftklammern aussehen müssen? Wer diese Blumen pflückt, lernt ihre Dornen kennen!"
+GameUIPowerSkinMonkeyBoostSugarRushName,"Wer sagt, dass Nagelsperren wie riesige Haftklammern aussehen müssen? Wer diese Blumen pflückt, lernt ihre Dornen kennen!"
+GameUIPowerSkinMonkeyBoostSugarRushShortName,Zuckerschock-Booster
+GameUIPowerSkinMonkeyBoostSugarRushDescription,"Menschen: wir wissen alle, wie grandios wir unter dem Einfluss von riesigen Zuckermengen reagieren. Affen: kein bisschen anders."
+GameUIProfileBanner10Name,Doodle-Brillanz-Profilbanner
+GameUIProfileBanner10ShortName,Doodle-Brillanz-Banner
+GameUIProfileBanner10Description,Banner Gewinner von bonbonni
+GameUIProfileBanner11Name,Arkanum Nekronikom-Profilbanner
+GameUIProfileBanner11ShortName,Arkanum Nekronikom-Banner
+GameUIProfileBanner11Description,Banner Gewinner von _Concilliabule_
+GameUIProfileBanner12Name,So angeheitert-Profilbanner
+GameUIProfileBanner12ShortName,So angeheitert-Banner
+GameUIProfileBanner12Description,Die Bienen summen in den Büschen und machen fleißig Honig für mich. Sammlerobjekt nur für begrenzte Zeit erhältlich! 
+FilterAll,Alle
+FilterHeroPlacementUpgrades,Platzierung FX
+FilterHeroPets,Haustiere
+FilterTowerPlacementUpgrades,Upgrade FX
+FilterTowerPets,Haustiere
+FilterProjectiles,Projektile
+FilterFlags,Flaggen
+FilterPopFX,Pop FX
+FilterAllBloonSkins,Alle Bloon-Skins
+FilterRegularSkins,Bloon-Skins
+FilterMoabSkins,MOAB-Skins
+FilterStandardEmotes,Standard Emoji
+FilterTextEmotes,Text Emoji
+FilterSoundEmotes,Sound Emoji
+FilterFullScreenEmotes,Vollbild Emoji
+FilterMusicTracks,Musiktitel
+FilterAvatars,Avatare
+FilterPowerSkins,Kräfte-Skins
+FilterProfileBanners,Profilbanner
+FilterMisc,Versch.
+Blast Chain Ability,Explosionskette
+Blast Chain Ability Description,Seeminen feuern für kurze Zeit schneller
+TowerSpecial,Affenspezial
