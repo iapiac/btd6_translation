@@ -1,4 +1,4 @@
-﻿//Input. Needs to be first e.g [I] replaced by click or tap,
+//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Klicken
 Tap,Tippen
 ,
@@ -99,7 +99,7 @@ Quincy Level 13 Description,Geringe Erhöhung der Reichweite.
 Quincy Level 14 Description,Die Pfeile verursachen vierfachen Schaden bei Bloons der MOAB-Klasse.
 Quincy Level 15 Description,"Schnellschuss verfügt über die vierfache Angriffsgeschwindigkeit, die Abkühlphase ist verkürzt."
 Quincy Level 16 Description,Noch mehr erhöhte Angriffsgeschwindigkeit
-Quincy Level 17 Description,Pfeile halten 25 % länger.
+Quincy Level 17 Description,Pfeile halten 25 % länger. Feuert explodierende Pfeile bei jedem zweiten Schuss.
 Quincy Level 18 Description,Quincy greift schneller an und Pfeilsturm hat eine verkürzte Abkühlphase und 50 % mehr Pfeile.
 Quincy Level 19 Description,Jeder Pfeil verfügt über noch mehr Kraft zum Platzen lassen.
 Quincy Level 20 Description,Quincy greift noch schneller an. Pfeilsturm teilt noch mehr Schaden pro Pfeil aus und feuert noch mehr Pfeile ab.
@@ -161,7 +161,7 @@ Gwendolin Level 12 Description,Erhöhte Angriffsgeschwindigkeit.
 Gwendolin Level 13 Description,Stark erhöhte Kraft zum Platzenlassen und Projektile bewegen sich schneller und halten länger.
 Gwendolin Level 14 Description,Feuercocktail verursacht Extraschaden und setzt Bloons der MOAB-Klasse in Brand.
 Gwendolin Level 15 Description,Erhöhte Angriffsgeschwindigkeit.
-Gwendolin Level 16 Description,Feuersturm ist von längerer Dauer. Violette Bloons sind nicht mehr gegen Gwendolins Angriffe immun.
+Gwendolin Level 16 Description,Feuersturm ist von längerer Dauer und richtet mehr Schaden an. Violette Bloons sind nicht mehr gegen Gwendolins Angriffe immun.
 Gwendolin Level 17 Description,"Es ist angeheizt verstärkt alle betroffenen Affen und ermöglicht ihnen, 1 Extraschicht platzen zu lassen und Blei-Bloons +2 Schaden zuzufügen."
 Gwendolin Level 18 Description,Erhöhte Angriffsgeschwindigkeit.
 Gwendolin Level 19 Description,Verschießt 3 Feuerstöße pro Schuss.
@@ -836,7 +836,7 @@ Rapid Fire Description,Schießt schneller als normal.
 Exploding Pineapple Description,"Wirft Ananas auf den Boden, die nach einigen Sekunden gewaltig explodieren. Die explosiven Angriffe des Affenasses sind verbessert."
 Sharper Darts Description,Pfeile können jeweils 8 Bloons platzen lassen.
 Lots More Darts Description,Verschießt gleichzeitig 12 Pfeile.
-Spy Plane Description,"Ermöglicht es dem Affenfliegerass, Tarn-Bloons zu treffen."
+Spy Plane Description,"Ermöglicht es dem Affenfliegerass, Tarn-Bloons zu treffen und ihnen mehr Schaden zuzufügen."
 Centered Path Description,Neue zentrale Flugschneise für maximale Kartendeckung
 Fighter Plane Description,Fliegt schnell und startet Anti-MOAB-Raketen.
 Bomber Ace Description,"Wirft Bomben ab, wenn es die Strecke mit den Bloons überquert."
@@ -873,7 +873,7 @@ Burny Stuff Description,Beschädigte Bloons werden mit jedem Treffer sofort in B
 Shockwave Description,"Explosionsschockwelle, die Bloons am Einschlagrost betäubt, Bloons in einem weiteren Bereich platzen lässt und den Schaden durch Heißes Zeug erhöht."
 Heavy Shells Description,Schwere Granaten verursachen Extraschaden bei Keramik-Bloons und Wehrbloons. Kann außerdem Schwarze Bloons platzen lassen.
 Signal Flare Description,"Tarn-Bloons, die von Leuchtgeschossen zum Platzen gebracht wurden, verlieren dauerhaft ihre Tarnung."
-The Big One Description,"Vernichtende Explosionen lassen jeweils 5 Bloonschichten platzen, plus noch mehr erhöhter Schaden durch Heißes Zeug."
+The Big One Description,"Vernichtende Explosionen lassen jeweils 7 Bloonschichten platzen, plus noch mehr erhöhter Schaden durch Heißes Zeug."
 Artillery Battery Description,Bombardierungsfähigkeit: Löst einen Schnellfeuerangriff in einem etwas breiteren Bereich aus. Hauptangriff erhält ein Upgrade auf 3 Läufe für unglaublich schnelle Angriffe.
 Shattering Shells Description,"Schmetter-Granaten vernichten alle Bloon-Spezialeigenschaften, mit Ausnahme der größten Bloons."
 The Biggest One Description,"Explosion zerfetzt Bloons und Schichten in einem riesigen Bereich, plus mächtiger Schaden durch Heißes Zeug."
@@ -2154,7 +2154,7 @@ Knowledge unlock tip,Ab Stufe 30 verdienst du Affenwissenspunkte
 Daily challenges unlock at,Tägliche Herausforderungen und Events sind ab Stufe {0} freigeschaltet
 ,
 ,
-FriendLiNKLoginRequiredBody,"Konto erforderlich, um die Punkte deiner Facebook-Freunde zu sehen."
+FriendLiNKLoginRequiredBody,"Konto erforderlich, um die Punkte deiner Freunde zu sehen."
 FriendLiNKLoginRequiredTitle,Anmelden?
 FriendLiNKLoginFailed,Konnte sich bei Facebook nicht anmelden. Prüfe bitte deine Internetverbindung und Anmeldedaten.
 Do It,Los
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,"[I], um Dunkelsprung in Reichweite zu machen"
 DarkChampionDarkshift,"[I], um Dunkelsprung zu einem gültigen Ort zu machen"
 SmallTowersMode,Kleine Affentürme
 BigTowersMode,Große Affentürme
-UpdatePopupTitle,Update 30!
-UpdatePopupDescription,"Neues Inhaltsupdate!\n• Kämpfe dich durch die neue Fortgeschrittenen-Karte: Versunkene Säulen\n• Mach Lärm mit der neuen Psi-Skin: Psimbeln!\n• Koop-Geteilte-Karten-Update: 2 brandneue geteilte Karten wurden hinzugefügt und alle sind wählbar, wenn ein Koop-Spiel eingerichtet wird.\n• 16 neue Artikel im Trophäen-Laden, darunter 4 neue zeitlich begrenzt verfügbare, hol sie dir schnell!\n• 4 neue Affenwissen zum Freischalten\n• Neue Erfolge, Änderungen an der Lebensqualität und Balance. Sieh dir alle Einzelheiten in den Update-Hinweisen an."
+UpdatePopupTitle,Update 31!
+UpdatePopupDescription,"Neues Inhaltsupdate!\n• Neuer Held! Geraldo der geheimnisvolle Händler ist angekommen, mit seiner unglaublichen Auswahl an Bloon platzen lassenden Artikeln!\n • Neuer Boss! Vortex, der tödliche Meister der Luftwirbel ist geboren!\n• Genieße es, die Bloons auf der neuen Anfängerkarte: Schrottplatz einzustampfen\n• 9 neue Artikel im Trophäen-Laden, darunter ein neuer Remix\n• Herausforderungs-Browser: die besonderen Bedingungen für den Sieg „Mindestgeld“ und „Mindeststufen“ wurden den Rätsel-Herausforderungen hinzugefügt, damit du noch mehr Spaß daran hast. \n• Das Helden-Menü ist neu und verbessert, dazu viele Änderungen an der Lebensqualität und Balance. Sieh dir alle Einzelheiten in den Update-Hinweisen an!"
 ResetDailyChest,Tägliche Truhe zurücksetzen
 JukeboxName,Musikbox
 EnableFunction,Aktivieren
@@ -3063,7 +3063,7 @@ Drone Swarm Ability Description,"Etienne startet vorübergehend 4 weitere Drohne
 UCAV Ability,UCAV
 UCAV Ability Description,Überwachungsdrohne  mit hoher Flughöhe wird für kurze Zeit zur vernichtenden Kampfdrohne .
 Mesa,Mesa
-DreadPirateBrickellAdmiralBrickellSkinName,Dread Pirate Brickell
+DreadPirateBrickellAdmiralBrickellSkinName,Dread Pirate Brickell-Skin
 DreadPirateBrickellAdmiralBrickellSkinDescription,Die Königin der sieben Meere sticht wieder in See!
 No Insta Reward,Keine Belohnung bei Runde 100
 GameUIProfileAvatar19Name,Individueller Avatar – Adora Schlafgesicht
@@ -3645,7 +3645,7 @@ GameUIPowerSkinLavaLakeName,Eigene Kraft – Tragbarer Lavasee
 GameUIPowerSkinLavaLakeShortName,Tragbarer Lavasee
 GameUIPowerSkinLavaLakeDescription,Hier wird es langsam heiß! Brenn deine Sorgen weg mit dieser supa-dupa-heißen Lava!
 Resort,Resort
-ETnEtienneSkinName,ETn
+ETnEtienneSkinName,Etn-Skin
 ETnEtienneSkinDescription,Bring mich zu deinem Führer
 VeteranXP,Veteranen-XP
 GameUIMusicTrackMusicSailsAgain,Segelt wieder
@@ -4139,7 +4139,7 @@ GamecenterLoginPrompt,"Bitte melde dich im Game Center an, um darauf zuzugreifen
 GamecenterRestrictedTitle,Multiplayer-Zugang eingeschränkt
 GamecenterLoginTitle,Im Game Center anmelden
 QuietStreet,Ruhige Straße
-GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinName,Galaxili-Skin
 GalaxiliEziliSkinDescription,"Alles was wir sind, alles was wir sehen – besteht aus Sternenstaub!"
 MonkeyBuccaneer Paragon,Navarch der Meere
 MonkeyBuccaneer Paragon Description,"Das Tollste, das je über Wasser geglitten ist."
@@ -4255,7 +4255,7 @@ Achievement 142 Description,Gib 1.000 Affengeld für Fortsetzungen oder Checkpoi
 PetSounds,Tiergeräusche
 UserID,User-ID
 SunkenColumns,Versunkene Säulen
-PsimbalsPsiSkinName,Psimbeln
+PsimbalsPsiSkinName,Psimbeln-Skin
 PsimbalsPsiSkinDescription,"Bist du bereit, eine Show abzuziehen?!"
 HeroesStrikerJonesPetGermanShepherdName,Striker Jones Deutscher Schäferhund-Haustier
 HeroesStrikerJonesPetGermanShepherdShortName,Striker Welpe-Haustier
@@ -4298,7 +4298,7 @@ GameUIPowerSkinMonkeyBoostSugarRushShortName,Zuckerschock-Booster
 GameUIPowerSkinMonkeyBoostSugarRushDescription,"Menschen: wir wissen alle, wie grandios wir unter dem Einfluss von riesigen Zuckermengen reagieren. Affen: kein bisschen anders."
 GameUIProfileBanner10Name,Doodle-Brillanz-Profilbanner
 GameUIProfileBanner10ShortName,Doodle-Brillanz-Banner
-GameUIProfileBanner10Description,Banner Gewinner von bonbonni
+GameUIProfileBanner10Description,Banner Gewinner von chompypaw
 GameUIProfileBanner11Name,Arkanum Nekronikom-Profilbanner
 GameUIProfileBanner11ShortName,Arkanum Nekronikom-Banner
 GameUIProfileBanner11Description,Banner Gewinner von _Concilliabule_
@@ -4328,3 +4328,180 @@ FilterMisc,Versch.
 Blast Chain Ability,Explosionskette
 Blast Chain Ability Description,Seeminen feuern für kurze Zeit schneller
 TowerSpecial,Affenspezial
+Geraldo,Geraldo
+Geraldo Short Description,Geheimnisvoller Händler
+Geraldo Description,Geraldo der Händler verkauft eine Auswahl nützlicher Artikel und zappt Bloons mit seinem Blitzangriff.
+Geraldo Level 1 Description,"Verfügbare Artikel! Schießwütiger Turm, Haufen alter Nägel, Gruselidol, Gurkenglas. Geraldo hat auch einen magischen Nahdistanz-Angriff."
+Geraldo Level 2 Description,"Neuer Artikel! Seltene Quincy Actionfigur – wird wertvoller, je länger du sie besitzt!"
+Geraldo Level 3 Description,Neuer Artikel! Sichtbarkeitstrank – gewährt einem Affenturm oder einem Helden für kurze Zeit die Enttarnungsfähigkeit. Erhöht Geraldos Angriffsreichweite.
+Geraldo Level 4 Description,"Neuer Artikel! Genial-o-Kleb-Tube – kann auf der Strecke aufgebracht werden, um Bloons langsamer zu machen."
+Geraldo Level 5 Description,"Neuer Artikel! Wetzstein – erhöht die Durchschlagskraft eines Affenturms oder Helden, der Schärfe-Schaden einsetzt."
+Geraldo Level 6 Description,Neuer Artikel! Getragener Heldenumhang – verwandelt einen Pfeilaffen der Stufe 2 oder niedriger in einen Superaffen! Diese verwandelten Superaffen können nur bis Stufe 3 verbessert werden.
+Geraldo Level 7 Description,"Neuer Artikel! Klingenfalle – wenn ein sichtbarer Bloon die Falle berührt, bricht ein Klingensturm los. Geraldos Hauptangriff hat mehr Schaden und Durchschlagskraft."
+Geraldo Level 8 Description,"Neuer Artikel! Flasche 'Gerrys Feuer' – eine 2,8 Millionen Bloonville Einheiten scharfe Soße! Verleiht einem Affen, Helden oder Helfer 10 Runden lang feurige Angriffe."
+Geraldo Level 9 Description,"Neuer Artikel! Dünger – Empfänger-Bananenfarmen, die sichtbare Bananen erzeugen, steigern ihren Ertrag und erhalten über mehrere Runden einen Geldbonus. Geraldos Hauptangriff  hat einen vergrößerten Explosionsradius."
+Geraldo Level 10 Description,"Neuer Artikel! Häschen – ach, was für ein süßes Schnuffelwuffel-Häschen!"
+Geraldo Level 11 Description,"Neuer Artikel! Verjüngungstrank – setzt alle Abkühlphasen der Affentürme und Helden zurück, stellt 50 Leben wieder her. Erhöhte Durchschlagskraft von Geraldos Hauptangriff und Gurkenglas gewährt Extraschaden gegen Wehrbloons."
+Geraldo Level 12 Description,"Neuer Artikel! Genie-Flasche – ruft einen plasma-angetriebenen Genieaffen herbei, der 3 Runden lang anhält. Gruselidol kann jetzt vorbeifliegenden Bloons der MOAB-Klasse gelegentlich eine Kurzbetäubung verpassen."
+Geraldo Level 13 Description,"Schießwütiger Turm feuert schneller mit größerem Schaden, und der Haufen alter Nägel richtet mehr Schaden an."
+Geraldo Level 14 Description,Sichtbarkeitstrank gewährt mehr Reichweite und hält länger.
+Geraldo Level 15 Description,"Der Wetzstein macht jetzt größeren Schaden und dazu mehr Durchschlagskraft und die Klingenfalle erzeugt eine noch stärkere Wirkung, wenn sie ausgelöst wird."
+Geraldo Level 16 Description,"Der Haufen alter Nägel wird zu einer Nagelmine, das Gurkenglas gewährt einen zusätzlichen Schaden gegen Wehrbloons und Gerrys Feuer verursacht noch mehr Brandschaden."
+Geraldo Level 17 Description,Geraldos Hauptangriff richtet mehr Schaden an und Genial-o-Kleb hat nun auch eine kleine Wirkung bei Bloons der MOAB-Klasse.
+Geraldo Level 18 Description,"Genie erhält einen zweiten Nahkampf-Angriff und fügt Bloons der MOAB-Klasse Extraschaden zu und Gruselidol wendet bei Bloons der MOAB-Klasse ein geheimnisvolles Grabtuch an, das großen Schaden anrichtet in der Nähe, wenn sie platzen."
+Geraldo Level 19 Description,"Geraldos Hauptangriff ist schneller und hat eine größere Reichweite, und verursacht mehr Schaden und der Sichtbarkeitstrank gibt einen Bonusschaden gegen Tarn-Bloons."
+Geraldo Level 20 Description,Neuer Artikel! Paragon Kraft-Totem – fügt dem nächsten erzeugten Paragon Paragon-Kraft hinzu. Geraldos Hauptangriff richtet noch mehr Schaden an.
+Geraldo Shop shortname,Laden
+Geraldo Shop name,Geraldos Laden
+Shooty turret name,Schießwütiger Turm
+Shooty turret description,"Ein dauerhafter, handgefertigter Pfeilschuss-Turm"
+Stack of old nails name,Haufen alter Nägel
+Stack of old nails description,"Ja, es ist nur Haufen alter Nägel, aber auf der Strecke verteilt bringen sie streunende Bloons zum Platzen."
+Creepy idol name,Gruselidol
+Creepy idol description,"Stell dieses gruselig aussehende Idol an der Strecke auf, um allzu kecke Bloons zurückschrecken zu lassen."
+Jar of Pickles name,Gurkenglas
+Jar of Pickles description,"Verwende eine Gurke auf einem deiner Affentürme, damit er härter zuschlägt, aber für einige Zeit langsamer schießt."
+Rare Quincy action figure name,Seltene Quincy Actionfigur
+Rare Quincy action figure description,"Limitierte Ausgabe, perfekter Zustand, original Quincy, Sohn von Quincy Actionfigur! Ihr Wert kann sich nur noch steigern, kaufe sie also sofort!"
+See invisibility potion name,Sichtbarkeitstrank
+See invisibility potion description,"Egal, welchen Affen du mit diesem extrem wirksamen Elixier beglückst, er wird mit Leichtigkeit Tarn-Bloons erkennen! Die Wirkung verblasst mit der Zeit."
+Tube of amaz-o-glue name,Genial-o-Klebstofftube
+Tube of amaz-o-glue description,"Wirklich genial! Trage etwas von diesem Wunderklebstoff  irgendwo auf der Strecke auf und erlebe, wie der nächste Bloons-Haufen verlangsamt wird."
+Sharpening stone name,Wetzstein
+Sharpening stone description,"Schärfe deine Pfeile, mein Freund! Mit diesem Stein werden deine Pfeile und Klingen schärfer denn je."
+Worn heros cape name,Getragener Heldenumhang
+Worn heros cape description,"Alle Helden tragen Umhänge! Gib diesen einem deiner Pfeilaffen und staune über dessen Transformation! Zustand ist kaum gebraucht, nur kleinere Kratzer."
+Blade trap name,Klingenfalle
+Blade trap description,"Stell sie auf der Strecke auf und schau zu, wie die ersten Bloons, die sie berühren von den rotierenden Klingen zerfetzt werden!"
+Gerrys fire hot sauce name,Flasche mit 'Gerrys Feuer' Hot Sauce
+Gerrys fire hot sauce description,"2,8 Millionen Bloonville Einheiten. Wer immer von dieser Sauce kostet, speit eine Zeitlang Feuer!"
+Fertilizer name,Dünger
+Fertilizer description,Produziert deine Farm Bananen? Brauchst du mehr Bananen? Streu diesen besonders starken magischen Dünger direkt auf diese Farm und erhalte umgehend mehr Bananen!
+Pet rabbit name,Häschen
+Pet rabbit description,Manchmal braucht man einfach nur ein super süßes flauschiges Häschen! Oder mehrere!
+Rejuv potion name,Verjüngungstrank
+Rejuv potion description,"Gib einige Tropfen dieses leckeren Tranks auf eine beliebige Stelle und sieh zu, wie die Verjüngungskräfte verlorene Leben wiederherstellen und die Abkühlphasen der Fähigkeiten zurücksetzen."
+Genie bottle name,Genie-Flasche
+Genie bottle description,"Ruf einen Genie-Affen mit dieser genialen Flasche herbei, aber pass auf, es hält nicht ewig! (keine Wünsche im Preis enthalten)."
+Paragon power totem name,Paragon Kraft-Totem
+Paragon power totem description,Stärke die Kräfte deines nächsten Paragons mit diesem geheimnisvollen Artefakt…
+EventEndingSoonText,"Dieses Event endet bald, der Beitritt ist jetzt deaktiviert."
+EngineerMonkey Paragon,Meisterbauer
+EngineerMonkey Paragon Description,"Affen-Ingenieurwesen in Perfektion. Erschafft drei Mega-Wachtürme, die ihre eigenen Wachtürme bauen können."
+OptionsLogout,Abmelden
+ConfirmLogout,Abmelden bestätigen
+ConfirmLogoutDesc,"Möchtest du dich wirklich von deinem Konto abmelden? Bitte notiere dir deine Kontodetails und den Verlinkungscode, bevor du das tust.\n\n{0}"
+VortexTagLine,Vom Himmel herab kommt
+VortexTagLine2,der tödliche Meister der Luft
+Vortex,Vortex
+VortexInfoPanelDescription,"• Vortex bewegt sich blitzschnell und beschleunigt dabei die anderen Bloons !\n• Wenn jeder Schädel auf der Gesundheitsleiste erreicht ist, setzt Vortex einen Schild ein und sendet eine Schockwelle aus, die jeden Turm in der Nähe betäubt, bevor er sich au"
+Scrapyard,Schrottplatz
+BloonsAllBloonsCatEarName,Katzenohren-Bloons
+BloonsAllBloonsCatEarShortName,Katzenohren-Bloons
+BloonsAllBloonsCatEarDescription,"Bloons und Katzen vertragen sich nicht so besonders, aber in diesem Fall passt es einfach schnurrtastisch."
+BloonsAllBloonsDisguiseGlassesName,Tarnbrillen-Bloons
+BloonsAllBloonsDisguiseGlassesShortName,Tarnbrillen-Bloons
+BloonsAllBloonsDisguiseGlassesDescription,Nur ein Affe ließe sich von dieser Tarnung bluffen. Moment mal…
+CoopEmoteAnimationPatFlexName,Pat Flex-Emote
+CoopEmoteAnimationPatFlexShortName,Pat Flex
+CoopEmoteAnimationPatFlexDescription,"Muskeln und Hirn, was für eine Kombination! Pat-stark!"
+CoopEmoteAnimationMindBlownName,Verblüfft-Emote
+CoopEmoteAnimationMindBlownShortName,Verblüfft-Emote
+CoopEmoteAnimationMindBlownDescription,"Wenn dein Koop-Partner etwas schlichtweg Brillantes macht, gibt es nur dieses Emote!"
+GameUIProfileAvatar59Name,Superaffen-Avatar
+GameUIProfileAvatar59ShortName,Superaffen-Avatar
+GameUIProfileAvatar59Description,"In seinen Augen kannst du die Liebe sehen. Du musst nur entscheide, ob Supes dich oder sein Spiegelbild ansieht."
+GameUIProfileAvatar60Name,Striker Jones-Avatar
+GameUIProfileAvatar60ShortName,Striker Jones-Avatar
+GameUIProfileAvatar60Description,Striker Jones meldet sich zum Einsatz! Zeige deinen Siegeswillen mit Grüßen deines winkenden Lieblingsaffen.
+GameUIProfileBanner13Name,Ankunftsbanner
+GameUIProfileBanner13ShortName,Ankunftsprofilbanner
+GameUIProfileBanner13Description,Banner-Sieger by betapotata
+GameUIProfileBanner14Name,Unterwasser-Banner
+GameUIProfileBanner14ShortName,Unterwasserprofilbanner
+GameUIProfileBanner14Description,Banner-Sieger by Cyliia
+GameUIMusicTrackMusicSunshineFiestaMixName,Jukebox: Sonnenschein-Serenade - Fiesta Remix
+GameUIMusicTrackMusicSunshineFiestaMixShortName,Sonnenschein - Fiesta
+GameUIMusicTrackMusicSunshineFiestaMixDescription,Dreh voll auf und genieße diesen genialen Remix der Sonnenschein-Serenade.
+CantSubmitEventEnded,Dein Ergebnis konnte nicht übertragen werden. Das Event ist bereits zu Ende.
+CyberQuincySkinNameFull,Cyber Quincy
+ScientistGwendolinSkinNameFull,Wissenschaftlerin Gwendolin
+SentaiCaptainChurchillSkinNameFull,Sentai Churchill
+BikerBonesSkinNameFull,Biker Bones
+ObynOceanGuardianSkinNameFull,Meereswächter
+BenJamminSkinNameFull,Benjammin DJ
+SmudgeCattSkinNameFull,Smudge Catt
+FustyTheSnowmanSkinNameFull,Fusty der Schneemann
+WolfpackQuincySkinNameFull,Wolfsrudel Quincy
+JoanOfArcAdoraSkinNameFull,Jeanne d'Arc Adora
+HarlegwenGwendolinSkinNameFull,Harlegwen
+OctoJonesStrikerJonesSkinNameFull,Octojones
+DreadPirateBrickellAdmiralBrickellSkinNameFull,Dread Pirate Brickell
+ObynMountainGuardianSkinNameFull,Bergwächter
+SushiBentoBenjaminSkinNameFull,Sushi Bento
+ETnEtienneSkinNameFull,ETn
+VikingSaudaSaudaSkinNameFull,Wikinger Sauda
+GalaxiliEziliSkinNameFull,Galaxili
+PsimbalsPsiSkinNameFull,Psimbeln
+Least Cash,Mindestgeld:
+Least Tiers,Mindeststufe:
+Least Cash Used,Mindestgeld verwendet:
+Least Tiers Used,Mindeststufen verwendet:
+All Tiers Used,Alle Stufen verwendet
+All Cash Used,Alles Geld verwendet
+Tiers Used,Stufen verwendet
+Cash Used,Geld verwendet
+No Score Set,Keine Punkte festgelegt
+Auto,Automatisch
+FriendScreenFriends,Freunde
+FriendScreenRequests,Anfragen
+FriendScreenYourFriendCode,Dein Freundschaftscode:
+FriendScreenOnline,Online
+FriendScreenOffline,Offline
+FriendScreenAccept,Annehmen
+FriendScreenDecline,Ablehnen
+FriendScreenBlock,Blockieren
+FriendScreenFriendText,Deine Freunde werden hier angezeigt. Teile deinen Freundschaftscode mit Freunden und Familie.
+RequestDisabledText,Anfragen deaktiviert
+FriendScreenEnterCode,Freundschaftscode eingeben:
+FriendScreenAdd,Hinzufügen
+FriendScreenSureUnfriend,Möchtest du diesen Benutzer wirklich entfreunden?
+FriendScreenSureBlock,Möchtest du diesen Benutzer wirklich blockieren?
+SpecialConditions,Besondere Bedingungen
+FriendScreenRequestText,Anfragen werden hier angezeigt. Teile deinen Freundschaftscode mit Freunden und Familie.
+FriendScreenCodeHidden,Freundschaftscode verborgen
+RequestEnabledText,Anfragen aktiviert
+Least Cash No Colon,Mindestgeld
+Least Tiers No Colon,Mindeststufe
+SpecialConditionsColon,Besondere Bedingungen:
+GoalSetForCash,Zielvorgabe: {0} Geld
+GoalSetForTiers,Zielvorgabe: {0} Stufen
+ChallengeCashUsed,Du hast {0} / {1} Geld verwendet
+ChallengeTiersUsed,Du hast {0} / {1} Stufe(n) verwendet
+ShootyTurret,Schießwütiger Turm
+CreepyIdol,Gruselidol
+RareQuincyActionFigure,Seltene Quincy Actionfigur
+GenieBottle,Genie-Flasche
+ParagonPowerTotem,Paragon Kraft-Totem
+FriendScreenErrorRequestFailed,Freundschaftsanfrage fehlgeschlagen
+FriendScreenErrorInvalidCode,Ungültiger Freundescode
+FriendScreenErrorBlocked,Der Spieler, den du hinzufügen möchtest, blockiert Freundschaftsanfragen. Tut uns leid.
+FriendScreenErrorAlreadySent,Du hast diesem Spieler bereits eine Freundschaftsanfrage gesendet.
+FriendScreenErrorTooManyFriends,Du hast dein maximales Freundeslimit ereicht. Du kannst Platz schaffen, indem du einen vorhandenen Freund entfernst oder eine bereits gemachte Freundesanfrage stornierst.
+MapEditor,Karteneditor
+Jar of Pickles description level 11,Probieren Sie diese Essiggurken an einem Ihrer Affentürme aus und sie werden härter treffen, aber für eine Weile langsamer schießen. Jetzt mit erhöhtem Schaden an befestigten Bloons!
+Creepy idol description level 12,Platzieren Sie dieses gruselig aussehende Idol in der Nähe der Strecke, um einige Bloons (sogar MOABs!) Zurück zu erschrecken, wo sie herkamen.
+Shooty turret description level 13,Ein permanenter, handgefertigter Dart-Schießturm. aufgerüstet! Feuert schneller und verursacht mehr Schaden.
+Stack of old nails description level 13,Ja, es ist nur ein sehr großer Stapel alter Nägel, aber legen Sie sie irgendwo auf die Strecke und sie werden diese streunenden Bloons leicht zum Platzen bringen.
+See invisibility potion description level 14,Welchen Affen Sie auch immer mit diesem äußerst wirksamen Elixier beschenken, er wird Camo Bloons mit Leichtigkeit sehen können! Effekte lassen nach. Gibt jetzt mehr Reichweite und hält noch länger!
+Sharpening stone description level 15,Schärfe die Pfeile, Freund! Wenden Sie dies auf Ihre Pfeile und Klingen an und sie werden schärfer sein und mehr Schaden anrichten als je zuvor.
+Blade trap description level 15,Platzieren Sie dies auf der Strecke und beobachten Sie, wie die ersten Bloons, die es berühren, von den großen wirbelnden Klingen zerfetzt werden! Neueres leistungsstärkeres Modell!
+Stack of old nails description level 16,Ja, es ist nur eine RIESEN-NAGELMINE, aber platzieren Sie sie irgendwo auf der Strecke und sie wird diese streunenden Bloons leicht zum Platzen bringen.
+Jar of Pickles description level 16,Probieren Sie diese Essiggurken an einem Ihrer Affentürme aus und sie werden härter treffen, aber für eine Weile langsamer schießen. Jetzt mit NOCH MEHR erhöhtem Schaden an befestigten Bloons!
+Gerrys fire hot sauce description level 16,2,8 Millionen Bloonville-Einheiten. Wer diese besondere Sauce probiert, wird für eine Weile Feuer spucken! Jetzt mit extra Burny-ness.
+Tube of amaz-o-glue description level 17,Wirklich erstaunlich! Bringen Sie eine Tube dieses modernen Wunderwerks an einer beliebigen Stelle auf der Strecke an und beobachten Sie, wie die nächsten Bloons und sogar MOABs langsamer werden.
+Genie bottle description level 18,Beschwöre einen Dschinni-Affen aus dieser leuchtend blauen Flasche, aber pass auf, er hält nicht ewig! (Keine Wünsche im Kauf enthalten). Extra Angriff und mehr Schaden an MOABs jetzt inklusive.
+Creepy idol description level 18,Platzieren Sie dieses unheimlich aussehende Idol in der Nähe der Strecke, um einige Bloons dorthin zurückzuschrecken, wo sie hergekommen sind. Mystical Shroud-Upgrade freigeschaltet!
+See invisibility potion description level 19,Welchen Affen Sie auch immer mit diesem äußerst wirksamen Elixier beschenken, er wird in der Lage sein, Camo Bloons mit Leichtigkeit zu sehen und ihnen mehr Schaden zuzufügen! Effekte lassen nach.
+FriendScreenSureUnBlock,Möchten Sie diesen Benutzer wirklich entsperren?
+None,Keiner

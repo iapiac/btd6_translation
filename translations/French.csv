@@ -1,4 +1,4 @@
-﻿//Input. Needs to be first e.g [I] replaced by click or tap,
+//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Clique
 Tap,Appuie
 ,
@@ -99,7 +99,7 @@ Quincy Level 13 Description,Faible augmentation de portée.
 Quincy Level 14 Description,Les flèches infligent 4 fois plus de dégâts aux Bloons de classe MOAB.
 Quincy Level 15 Description,La décharge rapide reçoit une vitesse d'attaque 4 fois supérieure et le temps de recharge est raccourci.
 Quincy Level 16 Description,Vitesse d'attaque encore plus augmentée.
-Quincy Level 17 Description,Les flèches durent 25 % plus longtemps.
+Quincy Level 17 Description,Les flèches durent 25 % plus longtemps. Tire des flèches explosives tous les deux tirs.
 Quincy Level 18 Description,Les attaques de Quincy sont plus rapides et Tempête de flèches a un temps de recharge réduit et 50 % de flèches en plus.
 Quincy Level 19 Description,Chaque flèche détient encore davantage de puissance d'éclatement.
 Quincy Level 20 Description,Quincy attaque encore plus rapidement. Tempête de flèches inflige plus de dégâts par flèche et tire encore plus de flèches.
@@ -161,7 +161,7 @@ Gwendolin Level 12 Description,Vitesse d'attaque augmentée.
 Gwendolin Level 13 Description,Puissance d'éclatement considérablement augmentée et les projectiles se déplacent plus rapidement et durent plus longtemps.
 Gwendolin Level 14 Description,Cocktail de flammes inflige plus de dégâts et embrase les Bloons de classe MOAB.
 Gwendolin Level 15 Description,Vitesse d'attaque augmentée.
-Gwendolin Level 16 Description,Durée augmentée de la tempête de feu. Les Bloons violets ne sont plus immunisés contre les attaques de Gwendolin.
+Gwendolin Level 16 Description,Tempête de feu dure plus longtemps et inflige plus de dégâts. Les Bloons violets ne sont plus immunisés contre les attaques de Gwendolin.
 Gwendolin Level 17 Description,Allumer le feu permet aux singes affectés de faire éclater une couche de plus et d'infliger +2 dégâts aux Bloons en plomb.
 Gwendolin Level 18 Description,Vitesse d'attaque augmentée.
 Gwendolin Level 19 Description,Tire 3 explosions de flammes par tir.
@@ -836,7 +836,7 @@ Rapid Fire Description,Tire plus vite que d'habitude.
 Exploding Pineapple Description,Largue au sol des ananas qui causent une violente explosion au bout de quelques secondes. Les attaques explosives des pilotes d'élite sont améliorées.
 Sharper Darts Description,Les fléchettes peuvent faire éclater 8 Bloons chacune.
 Lots More Darts Description,Tire 12 fléchettes à la fois.
-Spy Plane Description,Permet au singe pilote d’élite de toucher les Bloons camouflés.
+Spy Plane Description,Permet au singe pilote d’élite de toucher les Bloons camouflés et de leur infliger plus de dégâts.
 Centered Path Description,Nouvelle trajectoire de vol pour une couverture maximale de la carte.
 Fighter Plane Description,Vole vite et tire des missiles anti-MOAB.
 Bomber Ace Description,Largue une série de bombes en traversant le circuit Bloon.
@@ -873,7 +873,7 @@ Burny Stuff Description,Les Bloons qui subissent des dégâts s'embrasent moment
 Shockwave Description,"L'onde de choc de l'explosion assomme les Bloons à l'impact, fait éclater les Bloons se trouvant dans une zone plus étendue et augmente les dégâts de Ça crame."
 Heavy Shells Description,"Les obus lourds infligent davantage de dégâts aux Bloons en céramique, en plomb, à tous les fortifiés et à tous les Bloons étourdis. Peut aussi faire éclater les Bloons noirs."
 Signal Flare Description,Les Bloons camouflés éclatés par des fusées éclairantes perdent leur camouflage de façon permanente.
-The Big One Description,Les explosions dévastatrices font éclater 5 couches de Bloons chacune et les dégâts de Ça crame sont encore plus augmentés.
+The Big One Description,Les explosions dévastatrices font éclater 7 couches de Bloons chacune et les dégâts de Ça crame sont encore plus augmentés.
 Artillery Battery Description,Aptitude bombardement : déclenche une attaque à feu nourri sur une zone légèrement plus étendue. L'attaque principale est améliorée à 3 canons pour effectuer des attaques extrêmement rapides.
 Shattering Shells Description,Toutes les propriétés spéciales des Bloons sont détruites sur les Bloons (excepté les plus gros Bloons) touchés par les obus fracassants.
 The Biggest One Description,Fait exploser de nombreuses couches de Bloons sur une vaste étendue et Ça crame inflige des dégâts puissants.
@@ -2154,7 +2154,7 @@ Knowledge unlock tip,Tu commenceras à gagner des points de connaissances de sin
 Daily challenges unlock at,Les défis quotidiens et les événements se débloquent au niveau {0}
 ,
 ,
-FriendLiNKLoginRequiredBody,Compte requis pour afficher les scores de tes amis Facebook.
+FriendLiNKLoginRequiredBody,Compte requis pour afficher les scores des amis.
 FriendLiNKLoginRequiredTitle,Connexion ?
 FriendLiNKLoginFailed,Échec de connexion à Facebook. Vérifie ta connexion Internet et tes données de connexion.
 Do It,Vas-y
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] pour effectuer Téléportation obscure à portée
 DarkChampionDarkshift,[I] pour effectuer Téléportation obscure à tout endroit valide
 SmallTowersMode,Petites tours de singe
 BigTowersMode,Grandes tours de singe
-UpdatePopupTitle,Mise à jour 30 !
-UpdatePopupDescription,"Nouvelle mise à jour de contenu !\n• Sors vainqueur de combats intenses dans la nouvelle carte de niveau Avancé : les Colonnes submergées\n• Fais une entrée remarquée avec la nouvelle apparence de Psi : Psimbales !\n• Mise à jour de divisions en mode Coop : 2 nouvelles divisions ajoutées et possibilité de toutes les sélectionner lors de la configuration d'une partie en mode coop\n• 16 nouveaux articles dans la boutique de trophées, dont 4 nouveaux objets à durée limitée : profites-en rapidement !\n• 4 nouvelles Connaissances de singes à déverrouiller\n• Nouvelles Réussites et modifications destinées à améliorer la qualité et l'équilibrage du jeu ; consulte les notes de mise à jour pour tous les détails"
+UpdatePopupTitle,Mise à jour 31 !
+UpdatePopupDescription,"Nouvelle mise à jour de contenu !\n• Nouveau héros ! Geraldo le Marchand mystique est arrivé avec sa formidable boutique d'objets pour faire éclater des Bloons !\n • Nouveau boss ! Vortex, Maître des airs redoutable est arrivé !\n• Amusez-vous bien à éclater les Bloons sur la nouvelle carte de niveau débutant : La Casse\n• 9 nouveaux articles de Boutique de trophées, dont un nouveau remix\n• Navigateur de défis : conditions de victoire spéciales du Moins d'argent et du Moins de niveaux ajoutées pour votre plaisir de défi de casse-tête\n• Le menu Héros a été amélioré, ainsi que d'autres modifications de qualité de vie et d'équilibrage,  consultez les notes de mises à jour pour tous les détails !"
 ResetDailyChest,Réinitialiser le Coffre quotidien
 JukeboxName,Juke-box
 EnableFunction,Activer
@@ -3062,7 +3062,7 @@ Drone Swarm Ability Description,Etienne lance 4 drones temporaires de plus pour 
 UCAV Ability,UCAV
 UCAV Ability Description,Le drone de surveillance à haute altitude devient un drone de combat dévastateur pendant un bref laps de temps.
 Mesa,Mesa
-DreadPirateBrickellAdmiralBrickellSkinName,Brickell pirate effroyable
+DreadPirateBrickellAdmiralBrickellSkinName,Apparence Brickell pirate effroyable
 DreadPirateBrickellAdmiralBrickellSkinDescription,La Reine des sept mers vogue à nouveau !
 No Insta Reward,Pas de récompense pour la manche 100
 GameUIProfileAvatar19Name,Avatar personnalisé - Visage d'Adora au repos
@@ -3644,7 +3644,7 @@ GameUIPowerSkinLavaLakeName,Pouvoir personnalisé - Lac de lave portatif
 GameUIPowerSkinLavaLakeShortName,Lac de lave portatif
 GameUIPowerSkinLavaLakeDescription,Il commence à faire chaud ici ! Fais bouillir tes problèmes dans cette mare de lave brûlante !
 Resort,Complexe touristique
-ETnEtienneSkinName,ETn
+ETnEtienneSkinName,Apparence Etn
 ETnEtienneSkinDescription,Conduisez-moi à votre chef.
 VeteranXP,XP de Vétéran
 GameUIMusicTrackMusicSailsAgain,Vogue à nouveau
@@ -4138,7 +4138,7 @@ GamecenterLoginPrompt,"Connecte-toi au Game Center pour y accéder. Ouvre les pa
 GamecenterRestrictedTitle,Accès au mode multijoueurs restreint
 GamecenterLoginTitle,Se connecter au Game Center
 QuietStreet,Rue tranquille
-GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinName,Apparence Galaxili
 GalaxiliEziliSkinDescription,"Tout ce que nous sommes, tout ce que nous voyons, se compose de poussière d'étoiles"
 MonkeyBuccaneer Paragon,Navarque des mers
 MonkeyBuccaneer Paragon Description,Rien de plus formidable n'a jamais flotté sur les eaux.
@@ -4254,7 +4254,7 @@ Achievement 142 Description,Dépense 1 000 MS pour continuer la partie ou util
 PetSounds,Sons de compagnons
 UserID,Identifiant utilisateur
 SunkenColumns,Colonnes submergées
-PsimbalsPsiSkinName,Psimbales
+PsimbalsPsiSkinName,Apparence Psimbales
 PsimbalsPsiSkinDescription,Prêts pour le spectacle ?!
 HeroesStrikerJonesPetGermanShepherdName,Compagnon berger allemand de Striker Jones
 HeroesStrikerJonesPetGermanShepherdShortName,Compagnon chiot de Striker
@@ -4297,7 +4297,7 @@ GameUIPowerSkinMonkeyBoostSugarRushShortName,Boost Surdose de sucre
 GameUIPowerSkinMonkeyBoostSugarRushDescription,Les humains : on sait tous que l'on est plus efficaces après avoir consommé une quantité astronomique de délicieuses sucreries. Les singes : pareil pour nous.
 GameUIProfileBanner10Name,Bannière de profil Brillante esquisse
 GameUIProfileBanner10ShortName,Bannière Brillante esquisse
-GameUIProfileBanner10Description,Bannière gagnante par bonbonni
+GameUIProfileBanner10Description,Bannière gagnante par chompypaw
 GameUIProfileBanner11Name,Bannière de profil Arcanum Necronicom
 GameUIProfileBanner11ShortName,Bannière Arcanum Necronicom
 GameUIProfileBanner11Description,Bannière gagnante par _Concilliabule_
@@ -4327,3 +4327,180 @@ FilterMisc,Divers
 Blast Chain Ability,Explosions à la chaîne
 Blast Chain Ability Description,Les mines marines explosent plus rapidement pendant une courte durée
 TowerSpecial,Spécialité de singe
+Geraldo,Geraldo
+Geraldo Short Description,Marchand mystique
+Geraldo Description,Geraldo le marchand vend une panoplie d'articles utiles et grille les Bloons avec son attaque de foudre.
+Geraldo Level 1 Description,"Articles disponibles ! Tourelle tireuse, Tas de vieux clous, Idole sinistre, Bocal de cornichons. Geraldo possède également une attaque magique de courte portée."
+Geraldo Level 2 Description,"Nouvel article ! Figurine rare de Quincy - plus vous la possédez longtemps, plus sa valeur augmente !"
+Geraldo Level 3 Description,Nouvel article ! Potion de détection d'invisibilité - permet à un héros ou une tour de singe de détecter les camouflés pendant une durée limitée. Augmente la portée d'attaque de Geraldo.
+Geraldo Level 4 Description,Nouvel article ! Tube de Super-glu - peut être placé sur le circuit pour ralentir les Bloons.
+Geraldo Level 5 Description,Nouvel article ! Pierre à aiguiser - améliore la percée d'une tour de singe ou d'un héros qui inflige des dégâts de type tranchant.
+Geraldo Level 6 Description,Nouvel article ! Cape de héros usée - convertit un singe à fléchettes de niveau 2 ou moins en super singe ! Ces super singes convertis ne peuvent être améliorés que jusqu'au niveau 3.
+Geraldo Level 7 Description,"Nouvel article ! Piège à lames - lorsqu'un Bloon visible touche le piège, un Maelström de lames est déclenché. Les dégâts et la percée de l'attaque principale de Geraldo sont augmentés."
+Geraldo Level 8 Description,"Nouvel article ! Bouteille de « Feu de Gerry » - 2,8 millions d'unités de Bloonville de pur feu de sauce piquante ! Donne à un singe, un héros ou un sbire une attaque de feu pendant 10 manches."
+Geraldo Level 9 Description,Nouvel article ! Engrais - la production des bananeraies ciblées qui produisent des bananes visibles est augmentée et un bonus d'argent est obtenu sur plusieurs manches. Le rayon d'impact de l'attaque principale de Geraldo est augmenté.
+Geraldo Level 10 Description,Nouvel article ! Lapin domestique - ohh le joli petit lapinou tout mignon !
+Geraldo Level 11 Description,"Nouvel article ! Potion de rajeunissement - réinitialise le temps de recharge de toutes les tours de singe et de tous les héros, restaure 50 vies. La percée de l'attaque principale de Geraldo est augmentée et le Bocal de cornichons donne un bonus de dégât"
+Geraldo Level 12 Description,Nouvel article ! Bouteille de génie - invoque un singe génie alimenté au plasma qui dure 3 manches. L'Idole sinistre peut désormais appliquer un bref étourdissement occasionnel aux Bloons de classe MOAB visibles qui passent.
+Geraldo Level 13 Description,"La Tourelle tireuse tire plus vite et inflige plus de dégâts, et le Tas de vieux clous inflige plus de dégâts."
+Geraldo Level 14 Description,La Potion de détection d'invisibilité confère une plus grande portée de détection et dure plus longtemps.
+Geraldo Level 15 Description,La Pierre à aiguiser augmente désormais les dégâts en plus de la percée et le Piège à lames génère un effet plus puissant lorsqu'il est déclenché.
+Geraldo Level 16 Description,"Le Tas de vieux clous devient une Mine à clous, le Bocal de cornichons confère un bonus de dégâts supplémentaire contre les Bloons fortifiés et le Feu de Gerry reçoit un bonus de dégâts brûlants."
+Geraldo Level 17 Description,L'attaque principale de Geraldo inflige plus de dégâts et la Super-glu a désormais un petit effet sur les Bloons de classe MOAB.
+Geraldo Level 18 Description,Le singe génie obtient une deuxième attaque sur les cibles proches et inflige un bonus de dégâts aux Bloons de classe MOAB ; l'Idole sinistre applique un Linceul mystique aux Bloons de classe MOAB qui inflige des dégâts importants à proximité lorsqu'ils s
+Geraldo Level 19 Description,"L'attaque principale de Geraldo est plus rapide, a une plus longue portée et inflige plus de dégâts ; la Potion de détection d'invisibilité reçoit un bonus de dégâts contre les Bloons camouflés."
+Geraldo Level 20 Description,Nouvel article ! Totem de pouvoir de parangon - ajoute un pouvoir de parangon au prochain parangon créé. L'attaque principale de Geraldo inflige plus de dégâts.
+Geraldo Shop shortname,Boutique
+Geraldo Shop name,Boutique de Geraldo
+Shooty turret name,Tourelle tireuse
+Shooty turret description,"Une tourelle permanente, façonnée à la main, qui tire des fléchettes."
+Stack of old nails name,Tas de vieux clous
+Stack of old nails description,"Oui, c'est juste un tas de vieux clous, mais placez-les n'importe où sur le circuit et ils feront éclater les Bloons errants."
+Creepy idol name,Idole sinistre
+Creepy idol description,Placez cette idole à l'aspect inquiétant près du circuit pour faire peur à des Bloons et les renvoyer d'où ils sont venus.
+Jar of Pickles name,Bocal de cornichons
+Jar of Pickles description,"Placez ces cornichons sur l'une de vos tours de singe et elle frappera plus fort, mais tirera plus lentement, pendant un moment."
+Rare Quincy action figure name,Figurine rare de Quincy
+Rare Quincy action figure description,"Figurine édition limitée originale en excellent état de Quincy, fils de Quincy ! Sa valeur ne fera qu'augmenter, alors achetez-la dès maintenant !"
+See invisibility potion name,Potion de détection d'invisibilité
+See invisibility potion description,Le singe auquel vous donnez cet élixir extrêmement efficace sera capable de voir très facilement les Bloons camouflés ! Les effets se dissiperont.
+Tube of amaz-o-glue name,Tube de Super-glu
+Tube of amaz-o-glue description,Vraiment super ! Appliquez un tube de cette merveille moderne n'importe où sur le circuit et vous verrez le prochain groupe de Bloons ralentir considérablement à cet endroit.
+Sharpening stone name,Pierre à aiguiser
+Sharpening stone description,"Aiguisez donc vos fléchettes, l'ami(e) ! Appliquez ceci à vos fléchettes et à vos lames et elles seront plus affûtées que jamais."
+Worn heros cape name,Cape de héros usée
+Worn heros cape description,"Tous les héros portent des capes ! Donnez celle-ci à l'un de vos singes à fléchettes et observez la transformation ! État légèrement usagé, petits niveaux, euh je veux dire accrocs, uniquement."
+Blade trap name,Piège à lames
+Blade trap description,Placez ceci sur le circuit et voyez les premiers Bloons qui entrent en contact avec se faire déchiqueter par les grandes lames tournoyantes !
+Gerrys fire hot sauce name,Bouteille de sauce piquante « Feu de Gerry »
+Gerrys fire hot sauce description,"2,8 millions d'unités de Bloonville. Quiconque goûte à cette sauce spéciale crachera du feu pendant un moment !"
+Fertilizer name,Engrais
+Fertilizer description,Y a-t-il des bananes qui poussent sur vos terres ? Voulez-vous encore plus de bananes ? Saupoudrez cet engrais magique surpuissant directement sur la bananeraie et vous obtiendrez plus de bananes !
+Pet rabbit name,Lapin domestique
+Pet rabbit description,"Parfois, tout ce qu'il vous faut est un adorable petit lapin de compagnie ! Ou plusieurs !"
+Rejuv potion name,Potion de rajeunissement
+Rejuv potion description,Placez ce délicieux breuvage où vous le souhaitez et voyez son pouvoir rajeunissant restaurer des vies perdues et réinitialiser des temps de recharge d'aptitudes.
+Genie bottle name,Bouteille de génie
+Genie bottle description,"Invoquez un singe génie de cette bouteille bleue brillante mais attention, il ne durera pas éternellement ! (aucun souhait n'est inclus à l'achat)."
+Paragon power totem name,Totem de pouvoir de parangon
+Paragon power totem description,Donnez un boost aux pouvoirs de votre prochain parangon grâce à cet artefact mystique...
+EventEndingSoonText,Cet événement se termine bientôt et l'entrée est désormais désactivée.
+EngineerMonkey Paragon,Maître bâtisseur
+EngineerMonkey Paragon Description,L'ingénierie simiesque poussée à la perfection. Crée trois méga-sentinelles qui peuvent fabriquer leurs propres sentinelles.
+OptionsLogout,Déconnexion
+ConfirmLogout,Confirmer la déconnexion
+ConfirmLogoutDesc,"Voulez-vous vraiment vous déconnecter de votre compte ? Si oui, veuillez prendre note de vos infos de compte et du code de liaison avant de le faire.\n\n{0}"
+VortexTagLine,Voici venu des cieux
+VortexTagLine2,Maître des airs redoutable
+Vortex,Vortex
+VortexInfoPanelDescription,"• Vortex se déplace comme l'éclair et accélère les autres Bloons !\n• Lorsque chaque crâne sur la barre de santé est atteint, Vortex se munit d'un bouclier et projette une onde de choc qui étourdit les tours à proximité, puis il bat en retraite sur le cir"
+Scrapyard,La Casse
+BloonsAllBloonsCatEarName,Bloons à oreilles de chat
+BloonsAllBloonsCatEarShortName,Bloons à oreilles de chat
+BloonsAllBloonsCatEarDescription,"D'habitude, les Bloons et les chats ne vont pas bien ensemble, mais dans ce cas-ci, ils sont miaougnifiquement assortis."
+BloonsAllBloonsDisguiseGlassesName,Bloons à lunettes de déguisement
+BloonsAllBloonsDisguiseGlassesShortName,Bloons à lunettes de déguisement
+BloonsAllBloonsDisguiseGlassesDescription,Seul un singe se laisserait abuser par ce déguisement. Attendez une minute...
+CoopEmoteAnimationPatFlexName,Émoticône Pat muscles
+CoopEmoteAnimationPatFlexShortName,Émoticône Pat muscles
+CoopEmoteAnimationPatFlexDescription,"Le cerveau et les muscles, quel combo ! Pat fort !"
+CoopEmoteAnimationMindBlownName,Émoticône Bluffé
+CoopEmoteAnimationMindBlownShortName,Bluffé
+CoopEmoteAnimationMindBlownDescription,Quand votre partenaire de coop fait un truc si génial que seule cette émoticône conviendra !
+GameUIProfileAvatar59Name,Avatar de super singe
+GameUIProfileAvatar59ShortName,Avatar de super singe
+GameUIProfileAvatar59Description,Il y a de l'amour dans son regard. La question est de savoir si super singe vous regarde ou admire son propre reflet.
+GameUIProfileAvatar60Name,Avatar de Striker Jones
+GameUIProfileAvatar60ShortName,Avatar de Striker Jones
+GameUIProfileAvatar60Description,Striker Jones prêt pour le service ! Montrez votre enthousiasme pour la victoire avec les salutations de votre singe lanceur de roquettes préféré.
+GameUIProfileBanner13Name,Bannière Arrivée
+GameUIProfileBanner13ShortName,Bannière de profil Arrivée
+GameUIProfileBanner13Description,Bannière gagnante par betapotata
+GameUIProfileBanner14Name,Bannière Sous les eaux
+GameUIProfileBanner14ShortName,Bannière de profil Sous les eaux
+GameUIProfileBanner14Description,Bannière gagnante par Cyliia
+GameUIMusicTrackMusicSunshineFiestaMixName,Juke-box : Sérénade solaire - Remix Fiesta
+GameUIMusicTrackMusicSunshineFiestaMixShortName,Sérénade - Fiesta
+GameUIMusicTrackMusicSunshineFiestaMixDescription,Montez le volume et profitez de ce super remix de Sérénade solaire.
+CantSubmitEventEnded,"Impossible de soumettre votre score, l'événement est déjà terminé."
+CyberQuincySkinNameFull,Cyber-Quincy
+ScientistGwendolinSkinNameFull,Scientifique Gwendolin
+SentaiCaptainChurchillSkinNameFull,Sentai Churchill
+BikerBonesSkinNameFull,Biker Bones
+ObynOceanGuardianSkinNameFull,Gardien des océans
+BenJamminSkinNameFull,DJ Benjammin
+SmudgeCattSkinNameFull,Smudge la Chatte
+FustyTheSnowmanSkinNameFull,Fusty le Bonhomme de neige
+WolfpackQuincySkinNameFull,Quincy Meute de loups
+JoanOfArcAdoraSkinNameFull,Adora Jeanne d'Arc
+HarlegwenGwendolinSkinNameFull,Harlegwen
+OctoJonesStrikerJonesSkinNameFull,Octojones
+DreadPirateBrickellAdmiralBrickellSkinNameFull,Brickell pirate effroyable
+ObynMountainGuardianSkinNameFull,Gardien de la montagne
+SushiBentoBenjaminSkinNameFull,Sushi Bento
+ETnEtienneSkinNameFull,ETn
+VikingSaudaSaudaSkinNameFull,Sauda Viking
+GalaxiliEziliSkinNameFull,Galaxili
+PsimbalsPsiSkinNameFull,Psimbales
+Least Cash,Le moins d'argent :
+Least Tiers,Le moins de niveaux :
+Least Cash Used,Le moins d'argent utilisé :
+Least Tiers Used,Le moins de niveaux utilisés :
+All Tiers Used,Tous les niveaux utilisés
+All Cash Used,Tout l'argent utilisé
+Tiers Used,Niveaux utilisés
+Cash Used,Argent utilisé
+No Score Set,Aucun score défini
+Auto,Auto
+FriendScreenFriends,Amis
+FriendScreenRequests,Demandes
+FriendScreenYourFriendCode,Votre code d'ami :
+FriendScreenOnline,En ligne
+FriendScreenOffline,Hors ligne
+FriendScreenAccept,Accepter
+FriendScreenDecline,Refuser
+FriendScreenBlock,Bloquer
+FriendScreenFriendText,Les amis seront affichés ici. Partagez votre code d'ami avec vos amis et vos proches
+RequestDisabledText,Demandes désactivées
+FriendScreenEnterCode,Saisir le code d'ami :
+FriendScreenAdd,Ajouter
+FriendScreenSureUnfriend,Voulez-vous vraiment retirer cet utilisateur de votre liste d'amis ?
+FriendScreenSureBlock,Voulez-vous vraiment bloquer cet utilisateur ?
+SpecialConditions,Conditions spéciales
+FriendScreenRequestText,Les demandes seront affichées ici. Partagez votre code d'ami avec vos amis et vos proches
+FriendScreenCodeHidden,Code d'ami caché
+RequestEnabledText,Demandes activées
+Least Cash No Colon,Le moins d'argent
+Least Tiers No Colon,Le moins de niveaux
+SpecialConditionsColon,Conditions spéciales
+GoalSetForCash,L'objectif a été défini comme étant {0} en argent
+GoalSetForTiers,L'objectif a été défini comme étant {0} niveaux
+ChallengeCashUsed,Vous avez utilisé {0} / {1} en argent
+ChallengeTiersUsed,Vous avez utilisé {0} / {1} niveaux
+ShootyTurret,Tourelle tireuse
+CreepyIdol,Idole sinistre
+RareQuincyActionFigure,Figurine rare de Quincy
+GenieBottle,Bouteille de génie
+ParagonPowerTotem,Totem de pouvoir de parangon
+FriendScreenErrorRequestFailed,Échec de la demande d'ami
+FriendScreenErrorInvalidCode,Code ami invalide
+FriendScreenErrorBlocked,Le joueur/la joueuse que tu as essayé d'ajouter a bloqué ses demandes d'amis, désolés !
+FriendScreenErrorAlreadySent,Tu as déjà envoyé une demande d'amis à ce joueur.
+FriendScreenErrorTooManyFriends,Tu as atteint ta limite maximum d'amis. Tu peux faire de la place en supprimant un(e) ami(e) existant(e), ou en annulant une demande d'ami que tu as effectuée.
+MapEditor,Éditeur de carte
+Jar of Pickles description level 11,Essayez ces cornichons sur l'une de vos tours de singe et il frappera plus fort, mais tirera plus lentement pendant un moment. Maintenant, avec des dégâts accrus pour les Bloons fortifiés !
+Creepy idol description level 12,Placez cette idole effrayante près de la piste pour effrayer certains Bloons (même des MOAB !) d'où ils viennent.
+Shooty turret description level 13,Une tourelle de tir de fléchettes permanente et fabriquée à la main. mis à jour ! Tire plus vite et fait plus de dégâts.
+Stack of old nails description level 13,Oui, c'est juste une très grande pile de vieux clous, mais mettez-les n'importe où sur la piste et ils feront facilement éclater ces bloons errants.
+See invisibility potion description level 14,Quel que soit le singe que vous offrez avec cet élixir extrêmement efficace, il pourra facilement voir les Camo Bloons ! Les effets s'estomperont. Donne maintenant une portée accrue et dure encore plus longtemps!
+Sharpening stone description level 15,Aiguisez ces fléchettes, mon ami ! Appliquez ceci à vos fléchettes et vos lames et elles seront plus tranchantes et feront plus de dégâts que jamais.
+Blade trap description level 15,Placez-le sur la piste et regardez les premiers Bloons le toucher se faire déchiqueter par les grandes lames tourbillonnantes ! Nouveau modèle plus puissant !
+Stack of old nails description level 16,Oui, c'est juste une MINE GÉANTE DE CLOUS, mais mettez-la n'importe où sur la piste et elle fera facilement éclater ces Bloons errants.
+Jar of Pickles description level 16,Essayez ces cornichons sur l'une de vos tours de singe et il frappera plus fort, mais tirera plus lentement pendant un moment. Maintenant, avec ENCORE PLUS de dégâts accrus pour les Bloons fortifiés !
+Gerrys fire hot sauce description level 16,2,8 millions d'unités Bloonville. Celui qui goûte cette sauce spéciale va cracher du feu pendant un moment ! Maintenant avec une sensation de brûlure supplémentaire.
+Tube of amaz-o-glue description level 17,Vraiment génial! Appliquez un tube de cette merveille moderne n'importe où sur la piste et regardez le prochain groupe de Bloons et même de MOAB ralentir.
+Genie bottle description level 18,Invoquez un Génie Singe à partir de cette bouteille bleue brillante, mais attention, cela ne durera pas éternellement ! (pas de souhaits inclus avec l'achat). Attaque supplémentaire et plus de dégâts aux MOAB désormais inclus.
+Creepy idol description level 18,Placez cette idole effrayante près de la piste pour effrayer certains Bloons d'où ils viennent. Mise à niveau Mystical Shroud déverrouillée !
+See invisibility potion description level 19,Quel que soit le singe que vous offrirez avec cet élixir extrêmement efficace, il sera capable de voir facilement les Camo Bloons et de leur faire plus de dégâts ! Les effets s'estomperont.
+FriendScreenSureUnBlock,Voulez-vous vraiment débloquer cet utilisateur ?
+None,Aucune

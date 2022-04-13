@@ -1,4 +1,4 @@
-﻿//Input. Needs to be first e.g [I] replaced by click or tap,
+//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Napsauta
 Tap,Napauta
 ,
@@ -99,7 +99,7 @@ Quincy Level 13 Description,Pieni kantaman kasvu.
 Quincy Level 14 Description,Nuolet tekevät nelinkertaisen vahingon MOAB-luokan blooneille.
 Quincy Level 15 Description,Pikalaukaus saa 4x hyökkäysnopeuden ja palautumisaikaa lyhennetään.
 Quincy Level 16 Description,Vielä suurempi hyökkäysnopeus.
-Quincy Level 17 Description,Nuolet kestävät 25 % pidempään.
+Quincy Level 17 Description,Nuolet kestävät 25 % pidempään. Ampuu räjähtäviä nuolia joka toisella laukauksella.
 Quincy Level 18 Description,Quincy hyökkää nopeammin ja nuolimyrskyssä on lyhyempi palautumisaika ja 50 % enemmän nuolia.
 Quincy Level 19 Description,Kukin nuoli saa vieläkin enemmän poksautusvoimaa.
 Quincy Level 20 Description,Quincy hyökkää entistä nopeammin. Nuolimyrsky ampuu enemmän nuolia ja tekee enemmän vahinkoa nuolta kohden.
@@ -161,7 +161,7 @@ Gwendolin Level 12 Description,Suurempi hyökkäysnopeus.
 Gwendolin Level 13 Description,"Merkittävästi suurempi poksautusvoima, ja lisäksi ammukset liikkuvat nopeammin ja kestävät pidempään."
 Gwendolin Level 14 Description,Tulicocktail tekee enemmän vahinkoa ja sytyttää MOAB-luokan bloonit tuleen.
 Gwendolin Level 15 Description,Suurempi hyökkäysnopeus.
-Gwendolin Level 16 Description,Tulimyrsky kestää kauemmin. Purppuranpunaiset bloonit eivät ole enää immuuneja Gwendolinin hyökkäyksille.
+Gwendolin Level 16 Description,Tulimyrsky kestää kauemmin ja tekee enemmän vahinkoa. Purppuranpunaiset bloonit eivät ole enää immuuneja Gwendolinin hyökkäyksille.
 Gwendolin Level 17 Description,Pökköä pesään -kyvyn alaiset apinat poksauttavat 1 ylimääräisen kerroksen ja tekevät +2 vahinkoa lyijyblooneille.
 Gwendolin Level 18 Description,Suurempi hyökkäysnopeus.
 Gwendolin Level 19 Description,Ampuu 3 tuliräjähdystä per laukaus.
@@ -836,7 +836,7 @@ Rapid Fire Description,Ampuu tavallista nopeammin.
 Exploding Pineapple Description,"Pudottaa maahan ananaksia, jotka räjähtävät voimallisesti muutaman sekunnin kuluttua. Ässän räjähdehyökkäykset ovat tehokkaampia."
 Sharper Darts Description,Tikat voivat poksauttaa 8 bloonia.
 Lots More Darts Description,Ampuu 12 tikkaa kerralla.
-Spy Plane Description,Lentäjä-ässä voi osua maastokuvioituihin blooneihin.
+Spy Plane Description,Lentäjä-ässä voi osua maastokuvioituihin blooneihin ja tekee niille enemmän vahinkoa.
 Centered Path Description,Keskeinen lentoreitti mahdollisimman hyvää kartan kattavuutta varten.
 Fighter Plane Description,Lentää nopeasti ja ampuu MOABin vastaisia ohjuksia.
 Bomber Ace Description,Pudottaa pommirivin ylittäessään bloonireitin.
@@ -873,7 +873,7 @@ Burny Stuff Description,Vahingoittuneet bloonit palavat hetken jokaisen osuman j
 Shockwave Description,"Räjähdys tyrmää blooneja osuessaan, poksauttaa blooneja suuremmalta alueelta ja palava aines tekee enemmän vahinkoa."
 Heavy Shells Description,"Raskaat kranaatit tekevät lisävahinkoa keraamisille blooneille, lyijyblooneille ja kaikille vahvistetuille blooneille. Voi myös poksauttaa mustat bloonit."
 Signal Flare Description,Valoammuksilla poksautetut maastokuvioidut bloonit menettävät maastokuvionsa pysyvästi.
-The Big One Description,"Tuhovoimaiset räjähdykset poksauttavat blooneista 5 pois kerrosta, ja palava aines tekee entistä enemmän vahinkoa."
+The Big One Description,"Tuhovoimaiset räjähdykset poksauttavat blooneista 7 pois kerrosta, ja palava aines tekee entistä enemmän vahinkoa."
 Artillery Battery Description,"Tehopommitus-kyky: Ampuu pikatulitusta hieman tavallista laajemmalla alueella. Päähyökkäys päivittyy 3-putkiseksi hyökkäykseksi, joka ampuu uskomattoman nopeasti."
 Shattering Shells Description,Murskaavat kranaatit vievät erikoisominaisuudet kaikilta paitsi suurimmilta blooneilta.
 The Biggest One Description,"Räjäyttää tehokkaasti bloonien ja kerrosten läpi valtavalla alueella, ja palava aines tekee suurta vahinkoa."
@@ -2154,7 +2154,7 @@ Knowledge unlock tip,Alat tienata Apinatietämys-pisteitä tasolla 30.
 Daily challenges unlock at,Päivittäisten haasteiden ja tapahtumien lukitus purkautuu tasolla {0}
 ,
 ,
-FriendLiNKLoginRequiredBody,Tili vaaditaan Facebook-kaverien pisteiden näkemiseen.
+FriendLiNKLoginRequiredBody,Tili vaaditaan kaverien pisteiden näkemiseen.
 FriendLiNKLoginRequiredTitle,Kirjaudutaanko?
 FriendLiNKLoginFailed,Facebook-kirjautuminen epäonnistui. Tarkista internetyhteys ja kirjautumistiedot.
 Do It,Tee se
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] synkkäsiirtyäksesi alueella
 DarkChampionDarkshift,[I] synkkäsiirtyäksesi mihin tahansa kelvolliseen sijaintiin
 SmallTowersMode,Pienet apinatornit
 BigTowersMode,Suuret apinatornit
-UpdatePopupTitle,Päivitys 30!
-UpdatePopupDescription,"Uusi sisältöpäivitys!\n• Taistele tiesi halki uuden edistyneen kartan: Uponneet pylväät!\n• Anna sen soida Psin uudella ulkoasulla: Psimbalit!\n• Yhteistoimintatilan jakopäivitys:  Lisätty 2 uutta jakoa, ja ne kaikki ovat valittavissa yhteistoimintatilaa valmistellessa\n• 16 uutta pokaalikaupan esinettä, mukaan lukien 4 esinettä, jotka ovat saatavilla vain rajoitetun ajan – nappaa ne nopeasti!\n• 4 uutta avattavaa apinatietämystä\n• Uusia saavutuksia sekä peliä parantavia ja tasapainottavia muutoksia. Katso tarkemmat tiedot päivitystiedoista"
+UpdatePopupTitle,Päivitys 31!
+UpdatePopupDescription,"Uusi sisältöpäivitys!\n• Uusi sankari! Mystinen kauppias Geraldo on saapunut ja tuonut mukanaan mahtavan kauppansa täynnä blooneja poksauttavia esineitä!\n• Uusi pomo! Vortex, Ilman tappava mestari on vapautettu!\n• Pidä hauskaa tuhotessasi blooneja uudella aloittelijatason kartalla: Romuttamo\n• 9 uutta pokaalikaupan esinettä, mukaan lukien uusi remix\n• Haasteselain: Pulmahaasteiden nauttimiseen on lisätty erityiset voittoehdot vähiten käteistä ja vähiten tasoja\n• Sankarivalikko on uusittu ja parannettu, minkä lisäksi on tehty muita elämänlaatua parantavia muutoksia ja tasapainotuksia. Katso päivitystiedoista tarkemmat tiedot!"
 ResetDailyChest,Nollaa päivittäinen arkku
 JukeboxName,Jukeboksi
 EnableFunction,Ota käyttöön
@@ -3062,7 +3062,7 @@ Drone Swarm Ability Description,Etienne lähettää 4 väliaikaista droonia lis�
 UCAV Ability,UCAV
 UCAV Ability Description,Korkealla lentävä valvontadrooni muuttuu tuhovoimaiseksi taisteludrooniksi hetken ajaksi.
 Mesa,Ylätasanko
-DreadPirateBrickellAdmiralBrickellSkinName,Kauhupiraatti Brickell
+DreadPirateBrickellAdmiralBrickellSkinName,Kauhupiraatti Brickell -ulkoasu
 DreadPirateBrickellAdmiralBrickellSkinDescription,Seitsemän meren kuningatar seilaa jälleen!
 No Insta Reward,Ei kierroksen 100 palkkiota
 GameUIProfileAvatar19Name,Oma avatar – rentokasvoinen Adora
@@ -3644,7 +3644,7 @@ GameUIPowerSkinLavaLakeName,Oma voima – Kannettava laavajärvi
 GameUIPowerSkinLavaLakeShortName,Kannettava laavajärvi
 GameUIPowerSkinLavaLakeDescription,Täällä alkaa olla kuuma! Kiehuta huolesi pois tässä palavassa laava-altaassa!
 Resort,Lomakohde
-ETnEtienneSkinName,ETn
+ETnEtienneSkinName,Etn-ulkoasu
 ETnEtienneSkinDescription,Viekää minut johtajanne luo
 VeteranXP,Veteraanikokemus
 GameUIMusicTrackMusicSailsAgain,Sails Again
@@ -3811,7 +3811,7 @@ RacePasses,{0} kisapassia
 FreeEntries,{0} ilmaista osallistumista
 FreeEntry,1 ilmainen osallistuminen
 PrivateCoopLobby,Yksityinen yhteistoiminta-aula
-PublicCoopLobby,Yhteistoiminta-aula {0}
+PublicCoopLobby,Yhteistoiminta-aula [{0}]
 MyOdysseys,Omat Odysseyt
 OdysseySearch,Haku- / Odysseiakoodi …
 Psychic Blast Ability,Psyykkinen isku
@@ -4138,7 +4138,7 @@ GamecenterLoginPrompt,"Kirjaudu sisään Game Centeriin, jotta voit ottaa tallen
 GamecenterRestrictedTitle,Moninpeliä rajoitettu
 GamecenterLoginTitle,Kirjaudu sisään Game Centeriin
 QuietStreet,Hiljainen katu
-GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinName,Galaxili-ulkoasu
 GalaxiliEziliSkinDescription,"Kaikki, mitä olemme, ja kaikki, minkä näemme, koostuu tähtipölystä"
 MonkeyBuccaneer Paragon,Merten navarkki
 MonkeyBuccaneer Paragon Description,Mahtavin aallokossa kelluva asia ikinä.
@@ -4254,7 +4254,7 @@ Achievement 142 Description,Kuluta 1 000 apinarahaa jatkoihin tai tarkistuspiste
 PetSounds,Lemmikkiäänet
 UserID,Käyttäjätunnus
 SunkenColumns,Uponneet pylväät
-PsimbalsPsiSkinName,Psimbalit
+PsimbalsPsiSkinName,Psimbals-ulkoasu
 PsimbalsPsiSkinDescription,Oletko valmiina esitykseen?!
 HeroesStrikerJonesPetGermanShepherdName,Iskijä-Jonesin lemmikkisaksanpaimenkoira
 HeroesStrikerJonesPetGermanShepherdShortName,Iskijän lemmikkipentu
@@ -4297,7 +4297,7 @@ GameUIPowerSkinMonkeyBoostSugarRushShortName,Sokerihumalatehoste
 GameUIPowerSkinMonkeyBoostSugarRushDescription,"Ihmiset: kyllähän me kaikki tiedämme, että jaksamme paremmin sokeriöverien energialla, eikö niin? Apinat: samiksia."
 GameUIProfileBanner10Name,Raapustettua nerokkuutta -profiilibanneri
 GameUIProfileBanner10ShortName,Raapustettua -profiilibanneri
-GameUIProfileBanner10Description,Bannerivoittaja: bonbonni
+GameUIProfileBanner10Description,Bannerivoittaja: chompypaw
 GameUIProfileBanner11Name,Arcanum Necronicom -profiilibanneri
 GameUIProfileBanner11ShortName,Arcanum Necronicom -banneri
 GameUIProfileBanner11Description,Bannerivoittaja: _Concilliabule_
@@ -4327,3 +4327,180 @@ FilterMisc,Sekalaiset
 Blast Chain Ability,Räjähdeketju
 Blast Chain Ability Description,Merimiinat räjähtävät nopeammin hetken aikaa
 TowerSpecial,Apinaerikoisuus
+Geraldo,Geraldo
+Geraldo Short Description,Mystinen kauppias
+Geraldo Description,Kauppias Geraldo myy hyödyllisiä esineitä ja iskee blooneja salamahyökkäyksellään.
+Geraldo Level 1 Description,"Esineitä saatavilla! Amputorni, kasa vanhoja nauloja, karmiva idoli, pikkelssipurnukka. Geraldolla on myös lyhyen kantaman maaginen hyökkäys."
+Geraldo Level 2 Description,Uusi esine! Harvinainen Quincy-toimintafiguuri – kasvattaa arvoaan mitä pidempään sen omistat!
+Geraldo Level 3 Description,Uusi esine! Näe näkymättömät -taikajuoma – antaa väliaikaisen maastokuvioinnin tunnistamisen apinatornille tai sankarille. Geraldon hyökkäyskantama kasvaa.
+Geraldo Level 4 Description,Uusi esine! Mahtiliimaputkilo – voidaan asettaa radalle hidastamaan blooneja.
+Geraldo Level 5 Description,Uusi esine! Teroituskivi – tehostaa apinatornin tai sankarin läpäisyä terävää vahinkoa tehdessä.
+Geraldo Level 6 Description,Uusi esine! Kulunut sankarin viitta – muuttaa korkeintaan tason 2 tikka-apinan superapinaksi! Nämä muunnetut superapinat voi päivittää vain tasolle 3.
+Geraldo Level 7 Description,"Uusi esine! Teräansa – kun näkyvä blooni koskettaa ansaa, terämyrsky laukeaa. Geraldon päähyökkäys saa lisää vahinkoa ja läpäisyä."
+Geraldo Level 8 Description,"Uusi esine! Pullollinen Gerryn tulta – 2,8 miljoonaa bloonvillen yksikköä puhdasta tulisuutta! Antaa apinalle, sankarille tai kätyrille tulisen hyökkäyksen 10 kierrokseksi."
+Geraldo Level 9 Description,"Uusi esine! Lannoite – valittu banaanifarmi, joka tuottaa näkyviä banaaneja, lisää tuotantoa ja saa käteisbonuksen muutaman kierroksen aikana. Geraldon päähyökkäyksen räjähdyksen kantama kasvaa."
+Geraldo Level 10 Description,Uusi esine! Lemmikkipupu – voi kuinka suloinen pieni pupujussikka!
+Geraldo Level 11 Description,"Uusi esine! Parannusjuoma – nollaa kaikkien apinatornien ja sankarien palautumisajat, palauttaa 50 elämää. Geraldon päähyökkäyksen kantama kasvaa ja pikkelssipurnukka tekee enemmän vahinkoa vahvistettuja blooneja vastaan."
+Geraldo Level 12 Description,"Uusi esine! Pullon henki – kutsuu esiin plasmavoimaa käyttävän henkiapinan, joka kestää 3 kierrosta. Karmiva idoli tyrmää nyt välillä ohi menevät näkyvät MOAB-luokan bloonit."
+Geraldo Level 13 Description,"Amputorni tulittaa nopeammin ja tekee enemmän vahinkoa, ja kasa vanhoja nauloja tekee enemmän vahinkoa."
+Geraldo Level 14 Description,Näe näkymättömät -taikajuoma antaa lisäkantamaa ja kestää pidempään.
+Geraldo Level 15 Description,"Teroituskivi lisää nyt vahinkoa läpäisyn lisäksi ja teräansa luo tehokkaamman vaikutuksen, kun se laukeaa."
+Geraldo Level 16 Description,"Kasa vanhoja nauloja muuttuu naulamiinaksi, pikkelssipurkki antaa lisää bonusvahinkoa vahvistettuja blooneja vastaan ja Gerryn tuli saa bonuspalovahinkoa."
+Geraldo Level 17 Description,Geraldon päähyökkäys tekee enemmän vahinkoa ja mahtiliimaputkilo vaikuttaa hieman MOAB-luokan blooneihin.
+Geraldo Level 18 Description,"Henki saa toisen lyhyen kantaman hyökkäyksen ja tekee bonusvahinkoa MOAB-luokan blooneja vastaan, ja karmiva idoli käyttää MOAB-luokan blooneihin mystistä käärinliinaa, joka tekee paljon vahinkoa lähellä, kun ne poksautetaan."
+Geraldo Level 19 Description,"Geraldon päähyökkäys on nopeampi, pidemmällä kantamalla ja tekee enemmän vahinkoa, ja näe näkymättömät -taikajuoma antaa bonusvahinkoa maastokuvioituja blooneja vastaan."
+Geraldo Level 20 Description,Uusi esine! Esikuva-voimatoteemi – lisää esikuvan tehoa seuraavalle luodulle esikuvalle. Geraldon päähyökkäys tekee enemmän vahinkoa.
+Geraldo Shop shortname,Kauppa
+Geraldo Shop name,Geraldon kauppa
+Shooty turret name,Amputorni
+Shooty turret description,"Pysyvä, käsin tehty tikkoja ampuva torni."
+Stack of old nails name,Kasa vanhoja nauloja
+Stack of old nails description,"Kyllä, se on vain kasa vanhoja nauloja, mutta kun ne asetetaan radalle niin ne poksauttavat läpi päässeitä blooneja."
+Creepy idol name,Karmiva idoli
+Creepy idol description,"Aseta tämä pelottavan näköinen idoli radan lähelle, niin pelotat osan blooneista sinne mistä ne tulivatkin."
+Jar of Pickles name,Pikkelssipurnukka
+Jar of Pickles description,"Kokeile näitä pikkelssejä jollekin apinatornillesi, niin hetken se iskee kovempaa, mutta ampuu hitaammin."
+Rare Quincy action figure name,Harvinainen Quincy-toimintafiguuri
+Rare Quincy action figure description,"Rajatun erän huippukuntoinen alkuperäinen Quincy, Quincyn poika -toimintafiguuri! Tämän arvo vain kasvaa, joten osta se nyt!"
+See invisibility potion name,Näe näkymättömät -taikajuoma
+See invisibility potion description,"Mille apinalle annatkin tämän tehokkaan eliksiirin, se pystyy näkemään maastokuvioidut bloonit helposti! Tehosteet kuluvat pois."
+Tube of amaz-o-glue name,Mahtiliimaputkilo
+Tube of amaz-o-glue description,"Mahtavaa! Käytä putkilollinen tätä nykyaikaista ihmettä radalle, niin voit katsoa kuinka seuraavat bloonit hidastuvat."
+Sharpening stone name,Teroituskivi
+Sharpening stone description,"Teroita tikkojasi! Käytä tätä tikkoihisi ja teriisi, niin ne ovat terävämpiä kuin koskaan."
+Worn heros cape name,Kulunut sankarin viitta
+Worn heros cape description,"Kaikki sankarit käyttävät viittaa! Anna tämä yhdelle tikka-apinoistasi, niin näet muutoksen! Hieman käytetty, vähän heikkotasoinen."
+Blade trap name,Teräansa
+Blade trap description,"Aseta tämä radalle, niin voit katsella kuinka pyörivät terät repivät palasiksi ensimmäiset sitä koskevat bloonit."
+Gerrys fire hot sauce name,Pullollinen Gerryn tuli -chilikastiketta
+Gerrys fire hot sauce description,"2,8 miljoonaa bloonvillen yksikköä. Kuka maistaakaan tätä erikoiskastiketta syöksee tulta jonkin aikaa!"
+Fertilizer name,Lannoite
+Fertilizer description,"Onko farmillasi banaaneja? Haluaisitko enemmän banaaneja? Levitä hieman tätä erikoisvahvaa taikalannoitetta suoraan farmille, niin saat enemmän banaaneita!"
+Pet rabbit name,Lemmikkipupu
+Pet rabbit description,Joskus ei muuta tarvita kuin supersöpö lemmikkipupu! Tai muutama!
+Rejuv potion name,Parannusjuoma
+Rejuv potion description,"Heitä tämä herkkujuoma minne tahansa, niin näet sen parantavien voimien palauttavan menetettyjä elämiä ja nollaavan kykyjen palautumisajat."
+Genie bottle name,Pullon henki
+Genie bottle description,"Kutsu henkiapina tästä kirkkaan sinisestä pullosta, mutta varo, sillä se ei kestä loputtomiin! (Ostokseen ei sisälly toiveita.)"
+Paragon power totem name,Esikuvan voimatoteemi
+Paragon power totem description,Tehosta seuraavan esikuvasi voimia tällä mystisellä artefaktilla...
+EventEndingSoonText,"Tämä tapahtuma päättyy pian, joten osallistuminen on estetty."
+EngineerMonkey Paragon,Mestarirakentaja
+EngineerMonkey Paragon Description,"Apinainsinööri huippuunsa kehitettynä. Luo kolme megatykkitornia, jotka voivat rakentaa omia tykkitornejaan."
+OptionsLogout,Kirjaudu ulos
+ConfirmLogout,Vahvista uloskirjautuminen
+ConfirmLogoutDesc,"Haluatko varmasti kirjautua ulos tililtäsi? Jos teet niin, kirjoita tilin tiedot ja linkkikoodi muistiin ennen sitä.\n\n{0}"
+VortexTagLine,Taivaalta saapuu
+VortexTagLine2,Ilman tappava mestari
+Vortex,Vortex
+VortexInfoPanelDescription,"• Vortex liikkuu salamannopeudella ja nopeuttaa muita blooneja mukanaan!\n• Aina kun terveyspalkin pääkallo saavutetaan, Vortex suojaa itsensä ja lähettää sokkiaallon, joka tyrmää läheiset tornit, ennen kuin se pakenee rataa pitkin.\n• Vortex lähettää sää"
+Scrapyard,Romuttamo
+BloonsAllBloonsCatEarName,Kissankorvabloonit
+BloonsAllBloonsCatEarShortName,Kissankorvabloonit
+BloonsAllBloonsCatEarDescription,"Bloonit ja kissat eivät yleensä sovi yhteen, mutta tässä tapauksessa ne sopivat kuin korvat päähän."
+BloonsAllBloonsDisguiseGlassesName,Silmälasivaleasu-bloonit
+BloonsAllBloonsDisguiseGlassesShortName,Silmälasivaleasu-bloonit
+BloonsAllBloonsDisguiseGlassesDescription,Tämä valeasu menisi läpi vain apinalle. Hetkinen...
+CoopEmoteAnimationPatFlexName,Patin fleksaus -emote
+CoopEmoteAnimationPatFlexShortName,Patin fleksaus
+CoopEmoteAnimationPatFlexDescription,"Voimaa ja älyä, mikä yhdistelmä! Pat vahva!"
+CoopEmoteAnimationMindBlownName,Mieli räjähti -emote
+CoopEmoteAnimationMindBlownShortName,Mieli räjähti
+CoopEmoteAnimationMindBlownDescription,"Kun yhteistoiminnan kumppanisi tekee jotain niin nerokasta, että vain tämä emote kelpaa!"
+GameUIProfileAvatar59Name,Superapina-avatar
+GameUIProfileAvatar59ShortName,Superapina-avatar
+GameUIProfileAvatar59Description,"Rakkaus näkyy hänen silmissään. Nyt sinun tarvitsee vain päättää, katsooko Superi sinua vai heijastustaan."
+GameUIProfileAvatar60Name,Iskijä Jones -avatar
+GameUIProfileAvatar60ShortName,Iskijä Jones -avatar
+GameUIProfileAvatar60Description,Iskijä Jones valmiina toimintaan! Näytä valmiutesi voittoon olkapäältä ampuvan suosikkiapinasi tervehdyksellä.
+GameUIProfileBanner13Name,Saapuminen-banneri
+GameUIProfileBanner13ShortName,Saapuminen-profiilibanneri
+GameUIProfileBanner13Description,Bannerivoittaja: betapotata
+GameUIProfileBanner14Name,Vetten alla -banneri
+GameUIProfileBanner14ShortName,Vetten alla -profiilibanneri
+GameUIProfileBanner14Description,Bannerivoittaja: Cyliia
+GameUIMusicTrackMusicSunshineFiestaMixName,Jukeboksi: Auringonpaisteen serenadi – Fiesta-remix
+GameUIMusicTrackMusicSunshineFiestaMixShortName,Auringonpaiste – Fiesta
+GameUIMusicTrackMusicSunshineFiestaMixDescription,Volyymi kaakkoon ja nauttimaan tästä upeasta Auringonpaisteen serenadin remixistä.
+CantSubmitEventEnded,"Et voi lähettää pisteitäsi, tapahtuma on jo päättynyt."
+CyberQuincySkinNameFull,Kyber-Quincy
+ScientistGwendolinSkinNameFull,Tieteilijä-Gwendolin
+SentaiCaptainChurchillSkinNameFull,Sentai Churchill
+BikerBonesSkinNameFull,Prätkä-Bones
+ObynOceanGuardianSkinNameFull,Merivartija
+BenJamminSkinNameFull,Benjammaileva-DJ
+SmudgeCattSkinNameFull,Smudge Catt
+FustyTheSnowmanSkinNameFull,Lumiukko-Fusty
+WolfpackQuincySkinNameFull,Susilauma-Quincy
+JoanOfArcAdoraSkinNameFull,Jeanne d'Arc -Adora
+HarlegwenGwendolinSkinNameFull,Harlegwen
+OctoJonesStrikerJonesSkinNameFull,Octojones
+DreadPirateBrickellAdmiralBrickellSkinNameFull,Kauhupiraatti Brickell
+ObynMountainGuardianSkinNameFull,Vuorivartija
+SushiBentoBenjaminSkinNameFull,Sushi Bento
+ETnEtienneSkinNameFull,ETn
+VikingSaudaSaudaSkinNameFull,Viikinki-Sauda
+GalaxiliEziliSkinNameFull,Galaxili
+PsimbalsPsiSkinNameFull,Psimbalit
+Least Cash,Vähiten käteistä:
+Least Tiers,Vähiten tasoja:
+Least Cash Used,Vähiten käteistä käytetty:
+Least Tiers Used,Vähiten tasoja käytetty:
+All Tiers Used,Kaikki tasot käytetty
+All Cash Used,Kaikki käteinen käytetty
+Tiers Used,Tasoa käytetty
+Cash Used,Käteistä käytetty
+No Score Set,Ei pisteitä
+Auto,Autom.
+FriendScreenFriends,Kaverit
+FriendScreenRequests,Pyynnöt
+FriendScreenYourFriendCode,Kaverikoodisi:
+FriendScreenOnline,Online
+FriendScreenOffline,Offline
+FriendScreenAccept,Hyväksy
+FriendScreenDecline,Hylkää
+FriendScreenBlock,Estä
+FriendScreenFriendText,Kaverit näytetään tässä. Jaa kaverikoodisi kavereille ja perheelle
+RequestDisabledText,Pyynnöt pois käytöstä
+FriendScreenEnterCode,Anna kaverikoodi:
+FriendScreenAdd,Lisää
+FriendScreenSureUnfriend,Haluatko varmasti poistaa tämän käyttäjän kavereista?
+FriendScreenSureBlock,Haluatko varmasti estää tämän käyttäjän?
+SpecialConditions,Erikoisehdot
+FriendScreenRequestText,Pyynnöt näytetään tässä. Jaa kaverikoodisi kavereille ja perheelle
+FriendScreenCodeHidden,Kaverikoodi piilotettu
+RequestEnabledText,Pyynnöt käytössä
+Least Cash No Colon,Vähiten käteistä
+Least Tiers No Colon,Vähiten tasoja
+SpecialConditionsColon,Erikoisehdot:
+GoalSetForCash,Tavoite on {0} käteistä
+GoalSetForTiers,Tavoite on {0} tasoa
+ChallengeCashUsed,Olet käyttänyt {0} / {1} käteistä
+ChallengeTiersUsed,Olet käyttänyt {0} / {1} tasoa
+ShootyTurret,Amputorni
+CreepyIdol,Karmiva idoli
+RareQuincyActionFigure,Harvinainen Quincy-toimintafiguuri
+GenieBottle,Pullon henki
+ParagonPowerTotem,Esikuvan voimatoteemi
+FriendScreenErrorRequestFailed,Ystäväpyyntö epäonnistui
+FriendScreenErrorInvalidCode,Virheellinen ystäväkoodi
+FriendScreenErrorBlocked,Pelaaja, jota yrität lisätä, on ikävä kyllä estänyt kaveripyynnöt.
+FriendScreenErrorAlreadySent,Olet jo lähettänyt kaveripyynnön tälle pelaajalle.
+FriendScreenErrorTooManyFriends,Olet saavuttanut kaverien maksimimäärän. Voit tehdä tilaa poistamalla nykyisen kaverin tai perumalla tekemäsi kaveripyynnön.
+MapEditor,Karttaeditori
+Jar of Pickles description level 11,Kokeile näitä suolakurkkuja yhdellä Monkey Towersistasi, niin se iskee kovemmin, mutta ammu hitaammin jonkin aikaa. Nyt vahvistetuille Blooneille lisääntynyt vahinko!
+Creepy idol description level 12,Sijoita tämä pelottavan näköinen idoli lähelle raitaa pelotellaksesi joitakin Blooneja (jopa MOABeja!) takaisin lähtökohtaansa.
+Shooty turret description level 13,Pysyvä, käsintehty tikanheittotorni. päivitetty! Syttyy nopeammin ja aiheuttaa enemmän vahinkoa.
+Stack of old nails description level 13,Kyllä, se on vain erittäin suuri pino vanhoja nauloja, mutta laita ne mihin tahansa kappaleeseen, niin ne poksahtavat kätevästi ne eksyneet bloonit.
+See invisibility potion description level 14,Minkä tahansa apinan lahjoititkin tällä erittäin tehokkaalla eliksiirillä, se pystyy näkemään Camo Bloonsin helposti! Vaikutukset häviävät. Nyt lisää kantamaa ja kestää vielä pidempään!
+Sharpening stone description level 15,Teroita nuotit, ystävä! Käytä tätä tikkaasi ja teriisi, niin ne ovat terävämpiä ja aiheuttavat enemmän vahinkoa kuin koskaan ennen.
+Blade trap description level 15,Aseta tämä radalle ja katso, kuinka ensimmäiset Bloonit koskettavat sitä hienojen pyörivien terien murskaavan! Uusi tehokkaampi malli!
+Stack of old nails description level 16,Kyllä, se on vain JÄTTIVÄ NAIL MININE, mutta laita se mihin tahansa kappaleeseen, niin se pomppaa helposti eksyneet Bloonit.
+Jar of Pickles description level 16,Kokeile näitä suolakurkkuja yhdellä Monkey Towersistasi, niin se iskee kovemmin, mutta ammu hitaammin jonkin aikaa. Nyt VENÄJÄ LISÄÄ lisääntyneitä vahinkoja vahvistetuille Blooneille!
+Gerrys fire hot sauce description level 16,2,8 miljoonaa Bloonvillen yksikköä. Jokainen, joka maistaa tätä erikoiskastiketta, sylkee tulta jonkin aikaa! Nyt ylimääräisellä palavuudella.
+Tube of amaz-o-glue description level 17,Todella ällistyttävä! Käytä tätä modernia ihmettä mihin tahansa radalla ja katso, kuinka seuraava joukko Blooneja ja jopa MOABeja hidastuu.
+Genie bottle description level 18,Kutsu Genie Monkey tästä loistavan sinisestä pullosta, mutta varo, se ei kestä ikuisesti! (ei toiveita mukana ostossa). Lisähyökkäys ja enemmän vahinkoa MOAB:ille nyt mukana.
+Creepy idol description level 18,Aseta tämä pelottavan näköinen idoli lähelle raitaa pelästyttääksesi jotkut Bloonit takaisin sinne, mistä he tulivat. Mystical Shroud -päivitys avattu!
+See invisibility potion description level 19,Minkä tahansa apinan lahjoitit tällä erittäin tehokkaalla eliksiirillä, se pystyy näkemään Camo Bloons helposti ja tekemään niille enemmän vahinkoa! Vaikutukset häviävät.
+FriendScreenSureUnBlock,Haluatko varmasti kumota tämän käyttäjän eston?
+None,Ei mitään

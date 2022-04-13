@@ -1,4 +1,4 @@
-﻿//Input. Needs to be first e.g [I] replaced by click or tap,
+//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,클릭
 Tap,터치
 ,
@@ -99,7 +99,7 @@ Quincy Level 13 Description,사정거리가 조금 증가합니다.
 Quincy Level 14 Description,MOAB급 풍선에 화살이 주는 피해가 네 배가 됩니다.
 Quincy Level 15 Description,"속사의 효과가 공격 속도 4배로 증가하며, 쿨다운이 감소합니다."
 Quincy Level 16 Description,공격 속도가 더욱 증가합니다.
-Quincy Level 17 Description,화살이 25% 더 오래갑니다.
+Quincy Level 17 Description,화살이 25% 더 오래갑니다. 공격 2번마다 한 번은 폭발성 화살을 발사합니다.
 Quincy Level 18 Description,퀸시의 공격 속도가 빨라지고 화살 폭풍의 쿨다운이 줄어들며 화살의 개수가 50% 증가합니다.
 Quincy Level 19 Description,각 화살의 터트리는 힘이 더욱 증가합니다.
 Quincy Level 20 Description,"퀸시의 공격 속도가 더 빨라집니다. 화살 폭풍이 화살당 주는 피해가 증가하며, 발사하는 화살 수도 더욱 증가합니다."
@@ -161,11 +161,11 @@ Gwendolin Level 12 Description,공격 속도가 증가합니다.
 Gwendolin Level 13 Description,"터트리는 힘이 상당히 증가하며, 발사무기의 이동 속도와 지속시간이 증가합니다."
 Gwendolin Level 14 Description,불의 칵테일이 추가 피해를 주며 MOAB급 풍선을 태웁니다.
 Gwendolin Level 15 Description,공격 속도가 증가합니다.
-Gwendolin Level 16 Description,화염 폭풍의 지속 시간이 증가합니다. 보라 풍선이 그웬돌린의 공격에 면역이 아니게 됩니다.
+Gwendolin Level 16 Description,불기둥의 지속시간과 피해가 증가합니다. 보라 풍선이 그웬돌린의 공격에 면역이 아니게 됩니다.
 Gwendolin Level 17 Description,후끈후끈의 영향을 받는 원숭이가 풍선을 추가로 1겹 더 터트리며납 풍선에 대한 공격력이 2 증가합니다.
 Gwendolin Level 18 Description,공격 속도가 증가합니다.
 Gwendolin Level 19 Description,공격당 3개의 불길을 방출합니다.
-Gwendolin Level 20 Description,화염 폭풍이 주는 피해가 어마어마하게 증가합니다.
+Gwendolin Level 20 Description,불기둥이 주는 피해가 어마어마하게 증가합니다.
 ,
 Benjamin Level 1 Description,라운드마다 해킹으로 $100를 생성합니다.
 Benjamin Level 2 Description,라운드마다 $100 대신 $150를 생성합니다.
@@ -836,7 +836,7 @@ Rapid Fire Description,평소보다 공격 속도가 증가합니다.
 Exploding Pineapple Description,땅에 떨어지면 몇 초 후에 폭발하는 파인애플을 투하합니다. 에이스의 폭발 공격이 향상됩니다.
 Sharper Darts Description,다트가 각각 8개의 풍선을 터트립니다.
 Lots More Darts Description,한꺼번에 12개의 다트를 던집니다.
-Spy Plane Description,에이스 원숭이가 캐모 풍선을 맞힐 수 있습니다.
+Spy Plane Description,"에이스 원숭이가 캐모 풍선을 맞힐 수 있으며, 더 많은 피해를 줄 수 있습니다."
 Centered Path Description,맵을 최대한 커버하기 위한 새로운 중앙 비행 경로입니다.
 Fighter Plane Description,빠르게 비행하며 MOAB대항 미사일을 발사합니다.
 Bomber Ace Description,풍선 트랙을 지날 때 일련의 폭탄을 투하합니다.
@@ -873,7 +873,7 @@ Burny Stuff Description,명중할 때마다 피해 받은 풍선에 잠깐 불�
 Shockwave Description,"폭발의 충격파가 접촉 지점의 풍선을 기절시키고 넓은 영역의 풍선을 터트리며, 연소 물질의 공격력을 증가합니다."
 Heavy Shells Description,"중량 포탄이 세라믹 풍선, 납 풍선, 모든 강화 풍선에 추가 피해를 줍니다. 또한, 검은 풍선도 터트립니다."
 Signal Flare Description,신호탄이 터트린 캐모 풍선은 영구히 캐모 상태를 잃습니다.
-The Big One Description,엄청난 폭발이 풍선 5겹을 터트리며 연소 물질의 공격력을 더욱더 증가합니다.
+The Big One Description,엄청난 폭발이 풍선 7겹을 터트리며 연소 물질의 공격력을 더욱더 증가합니다.
 Artillery Battery Description,포격 능력: 약간 더 넓은 범위에 연사 공격을 퍼붓습니다. 기본 공격이 3개의 총열로 업그레이드되어 엄청나게 빠른 속도로 공격합니다.
 Shattering Shells Description,"가장 큰 풍선을 제외하고, 비산 포탄에 맞은 풍선의 모든 특수 상태가 해제됩니다."
 The Biggest One Description,"굉장히 넓은 영역에서 풍선의 겹을 깊이 뚫으며, 연소 물질의 공격력이 막강해집니다."
@@ -2154,7 +2154,7 @@ Knowledge unlock tip,레벨30에서부터 원숭이 지식 포인트를 쌓을 �
 Daily challenges unlock at,일일 도전과제와 이벤트는 레벨{0}에서 해제됩니다
 ,
 ,
-FriendLiNKLoginRequiredBody,Facebook 친구 점수를 보려면 계정이 필요합니다. 
+FriendLiNKLoginRequiredBody,친구 점수를 보려면 계정이 필요합니다.
 FriendLiNKLoginRequiredTitle,로그인하시겠습니까?
 FriendLiNKLoginFailed,Facebook 로그인에 실패했습니다. 인터넷 연결 상태와 로그인 정보를 확인하십시오.
 Do It,하세요
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] 눌러 사정거리 내로 어둠포털을 통해 이동
 DarkChampionDarkshift,[I] 눌러 아무 가능한 장소로 어둠포털을 통해 이동하기
 SmallTowersMode,작은 원숭이 타워
 BigTowersMode,커다란 원숭이 타워
-UpdatePopupTitle,업데이트 30!
-UpdatePopupDescription,"신규 콘텐츠 업데이트!\n• 새 고급 맵 '잠긴 기둥'에서 전투를 펼치세요\n• 신규 사이 스킨 '사임벌즈'로 즐거운 소리를 만들어 봐요!\n• 협동 분할 업데이트: 협동 게임을 설정할 때 사용할 수 있는 2가지 새로운 분할 옵션을 추가했으며, 모두 선택 가능합니다\n• 기간 한정 4종 포함 트로피 상점 신규 아이템 16종이 나왔으니 놓치지 마세요!\n• 잠금 해제 가능한 신규 원숭이 지식 4종 추가\n• 신규 업적 추가, 편의성 및 밸런스 조정 등 자세한 정보는 업데이트 노트를 참고하세요"
+UpdatePopupTitle,업데이트 31!
+UpdatePopupDescription,신규 콘텐츠 업데이트!\n• 신규 영웅! 신비의 상인 제랄도가 풍선을 터트리는 아이템이 가득한 멋진 상점과 함께 도착했습니다!\n • 신규 보스! 무시무시한 바람의 대가 보텍스가 등장했습니다!\n• 신규 초보 맵 '고철 처리장'에서 풍선을 신나게 처리해보세요.\n• 신규 리믹스를 포함하는 신규 트로피 상점 아이템 9종\n• 도전과제 탐색기: 퍼즐에 도전하는 재미를 배가하기 위해 최소 캐시 및 최소 티어 특별 승리 조건 추가\n• 새롭게 개편된 영웅 메뉴와 편의성 및 밸런스 개선 등 자세한 변경 사항은 업데이트 노트에서 확인하세요!
 ResetDailyChest,일일 상자 초기화
 JukeboxName,주크박스
 EnableFunction,사용
@@ -3062,7 +3062,7 @@ Drone Swarm Ability Description,에티엔이 임시 드론 4대를 추가로 띄
 UCAV Ability,UCAV
 UCAV Ability Description,고공 감시 드론이 잠깐 동안 무시무시한 전투 드론으로 변합니다.
 Mesa,메사
-DreadPirateBrickellAdmiralBrickellSkinName,드레드 해적 브릭켈
+DreadPirateBrickellAdmiralBrickellSkinName,드레드 해적 브릭켈 스킨
 DreadPirateBrickellAdmiralBrickellSkinDescription,칠해의 여왕이 다시 바다로 나섭니다!
 No Insta Reward,100라운드 보상 없음
 GameUIProfileAvatar19Name,커스텀 아바타 - 정색하는 아도라
@@ -3644,7 +3644,7 @@ GameUIPowerSkinLavaLakeName,커스텀 힘 - 휴대용 용암 못
 GameUIPowerSkinLavaLakeShortName,휴대용 용암 못
 GameUIPowerSkinLavaLakeDescription,공기가 후끈하네요! 골칫거리가 있으면 모두 이 뜨거운 용암 못에 던져버려요!
 Resort,리조트
-ETnEtienneSkinName,ETn
+ETnEtienneSkinName,ETn 스킨
 ETnEtienneSkinDescription,나를 너희의 지도자에게 안내해라.
 VeteranXP,베테랑 XP
 GameUIMusicTrackMusicSailsAgain,항해 재개
@@ -4138,7 +4138,7 @@ GamecenterLoginPrompt,게임을 진행하려면 Game Center에 로그인해야 �
 GamecenterRestrictedTitle,멀티플레이어 기능 제한됨
 GamecenterLoginTitle,Game Center 로그인
 QuietStreet,조용한 거리
-GalaxiliEziliSkinName,갤럭실리
+GalaxiliEziliSkinName,갤럭실리 스킨
 GalaxiliEziliSkinDescription,"우리를 이루는 것, 우리 눈에 보이는 것 모두는 우주의 먼지로 구성되어 있다."
 MonkeyBuccaneer Paragon,대양의 나바크
 MonkeyBuccaneer Paragon Description,물에 뜨는 것 중 가장 위대합니다.
@@ -4254,7 +4254,7 @@ Achievement 142 Description,"계속하기나 체크포인트에서 1,000 멍키 
 PetSounds,펫 사운드
 UserID,사용자 ID
 SunkenColumns,잠긴 기둥
-PsimbalsPsiSkinName,사임벌즈
+PsimbalsPsiSkinName,사임벌즈 스킨
 PsimbalsPsiSkinDescription,공연할 준비 됐나요?!
 HeroesStrikerJonesPetGermanShepherdName,스트라이커 존스 저먼 셰퍼드 펫
 HeroesStrikerJonesPetGermanShepherdShortName,스트라이커 강아지 펫
@@ -4297,7 +4297,7 @@ GameUIPowerSkinMonkeyBoostSugarRushShortName,슈가 러시 부스트
 GameUIPowerSkinMonkeyBoostSugarRushDescription,인간이라면 누구나 당을 섭취해 줘야 일의 능률이 오른다는 것을 잘 알고 있지요. 원숭이도 마찬가지입니다.
 GameUIProfileBanner10Name,비범한 낙서 프로필 배너
 GameUIProfileBanner10ShortName,비범한 낙서 배너
-GameUIProfileBanner10Description,bonbonni 님의 배너 공모전 당선작
+GameUIProfileBanner10Description,chompypaw 님의 배너 공모전 당선작
 GameUIProfileBanner11Name,아르카눔 네크로니콤 프로필 배너
 GameUIProfileBanner11ShortName,아르카눔 네크로니콤 배너
 GameUIProfileBanner11Description,_Concilliabule_ 님의 배너 공모전 당선작
@@ -4327,3 +4327,180 @@ FilterMisc,기타
 Blast Chain Ability,블래스트 체인
 Blast Chain Ability Description,잠시 동안 어뢰 발사 속도가 빨라집니다.
 TowerSpecial,원숭이 스페셜
+Geraldo,제랄도
+Geraldo Short Description,신비의 상인
+Geraldo Description,"상인 제랄도는 유용한 아이템을 많이 팔며, 번개 공격으로 풍선을 감전시켜요."
+Geraldo Level 1 Description,"판매 상품! 다트 포탑, 녹슨 못더미, 음산한 우상, 피클 항아리. 제랄도는 단거리 마법 공격도 할 수 있습니다."
+Geraldo Level 2 Description,신규 아이템! 희귀 퀸시 액션 피겨 - 오래 소장할수록 그 가치가 올라갑니다!
+Geraldo Level 3 Description,신규 아이템! 투명 보기 물약 - 원숭이 타워나 영웅에게 잠시 캐모 감지 능력을 부여합니다. 제랄도의 공격 사정거리가 증가합니다.
+Geraldo Level 4 Description,신규 아이템! 초강력 접착제 - 트랙에 놓으면 풍선의 속도를 느리게 합니다.
+Geraldo Level 5 Description,신규 아이템! 숫돌 - 원숭이 타워나 영웅의 뾰족하거나 날카로운 공격의 관통력을 증가합니다.
+Geraldo Level 6 Description,신규 아이템! 영웅의 낡은 망토 - 2티어 이하의 다트 원숭이를 슈퍼 원숭이로 변신시켜줍니다! 이렇게 변신한 슈퍼 원숭이는 3티어까지만 업그레이드할 수 있습니다.
+Geraldo Level 7 Description,신규 아이템! 칼날 함정 - 풍선이 함정을 건드리면 칼날 소용돌이를 일으킵니다. 제랄도의 기본 공격의 피해와 관통력이 증가합니다.
+Geraldo Level 8 Description,"신규 아이템! 병에 든 '제랄도의 불' - 풍선빌 수치 280만의 순수한 불소스! 원숭이, 영웅 또는 미니언에게 10라운드 동안 불 공격을 부여합니다."
+Geraldo Level 9 Description,신규 아이템! 비료 - 눈에 보이는 바나나를 생산하는 바나나 농장을 대상으로 지정하면 여러 라운드 동안 생산량이 증가하고 캐시 보너스가 나옵니다. 제랄도의 기본 공격의 폭발 반경이 증가합니다.
+Geraldo Level 10 Description,신규 아이템! 애완 토끼 - 정말 깜찍하고 귀여운 토깽이!
+Geraldo Level 11 Description,"신규 아이템! 회춘의 물약 - 모든 원숭이 타워와 영웅의 쿨다운을 초기화하고, 목숨 50개를 회복합니다. 제랄도의 기본 공격의 관통력이 증가하고, 피클 항아리가 강화 풍선에게 추가 피해를 줍니다. "
+Geraldo Level 12 Description,신규 아이템! 지니의 호리병 - 3라운드 동안 플라스마를 동력으로 쓰는 지니 원숭이를 소환합니다. 음산한 우상이 눈에 보이는 MOAB급 풍선이 지나갈 때 잠깐 기절시킬 때도 있습니다.
+Geraldo Level 13 Description,"다트 포탑이 더 빠르게 발사하고 더 많은 피해를 주며, 녹슨 못더미의 공격력도 증가합니다."
+Geraldo Level 14 Description,투명 보기 물약이 사정거리도 증가하고 더 오래 지속됩니다.
+Geraldo Level 15 Description,"숫돌이 관통력 외에 공격력도 증가하고, 칼날 함정의 발동 위력이 증가합니다."
+Geraldo Level 16 Description,"녹슨 못더미가 못지뢰가 되고, 피클 항아리가 강화 풍선에게 추가 피해를 주고, 제랄도의 불에 연소 피해가 추가됩니다."
+Geraldo Level 17 Description,"제랄도의 기본 공격이 더 많은 피해를 주고, 초강력 접착제가 이제 MOAB급 풍선에게도 약간의 영향을 미칩니다."
+Geraldo Level 18 Description,"지니에게 근거리 대상 보조 공격이 생기고, MOAB급 풍선에게 추가 피해를 줍니다. 음산한 우상이 MOAB급 풍선에게 신비의 장막을 씌워 터질 때 주변에 큰 피해를 주게 합니다."
+Geraldo Level 19 Description,"제랄도의 메인 공격의 속도가 빨라지고, 사정거리가 길어지며, 더 많은 피해를 줍니다. 투명 보기 물약이 캐모 풍선에 추가 피해를 줍니다."
+Geraldo Level 20 Description,신규 아이템! 파라곤 파워 토템 - 다음에 생성되는 파라곤에게 파라곤 파워를 추가합니다. 제랄도의 기본 공격이 더 많은 피해를 줍니다.
+Geraldo Shop shortname,상점
+Geraldo Shop name,제랄도의 상점
+Shooty turret name,다트 포탑
+Shooty turret description,수제 다트를 발사하는 영구 포탑.
+Stack of old nails name,녹슨 못더미
+Stack of old nails description,"그냥 녹슨 못이 잔뜩 있을 뿐이지만, 트랙 아무 데나 올려놓으면 미처 놓친 풍선을 터트려줍니다."
+Creepy idol name,음산한 우상
+Creepy idol description,이 기분 나쁘게 생긴 우상을 트랙 근처에 놓으면 일부 풍선에게 겁을 줘서 다시 돌아가게 만듭니다.
+Jar of Pickles name,피클 항아리
+Jar of Pickles description,"원숭이 타워에 이 피클을 주면 한동안 공격이 더 강해지지만, 공격 속도가 낮아집니다."
+Rare Quincy action figure name,희귀 퀸시 액션 피겨
+Rare Quincy action figure description,"한정판 민트급 오리지널 퀸시, 퀸시 아들 액션 피겨! 시간이 지나갈수록 가치가 올라가니까 지금 구매하세요!"
+See invisibility potion name,투명 보기 물약
+See invisibility potion description,어떤 원숭이든 이 효력 짱짱인 영약을 주면 캐모 풍선을 쉽게 볼 수 있습니다! 일정 시간이 지나면 효과가 사라집니다.
+Tube of amaz-o-glue name,초강력 접착제
+Tube of amaz-o-glue description,정말 강력합니다! 이 현대 기술이 집적된 발명품을 트랙 아무 데나 바르면 그 위로 풍선이 지나가면서 느려지게 됩니다.
+Sharpening stone name,숫돌
+Sharpening stone description,다트를 뾰족하게 갈아요! 다트와 칼날에 적용하면 이전보다 훨씬 더 뾰족해지고 날카로워집니다.
+Worn heros cape name,영웅의 낡은 망토
+Worn heros cape description,영웅이란 망토를 두르는 법! 다트 원숭이에게 주면 변신합니다! 사용감이 살짝...인 정도는 아니고 끝이 조금 해졌습니다.
+Blade trap name,칼날 함정
+Blade trap description,트랙에 놓으면 풍선이 이걸 건드리자마자 칼날의 소용돌이에 갈갈이 찢기게 됩니다!
+Gerrys fire hot sauce name,병에 든 '제랄도의 불'
+Gerrys fire hot sauce description,풍선빌 수치 280만. 이 특제 소스를 맛보기만 해도 한동안 입에서 불을 뿜게 됩니다!
+Fertilizer name,비료
+Fertilizer description,농장에 바나나가 있나요? 바나나를 더 원하나요? 이 특급 마법 비료를 그 농장에 직접 뿌리면 당장 더 많은 바나나를 가질 수 있어요!
+Pet rabbit name,애완 토끼
+Pet rabbit description,가끔은 그냥 깜찍한 작은 토끼가 필요할 때도 있지요! 여러 마리도요!
+Rejuv potion name,회춘의 물약
+Rejuv potion description,이 맛난 음료를 아무 데나 놓으면 그 회춘의 힘으로 잃은 목숨을 회복하고 능력의 쿨다운을 초기화합니다.
+Genie bottle name,지니의 호리병
+Genie bottle description,"이 파란 호리병으로 지니 원숭이를 소환해 보세요! 단, 일정 시간이 지나면 사라집니다! (소원은 상품에 포함되지 않습니다.)"
+Paragon power totem name,파라곤 파워 토템
+Paragon power totem description,이 신비의 아티팩트로 다음 파라곤의 파워를 향상하세요...
+EventEndingSoonText,이벤트가 곧 끝나기 때문에 입장할 수 없습니다.
+EngineerMonkey Paragon,건축의 대가
+EngineerMonkey Paragon Description,원숭이 공학이 완벽한 수준으로 발전했습니다. 스스로 경비 탑을 짓는 메가 경비 탑 세 개를 생성합니다.
+OptionsLogout,로그아웃
+ConfirmLogout,로그아웃 확인
+ConfirmLogoutDesc,정말 계정에서 로그아웃하시겠습니까? 그렇다면 로그아웃을 진행하기 전에 계정 정보와 연동 코드를 따로 보관하십시오.\n\n{0}
+VortexTagLine,하늘에서 날아오는
+VortexTagLine2,무시무시한 바람의 대가
+Vortex,보텍스
+VortexInfoPanelDescription,"• 보텍스는 번개처럼 움직이며, 다른 풍선들의 속도를 올려줍니다!\n• 체력 막대 해골에 도달할 때마다 보텍스가 실드를 두르고 주변 타워를 기절시키는 충격파를 발생시키며 트랙에서 얼마 후퇴합니다.\n• 보텍스는 트랙에 있는 비파워 요소를 포함하여 발사무기를 파괴하는 폭풍 진동을 발사합니다."
+Scrapyard,고철 처리장
+BloonsAllBloonsCatEarName,고양이귀 풍선
+BloonsAllBloonsCatEarShortName,고양이귀 풍선
+BloonsAllBloonsCatEarDescription,"풍선과 고양이는 원래 잘 어울리지 않지만, 이 경우는 특별합니다."
+BloonsAllBloonsDisguiseGlassesName,위장 안경 풍선
+BloonsAllBloonsDisguiseGlassesShortName,위장 안경 풍선
+BloonsAllBloonsDisguiseGlassesDescription,이 정도의 위장에 속는 건 원숭이밖에 없겠죠. 가만...
+CoopEmoteAnimationPatFlexName,팻 플렉스 감정표현
+CoopEmoteAnimationPatFlexShortName,팻 플렉스
+CoopEmoteAnimationPatFlexDescription,"근육과 두뇌라니, 멋진 조합이네요! 팻은 강해요!"
+CoopEmoteAnimationMindBlownName,경악 감정표현
+CoopEmoteAnimationMindBlownShortName,경악
+CoopEmoteAnimationMindBlownDescription,협동 팀원이 믿을 수 없는 활약을 보여줬을 때 사용하면 딱 좋은 감정표현입니다!
+GameUIProfileAvatar59Name,슈퍼 원숭이 아바타
+GameUIProfileAvatar59ShortName,슈퍼 원숭이 아바타
+GameUIProfileAvatar59Description,"그 눈빛에는 사랑이 가득합니다. 그 눈빛이 당신을 향하는 것인지, 당신의 눈에 비친 자신의 모습을 향하는 건지는 확인이 필요하겠지요."
+GameUIProfileAvatar60Name,스트라이커 존스 아바타
+GameUIProfileAvatar60ShortName,스트라이커 존스 아바타
+GameUIProfileAvatar60Description,스트라이커 존스 신고합니다! 듬직한 포병 원숭이의 거수경례와 함께 승리를 향한 포부를 드러내세요.
+GameUIProfileBanner13Name,도착 배너
+GameUIProfileBanner13ShortName,도착 프로필 배너
+GameUIProfileBanner13Description,betapotata 님의 배너 공모전 당선작
+GameUIProfileBanner14Name,물속 배너
+GameUIProfileBanner14ShortName,물속 프로필 배너
+GameUIProfileBanner14Description,Cyliia 님의 배너 공모전 당선작
+GameUIMusicTrackMusicSunshineFiestaMixName,주크박스: 햇살의 세레나데 - 피에스타 리믹스
+GameUIMusicTrackMusicSunshineFiestaMixShortName,햇살 - 피에스타
+GameUIMusicTrackMusicSunshineFiestaMixDescription,볼륨을 높여 햇살의 세레나데의 멋진 리믹스를 즐겨요.
+CantSubmitEventEnded,이벤트가 이미 끝나서 점수를 제출할 수 없습니다.
+CyberQuincySkinNameFull,사이버 퀸시
+ScientistGwendolinSkinNameFull,과학자 그웬돌린
+SentaiCaptainChurchillSkinNameFull,전대 처칠
+BikerBonesSkinNameFull,바이커 본즈
+ObynOceanGuardianSkinNameFull,바다의 지킴이
+BenJamminSkinNameFull,벤재밍 DJ
+SmudgeCattSkinNameFull,스머지 캣
+FustyTheSnowmanSkinNameFull,눈사람 퍼스티
+WolfpackQuincySkinNameFull,늑대무리 퀸시
+JoanOfArcAdoraSkinNameFull,잔다르크 아도라
+HarlegwenGwendolinSkinNameFull,할리그웬
+OctoJonesStrikerJonesSkinNameFull,옥토존스
+DreadPirateBrickellAdmiralBrickellSkinNameFull,드레드 해적 브릭켈
+ObynMountainGuardianSkinNameFull,산의 지킴이
+SushiBentoBenjaminSkinNameFull,스시 벤또
+ETnEtienneSkinNameFull,ETn
+VikingSaudaSaudaSkinNameFull,바이킹 사우다
+GalaxiliEziliSkinNameFull,갤럭실리
+PsimbalsPsiSkinNameFull,사임벌즈
+Least Cash,최소 캐시:
+Least Tiers,최소 티어:
+Least Cash Used,최소 사용 캐시:
+Least Tiers Used,최소 사용 티어:
+All Tiers Used,모든 티어 사용
+All Cash Used,모든 캐시 사용
+Tiers Used,사용 티어
+Cash Used,사용 캐시
+No Score Set,점수 없음
+Auto,자동
+FriendScreenFriends,친구
+FriendScreenRequests,요청
+FriendScreenYourFriendCode,친구 코드:
+FriendScreenOnline,온라인
+FriendScreenOffline,오프라인
+FriendScreenAccept,수락
+FriendScreenDecline,거절
+FriendScreenBlock,차단
+FriendScreenFriendText,여기에 친구가 표시됩니다. 친구와 가족들에게 친구 코드를 공유하세요.
+RequestDisabledText,요청 안 받음
+FriendScreenEnterCode,친구 코드 입력!
+FriendScreenAdd,추가
+FriendScreenSureUnfriend,정말 이 사용자를 친구 목록에서 제거하시겠습니까?
+FriendScreenSureBlock,정말 이 사용자를 차단하시겠습니까?
+SpecialConditions,특별 조건
+FriendScreenRequestText,여기에 요청이 표시됩니다. 친구와 가족들에게 친구 코드를 공유하세요.
+FriendScreenCodeHidden,친구 코드 숨김
+RequestEnabledText,요청 받음
+Least Cash No Colon,최소 캐시
+Least Tiers No Colon,최소 티어
+SpecialConditionsColon,특별 조건:
+GoalSetForCash,{0}캐시로 목표를 정했습니다.
+GoalSetForTiers,{0}티어로 목표를 정했습니다.
+ChallengeCashUsed,{0} / {1} 캐시를 사용했습니다.
+ChallengeTiersUsed,{0} / {1} 티어를 사용했습니다.
+ShootyTurret,다트 포탑
+CreepyIdol,음산한 우상
+RareQuincyActionFigure,희귀 퀸시 액션 피겨
+GenieBottle,지니의 호리병
+ParagonPowerTotem,파라곤 파워 토템
+FriendScreenErrorRequestFailed,친구 요청 실패
+FriendScreenErrorInvalidCode,잘못된 친구 코드
+FriendScreenErrorBlocked,안타깝게도 추가하려는 플레이어가 친구 요청을 차단했습니다!
+FriendScreenErrorAlreadySent,이미 친구 요청을 보낸 플레이어입니다.
+FriendScreenErrorTooManyFriends,최대 친구 한도에 도달했습니다. 기존 친구를 삭제하거나 보낸 친구 신청을 취소하여 공간을 확보할 수 있습니다.
+MapEditor,지도 편집기
+Jar of Pickles description level 11,원숭이 타워 중 하나에 이 피클을 시도하면 더 세게 치지만 잠시 동안은 더 느리게 쏘십시오. 이제 강화된 풍선에 대한 피해가 증가합니다!
+Creepy idol description level 12,이 으스스한 모양의 우상을 트랙 근처에 두어 Bloons(심지어 MOAB까지!)가 왔던 곳으로 돌아가게 하세요.
+Shooty turret description level 13,영구적이고 손으로 만든 다트 사격 포탑입니다. 업그레이드! 더 빨리 발사되고 더 많은 피해를 줍니다.
+Stack of old nails description level 13,네, 오래된 못을 아주 많이 쌓았을 뿐이지만 트랙의 아무 곳에나 놓으면 흩어진 풍선을 쉽게 터뜨릴 수 있습니다.
+See invisibility potion description level 14,이 매우 효과적인 비약으로 원숭이에게 무엇을 선물하든 Camo Bloons를 쉽게 볼 수 있습니다! 효과가 사라집니다. 이제 범위가 증가하고 더 오래 지속됩니다!
+Sharpening stone description level 15,다트를 날카롭게 하세요, 친구! 이것을 다트와 칼날에 적용하면 그 어느 때보다 날카로워지고 더 많은 피해를 줄 수 있습니다.
+Blade trap description level 15,이것을 트랙에 놓고 만진 첫 번째 풍선이 거대한 소용돌이 칼날에 의해 갈가리 찢어지는 것을 지켜보십시오! 더 강력해진 새로운 모델!
+Stack of old nails description level 16,예, 그것은 단지 거대한 NAIL MINE이지:만 트랙의 아무데나 놓으면 쉽게 그 길 잃은 풍선을 터뜨릴 것입니다.
+Jar of Pickles description level 16,원숭이 타워 중 하나에 이 피클을 시도하면 더 세게 치지만 잠시 동안은 더 느리게 쏘십시오. 이제 강화된 풍선에 대한 피해가 더욱 증가합니다!
+Gerrys fire hot sauce description level 16,280만 블룬빌 유닛. 이 특별한 소스를 맛보는 사람은 잠시 동안 불을 뿜을 것입니다! 이제 추가 버니니스와 함께.
+Tube of amaz-o-glue description level 17,정말로 놀라운! 트랙 어디에서나 이 현대적 경이의 튜브를 적용하고 다음 Bloons 무리와 MOAB조차도 바로 느려지는 것을 지켜보십시오.
+Genie bottle description level 18,이 찬란한 파란색 병에서 Genie Monkey를 소환하세요. 하지만 영원히 지속되는 것은 아니니 조심하세요! (구매에 포함된 소원 없음). 이제 MOAB에 대한 추가 공격 및 추가 피해가 포함됩니다.
+Creepy idol description level 18,이 으스스한 모양의 우상을 트랙 근처에 두어 Bloons가 왔던 곳으로 돌아가게 하세요. 신비로운 수의 업그레이드 잠금 해제!
+See invisibility potion description level 19,이 매우 효과적인 비약으로 원숭이에게 무엇을 선물하든 Camo Bloons를 쉽게 볼 수 있고 더 많은 피해를 줄 수 있습니다! 효과가 사라집니다.
+FriendScreenSureUnBlock,이 사용자를 차단 해제하시겠습니까?
+None,없음

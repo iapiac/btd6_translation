@@ -1,4 +1,4 @@
-﻿//Input. Needs to be first e.g [I] replaced by click or tap,
+//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Clicca
 Tap,Tocca
 ,
@@ -99,7 +99,7 @@ Quincy Level 13 Description,Lieve aumento di portata.
 Quincy Level 14 Description,Le frecce infliggono danno quadruplo ai bloon classe MOAB.
 Quincy Level 15 Description,Colpo rapido diventa attacco dalla velocità quadruplicata e il tempo di ricarica è ridotto.
 Quincy Level 16 Description,Velocità d'attacco ulteriormente aumentata.
-Quincy Level 17 Description,Le frecce durano il 25% in più.
+Quincy Level 17 Description,Le frecce durano il 25% in più. Spara frecce esplosive ogni 2 colpi.
 Quincy Level 18 Description,Quincy attacca più velocemente e Tempesta di frecce ha un tempo di recupero ridotto e 50% frecce in più.
 Quincy Level 19 Description,Ogni freccia è in grado di far scoppiare più bloon.
 Quincy Level 20 Description,Quincy attacca ancora più velocemente. Tempesta di frecce infligge ancora più danni e lancia più frecce.
@@ -161,7 +161,7 @@ Gwendolin Level 12 Description,Velocità d'attacco aumentata.
 Gwendolin Level 13 Description,Molti più Bloon distrutti per colpo e i proiettili si muovono più velocemente e durano più a lungo.
 Gwendolin Level 14 Description,Cocktail di fuoco infligge danni extra e incendia i Bloon di classe MOAB.
 Gwendolin Level 15 Description,Velocità d'attacco aumentata.
-Gwendolin Level 16 Description,Tempesta di fuoco ha una durata maggiore. I bloon viola non sono più immuni agli attacchi di Gwendolin.
+Gwendolin Level 16 Description,Tempesta di fuoco ha una durata maggiore e infligge più danni. I bloon viola non sono più immuni agli attacchi di Gwendolin.
 Gwendolin Level 17 Description,Raffica ustionante consente alle scimmie sotto il suo effetto di far scoppiare 1 strato aggiuntivo e di infliggere +2 di danno ai bloon di piombo.
 Gwendolin Level 18 Description,Velocità d'attacco aumentata.
 Gwendolin Level 19 Description,Spara 3 raffiche di fuoco per colpo.
@@ -836,7 +836,7 @@ Rapid Fire Description,Spara più rapidamente del normale.
 Exploding Pineapple Description,Rilascia ananas al suolo che esplodono violentemente dopo alcuni secondi. Gli attacchi esplosivi dell'asso sono migliorati.
 Sharper Darts Description,Ogni freccetta è in grado di far scoppiare 8 bloon.
 Lots More Darts Description,Spara 12 freccette per volta.
-Spy Plane Description,Consente alla scimmia asso di colpire i bloon mimetizzati.
+Spy Plane Description,Consente alla scimmia asso di colpire i bloon mimetizzati e infliggere loro più danni.
 Centered Path Description,Nuova traiettoria di volo centrata che garantisce la massima copertura della mappa.
 Fighter Plane Description,Vola rapidamente e lancia missili anti MOAB.
 Bomber Ace Description,Rilascia una serie di bombe quando attraversa il tracciato.
@@ -873,7 +873,7 @@ Burny Stuff Description,I bloon danneggiati prendono momentaneamente fuoco ad og
 Shockwave Description,"L'onda d'urto delle raffiche stordisce i bloon coinvolti, fa scoppiare quelli in un'area più ampia e aumenta di danni da materiale infiammabile."
 Heavy Shells Description,"Le granate pesanti provocano danno extra ai bloon di ceramica, di piombo, a tutti quelli fortificati e a tutti quelli immobilizzati. Possono anche far scoppiare i bloon neri."
 Signal Flare Description,I bloon mimetizzati esplosi con i bengala perdono definitivamente la loro mimetizzazione.
-The Big One Description,"Esplosioni devastanti fanno scoppiare 5 strati di bloon, oltre ad aumentare ulteriormente i danni da materiale infiammabile."
+The Big One Description,"Esplosioni devastanti fanno scoppiare 7 strati di bloon, oltre ad aumentare ulteriormente i danni da materiale infiammabile."
 Artillery Battery Description,Abilità Bombardamento: scatena un attacco di fuoco rapido su un'area un po' più ampia. L'attacco principale passa a 3 canne per attacchi incredibilmente veloci.
 Shattering Shells Description,Le granate frantumatrici privano i bloon (tranne quelli di più grosse dimensioni) di tutte le proprietà speciali.
 The Biggest One Description,"Fa esplodere con forza i bloon e gli strati presenti in un'ampia area, oltre a infliggere gravi danni da materiale infiammabile."
@@ -2154,7 +2154,7 @@ Knowledge unlock tip,Inizierai a guadagnare punti Sapienza scimmiesca dal livell
 Daily challenges unlock at,Le sfide giornaliere e gli eventi si sbloccano al livello {0}
 ,
 ,
-FriendLiNKLoginRequiredBody,Per visualizzare i punteggi degli amici di Facebook è necessario disporre di un account.
+FriendLiNKLoginRequiredBody,Per visualizzare i punteggi degli amici è necessario disporre di un account.
 FriendLiNKLoginRequiredTitle,Accedere?
 FriendLiNKLoginFailed,Impossibile accedere a Facebook. Controlla la connessione Internet e le informazioni di accesso.
 Do It,Esegui!
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] per effettuare Passaggio oscuro nel raggio d'azione
 DarkChampionDarkshift,[I] per effettuare Passaggio oscuro in qualsiasi posizione valida
 SmallTowersMode,Torri scimmia piccola
 BigTowersMode,Torri scimmia grandi
-UpdatePopupTitle,Aggiornamento 30!
-UpdatePopupDescription,"Nuovo aggiornamento contenuti!\n• Fatti strada combattendo nella nuova mappa di livello Difficile: Colonne sommerse\n• Fai rumore con la nuova skin Psi: Psimbals!\n• Aggiornamento divisioni co-op: 2 nuove divisioni aggiunte e completamente selezionabili quando si imposta una partita cooperativa\n• 16 nuovi oggetti del Negozio trofei tra cui 4 a tempo limitato, fai presto!\n• 4 nuove sapienze scimmiesche da sbloccare\n• Nuovi obiettivi, modifiche al bilanciamento e alla qualità della vita, dai un'occhiata alle note per tutti i dettagli"
+UpdatePopupTitle,Aggiornamento 31!
+UpdatePopupDescription,"Nuovo aggiornamento dei contenuti!\n• Nuovo eroe! Geraldo il negoziante mistico è arrivato con il suo fantastico emporio di oggetti scoppia-bloon!\n • Nuovo boss! Vortex il dominatore letale dell'aria è stato liberato!\n• Divertiti a distruggere i bloon sulla nuova mappa livello principiante: Discarica\n• 9 nuovi oggetti nel Negozio trofei, tra cui un nuovo remix\n• Cerca sfida: aggiunte condizioni speciali per la vittoria con minimo di contante e minimo di livelli per farti gustare la sfida\n• Il menu Eroi è stato rinnovato e migliorato, oltre ad aver apportato modifiche alla qualità della vita e all'equilibrio. Leggi le note dell'aggiornamento per tutti i dettagli!"
 ResetDailyChest,Azzera cassa delle ricompense giornaliere
 JukeboxName,Jukebox
 EnableFunction,Attiva
@@ -3062,7 +3062,7 @@ Drone Swarm Ability Description,Etienne lancia 4 droni temporanei aggiuntivi per
 UCAV Ability,UCAV
 UCAV Ability Description,Il drone di sorveglianza ad alta quota diventa un letale drone da combattimento per un breve periodo.
 Mesa,Mesa
-DreadPirateBrickellAdmiralBrickellSkinName,Brickell Temibile pirata
+DreadPirateBrickellAdmiralBrickellSkinName,Skin Brickell Temibile pirata
 DreadPirateBrickellAdmiralBrickellSkinDescription,La regina dei Sette mari salpa ancora!
 No Insta Reward,Ricompensa no round 100
 GameUIProfileAvatar19Name,Avatar personalizzato - Adora sguardo neutro
@@ -3644,7 +3644,7 @@ GameUIPowerSkinLavaLakeName,Potere personalizzato: Lago di lava portatile
 GameUIPowerSkinLavaLakeShortName,Lago di lava portatile
 GameUIPowerSkinLavaLakeDescription,Inizia a fare caldo qui! Lascia che le tue preoccupazioni evaporino immergendoti in un caloroso abbraccio!
 Resort,Resort
-ETnEtienneSkinName,ETn
+ETnEtienneSkinName,Skin Etn
 ETnEtienneSkinDescription,Portami dal tuo capo.
 VeteranXP,PE veterano
 GameUIMusicTrackMusicSailsAgain,Salpa ancora
@@ -4138,7 +4138,7 @@ GamecenterLoginPrompt,"Esegui l'accesso a Game Center per accedere. Apri le Impo
 GamecenterRestrictedTitle,Accesso multigiocatore negato
 GamecenterLoginTitle,Accedi a Game Center
 QuietStreet,Strada silenziosa
-GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinName,Skin Galaxili
 GalaxiliEziliSkinDescription,"Tutto quel che siamo, tutto quel che vediamo, è polvere di stelle"
 MonkeyBuccaneer Paragon,Navarch dei mari
 MonkeyBuccaneer Paragon Description,La cosa più grande che abbia mai galleggiato sull'acqua.
@@ -4254,7 +4254,7 @@ Achievement 142 Description,Spendi 1.000 MM su Tentativi o Checkpoint
 PetSounds,Suoni animaletto
 UserID,ID utente
 SunkenColumns,Colonne sommerse
-PsimbalsPsiSkinName,Psi-cimbali
+PsimbalsPsiSkinName,Skin Psi-cimbali
 PsimbalsPsiSkinDescription,È l'ora dello spettacolo!
 HeroesStrikerJonesPetGermanShepherdName,Animaletto pastore tedesco di Striker Jones
 HeroesStrikerJonesPetGermanShepherdShortName,Cucciolo di animaletto di Striker
@@ -4297,7 +4297,7 @@ GameUIPowerSkinMonkeyBoostSugarRushShortName,Potenziamento scarica di zuccheri
 GameUIPowerSkinMonkeyBoostSugarRushDescription,Umani: sappiamo tutti che performiamo meglio sotto l'influenza di una grande quantità di zuccheri. Per le scimmie vale la stessa cosa.
 GameUIProfileBanner10Name,Banner profilo Scarabocchio luccicante
 GameUIProfileBanner10ShortName,Banner Scarabocchio luccicante
-GameUIProfileBanner10Description,Banner vincitore di bonbonni
+GameUIProfileBanner10Description,Banner vincitore di chompypaw
 GameUIProfileBanner11Name,Banner profilo Necronicom Arcanum
 GameUIProfileBanner11ShortName,Banner Necronicom Arcanum
 GameUIProfileBanner11Description,Banner vincitore di _Concilliabule_
@@ -4327,3 +4327,180 @@ FilterMisc,Varie
 Blast Chain Ability,Catena di esplosioni
 Blast Chain Ability Description,Le Mine navali esplodono più velocemente per un breve lasso di tempo.
 TowerSpecial,Speciale scimmia
+Geraldo,Geraldo
+Geraldo Short Description,Negoziante mistico
+Geraldo Description,Geraldo il negoziante mistico vende una selezione di oggetti utili e fulmina i bloon con il suo attacco fulminante.
+Geraldo Level 1 Description,"Oggetti disponibili! Torre spara freccette, mucchio di vecchi chiodi, idolo inquietante, barattolo di cetriolini. Geraldo ha anche un attacco magico a portata ridotta."
+Geraldo Level 2 Description,"Nuovo oggetto! Rara action figure di Quincy: più a lungo la possiedi, più aumenta il suo valore!"
+Geraldo Level 3 Description,Nuovo oggetto! Pozione anti-invisibilità: fornisce a una torre scimmiesca o a un eroe la possibilità di individuare la mimetizzazione per un breve periodo. Aumenta la portata dell'attacco di Geraldo.
+Geraldo Level 4 Description,Nuovo oggetto! Tubetto di incollatutto: può essere posizionato sul tracciato per rallentare i bloon.
+Geraldo Level 5 Description,Nuovo oggetto! Pietra cote: potenzia la perforazione di una torre scimmiesca o di un eroe quando infliggono danni da taglio.
+Geraldo Level 6 Description,Nuovo oggetto! Mantello logoro dell'eroe: trasforma una scimmia lancia freccette di livello 2 o inferiore in una Super scimmia! Le Super scimmie trasformate possono essere potenziate solo fino al livello 3.
+Geraldo Level 7 Description,"Nuovo oggetto! Trappola di lame: quando un bloon visibile tocca la trappola, scatta un vortice di lame. Aumentano danni e perforazione inflitti dall'attacco principale di Geraldo."
+Geraldo Level 8 Description,"Nuovo oggetto! Bottiglia di ""Fuoco di Gerry"": 2,8 milioni di unità Bloonville per questa salsa ultra piccante! Conferisce a una scimmia, a un eroe o a un aiutante un attacco fiammante per 10 round."
+Geraldo Level 9 Description,Nuovo oggetto! Fertilizzante: i Vivai di banane presi di mira che producono banane visibili aumentano la loro produzione e ottengono bonus contante per diversi round. Aumenta il raggio dell'esplosione dell'attacco principale di Geraldo.
+Geraldo Level 10 Description,"Nuovo oggetto! Animaletto coniglio: oh, che bel coniglietto!"
+Geraldo Level 11 Description,"Nuovo oggetto! Elisir di lunga vita: azzera tutti i tempi di recupero delle torri scimmiesche e degli eroi e ripristina 50 vite. Aumenta la perforazione dell'attacco principale di Geraldo, mentre il barattolo di cetriolini infligge danni bonus ai bloon fo"
+Geraldo Level 12 Description,Nuovo oggetto! Lampada del genio: evoca una scimmia genio al plasma che dura 3 round. L'idolo inquietante può così applicare uno stordimento occasionale di breve durata ai bloon di classe MOAB visibili di passaggio.
+Geraldo Level 13 Description,"La torre spara freccette è più veloce e infligge danni maggiori, mentre il mucchio di vecchi chiodi infligge più danni."
+Geraldo Level 14 Description,La pozione anti-invisibilità estende la portata e dura di più.
+Geraldo Level 15 Description,"La pietra cote aumenta i danni oltre a perforare, mentre la trappola di lame crea un effetto più potete quando viene fatta scattare."
+Geraldo Level 16 Description,"Il mucchio di vecchi chiodi diventa una miniera di chiodi, il barattolo di cetriolini infligge danni bonus aggiuntivi ai bloon fortificati e il Fuoco di Gerry ottiene danni da bruciatura bonus."
+Geraldo Level 17 Description,L'attacco principale di Geraldo infligge più danni e l'incollatutto ha un effetto ridotto sui bloon di classe MOAB.
+Geraldo Level 18 Description,"Il genio ottiene un secondo attacco a distanza ravvicinata e infligge danni bonus ai bloon di classe MOAB, mentre l'idolo inquietante applica un sudario mistico ai bloon di classe MOAB che provoca danni ingenti nei dintorni quando scoppiano."
+Geraldo Level 19 Description,"L'attacco principale di Geraldo è più rapido, ha una portata maggiore e infligge più danni, mentre la pozione anti-invisibilità ottiene danni bonus contro i bloon mimetizzati."
+Geraldo Level 20 Description,Nuovo oggetto! Totem potere del campione: aggiunge il potere del campione al campione successivamente creato. L'attacco principale di Geraldo infligge più danni.
+Geraldo Shop shortname,Negozio
+Geraldo Shop name,Negozio di Geraldo
+Shooty turret name,Torre spara freccette
+Shooty turret description,"Torre che spara freccette, permanente e artigianale."
+Stack of old nails name,Mucchio di vecchi chiodi
+Stack of old nails description,"Sì, è solo un mucchio di vecchi chiodi, ma prova a metterli sul tracciato e vedrai come faranno scoppiare i bloon vaganti."
+Creepy idol name,Idolo inquietante
+Creepy idol description,Posiziona questo idolo dall'aspetto spaventoso vicino al tracciato per spaventare i bloon al punto da farli tornare indietro.
+Jar of Pickles name,Barattolo di cetriolini
+Jar of Pickles description,"Prova questi cetriolini su una delle tue torri scimmiesche e la vedrai diventare più potente, ma più lenta, per un po' di tempo."
+Rare Quincy action figure name,Rara action figure di Quincy
+Rare Quincy action figure description,"Action figure originale in edizione limitata e in ottime condizioni di Quincy, figlio di Quincy! Il suo valore non può che aumentare, meglio accaparrarsela subito!"
+See invisibility potion name,Pozione anti-invisibilità
+See invisibility potion description,Qualunque scimmia riceva in dono questo utilissimo nettare potrà vedere i bloon mimetizzati con facilità! Gli effetti dopo un po' svaniscono.
+Tube of amaz-o-glue name,Tubetto di incollatutto
+Tube of amaz-o-glue description,Incredibile! Applica un tubetto di questa meraviglia moderna in qualsiasi punto del tracciato e osserva i bloon in arrivo rallentare.
+Sharpening stone name,Pietra cote
+Sharpening stone description,"Affila quelle freccette, compare! Applicala alle tue freccette e alle tue lame e rendile più affilate che mai."
+Worn heros cape name,Mantello logoro dell'eroe
+Worn heros cape description,"Tutti gli eroi portano un mantello! Dallo a una delle tue Scimmie lancia freccette e osserva la trasformazione! Leggermente logoro e davvero poco rinomat... ehm, rovinato."
+Blade trap name,Trappola di lame
+Blade trap description,Posizionala sul tracciato e goditi lo spettacolo dei bloon che vengono tranciati dalle lame rotanti dopo averla toccata!
+Gerrys fire hot sauce name,"Bottiglia di salsa piccante ""Fuoco di Gerry"""
+Gerrys fire hot sauce description,"2,8 milioni di unità Bloonville. Chiunque assaggi questa speciale salsa non potrà far altro che sputare fuoco per un po'!"
+Fertilizer name,Fertilizzante
+Fertilizer description,Hai le banane nel tuo vivaio? Ne vuoi altre? Spargi questo fertilizzante magico super potente direttamente sul vivaio per ottenere subito più banane!
+Pet rabbit name,Animaletto coniglio
+Pet rabbit description,A volte tutto ciò che ti serve è un dolce coniglietto! O più di uno!
+Rejuv potion name,Elisir di lunga vita
+Rejuv potion description,Rilascia questa buonissima bevanda in qualsiasi punto e osserva come la sua capacità rinvigorente ripristina vite e azzera i tempi di recupero delle abilità.
+Genie bottle name,Lampada del genio
+Genie bottle description,"Evoca una scimmia genio da questa boccetta blu brillante, ma attenzione, non durerà per sempre (nessun desiderio incluso nell'acquisto)!"
+Paragon power totem name,Totem potere del campione
+Paragon power totem description,Potenzia i poteri del tuo prossimo campione con questo artefatto mistico...
+EventEndingSoonText,"L'evento si concluderà a breve, perciò attualmente non è possibile accedere."
+EngineerMonkey Paragon,Esperto costruttore
+EngineerMonkey Paragon Description,Ingegneria scimmiesca ai massimi livelli. Crea tre mega sentinelle che possono a loro volta costruire sentinelle proprie.
+OptionsLogout,Logout
+ConfirmLogout,Conferma logout
+ConfirmLogoutDesc,"Vuoi davvero uscire dal tuo account? In tal caso, trascrivi i dati del tuo account e il tuo codice di collegamento prima di uscire.\n\n{0}"
+VortexTagLine,Dai cieli arriva
+VortexTagLine2,il dominatore letale dell'aria
+Vortex,Vortex
+VortexInfoPanelDescription,"• Vortex si sposta come un fulmine e velocizza altri bloon!\n• Al raggiungimento di ogni teschio sulla barra della salute, Vortex si fa scudo ed emette un'onda d'urto che stordisce le torri circostanti, prima di tornare indietro sul tracciato.\n• Vortex p"
+Scrapyard,Discarica
+BloonsAllBloonsCatEarName,Bloon Orecchie da gatto
+BloonsAllBloonsCatEarShortName,Bloon Orecchie da gatto
+BloonsAllBloonsCatEarDescription,"I bloon e i gatti di solito non vanno d'accordo, ma in questo caso l'abbinamento è miaogico."
+BloonsAllBloonsDisguiseGlassesName,Bloon Occhiali da travestimento
+BloonsAllBloonsDisguiseGlassesShortName,Bloon Occhiali da travestimento
+BloonsAllBloonsDisguiseGlassesDescription,Solo una scimmia potrebbe farsi ingannare da questo travestimento. Un momento...
+CoopEmoteAnimationPatFlexName,Emote Vanità di Pat
+CoopEmoteAnimationPatFlexShortName,Vanità di Pat
+CoopEmoteAnimationPatFlexDescription,"Cervello e muscoli, che bella combinazione! Pat forte!"
+CoopEmoteAnimationMindBlownName,Emote Pazzesco
+CoopEmoteAnimationMindBlownShortName,Pazzesco
+CoopEmoteAnimationMindBlownDescription,Quando il tuo partner in modalità cooperativa fa qualcosa di così incredibile che non puoi fare a meno di usare questa emote!
+GameUIProfileAvatar59Name,Avatar Super scimmia
+GameUIProfileAvatar59ShortName,Avatar Super scimmia
+GameUIProfileAvatar59Description,Puoi vedere l'amore nei suoi occhi. Ora devi solo capire se sta guardando te o il proprio riflesso.
+GameUIProfileAvatar60Name,Avatar Striker Jones
+GameUIProfileAvatar60ShortName,Avatar Striker Jones
+GameUIProfileAvatar60Description,Striker Jones a rapporto! Mostra quanta voglia hai di vincere con il saluto della tua scimmia specializzata in armi da fuoco preferita.
+GameUIProfileBanner13Name,Banner Arrivo
+GameUIProfileBanner13ShortName,Banner profilo Arrivo
+GameUIProfileBanner13Description,Banner Vincitore di betapotata
+GameUIProfileBanner14Name,Banner Sott'acqua
+GameUIProfileBanner14ShortName,Banner profilo Sott'acqua
+GameUIProfileBanner14Description,Banner Vincitore di Cyliia
+GameUIMusicTrackMusicSunshineFiestaMixName,Jukebox: Sunshine Serenade - Fiesta remix
+GameUIMusicTrackMusicSunshineFiestaMixShortName,Sunshine - Fiesta
+GameUIMusicTrackMusicSunshineFiestaMixDescription,Alza il volume e goditi questo fantastico remix di Sunshine Serenade.
+CantSubmitEventEnded,"Impossibile inviare il punteggio, l'evento è già terminato."
+CyberQuincySkinNameFull,Cyber Quincy
+ScientistGwendolinSkinNameFull,Gwendolin scienziata
+SentaiCaptainChurchillSkinNameFull,Sentai Churchill
+BikerBonesSkinNameFull,Ossa da biker
+ObynOceanGuardianSkinNameFull,Guardiano dell'oceano
+BenJamminSkinNameFull,DJ Benjammin
+SmudgeCattSkinNameFull,Smudge il gatto
+FustyTheSnowmanSkinNameFull,Fusty il pupazzo di neve
+WolfpackQuincySkinNameFull,Quincy branco di lupi
+JoanOfArcAdoraSkinNameFull,Adora-Giovanna d'Arco
+HarlegwenGwendolinSkinNameFull,Harlegwen
+OctoJonesStrikerJonesSkinNameFull,Octojones
+DreadPirateBrickellAdmiralBrickellSkinNameFull,Brickell Temibile pirata
+ObynMountainGuardianSkinNameFull,Guardiano della montagna
+SushiBentoBenjaminSkinNameFull,Sushi Bento
+ETnEtienneSkinNameFull,ETn
+VikingSaudaSaudaSkinNameFull,Sauda vichinga
+GalaxiliEziliSkinNameFull,Galaxili
+PsimbalsPsiSkinNameFull,Psi-cimbali
+Least Cash,Minimo di contante:
+Least Tiers,Minimo di livelli:
+Least Cash Used,Minimo di contante usato:
+Least Tiers Used,Minimo di livelli usati:
+All Tiers Used,Tutti i livelli usati
+All Cash Used,Tutto il contante usato
+Tiers Used,Livelli usati
+Cash Used,Contante usato
+No Score Set,Nessun punteggio stabilito
+Auto,Automatico
+FriendScreenFriends,Amici
+FriendScreenRequests,Richieste
+FriendScreenYourFriendCode,Il tuo codice amico:
+FriendScreenOnline,Online
+FriendScreenOffline,Offline
+FriendScreenAccept,Accetta
+FriendScreenDecline,Rifiuta
+FriendScreenBlock,Blocca
+FriendScreenFriendText,Gli amici vengono mostrati qui. Condividi il tuo codice amico con amici e parenti
+RequestDisabledText,Richieste disabilitate
+FriendScreenEnterCode,Inserisci codice amico:
+FriendScreenAdd,Aggiungi
+FriendScreenSureUnfriend,Vuoi davvero rimuovere questo utente dagli amici?
+FriendScreenSureBlock,Vuoi davvero bloccare questo utente?
+SpecialConditions,Condizioni speciali
+FriendScreenRequestText,Le richieste vengono mostrate qui. Condividi il tuo codice amico con amici e parenti
+FriendScreenCodeHidden,Codice amico nascosto
+RequestEnabledText,Richieste abilitate
+Least Cash No Colon,Minimo di contante
+Least Tiers No Colon,Minimo di livelli
+SpecialConditionsColon,Condizioni speciali:
+GoalSetForCash,L'obiettivo è fissato a {0} contante
+GoalSetForTiers,L'obiettivo è fissato a {0} livelli
+ChallengeCashUsed,Hai usato {0} / {1} contante
+ChallengeTiersUsed,Hai usato {0} / {1} livelli
+ShootyTurret,Torre spara freccette
+CreepyIdol,Idolo inquietante
+RareQuincyActionFigure,Rara action figure di Quincy
+GenieBottle,Lampada del genio
+ParagonPowerTotem,Totem potere del campione
+FriendScreenErrorRequestFailed,Richiesta di amicizia non riuscita
+FriendScreenErrorInvalidCode,Codice amico non valido
+FriendScreenErrorBlocked,Il giocatore che stai cercando di aggiungere ha bloccato le richieste di amicizia, spiacenti!
+FriendScreenErrorAlreadySent,Hai già inviato una richiesta di amicizia a questo giocatore.
+FriendScreenErrorTooManyFriends,Hai raggiunto il limite massimo di amici. Puoi liberare spazio rimuovendo un amico esistente o annullando una richiesta di amicizia che hai inviato.
+MapEditor,Editor di mappe
+Jar of Pickles description level 11,Prova questi sottaceti su una delle tue Monkey Towers e colpirà più forte, ma spara più lentamente per un po'. Ora con danni aumentati ai Bloon fortificati!
+Creepy idol description level 12,Posiziona questo idolo dall'aspetto spettrale vicino alla pista per spaventare alcuni Bloon (anche MOAB!) da dove sono venuti.
+Shooty turret description level 13,Una torretta per il tiro delle freccette permanente, realizzata a mano. aggiornato! Spara più velocemente e fa più danni.
+Stack of old nails description level 13,Sì, è solo una pila molto grande di vecchi chiodi, ma mettili ovunque sulla pista e faranno scoppiare facilmente quei bloons randagi.
+See invisibility potion description level 14,Qualunque scimmia regali con questo elisir estremamente efficace, sarà in grado di vedere facilmente i Camo Bloons! Gli effetti svaniranno. Ora offre una maggiore portata e dura ancora più a lungo!
+Sharpening stone description level 15,Affila quei dardi, amico! Applicalo su dardi e lame e saranno più affilati e faranno più danni che mai.
+Blade trap description level 15,Metti questo sulla pista e guarda i primi Bloon che lo toccano mentre vengono fatti a pezzi dalle grandi lame vorticose! Nuovo modello più potente!
+Stack of old nails description level 16,Sì, è solo una MINIERA DI UNGHIE GIGANTE, ma mettila ovunque sulla pista e farà scoppiare facilmente quei Bloon randagi.
+Jar of Pickles description level 16,Prova questi sottaceti su una delle tue Monkey Towers e colpirà più forte, ma spara più lentamente per un po'. Ora con ANCORA PIÙ danni aumentati ai Bloon fortificati!
+Gerrys fire hot sauce description level 16,2,8 milioni di unità di Bloonville. Chi assaggerà questa salsa speciale sputerà fuoco per un po'! Ora con extra bruciore.
+Tube of amaz-o-glue description level 17,Veramente stupefacente! Applica un tubo di questa meraviglia moderna ovunque sulla pista e guarda il prossimo gruppo di Bloon e persino MOAB rallentare.
+Genie bottle description level 18,Evoca una scimmia geniale da questa brillante bottiglia blu ma attenzione, non durerà per sempre! (nessun desiderio incluso nell'acquisto). Attacco extra e più danni ai MOAB ora inclusi.
+Creepy idol description level 18,Posiziona questo idolo dall'aspetto spettrale vicino alla pista per spaventare alcuni Bloon da dove sono venuti. Aggiornamento Sindone mistico sbloccato!
+See invisibility potion description level 19,Qualunque scimmia regali con questo elisir estremamente efficace, sarà in grado di vedere facilmente i Camo Bloons e far loro più danni! Gli effetti svaniranno.
+FriendScreenSureUnBlock,Sei sicuro di voler sbloccare questo utente?
+None,Nessuno

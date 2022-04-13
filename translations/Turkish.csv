@@ -1,4 +1,4 @@
-﻿//Input. Needs to be first e.g [I] replaced by click or tap,
+//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Tıkla
 Tap,Dokun
 ,
@@ -99,7 +99,7 @@ Quincy Level 13 Description,Az bir menzil artışı.
 Quincy Level 14 Description,Oklar MOAB Sınıfı Bloon’lara dört kat hasar verir.
 Quincy Level 15 Description,Seri Atış 4 kat saldırı hızına ulaşır ve gecikme süresi kısalır.
 Quincy Level 16 Description,Daha yüksek saldırı hızı.
-Quincy Level 17 Description,Oklar %25 daha uzun menzile sahip olur.
+Quincy Level 17 Description,Oklar %25 daha uzun menzile sahip olur. Her 2. vuruşta patlayan oklar fırlatır.
 Quincy Level 18 Description,Quincy daha hızlı saldırır ve Ok Fırtınası gecikme süresi azalır ve %50 daha fazla ok fırlatır.
 Quincy Level 19 Description,Her ok çok daha fazla patlatma gücü kazanır.
 Quincy Level 20 Description,"Quincy çok daha hızlı saldırır. Ok Fırtınası, ok başına daha fazla hasar verir ve çok daha fazla ok fırlatır."
@@ -161,7 +161,7 @@ Gwendolin Level 12 Description,Yüksek saldırı hızı.
 Gwendolin Level 13 Description,"Son derece yüksek patlatma gücü, ayrıca, fırlatıcılar daha hızlı hareket eder ve daha uzun süre kalır."
 Gwendolin Level 14 Description,Ateş Kokteyli ekstra hasar verir ve MOAB sınıfı Bloon’ları tutuşturur.
 Gwendolin Level 15 Description,Yüksek saldırı hızı.
-Gwendolin Level 16 Description,Ateş Fırtınasının süresi uzar. Mor Bloon’lar artık Gwendolin’in saldırılarına karşı dayanıklı değil.
+Gwendolin Level 16 Description,Ateş Fırtınasının süresi uzar ve daha fazla hasar verir. Mor Bloon’lar artık Gwendolin’in saldırılarına karşı dayanıklı değil.
 Gwendolin Level 17 Description,"Biberleyelim, etkilenen Maymunlara 1 ekstra katman patlatmaları ve Kurşun Bloon’lara +2 hasar vermeleri için güç verir."
 Gwendolin Level 18 Description,Yüksek saldırı hızı.
 Gwendolin Level 19 Description,Atış başına 3 ateş patlaması fırlatır.
@@ -836,7 +836,7 @@ Rapid Fire Description,Normalden daha hızlı fırlatır.
 Exploding Pineapple Description,"Yarıçaptaki Maymunlar yüksek satış değerine sahiptir. Yere, birkaç saniye sonra şiddetli bir şekilde patlayan ananaslar düşürür. Pilotun patlayıcı saldırıları geliştirildi."
 Sharper Darts Description,Oklar tek seferde 8 Bloon patlatabilir.
 Lots More Darts Description,Tek seferde 12 ok fırlatır.
-Spy Plane Description,Pilot Maymun’un Kamuflajlı Bloon’ları vurmasını sağlar.
+Spy Plane Description,Pilot Maymunun Kamuflajlı Bloon’ları vurmasını sağlar ve onlara daha fazla hasar verir.
 Centered Path Description,Maksimum harita kapsamı için yeni ortalanmış uçuş yolu.
 Fighter Plane Description,Hızlı uçar ve MOAB savar füzeler fırlatır.
 Bomber Ace Description,Bloon parkurundan geçerken bir dizi bomba atar.
@@ -873,7 +873,7 @@ Burny Stuff Description,Hasarlı Bloon’lar her vuruşla bir an için ateşe ve
 Shockwave Description,"Patlama şok dalgası, Bloon’ları etki noktasında sersemletir, bloon’ları daha geniş bir alanda patlatır ve Yanıcı Madde hasarını artırır."
 Heavy Shells Description,"Ağır mermiler Seramik, Kurşun, tüm Güçlendirilmiş ve sersemletilmiş Bloon’lara ekstra hasar verir. Siyah Bloon’ları da patlatabilir."
 Signal Flare Description,Alevlerin patlattığı Kamuflajlı Bloon’lar kamuflajlarını kalıcı olarak kaybeder.
-The Big One Description,Yıkıcı patlamaların her biri Bloon’ların 5 katmanını patlatır ve Yanıcı Madde hasarını daha da artırır.
+The Big One Description,Yıkıcı patlamaların her biri Bloon’ların 7 katmanını patlatır ve Yanıcı Madde hasarını daha da artırır.
 Artillery Battery Description,"Bombardıman Yeteneği: Biraz daha geniş bir alanda seri atış saldırısı gönderir. Ana saldırı, inanılmaz hızlı saldırılar için 3 namluya yükselir."
 Shattering Shells Description,"Ezici mermiler, en büyük bloon’lar hariç tüm özel bloon özelliklerini çıkarır."
 The Biggest One Description,Geniş bir alanda Bloon’ları ve katmanlarını derinlemesine patlatır ve güçlü Yanıcı Madde hasarı verir.
@@ -2154,7 +2154,7 @@ Knowledge unlock tip,30. seviyeden itibaren Maymun Bilgisi kazanmaya başlarsın
 Daily challenges unlock at,Günlük Görevler ve Etkinlikler {0}. Seviyede açılır.
 ,
 ,
-FriendLiNKLoginRequiredBody,Facebook arkadaş skorlarını görmek için hesap gereklidir.
+FriendLiNKLoginRequiredBody,Arkadaş skorlarını görmek için hesap gereklidir.
 FriendLiNKLoginRequiredTitle,Oturum Açılsın Mı?
 FriendLiNKLoginFailed,Facebook’ta oturum açılamadı. Lütfen internet bağlantısını ve oturum bilgisini kontrol et.
 Do It,Devam et
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,Menzilde Karanlık Kayması için [I]
 DarkChampionDarkshift,Herhangi bir geçerli konuma Karanlık Kayması için [I]
 SmallTowersMode,Küçük Maymun Atıcılar
 BigTowersMode,Büyük Maymun Atıcılar
-UpdatePopupTitle,30’yı Güncelle!
-UpdatePopupDescription,"Yeni içerik güncellemesi!\n• Yeni Zor Seviye Harita Batık Sütunlar ile mücadelende ilerle\n• Yeni Psi dış görünümü Psimbal ile ses getir!\n• İş birliği bölümleri güncellemesi: 2 yepyeni bölüm eklendi ve iş birliği oyunu ayarlandığında tümü seçilebilir\n• 4 yeni sınırlı süreli eşya dahil, 16 yeni Ganimet Mağazası eşyası, onları hemen al!\n• Açılacak 4 yeni Maymun Bilgisi\n• Yeni Başarılar, yaşam kalitesi ve denge değişiklikleri, tüm ayrıntılar için güncelleme notlarına göz at"
+UpdatePopupTitle,31’yı Güncelle!
+UpdatePopupDescription,"Yeni içerik güncellemesi!\n• Yeni Kahraman! Mistik Esnaf Geraldo, inanılmaz Bloon patlatma eşyalarının satıldığı mağazasıyla birlikte geliyor!\n • Yeni Patron! Havanın Ölümcül Ustası Girdap serbest bırakıldı!\n• Yeni Acemi Haritası Hurdalıkta Bloon’ları tahrip ederken eğlen\n• Yeni bir remiks dahil, 9 yeni Ganimet Mağazası eşyası\n• Görev tarayıcısı: Asgari Nakit ve Asgari Kademe, bulmaca görevi eğlencene, özel zafer koşulları eklendi\n• Kahramanlar menüsü yeni ve gelişmiştir; ayrıca daha kaliteli yaşam ve denge değişiklikleri, tüm ayrıntılar için güncelleme notlarına göz at!"
 ResetDailyChest,Günlük Sandığı Sıfırla
 JukeboxName,Müzik Kutusu
 EnableFunction,Etkinleştir
@@ -3062,7 +3062,7 @@ Drone Swarm Ability Description,"Etienne, birkaç Bloon patlatmak için 4 tane d
 UCAV Ability,UCAV
 UCAV Ability Description,Yüksek irtifalı keşif dronu kısa süreliğine yok edici savaş dronuna dönüşür.
 Mesa,Mesa
-DreadPirateBrickellAdmiralBrickellSkinName,Ölü Korsan Brickell
+DreadPirateBrickellAdmiralBrickellSkinName,Ölü Korsan Brickell Dış Görünümü
 DreadPirateBrickellAdmiralBrickellSkinDescription,Okyanusların Kraliçesi yeniden yola çıktı!
 No Insta Reward,Tur Yok 100 Ödülü
 GameUIProfileAvatar19Name,Özel Avatar - Adora Asık Yüz
@@ -3644,7 +3644,7 @@ GameUIPowerSkinLavaLakeName,Özel Güç - Taşınabilir Lav Gölü
 GameUIPowerSkinLavaLakeShortName,Taşınabilir Lav Gölü
 GameUIPowerSkinLavaLakeDescription,Burası sıcaklaşıyor! Bu yanan lav havuzunda tüm kaygılarını bırak!
 Resort,Resort
-ETnEtienneSkinName,ETn
+ETnEtienneSkinName,ETn Dış Görünümü
 ETnEtienneSkinDescription,Beni liderine götür.
 VeteranXP,Kıdemli XP
 GameUIMusicTrackMusicSailsAgain,Sails Again
@@ -4138,13 +4138,13 @@ GamecenterLoginPrompt,"Erişmek için lütfen Game Center hesabında oturum aç.
 GamecenterRestrictedTitle,Çok Oyunculu Erişimi Kısıtlanmış
 GamecenterLoginTitle,Game Center hesabında oturum aç
 QuietStreet,Sessiz Sokak
-GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinName,Galaxili Dış Görünümü
 GalaxiliEziliSkinDescription,"Olduğumuz her şey, gördüğümüz her şey uzay tozundan yapılmıştır."
 MonkeyBuccaneer Paragon,Donanma Kumandanı
 MonkeyBuccaneer Paragon Description,Deniz yüzdürmek için gelmiş geçmiş en harika şey.
 HeroesPsiPetBisonName,Psi Bizon Evcil Hayvan
 HeroesPsiPetBisonShortName,Psi Bizon Evcil Hayvan
-HeroesPsiPetBisonDescription,Psi’nin çok ama çok sevimli bulduğu çift toynaklı türün emsal niteliğindeki numunesi. Yalnızca Orijinal Psi ;)
+HeroesPsiPetBisonDescription,Psi’nin çok ama çok sevimli bulduğu çift toynaklı türün emsal niteliğindeki numunesi. Yalnızca Orijinal Psi ,)
 TowerPropMonkeyVillageAustralianFlagName,Maymun Köyü Avustralya Bayrağı
 TowerPropMonkeyVillageAustralianFlagShortName,Avustralya Köyü Bayrağı
 TowerPropMonkeyVillageAustralianFlagDescription,"Avustralyalı, Avustralyalı, Avustralyalı, Selam, Selam, Selam! Bu Maymun Köyü bayrağı tüm yükseltmeleri gösterir"
@@ -4254,7 +4254,7 @@ Achievement 142 Description,Devam veya Kontrol Noktaları için 1000 MP harca
 PetSounds,Evcil Hayvan Sesleri
 UserID,Kullanıcı Kimliği
 SunkenColumns,Batık Sütunlar
-PsimbalsPsiSkinName,Zilli Psi
+PsimbalsPsiSkinName,Psimbals Dış Görünümü
 PsimbalsPsiSkinDescription,Bir gösteriye hazır mısın?!
 HeroesStrikerJonesPetGermanShepherdName,Vurucu Jones Alman Çobanı Evcil Hayvanı
 HeroesStrikerJonesPetGermanShepherdShortName,Striker Köpek Evcil Hayvanı
@@ -4297,7 +4297,7 @@ GameUIPowerSkinMonkeyBoostSugarRushShortName,Şekere Hücum Desteği
 GameUIPowerSkinMonkeyBoostSugarRushDescription,İnsanlar: hepimiz bol miktarda şeker muhteşemliğinin etkisiyle daha iyi performans gösterdiğimizi biliyoruz. Maymunlar: aynı.
 GameUIProfileBanner10Name,Karalama Muhteşemliği Profil Afişi
 GameUIProfileBanner10ShortName,Karalama Muhteşemliği Afişi
-GameUIProfileBanner10Description,"bonbonni, Afiş galibi"
+GameUIProfileBanner10Description,"chompypaw, Afiş galibi"
 GameUIProfileBanner11Name,İksir Büyücüsü Profil Afişi
 GameUIProfileBanner11ShortName,İksir Büyücüsü Afişi
 GameUIProfileBanner11Description,"_Concilliabule_, Afiş galibi"
@@ -4327,3 +4327,180 @@ FilterMisc,Çeşitli
 Blast Chain Ability,Patlama Zinciri
 Blast Chain Ability Description,Kısa süre için deniz mayınları daha hızlı ateşlenir
 TowerSpecial,Maymun Özel
+Geraldo,Geraldo
+Geraldo Short Description,Mistik Esnaf
+Geraldo Description,"Esnaf Geraldo, yararlı eşya seçenekleri satar ve yıldırım saldırısıyla Bloon’ları yok eder."
+Geraldo Level 1 Description,"Mevcut Eşyalar! Vurucu Taret, Bir Yığın Eski Çivi, Ürpertici İdol, Turşu Kavanozu. Geraldo’nun kısa menzil sihir saldırısı da vardır."
+Geraldo Level 2 Description,Yeni Eşya! Nadir Quincy Koleksiyon Figürü - Sahip olduğun süre uzadıkça değeri artar!
+Geraldo Level 3 Description,Yeni Eşya! Görünmezliği Gör İksiri - Bir Maymun Atıcıya veya Kahramana kısa süreli kamuflajlı tespiti kazandırır. Geraldo’nun saldırı menzili artar.
+Geraldo Level 4 Description,Yeni Eşya! İnanılmaz Yapışkan Tüpü - Bloon’ları yavaşlatmak için parkura yerleştirilebilir.
+Geraldo Level 5 Description,Yeni Eşya! Biley Taşı - keskin türde hasar verirken bir Maymun Atıcının veya Kahramanın delme yeteneğini artırır.
+Geraldo Level 6 Description,"Yeni Eşya! Kullanılmış Kahraman Pelerini - 2. Kademe veya daha düşük bir Okçu Maymunu, Süper Maymuna dönüştürür! Bu dönüşmüş Süper Maymunlar yalnızca 3. Kademeye yükseltilebilir. "
+Geraldo Level 7 Description,"Yeni Eşya! Bıçak Tuzağı - görünür bir Bloon, tuzağa değdiğinde bir Bıçak Girdabı oluşur. Geraldo’nun ana saldırısında hasar ve delme artar."
+Geraldo Level 8 Description,"Yeni Eşya! Gerry’nin Ateşi Şişesi - 2,8 milyon Bloonvil birimi, saf acı sos ateşi! Bir Maymuna, Kahramana veya yardakçıya 10 tur boyunca şiddetli saldırı sağlar."
+Geraldo Level 9 Description,"Yeni Eşya! Gübre - görünür muzlar üreten, hedeflenen Muz Çiftliklerinin üretimi artar ve birkaç tur boyunca nakit bonusu kazanır. Geraldo’nun ana saldırısının patlatma yarıçapı artar."
+Geraldo Level 10 Description,"Yeni Eşya! Evcil Hayvan Tavşan - ooo ne de tatlı, kıpır kıpır bir tavşancık!"
+Geraldo Level 11 Description,"Yeni Eşya! Yenilenme İksiri - tüm Maymun Atıcılarını ve Kahraman gecikme sürelerini sıfırlar, 50 can geri yükler. Geraldo’nun ana saldırısında delme artar ve Turşu Kavanozu, Güçlendirilmiş Bloon’lar karşısında bonus hasar kazandırır."
+Geraldo Level 12 Description,Yeni Eşya! Peri Şişesi - Plazma ile çalışan bir Peri Maymun çağırır ve 3 tur boyunca sürer. Ürpertici İdol artık görünür geçen MOAB Sınıfı Bloon’lara rastgele bir kısa sersemletme uygular.
+Geraldo Level 13 Description,"Vurucu Taret, yüksek hasar ile daha hızlı atış yapar ve Bir Yığın Eski Çivi daha fazla hasar verir."
+Geraldo Level 14 Description,Görünmezliği Gör İksiri ek menzil kazandırır ve daha uzun sürer.
+Geraldo Level 15 Description,Biley Taşının artık delmeye ek olarak verdiği hasar da artar ve Bıçak Tuzağı tetiklendiğinde daha güçlü bir etki oluşturur.
+Geraldo Level 16 Description,"Bir Yığın Eski Çivi, Çivi Madenine dönüşür. Turşu Kavanozu Güçlendirilmiş Bloon’lar karşısında ek bonus hasar kazandırır ve Gerry’nin Ateşi bonus yanıcı hasar sağlar."
+Geraldo Level 17 Description,Geraldo’nun ana saldırısı daha fazla hasar verir ve İnanılmaz Yapışkanın MOAB Sınıfı Bloon’lar üzerinde artık küçük bir etkisi vardır.
+Geraldo Level 18 Description,"Peri, ikinci yakın hedefli saldırıyı kazanır ve MOAB Sınıfı Bloon’lara bonus hasar verir, Ürpertici İdol, patlatıldıklarında yakında büyük hasara neden olan MOAB Sınıfı Bloon’lara Mistik Örtü uygular."
+Geraldo Level 19 Description,"Geraldo’nun ana saldırısı hızlanır, menzili artar ve daha fazla hasar verir. Görünmezliği Gör İksiri, Kamuflajlı Bloon’lara bonus hasar kazandırır."
+Geraldo Level 20 Description,Yeni Eşya! Gözcü Gücü Totemi - oluşturulan bir sonraki gözcüye gözcü gücü ekler. Geraldo’nun ana saldırısı daha fazla hasar verir.
+Geraldo Shop shortname,Mağaza
+Geraldo Shop name,Geraldo’nun Mağazası
+Shooty turret name,Vurucu Taret
+Shooty turret description,"Sabit, el yapımı ok fırlatan taret."
+Stack of old nails name,Bir Yığın Eski Çivi
+Stack of old nails description,"Evet, sadece bir yığın eski çivi ama onları parkurun herhangi bir yerine yerleştirdiğinde başıboş gezen Bloon’ları kolayca patlatırlar."
+Creepy idol name,Ürpertici İdol
+Creepy idol description,Birkaç Bloon’u korkutup geldikleri yere geri göndermek için bu ürkünç görünümlü idolü parkurun yakınına yerleştir.
+Jar of Pickles name,Turşu Kavanozu
+Jar of Pickles description,Bu turşuları Maymun Atıcılarından birinde denediğinde daha sert vuruş yapacaktır ama bir süre daha yavaş atış yap.
+Rare Quincy action figure name,Nadir Quincy Koleksiyon Figürü
+Rare Quincy action figure description,"Sınırlı sürüm, çok iyi durumda, orijinal Quincy, Quincy’nin Oğlu koleksiyon figürü! Bunun değeri gittikçe artar; bu yüzden hemen al!"
+See invisibility potion name,Görünmezliği Gör İksiri
+See invisibility potion description,Bu son derece tesirli iksiri hediye ettiğin Maymun Kamuflajlı Bloon’ları kolayca görebilir! Etkiler kaybolur.
+Tube of amaz-o-glue name,İnanılmaz Yapışkan Tüpü
+Tube of amaz-o-glue description,Gerçekten muhteşem! Parkurun herhangi bir yerinde bu modern mucizeden bir tüp uygulayıp bir sonraki Bloon grubunun yavaşlamasını izle.
+Sharpening stone name,Biley Taşı
+Sharpening stone description,"Şu okları keskinleştir, dostum! Bunu oklarına ve bıçaklarına uygula ve her zamankinden daha keskin olsunlar."
+Worn heros cape name,Kullanılmış Kahraman Pelerini
+Worn heros cape description,"Tüm kahramanlar pelerin giyer! Bunu Okçu Maymunlarından birine verip dönüşümü izle! Biraz kullanılmış, sadece ufak kademeler, ee, yani ufak kademeli yırtıklar demek istedim."
+Blade trap name,Bıçak Tuzağı
+Blade trap description,Bunu parkura yerleştirip ona dokunan ilk Bloon’ların büyük dönen bıçaklar tarafından parçalanışını izle!
+Gerrys fire hot sauce name,Gerry’nin Ateşi Acı Sos Şişesi
+Gerrys fire hot sauce description,"2,8 milyon Bloonvil birimi. Bu özel sosun tadına bakan bir süreliğine ateş püskürtür!"
+Fertilizer name,Gübre
+Fertilizer description,Çiftliğinde muzlar var mı? Daha fazla muz ister misin? Bu ekstra güçlü sihirli gübreyi doğrudan şu çiftliğe serpiştir ve şimdi daha fazla muz topla!
+Pet rabbit name,Evcil Hayvan Tavşan
+Pet rabbit description,Bazen ihtiyacın olan tek şey süper sevimli bir minik tavşan evcil hayvandır! Ya da birkaç!
+Rejuv potion name,Yenilenme İksiri
+Rejuv potion description,"Bu lezzetli içeceği herhangi bir yere damlatıp yenileyici gücünün, kaybolan canları geri yüklemesini ve yetenek gecikme sürelerini sıfırlamasını izle."
+Genie bottle name,Peri Şişesi
+Genie bottle description,"Bu parlak mavi şişeden bir Peri Maymun çağır ama dikkatli ol, bu sonsuza dek sürmez! (Dilekler satın alma işlemine dahil değildir)."
+Paragon power totem name,Gözcü Gücü Totemi
+Paragon power totem description,Bu mistik artifakt ile bir sonraki Gözcünün güçlerini artır...
+EventEndingSoonText,Bu etkinlik yakında sona eriyor, bu nedenle şu anda giriş devre dışı bırakıldı.
+EngineerMonkey Paragon,Usta İnşaatçı
+EngineerMonkey Paragon Description,Maymun mühendisliği mükemmelliğe erişti. Kendi gözcülerini oluşturabilen üç Mega Gözcü yaratır.
+OptionsLogout,Oturumu Kapat
+ConfirmLogout,Oturum Kapatmayı Onayla
+ConfirmLogoutDesc,Hesabının oturumunu kapatmak istediğinden emin misin? Eminsen işlem yapmadan önce lütfen hesap bilgilerini ve bağlantı kodunu not et.\n\n{0}
+VortexTagLine,Hesabının oturumunu kapatmak istediğinden emin misin? Eminsen işlem yapmadan önce lütfen hesap bilgilerini ve bağlantı kodunu not et.\n\n{0}
+VortexTagLine2,Havanın Ölümcül Ustası
+Vortex,Girdap
+VortexInfoPanelDescription,"• Girdap yıldırım gibi hareket eder ve diğer Bloon’ları da beraberinde hızlandırır!\n• Her bir sağlık çubuğu kafatasına ulaşıldığında, Girdap kendini kalkana alır ve parkurdan çekilmeden önce yakındaki Atıcıları sersemleten bir şok dalgası gönderir.\n• Gi"
+Scrapyard,Hurdalık
+BloonsAllBloonsCatEarName,Kedi Kulaklı Bloon’lar
+BloonsAllBloonsCatEarShortName,Kedi Kulaklı Bloon’lar
+BloonsAllBloonsCatEarDescription,Bloon’lar ve kediler genellikle pek uyumlu değildir ama bu sefer mükemmel şekilde uyumlular.
+BloonsAllBloonsDisguiseGlassesName,Gizlenme Gözlüklü Bloon’lar
+BloonsAllBloonsDisguiseGlassesShortName,Gizlenme Gözlüklü Bloon’lar
+BloonsAllBloonsDisguiseGlassesDescription,Bu gizlenmeyi yalnızca bir maymun yer. Bir dakika…
+CoopEmoteAnimationPatFlexName,Pat Flex Emojisi
+CoopEmoteAnimationPatFlexShortName,Pat Flex
+CoopEmoteAnimationPatFlexDescription,"Zekâ ve kas, ne karışım ama! Pat güçlü!"
+CoopEmoteAnimationMindBlownName,Aklı Başından Gitme Emojisi
+CoopEmoteAnimationMindBlownShortName,Aklı Başından Gitme
+CoopEmoteAnimationMindBlownDescription,İş birliği ortağınız inanılmaz derecede muhteşem bir şey yaptığında yalnızca bu emoji uyar!
+GameUIProfileAvatar59Name,Süper Maymun Avatarı
+GameUIProfileAvatar59ShortName,Süper Maymun Avatarı
+GameUIProfileAvatar59Description,Gözlerinde sevgiyi görebilirsin. Şimdi yapman gereken tek şey Süper Maymunun sana mı yoksa yansımasına mı baktığına karar vermek.
+GameUIProfileAvatar60Name,Vurucu Jones Avatarı
+GameUIProfileAvatar60ShortName,Vurucu Jones Avatarı
+GameUIProfileAvatar60Description,Vurucu Jones görev yerinde! En sevdiğin omuzdan ateşlemeli silahı olan Maymundan selamlarla kazanmaya hazır olduğunu göster.
+GameUIProfileBanner13Name,Varış Afişi
+GameUIProfileBanner13ShortName,Varış Profil Afişi
+GameUIProfileBanner13Description,"betapotata, Afiş galibi"
+GameUIProfileBanner14Name,Suların Altında Afişi
+GameUIProfileBanner14ShortName,Suların Altında Profil Afişi
+GameUIProfileBanner14Description,"Cyliia, Afiş galibi"
+GameUIMusicTrackMusicSunshineFiestaMixName,Müzik Kutusu: Gün Işığı Serenadı - Fiesta Remiksi
+GameUIMusicTrackMusicSunshineFiestaMixShortName,Gün Işığı - Fiesta
+GameUIMusicTrackMusicSunshineFiestaMixDescription,Sesi aç ve Gün Işığı Serenadı’nın bu muhteşem remiksinin keyfini çıkar.
+CantSubmitEventEnded,Skorun gönderilemiyor, etkinlik çoktan bitti.
+CyberQuincySkinNameFull,Siber Quincy
+ScientistGwendolinSkinNameFull,Bilim İnsanı Gwendolin
+SentaiCaptainChurchillSkinNameFull,Sentai Churchill
+BikerBonesSkinNameFull,Biker Bones
+ObynOceanGuardianSkinNameFull,Okyanus Koruyucusu
+BenJamminSkinNameFull,DJ Benjammin
+SmudgeCattSkinNameFull,Lekeli Kedi
+FustyTheSnowmanSkinNameFull,Fusty Kardan Adam
+WolfpackQuincySkinNameFull,Kurt Sürüsü Quincy
+JoanOfArcAdoraSkinNameFull,Joan of Arc Adora
+HarlegwenGwendolinSkinNameFull,Harlegwen
+OctoJonesStrikerJonesSkinNameFull,Octojones
+DreadPirateBrickellAdmiralBrickellSkinNameFull,Ölü Korsan Brickell
+ObynMountainGuardianSkinNameFull,Dağ Koruyucusu
+SushiBentoBenjaminSkinNameFull,Suşi Bento
+ETnEtienneSkinNameFull,ETn
+VikingSaudaSaudaSkinNameFull,Viking Sauda
+GalaxiliEziliSkinNameFull,Galaxili
+PsimbalsPsiSkinNameFull,Zilli Psi
+Least Cash,Asgari Nakit:
+Least Tiers,Asgari Kademe:
+Least Cash Used,Kullanılan Asgari Nakit:
+Least Tiers Used,Kullanılan Asgari Kademe:
+All Tiers Used,Tüm Kademeler Kullanıldı
+All Cash Used,Tüm Nakit Kullanıldı
+Tiers Used,Kullanılan Kademe
+Cash Used,Kullanılan Nakit
+No Score Set,Henüz Skor Yok
+Auto,Otomatik
+FriendScreenFriends,Arkadaşlar
+FriendScreenRequests,Talepler
+FriendScreenYourFriendCode,Arkadaşlık Kodun:
+FriendScreenOnline,Çevrimiçi
+FriendScreenOffline,Çevrimdışı
+FriendScreenAccept,Kabul et
+FriendScreenDecline,Reddet
+FriendScreenBlock,Engelle
+FriendScreenFriendText,Arkadaşlar burada görünür. Arkadaşlık kodunu arkadaşların ve ailenle paylaş
+RequestDisabledText,Talepler Devre Dışı
+FriendScreenEnterCode,Arkadaşlık Kodunu Gir:
+FriendScreenAdd,Ekle
+FriendScreenSureUnfriend,Bu kullanıcıyı arkadaşlıktan çıkarmak istediğinden emin misin?
+FriendScreenSureBlock,Bu kullanıcıyı engellemek istediğinden emin misin?
+SpecialConditions,Özel Koşullar
+FriendScreenRequestText,Talepler burada görünür. Arkadaşlık kodunu arkadaşların ve ailenle paylaş
+FriendScreenCodeHidden,Arkadaşlık kodu gizli
+RequestEnabledText,Talepler Etkin
+Least Cash No Colon,Asgari Nakit
+Least Tiers No Colon,Asgari Kademe
+SpecialConditionsColon,Özel Koşullar:
+GoalSetForCash,Hedef {0} nakit olarak belirlendi
+GoalSetForTiers,Hedef {0} kademe olarak belirlendi
+ChallengeCashUsed,Kullandığın: {0} / {1} nakit
+ChallengeTiersUsed,Kullandığın: {0} / {1} kademe
+ShootyTurret,Vurucu Taret
+CreepyIdol,Ürpertici İdol
+RareQuincyActionFigure,Nadir Quincy Koleksiyon Figürü
+GenieBottle,Peri Şişesi
+ParagonPowerTotem,Gözcü Gücü Totemi
+FriendScreenErrorRequestFailed,Arkadaşlık İsteği Başarısız
+FriendScreenErrorInvalidCode,Geçersiz Arkadaş Kodu
+FriendScreenErrorBlocked,Eklemeye çalıştığın oyuncu, arkadaşlık isteklerini engelledi, üzgünüz!
+FriendScreenErrorAlreadySent,Bu oyuncuya zaten arkadaşlık talebi gönderdin.
+FriendScreenErrorTooManyFriends,Maksimum arkadaş sınırına ulaştın. Mevcut bir arkadaşı çıkararak veya yaptığın bir arkadaşlık talebini iptal ederek yer açabilirsin.
+MapEditor,Harita Editörü
+Jar of Pickles description level 11,Bu turşuları Maymun Kulelerinizden birinde deneyin, daha sert vuracaktır, ancak bir süre daha yavaş vuracaktır. Şimdi güçlendirilmiş Bloons'a artan hasarla!
+Creepy idol description level 12,Bazı Bloon'ları (hatta MOAB'leri bile!) geldikleri yere geri korkutmak için bu ürkütücü görünümlü idolü pistin yanına yerleştirin.
+Shooty turret description level 13,Kalıcı, el yapımı bir dart atış kulesi. yükseltilmiş! Daha hızlı ateş eder ve daha fazla hasar verir.
+Stack of old nails description level 13,Evet, sadece çok büyük bir eski çivi yığını ama onları rayın herhangi bir yerine koyarsanız, o başıboş balonları kolayca patlatırlar.
+See invisibility potion description level 14,Bu son derece etkili iksir ile hangi Maymunu hediye ederseniz edin, Camo Bloon'ları kolaylıkla görebileceksiniz! Etkiler aşınacak. Artık menzili artırıyor ve daha da uzun sürüyor!
+Sharpening stone description level 15,O dartları keskinleştir dostum! Bunu dartlarınıza ve bıçaklarınıza uygulayın, daha keskin olacaklar ve her zamankinden daha fazla hasar verecekler.
+Blade trap description level 15,Bunu raya yerleştirin ve ona dokunan ilk Bloon'ların dönen büyük bıçaklar tarafından parçalanmasını izleyin! Daha yeni daha güçlü model!
+Stack of old nails description level 16,Evet, sadece DEV bir ÇİVİ MADENİ ama onu rayın herhangi bir yerine koyarsanız, o başıboş Bloon'ları kolayca patlatır.
+Jar of Pickles description level 16,Bu turşuları Maymun Kulelerinizden birinde deneyin, daha sert vuracaktır, ancak bir süre daha yavaş vuracaktır. Şimdi, güçlendirilmiş Bloonlara DAHA FAZLA daha fazla hasar!
+Gerrys fire hot sauce description level 16,2,8 milyon Bloonville birimi. Bu özel sosu kim tadarsa bir süre ateş püskürtecek! Şimdi ekstra yanma ile.
+Tube of amaz-o-glue description level 17,Gerçekten şaşırtıcı! Bu modern harikanın bir tüpünü pistin herhangi bir yerine uygulayın ve bir sonraki Bloon grubunu ve hatta MOAB'lerin yavaşlamasını izleyin.
+Genie bottle description level 18,Bu parlak mavi şişeden bir Genie Monkey çağırın ama dikkatli olun, sonsuza kadar sürmeyecek! (satın alma dahil hiçbir dilek). MOAB'lara ekstra saldırı ve daha fazla hasar artık dahil.
+Creepy idol description level 18,Bazı Bloon'ları geldikleri yere geri korkutmak için bu ürkütücü görünümlü idolü pistin yanına yerleştirin. Mystical Shroud yükseltmesinin kilidi açıldı!
+See invisibility potion description level 19,Bu son derece etkili iksir ile hangi Maymunu hediye ederseniz edin, Camo Bloon'ları kolaylıkla görebilecek ve onlara daha fazla zarar verebilecek! Etkiler aşınacak.
+FriendScreenSureUnBlock,Bu kullanıcının engellemesini kaldırmak istediğinizden emin misiniz?
+None,Hiçbiri

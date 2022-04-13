@@ -1,4 +1,4 @@
-﻿//Input. Needs to be first e.g [I] replaced by click or tap,
+//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Haz clic en
 Tap,Toca
 ,
@@ -99,7 +99,7 @@ Quincy Level 13 Description,Aumenta un poco el alcance.
 Quincy Level 14 Description,Las flechas hacen el cuádruple de daño a los bloons clase MOAB.
 Quincy Level 15 Description,La velocidad de ataque del tiro rápido se cuadruplica y se reduce el tiempo de recuperación.
 Quincy Level 16 Description,Velocidad de ataque aumentada aún más.
-Quincy Level 17 Description,Las flechas duran un 25 % más.
+Quincy Level 17 Description,Las flechas duran un 25 % más. Dispara flechas explosivas cada 2º tiro.
 Quincy Level 18 Description,"Quincy ataca mas rápido, y la Tormenta de Flechas tarda menos en recuperarse y tiene un 50 % más de flechas."
 Quincy Level 19 Description,Cada flecha recibe más potencia reventadora.
 Quincy Level 20 Description,Quincy ataca aún más rápido. Tormenta de flechas hace más daño por flecha y dispara más.
@@ -161,7 +161,7 @@ Gwendolin Level 12 Description,Velocidad de ataque aumentada.
 Gwendolin Level 13 Description,"Se aumentó mucho el poder reventador; además, los proyectiles se mueven más rápido y duran más."
 Gwendolin Level 14 Description,El Cóctel de Fuego hace daño extra y le da lumbre a todos los Bloons clase MOAB.
 Gwendolin Level 15 Description,Velocidad de ataque aumentada.
-Gwendolin Level 16 Description,Tormenta de fuego dura más. Los bloons morados ya no son inmunes a los ataques de Gwendolin.
+Gwendolin Level 16 Description,Tormenta de fuego dura más y hace más daño. Los bloons morados ya no son inmunes a los ataques de Gwendolin.
 Gwendolin Level 17 Description,Caliéntalo hace que los monos afectados revienten 1 capa extra y hagan +2 de daño a los bloons emplomados.
 Gwendolin Level 18 Description,Velocidad de ataque aumentada.
 Gwendolin Level 19 Description,Lanza 3 estallidos de fuego por disparo.
@@ -836,7 +836,7 @@ Rapid Fire Description,Dispara más rápido de lo normal.
 Exploding Pineapple Description,Arroja piñas al suelo y estas explotan con violencia después de unos segundos. Mejoran los ataques explosivos de Ace.
 Sharper Darts Description,Cada dardo puede reventar 8 bloons.
 Lots More Darts Description,Lanza 12 dardos al mismo tiempo.
-Spy Plane Description,Permite que el mono as ataque a los camufloons.
+Spy Plane Description,Permite que el mono as ataque a los camufloons y les haga más daño.
 Centered Path Description,Nueva ruta de vuelo central que cubre más superficie del mapa.
 Fighter Plane Description,Vuela rápido y lanza misiles antiMOAB.
 Bomber Ace Description,Suelta una línea de bombas cuando cruza el camino de los bloons.
@@ -873,7 +873,7 @@ Burny Stuff Description,Los bloons dañados se incendian de forma momentánea co
 Shockwave Description,"Las detonaciones aturden a los bloons, revientan bloons en un área mayor y aumenta el daño de Cosa quemadora."
 Heavy Shells Description,"Los proyectiles pesados hacen más daño a los bloons cerámicos, emplomados y a todos los aturdidos. También revientan bloons negros."
 Signal Flare Description,Los camufloons reventados por bengalas pierden su camuflaje para siempre.
-The Big One Description,Cada explosión devastadora revienta 5 capas de bloons y aumenta más el daño de Cosa quemadora.
+The Big One Description,Cada explosión devastadora revienta 7 capas de bloons y aumenta más el daño de Cosa quemadora.
 Artillery Battery Description,Habilidad Bombardeo: activa un ataque de fuego rápido en un área un poco mayor. El ataque principal se mejora a 3 cañones para lanzar disparos muy rápidos.
 Shattering Shells Description,Los proyectiles devastadores les quitan las propiedades especiales a todos los bloons excepto los más grandes.
 The Biggest One Description,Destruye a los bloons y las capas en un área enorme y Cosa quemadora causa mucho daño.
@@ -2154,7 +2154,7 @@ Knowledge unlock tip,Comenzarás a ganar puntos de conocimiento moneril en el ni
 Daily challenges unlock at,Los desafíos y eventos diarios se desbloquean en nivel {0}.
 ,
 ,
-FriendLiNKLoginRequiredBody,Necesitas una cuenta para ver las puntuaciones de los amigos de Facebook. 
+FriendLiNKLoginRequiredBody,Necesitas una cuenta para ver las puntuaciones de tus amigos.
 FriendLiNKLoginRequiredTitle,¿Iniciar sesión?
 FriendLiNKLoginFailed,Falló el inicio de sesión en Facebook. Verifica la conexión a Internet y la información de inicio de sesión.
 Do It,Hazlo
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] para usar Desvío oscuro dentro del alcance
 DarkChampionDarkshift,[I] para usar Desvío oscuro a cualquier ubicación válida
 SmallTowersMode,Torres moneriles pequeñas
 BigTowersMode,Torres moneriles grandes
-UpdatePopupTitle,¡Actualización 30!
-UpdatePopupDescription,"¡Nueva actualización de contenido!\n• Lucha en el mapa avanzado nuevo: columnas hundidas\n• Hora de hacer bullicio con el aspecto nuevo de Psi: Psímbalos\n• Actualización de divisiones cooperativas: se agregaron 2 divisiones nuevas que pueden seleccionarse cuando configuras una partida cooperativa\n• 16 objetos nuevos de la tienda de trofeos que incluyen 4 por tiempo limitado. ¡Consíguelos ahora!\n• 4 conocimientos moneriles nuevos para desbloquear\n• Logros nuevos, cambios de equilibrio y calidad. Consulta las notas para saber más."
+UpdatePopupTitle,¡Actualización 31!
+UpdatePopupDescription,"¡Nueva actualización de contenido!\n• ¡Héroe nuevo! Llega Geraldo el tendero místico y tiene un emporio increíble de objetos para reventar bloons.\n • ¡Jefe nuevo! Vortex es un maestro aéreo letal que desata su ira.\n• Diviértete mientras revientas bloons en Desarmadero, el mapa nuevo para principiantes.\n• 9 objetos nuevos en la tienda de trofeos, entre ellos un remix.\n• Explorador de desafíos: se agregaron las condiciones especiales de victoria Menos dinero y Menos grados para que disfrutes más.\n• Menú Héroes nuevo y mejorado y más cambios de calidad y equilibrio. Consulta las notas para ver todos los detalles."
 ResetDailyChest,Restablecer cofre diario
 JukeboxName,Rocola
 EnableFunction,Habilitar
@@ -3062,7 +3062,7 @@ Drone Swarm Ability Description,Etienne lanza 4 drones temporales más que hacen
 UCAV Ability,UCAV
 UCAV Ability Description,El dron de vigilancia de altitud elevada se vuelve un dron de combate devastador por poco tiempo.
 Mesa,Mesa
-DreadPirateBrickellAdmiralBrickellSkinName,Pirata Brickell
+DreadPirateBrickellAdmiralBrickellSkinName,Aspecto de pirata Brickell
 DreadPirateBrickellAdmiralBrickellSkinDescription,¡La Reina de los Siete Mares zarpa otra vez!
 No Insta Reward,Sin recompensa de ronda 100
 GameUIProfileAvatar19Name,Avatar personalizado: Adora enojada
@@ -3644,7 +3644,7 @@ GameUIPowerSkinLavaLakeName,Poder personalizado: lago de lava portátil
 GameUIPowerSkinLavaLakeShortName,Lago de lava portátil
 GameUIPowerSkinLavaLakeDescription,¡Hace mucho calor aquí! Derrite las preocupaciones con un estanque de lava.
 Resort,Complejo turístico
-ETnEtienneSkinName,ETn
+ETnEtienneSkinName,Aspecto de Etn
 ETnEtienneSkinDescription,Llévame con tu líder.
 VeteranXP,PE de veterano
 GameUIMusicTrackMusicSailsAgain,Zarpa otra vez
@@ -3672,7 +3672,7 @@ YouFinished,Completaste:
 BestTime,Récord:
 Claim,Reclamar
 PlayerRejoinedGame, se unió a la partida de nuevo
-PlayerKickedFromGame,Se quitó a  de la partida.
+PlayerKickedFromGame, se quitó de la partida.
 ConfirmKickPlayer,¿Seguro que quieres quitar a {0}?
 Remove,Quitar
 MiniRacesFirstTimeTitle,¡Minicarreras!
@@ -4138,13 +4138,13 @@ GamecenterLoginPrompt,"Debes conectarte a Game Center para tener acceso. Abre la
 GamecenterRestrictedTitle,Acceso a multijugador restringido
 GamecenterLoginTitle,Inicia sesión en Game Center
 QuietStreet,Calle tranquila
-GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinName,Aspecto de Galaxili
 GalaxiliEziliSkinDescription,Todo lo que vemos y lo que somos está hecho de polvo estelar.
 MonkeyBuccaneer Paragon,Navarca de los mares
 MonkeyBuccaneer Paragon Description,Lo más impresionante que alguna vez surcó las aguas.
 HeroesPsiPetBisonName,Mascota bisonte de Psi
 HeroesPsiPetBisonShortName,Mascota bisonte de Psi
-HeroesPsiPetBisonDescription,Un espécimen ejemplar de la familia de los ungulados que Psi adora. Solo Psi original ;)
+HeroesPsiPetBisonDescription,Un espécimen ejemplar de la familia de los ungulados que Psi adora. Solo Psi original ,)
 TowerPropMonkeyVillageAustralianFlagName,Bandera de Australia para la monoaldea
 TowerPropMonkeyVillageAustralianFlagShortName,Bandera de Australia
 TowerPropMonkeyVillageAustralianFlagDescription,"¡Vamos, Australia! ¡Oi, oi, oi! Esta bandera para la monoaldea aparece en todas las actualizaciones."
@@ -4254,7 +4254,7 @@ Achievement 142 Description,Gasta 1000 mónares en continuaciones o puntos de co
 PetSounds,Sonidos de mascotas
 UserID,ID de usuario
 SunkenColumns,Columnas hundidas
-PsimbalsPsiSkinName,Psímbalos
+PsimbalsPsiSkinName,Aspecto de Psímbalos
 PsimbalsPsiSkinDescription,¿Todo listo para el espectáculo?
 HeroesStrikerJonesPetGermanShepherdName,Pastor alemán mascota de Striker Jones
 HeroesStrikerJonesPetGermanShepherdShortName,Perro mascota de Striker
@@ -4297,7 +4297,7 @@ GameUIPowerSkinMonkeyBoostSugarRushShortName,Potenciador azucarado
 GameUIPowerSkinMonkeyBoostSugarRushDescription,"Humanos, sabemos que rinden más bajo la influencia del azúcar. Es igual para los monos."
 GameUIProfileBanner10Name,Banderola de perfil garabato genial
 GameUIProfileBanner10ShortName,Banderola garabato genial
-GameUIProfileBanner10Description,Banderola ganadora de bonbonni
+GameUIProfileBanner10Description,Banderola ganadora de chompypaw
 GameUIProfileBanner11Name,Banderola de perfil Arcanum Necronicom
 GameUIProfileBanner11ShortName,Banderola de perfil Arcanum Necronicom
 GameUIProfileBanner11Description,Banderola ganadora de _Concilliabule_
@@ -4327,3 +4327,180 @@ FilterMisc,Miscelánea
 Blast Chain Ability,Cadena explosiva
 Blast Chain Ability Description,Las minas marinas se disparan más rápido durante poco tiempo.
 TowerSpecial,Especial moneril
+Geraldo,Geraldo
+Geraldo Short Description,Tendero místico
+Geraldo Description,Geraldo el tendero vende una selección de objetos útiles y desintegra a los bloons con el ataque de rayo.
+Geraldo Level 1 Description,"Objetos disponibles: torreta tiradora, montón de clavos viejos, ídolo aterrador, frasco de encurtidos. Geraldo también tiene un ataque mágico de alcance corto."
+Geraldo Level 2 Description,¡Objeto nuevo! Figura de acción rara de Quincy que aumenta de valor con el tiempo.
+Geraldo Level 3 Description,¡Objeto nuevo! Poción de visibilidad que otorga detección de camuflaje de corto plazo a una torre moneril o un héroe. Aumenta el alcance de ataque de Geraldo.
+Geraldo Level 4 Description,¡Objeto nuevo! Tubo de pegatodo que se puede colocar en el camino para demorar a los bloons.
+Geraldo Level 5 Description,¡Objeto nuevo! Piedra de afilar que mejora la perforación de una torre moneril o un héroe cuando causa daño de corte.
+Geraldo Level 6 Description,¡Objeto nuevo! Capa heroica gastada que convierte a un mono dardero de grado 2 o menos en Supermono. Los monos convertidos solo pueden llegar hasta grado 3.
+Geraldo Level 7 Description,"¡Objeto nuevo! Trampa cortante. Cuando un bloon la toca, se desata un remolino de cuchillas. También aumentan el daño y la perforación del ataque principal de Geraldo."
+Geraldo Level 8 Description,"¡Objeto nuevo! Botella de Llamarada Geri: salsa hiperpicante de 2,8 millones de unidades de Bloonville. Otorga un ataque incendiario durante 10 rondas a un mono, héroe o secuaz."
+Geraldo Level 9 Description,¡Objeto nuevo! Fertilizante. Los bananales afectados que producen bananas visibles aumentan la producción y reciben más dinero durante varias rondas. Aumenta el radio de alcance del ataque principal de Geraldo.
+Geraldo Level 10 Description,"¡Objeto nuevo! Conejo mascota. Aaah, qué ternura."
+Geraldo Level 11 Description,¡Objeto nuevo! Poción regeneradora que restablece las recuperaciones de torres moneriles y héroes y restaura 50 vidas. Aumenta la perforación del ataque principal de Geraldo y Frasco de encurtidos hace más daño contra bloons fortificados.
+Geraldo Level 12 Description,¡Objeto nuevo! Lámpara de genio para invocar a un mono genio con poderes de plasma que dura 3 rondas. Ídolo aterrador ahora aplica un aturdimiento adicional a los bloons clase MOAB visibles.
+Geraldo Level 13 Description,Torreta tiradora dispara más rápido y hace más daño. Montón de clavos viejos hace más daño.
+Geraldo Level 14 Description,Poción de visibilidad otorga más alcance y dura más.
+Geraldo Level 15 Description,Piedra de afilar aumenta el daño además de la perforación y Trampa cortante crea un efecto más potente cuando se activa.
+Geraldo Level 16 Description,Montón de clavos viejos se convierte en Mina de clavos. Frasco de encurtidos otorga más daño contra bloons fortificados y Llamarada Geri adquiere más daño de quemadura.
+Geraldo Level 17 Description,El ataque principal de Geraldo hace más daño y Tubo de pegatodo tiene un efecto pequeño sobre bloons clase MOAB.
+Geraldo Level 18 Description,El genio adquiere un segundo ataque contra objetivos cercanos y hace más daño a los bloons clase MOAB. Ídolo aterrador aplica un velo místico a los bloons clase MOAB que causa mucho daño alrededor cuando revientan.
+Geraldo Level 19 Description,"El ataque principal de Geraldo es más rápido, tiene más alcance y hace más daño. Poción de visibilidad adquiere más daño contra los camufloons."
+Geraldo Level 20 Description,¡Objeto nuevo! Tótem que aumenta la potencia del próximo ejemplar creado. El ataque principal de Geraldo hace más daño.
+Geraldo Shop shortname,Comprar
+Geraldo Shop name,Tienda de Geraldo
+Shooty turret name,Torreta tiradora
+Shooty turret description,"Es permanente, artesanal y dispara dardos."
+Stack of old nails name,Montón de clavos viejos
+Stack of old nails description,"Sí, no es más que eso. Pero colócalos en el camino y reventarán a los bloons desviados de forma muy conveniente."
+Creepy idol name,Ídolo aterrador
+Creepy idol description,Coloca esta figura de aspecto lúgubre junto al camino para espantar a los bloons de vuelta al lugar de origen.
+Jar of Pickles name,Frasco de encurtidos
+Jar of Pickles description,Pruébalos con una de las torres moneriles para que dispare con más fuerza y menos velocidad durante un tiempo.
+Rare Quincy action figure name,Figura de acción rara de Quincy
+Rare Quincy action figure description,"Original de edición limitada en condiciones impecables. ¡Es Quincy, hijo de Quincy! Sube de valor con el tiempo, deberías comprarla ahora."
+See invisibility potion name,Poción de visibilidad
+See invisibility potion description,El mono que reciba este elixir de eficacia extrema verá a los camufloons con facilidad. El efecto se agota con el tiempo.
+Tube of amaz-o-glue name,Tubo de pegatodo
+Tube of amaz-o-glue description,¡Es increíble! Aplica un tubo de esta maravilla moderna en el camino y observa cómo pierden velocidad los bloons.
+Sharpening stone name,Piedra de afilar
+Sharpening stone description,"Afila los dardos, camarada. Úsala con los dardos y cuchillas para que sean más filosos que nunca."
+Worn heros cape name,Capa heroica gastada
+Worn heros cape description,"¡Digna de todo héroe! Úsala con uno de los monos darderos y observa la transformación. Tiene poco uso y aún menos grados, eh, desgarros."
+Blade trap name,Trampa cortante
+Blade trap description,Colócala en el camino y verás cómo las cuchillas giratorias destrozan a los bloons que las tocan.
+Gerrys fire hot sauce name,Botella de salsa picante Llamarada Geri
+Gerrys fire hot sauce description,"2,8 millones de unidades de Bloonville. Quien la pruebe escupirá fuego durante un tiempo."
+Fertilizer name,Fertilizante
+Fertilizer description,¿Tienes un bananal? ¿Quieres más cantidad de bananas? Usa este fertilizante mágico de potencia extrema y listo.
+Pet rabbit name,Conejo mascota
+Pet rabbit description,A veces solo necesitas un conejito adorable. O varios.
+Rejuv potion name,Poción regeneradora
+Rejuv potion description,Bebe esta delicia en cualquier momento y observa cómo restaura vidas perdidas y restablece tiempos de recuperación.
+Genie bottle name,Lámpara de genio
+Genie bottle description,"Invoca a un genio moneril, pero ten cuidado. No dura para siempre. Tres deseos no incluidos."
+Paragon power totem name,Tótem de ejemplar
+Paragon power totem description,Aumenta la potencia del próximo ejemplar con este artefacto místico.
+EventEndingSoonText,El evento termina pronto y ya no se puede entrar.
+EngineerMonkey Paragon,Maestro constructor
+EngineerMonkey Paragon Description,Ingeniería moneril desarrollada a la perfección. Crea tres megacentinelas que construyen centinelas propios.
+OptionsLogout,Cerrar sesión
+ConfirmLogout,Confirmar cierre
+ConfirmLogoutDesc,"¿Seguro quieres cerrar sesión en la cuenta? Si es así, anota los datos de la cuenta actual y el antes de hacerlo.\n\n{0}"
+VortexTagLine,Llega desde el cielo
+VortexTagLine2,Maestro aéreo letal
+Vortex,Vortex
+VortexInfoPanelDescription,"• Vortex se mueve como un rayo y acelera a los bloons.\n• Cuando cada barra de vida llega a la calavera, Vortex se protege, envía una onda expansiva que aturde a las torres cercanas y retrocede en el camino.\n• También emite un pulso de tormenta regular q"
+Scrapyard,Desarmadero
+BloonsAllBloonsCatEarName,Bloons con orejas de gato
+BloonsAllBloonsCatEarShortName,Bloons con orejas de gato
+BloonsAllBloonsCatEarDescription,"Los bloons y los gatos no suelen llevarse bien, pero en este caso es la combinación ideal."
+BloonsAllBloonsDisguiseGlassesName,Bloons con gafas de disfraz
+BloonsAllBloonsDisguiseGlassesShortName,Bloons con gafas de disfraz
+BloonsAllBloonsDisguiseGlassesDescription,Este disfraz solo engañaría a un mono. Momento...
+CoopEmoteAnimationPatFlexName,Emote de Pat Flex
+CoopEmoteAnimationPatFlexShortName,Pat Flex
+CoopEmoteAnimationPatFlexDescription,"Músculos y cerebro, qué combinación. Pat es muy fuerte."
+CoopEmoteAnimationMindBlownName,Emote de alucinante
+CoopEmoteAnimationMindBlownShortName,Alucinante
+CoopEmoteAnimationMindBlownDescription,Es lo único que está a la altura cuando tu compañero de cooperativo hace algo increíble y brillante.
+GameUIProfileAvatar59Name,Avatar de Supermono
+GameUIProfileAvatar59ShortName,Avatar de Supermono
+GameUIProfileAvatar59Description,Se le nota el amor en los ojos. Ahora solo debes dilucidar si te mira a ti o a su propio reflejo.
+GameUIProfileAvatar60Name,Avatar de Striker Jones
+GameUIProfileAvatar60ShortName,Avatar de Striker Jones
+GameUIProfileAvatar60Description,Striker Jones listo para el deber. Muestra que tienes todo listo para ganar con saludos de tu mono lanzamisiles favorito.
+GameUIProfileBanner13Name,Banderola de llegada
+GameUIProfileBanner13ShortName,Banderola de perfil de llegada
+GameUIProfileBanner13Description,Banderola ganadora de betapotata
+GameUIProfileBanner14Name,Banderola de bajo las aguas
+GameUIProfileBanner14ShortName,Banderola de perfil de bajo las aguas
+GameUIProfileBanner14Description,Banderola ganadora de Cyliia
+GameUIMusicTrackMusicSunshineFiestaMixName,Rocola: Serenata soleada - Remezcla de Party
+GameUIMusicTrackMusicSunshineFiestaMixShortName,Soleada - Party
+GameUIMusicTrackMusicSunshineFiestaMixDescription,Sube el volumen y disfruta este remix tremendo de Serenata soleada.
+CantSubmitEventEnded,"No se puede enviar la puntuación, el evento terminó."
+CyberQuincySkinNameFull,Quincy Biónico
+ScientistGwendolinSkinNameFull,Gwendolin científica
+SentaiCaptainChurchillSkinNameFull,Churchill sentai
+BikerBonesSkinNameFull,Biker Bones
+ObynOceanGuardianSkinNameFull,Guardián oceánico
+BenJamminSkinNameFull,Benjammin DJ
+SmudgeCattSkinNameFull,Felina manchada
+FustyTheSnowmanSkinNameFull,Musti el hombre de nieve
+WolfpackQuincySkinNameFull,Quincy de la jauría
+JoanOfArcAdoraSkinNameFull,Adora Juana de Arco
+HarlegwenGwendolinSkinNameFull,Harley Gwen
+OctoJonesStrikerJonesSkinNameFull,Octojones
+DreadPirateBrickellAdmiralBrickellSkinNameFull,Pirata Brickell
+ObynMountainGuardianSkinNameFull,Guardia montañés
+SushiBentoBenjaminSkinNameFull,Sushi bento
+ETnEtienneSkinNameFull,ETn
+VikingSaudaSaudaSkinNameFull,Sauda vikinga
+GalaxiliEziliSkinNameFull,Galaxili
+PsimbalsPsiSkinNameFull,Psímbalos
+Least Cash,Menos dinero:
+Least Tiers,Menos grados:
+Least Cash Used,Menos dinero usado:
+Least Tiers Used,Menos grados usados:
+All Tiers Used,Todos los grados usados
+All Cash Used,Todo el dinero usado
+Tiers Used,Grados usados
+Cash Used,Dinero usado
+No Score Set,No se fijaron puntos
+Auto,Automático
+FriendScreenFriends,Amigos
+FriendScreenRequests,Solicitudes
+FriendScreenYourFriendCode,Código de amigo:
+FriendScreenOnline,En línea
+FriendScreenOffline,Sin conexión
+FriendScreenAccept,Aceptar
+FriendScreenDecline,Rechazar
+FriendScreenBlock,Bloquear
+FriendScreenFriendText,Los amigos aparecerán aquí. Comparte tu código con amigos y familiares.
+RequestDisabledText,Solicitudes desactivadas
+FriendScreenEnterCode,Escribe el código de amigo:
+FriendScreenAdd,Agregar
+FriendScreenSureUnfriend,¿Seguro quieres terminar la amistad con este usuario?
+FriendScreenSureBlock,¿Seguro quieres bloquear a este usuario?
+SpecialConditions,Condiciones especiales
+FriendScreenRequestText,Los amigos aparecerán aquí. Comparte tu código con amigos y familiares.
+FriendScreenCodeHidden,Código de amigo oculto
+RequestEnabledText,Solicitudes activadas
+Least Cash No Colon,Menos dinero
+Least Tiers No Colon,Menos grados
+SpecialConditionsColon,Condiciones especiales:
+GoalSetForCash,El objetivo es {0} de dinero
+GoalSetForTiers,El objetivo es {0} grados
+ChallengeCashUsed,Usaste {0}/{1} de dinero
+ChallengeTiersUsed,Usaste {0}/{1} grados
+ShootyTurret,Torreta tiradora
+CreepyIdol,Ídolo aterrador
+RareQuincyActionFigure,Figura de acción rara de Quincy
+GenieBottle,Lámpara de genio
+ParagonPowerTotem,Tótem de ejemplar
+FriendScreenErrorRequestFailed,Solicitud de amistad fallida
+FriendScreenErrorInvalidCode,Código de amigo no válido
+FriendScreenErrorBlocked,Disculpa, el jugador que intentas agregar bloqueó las solicitudes de amistad.
+FriendScreenErrorAlreadySent,Ya enviaste una solicitud de amistad a este jugador.
+FriendScreenErrorTooManyFriends,Alcanzaste el límite máximo de amigos. Puedes hacer lugar quitando a un amigo existente o cancelando una solicitud de amistad que hayas hecho.
+MapEditor,Editor de mapas
+Jar of Pickles description level 11,Pruebe estos pepinillos en una de sus Torres Mono y golpeará más fuerte, pero disparará más lento por un tiempo. ¡Ahora con mayor daño a Bloons fortificados!
+Creepy idol description level 12,Coloque este ídolo de aspecto espeluznante cerca de la pista para asustar a algunos Bloons (¡incluso MOAB!) de regreso de donde vinieron.
+Shooty turret description level 13,Una torreta permanente de tiro de dardos hecha a mano. ¡Actualizado! Dispara más rápido y hace más daño.
+Stack of old nails description level 13,Sí, es solo una pila muy grande de clavos viejos, pero colóquelos en cualquier lugar de la pista y reventarán fácilmente esos bloons perdidos.
+See invisibility potion description level 14,¡Cualquier mono que regales con este elixir extremadamente eficaz podrá ver Camo Bloons con facilidad! Los efectos desaparecerán. ¡Ahora da mayor alcance y dura aún más!
+Sharpening stone description level 15,¡Afila esos dardos, amigo! Aplica esto a tus dardos y cuchillas y estarán más afilados y harán más daño que nunca.
+Blade trap description level 15,¡Coloca esto en la pista y observa cómo las grandes cuchillas giratorias destrozan a los primeros Bloons que lo tocan! Nuevo modelo más potente!
+Stack of old nails description level 16,Sí, es solo una MINA DE UÑAS GIGANTE, pero colócala en cualquier parte de la pista y hará estallar fácilmente esos Bloons perdidos.
+Jar of Pickles description level 16,Pruebe estos pepinillos en una de sus Torres Mono y golpeará más fuerte, pero disparará más lento por un tiempo. ¡Ahora con AÚN MÁS daño aumentado a Bloons fortificados!
+Gerrys fire hot sauce description level 16,2,8 millones de unidades de Bloonville. ¡Quien pruebe esta salsa especial estará echando fuego por un rato! Ahora con extra burny-ness.
+Tube of amaz-o-glue description level 17,¡Verdaderamente asombroso! Aplique un tubo de esta maravilla moderna en cualquier parte de la pista y observe cómo el siguiente grupo de Bloons e incluso los MOAB se ralentizan.
+Genie bottle description level 18,Invoca a un mono genio de esta brillante botella azul, pero ten cuidado, ¡no durará para siempre! (sin deseos incluidos con la compra). Ataque adicional y más daño a MOAB ahora incluidos.
+Creepy idol description level 18,Coloque este ídolo de aspecto espeluznante cerca de la pista para asustar a algunos Bloons de donde vinieron. ¡Mejora de Mystical Shroud desbloqueada!
+See invisibility potion description level 19,¡Cualquier mono que regales con este elixir extremadamente eficaz podrá ver Camo Bloons con facilidad y hacerles más daño! Los efectos desaparecerán.
+FriendScreenSureUnBlock,¿Estás seguro de que quieres desbloquear a este usuario?
+None,Ninguna

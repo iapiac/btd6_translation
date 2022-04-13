@@ -1,4 +1,4 @@
-﻿//Input. Needs to be first e.g [I] replaced by click or tap,
+//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Clique
 Tap,Toque
 ,
@@ -99,7 +99,7 @@ Quincy Level 13 Description,Pequeno aumento no alcance.
 Quincy Level 14 Description,Flechas causam o quádruplo do dano a Bloons Classe MOAB.
 Quincy Level 15 Description,O disparo rápido se torna x4 e a recarga é reduzida.
 Quincy Level 16 Description,Mais velocidade de ataque aumentada.
-Quincy Level 17 Description,Flechas duram 25% mais.
+Quincy Level 17 Description,Flechas duram 25% mais. Dispara flechas explosivas a cada 2 tiros.
 Quincy Level 18 Description,Quincy ataca mais rápido e a recarga da Tempestade de Flechas é reduzida e tem 50% mais flechas.
 Quincy Level 19 Description,Cada flecha tem ainda mais poder de estouro.
 Quincy Level 20 Description,Quincy ataca ainda mais rápido. Tempestade de Flechas causa mais dano por flecha e dispara ainda mais flechas.
@@ -161,7 +161,7 @@ Gwendolin Level 12 Description,Velocidade de ataque aumentada.
 Gwendolin Level 13 Description,"Poder de estouro bastante elevado e, projéteis se movem mais rápido e duram mais tempo."
 Gwendolin Level 14 Description,Coquetel de Fogo causa dano extra e incendeia Bloons classe MOAB.
 Gwendolin Level 15 Description,Velocidade de ataque aumentada.
-Gwendolin Level 16 Description,A Tempestade de Fogo tem duração aumentada. Bloons Roxos não são mais imunes aos ataques de Gwendolin.
+Gwendolin Level 16 Description,A Tempestade de Fogo tem duração aumentada e causa mais dano. Bloons Roxos não são mais imunes aos ataques de Gwendolin.
 Gwendolin Level 17 Description,Aquecer fortalece os macacos afetados para estourar 1 camada extra e causar +2 de dano a Bloons de Chumbo.
 Gwendolin Level 18 Description,Velocidade de ataque aumentada.
 Gwendolin Level 19 Description,Atira 3 rajadas de fogo por disparo.
@@ -836,7 +836,7 @@ Rapid Fire Description,Dispara mais rápido que o normal.
 Exploding Pineapple Description,Deixa abacaxis no chão que explodem violentamente após alguns segundos. Os ataques explosivos do Ás são melhorados.
 Sharper Darts Description,Dardos podem estourar 8 Bloons cada.
 Lots More Darts Description,Dispara 12 dardos de vez.
-Spy Plane Description,Permite ao Macaco Ás atingir Bloons Camuflados.
+Spy Plane Description,Permite que o Macaco Ás acerte Bloons Camuflados e cause mais dano neles.
 Centered Path Description,Novo caminho de voo central para cobertura máxima do mapa.
 Fighter Plane Description,Voa rápido e lança mísseis anti-MOAB.
 Bomber Ace Description,Descarrega uma linha de bombas ao cruzar a pista de Bloons.
@@ -873,7 +873,7 @@ Burny Stuff Description,Bloons danificados são incendiados momentaneamente a ca
 Shockwave Description,"A onda de choque da explosão atordoa Bloons com o impacto, estoura Bloons em uma área maior e aumenta o dano de Parada Queimante."
 Heavy Shells Description,"Cápsulas pesadas causam mais danos a Bloons de Cerâmica, Chumbo, todos os Fortificados e todos os atordoados. Também estoura Bloons Pretos."
 Signal Flare Description,Bloons Camuflados estourados por sinalizadores perdem a camuflagem permanentemente.
-The Big One Description,"Explosões devastadoras estouram 5 camadas de Bloons cada, além de um aumento maior no dano de Parada Queimante."
+The Big One Description,"Explosões devastadoras estouram 7 camadas de Bloons cada, além de um aumento maior no dano de Parada Queimante."
 Artillery Battery Description,"Habilidade Bombardeio: libera um ataque de disparo rápido em uma área um pouco maior. O ataque principal melhora para 3 barris, causando ataques incrivelmente rápidos."
 Shattering Shells Description,"Cápsulas destrutivas removem todas as propriedades de bloons especiais, com exceção dos maiores bloons."
 The Biggest One Description,"Estoura profundamente Bloons e camadas em uma área enorme, mais um poderoso dano de Parada Queimante."
@@ -2154,7 +2154,7 @@ Knowledge unlock tip,Você começará a ganhar pontos de Conhecimento Símio a p
 Daily challenges unlock at,Desafios diários e eventos são liberados no nível {0}
 ,
 ,
-FriendLiNKLoginRequiredBody,Conta necessária para ver pontuações de amigos do Facebook. 
+FriendLiNKLoginRequiredBody,Conta necessária para ver pontuações de amigos.
 FriendLiNKLoginRequiredTitle,Entrar?
 FriendLiNKLoginFailed,Falha ao se conectar ao Facebook. Verifique sua conexão com a internet e as informações de login.
 Do It,Faça
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] para usar Teleporte Sombrio no alcance
 DarkChampionDarkshift,[I] para usar Teleporte Sombrio para qualquer local válido
 SmallTowersMode,Torres Macacos Pequenos
 BigTowersMode,Torres Macacos Grandes
-UpdatePopupTitle,Atualização 30!
-UpdatePopupDescription,"Nova atualização de conteúdo!\n• Lute pelo novo mapa Avançado: Colunas Submersas\n• Aumente o som com o novo visual de Psi: Psimbals!\n• Atualização da divisão cooperativa: 2 novas divisões adicionadas e todas são selecionáveis ao definir uma partida cooperativa\n• 16 novos itens na Loja de Troféus, incluindo 4 novos itens por tempo limitado. Pegue-os logo!\n• 4 novos Conhecimentos Símios para liberar\n• Novas conquistas, melhorias de qualidade de vida e mudanças de equilíbrio. Confira as notas de atualização para ver todos os detalhes."
+UpdatePopupTitle,Atualização 31!
+UpdatePopupDescription,"Nova atualização de conteúdo!\n• Novo herói! Geraldo, o Vendedor Místico chegou com seu incrível empório de itens estouradores de Bloons!\n • Novo chefe! Vórtice, o Mestre Mortal do Ar chegou!\n• Divirta-se destruindo Bloons no novo mapa Iniciante: Ferro-Velho\n• 9 novos itens na Loja de Troféus, incluindo um novo remix\n• Navegador de desafios: condições de vitória especiais Menos Dinheiro e Menos Níveis adicionadas para sua diversão nos desafios\n• Novo e melhorado menu de heróis, e melhorias de equilíbrio e qualidade de vida. Veja as notas da atualização para os detalhes completos!"
 ResetDailyChest,Zerar Baú Diário
 JukeboxName,Jukebox
 EnableFunction,Habilitar
@@ -3062,7 +3062,7 @@ Drone Swarm Ability Description,Etienne dispara mais 4 drones temporários para 
 UCAV Ability,VACNT
 UCAV Ability Description,Drones de vigilância de grande altitude se torna um devastador drone de combate por um tempo curto.
 Mesa,Mesa
-DreadPirateBrickellAdmiralBrickellSkinName,"Brickell, Pirata Terrível"
+DreadPirateBrickellAdmiralBrickellSkinName,"Visual Brickell, Pirata Terrível"
 DreadPirateBrickellAdmiralBrickellSkinDescription,A Rainha dos Sete Mares navega novamente!
 No Insta Reward,Sem Recompensa na Rodada 100
 GameUIProfileAvatar19Name,Avatar Personalizado - Rosto de Adora
@@ -3644,7 +3644,7 @@ GameUIPowerSkinLavaLakeName,Poder Personalizado - Lago de Lava Portátil
 GameUIPowerSkinLavaLakeShortName,Lago de Lava Portátil
 GameUIPowerSkinLavaLakeDescription,Está ficando quente aqui! Ferva suas preocupações nessa bela piscina de lava!
 Resort,Resort
-ETnEtienneSkinName,ETn
+ETnEtienneSkinName,Visual Etn
 ETnEtienneSkinDescription,Me leve ao seu líder.
 VeteranXP,XP de Veterano
 GameUIMusicTrackMusicSailsAgain,Navegue Novamente
@@ -4138,7 +4138,7 @@ GamecenterLoginPrompt,"Faça login no Game Center para acessar. Abra as Configur
 GamecenterRestrictedTitle,Acesso ao multijogador restrito
 GamecenterLoginTitle,Login no Game Center
 QuietStreet,Rua Quieta
-GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinName,Visual Galaxili
 GalaxiliEziliSkinDescription,"Tudo o que somos, tudo o que vemos, é feito de poeira espacial."
 MonkeyBuccaneer Paragon,Navarco dos Mares
 MonkeyBuccaneer Paragon Description,A coisa mais incrível que já flutuou sobre a água.
@@ -4254,7 +4254,7 @@ Achievement 142 Description,Gaste 1.000 de DdM em continuações ou pontos de ve
 PetSounds,Sons de Animais
 UserID,ID de usuário
 SunkenColumns,Colunas Submersas
-PsimbalsPsiSkinName,Psimbals
+PsimbalsPsiSkinName,Visual Psimbals
 PsimbalsPsiSkinDescription,Tudo pronto pro show?!
 HeroesStrikerJonesPetGermanShepherdName,Pet Pastor Alemão do Striker Jones
 HeroesStrikerJonesPetGermanShepherdShortName,Pet Pastor Striker
@@ -4297,7 +4297,7 @@ GameUIPowerSkinMonkeyBoostSugarRushShortName,Impulso de Açúcar
 GameUIPowerSkinMonkeyBoostSugarRushDescription,Humanos: todos sabemos que funcionamos melhor com quantidades absurdas de açúcar. Macacos: também.
 GameUIProfileBanner10Name,Bandeira de Perfil Desenho Brilhante
 GameUIProfileBanner10ShortName,Bandeira Desenho Brilhante
-GameUIProfileBanner10Description,Bandeira vencedora por bonbonni
+GameUIProfileBanner10Description,Bandeira vencedora por chompypaw
 GameUIProfileBanner11Name,Bandeira de Perfil Arcanum Necronomicon
 GameUIProfileBanner11ShortName,Bandeira Arcanum Necronomicon
 GameUIProfileBanner11Description,Bandeira vencedora por _Concilliabule_
@@ -4327,3 +4327,180 @@ FilterMisc,Diversos
 Blast Chain Ability,Sequência de Explosões
 Blast Chain Ability Description,Minas marítimas disparam mais rápido por um curto período.
 TowerSpecial,Especial de Macaco
+Geraldo,Geraldo
+Geraldo Short Description,Vendedor Místico
+Geraldo Description,Geraldo vende uma seleção de itens úteis e eletrocuta Bloons com seu ataque de relâmpago.
+Geraldo Level 1 Description,"Itens disponíveis! Torreta Atiradora, Punhado de Pregos Velhos, Estátua Assustadora, Pote de Picles. Geraldo também tem um ataque mágico de curto alcance."
+Geraldo Level 2 Description,Novo item! Boneco Raro do Quincy - aumenta de valor quanto mais tempo você fica com ele!
+Geraldo Level 3 Description,Novo item! Poção de Ver Invisível - concede detecção de camuflagem por um curto período a uma torre de macaco ou herói. O alcance do ataque do Geraldo aumenta.
+Geraldo Level 4 Description,Novo item! Tubo de Cola Incrível - pode ser colocado na pista para desacelerar Bloons.
+Geraldo Level 5 Description,Novo item! Pedra de Amolar - impulsiona o preço de uma torre de macaco ou herói ao causar dano afiado.
+Geraldo Level 6 Description,Novo item! Capa de Herói Gasta - converte um Macaco Dardo de nível 2 ou inferior em um Supermacaco! Esses Supermacacos convertidos só podem ser melhorados até o nível 3.
+Geraldo Level 7 Description,"Novo item! Armadilha de Lâmina - quando um Bloon visível toca na armadilha, uma Tempestade de Lâminas é disparada. O ataque principal do Geraldo aumenta em dano e perfuração."
+Geraldo Level 8 Description,"Novo item! Garrafa de ""Fogo de Gerry"" - 2,8 milhões de unidades Bloonville de puro molho apimentado! Dá a um macaco, herói ou capanga um ataque de fogo por 10 rodadas."
+Geraldo Level 9 Description,Novo item! Fertilizante - Fazendas de Bananas alvo que produzem bananas visíveis aumentam a produção e ganham um bônus de dinheiro por diversas rodadas. A área de explosão do ataque principal do Geraldo aumenta.
+Geraldo Level 10 Description,"Novo item! Coelho de Estimação - ahh, que coelhinho mais fofinho!"
+Geraldo Level 11 Description,"Novo item! Poção de Rejuvenescimento - zera a recarga de todas as torres de macaco e heróis, e recupera 50 vidas. A perfuração do ataque principal do Geraldo aumenta e Pote de Picles cauda dano bônus contra Bloons Fortificados."
+Geraldo Level 12 Description,Novo item! Garrafa de Gênio - invoca um Macaco Gênio de plasma que dura 3 rodadas. Estátua Assustadora agora pode aplicar um atordoamento curto ocasional a Bloons classe MOAB visíveis que passarem.
+Geraldo Level 13 Description,"Torreta Atiradora dispara mais rápido e causa mais dano, e Punhado de Pregos Velhos causa mais dano."
+Geraldo Level 14 Description,Poção de Ver Invisível concede alcance adicional e dura mais tempo.
+Geraldo Level 15 Description,"Pedra de Amolar agora aumenta o dano além da perfuração, e Armadilha de Lâmina cria um efeito mais poderoso quando ativada."
+Geraldo Level 16 Description,"Punhado de Pregos Velhos se torna Mina de Pregos, Pote de Picles concede dano bônus adicional contra Bloons Fortificados e Fogo de Gerry ganha dano flamejante bônus."
+Geraldo Level 17 Description,O ataque principal do Geraldo causa mais dano e a Cola Incrível agora tem um pequeno efeito em Bloons classe MOAB.
+Geraldo Level 18 Description,"O gênio ganha um segundo ataque de curto alcance e causa dano bônus a Bloons classe MOAB, e Estátua Assustadora aplica uma Mortalha Mística em Bloons classe MOAB que causa muito dano por perto quando eles estouram."
+Geraldo Level 19 Description,"O ataque principal do Geraldo é mais rápido, tem maior alcance e causa mais dano, e a Poção de Ver Invisível ganha bônus de dano contra Bloons Camuflados."
+Geraldo Level 20 Description,Novo item! Totem de Poder de Excelência - adiciona poder de excelência à próxima unidade com excelência criada. O ataque principal do Geraldo causa mais dano.
+Geraldo Shop shortname,Loja
+Geraldo Shop name,Loja do Geraldo
+Shooty turret name,Torreta Atiradora
+Shooty turret description,"Uma torreta permanente atiradora de dardos, feita à mão."
+Stack of old nails name,Punhado de Pregos Velhos
+Stack of old nails description,"Sim, é só um punhado de pregos velhos, mas coloque em algum lugar da pista e eles serão muito útil em estourar Bloons perdidos."
+Creepy idol name,Estátua Assustadora
+Creepy idol description,Coloque essa estátua horripilante perto da pista para assustar alguns Bloons de volta pro lugar de onde vieram.
+Jar of Pickles name,Pote de Picles
+Jar of Pickles description,"Experimente esse picles em uma das suas torres de macaco e ela vai bater mais forte, mas atirar um pouco mais lentamente por um tempo."
+Rare Quincy action figure name,Boneco Raro do Quincy
+Rare Quincy action figure description,"Boneco de edição limitada, em perfeito estado, do Quincy, filho de Quincy! O valor só vai aumentar, então compre logo!"
+See invisibility potion name,Poção de Ver Invisível
+See invisibility potion description,O macaco que receber este elixir extremamente eficaz poderá ver Bloons Camuflados facilmente! O efeito passa.
+Tube of amaz-o-glue name,Tubo de Cola Incrível
+Tube of amaz-o-glue description,Realmente incrível! Aplique um pouco dessa maravilha moderna em qualquer lugar da pista e veja os próximos Bloons desacelerando.
+Sharpening stone name,Pedra de Amolar
+Sharpening stone description,"Afie esses dardos, amigo! Aplique isso em seus dardos e lâminas e eles ficarão mais afiados do que nunca."
+Worn heros cape name,Capa de Herói Gasta
+Worn heros cape description,"Todos os heróis usam capa! Dê isso a um de seus Macacos Dardos e veja a transformação! Ligeiramente usada, apenas níveis baixos e sem muitas lágrimas."
+Blade trap name,Armadilha de Lâmina
+Blade trap description,Coloque na pista e veja os primeiros Bloons que tocarem nela serem retalhados pelas grandes lâminas giratórias!
+Gerrys fire hot sauce name,"Garrafa de Molho Picante ""Fogo do Gerry"""
+Gerrys fire hot sauce description,"2,8 milhões de unidades Bloonville. Quem provar esse molho especial vai cuspir fogo por um tempo!"
+Fertilizer name,Fertilizante
+Fertilizer description,Essa sua fazenda tem bananas? Quer mais bananas ainda? Jogue um pouco desse fertilizante mágico extra forte direto na fazenda e ganhe mais bananas!
+Pet rabbit name,Coelho de Estimação
+Pet rabbit description,Às vezes você só precisa de um coelhinho muito fofo! Ou vários!
+Rejuv potion name,Poção de Rejuvenescimento
+Rejuv potion description,Jogue essa deliciosa bebida em qualquer lugar e veja seus poderes de rejuvenescimento recuperando vidas e zerando recargas.
+Genie bottle name,Garrafa de Gênio
+Genie bottle description,"Invoca um Macaco Gênio dessa brilhante garrafa azul, mas cuidado, ele não dura para sempre! (Nenhum desejo incluso com a compra)."
+Paragon power totem name,Totem de Poder de Excelência
+Paragon power totem description,Impulsione os poderes da sua próxima unidade com excelência com esse artefato místico...
+EventEndingSoonText,"Esse evento terminar em breve, então a entrada foi desabilitada."
+EngineerMonkey Paragon,Mestre Construtor
+EngineerMonkey Paragon Description,Engenharia de macaco desenvolvida com perfeição. Cria três Mega Sentinelas que podem construir suas próprias Sentinelas.
+OptionsLogout,Sair
+ConfirmLogout,Confirmar saída
+ConfirmLogoutDesc,"Tem certeza que deseja sair da sua conta? Se sim, anote seus detalhes de conta e código de ligação antes de ir.\n\n{0}"
+VortexTagLine,Do céu vem
+VortexTagLine2,Mestre Mortal do Ar
+Vortex,Vórtice
+VortexInfoPanelDescription,"• Vórtice se move como um relâmpago e acelera outros Bloons com ele!\n• Quando cada caveira da barra de vida é alcançada, Vórtice se protege e envia uma onda de choque que atordoa torres próximas, antes de voltar para o início da pista.\n• Vórtice emite u"
+Scrapyard,Ferro-Velho
+BloonsAllBloonsCatEarName,Bloons Orelha de Gato
+BloonsAllBloonsCatEarShortName,Bloons Orelha de Gato
+BloonsAllBloonsCatEarDescription,"Bloons e gatos geralmente não se misturam, mas nesse caso fica perfeito."
+BloonsAllBloonsDisguiseGlassesName,Bloons Óculos de Disfarce
+BloonsAllBloonsDisguiseGlassesShortName,Bloons Óculos de Disfarce
+BloonsAllBloonsDisguiseGlassesDescription,Só um macaco seria enganado por esse disfarce. Espera um instante...
+CoopEmoteAnimationPatFlexName,Reação Pat Flexão
+CoopEmoteAnimationPatFlexShortName,Pat Flexão
+CoopEmoteAnimationPatFlexDescription,"Músculos e cérebros, que combinação! Pat forte!"
+CoopEmoteAnimationMindBlownName,Reação Chocado
+CoopEmoteAnimationMindBlownShortName,Chocado
+CoopEmoteAnimationMindBlownDescription,"Quando seu parceiro no cooperativo faz algo realmente incrível, só essa reação serve!"
+GameUIProfileAvatar59Name,Avatar Supermacaco
+GameUIProfileAvatar59ShortName,Avatar Supermacaco
+GameUIProfileAvatar59Description,Você pode ver o amor nos olhos dele. Agora você só precisa decidir se o Super está olhando pra você ou pro próprio reflexo.
+GameUIProfileAvatar60Name,Avatar Striker Jones
+GameUIProfileAvatar60ShortName,Avatar Striker Jones
+GameUIProfileAvatar60Description,Striker Jones se apresentando! Mostre como está preparado pra vencer com saudações do seu macaco atirador preferido.
+GameUIProfileBanner13Name,Faixa da Chegada
+GameUIProfileBanner13ShortName,Faixa de Perfil da Chegada
+GameUIProfileBanner13Description,Faixa vencedora por betapotata
+GameUIProfileBanner14Name,Faixa Sob as Águas
+GameUIProfileBanner14ShortName,Faixa de Perfil Sob as Águas
+GameUIProfileBanner14Description,Faixa vencedora por Cyliia
+GameUIMusicTrackMusicSunshineFiestaMixName,Jukebox: Serenata à Luz do Sol - Fiesta Remix
+GameUIMusicTrackMusicSunshineFiestaMixShortName,Sunshine - Fiesta
+GameUIMusicTrackMusicSunshineFiestaMixDescription,Aumente o volume e curta esse incrível remix de Serenata à Luz do Sol.
+CantSubmitEventEnded,"Não foi possível enviar sua pontuação, o evento terminou."
+CyberQuincySkinNameFull,Ciber Quincy
+ScientistGwendolinSkinNameFull,Gwendolin Cientista
+SentaiCaptainChurchillSkinNameFull,Churchill Sentai
+BikerBonesSkinNameFull,Ossos de Motoqueiro
+ObynOceanGuardianSkinNameFull,Guardião do Oceano
+BenJamminSkinNameFull,Benjammin DJ
+SmudgeCattSkinNameFull,Catt Suja
+FustyTheSnowmanSkinNameFull,"Fusty, o Boneco de Neve"
+WolfpackQuincySkinNameFull,Quincy da Matilha
+JoanOfArcAdoraSkinNameFull,Adora Joana d'Arc
+HarlegwenGwendolinSkinNameFull,Harlegwen
+OctoJonesStrikerJonesSkinNameFull,Octojones
+DreadPirateBrickellAdmiralBrickellSkinNameFull,"Brickell, Pirata Terrível"
+ObynMountainGuardianSkinNameFull,Guardião da Montanha
+SushiBentoBenjaminSkinNameFull,Sushi Bento
+ETnEtienneSkinNameFull,ETn
+VikingSaudaSaudaSkinNameFull,Sauda Viking
+GalaxiliEziliSkinNameFull,Galaxili
+PsimbalsPsiSkinNameFull,Psimbals
+Least Cash,Menos dinheiro:
+Least Tiers,Menos níveis:
+Least Cash Used,Menos dinheiro usado:
+Least Tiers Used,Menos níveis usados:
+All Tiers Used,Todos os níveis usados
+All Cash Used,Todo o dinheiro usado
+Tiers Used,Níveis usados
+Cash Used,Dinheiro usado
+No Score Set,Nenhuma pontuação definida
+Auto,Automático
+FriendScreenFriends,Amigos
+FriendScreenRequests,Solicitações
+FriendScreenYourFriendCode,Seu código de amizade:
+FriendScreenOnline,Online
+FriendScreenOffline,Offline
+FriendScreenAccept,Aceitar
+FriendScreenDecline,Recusar
+FriendScreenBlock,Bloquear
+FriendScreenFriendText,Amigos serão exibidos aqui. Compartilhe seu código de amigo com amigos e familiares
+RequestDisabledText,Solicitações desabilitadas
+FriendScreenEnterCode,Inserir código de amizade:
+FriendScreenAdd,Adicionar
+FriendScreenSureUnfriend,Tem certeza que deseja remover este usuário?
+FriendScreenSureBlock,Tem certeza que deseja bloquear este usuário?
+SpecialConditions,Condições especiais
+FriendScreenRequestText,Solicitações serão exibidas aqui. Compartilhe seu código de amigo com amigos e familiares
+FriendScreenCodeHidden,Código de amigo oculto
+RequestEnabledText,Solicitações habilitadas
+Least Cash No Colon,Menos dinheiro
+Least Tiers No Colon,Menos níveis
+SpecialConditionsColon,Condições especiais:
+GoalSetForCash,O objetivo foi definido como {0} de dinheiro
+GoalSetForTiers,O objetivo foi definido como {0} níveis
+ChallengeCashUsed,Você usou {0} / {1} de dinheiro
+ChallengeTiersUsed,Você usou {0} / {1} níveis
+ShootyTurret,Torreta Atiradora
+CreepyIdol,Estátua Assustadora
+RareQuincyActionFigure,Boneco Raro do Quincy
+GenieBottle,Garrafa de Gênio
+ParagonPowerTotem,Totem de Poder de Excelência
+FriendScreenErrorRequestFailed,Falha na solicitação de amizade
+FriendScreenErrorInvalidCode,Código de amigo inválido
+FriendScreenErrorBlocked,O jogador que você está tentando adicionar bloqueou pedidos de amizade. Desculpa!
+FriendScreenErrorAlreadySent,Você já enviou um pedido de amizade para esse jogador.
+FriendScreenErrorTooManyFriends,Você chegou ao seu limite máximo de amigos. Você pode liberar espaço removendo um amigo existente ou cancelando um pedido de amizade que você tiver feito.
+MapEditor,Editor de mapas
+Jar of Pickles description level 11,Experimente esses picles em uma de suas Monkey Towers e ela atingirá mais forte, mas atire mais devagar por um tempo. Agora com dano aumentado a Bloons fortificados!
+Creepy idol description level 12,Coloque este ídolo assustador perto da pista para assustar alguns Bloons (até mesmo MOABs!) de onde eles vieram.
+Shooty turret description level 13,Uma torre de tiro de dardo permanente e artesanal. atualizado! Dispara mais rápido e causa mais dano.
+Stack of old nails description level 13,Sim, é apenas uma pilha muito grande de pregos velhos, mas coloque-os em qualquer lugar na pista e eles facilmente estourarão os balões perdidos.
+See invisibility potion description level 14,Seja qual for o Macaco que você presentear com este elixir extremamente eficaz, poderá ver Camo Bloons com facilidade! Os efeitos vão passar. Agora dá maior alcance e dura ainda mais!
+Sharpening stone description level 15,Afie esses dardos, amigo! Aplique isso aos seus dardos e lâminas e eles ficarão mais afiados e causarão mais danos do que nunca.
+Blade trap description level 15,Coloque isso na pista e veja os primeiros Bloons a tocá-lo serem triturados pelas grandes lâminas giratórias! Novo modelo mais poderoso!
+Stack of old nails description level 16,Sim, é apenas uma MINA DE UNHAS GIGANTE, mas coloque-a em qualquer lugar na pista e ela irá facilmente estourar aqueles Bloons perdidos.
+Jar of Pickles description level 16,Experimente esses picles em uma de suas Monkey Towers e ela atingirá mais forte, mas atire mais devagar por um tempo. Agora com AINDA MAIS dano aumentado aos Bloons fortificados!
+Gerrys fire hot sauce description level 16,2,8 milhões de unidades Bloonville. Quem provar esse molho especial vai vomitar fogo por um tempo! Agora com queimação extra.
+Tube of amaz-o-glue description level 17,Verdadeiramente incrível! Aplique um tubo desta maravilha moderna em qualquer lugar da pista e veja o próximo grupo de Bloons e até MOABs desacelerarem.
+Genie bottle description level 18,Convoque um Macaco Gênio desta garrafa azul brilhante, mas cuidado, não durará para sempre! (sem desejos incluídos na compra). Ataque extra e mais danos aos MOABs agora incluídos.
+Creepy idol description level 18,Coloque este ídolo assustador perto da pista para assustar alguns Bloons de onde eles vieram. Atualização do Mystical Shroud desbloqueada!
+See invisibility potion description level 19,Seja qual for o Macaco que você presentear com este elixir extremamente eficaz, poderá ver Camo Bloons com facilidade e causar mais danos a eles! Os efeitos vão passar.
+FriendScreenSureUnBlock,Tem certeza de que deseja desbloquear este usuário?
+None,Nenhum

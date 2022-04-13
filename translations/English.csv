@@ -99,7 +99,7 @@ Quincy Level 13 Description,Small range increase.
 Quincy Level 14 Description,Arrows do quad damage to MOAB-Class Bloons.
 Quincy Level 15 Description,Rapid Shot becomes x4 attack speed and cooldown is reduced.
 Quincy Level 16 Description,More increased attack speed.
-Quincy Level 17 Description,Arrows last 25% longer.
+Quincy Level 17 Description,Arrows last 25% longer. Fires exploding arrows every 2nd shot.
 Quincy Level 18 Description,Quincy attacks faster and Storm of Arrows has reduced cooldown and 50% more arrows.
 Quincy Level 19 Description,Each arrow gets even more popping power.
 Quincy Level 20 Description,Quincy attacks even faster. Storm of Arrows deals more damage per arrow and fires even more arrows.
@@ -161,7 +161,7 @@ Gwendolin Level 12 Description,Increased attack speed.
 Gwendolin Level 13 Description,"Greatly increased popping power, plus projectiles move faster and last longer."
 Gwendolin Level 14 Description,Cocktail of Fire does extra damage and sets MOAB class Bloons alight.
 Gwendolin Level 15 Description,Increased attack speed.
-Gwendolin Level 16 Description,Firestorm has increased duration. Purple Bloons are no longer immune to Gwendolin's attacks.
+Gwendolin Level 16 Description,Firestorm has increased duration and does more damage. Purple Bloons are no longer immune to Gwendolin's attacks.
 Gwendolin Level 17 Description,"Heat it up empowers affected Monkeys to pop 1 extra layer, and do +2 damage to Lead Bloons."
 Gwendolin Level 18 Description,Increased attack speed.
 Gwendolin Level 19 Description,Shoots 3 blasts of fire per shot.
@@ -836,7 +836,7 @@ Rapid Fire Description,Shoots faster than normal.
 Exploding Pineapple Description,Drops pineapples to the ground that explode violently after a few seconds. Ace's explosive attacks are improved.
 Sharper Darts Description,Darts can pop 8 Bloons each.
 Lots More Darts Description,Shoots 12 darts at a time.
-Spy Plane Description,Allows Monkey Ace to hit Camo Bloons.
+Spy Plane Description,Allows Monkey Ace to hit Camo Bloons and do more damage to them.
 Centered Path Description,New central flight path for maximum map coverage.
 Fighter Plane Description,Flies fast and launches anti-MOAB missiles.
 Bomber Ace Description,Drops a line of bombs when crossing the Bloon track.
@@ -873,7 +873,7 @@ Burny Stuff Description,Damaged Bloons are set ablaze momentarily with each hit.
 Shockwave Description,"Blast shockwave stuns Bloons at impact, pops bloons in a wider area, and increases Burny Stuff damage."
 Heavy Shells Description,"Heavy shells do extra damage to Ceramic, Lead, all Fortified, and all stunned Bloons. Can also pop black Bloons."
 Signal Flare Description,Camo Bloons popped by flares lose their camouflage permanently.
-The Big One Description,"Devastating explosions pop 5 layers of Bloon, plus increases Burny Stuff damage further."
+The Big One Description,"Devastating explosions pop 7 layers of Bloon, plus increases Burny Stuff damage further."
 Artillery Battery Description,Bombardment Ability: Unleashes a rapid fire attack in a slightly wider area. Main attack upgrades to 3 barrels for incredibly fast attacks.
 Shattering Shells Description,Shattering shells strip all special Bloon properties off all but the biggest bloons.
 The Biggest One Description,"Blasts deeply through Bloons and layers over a huge area, plus powerful Burny Stuff damage."
@@ -2154,7 +2154,7 @@ Knowledge unlock tip,You will start earning Monkey Knowledge points from level 3
 Daily challenges unlock at,Daily Challenges and Events unlock at Level {0}
 ,
 ,
-FriendLiNKLoginRequiredBody,Account required to see Facebook friend scores. 
+FriendLiNKLoginRequiredBody,Account required to see friend scores. 
 FriendLiNKLoginRequiredTitle,Login?
 FriendLiNKLoginFailed,Failed to login to Facebook. Please check internet connection and login info.
 Do It,Do It
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] to Darkshift within range
 DarkChampionDarkshift,[I] to Darkshift to any valid location
 SmallTowersMode,Small Monkey Towers
 BigTowersMode,Big Monkey Towers
-UpdatePopupTitle,Update 30!
-UpdatePopupDescription,"New Content Update!\n• Battle your way through the new Advanced Map: Sunken Columns\n• Bring the noise with the new Psi skin: Psimbals!\n• Co-op splits update: 2 brand-new splits added and all selectable when setting up a co-op game\n• 16 new Trophy Store items including 5 new limited time ones, get them quick!\n• 4 new Monkey Knowledges to unlock\n• New Achievements, quality of life and balance changes, check the update notes for full details"
+UpdatePopupTitle,Update 31!
+UpdatePopupDescription,"New Content Update!\n• New Hero! Geraldo the Mystic Shopkeeper has arrived with his amazing emporium of Bloon-popping items!\n • New Boss! Vortex, Deadly Master of Air has been unleashed!\n• Have fun trashing the Bloons on the new Beginner map: Scrapyard\n• 9 new Trophy Store items, including a new remix\n• Challenge browser: Least Cash and Least Tiers special victory conditions added for your puzzle challenge enjoyment\n• Heroes menu is new and improved plus more quality of life and balance changes, check the update notes for full details!"
 ResetDailyChest,Reset Daily Chest
 JukeboxName,Jukebox
 EnableFunction,Enable
@@ -4297,7 +4297,7 @@ GameUIPowerSkinMonkeyBoostSugarRushShortName,Sugar Rush Boost
 GameUIPowerSkinMonkeyBoostSugarRushDescription,Humans: we all know we perform better under the influence of copious amounts of sugary awesomeness. Monkeys: same.
 GameUIProfileBanner10Name,Doodle Brilliance Profile Banner
 GameUIProfileBanner10ShortName,Doodle Brilliance Banner
-GameUIProfileBanner10Description,Banner winner by bonbonni
+GameUIProfileBanner10Description,Banner winner by chompypaw
 GameUIProfileBanner11Name,Arcanum Necronicom Profile Banner
 GameUIProfileBanner11ShortName,Arcanum Necronicom Banner
 GameUIProfileBanner11Description,Banner winner by _Concilliabule_
@@ -4327,3 +4327,180 @@ FilterMisc,Misc
 Blast Chain Ability,Blast Chain
 Blast Chain Ability Description,Sea mines fire off quicker for a short time
 TowerSpecial,Monkey Special
+Geraldo,Geraldo
+Geraldo Short Description,Mystic Shopkeeper
+Geraldo Description,Geraldo the shopkeeper sells a selection of useful items and zaps Bloons with his lightning attack.
+Geraldo Level 1 Description,"Available Items! Shooty Turret, Stack of Old Nails, Creepy Idol, Jar of Pickles. Geraldo also has a short range magical attack."
+Geraldo Level 2 Description,New Item! Rare Quincy Action Figure - increases in value the longer you possess it!
+Geraldo Level 3 Description,New Item! See Invisibility Potion - grants short term camo detection to a Monkey Tower or Hero. Geraldo's attack range increases.
+Geraldo Level 4 Description,New Item! Tube of Amaz-o-Glue - can be placed on the track to slow Bloons down.
+Geraldo Level 5 Description,New Item! Sharpening Stone - boosts the pierce of a Monkey Tower or Hero when doing sharp-type damage.
+Geraldo Level 6 Description,New Item! Worn Hero's Cape - converts a Tier 2 or lower Dart Monkey into a Super Monkey! These converted Super Monkeys can only be upgraded to Tier 3.
+Geraldo Level 7 Description,"New Item! Blade Trap - when a visible Bloon touches the trap, a Blade Maelstrom goes off. Geraldo's main attack increases in damage and pierce."
+Geraldo Level 8 Description,"New Item! Bottle of 'Gerry's Fire' - 2.8 million Bloonville units of pure hot sauce fire! Gives a Monkey, Hero, or minion a fiery attack for 10 rounds."
+Geraldo Level 9 Description,New Item! Fertilizer - targeted Banana Farms that produce visible bananas increase production and get a cash bonus over several rounds. Geraldo's main attack blast radius increases.
+Geraldo Level 10 Description,New Item! Pet Rabbit - aww what a cute widdle bunny wabbit!
+Geraldo Level 11 Description,"New Item! Rejuv Potion - resets all Monkey Tower and Hero cooldowns, restores 50 lives. Geraldo's main attack pierce increases, and Jar of Pickles grants bonus damage vs. Fortified Bloons."
+Geraldo Level 12 Description,New Item! Genie Bottle - summons a plasma-powered Genie Monkey that lasts for 3 rounds. Creepy Idol can now apply an occasional short stun to passing visible MOAB-class Bloons.
+Geraldo Level 13 Description,"Shooty Turret fires faster with increased damage, and Stack of Old Nails do more damage."
+Geraldo Level 14 Description,See Invisibility Potion grants additional range and lasts longer.
+Geraldo Level 15 Description,"Sharpening Stone now increases damage in addition to pierce, and Blade Trap creates a more powerful effect when triggered."
+Geraldo Level 16 Description,"Stack of Old Nails becomes a Nail Mine, Jar of Pickles grants additional bonus damage vs. Fortified Bloons, and Gerry's Fire gains bonus burny damage."
+Geraldo Level 17 Description,Geraldo's main attack does more damage and Amaz-o-Glue now has a small affect on MOAB-class Bloons.
+Geraldo Level 18 Description,Genie gains a second close-target attack and does bonus damage to MOAB-class Bloons and Creepy Idol applies a Mystical Shroud to MOAB-class Bloons that causes big damage nearby when they are popped.
+Geraldo Level 19 Description,"Geraldo's main attack is faster, has a longer range, and does more damage and See Invisibility Potion gains bonus damage to Camo Bloons."
+Geraldo Level 20 Description,New Item! Paragon Power Totem - adds paragon power to the next paragon created. Geraldo's main attack does more damage.
+Geraldo Shop shortname,Shop
+Geraldo Shop name,Geraldo's Shop
+Shooty turret name,Shooty Turret
+Shooty turret description,"A permanent, hand-crafted dart shooting turret. "
+Stack of old nails name,Stack of Old Nails
+Stack of old nails description,Yes it's just a stack of old nails but put them anywhere on the track and they'll handily pop those stray Bloons.
+Creepy idol name,Creepy Idol
+Creepy idol description,Place this spooky looking idol near the track to scare some Bloons back where they came from.
+Jar of Pickles name,Jar of Pickles
+Jar of Pickles description,"Try these pickles on one of your Monkey Towers and it will hit harder, but shoot slower for a while."
+Rare Quincy action figure name,Rare Quincy Action Figure
+Rare Quincy action figure description,"Limited edition, mint condition original Quincy, Son of Quincy action figure! This is only going to go up in value so buy it now!"
+See invisibility potion name,See Invisibility Potion
+See invisibility potion description,Whatever Monkey you gift with this extremely eficacious elixir will be able to see Camo Bloons with ease! Effects will wear off.
+Tube of amaz-o-glue name,Tube of Amaz-o-Glue
+Tube of amaz-o-glue description,Truly amazing! Apply a tube of this modern marvel anywhere on the track and watch the next bunch of Bloons slow right down.
+Sharpening stone name,Sharpening Stone
+Sharpening stone description,"Sharpen those darts, friend! Apply this to your darts and blades and they'll be sharper than ever before."
+Worn heros cape name,Worn Hero's Cape
+Worn heros cape description,"All heroes wear capes! Give this to one of your Dart Monkeys and watch the transformation! Slightly used condition, only minor tiers, er, I mean tears."
+Blade trap name,Blade Trap
+Blade trap description,Place this on the track and watch the first Bloons to touch it get shredded by the great whirling blades!
+Gerrys fire hot sauce name,Bottle of 'Gerry's Fire' Hot Sauce
+Gerrys fire hot sauce description,2.8 million Bloonville units. Whoever tastes this special sauce will be spewing fire for a while!
+Fertilizer name,Fertilizer
+Fertilizer description,Does that farm of yours have bananas? Want even more bananas? Sprinkle this extra-strength magical fertilizer directly on that farm and get more banana now!
+Pet rabbit name,Pet Rabbit
+Pet rabbit description,Sometimes all you need is a super cute wee bunny pet! Or several!
+Rejuv potion name,Rejuv Potion
+Rejuv potion description,Drop this delicious drink anywhere and watch its rejuvenating powers restore lost lives and reset ability cooldowns.
+Genie bottle name,Genie Bottle
+Genie bottle description,"Summon a Genie Monkey from this brilliant blue bottle but beware, it won't last forever! (no wishes included with purchase)."
+Paragon power totem name,Paragon Power Totem
+Paragon power totem description,Boost your next Paragon's powers with this mystical artifact...
+EventEndingSoonText,"This event is ending soon, so entry is now disabled."
+EngineerMonkey Paragon,Master Builder
+EngineerMonkey Paragon Description,Monkey engineering developed to perfection. Creates three Mega Sentries that can build their own sentries.
+OptionsLogout,Logout
+ConfirmLogout,Confirm Logout
+ConfirmLogoutDesc,"Are you sure you want to sign out of your account? If so, please take note of your account details and linking code before you do.\n\n{0}"
+VortexTagLine,From the skies comes
+VortexTagLine2,Deadly Master of Air
+Vortex,Vortex
+VortexInfoPanelDescription,"• Vortex moves like lightning and speeds other Bloons along!\n• When each health bar skull is reached, Vortex shields itself and sends out a shockwave that stuns nearby Towers before retreating up the track.\n• Vortex emits a regular storm pulse, destroying projectiles, including any non-Powers on the track."
+Scrapyard,Scrapyard
+BloonsAllBloonsCatEarName,Cat Ear Bloons
+BloonsAllBloonsCatEarShortName,Cat Ear Bloons
+BloonsAllBloonsCatEarDescription,Bloons and cats don't usually go together well but in this case the fit is just purrfect.
+BloonsAllBloonsDisguiseGlassesName,Disguise Glasses Bloons
+BloonsAllBloonsDisguiseGlassesShortName,Disguise Glasses Bloons
+BloonsAllBloonsDisguiseGlassesDescription,Only a monkey would be fooled by this disguise. Wait a minute...
+CoopEmoteAnimationPatFlexName,Pat Flex Emote
+CoopEmoteAnimationPatFlexShortName,Pat Flex
+CoopEmoteAnimationPatFlexDescription,"Brawn and brains, what a combo! Pat strong!"
+CoopEmoteAnimationMindBlownName,Mind Blown Emote
+CoopEmoteAnimationMindBlownShortName,Mind Blown
+CoopEmoteAnimationMindBlownDescription,When your co-op partner does something so incredibly brilliant only this emote will do!
+GameUIProfileAvatar59Name,Super Monkey Avatar
+GameUIProfileAvatar59ShortName,Super Monkey Avatar
+GameUIProfileAvatar59Description,You can see the love in his eyes. Now you just have to decide if Supes is looking at you or his reflection.
+GameUIProfileAvatar60Name,Striker Jones Avatar
+GameUIProfileAvatar60ShortName,Striker Jones Avatar
+GameUIProfileAvatar60Description,Striker Jones reporting for duty! Show your readiness to win with salutations from your favorite shoulder launching Monkey.
+GameUIProfileBanner13Name,Arrival Banner
+GameUIProfileBanner13ShortName,Arrival Profile Banner
+GameUIProfileBanner13Description,Banner winner by betapotata
+GameUIProfileBanner14Name,Beneath the Waters Banner
+GameUIProfileBanner14ShortName,Beneath the Waters Profile Banner
+GameUIProfileBanner14Description,Banner winner by Cyliia
+GameUIMusicTrackMusicSunshineFiestaMixName,Jukebox: Sunshine Serenade - Fiesta Remix
+GameUIMusicTrackMusicSunshineFiestaMixShortName,Sunshine - Fiesta
+GameUIMusicTrackMusicSunshineFiestaMixDescription,Pump up the volume and enjoy this awesome remix of Sunshine Serenade.
+CantSubmitEventEnded,"Can't submit your score, the event has already ended."
+CyberQuincySkinNameFull,Cyber Quincy
+ScientistGwendolinSkinNameFull,Scientist Gwendolin
+SentaiCaptainChurchillSkinNameFull,Sentai Churchill
+BikerBonesSkinNameFull,Biker Bones
+ObynOceanGuardianSkinNameFull,Ocean Guardian
+BenJamminSkinNameFull,Benjammin DJ
+SmudgeCattSkinNameFull,Smudge Catt
+FustyTheSnowmanSkinNameFull,Fusty the Snowman
+WolfpackQuincySkinNameFull,Wolfpack Quincy
+JoanOfArcAdoraSkinNameFull,Joan of Arc Adora
+HarlegwenGwendolinSkinNameFull,Harlegwen
+OctoJonesStrikerJonesSkinNameFull,Octojones
+DreadPirateBrickellAdmiralBrickellSkinNameFull,Dread Pirate Brickell
+ObynMountainGuardianSkinNameFull,Mountain Guardian
+SushiBentoBenjaminSkinNameFull,Sushi Bento
+ETnEtienneSkinNameFull,ETn
+VikingSaudaSaudaSkinNameFull,Viking Sauda
+GalaxiliEziliSkinNameFull,Galaxili
+PsimbalsPsiSkinNameFull,Psimbals
+Least Cash,Least Cash:
+Least Tiers,Least Tiers:
+Least Cash Used,Least Cash Used:
+Least Tiers Used,Least Tiers Used:
+All Tiers Used,All Tiers Used
+All Cash Used,All Cash Used
+Tiers Used,Tiers Used
+Cash Used,Cash Used
+No Score Set,No Score Set
+Auto,Auto
+FriendScreenFriends,Friends
+FriendScreenRequests,Requests
+FriendScreenYourFriendCode,Your Friend Code:
+FriendScreenOnline,Online
+FriendScreenOffline,Offline
+FriendScreenAccept,Accept
+FriendScreenDecline,Decline
+FriendScreenBlock,Block
+FriendScreenFriendText,Friends will display here. Share your friend code with friends and family
+RequestDisabledText,Requests Disabled
+FriendScreenEnterCode,Enter Friend Code:
+FriendScreenAdd,Add
+FriendScreenSureUnfriend,Are you sure you want to unfriend this user?
+FriendScreenSureBlock,Are you sure you want to block this user?
+SpecialConditions,Special Conditions
+FriendScreenRequestText,Requests will display here. Share your friend code with friends and family
+FriendScreenCodeHidden,Friend code hidden
+RequestEnabledText,Requests Enabled
+Least Cash No Colon,Least Cash
+Least Tiers No Colon,Least Tiers
+SpecialConditionsColon,Special Conditions:
+GoalSetForCash,Goal has been set at {0} cash
+GoalSetForTiers,Goal has been set at {0} tiers
+ChallengeCashUsed,You used {0} / {1} cash
+ChallengeTiersUsed,You used {0} / {1} tiers
+ShootyTurret,Shooty Turret
+CreepyIdol,Creepy Idol
+RareQuincyActionFigure,Rare Quincy Action Figure
+GenieBottle,Genie Bottle
+ParagonPowerTotem,Paragon Power Totem
+FriendScreenErrorRequestFailed,Friend Request Failed
+FriendScreenErrorInvalidCode,Invalid Friend Code
+FriendScreenErrorBlocked,"The player you are trying to add has blocked friend requests, sorry!"
+FriendScreenErrorAlreadySent,You have already sent a friend request to this player
+FriendScreenErrorTooManyFriends,"You have reached your maximum friend limit. You can make room by removing an existing friend, or cancelling a friend request you've made"
+MapEditor,Map Editor
+Jar of Pickles description level 11,"Try these pickles on one of your Monkey Towers and it will hit harder, but shoot slower for a while. Now with increased damage to fortified Bloons!"
+Creepy idol description level 12,Place this spooky looking idol near the track to scare some Bloons (even MOABs!) back where they came from.
+Shooty turret description level 13,"A permanent, hand-crafted dart shooting turret. Upgraded! Fires faster and does more damage."
+Stack of old nails description level 13,Yes it's just a very large stack of old nails but put them anywhere on the track and they'll handily pop those stray Bloons.
+See invisibility potion description level 14,Whatever Monkey you gift with this extremely eficacious elixir will be able to see Camo Bloons with ease! Effects will wear off. Now gives increased range and lasts even longer!
+Sharpening stone description level 15,"Sharpen those darts, friend! Apply this to your darts and blades and they'll be sharper and do more damage than ever before."
+Blade trap description level 15,Place this on the track and watch the first Bloons to touch it get shredded by the great whirling blades! Newer more powerful model!
+Stack of old nails description level 16,Yes it's just a GIANT NAIL MINE but put it anywhere on the track and it'll handily pop those stray Bloons.
+Jar of Pickles description level 16,"Try these pickles on one of your Monkey Towers and it will hit harder, but shoot slower for a while. Now with EVEN MORE increased damage to fortified Bloons!"
+Gerrys fire hot sauce description level 16,2.8 million Bloonville units. Whoever tastes this special sauce will be spewing fire for a while! Now with extra burny-ness.
+Tube of amaz-o-glue description level 17,Truly amazing! Apply a tube of this modern marvel anywhere on the track and watch the next bunch of Bloons and even MOABs slow right down.
+Genie bottle description level 18,"Summon a Genie Monkey from this brilliant blue bottle but beware, it won't last forever! (no wishes included with purchase). Extra attack and more damage to MOABs now included."
+Creepy idol description level 18,Place this spooky looking idol near the track to scare some Bloons back where they came from. Mystical Shroud upgrade unlocked!
+See invisibility potion description level 19,Whatever Monkey you gift with this extremely eficacious elixir will be able to see Camo Bloons with ease and do more damage to them! Effects will wear off.
+FriendScreenSureUnBlock,Are you sure you want to unblock this user?
+None,None

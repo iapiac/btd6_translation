@@ -1,4 +1,4 @@
-﻿//Input. Needs to be first e.g [I] replaced by click or tap,
+//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,クリック
 Tap,タップ
 ,
@@ -99,7 +99,7 @@ Quincy Level 13 Description,少し距離が増える。
 Quincy Level 14 Description,弓矢がMOAB級ブルーンに4倍ダメージを与える。
 Quincy Level 15 Description,急速ショットの攻撃速度が4倍になり、クールダウン期間が短縮する。
 Quincy Level 16 Description,攻撃速度がさらに増加。
-Quincy Level 17 Description,弓矢の持続時間が25％延長。
+Quincy Level 17 Description,弓矢の持続時間が25％延長。2発ごとに爆破する矢を撃つ。
 Quincy Level 18 Description,クインシーがより素早く攻撃し、矢の嵐のクールダウン時間が短縮され、矢の数が50％増える。
 Quincy Level 19 Description,弓ごとの破裂パワーがさらに強くなる。
 Quincy Level 20 Description,クインシー攻撃はさらに速くなる。 矢の嵐の、弓ごとの破壊力と弓の数が増加し、さらに矢を撃つ。
@@ -161,7 +161,7 @@ Gwendolin Level 12 Description,攻撃速度が増加。
 Gwendolin Level 13 Description,破裂パワーが増加するほか、投射物が高速で移動し長もちするようになる。
 Gwendolin Level 14 Description,炎のカクテルが追加ダメージを与え、MOAB級のブルーンに着火する。
 Gwendolin Level 15 Description,攻撃速度が増加。
-Gwendolin Level 16 Description,火の嵐の期間が増加。紫のブルーンのグウェンドリンの攻撃に対する体制がなくなる。
+Gwendolin Level 16 Description,火の嵐の期間が増加し、与えるダメージが増える。紫のブルーンのグウェンドリンの攻撃に対する耐性がなくなる。
 Gwendolin Level 17 Description,ヒートアップの影響を受けたモンキーは、追加で一層割れるようになり、また鉛ブルーンに対し+2のダメージを与えられるようになる。
 Gwendolin Level 18 Description,攻撃速度が増加。
 Gwendolin Level 19 Description,発射ごとに、3個の火炎弾を撃つ。
@@ -836,7 +836,7 @@ Rapid Fire Description,通常より速く発射する。
 Exploding Pineapple Description,地面に落とすと数秒後に激しく爆発するパイナップルを投下。エースの爆発攻撃が改善された。
 Sharper Darts Description,手裏剣はそれぞれ8個のブルーンを割ることができる。
 Lots More Darts Description,一度に12本のダーツを発射。
-Spy Plane Description,モンキーエースがカモフラージュブルーンを撃てるようになる。
+Spy Plane Description,モンキーエースがカモフラージュブルーンを撃ち、もっとたくさんのダメージを与えられるようになる。
 Centered Path Description,新しいセントラル飛行経路の最大マップ範囲
 Fighter Plane Description,速く飛行し、MOAB対抗ミサイルを発射する。
 Bomber Ace Description,ブルーンのトラック上を通過する際に一連の爆弾を投下する。
@@ -873,7 +873,7 @@ Burny Stuff Description,ダメージを受けたブルーンは、ヒットご�
 Shockwave Description,爆発衝撃波が命中時にブルーンをマヒさせ、より広い地域のブルーンを割り、バーニースタッフのダメージを増やす。
 Heavy Shells Description,頑丈な炸裂弾が陶器、鉛、そして全ての強化ブルーンに対し追加ダメージを与える。黒ブルーンを割ることもできる。
 Signal Flare Description,閃光で割られたカモフラージュブルーンが、永久にカモフラージュを失う。
-The Big One Description,破滅的な爆発がブルーンを5層分割り、バーニースタッフのダメージをさらに増やす。
+The Big One Description,破滅的な爆発がブルーンを7層分割り、バーニースタッフのダメージをさらに増やす。
 Artillery Battery Description,砲撃能力：わずかに広いエリアで急速発射攻撃を発動する。主攻撃がとても高速の3バレルにアップグレードされる。
 Shattering Shells Description,散らばる殻は、最大のブルーン以外のすべての特別なブルーンの特性を取り除きます。
 The Biggest One Description,巨大な地域でブルーンを深い層まで爆破するほか、バーニースタッフの強力なダメージをもたらす。
@@ -2154,7 +2154,7 @@ Knowledge unlock tip,レベル30からモンキー知識を獲得し始められ
 Daily challenges unlock at,日替わりチャレンジとイベントがレベル{0}でロック解除
 ,
 ,
-FriendLiNKLoginRequiredBody,Facebookの友達のスコアを見るにはアカウントが必要です。
+FriendLiNKLoginRequiredBody,友達のスコアを見るには、アカウントが必要です。
 FriendLiNKLoginRequiredTitle,ログイン？
 FriendLiNKLoginFailed,Facebookにログインできませんでした。インターネットとログイン情報をご確認ください。
 Do It,試行
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,[I]で範囲内にダークシフト
 DarkChampionDarkshift,[I]で任意の有効な場所にダークシフト
 SmallTowersMode,スモールモンキータワー
 BigTowersMode,ビッグモンキータワー
-UpdatePopupTitle,アップデート30！
-UpdatePopupDescription,新しいコンテンツの更新！\n•新しい上級マップを戦い抜く：沈下した柱\n•新しいサイのスキンで快進撃する：シンバル！\n•協力プレイ分裂の更新：2つの新しい分裂が追加され、協力プレイゲームの設定時にすべて選択可能\n•4つの新しい期間限定アイテムを含む16の新しいトロフィーストアアイテムが登場。すぐに入手しよう！\n•アンロックできる4つの新しいモンキー知識\n•新しい実績、生活の質とバランスの変更、詳細についてはアップデートノートを確認してください
+UpdatePopupTitle,アップデート31！
+UpdatePopupDescription,新しいコンテンツの更新！\n•新しいヒーロー、神秘の小売商人ジェラルドが、Bloon割りアイテム百貨店と一緒に登場です！\n•新しいボス！ヴォルテックス、空気の死なる使い手が出現！\n•新しい初心者マップ、ジャンクヤードで、楽しくブルーンをごみ溜めに送り込もう\n•新しいリミックスを含む、9種の新しいトロフィーストアアイテムが登場\n•チャレンジブラウザー：パズルチャレンジを楽しめるように、最小限キャッシュと最小限ティアでの特別勝利条件を追加\n•ヒーローメニューが新しくなり改善されたほか、より充実のQOLやバランス変更を行ったので、詳細についてはアップデートノートを確認してください！
 ResetDailyChest,日替わり宝箱をリセット
 JukeboxName,ジュークボックス
 EnableFunction,有効化
@@ -3063,7 +3063,7 @@ Drone Swarm Ability Description,エティエンヌが追加で4機の一時的�
 UCAV Ability,UCAV
 UCAV Ability Description,短期間の間、破壊的戦闘ドローンになる高度監視ドローン。
 Mesa,メサ
-DreadPirateBrickellAdmiralBrickellSkinName,ドレッド海賊ブリッケル
+DreadPirateBrickellAdmiralBrickellSkinName,ドレッド海賊ブリッケルのスキン
 DreadPirateBrickellAdmiralBrickellSkinDescription,七つの海の女王がまた航海へ！
 No Insta Reward,ラウンド100の報酬なし
 GameUIProfileAvatar19Name,カスタムアバター- 休息の表情のアドラ
@@ -3645,7 +3645,7 @@ GameUIPowerSkinLavaLakeName,カスタムパワー - ポータブル溶岩湖
 GameUIPowerSkinLavaLakeShortName,ポータブル溶岩湖
 GameUIPowerSkinLavaLakeDescription,ここは熱くなってきた！心配事はこの燃える溶岩のプールで沸騰させちゃえ！
 Resort,リゾート
-ETnEtienneSkinName,ETn
+ETnEtienneSkinName,Etnのスキン
 ETnEtienneSkinDescription,リーダーのところに連れて行って。
 VeteranXP,ベテランXP
 GameUIMusicTrackMusicSailsAgain,再航海
@@ -4119,7 +4119,8 @@ Any,どれでも
 ScoreNotVerifiable,スコアを確認できなかったため、スコアは送信されませんでした。
 NoBossDataYet,ボスを倒してミニボスのリーダーボードに参加しましょう！
 LeaderboardMessageMaxPlayers,トップ100プレーヤーを表示
-ConfirmQuitCoopMessage,"終了すると、このゲームに再び参加することはできません。本当に終了しますか？"
+ConfirmQuitCoopMessage,"終了すると、このゲームに再び参加することはできません。本当に終了しますか？
+"
 YouWereRemoved,協力ポジションは最後にプレイしたゲームで閉じられ、再び参加することができません。
 iCloudLongMessage,iCloudが有効で利用可能な場合、保存はバックアップと他のデバイスへのアクセスのためにiCloudアカウントに自動的に保存されます。
 CreateNew,新規作成
@@ -4139,13 +4140,13 @@ GamecenterLoginPrompt,アクセスするには、GameCenterにサインインし
 GamecenterRestrictedTitle,マルチプレイヤーアクセスが制限されています
 GamecenterLoginTitle,GameCenterにサインイン
 QuietStreet,静かなストリート
-GalaxiliEziliSkinName,ギャラクシリ
+GalaxiliEziliSkinName,ギャラキシリのスキン
 GalaxiliEziliSkinDescription,私たちの存在すべて、私たちが見るすべては - スペースダストでできています
 MonkeyBuccaneer Paragon,海の提督
 MonkeyBuccaneer Paragon Description,水に浮かぶ史上最高のもの。
 HeroesPsiPetBisonName,サイバイソンペット
 HeroesPsiPetBisonShortName,サイバイソンペット
-HeroesPsiPetBisonDescription,偶蹄目有蹄類の典型的な標本で、サイはたまたま超愛らしい。 元のサイのみ;）
+HeroesPsiPetBisonDescription,偶蹄目有蹄類の典型的な標本で、サイはたまたま超愛らしい。 元のサイのみ,）
 TowerPropMonkeyVillageAustralianFlagName,モンキービレッジのオーストラリア国旗
 TowerPropMonkeyVillageAustralianFlagShortName,ビレッジのオーストラリア国旗
 TowerPropMonkeyVillageAustralianFlagDescription,オージーオージーオージー、オイオイオイ！このモンキービレッジの旗は、すべてのアップグレードで表示されます
@@ -4255,7 +4256,7 @@ Achievement 142 Description,"続行またはチェックポイントで1,000モ�
 PetSounds,ペットのサウンド
 UserID,ユーザーID
 SunkenColumns,沈下した柱
-PsimbalsPsiSkinName,シンバル
+PsimbalsPsiSkinName,シンバルのスキン
 PsimbalsPsiSkinDescription,ショーの準備はできていますか?!
 HeroesStrikerJonesPetGermanShepherdName,ストライカー・ジョーンズのペットのジャーマンシェパード
 HeroesStrikerJonesPetGermanShepherdShortName,ストライカーのペットの仔犬
@@ -4299,7 +4300,7 @@ GameUIPowerSkinMonkeyBoostSugarRushDescription,"人間：私たちは皆、大�
 モンキー：同じ。"
 GameUIProfileBanner10Name,Doodle Brillianceのプロフィールバナー
 GameUIProfileBanner10ShortName,Doodle Brillianceのバナー
-GameUIProfileBanner10Description,bonbonniによるバナーの勝者
+GameUIProfileBanner10Description,chompypawによるバナーの勝者
 GameUIProfileBanner11Name,Arcanum Necronicomのプロフィールバナー
 GameUIProfileBanner11ShortName,Arcanum Necronicomのバナー
 GameUIProfileBanner11Description,_Concilliabule_によるバナーの勝者
@@ -4329,3 +4330,180 @@ FilterMisc,その他
 Blast Chain Ability,ブラストチェーン
 Blast Chain Ability Description,海の地雷は短時間でより速く爆発する
 TowerSpecial,モンキースペシャル
+Geraldo,ジェラルド
+Geraldo Short Description,神秘の小売商人
+Geraldo Description,小売商人のジェラルドは便利なアイテムを色々販売し、稲妻攻撃でブルーンを急襲する。
+Geraldo Level 1 Description,入手可能なアイテム！射撃砲塔、古い釘の山、不気味なアイドル、ピクルスの瓶。ジェラルドは近距離の魔法攻撃も持っている。
+Geraldo Level 2 Description,新しいアイテム！レアなクインシーアクションフィギュア：持っている時間が長いほど価値が上がっていく！
+Geraldo Level 3 Description,新しいアイテム！不可視が見えるポーション：モンキータワーやヒーローに短時間の迷彩検出を付与する。ジェラルドの攻撃範囲が広がる。
+Geraldo Level 4 Description,新しいアイテム！素晴らしいグルーのチューブ：トラックに配置し、ブルーンの速度を落とすことができる。
+Geraldo Level 5 Description,新しいアイテム！砥石：鋭いタイプのダメージを与える時、モンキータワーやヒーローの貫通度が向上します。
+Geraldo Level 6 Description,新しいアイテム！ヒーローのケープ着用：ティア2以下のダートモンキーをスーパーモンキーに変換する！これらの変換されたスーパーモンキーは、ティア3までにのみアップグレード可能。
+Geraldo Level 7 Description,新しいアイテム！ブレードトラップ：目に見えるブルーンがトラップに触れると、ブレード大混乱がオフになる。ジェラルドの主な攻撃のダメージと貫通度が増加。
+Geraldo Level 8 Description,新しいアイテム！「ジェリーの炎」のボトル：280万ブルーンズビル・ユニットの純粋なホットソースの炎！モンキー、ヒーロー、またはミニオンに10ラウンドの激しい攻撃を与える。
+Geraldo Level 9 Description,新しいアイテム！肥料：目に見えるバナナを生産する、標的になったバナナ農場は、生産量を増やし、数ラウンドにわたって現金ボーナスを獲得する。ジェラルドの主な攻撃の爆破半径が増大。
+Geraldo Level 10 Description,新しいアイテム！ペットのうさぎ：なんてかわいくて小ちゃなうさぎちゃん！
+Geraldo Level 11 Description,新しいアイテム！回復のポーション：すべてのモンキータワーとヒーローのクールダウンをリセットし、ライフを50回復。ジェラルドの主な攻撃の貫通度が増加し、ピクルスのビンは強化ブルーンに対して追加ダメージを与える。
+Geraldo Level 12 Description,新しいアイテム！精霊のボトル：3ラウンド持続するプラズマ動力の精霊モンキーを召喚します。目に見えるMOABクラスのブルーンが通過すると、不気味なアイドルがたまに短いマヒを適用できるようになった。
+Geraldo Level 13 Description,射撃砲塔はダメージが大きくなると発砲が速くなり、古い釘の山はより大きなダメージを与える。
+Geraldo Level 14 Description,不可視が見えるポーションは追加の範囲を付与し、より長く持続。
+Geraldo Level 15 Description,砥石は貫通度に加えてダメージを大きくし、ブレードトラップはトリガーされるとさらに強力な効果を生み出す。
+Geraldo Level 16 Description,古い釘の山は釘の地雷になり、ピクルスのビンは強化ブルーンに対して追加のボーナスダメージを与え、ジェリーの炎は追加のバーニーダメージを獲得。
+Geraldo Level 17 Description,ジェラルドの主な攻撃はより大きなダメージを与え、凄すぎグルーはMOABクラスのブルーンに小さな影響を与えるようになった。
+Geraldo Level 18 Description,精霊は2回目の近接攻撃を獲得し、MOABクラスのブルーンに追加ダメージを与える。不気味な偶像は追加された時に近くのMOABクラスのブルーンに大きなダメージを与える神秘的なシュラウドを適用。
+Geraldo Level 19 Description,ジェラルドの主な攻撃はより速く、より長い範囲にわたり、より大きなダメージを与え、不可視が見えるポーションはカモフラージュブルーンに追加ダメージを与える。
+Geraldo Level 20 Description,新しいアイテム！パラゴンパワートーテム：作成された次のパラゴンにパラゴンパワーを追加。ジェラルドの主な攻撃はより大きなダメージを与える。
+Geraldo Shop shortname,店
+Geraldo Shop name,ジェラルドの店
+Shooty turret name,射撃砲塔
+Shooty turret description,恒久的な手作りのダーツ射撃砲塔。
+Stack of old nails name,古い釘の山
+Stack of old nails description,確かに古い釘の山だけれど、トラックのどこに置いても、漂遊したブルーンを簡単にポップしてくれる。
+Creepy idol name,不気味な偶像
+Creepy idol description,この不気味な見た目の偶像をトラックの近くに置くと、ブルーンが元の場所に戻るように怖がらせてくれる。
+Jar of Pickles name,ピクルスのビン
+Jar of Pickles description,モンキータワーの1つでこれらのピクルスを試してみると、より強く当たるけれど、しばらくの間ゆっくりと撃つようになる。
+Rare Quincy action figure name,レアなクインシーアクションフィギュア
+Rare Quincy action figure description,限定版、新品同様のオリジナルクインシー、クインシーの息子のアクションフィギュア！これは価値が上がるだけなので、今すぐ購入！
+See invisibility potion name,不可視が見えるポーション
+See invisibility potion description,この非常に効果的なエリクサーを贈ると、どんなモンキーでもカモフラージュブルーンが簡単に見えるように！効果は持続しない。
+Tube of amaz-o-glue name,素晴らしいグルーのチューブ
+Tube of amaz-o-glue description,本当にすごい！このモダンな驚異のチューブをトラックのどこかに置いて、次のブルーンの群れがすぐに遅くなるのを見てみて。
+Sharpening stone name,砥石
+Sharpening stone description,友よ、それらのダーツを研げ！これをダーツやブレードに塗ると、これまで以上に鋭くなるよ。
+Worn heros cape name,ヒーローのケープ着用
+Worn heros cape description,どんなヒーローも、ケープを着用するものだ！これをダーツモンキーの1匹に渡して、変身するところを見てみて！少し使用された状態、マイナーなティアだけ、えーっと、ティアー、涙って意味。
+Blade trap name,ブレードトラップ
+Blade trap description,これをトラックに置いて、最初に触れたブルーンが大きな回転するブレードに細断されるのを見てください！
+Gerrys fire hot sauce name,「ゲリーの炎」ホットソースのボトル
+Gerrys fire hot sauce description,280万ブルーンビル・ユニット。この特別なソースを味わう人は、誰でもしばらくの間火を噴く羽目に！
+Fertilizer name,肥料
+Fertilizer description,農場にバナナがありますか？もっとバナナが欲しいですか？この超強力な魔法の肥料をその農場に直接振りかけて、より多くのバナナを手に入れよう！
+Pet rabbit name,ペットのウサギ
+Pet rabbit description,あなたに必要なのは、超かわいい小さな一匹のうさぎのペットだけってこともあるある！または数匹とか！
+Rejuv potion name,回復のポーション
+Rejuv potion description,このおいしい飲み物をどこかに落として、その回復の力が失われた命を回復し、能力のクールダウンをリセットするのを見てみて。
+Genie bottle name,精霊のボトル
+Genie bottle description,この鮮やかな青いボトルから精霊のモンキーを召喚するけれど、要注意。それは永遠に続かないのです！ （購入には希望は含まれていません）。
+Paragon power totem name,パラゴンパワートーテム
+Paragon power totem description,この神秘的な遺物であなたの次のパラゴンの力を高めてみて...
+EventEndingSoonText,このイベントは間もなく終了するため、エントリは無効になりました。
+EngineerMonkey Paragon,マスタービルダー
+EngineerMonkey Paragon Description,モンキーエンジニアリングは完璧に開発されました。独自の歩哨を構築できる3つのメガ歩哨を作り出します。
+OptionsLogout,ログアウト
+ConfirmLogout,ログアウトの確認
+ConfirmLogoutDesc,アカウントからサインアウトしてもよろしいですか？その場合は、サインアウトする前に、アカウントの詳細とリンクコードをメモしてください。\n\n{0}
+VortexTagLine,空からやって来る
+VortexTagLine2,致命的な空気のマスター
+Vortex,ボルテックス
+VortexInfoPanelDescription,• ボルテックスは稲妻のように動き、他のブルーンをスピードアップします！\n• 各ヘルスバーの頭蓋骨に到達すると、ボルテックスはそれ自体をシールドし、トラックを後退する前に、衝撃波を送って近くの塔をマヒさせます。\n• ボルテックスは通常のストームパルスを放出し、トラック上の非パワーを含む発射体を破壊します。
+Scrapyard,ジャンクヤード
+BloonsAllBloonsCatEarName,ネコ耳ブルーン
+BloonsAllBloonsCatEarShortName,ネコ耳ブルーン
+BloonsAllBloonsCatEarDescription,ブルーンとネコって相性悪そうだけれど、この場合は完璧なマッチ。
+BloonsAllBloonsDisguiseGlassesName,変装メガネブルーン
+BloonsAllBloonsDisguiseGlassesShortName,変装メガネブルーン
+BloonsAllBloonsDisguiseGlassesDescription,こんな変装にひっかかるのは、モンキーくらい。え、ってことは…
+CoopEmoteAnimationPatFlexName,パット力こぶのエモート
+CoopEmoteAnimationPatFlexShortName,パット力こぶ
+CoopEmoteAnimationPatFlexDescription,頭脳と脳、何というコンビネーション！パットは最強！
+CoopEmoteAnimationMindBlownName,ビックリ仰天のエモート
+CoopEmoteAnimationMindBlownShortName,ビックリ仰天
+CoopEmoteAnimationMindBlownDescription,協力プレイパートナーが何かすごく見事なことをした時に相応しいのは、このエモートだけ！
+GameUIProfileAvatar59Name,スーパーモンキーのアバター
+GameUIProfileAvatar59ShortName,スーパーモンキーのアバター
+GameUIProfileAvatar59Description,彼の目がハートになってるのが分かるかな。スーパー君は君のことを見ているのか、それとも映った自分を見ているのか、判別する時だ。
+GameUIProfileAvatar60Name,ストライカ・ージョーンズのアバター
+GameUIProfileAvatar60ShortName,ストライカ・ージョーンズのアバター
+GameUIProfileAvatar60Description,ストライカー・ジョーンズが出勤！お気に入りのショルダーローンチモンキーからの挨拶で、君の勝利への心構えを見せつけよう。
+GameUIProfileBanner13Name,到着バナー
+GameUIProfileBanner13ShortName,到着プロフィールバナー
+GameUIProfileBanner13Description,バナー入選者betapotata作
+GameUIProfileBanner14Name,水面下バナー
+GameUIProfileBanner14ShortName,水面下プロフィールバナー
+GameUIProfileBanner14Description,バナー入選者Cyliia作
+GameUIMusicTrackMusicSunshineFiestaMixName,ジュークボックス：サンシャインセレナーデ‐フィエスタミックス
+GameUIMusicTrackMusicSunshineFiestaMixShortName,サンシャイン‐フィエスタ
+GameUIMusicTrackMusicSunshineFiestaMixDescription,音量を上げて、サンシャインセレナーデのこの素敵なリミックスを楽しんで。
+CantSubmitEventEnded,スコアを送信できません、イベントはすでに終了しています。
+CyberQuincySkinNameFull,サイバークインシー
+ScientistGwendolinSkinNameFull,科学者グウェンドリン
+SentaiCaptainChurchillSkinNameFull,戦隊チャーチル
+BikerBonesSkinNameFull,バイカージョーンズ
+ObynOceanGuardianSkinNameFull,大洋ガーディアン
+BenJamminSkinNameFull,ベンジャミンDJ
+SmudgeCattSkinNameFull,スマッジキャット
+FustyTheSnowmanSkinNameFull,雪だるまのファスティー
+WolfpackQuincySkinNameFull,オオカミの群れクインシー
+JoanOfArcAdoraSkinNameFull,アドラのジャンヌダルク
+HarlegwenGwendolinSkinNameFull,クレイジーグウェン
+OctoJonesStrikerJonesSkinNameFull,オクトジョーンズ
+DreadPirateBrickellAdmiralBrickellSkinNameFull,ドレッド海賊ブリッケル
+ObynMountainGuardianSkinNameFull,山の守護者
+SushiBentoBenjaminSkinNameFull,すし弁当
+ETnEtienneSkinNameFull,Etn
+VikingSaudaSaudaSkinNameFull,バイキングのサウダ
+GalaxiliEziliSkinNameFull,ギャラキシリ
+PsimbalsPsiSkinNameFull,シンバル
+Least Cash,最小限キャッシュ：
+Least Tiers,最低限ティア：
+Least Cash Used,使用した最小限キャッシュ：
+Least Tiers Used,使用した最小限ティア：
+All Tiers Used,全てのティアを使用した
+All Cash Used,全てのキャッシュを使用した
+Tiers Used,使用したティア
+Cash Used,使用したキャッシュ
+No Score Set,まだスコアはありません
+Auto,自動
+FriendScreenFriends,友達
+FriendScreenRequests,リクエスト
+FriendScreenYourFriendCode,自分の友達コード：
+FriendScreenOnline,オンライン
+FriendScreenOffline,オフライン
+FriendScreenAccept,承諾
+FriendScreenDecline,拒否
+FriendScreenBlock,ブロック
+FriendScreenFriendText,友達はここに表示されます。自分の友達コードを友達や家族と共有しましょう。
+RequestDisabledText,リクエストが無効化された
+FriendScreenEnterCode,友達コードを入力：
+FriendScreenAdd,追加
+FriendScreenSureUnfriend,本当にこのユーザーの友達をやめますか？
+FriendScreenSureBlock,本当にこのユーザーをブロックしますか？
+SpecialConditions,特別条件
+FriendScreenRequestText,ここにリクエストが表示されます。自分の友達コードを友達や家族と共有しましょう。
+FriendScreenCodeHidden,友達コードが隠されている
+RequestEnabledText,リクエストが有効化された
+Least Cash No Colon,最小限のキャッシュ
+Least Tiers No Colon,最低限のティア
+SpecialConditionsColon,特別条件：
+GoalSetForCash,ゴールはは{0}キャッシュに設定された
+GoalSetForTiers,ゴールが {0}ティアに設定された
+ChallengeCashUsed,{0} / {1}キャッシュを使用した
+ChallengeTiersUsed,{0} / {1}ティアを使用した
+ShootyTurret,射撃砲塔
+CreepyIdol,不気味な偶像
+RareQuincyActionFigure,レアなクインシーアクションフィギュア
+GenieBottle,精霊のボトル
+ParagonPowerTotem,パラゴンパワートーテム
+FriendScreenErrorRequestFailed,友達リクエストに失敗しました
+FriendScreenErrorInvalidCode,無効なフレンドコード
+FriendScreenErrorBlocked,あなたが追加しようとしているプレーヤーは、友達リクエストをブロックしています。残念です！
+FriendScreenErrorAlreadySent,このプレイヤーには、友達リクエストを送信済みです。
+FriendScreenErrorTooManyFriends,フレンド数が上限に達しました。既存のフレンドを削除したり、フレンド申請をキャンセルしたりすることで、スペースを確保できます。
+MapEditor,マップエディタ
+Jar of Pickles description level 11,モンキータワーの1つでこれらのピクルスを試してみると、より強く当たるでしょうが、しばらくの間ゆっくりと撃ちます。要塞化されたBloonsへのダメージが増加しました！
+Creepy idol description level 12,この不気味な見た目のアイドルをトラックの近くに置いて、いくつかのBloons（MOABでさえも！）を元の場所に戻します。
+Shooty turret description level 13,恒久的な手作りのダーツ射撃砲塔。アップグレードしました！より速く発砲し、より多くのダメージを与えます。
+Stack of old nails description level 13,はい、それは古い釘の非常に大きなスタックですが、それらをトラックのどこにでも置くと、それらはそれらの漂遊したブロンを手軽にポップします。
+See invisibility potion description level 14,この非常に効果的なエリクサーであなたが贈るどんな猿でも、カモフラージュを簡単に見ることができます！効果がなくなります。範囲が広がり、さらに長持ちします！
+Sharpening stone description level 15,それらのダーツを研ぎます、友達！これをダーツとブレードに適用すると、これまで以上にシャープになり、ダメージが大きくなります。
+Blade trap description level 15,これをトラックに置いて、最初に触れたBloonsが大きな回転するブレードによって細断されるのを見てください！より強力な新しいモデル！
+Stack of old nails description level 16,はい、それはただのジャイアントネイルマインですが、トラックのどこにでも置くと、それらの漂遊したBloonsを手軽にポップします。
+Jar of Pickles description level 16,モンキータワーの1つでこれらのピクルスを試してみると、より強く当たるでしょうが、しばらくの間ゆっくりと撃ちます。要塞化されたBloonsへのダメージがさらに増加し​​ました！
+Gerrys fire hot sauce description level 16,280万のBloonvilleユニット。この特別なソースを味わう人は誰でもしばらくの間火を噴きます！今、余分な焦げ目があります。
+Tube of amaz-o-glue description level 17,本当にすごい！このモダンな驚異のチューブをトラックのどこにでも適用して、次のBloonsの束、さらにはMOABがすぐに遅くなるのを見てください。
+Genie bottle description level 18,この鮮やかな青いボトルから魔神猿を召喚しますが、注意してください、それは永遠に続くことはありません！ （購入には希望は含まれていません）。追加の攻撃とMOABへのより多くのダメージが含まれるようになりました。
+Creepy idol description level 18,この不気味な見た目のアイドルをトラックの近くに置いて、Bloonsが元の場所に戻ってくるのを怖がらせます。神秘的なシュラウドのアップグレードのロックが解除されました！
+See invisibility potion description level 19,この非常に効果的なエリクサーを贈ったサルは、カモフラージュを簡単に見ることができ、より多くのダメージを与えることができます！効果がなくなります。
+FriendScreenSureUnBlock,このユーザーのブロックを解除してもよろしいですか？
+None,なし

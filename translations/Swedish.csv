@@ -1,4 +1,4 @@
-﻿//Input. Needs to be first e.g [I] replaced by click or tap,
+//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Klicka
 Tap,Peka
 ,
@@ -99,7 +99,7 @@ Quincy Level 13 Description,Liten ökning av räckvidd.
 Quincy Level 14 Description,Pilar åsamkar fyra gånger så hög skada på MOAB-klass-Bloons.
 Quincy Level 15 Description,Snabbeld får x4 attackhastighet och nedkylningen minskas.
 Quincy Level 16 Description,Ännu högre attackhastighet.
-Quincy Level 17 Description,Pilarna räcker 25 % längre.
+Quincy Level 17 Description,Pilarna räcker 25 % längre. Skjuter en exploderande pil vartannat skott.
 Quincy Level 18 Description,Quincy attackerar snabbare och Pilstormen har minskad nedkylningstid och 50 % fler pilar.
 Quincy Level 19 Description,Varje pil får ännu högre smällkraft.
 Quincy Level 20 Description,Quincy attackerar ännu snabbare. Pilstorm ökar skadan per pil och avfyrar ännu fler pilar.
@@ -161,7 +161,7 @@ Gwendolin Level 12 Description,Ökad attackhastighet.
 Gwendolin Level 13 Description,"Mycket högre smällkraft, plus att projektiler rör sig snabbare och räcker längre."
 Gwendolin Level 14 Description,Eldcocktail ger extra skada och sätter eld på Bloons i MOAB-klassen.
 Gwendolin Level 15 Description,Ökad attackhastighet.
-Gwendolin Level 16 Description,Eldstorm har ökad varaktighet. Rosa Bloons är inte längre immuna mot Gwendolins attacker.
+Gwendolin Level 16 Description,Eldstorm varar längre och åsamkar mer skada. Rosa Bloons är inte längre immuna mot Gwendolins attacker.
 Gwendolin Level 17 Description,Värm upp det gör det möjligt för de påverkade aporna att smälla 1 extra lager och åsamka +2 skada på Blybloons.
 Gwendolin Level 18 Description,Ökad attackhastighet.
 Gwendolin Level 19 Description,Skjuter 3 eldvågor per skott.
@@ -836,7 +836,7 @@ Rapid Fire Description,Skjuter snabbare än normalt.
 Exploding Pineapple Description,Släpper ananaser till marken som exploderar våldsamt efter några få sekunder. Ässets explosiva attacker förbättras.
 Sharper Darts Description,Pilar kan smälla 8 Bloons vardera.
 Lots More Darts Description,Skjuter 12 pilar i taget.
-Spy Plane Description,Gör det möjligt för Pilotapan att träffa Kamo-Bloons.
+Spy Plane Description,Gör det möjligt för Apesset att träffa Kamobloons och åsamka dem mer skada.
 Centered Path Description,Ny central flygväg för maximal karttäckning.
 Fighter Plane Description,Flyger snabbt och avlossar anti-MOAB-missiler.
 Bomber Ace Description,Släpper en bombmatta när den flyger över Bloonvägen.
@@ -873,7 +873,7 @@ Burny Stuff Description,Skadade Bloons fattar eld under ett ögonblick för varj
 Shockwave Description,"Explosionens stötvåg bedövar Bloons som träffas, smäller Bloons i ett större område och ökar skadan för Brännstoff."
 Heavy Shells Description,"Tunga projektiler åsamkar extra skada på Keramik-, Bly-, alla Förstärkta och alla bedövade Bloons. Kan även smälla Svarta Bloons."
 Signal Flare Description,Kamo-Bloons som smälls med signalraketer förlorar sin kamoflering permanent.
-The Big One Description,"Förödande explosioner smäller 5 Bloonlager, samt ökar skadan för Brännstoff ytterligare."
+The Big One Description,"Förödande explosioner smäller 7 Bloonlager, samt ökar skadan för Brännstoff ytterligare."
 Artillery Battery Description,Bombardemangförmåga: Avlossar en snabb eldattack i ett något större område. Huvudattacken uppgraderas till 3 eldrör för otroligt snabba attacker.
 Shattering Shells Description,Splittergranater spränger bort alla specialegenskaper från alla Bloons förutom de allra största.
 The Biggest One Description,"Spränger sig djupt genom Bloons och lager över ett stort område, samt kraftfull Brännstoffskada."
@@ -2154,7 +2154,7 @@ Knowledge unlock tip,Du kommer att börja tjäna apkunskapspoäng från nivå 30
 Daily challenges unlock at,Dagliga utmaningar och evenemang blir upplåsta på nivå {0}
 ,
 ,
-FriendLiNKLoginRequiredBody,Konto krävs för att se Facebook-vänners poäng.
+FriendLiNKLoginRequiredBody,Konto krävs för att se vänners poäng.
 FriendLiNKLoginRequiredTitle,Logga in?
 FriendLiNKLoginFailed,Kunde inte logga in på Facebook. Kontrollera din internetanslutning och dina inloggningsuppgifter.
 Do It,Gör det
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] till Mörkskifte inom räckvidden
 DarkChampionDarkshift,[I] till Mörkskifte till valfri giltig plats
 SmallTowersMode,Små aptorn
 BigTowersMode,Stora aptorn
-UpdatePopupTitle,Uppdatering 30!
-UpdatePopupDescription,"Ny innehållsuppdatering!\n• Kämpa dig fram genom den nya avancerade banan: Sjunkna Pelare\n• Frigör bullret med detta nya Psi-skin: Psimbaler!\n• Uppdatering av samarbetsdelning: 2 helt nya delningar tillagda som går att välja när man startar ett samarbetsspel\n• 16 nya trofébutikartiklar, inklusive 4 med begränsad tid, skaffa dem snabbt!\n• 4 nya Apkunskaper att låsa upp\n• Nya Prestationer, livskvalitet och balansändringar, läs uppdateringsmeddelandet för fullständiga detaljer"
+UpdatePopupTitle,Uppdatering 31!
+UpdatePopupDescription,"Ny innehållsuppdatering!\n• Ny hjälte! Geraldo den mystiska handelsmannen har anlänt med sin fantastiska arsenal av Bloonsmällande artiklar!\n• Ny boss! Vortex, luftens dödliga mästare, har släppts lös!\n• Ha kul när du smäller Bloons på den nya nybörjarbanan: Skrotupplag\n• 9 nya artiklar i Trofébutiken, inklusive en ny remix\n• Utmaningswebbläsare: Minst pengar och Minst nivåer som specialsegervillkor för dina problemutmaningar\n• Hjältemenyn är ny och förbättrad plus mer livskvalitets- och balansändringar, kolla uppdateringsmeddelandet för mer information!"
 ResetDailyChest,Återställ daglig kista
 JukeboxName,Jukebox
 EnableFunction,Aktivera
@@ -3062,7 +3062,7 @@ Drone Swarm Ability Description,Etienne skickar upp ytterligare 4 tillfälliga d
 UCAV Ability,UCAV
 UCAV Ability Description,Höghöjdsövervakningsdrönare blir en förödande attackdrönare under en kort stund.
 Mesa,Mesa
-DreadPirateBrickellAdmiralBrickellSkinName,Skräckpiraten Brickell
+DreadPirateBrickellAdmiralBrickellSkinName,Skräckpiraten Brickell-skin
 DreadPirateBrickellAdmiralBrickellSkinDescription,Drottningen över de sju haven seglar på nytt!
 No Insta Reward,Ingen Runda 100-belöning
 GameUIProfileAvatar19Name,Anpassad Avatar - Adoras vilande ansikte
@@ -3644,7 +3644,7 @@ GameUIPowerSkinLavaLakeName,Anpassad förmåga - Flyttbara lavasjö
 GameUIPowerSkinLavaLakeShortName,Flyttbar lavasjö
 GameUIPowerSkinLavaLakeDescription,Det börjar bli varmt här! Koka bort dina bekymmer i denna brinnande lavapool!
 Resort,Semesteranläggning
-ETnEtienneSkinName,ETn
+ETnEtienneSkinName,Etn-skin
 ETnEtienneSkinDescription,Ta mig till er ledare.
 VeteranXP,Veteran-XP
 GameUIMusicTrackMusicSailsAgain,Sails Again
@@ -4138,7 +4138,7 @@ GamecenterLoginPrompt,"Var vänlig logga in på Game Center för åtkomst. Öppn
 GamecenterRestrictedTitle,Åtkomst till multiplayer begränsad
 GamecenterLoginTitle,Logga in på Game Center
 QuietStreet,Tysta gatan
-GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinName,Galaxili-skin
 GalaxiliEziliSkinDescription,Allting vi är och allting vi ser består av rymddamm
 MonkeyBuccaneer Paragon,Havens härskare
 MonkeyBuccaneer Paragon Description,Det mest fantastiska som någonsin har flutit på vatten.
@@ -4254,7 +4254,7 @@ Achievement 142 Description,Spendera 1 000 Appengar på Fortsättningar eller Ko
 PetSounds,Pet Sounds
 UserID,Användar-ID
 SunkenColumns,Sjunkna Pelare
-PsimbalsPsiSkinName,Psimbaler
+PsimbalsPsiSkinName,Psimbals-skin
 PsimbalsPsiSkinDescription,Är du redo för en uppvisning?!
 HeroesStrikerJonesPetGermanShepherdName,Striker Jones schäferhund
 HeroesStrikerJonesPetGermanShepherdShortName,Strikers hundvalp
@@ -4297,7 +4297,7 @@ GameUIPowerSkinMonkeyBoostSugarRushShortName,Sockerchock
 GameUIPowerSkinMonkeyBoostSugarRushDescription,Människor: alla vet att vi presterar bättre under påverkan av kopiösa mängder sockersöt härlighet. Apor: vi håller med.
 GameUIProfileBanner10Name,Klotterbriljans-profilbanner
 GameUIProfileBanner10ShortName,Klotterbriljansbanner
-GameUIProfileBanner10Description,Banner-vinnare av bonbonni
+GameUIProfileBanner10Description,Banner-vinnare av chompypaw
 GameUIProfileBanner11Name,Arcanum Necronicom-profilbanner
 GameUIProfileBanner11ShortName,Arcanum Necronicom-banner
 GameUIProfileBanner11Description,Bannervinnare av _Concilliabule_
@@ -4327,3 +4327,180 @@ FilterMisc,Diverse
 Blast Chain Ability,Sprängkedja
 Blast Chain Ability Description,Sjöminor sprängs snabbare under en kort stund
 TowerSpecial,Apspecial
+Geraldo,Geraldo
+Geraldo Short Description,Mystisk handelsman
+Geraldo Description,Handelsmannen Geraldo säljer ett urval av användbara artiklar och zappar Bloons med sin blixtattack.
+Geraldo Level 1 Description,"Tillgängliga artiklar! Skjutigt torn, Hög med gamla spikar, Läskig avgudabild, Inlagd gurkburk. Geraldo har även en magisk kortdistansattack."
+Geraldo Level 2 Description,Ny artikel! Sällsynt Quincy-äventyrsfigur - stiger i värde ju längre du har den!
+Geraldo Level 3 Description,Ny artikel! Se osynlighetsdryck - ger kamodetektering till ett Aptorn eller en Hjälte en kort stund Geraldos attackräckvidd ökar.
+Geraldo Level 4 Description,Ny artikel! Tub med Fantastoklister - kan placeras på vägen för att sakta ner Bloons.
+Geraldo Level 5 Description,Ny artikel! Slipsten - ökar genomslaget för ett Aptorn eller en Hjälte vid användning av vassa vapen.
+Geraldo Level 6 Description,Ny artikel! Sliten Hjältekappa - förvandlar en Pilapa på nivå 2 eller lägre till en Stålapa! Dessa konverterade Stålapor kan bara uppgraderas till Nivå 3.
+Geraldo Level 7 Description,Ny artikel! Bladfälla - när en synlig Bloon vidrör fällan utlöses en Bladmalström. Geraldos huvudattack åsamkar mer skada och får högre genomslag.
+Geraldo Level 8 Description,"Ny artikel! Flaska med ""Gerrys eld"" - 2,8 miljoner Bloonby-enheter av superstark såsbränna! Ger en Apa, Hjälte eller underhuggare en eldig attack i 10 rundor."
+Geraldo Level 9 Description,Ny artikel! Gödning - utvalda Bananodlingar som producerar synliga bananer får högre produktionstakt och en pengabonus över flera rundor. Sprängradien för Geraldos huvudattack blir större.
+Geraldo Level 10 Description,Ny artikel! Tamkanin - ååh vilken söt liten kanin!
+Geraldo Level 11 Description,"Ny artikel! Föryngringsdryck - återställer alla nedkylningar för Aptorn och Hjältar, återställer 50 liv. Genomslaget för Geraldos huvudattack ökar och Inlagd Gurkburk ger bonusskada mot förstärkta Bloons."
+Geraldo Level 12 Description,Ny artikel! Anden i flaskan - frammanar en plasmadriven Andeapa som varar i 3 rundor. Läskig Avgudabild kan nu använda en tillfällig kort bedövning på passerade synliga Bloons i MOAB-klassen.
+Geraldo Level 13 Description,Skjutigt Torn avfyrar snabbare med högre skada och Hög med gamla spikar åsamkar mer skada.
+Geraldo Level 14 Description,Se osynlighetsdryck får större räckvidd och varar längre.
+Geraldo Level 15 Description,Slipsten ger ökad skada utöver genomslag och Bladfälla ger en mera kraftfull effekt när den utlöses.
+Geraldo Level 16 Description,"Hög med gamla spikar blir en Spikmina, Inlagd Gurkburk ger extra bonusskada mot förstärkta Bloons och Gerrys Eld ger bonusbrännskada."
+Geraldo Level 17 Description,Geraldos huvudattack åsamkar mer skada och Fantastoklister har nu en liten effekt på Bloons i MOAB-klassen.
+Geraldo Level 18 Description,Anden får en andra kortdistansattack och ger bonusskada på Bloons i MOAB-klassen och Läskig Avgudabild använder sig av en Mystisk Svepning på Bloons i MOAB-klassen som ger stor skada i närheten när de smälls.
+Geraldo Level 19 Description,"Geraldos huvudattack är snabbare, har längre räckvidd och ger mer skada och Se Osynlighetsdryck ger bonusskada på Kamobloons."
+Geraldo Level 20 Description,Ny artikel! Paragonkrafttotem - ger paragonkraft till nästa paragon som skapas. Geraldos huvudattack ger mer skada.
+Geraldo Shop shortname,Butik
+Geraldo Shop name,Geraldos butik
+Shooty turret name,Skjutigt Torn
+Shooty turret description,"Ett permanent, handgjort pilskjutande torn."
+Stack of old nails name,Hög med gamla spikar
+Stack of old nails description,"Ja, det är bara en hög med gamla spikar, men placera dem någonstans på vägen, så kommer de att smälla Bloons som är på villovägar. Mycket praktiskt."
+Creepy idol name,Läskig Avgudabild
+Creepy idol description,Placera den här läskiga avgudabilden nära vägen för att skrämma bort några Bloons.
+Jar of Pickles name,Inlagd Gurkburk
+Jar of Pickles description,"Prova de här gurkorna på ett av dina Aptorn, så kommer det att träffa hårdare men skjuta långsammare en stund."
+Rare Quincy action figure name,Sällsynt Quincy-äventyrsfigur
+Rare Quincy action figure description,"Originaläventyrsfiguren Quincy, Quincys son i begränsad utgåva och perfekt skick! Den kommer bara att stiga i värde, så köp den nu!"
+See invisibility potion name,Se Osynlighetsdryck
+See invisibility potion description,Alla Apor som du förser med detta extremt effektiva elixir kommer att kunna se Kamobloons med lätthet! Effekten upphör med tiden.
+Tube of amaz-o-glue name,Tub med Fantastoklister
+Tube of amaz-o-glue description,Verkligen fantastiskt! Använd en tub av detta moderna underverk var som helst på vägen och se hur nästa gäng Bloons saktas ner ordentligt.
+Sharpening stone name,Slipsten
+Sharpening stone description,"Vässa dina pilar, kompis! Använd denna på dina pilar och blad, så kommer de att bli vassare än någonsin tidigare."
+Worn heros cape name,Sliten Hjältekappa
+Worn heros cape description,"Alla hjältar har kappor! Ge den till en av dina Pilapor och se förvandlingen! Bättre begagnad, bara några få nivåer, uh, jag menar revor."
+Blade trap name,Bladfälla
+Blade trap description,Placera den här på vägen och se hur de första Bloonsen som nuddar den strimlas sönder av de stora snurrande bladen.
+Gerrys fire hot sauce name,"Flaska med den starka såsen ""Gerrys eld"""
+Gerrys fire hot sauce description,"2,8 miljoner Bloonbyenheter. Alla som smakar på den här specialsåsen kommer att spotta eld ett tag!"
+Fertilizer name,Gödning
+Fertilizer description,Har din odling några bananer? Vill du ha ännu fler bananer? Strö ut lite av den här extra starka magiska gödningen direkt på odlingen och få fler bananer med en gång!
+Pet rabbit name,Tamkanin
+Pet rabbit description,Ibland är allt du behöver en liten supergullig tamkanin! Eller flera stycken!
+Rejuv potion name,Föryngringsdryck
+Rejuv potion description,Släpp ner den här delikata drycken lite varstans och se hur dess föryngrande kraft återställer förlorade liv och återställer nedkylning av förmågor.
+Genie bottle name,Anden i flaskan
+Genie bottle description,"Frammana en Andeapa från denna klarblå flaska, men tänk på att den inte varar för evigt! (inga önskningar ingår i köpet)."
+Paragon power totem name,Paragonkrafttotem
+Paragon power totem description,Öka kraften för din nästa Paragon med denna mystiska artefakt...
+EventEndingSoonText,"Detta evenemang avslutas snart, så nytt deltagande är inaktiverat."
+EngineerMonkey Paragon,Mästerbyggare
+EngineerMonkey Paragon Description,Apingenjörskap utvecklat till perfektion. Skapar tre Megavakttorn som kan bygga sina egna vakttorn.
+OptionsLogout,Logga ut
+ConfirmLogout,Bekräfta utloggning
+ConfirmLogoutDesc,"Är du säker på att du vill logga ut från ditt konto? Om så är fallet, var vänlig anteckna dina kontouppgifter och din länkningskod innan du gör detta.\n\n{0}"
+VortexTagLine,Från himlen kommer
+VortexTagLine2,Luftens dödliga mästare
+Vortex,Vortex
+VortexInfoPanelDescription,"• Vortex rör sig som blixten och får med sig andra Bloons i farten!\n• När varje hälsomätardödskalle har uppnåtts, aktiverar Vortex en sköld för att skydda sig och skickar ut en stötvåg som bedövar torn i närheten innan han drar sig tillbaka uppför vägen."
+Scrapyard,Skrotupplag
+BloonsAllBloonsCatEarName,Kattöron-Bloons
+BloonsAllBloonsCatEarShortName,Kattöron-Bloons
+BloonsAllBloonsCatEarDescription,Bloons och katter brukar inte dra jämnt men i detta fall blir det ingen katt-astrof.
+BloonsAllBloonsDisguiseGlassesName,Bloons med glasögonförklädnad
+BloonsAllBloonsDisguiseGlassesShortName,Bloons med glasögonförklädnad
+BloonsAllBloonsDisguiseGlassesDescription,Endast en apa skulle låta sig luras av denna förklädnad. Vänta lite...
+CoopEmoteAnimationPatFlexName,Pat Flex-emote
+CoopEmoteAnimationPatFlexShortName,Pat Flex
+CoopEmoteAnimationPatFlexDescription,"Muskulös och smart, vilken kombination! Pat stark!"
+CoopEmoteAnimationMindBlownName,Överväldigad emote
+CoopEmoteAnimationMindBlownShortName,Överväldigad
+CoopEmoteAnimationMindBlownDescription,"När din samarbetspartner gör något så otroligt briljant, duger det endast med denna emote!"
+GameUIProfileAvatar59Name,Stålapans avatar
+GameUIProfileAvatar59ShortName,Stålapans avatar
+GameUIProfileAvatar59Description,Du kan se kärleken i hans ögon. Nu behöver du bara ställa dig frågan om han tittar på dig eller sin egen spegelbild.
+GameUIProfileAvatar60Name,Striker Jones-avatar
+GameUIProfileAvatar60ShortName,Striker Jones-avatar
+GameUIProfileAvatar60Description,Striker Jones anmäler sig för tjänstgöring! Visa att du är redo att vinna med hälsningar från din skulderavfyrande favoritapa.
+GameUIProfileBanner13Name,Ankomstbanner
+GameUIProfileBanner13ShortName,Ankomstprofilbanner
+GameUIProfileBanner13Description,Bannervinnare av betapotata
+GameUIProfileBanner14Name,Under vågorna-banner
+GameUIProfileBanner14ShortName,Under vågorna-profilbanner
+GameUIProfileBanner14Description,Bannervinnare av Cyliia
+GameUIMusicTrackMusicSunshineFiestaMixName,Jukebox: Sunshine Serenade - Fiesta Remix
+GameUIMusicTrackMusicSunshineFiestaMixShortName,Sunshine - Fiesta
+GameUIMusicTrackMusicSunshineFiestaMixDescription,Höj volymen och lyssna på den här fantastiska remixen av Sunshine Serenade.
+CantSubmitEventEnded,"Kan inte skicka din poäng, evenemanget har redan avslutats."
+CyberQuincySkinNameFull,Cyber-Quincy
+ScientistGwendolinSkinNameFull,Vetenskaps-Gwendolin
+SentaiCaptainChurchillSkinNameFull,Sentai Churchill
+BikerBonesSkinNameFull,Biker Bones
+ObynOceanGuardianSkinNameFull,Havsväktare
+BenJamminSkinNameFull,Benjammin DJ
+SmudgeCattSkinNameFull,Smudge Catt
+FustyTheSnowmanSkinNameFull,Snögubben Fusty
+WolfpackQuincySkinNameFull,Vargflock-Quincy
+JoanOfArcAdoraSkinNameFull,Jean d'Arc Adora
+HarlegwenGwendolinSkinNameFull,Harlegwen
+OctoJonesStrikerJonesSkinNameFull,Octojones
+DreadPirateBrickellAdmiralBrickellSkinNameFull,Skräckpiraten Brickell
+ObynMountainGuardianSkinNameFull,Bergsväktare
+SushiBentoBenjaminSkinNameFull,Sushi Bento
+ETnEtienneSkinNameFull,ETn
+VikingSaudaSaudaSkinNameFull,Viking-Sauda
+GalaxiliEziliSkinNameFull,Galaxili
+PsimbalsPsiSkinNameFull,Psimbaler
+Least Cash,Minst pengar:
+Least Tiers,Minst nivåer:
+Least Cash Used,Minst pengar använda:
+Least Tiers Used,Minst nivåer använda:
+All Tiers Used,Alla nivåer använda:
+All Cash Used,Alla pengar använda:
+Tiers Used,Nivåer använda
+Cash Used,Pengar använda
+No Score Set,Ingen poäng inställd
+Auto,Auto
+FriendScreenFriends,Vänner
+FriendScreenRequests,Förfrågningar
+FriendScreenYourFriendCode,Din vänkod:
+FriendScreenOnline,Online
+FriendScreenOffline,Offline
+FriendScreenAccept,Acceptera
+FriendScreenDecline,Neka
+FriendScreenBlock,Block
+FriendScreenFriendText,Vänner kommer att visas här. Dela din vänkod med vänner och familj
+RequestDisabledText,Förfrågningar inaktiverade
+FriendScreenEnterCode,Ange vänkod:
+FriendScreenAdd,Lägg till
+FriendScreenSureUnfriend,Är du säker på att du vill ta bort denna användare som vän?
+FriendScreenSureBlock,Är du säker på att du vill blockera denna användare?
+SpecialConditions,Specialvillkor
+FriendScreenRequestText,Förfrågningar kommer att visas här. Dela din vänkod med vänner och familj
+FriendScreenCodeHidden,Vänkoden har dolts
+RequestEnabledText,Förfrågningar aktiverade
+Least Cash No Colon,Minst pengar
+Least Tiers No Colon,Minst nivåer
+SpecialConditionsColon,Specialvillkor:
+GoalSetForCash,Mål har ställts in till {0} pengar
+GoalSetForTiers,Mål har ställts in till {0} nivåer
+ChallengeCashUsed,Du använde {0} / {1} pengar
+ChallengeTiersUsed,Du använde {0} / {1} nivåer
+ShootyTurret,Skjutigt Torn
+CreepyIdol,Läskig Avgudabild
+RareQuincyActionFigure,Sällsynt Quincy-äventyrsfigur
+GenieBottle,Anden i flaskan
+ParagonPowerTotem,Paragonkrafttotem
+FriendScreenErrorRequestFailed,Vänförfrågan misslyckades
+FriendScreenErrorInvalidCode,Ogiltig vänkod
+FriendScreenErrorBlocked,Spelaren du försöker lägga till har tyvärr blockerat vänförfrågningar!
+FriendScreenErrorAlreadySent,Du har redan skickat en vänförfrågan till denna spelare.
+FriendScreenErrorTooManyFriends,Du har nått ditt maximalt tillåtna antal vänner. Du kan skapa plats genom att ta bort en existerande vän, eller ångra vänförfrågningar du har gjort.
+MapEditor,Kartredigerare
+Jar of Pickles description level 11,Prova dessa pickles på ett av dina Monkey Towers och det kommer att slå hårdare, men skjut långsammare ett tag. Nu med ökad skada på stärkta Bloons!
+Creepy idol description level 12,Placera denna skrämmande idol nära banan för att skrämma några Bloons (även MOABs!) tillbaka där de kom ifrån.
+Shooty turret description level 13,Ett permanent, handgjord dartskyttetorn. uppgraderat! Brinner snabbare och gör mer skada.
+Stack of old nails description level 13,Ja, det är bara en mycket stor bunt med gamla spikar, men lägg dem var som helst på banan och de kommer lätt att knäppa de där borta bloons.
+See invisibility potion description level 14,Vilken apa du än ger med detta extremt effektiva elixir kommer att kunna se Camo Bloons med lätthet! Effekterna kommer att avta. Ger nu ökad räckvidd och håller ännu längre!
+Sharpening stone description level 15,Vässa pilarna, vän! Använd detta på dina pilar och blad så blir de vassare och gör mer skada än någonsin tidigare.
+Blade trap description level 15,Placera den här på banan och se de första Bloonerna som rör vid den bli rivna av de stora virvlande bladen! Nyare mer kraftfull modell!
+Stack of old nails description level 16,Ja, det är bara en GIANT NAGLE, men lägg den var som helst på banan och den kommer lätt att knäppa de där borta Bloons.
+Jar of Pickles description level 16,Prova dessa pickles på ett av dina Monkey Towers och det kommer att slå hårdare, men skjut långsammare ett tag. Nu med ÄNNU MER ökad skada på stärkta Bloons!
+Gerrys fire hot sauce description level 16,2,8 miljoner Bloonville-enheter. Den som smakar denna speciella sås kommer att spy eld ett tag! Nu med extra brännhet.
+Tube of amaz-o-glue description level 17,Verkligen fantastiskt! Applicera en tub av detta moderna underverk var som helst på banan och se nästa gäng Bloons och till och med MOAB:s sakta ner direkt.
+Genie bottle description level 18,Tillkalla en Genie Monkey från denna lysande blå flaska men se upp, den kommer inte att vara för evigt! (inga önskemål ingår i köpet). Extra attack och mer skada på MOAB ingår nu.
+Creepy idol description level 18,Placera den här skrämmande idolen nära banan för att skrämma tillbaka några Bloons där de kom ifrån. Mystical Shroud-uppgradering upplåst!
+See invisibility potion description level 19,Vilken apa du än ger med detta extremt effektiva elixir kommer att kunna se Camo Bloons med lätthet och göra mer skada på dem! Effekterna kommer att avta.
+FriendScreenSureUnBlock,Är du säker på att du vill avblockera den här användaren?
+None,Ingen

@@ -1,4 +1,4 @@
-﻿//Input. Needs to be first e.g [I] replaced by click or tap,
+//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,Klikk
 Tap,Trykk
 ,
@@ -99,7 +99,7 @@ Quincy Level 13 Description,Noe økt rekkevidde.
 Quincy Level 14 Description,Piler gjør firedobbel skade på bloons av MOAB-klasse.
 Quincy Level 15 Description,Hurtigskudd får x4 angrepshastighet og nedkjølingen reduseres.
 Quincy Level 16 Description,Enda mer økt angrepshastighet.
-Quincy Level 17 Description,Piler varer 25% lenger.
+Quincy Level 17 Description,Piler varer 25 % lenger. Skyter eksploderende piler hvert andre skudd.
 Quincy Level 18 Description,Quincy angriper raskere og Pilstorm har en redusert nedkjølingstid og inkluderer 50 % flere piler.
 Quincy Level 19 Description,Hver pil får enda mer poppekraft.
 Quincy Level 20 Description,Quincy angriper enda raskere. Storm av piler påfører mer skade per pil og skyter flere piler.
@@ -161,7 +161,7 @@ Gwendolin Level 12 Description,Økt angrepshastighet.
 Gwendolin Level 13 Description,"Øker poppekraften dramatisk, og prosjektiler beveger seg raskere og varer lengre."
 Gwendolin Level 14 Description,Flammecocktail gir ekstra skade og setter fyr på MOAB-klasse bloons.
 Gwendolin Level 15 Description,Økt angrepshastighet.
-Gwendolin Level 16 Description,Ildstorm har økt varighet. Lilla bloons er ikke lenger immune mot angrep fra Gwendolin.
+Gwendolin Level 16 Description,Ildstorm har økt varighet og gjør mer skade. Lilla bloons er ikke lenger immune mot angrep fra Gwendolin.
 Gwendolin Level 17 Description,Varm den opp gir berørte Aper muligheten til å poppe 1 ekstra lag og gjøre +2 skade på Bly-bloons.
 Gwendolin Level 18 Description,Økt angrepshastighet.
 Gwendolin Level 19 Description,Skyter 3 skudd om gangen.
@@ -836,7 +836,7 @@ Rapid Fire Description,Skyter raskere enn normalt.
 Exploding Pineapple Description,Slipper ananas på bakken som eksploderer på voldelig vis etter et par sekunder. Essets eksplosive angrep forsterkes ytterligere.
 Sharper Darts Description,Dartpiler kan poppe 8 bloons hver.
 Lots More Darts Description,Skyter 12 dartpiler av gangen.
-Spy Plane Description,Gjør det mulig for Ape-ess å treffe kamuflerte bloons.
+Spy Plane Description,Gjør det mulig for Ape-ess å treffe kamuflerte bloons og påføre dem mer skade.
 Centered Path Description,Ny sentral flygebane for maksimal kartdekking.
 Fighter Plane Description,Flyr fort og slipper anti-MOAB-missiler.
 Bomber Ace Description,Slipper en linje av bomber når den krysser bloon-banen.
@@ -873,7 +873,7 @@ Burny Stuff Description,Skadde bloons settes umiddelbart fyr på for hvert treff
 Shockwave Description,"Hver sjokkbølge lammer bloons på nedslagspunktet og popper bloons lengre unna, samt øker Brennstoff-skade."
 Heavy Shells Description,"Tunge patroner gjør ekstra skade på keramiske bloons, blybloons, alle forsterkede bloons og alle lammede bloons. Kan også poppe svarte bloons."
 Signal Flare Description,Kamuflerte bloons poppet av bluss mister kamuflasjen permanent.
-The Big One Description,"Ødeleggende eksplosjoner som popper 5 lag av bloons, i tillegg til å øke Brennstoff-skade enda mer."
+The Big One Description,"Ødeleggende eksplosjoner som popper 7 lag av bloons, i tillegg til å øke Brennstoff-skade enda mer."
 Artillery Battery Description,Evnen Bombardement: Slipper løs en rask skuddveksling i et litt bredere område. Hovedangrepet oppgraderes til 3 tønner for utrolig raske angrep.
 Shattering Shells Description,Knusende patroner som fjerner alle spesielle bloonegenskaper fra alle bortsett fra de største bloons.
 The Biggest One Description,"Skyter dypt gjennom bloons og lag over et stort område, i tillegg til å utsondre mektig Brennstoff-skade."
@@ -2154,7 +2154,7 @@ Knowledge unlock tip,Du vil begynne å tjene apekunnskap-poeng fra og med nivå 
 Daily challenges unlock at,Daglige utfordringer og hendelser låses opp ved nivå {0}
 ,
 ,
-FriendLiNKLoginRequiredBody,Konto nødvendig for å se Facebook-venners poeng. 
+FriendLiNKLoginRequiredBody,Konto nødvendig for å se venners poeng.
 FriendLiNKLoginRequiredTitle,Logge på?
 FriendLiNKLoginFailed,Kunne ikke logge på Facebook. Kontroller internettilkoblingen og påloggingsinfoen.
 Do It,Gjør det
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] for å Mørkehoppe innen rekkevidde
 DarkChampionDarkshift,[I] for å Mørkehoppe til et gyldig sted
 SmallTowersMode,Små apetårn
 BigTowersMode,Store apetårn
-UpdatePopupTitle,Oppdatering 30!
-UpdatePopupDescription,"Ny innholdsoppdatering!\n• Kjemp deg gjennom det nye avanserte kartet: Sunkne søyler\n•Tilfør støy med den nye Psi-drakten: Psimbaler!\n• Samarbeidsdeling-oppdatering: 2 splitter nye delinger er lagt til og alle kan velges i samarbeidsspill\n• 16 nye gjenstander i Trofébutikk, blant annet 4 nye tidsbegrensede – skaff dem raskt!\n• 4 nye apekunnskaper å låse opp\n• Nye prestasjoner, forbedringer og justeringer – sjekk oppdateringsmerknadene for å få all informasjonen."
+UpdatePopupTitle,Oppdatering 31!
+UpdatePopupDescription,"Ny innholdsoppdatering!\n• Ny helt! Geraldo den mystiske kjøpmannen har kommet med en rekke bloonpoppende gjenstander!\n• Ny sjef! Vortex den dødelige luftmesteren er satt fri!\n• Kos deg med å knuse bloons på det nye nybegynnerkartet: Skrapgården.\n• 9 nye gjenstander i Trofébutikk, blant annet en ny remiks!\n• Utfordring: Spesielle vinnervilkår Minst penger og Laveste nivå er lagt til for en ny utfordring.\n• Heltemenyen er ny og forbedret, samt en rekke endringer og balanseringer – sjekk oppdateringsmerknadene for å få all informasjonen!"
 ResetDailyChest,Tilbakestill den Daglige kisten
 JukeboxName,Jukeboks
 EnableFunction,Aktiver
@@ -3062,7 +3062,7 @@ Drone Swarm Ability Description,Etienne fyrer av gårde 4 ekstra midlertidige dr
 UCAV Ability,UCAV
 UCAV Ability Description,Høytflyvende overvåkingsdroner blir knusende kampdroner i en kort periode.
 Mesa,Mesa
-DreadPirateBrickellAdmiralBrickellSkinName,Gufne pirat-Brickell
+DreadPirateBrickellAdmiralBrickellSkinName,Fryktpiraten Brickell-drakt
 DreadPirateBrickellAdmiralBrickellSkinDescription,Dronningen av de Syv hav seiler igjen!
 No Insta Reward,Ingen Runde 100-belønning
 GameUIProfileAvatar19Name,Tilpasset avatar - Adoras hvileansikt
@@ -3644,7 +3644,7 @@ GameUIPowerSkinLavaLakeName,Tilpasset makt – bærbar lavasjø
 GameUIPowerSkinLavaLakeShortName,Bærbar lavasjø
 GameUIPowerSkinLavaLakeDescription,Det er jammen varmt her! Kok bort bekymringene dine i dette rykende heite lavabassenget!
 Resort,Resort
-ETnEtienneSkinName,ETn
+ETnEtienneSkinName,Etn-drakt
 ETnEtienneSkinDescription,Ta meg til lederen din.
 VeteranXP,Veteran-XP
 GameUIMusicTrackMusicSailsAgain,Sett seil igjen
@@ -4138,7 +4138,7 @@ GamecenterLoginPrompt,"Logg på Game Center for å få tilgang. Åpne enhetens I
 GamecenterRestrictedTitle,Begrenset flerspillertilgang
 GamecenterLoginTitle,Logg på Game Center
 QuietStreet,Stillegata
-GalaxiliEziliSkinName,Galaxili
+GalaxiliEziliSkinName,Galaxili-drakt
 GalaxiliEziliSkinDescription,"Alt vi er, alt vi ser – er laget av romstøv."
 MonkeyBuccaneer Paragon,Havets admiral
 MonkeyBuccaneer Paragon Description,Det beste som noensinne har flytt på vann.
@@ -4254,7 +4254,7 @@ Achievement 142 Description,Bruk 1000 apepenger på Fortsett eller Kontrollpunkt
 PetSounds,Dyrelyder
 UserID,Bruker-ID
 SunkenColumns,Sunkne søyler
-PsimbalsPsiSkinName,Psimbaler
+PsimbalsPsiSkinName,Psimbaler-drakt
 PsimbalsPsiSkinDescription,Er du klar for et show?!
 HeroesStrikerJonesPetGermanShepherdName,Striker Jones' gjeterhund-kjæledyr
 HeroesStrikerJonesPetGermanShepherdShortName,Strikers valpekjæledyr
@@ -4297,7 +4297,7 @@ GameUIPowerSkinMonkeyBoostSugarRushShortName,Sukkerkick-økning
 GameUIPowerSkinMonkeyBoostSugarRushDescription,Mennesker: Vi vet alle at vi presterer bedre under enorme mengder med deilig sukker. Aper også.
 GameUIProfileBanner10Name,Doodlebriljans – profilbanner
 GameUIProfileBanner10ShortName,Doodlebriljans-banner
-GameUIProfileBanner10Description,Bannervinner av bonbonni
+GameUIProfileBanner10Description,Bannervinner av chompypaw
 GameUIProfileBanner11Name,Arkaisk nekronikom – profilbanner
 GameUIProfileBanner11ShortName,Arkaisk nekronikom-banner
 GameUIProfileBanner11Description,Bannervinner av _Concillabule_
@@ -4327,3 +4327,180 @@ FilterMisc,Diverse
 Blast Chain Ability,Hurtigkjede
 Blast Chain Ability Description,Havminer avfyres i kort tid raskere
 TowerSpecial,Apespesial
+Geraldo,Geraldo
+Geraldo Short Description,Den mystiske kjøpmannen
+Geraldo Description,Geraldo den mystiske kjøpmannen selger en rekke nyttige gjenstander og gir bloons støt med lynangrepet sitt.
+Geraldo Level 1 Description,"Tilgjengelige gjenstander! Skyttertårn, haug med gamle spiker, skummel statue, glass med sylteagurk. Geraldo har også et magisk angrep med kort rekkevidde."
+Geraldo Level 2 Description,Ny gjenstand! Sjelden actionfigur av Quincy – verdien går opp jo lengre du har den!
+Geraldo Level 3 Description,Ny gjenstand! Se usynlighet-brygg – gir kort kamuflasjeoppdagelse til et apetårn eller en helt. Geraldos angrepsrekkevidde økes.
+Geraldo Level 4 Description,Ny gjenstand! Tube med Utrolim – kan settes ut på banen for å sakke ned bloons.
+Geraldo Level 5 Description,Ny gjenstand! Hvessestein – øker gjennomtrengingen til et apetårn eller en helt når skarp skade gjøres.
+Geraldo Level 6 Description,Ny gjenstand! Brukt heltekappe – gjør en dartape på nivå 2 eller lavere om til en superape! Disse konverterte superapene kan bare oppgraderes til nivå 3.
+Geraldo Level 7 Description,"Ny gjenstand! Klingefelle – når en synlig bloon berører fellen, starter en klingemalstrøm. Geraldos hovedangrep får mer skade og gjennomtrenging."
+Geraldo Level 8 Description,"Ny gjenstand! Flaske med Gerrys ild – 2,8 Bloonville-enheter med rykende heit sausbrann! Gir en ape, helt eller lakei et brennende angrep i 10 runder."
+Geraldo Level 9 Description,Ny gjenstand! Gjødsel – målrettede banangårder som produserer synlige bananer øker produksjonen og får en kontantbonus over flere runder. Sprengradiusen til Geraldos hovedangrep økes.
+Geraldo Level 10 Description,"Ny gjenstand! Kjælekanin – ååå, for en latterlig søt kanin!"
+Geraldo Level 11 Description,"Ny gjenstand! Ungdomsbrygg – tilbakestiller nedkjølingen til alle apetårn og helter, gjenoppretter 50 liv. Gjennomtrengingen til Geraldos hovedangrep økes, og glass med sylteagurk gir ekstra skade mot forsterkede bloons."
+Geraldo Level 12 Description,Ny gjenstand! Åndeflaske – tilkaller en plasmabrukende apeånd som varer i 3 runder. Skummel statue kan nå av og til lamslå synlige bloons av MOAB-klasse i kort tid.
+Geraldo Level 13 Description,"Skyttertårn skyter raskere med økt skade, og haug med gamle spiker gjør mer skade."
+Geraldo Level 14 Description,Se usynlighet-brygg gir ekstra rekkevidde og varer lengre.
+Geraldo Level 15 Description,"Hvessestein øker nå skaden i tillegg til gjennomtrengingen, og klingefelle lager en kraftigere effekt når den utløses."
+Geraldo Level 16 Description,"Haug med gamle spiker blir en spikermine, glass med sylteagurk gir ekstra bonusskade mot forsterkede bloons, og Gerrys ild gir ekstra brannskade."
+Geraldo Level 17 Description,Geraldos hovedangrep gjør mer skade og Utrolim har en liten effekt mot bloons av MOAB-klasse.
+Geraldo Level 18 Description,"Ånden får et andre nærangrep og gjør bonusskade mot bloons av MOAB-klasse, og skummel statue gir bloons av MOAB-klasse en mystisk tilsløring som påfører stor områdeskade når de poppes."
+Geraldo Level 19 Description,"Geraldos hovedangrep er raskere, har lengre rekkevidde og gjør mer skade, og se usynlighet-brygg får bonusskade mot kamuflerte bloons."
+Geraldo Level 20 Description,Ny gjenstand! Paragon-krafttotem – tilfører paragonkraft til neste paragon som lages. Geraldos hovedangrep gjør mer skade.
+Geraldo Shop shortname,Butikk
+Geraldo Shop name,Geraldos butikk
+Shooty turret name,Skyttertårn
+Shooty turret description,"Et permanent, håndlagd dartskytende tårn."
+Stack of old nails name,Haugmed gamle spiker
+Stack of old nails description,"Ja, det er bare en haug med gamle spiker, men legg dem hvor som helst på banen, så popper de fort bloons som unnslipper."
+Creepy idol name,Skummel statue
+Creepy idol description,Sett denne skumle statuen nær banen for å skremme bloons tilbake dit de kom fra.
+Jar of Pickles name,Glass med sylteagurk
+Jar of Pickles description,"Prøv disse sylteagurkene på ett av apetårnene dine, så vil de en stund treffe hardere, men skyte saktere."
+Rare Quincy action figure name,Sjelden actionfigur av Quincy
+Rare Quincy action figure description,"I begrenset opplag og utmerket stand – original actionfigur av Quincy, sønn av Quincy! Denne blir bare mer og mer verdifull, så kjøp den nå!"
+See invisibility potion name,Se usynlighet-brygg
+See invisibility potion description,"Alle aper som får dette lekre brygget, kan se kamuflerte bloons så lett som bare det! Effekten avtar."
+Tube of amaz-o-glue name,Tube med utrolim
+Tube of amaz-o-glue description,"Helt utrolig! Bruk en tube av dette moderne vidunderet hvor som helst på sporet, så vil bloonsene raskt sakkes ned."
+Sharpening stone name,Hvessestein
+Sharpening stone description,"Hvess dartpilene! Bruk denne på dartpiler og klinger, så blir de skarpere enn noensinne."
+Worn heros cape name,Brukt heltekappe
+Worn heros cape description,"Alle helter bruker kapper! Gi denne til en av dart-apene dine og se forvandlingen! Litt brukt, kun for lavere nivåer."
+Blade trap name,Klingefelle
+Blade trap description,Sett denne ut på banen og se de første bloonsene som berører den bli revet i fillebiter av snurrende klinger!
+Gerrys fire hot sauce name,Flaske med chilisausen Gerrys ild
+Gerrys fire hot sauce description,"2,8 millioner Bloonville-enheter Hvem enn som smaker denne spesielle sausen vil sprute ild en stund!"
+Fertilizer name,Gjødsel
+Fertilizer description,Har gården din bananer? Lyst på enda flere bananer? Spre litt av dette magiske gjødslet direkte på gården for å få flere bananer!
+Pet rabbit name,Kjælekanin
+Pet rabbit description,Noen ganger trenger du bare en supersøt kanin! Eller flere!
+Rejuv potion name,Ungdomsbrygg
+Rejuv potion description,Slipp denne deilige drikken hvor som helst og se den ungdommelige effekten dens gjenopprette liv og tilbakestille nedkjølinger.
+Genie bottle name,Åndeflaske
+Genie bottle description,"Tilkall en apeåpnd fra denne vakre blå flasken, men husk at ingenting varer evig! (ingen ønsker inkludert med kjøp)."
+Paragon power totem name,Paragon-krafttotem
+Paragon power totem description,Øk neste paragons krefter med denne mystiske gjenstanden …
+EventEndingSoonText,"Hendelsen avsluttes snart, så man kan ikke lenger bli med."
+EngineerMonkey Paragon,Mesterbygger
+EngineerMonkey Paragon Description,Apeingeniørskap utviklet til perfeksjon. Lager tre megatårn som bygge sine egne tårn.
+OptionsLogout,Logg ut
+ConfirmLogout,Bekreft utlogging
+ConfirmLogoutDesc,"Er du sikker på at du vil logge ut av kontoen din? Hvis du gjør det, burde du først huske kontodetaljene dine og tilknytningskoden din.\n\n{0}"
+VortexTagLine,Fra himmelen kommer
+VortexTagLine2,Dødelig luftmester
+Vortex,Vortex
+VortexInfoPanelDescription,"• Vortex beveger seg raskt som lynet og får også fart på andre bloons!\n• Når en helsefelt-hodeskalle nås, beskytter Vortex seg og sender ut en sjokkbølge som lamslår tårn i nærheten før han trekker seg tilbake på banen.\n• Vortex sender ut en vanlig stor"
+Scrapyard,Skrapgård
+BloonsAllBloonsCatEarName,Katteøre-bloons
+BloonsAllBloonsCatEarShortName,Katteøre-bloons
+BloonsAllBloonsCatEarDescription,"Bloons og katter pleier ikke å være en god kombinasjon, men akkurat denne gangen er det purrfekt."
+BloonsAllBloonsDisguiseGlassesName,Forkledningsbrille-bloons
+BloonsAllBloonsDisguiseGlassesShortName,Forkledningsbrille-bloons
+BloonsAllBloonsDisguiseGlassesDescription,Bare en ape ville latt seg lure av denne forkledningen. Vent nå litt …
+CoopEmoteAnimationPatFlexName,Pats flekseemote
+CoopEmoteAnimationPatFlexShortName,Pats fleksing
+CoopEmoteAnimationPatFlexDescription,"Styrke og intellekt, for en kombinasjon! Pat sterk!"
+CoopEmoteAnimationMindBlownName,Imponert emote
+CoopEmoteAnimationMindBlownShortName,Imponert
+CoopEmoteAnimationMindBlownDescription,"Når samarbeidspartneren din gjør noe helt vanvittig smart, er det kun denne emoten som er god nok!"
+GameUIProfileAvatar59Name,Superape-avatar
+GameUIProfileAvatar59ShortName,Superape-avatar
+GameUIProfileAvatar59Description,Du kan se kjærligheten i øynene hans. Nå må du bare bestemme om superapen ser på deg eller rett og slett sitt eget speilbilde.
+GameUIProfileAvatar60Name,Striker Jones-avatar
+GameUIProfileAvatar60ShortName,Striker Jones-avatar
+GameUIProfileAvatar60Description,Striker Jones rapporterer til tjeneste! Vis hvor klar du er til å vinne med hilsninger fra apen som skyter fra skulderen.
+GameUIProfileBanner13Name,Ankomstbanner
+GameUIProfileBanner13ShortName,Ankomst-profilbanner
+GameUIProfileBanner13Description,Bannervinner av betapotata
+GameUIProfileBanner14Name,Under vannet-banner
+GameUIProfileBanner14ShortName,Under vannet-profilbanner
+GameUIProfileBanner14Description,Bannervinner av Cyliia
+GameUIMusicTrackMusicSunshineFiestaMixName,Jukeboks: Sunshine Serenade - Fiesta Remix
+GameUIMusicTrackMusicSunshineFiestaMixShortName,Sunshine - Fiesta
+GameUIMusicTrackMusicSunshineFiestaMixDescription,Skru opp lyden og kos deg med denne deilige remiksen av Sunshine Serenade.
+CantSubmitEventEnded,"Kan ikke sende poengene dine, hendelsen er allerede over."
+CyberQuincySkinNameFull,Cyber Quincy
+ScientistGwendolinSkinNameFull,Forskeren Gwendolin
+SentaiCaptainChurchillSkinNameFull,Sentai Churchill
+BikerBonesSkinNameFull,Sykkel-Bein
+ObynOceanGuardianSkinNameFull,Havvokter
+BenJamminSkinNameFull,Benjammin DJ
+SmudgeCattSkinNameFull,Katten Smudge
+FustyTheSnowmanSkinNameFull,Snømannen Fusty
+WolfpackQuincySkinNameFull,Ulveflokk-Quincy
+JoanOfArcAdoraSkinNameFull,Jeanne d'Arc-adora
+HarlegwenGwendolinSkinNameFull,Harlegwen
+OctoJonesStrikerJonesSkinNameFull,Blekkjones
+DreadPirateBrickellAdmiralBrickellSkinNameFull,Fryktpiraten Brickell
+ObynMountainGuardianSkinNameFull,Fjellvokter
+SushiBentoBenjaminSkinNameFull,Sushi Bento
+ETnEtienneSkinNameFull,ETn
+VikingSaudaSaudaSkinNameFull,Viking Sauda
+GalaxiliEziliSkinNameFull,Galaxili
+PsimbalsPsiSkinNameFull,Psimbaler
+Least Cash,Minst kontanter:
+Least Tiers,Laveste nivå:
+Least Cash Used,Minst kontanter brukt:
+Least Tiers Used,Laveste nivå brukt:
+All Tiers Used,Alle nivåer brukt
+All Cash Used,Alle kontanter brukt
+Tiers Used,Nivåer brukt
+Cash Used,Kontanter brukt
+No Score Set,Ingen poeng
+Auto,Auto
+FriendScreenFriends,Venner
+FriendScreenRequests,Forespørsler
+FriendScreenYourFriendCode,Din vennekode:
+FriendScreenOnline,Online
+FriendScreenOffline,Offline
+FriendScreenAccept,Godta
+FriendScreenDecline,Avslå
+FriendScreenBlock,Blokker
+FriendScreenFriendText,Vennene dine vises her. Del vennekoden din med venner og familie
+RequestDisabledText,Forespørsler avvist
+FriendScreenEnterCode,Skriv vennekode:
+FriendScreenAdd,Legg til
+FriendScreenSureUnfriend,Er du sikker på at du vil fjerne brukeren som venn?
+FriendScreenSureBlock,Er du sikker på at du vil blokkere brukeren?
+SpecialConditions,Spesielle vilkår
+FriendScreenRequestText,Forespørsler vises her. Del vennekoden din med venner og familie
+FriendScreenCodeHidden,Vennekode skjult
+RequestEnabledText,Forespørsler aktivert
+Least Cash No Colon,Minst kontanter
+Least Tiers No Colon,Laveste nivå
+SpecialConditionsColon,Spesielle vilkår:
+GoalSetForCash,Målet er satt til {0} kontanter
+GoalSetForTiers,Målet er satt til {0} nivåer
+ChallengeCashUsed,Du brukte {0}/{1} kontanter
+ChallengeTiersUsed,Du brukte {0}/{1} nivåer
+ShootyTurret,Skyttertårn
+CreepyIdol,Skummel statue
+RareQuincyActionFigure,Sjelden actionfigur av Quincy
+GenieBottle,Åndeflaske
+ParagonPowerTotem,Paragon-krafttotem
+FriendScreenErrorRequestFailed,Venneforespørsel mislyktes
+FriendScreenErrorInvalidCode,Ugyldig vennekode
+FriendScreenErrorBlocked,Spilleren du prøver å legge til har blokkert venneforespørsler!
+FriendScreenErrorAlreadySent,Du har allerede sendt en venneforespørsel til denne spilleren.
+FriendScreenErrorTooManyFriends,Du har nådd vennegrensen. Du kan lage plass ved å fjerne eksisterende venner eller trekke venneforespørsler du har sendt.
+MapEditor,Kartredigerer
+Jar of Pickles description level 11,Prøv disse sylteagurkene på et av apetårnene dine, og det vil slå hardere, men skyt saktere en stund. Nå med økt skade på befestede Bloons!
+Creepy idol description level 12,Plasser dette skummelt utseende idolet nær banen for å skremme noen Bloons (til og med MOABs!) tilbake der de kom fra.
+Shooty turret description level 13,Et permanent, håndlaget dartskytetårn. oppgradert! Fyrer raskere og gjør mer skade.
+Stack of old nails description level 13,Ja, det er bare en veldig stor stabel med gamle spiker, men legg dem hvor som helst på banen, og de vil lett sprute de bortkommen bloons.
+See invisibility potion description level 14,Uansett hvilken ape du gir med denne ekstremt effektive eliksiren, vil du enkelt kunne se Camo Bloons! Effektene vil avta. Gir nå økt rekkevidde og varer enda lenger!
+Sharpening stone description level 15,Slip disse pilene, venn! Bruk dette på pilene og bladene dine, så blir de skarpere og gjør mer skade enn noen gang før.
+Blade trap description level 15,Plasser denne på banen og se de første Bloons som berører den bli revet i stykker av de flotte virvlende bladene! Nyere kraftigere modell!
+Stack of old nails description level 16,Ja, det er bare en GIGANTISK NEGLEMINE, men legg den hvor som helst på sporet, og den vil lett knekke de bortkommen Bloons.
+Jar of Pickles description level 16,Prøv disse sylteagurkene på et av apetårnene dine, og det vil slå hardere, men skyt saktere en stund. Nå med ENDA MER økt skade på befestede Bloons!
+Gerrys fire hot sauce description level 16,2,8 millioner Bloonville-enheter. Den som smaker denne spesielle sausen vil spy ut ild en stund! Nå med ekstra brennhet.
+Tube of amaz-o-glue description level 17,Virkelig utrolig! Bruk en tube av dette moderne vidunderet hvor som helst på banen og se neste gjeng med Bloons og til og med MOAB-er bremse rett ned.
+Genie bottle description level 18,Tilkall en Genie Monkey fra denne strålende blå flasken, men pass på, den vil ikke vare evig! (ingen ønsker følger med ved kjøp). Ekstra angrep og mer skade på MOAB-er er nå inkludert.
+Creepy idol description level 18,Plasser dette skummelt utseende idolet nær banen for å skremme noen Bloons tilbake der de kom fra. Mystical Shroud-oppgradering låst opp!
+See invisibility potion description level 19,Uansett hvilken ape du gir med denne ekstremt effektive eliksiren, vil du enkelt kunne se Camo Bloons og gjøre mer skade på dem! Effektene vil avta.
+FriendScreenSureUnBlock,Er du sikker på at du vil oppheve blokkeringen av denne brukeren?
+None,Ingen

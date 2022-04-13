@@ -1,4 +1,4 @@
-﻿//Input. Needs to be first e.g [I] replaced by click or tap,
+//Input. Needs to be first e.g [I] replaced by click or tap,
 Click,點擊
 Tap,觸擊
 ,
@@ -99,7 +99,7 @@ Quincy Level 13 Description,小量射程增加。
 Quincy Level 14 Description,弓箭對MOAB級氣球產生四倍傷害。
 Quincy Level 15 Description,快速射擊變為x4攻擊速度，冷卻時間縮短。
 Quincy Level 16 Description,攻速進一步提升。
-Quincy Level 17 Description,弓箭時間延長25%。
+Quincy Level 17 Description,箭矢存在時間延長25％。每隔一次射擊就會射出爆炸箭矢。
 Quincy Level 18 Description,Quincy的擊速度加快，并且箭之暴減少冷卻時間，箭矢增加50%。
 Quincy Level 19 Description,每支箭都獲得還要更大的擊破力。
 Quincy Level 20 Description,Quincy的擊速度进一步加快。箭之暴每箭傷害力增加，並且射出更多箭。
@@ -161,7 +161,7 @@ Gwendolin Level 12 Description,攻速提升。
 Gwendolin Level 13 Description,大幅增加擊破力，並且射彈的飛行速度更快，持續時間更長。
 Gwendolin Level 14 Description,火焰雞尾酒造成額外傷害，並使MOAB級氣球燃燒。
 Gwendolin Level 15 Description,攻速提升。
-Gwendolin Level 16 Description,烈焰暴的持續時間延長。紫氣球不再對Gwendolin的攻擊免疫。
+Gwendolin Level 16 Description,烈焰暴的持續時間延長，並且可以造成更高傷害。紫氣球不再對Gwendolin的攻擊免疫。
 Gwendolin Level 17 Description,燒起來，使受影響的猴子可額外擊破1層，並對鉛氣球造成的傷害+2。
 Gwendolin Level 18 Description,攻速提升。
 Gwendolin Level 19 Description,每次射擊射出3顆燃燒彈。
@@ -836,7 +836,7 @@ Rapid Fire Description,比正常情況的射速更快。
 Exploding Pineapple Description,將鳳梨空投到地面，幾秒後發生劇烈爆炸。王牌猴子的爆炸攻擊得到增强。
 Sharper Darts Description,飛鏢每支可以擊破8個氣球。
 Lots More Darts Description,一次扔12支飛鏢。
-Spy Plane Description,允許王牌猴子打擊偽裝氣球。
+Spy Plane Description,使王牌猴子能夠擊中偽裝氣球，並對它們造成更高傷害。
 Centered Path Description,新的中心飛行路徑，可使覆蓋面積最大。
 Fighter Plane Description,快速飛行並啟動反MOAB飛彈。
 Bomber Ace Description,穿過氣球路徑時丟一行炸彈。
@@ -873,7 +873,7 @@ Burny Stuff Description,每次命中可使受到傷害的氣球暫時起火。
 Shockwave Description,爆炸衝擊波可將接觸到的氣球擊暈，擊破很大範圍內的氣球，並使燃燒造成的傷害增加。
 Heavy Shells Description,重型砲彈可對陶瓷氣球，鉛氣球和所有強化氣球造成額外傷害，還可擊破黑氣球。
 Signal Flare Description,被信號彈擊破的偽裝氣球永久失去偽裝。
-The Big One Description,毀滅性爆炸可擊破5層氣球，並使燃燒造成的傷害進一步增加
+The Big One Description,毀滅性爆炸可擊破7層氣球，並使燃燒造成的傷害進一步增加
 Artillery Battery Description,火砲台升級為3個砲管，以超乎想像的速度攻擊。
 Shattering Shells Description,粉碎砲彈將去除氣球的所有特性，但是最大的氣球除外。
 The Biggest One Description,爆炸衝擊可擊破大片範圍內的氣球及氣球層，並造大量燃燒傷害。
@@ -1706,7 +1706,7 @@ Offer Ends In,優惠結束時間：
 Promo Ends In,促銷活動結束於： 
 Loot.TowerXP.Title,{0}XP
 Loot.Base.Description,x {0}
-Loot.BaseAdd.Description,{0}
+Loot.BaseAdd.Description,+ {0}
 Loot.InstaRank.Description,第{0}關
 Loot.DoubleCashMode.Title,雙倍現金模式
 Loot.FullTowerUnlock.Title,{0}全塔解鎖
@@ -2154,7 +2154,7 @@ Knowledge unlock tip,你將從30級開始獲得猴子知識點。
 Daily challenges unlock at,每日挑戰和活動在{0}級解鎖
 ,
 ,
-FriendLiNKLoginRequiredBody,需要登入帳戶才能查看 Facebook 好友的得分。 
+FriendLiNKLoginRequiredBody,需要登入帳戶才能查看好友得分。
 FriendLiNKLoginRequiredTitle,是否登入？
 FriendLiNKLoginFailed,登入Facebook失敗。請查看網際網路連線及登入信息。
 Do It,執行
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I]黑暗轉移至範圍內
 DarkChampionDarkshift,[I]黑暗轉移至任何有效位置
 SmallTowersMode,小猴子塔
 BigTowersMode,大猴子塔
-UpdatePopupTitle,更新 30！
-UpdatePopupDescription,新内容更新！\n• 挑戰新的高級地圖：沉沒的石柱\n• 歡呼吧，新的靈能術士皮膚：Psimbals！\n• 組隊地圖劃分更新：新增兩種全新的地圖劃分方式，玩家可在設定組隊游戲時選擇\n• 新增16個獎杯商店物品，包括4個新的限時出售物品，抓緊時間購買吧！\n• 新增4種猴子知識等待玩家解鎖\n• 新的成就，生活品質和平衡性修改，詳細資訊，請監視更新説明
+UpdatePopupTitle,更新 31！
+UpdatePopupDescription,新内容更新！\n• 新英雄！神秘店主Geraldo帶著他琳琅滿目的擊破氣球物品來了！\n• 新頭目！致命空中主宰Vortex猶如猛獸出籠！\n• 全新新手地圖：廢品場，在那裡享受破壞氣球的樂趣吧\n• 新增9個獎盃商店物品，包括一首新混音\n• 挑戰瀏覽器：加入最少現金和最低階特殊勝利條件，助你享受完成挑戰的樂趣\n• 新增英雄選單，進一步改善生活素質，平衡性修改，完整內容，請查看更新說明！
 ResetDailyChest,重設每日寶箱
 JukeboxName,自動唱機
 EnableFunction,啟用
@@ -3062,7 +3062,7 @@ Drone Swarm Ability Description,埃蒂安可以啟動另外4架臨時無人機�
 UCAV Ability,UCAV
 UCAV Ability Description,高緯度偵察無人機在短時間內變為毀滅性的戰鬥無人機。
 Mesa,方山
-DreadPirateBrickellAdmiralBrickellSkinName,恐怖海盜Brickell
+DreadPirateBrickellAdmiralBrickellSkinName,恐怖海盜Brickell皮膚
 DreadPirateBrickellAdmiralBrickellSkinDescription,七海女王再次啟航！
 No Insta Reward,無100回合獎勵
 GameUIProfileAvatar19Name,自訂化身-沉默的Adora
@@ -3644,7 +3644,7 @@ GameUIPowerSkinLavaLakeName,自訂化身 - 攜帶型熔岩湖
 GameUIPowerSkinLavaLakeShortName,攜帶型熔岩湖
 GameUIPowerSkinLavaLakeDescription,這裡變得越來越熱了！當心這個滾燙的池子，裡面是正在燃燒的熔岩！
 Resort,度假勝地
-ETnEtienneSkinName,Etn
+ETnEtienneSkinName,Etn皮膚
 ETnEtienneSkinDescription,帶我去見你的指揮官。
 VeteranXP,老兵經驗值
 GameUIMusicTrackMusicSailsAgain,再度啟航
@@ -3672,7 +3672,7 @@ YouFinished,你的完成時間：
 BestTime,最佳時間：
 Claim,領取
 PlayerRejoinedGame,已重新加入游戲
-PlayerKickedFromGame,已將移除遊戲
+PlayerKickedFromGame,已被移除遊戲。
 ConfirmKickPlayer,你確定要移除{0}嗎？
 Remove,移除
 MiniRacesFirstTimeTitle,迷你競速！
@@ -4138,7 +4138,7 @@ GamecenterLoginPrompt,請登入游戲中心進行存取。打開「設備」設�
 GamecenterRestrictedTitle,多人游戲存取受限
 GamecenterLoginTitle,登入游戲中心
 QuietStreet,寧靜街道
-GalaxiliEziliSkinName,星光熠熠
+GalaxiliEziliSkinName,星光熠熠皮膚
 GalaxiliEziliSkinDescription,萬物皆有太空塵埃所造
 MonkeyBuccaneer Paragon,海盜艦隊司令
 MonkeyBuccaneer Paragon Description,水面上最偉大的主宰。
@@ -4254,7 +4254,7 @@ Achievement 142 Description,在「繼續游戲」和「檢查點」上花費1000
 PetSounds,寵物聲音
 UserID,用戶ID
 SunkenColumns,沉沒石柱
-PsimbalsPsiSkinName,鐃鈸靈能術士
+PsimbalsPsiSkinName,鐃鈸靈能術士皮膚
 PsimbalsPsiSkinDescription,你準備好露兩手了嗎！？
 HeroesStrikerJonesPetGermanShepherdName,攻擊者Jones德國牧羊犬寵物
 HeroesStrikerJonesPetGermanShepherdShortName,攻擊者小狗寵物
@@ -4297,7 +4297,7 @@ GameUIPowerSkinMonkeyBoostSugarRushShortName,糖份强化
 GameUIPowerSkinMonkeyBoostSugarRushDescription,人類：衆所周知，如果攝入大量糖，我們會表現得更好。猴子：相同。
 GameUIProfileBanner10Name,塗鴉才華個人檔案橫幅
 GameUIProfileBanner10ShortName,塗鴉才華橫幅
-GameUIProfileBanner10Description,橫幅獲勝者bonbonni
+GameUIProfileBanner10Description,橫幅獲勝者chompypaw
 GameUIProfileBanner11Name,神秘死靈之書個人檔案橫幅
 GameUIProfileBanner11ShortName,神秘死靈之書橫幅
 GameUIProfileBanner11Description,橫幅獲勝者_Concilliabule_
@@ -4327,3 +4327,180 @@ FilterMisc,其他
 Blast Chain Ability,爆炸鏈
 Blast Chain Ability Description,水雷發射速度短時間内加快
 TowerSpecial,特種猴子
+Geraldo,Geraldo
+Geraldo Short Description,神秘店主
+Geraldo Description,店主Geraldo出售各種實用物品，並用他的閃電攻擊迅速消滅氣球。
+Geraldo Level 1 Description,可買到的物品！射擊塔、一堆舊釘子、恐怖神像、罐裝醃菜。Geraldo還可以使用短程魔法攻擊。
+Geraldo Level 2 Description,新物品！稀有Quincy公仔 - 保有時間越長，價值越高！
+Geraldo Level 3 Description,新物品！識破隱形藥水 - 使猴子塔或英雄在短時間內能夠偵測偽裝。Geraldo的攻擊範圍增加。
+Geraldo Level 4 Description,新物品！一管神奇膠水 - 可把它放在路徑上，減緩氣球速度。
+Geraldo Level 5 Description,新物品！磨刀石 - 提高猴子塔或英雄銳器攻擊的穿透力。
+Geraldo Level 6 Description,新物品！破舊的英雄斗篷 - 可將2階或更低階的飛鏢猴轉換成超猴！轉換的超猴只能升級到3階。
+Geraldo Level 7 Description,新物品！利刃陷阱 - 可見氣球接觸到陷阱會觸發利刃風暴。Geraldo主攻擊的傷害和穿透力增加。
+Geraldo Level 8 Description,新物品！一瓶傑瑞之火 - 280萬Bloonville單位的純辣醬！賦予猴子、英雄或僕從火焰攻擊，效果持續10回合。
+Geraldo Level 9 Description,新物品！肥料 - 使目標香蕉農場的香蕉產量大幅增加，並獲得現金獎勵，效果持續幾個回合。Geraldo主攻擊的爆炸範圍增加。
+Geraldo Level 10 Description,新物品！兔子寵物 - 噢，多可愛的小兔寶寶啊！
+Geraldo Level 11 Description,新物品！回春藥劑 - 重置所有猴子塔和英雄的技能冷卻時間，恢復50點生命。Geraldo主攻擊的穿透力增加，罐裝腌菜使猴子塔對強化氣球造成額外傷害。
+Geraldo Level 12 Description,新物品！瓶中精靈 - 召喚一個電漿驅動的精靈猴子，存在3個回合。恐怖神像現在有幾率使經過的可見MOAB級氣球陷入短暫眩暈。
+Geraldo Level 13 Description,射擊塔射速加快，造成的傷害增加，一堆舊釘子造成的傷害增加。
+Geraldo Level 14 Description,識別隱形藥劑的作用範圍增加，效果持續更久。
+Geraldo Level 15 Description,磨刀石除了增加穿透力外，現在還可以增加傷害，利刃陷阱被觸發時可產生更強大的效果。
+Geraldo Level 16 Description,一堆舊釘子升級成釘子地雷，罐裝腌菜可使猴子塔對強化氣球造成額外傷害，傑瑞之火可使作用對象造成額外的燃燒傷害。
+Geraldo Level 17 Description,Geraldo的主攻擊造成的傷害增加，神奇膠水現在可小幅降低MOAB級氣球的速度。
+Geraldo Level 18 Description,瓶中精靈獲得第二近戰攻擊，可對MOAB級氣球造成額外傷害，恐怖神像可對MOAB級氣球施放一個遮罩，如果被擊破，可對附近的氣球造成大量傷害。
+Geraldo Level 19 Description,Geraldo主攻擊的攻速加快，範圍增加，造成的傷害增加，識破隱形藥劑可使作用對象對偽裝氣球造成額外傷害。
+Geraldo Level 20 Description,新物品！典範力量圖騰 - 為下一個創建的典範增加典範力量。Geraldo的主攻擊造成的傷害增加。
+Geraldo Shop shortname,商店
+Geraldo Shop name,Geraldo的商店
+Shooty turret name,射擊塔
+Shooty turret description,一座手工建造的永久飛鏢射擊塔。
+Stack of old nails name,一堆舊釘子
+Stack of old nails description,是的，雖然只是一堆舊釘子，但把只要它們放在路徑上，就能輕鬆擊破那些離群的氣球。
+Creepy idol name,恐怖神像
+Creepy idol description,把這座看起來令人毛骨悚然的神像放在路徑旁邊，可嚇退靠近的氣球。
+Jar of Pickles name,罐裝腌菜
+Jar of Pickles description,試著對你的猴子塔使用這些罐裝腌菜，它短時間內造成的傷害會增加，但射擊速度會變慢。
+Rare Quincy action figure name,稀有Quincy公仔
+Rare Quincy action figure description,原始Quincy的限量版，Quincy公仔之子，品相完美！它的價值只會越來越高，還不趕緊買一個！
+See invisibility potion name,識破隱形藥劑
+See invisibility potion description,不管是什麼樣的猴子，只要用了這種靈丹妙藥，它就能輕鬆發現偽裝氣球！效力會逐漸衰退。
+Tube of amaz-o-glue name,一管神奇膠水
+Tube of amaz-o-glue description,真的很神奇！只要往路徑上塗上一管這種神奇膠水，接下來就會看到一連串氣球的速度降了下來。
+Sharpening stone name,磨刀石
+Sharpening stone description,朋友，磨快那些飛鏢吧！對你的飛鏢和利刃使用磨刀石，它們會變得比以往更加鋒利。
+Worn heros cape name,破舊的英雄斗篷
+Worn heros cape description,所有英雄都披著斗篷！把這件物品給你的飛鏢猴子，接下來就看著它變身吧！不過，使用條件有一點限制，只能是低階猴子，唉，辛酸啊。
+Blade trap name,利刃陷阱
+Blade trap description,把這種陷阱放在路徑上，第一個接觸它的氣球會被高速旋轉的利刃切成碎片！
+Gerrys fire hot sauce name,一瓶傑瑞之火辣醬
+Gerrys fire hot sauce description,280萬Bloonville單位。不管是誰，只要嘗一口這種特製辣醬，都得噴火！
+Fertilizer name,肥料
+Fertilizer description,你的農場里有香蕉嗎？想要更多香蕉嗎？直接把這種神奇的超強效肥料撒在你的農場，就能產出更多香蕉！
+Pet rabbit name,兔子寵物
+Pet rabbit description,有時你所需要的就是一隻超級可愛小兔兔寵物！或者幾隻！
+Rejuv potion name,回春藥劑
+Rejuv potion description,只需使用幾滴這種美味的藥劑，它的回春之力就能恢復損失的生命值，並重置技能冷卻時間。
+Genie bottle name,瓶中精靈
+Genie bottle description,這個光彩奪目的藍色瓶子中可以召喚出一個精靈猴子，不過要注意了，精靈可不會永久存在！（購買時不包括願望）。
+Paragon power totem name,典範力量圖騰
+Paragon power totem description,這件不可思議的神器可以提升下一個典範的力量…
+EventEndingSoonText,此活動即將結束，現已停止入場。
+EngineerMonkey Paragon,建造大師
+EngineerMonkey Paragon Description,猴子工程學已發展成熟。創造三個能自行建造崗哨的巨型崗哨。
+OptionsLogout,登出
+ConfirmLogout,確認登出
+ConfirmLogoutDesc,您確定要登出您的帳戶嗎？如果是的話，請在登出前記下您的帳戶詳情和連接代碼。\n\n{0}
+VortexTagLine,從天而降
+VortexTagLine2,致命空中主宰
+Vortex,Vortex
+VortexInfoPanelDescription,Vortex 移動快如閃電，並且可加快沿途其他氣球的速度！\n• 當生命值骷髏槽滿後，Vortex 可對自己施放護盾，並放出一個衝擊波，可在離開路徑前擊暈附近的防禦塔。\n• Vortex會周期性地發射出風暴脈衝，摧毀路徑上的任何非力量射彈。
+Scrapyard,廢品場
+BloonsAllBloonsCatEarName,貓耳氣球
+BloonsAllBloonsCatEarShortName,貓耳氣球
+BloonsAllBloonsCatEarDescription,貓和氣球通常都水火不容，但這次例外，堪稱完美搭配。
+BloonsAllBloonsDisguiseGlassesName,偽裝眼鏡氣球
+BloonsAllBloonsDisguiseGlassesShortName,偽裝眼鏡氣球
+BloonsAllBloonsDisguiseGlassesDescription,只有猴子才會被這種偽裝騙到。等等…
+CoopEmoteAnimationPatFlexName,Pat秀肌肉表情
+CoopEmoteAnimationPatFlexShortName,Pat秀肌肉
+CoopEmoteAnimationPatFlexDescription,體力與腦力，真是神仙組合！Pat了不起！
+CoopEmoteAnimationMindBlownName,震驚表情
+CoopEmoteAnimationMindBlownShortName,震驚
+CoopEmoteAnimationMindBlownDescription,你的搭檔做出驚人之舉時，只有使用這個表情才應景！
+GameUIProfileAvatar59Name,超猴化身
+GameUIProfileAvatar59ShortName,超猴化身
+GameUIProfileAvatar59Description,你可以從他的雙眼中感受到愛意。現在你只需要確定超猴是在看你還是他的倒影了。
+GameUIProfileAvatar60Name,攻擊者Jones化身
+GameUIProfileAvatar60ShortName,攻擊者Jones化身
+GameUIProfileAvatar60Description,攻擊者Jones前來報到！用你最喜歡的肩部發射猴子來表達必勝的信念。
+GameUIProfileBanner13Name,新來者橫幅
+GameUIProfileBanner13ShortName,新來者個人檔案橫幅
+GameUIProfileBanner13Description,橫幅獲勝者betapotata
+GameUIProfileBanner14Name,水下世界橫幅
+GameUIProfileBanner14ShortName,水下世界個人檔案橫幅
+GameUIProfileBanner14Description,橫幅獲勝者Cyliia
+GameUIMusicTrackMusicSunshineFiestaMixName,自動唱機：陽光小夜曲 - 狂歡節混音
+GameUIMusicTrackMusicSunshineFiestaMixShortName,陽光小夜曲 - 狂歡節
+GameUIMusicTrackMusicSunshineFiestaMixDescription,調高音量，盡情欣賞這首很棒的陽光小夜曲混音。
+CantSubmitEventEnded,無法提交您的得分，活動已經結束。
+CyberQuincySkinNameFull,網路Quincy
+ScientistGwendolinSkinNameFull,科學家Gwendolin
+SentaiCaptainChurchillSkinNameFull,Churchill戰隊
+BikerBonesSkinNameFull,骷髏騎手
+ObynOceanGuardianSkinNameFull,海洋衛士
+BenJamminSkinNameFull,DJ Benjammin
+SmudgeCattSkinNameFull,髒髒貓
+FustyTheSnowmanSkinNameFull,雪人Fusty
+WolfpackQuincySkinNameFull,Wolfpack Quincy
+JoanOfArcAdoraSkinNameFull,聖女Adora
+HarlegwenGwendolinSkinNameFull,瘋狂格溫
+OctoJonesStrikerJonesSkinNameFull,Octojones
+DreadPirateBrickellAdmiralBrickellSkinNameFull,恐怖海盜Brickell
+ObynMountainGuardianSkinNameFull,山脈守護者
+SushiBentoBenjaminSkinNameFull,壽司便當
+ETnEtienneSkinNameFull,ETn
+VikingSaudaSaudaSkinNameFull,海盜Sauda
+GalaxiliEziliSkinNameFull,星光熠熠
+PsimbalsPsiSkinNameFull,鐃鈸靈能術士
+Least Cash,最少現金：
+Least Tiers,最低階：
+Least Cash Used,使用的最少現金：
+Least Tiers Used,使用的最低階：
+All Tiers Used,使用的階總計
+All Cash Used,使用的現金總計
+Tiers Used,使用的階
+Cash Used,使用的現金
+No Score Set,未設定得分
+Auto,自動
+FriendScreenFriends,好友
+FriendScreenRequests,請求
+FriendScreenYourFriendCode,您的好友代碼：
+FriendScreenOnline,在線
+FriendScreenOffline,離線
+FriendScreenAccept,接受
+FriendScreenDecline,拒絕
+FriendScreenBlock,封鎖
+FriendScreenFriendText,好友在這裡顯示。與好友和家人分析您的好友代碼
+RequestDisabledText,請求已停用
+FriendScreenEnterCode,輸入好友代碼：
+FriendScreenAdd,添加
+FriendScreenSureUnfriend,您確定要刪除這位好友嗎？
+FriendScreenSureBlock,您確定要封鎖這位用戶嗎？
+SpecialConditions,特殊條件
+FriendScreenRequestText,請求在這裡顯示。與好友和家人分析您的好友代碼
+FriendScreenCodeHidden,已隱藏好友代碼
+RequestEnabledText,已啓用請求
+Least Cash No Colon,最少現金
+Least Tiers No Colon,最低階
+SpecialConditionsColon,特殊條件：
+GoalSetForCash,目標設定為{0}現金
+GoalSetForTiers,目標設定為{0}階
+ChallengeCashUsed,您使用了{0} / {1}現金
+ChallengeTiersUsed,您使用了{0} / {1}階
+ShootyTurret,射擊塔
+CreepyIdol,恐怖神像
+RareQuincyActionFigure,稀有Quincy公仔
+GenieBottle,瓶中精靈
+ParagonPowerTotem,典範力量圖騰
+FriendScreenErrorRequestFailed,好友請求失敗
+FriendScreenErrorInvalidCode,無效的朋友代碼
+FriendScreenErrorBlocked,抱歉，你想添加的玩家已封鎖了好友請求！
+FriendScreenErrorAlreadySent,您已經向此玩家發送了好友請求。
+FriendScreenErrorTooManyFriends,你的好友人數已達到上限。你可以通過移除現在的好友來騰出空間，或取消好友請求。
+MapEditor,地圖編輯器
+Jar of Pickles description level 11,在你的一個猴子塔上試試這些泡菜，它會更猛烈地撞擊，但射擊速度會慢一段時間。現在增加了對強化布隆的傷害！
+Creepy idol description level 12,將這個看起來怪異的偶像放在賽道附近，以嚇跑一些 Bloons（甚至 MOAB！）回到他們來自的地方。
+Shooty turret description level 13,一個永久性的、手工製作的飛鏢射擊砲塔。升級了！射速更快，傷害更高。
+Stack of old nails description level 13,是的，它只是一堆非常大的舊釘子，但把它們放在賽道上的任何地方，它們都會輕鬆彈出那些流浪的氣球。
+See invisibility potion description level 14,無論您用這種極其有效的靈藥送什麼猴子，都可以輕鬆看到迷彩氣球！效果會消失。現在提供更大的範圍並持續更長時間！
+Sharpening stone description level 15,把飛鏢磨快，朋友！將它應用到你的飛鏢和刀片上，它們會比以往任何時候都更鋒利並且造成更多的傷害。
+Blade trap description level 15,把它放在軌道上，看著第一個接觸它的氣球被巨大的旋轉刀片撕碎！更新更強大的模型！
+Stack of old nails description level 16,是的，它只是一個 GIANT NAIL MINE，但將它放在賽道上的任何地方，它都會輕鬆彈出那些流浪的 Bloons。
+Jar of Pickles description level 16,在你的一個猴子塔上試試這些泡菜，它會更猛烈地撞擊，但射擊速度會慢一段時間。現在對強化的 Bloons 造成的傷害增加了更多！
+Gerrys fire hot sauce description level 16,280 萬布隆維爾單位。誰嚐了這特製的醬汁，一會兒就噴火了！現在有額外的灼熱感。
+Tube of amaz-o-glue description level 17,真的很棒！在賽道上的任何地方塗抹一管這種現代奇蹟，然後觀看下一批 Bloons 甚至 MOAB 減速。
+Genie bottle description level 18,從這個明亮的藍色瓶子中召喚一隻精靈猴，但要小心，它不會永遠存在！ （購買時不包括任何願望）。現在包括對 MOAB 的額外攻擊和更多傷害。
+Creepy idol description level 18,將這個看起來怪異的偶像放在賽道附近，以嚇跑一些 Bloons 回到他們來自的地方。神秘裹屍布升級解鎖！
+See invisibility potion description level 19,無論您用這種極其有效的靈藥送什麼猴子，都可以輕鬆地看到迷彩氣球並對它們造成更大的傷害！效果會消失。
+FriendScreenSureUnBlock,您確定要取消阻止此用戶嗎？
+None,沒有
