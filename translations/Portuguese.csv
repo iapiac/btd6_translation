@@ -2160,7 +2160,7 @@ FriendLiNKLoginFailed,Falha ao se conectar ao Facebook. Verifique sua conexão c
 Do It,Faça
 Restart?,Reiniciar?
 Continue Details,Tentar novamente esta rodada com vidas e dinheiro recuperados.
-Restart Details,Tem certeza que deseja sair e reiniciar?
+Restart Details,Tem certeza que deseja reiniciar?
 Insta-Monkey!,Macacos instantâneos!
 Power!,Poder!
 Optimizing,Otimizando...
@@ -2472,7 +2472,7 @@ SlowerMoabs,Velocidade dos MOAB reduzida
 BikerBonesSkinName,Visual Ossos de Motoqueiro
 BikerBonesSkinDescription,O Deus do Sol não tem tanta fúria quanto o Ossos de Motoqueiro à solta!
 PatsPond,Lago do Pat
-InappropriateChallengeName,Use um nome de desafio menos impróprio e tente novamente
+InappropriateChallengeName,Escolha um nome de desafio mais apropriado
 DCVictoryBody,Parabéns! Você concluiu {0}!
 EditorCreateVictoryBody,Parabéns! Agora você pode compartilhar seu desafio com outros!
 EditorOlderVersion,Este desafio foi criado na versão {0} e pode não ser mais possível concluí-lo
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] para usar Teleporte Sombrio no alcance
 DarkChampionDarkshift,[I] para usar Teleporte Sombrio para qualquer local válido
 SmallTowersMode,Torres Macacos Pequenos
 BigTowersMode,Torres Macacos Grandes
-UpdatePopupTitle,Atualização 31!
-UpdatePopupDescription,"Nova atualização de conteúdo!\n• Novo herói! Geraldo, o Vendedor Místico chegou com seu incrível empório de itens estouradores de Bloons!\n • Novo chefe! Vórtice, o Mestre Mortal do Ar chegou!\n• Divirta-se destruindo Bloons no novo mapa Iniciante: Ferro-Velho\n• 9 novos itens na Loja de Troféus, incluindo um novo remix\n• Navegador de desafios: condições de vitória especiais Menos Dinheiro e Menos Níveis adicionadas para sua diversão nos desafios\n• Novo e melhorado menu de heróis, e melhorias de equilíbrio e qualidade de vida. Veja as notas da atualização para os detalhes completos!"
+UpdatePopupTitle,Atualização 32!
+UpdatePopupDescription,"Atualização épica de Territórios Contestados!\n• Novo evento imenso: Territórios Contestados - capture espaços de outras equipes para comandar os placares!\n • Equipes! Junte seus amigos e forme uma equipe invencível para conquistar o Território Contestado\n• Nova Excelência: Mestre Construtor\n• Novo visual de herói: Voidora\n• Novo mapa intermediário: Pedreira\n• Itens da loja de troféus, melhorias de qualidade de vida, mudanças de equilíbrio e muito mais!"
 ResetDailyChest,Zerar Baú Diário
 JukeboxName,Jukebox
 EnableFunction,Habilitar
@@ -2852,7 +2852,7 @@ AdmiralBrickell Level 3 Description,Táticas Navais: aumenta muito a velocidade 
 AdmiralBrickell Level 4 Description,Mais poder de estouro para Minas Marítimas.
 AdmiralBrickell Level 5 Description,"Táticas Navais aumentam o poder de estouro e permitem que Macacos afetados atinjam todos os Bloons, exceto Camuflados."
 AdmiralBrickell Level 6 Description,Aumenta o dano de Minas Aquáticas e ataques de Pistola.
-AdmiralBrickell Level 7 Description,Brickell ganha aumento no alcance dos ataques e detecção de Bloons Camuflados.
+AdmiralBrickell Level 7 Description,Sequência de Explosões: minas aquáticas disparam mais rápido por um curto período. Brickell ganha alcance de ataque aumentado e detecção de Bloons Camuflados.
 AdmiralBrickell Level 8 Description,Táticas Navais permitem que Macacos atinjam Bloons Camuflados. Torres de água no alcance ganham perfuração extra.
 AdmiralBrickell Level 9 Description,Minas Aquáticas causam dano extra.
 AdmiralBrickell Level 10 Description,Megamina: envia uma mina devastadora em qualquer área aquática que ativa em MOABs e atordoa Bloons próximos. Megaminas duram 3 rodadas.
@@ -2860,9 +2860,9 @@ AdmiralBrickell Level 11 Description,Velocidade e frequência de uso mais rápid
 AdmiralBrickell Level 12 Description,Aumenta a velocidade e o dano do ataque de Pistola e Minas Aquáticas causam mais dano.
 AdmiralBrickell Level 13 Description,Recarga da Megamina reduzida.
 AdmiralBrickell Level 14 Description,Duração das Táticas Navais aumentada.
-AdmiralBrickell Level 15 Description,"Minas Aquáticas melhoradas possuem maior explosão, podem danificar Bloons Pretos e removem Camuflagem."
+AdmiralBrickell Level 15 Description,"Minas Aquáticas melhoradas possuem maior explosão, podem danificar Bloons Pretos e removem Camuflagem. Pistola causa mais dano."
 AdmiralBrickell Level 16 Description,Alcance do ataque e da Mina Aquática aumentam levemente.
-AdmiralBrickell Level 17 Description,Minas Aquáticas causam muito dano extra.
+AdmiralBrickell Level 17 Description,Minas aquáticas causam muito mais dano. Pistola causa mais dano.
 AdmiralBrickell Level 18 Description,Recarga da Megamina reduzida ainda mais.
 AdmiralBrickell Level 19 Description,Táticas Navais afetam todas as torres aquáticas no mapa inteiro.
 AdmiralBrickell Level 20 Description,Megamina causa um enorme dano extra e atordoa por mais tempo.
@@ -4334,7 +4334,7 @@ Geraldo Level 1 Description,"Itens disponíveis! Torreta Atiradora, Punhado de P
 Geraldo Level 2 Description,Novo item! Boneco Raro do Quincy - aumenta de valor quanto mais tempo você fica com ele!
 Geraldo Level 3 Description,Novo item! Poção de Ver Invisível - concede detecção de camuflagem por um curto período a uma torre de macaco ou herói. O alcance do ataque do Geraldo aumenta.
 Geraldo Level 4 Description,Novo item! Tubo de Cola Incrível - pode ser colocado na pista para desacelerar Bloons.
-Geraldo Level 5 Description,Novo item! Pedra de Amolar - impulsiona o preço de uma torre de macaco ou herói ao causar dano afiado.
+Geraldo Level 5 Description,Novo item! Pedra de Amolar - impulsiona o preço de uma torre de macaco ou herói ao causar dano afiado. Geraldo ataca mais rápido.
 Geraldo Level 6 Description,Novo item! Capa de Herói Gasta - converte um Macaco Dardo de nível 2 ou inferior em um Supermacaco! Esses Supermacacos convertidos só podem ser melhorados até o nível 3.
 Geraldo Level 7 Description,"Novo item! Armadilha de Lâmina - quando um Bloon visível toca na armadilha, uma Tempestade de Lâminas é disparada. O ataque principal do Geraldo aumenta em dano e perfuração."
 Geraldo Level 8 Description,"Novo item! Garrafa de ""Fogo de Gerry"" - 2,8 milhões de unidades Bloonville de puro molho apimentado! Dá a um macaco, herói ou capanga um ataque de fogo por 10 rodadas."
@@ -4347,9 +4347,9 @@ Geraldo Level 14 Description,Poção de Ver Invisível concede alcance adicional
 Geraldo Level 15 Description,"Pedra de Amolar agora aumenta o dano além da perfuração, e Armadilha de Lâmina cria um efeito mais poderoso quando ativada."
 Geraldo Level 16 Description,"Punhado de Pregos Velhos se torna Mina de Pregos, Pote de Picles concede dano bônus adicional contra Bloons Fortificados e Fogo de Gerry ganha dano flamejante bônus."
 Geraldo Level 17 Description,O ataque principal do Geraldo causa mais dano e a Cola Incrível agora tem um pequeno efeito em Bloons classe MOAB.
-Geraldo Level 18 Description,"O gênio ganha um segundo ataque de curto alcance e causa dano bônus a Bloons classe MOAB, e Estátua Assustadora aplica uma Mortalha Mística em Bloons classe MOAB que causa muito dano por perto quando eles estouram."
-Geraldo Level 19 Description,"O ataque principal do Geraldo é mais rápido, tem maior alcance e causa mais dano, e a Poção de Ver Invisível ganha bônus de dano contra Bloons Camuflados."
-Geraldo Level 20 Description,Novo item! Totem de Poder de Excelência - adiciona poder de excelência à próxima unidade com excelência criada. O ataque principal do Geraldo causa mais dano.
+Geraldo Level 18 Description,"O gênio ganha um segundo ataque de curto alcance e causa dano bônus a Bloons classe MOAB. Quando Estátua Assustadora termina, ela cobre Bloons classe MOAB próximos com uma Mortalha Mística, causando dano quando estouram."
+Geraldo Level 19 Description,O ataque principal do Geraldo aumenta muito e a Poção de Ver Invisível ganha dano bônus contra Bloons Camuflados.
+Geraldo Level 20 Description,Novo item! Totem de Poder de Excelência - adiciona poder de excelência à próxima unidade com excelência criada. A loja é totalmente reestocada! O ataque principal do Geraldo causa mais dano.
 Geraldo Shop shortname,Loja
 Geraldo Shop name,Loja do Geraldo
 Shooty turret name,Torreta Atiradora
@@ -4365,9 +4365,9 @@ Rare Quincy action figure description,"Boneco de edição limitada, em perfeito 
 See invisibility potion name,Poção de Ver Invisível
 See invisibility potion description,O macaco que receber este elixir extremamente eficaz poderá ver Bloons Camuflados facilmente! O efeito passa.
 Tube of amaz-o-glue name,Tubo de Cola Incrível
-Tube of amaz-o-glue description,Realmente incrível! Aplique um pouco dessa maravilha moderna em qualquer lugar da pista e veja os próximos Bloons desacelerando.
+Tube of amaz-o-glue description,Realmente incrível! Aplique um pouco dessa maravilha moderna em qualquer lugar da pista e veja os próximos Bloons desacelerando. Dura 4 rodadas ou até usar tudo.
 Sharpening stone name,Pedra de Amolar
-Sharpening stone description,"Afie esses dardos, amigo! Aplique isso em seus dardos e lâminas e eles ficarão mais afiados do que nunca."
+Sharpening stone description,"Afie esses dardos, amigo! Aplique isso em seus dardos e lâminas e eles ficarão mais afiados do que nunca. Termina após 15 rodadas."
 Worn heros cape name,Capa de Herói Gasta
 Worn heros cape description,"Todos os heróis usam capa! Dê isso a um de seus Macacos Dardos e veja a transformação! Ligeiramente usada, apenas níveis baixos e sem muitas lágrimas."
 Blade trap name,Armadilha de Lâmina
@@ -4393,7 +4393,7 @@ ConfirmLogoutDesc,"Tem certeza que deseja sair da sua conta? Se sim, anote seus 
 VortexTagLine,Do céu vem
 VortexTagLine2,Mestre Mortal do Ar
 Vortex,Vórtice
-VortexInfoPanelDescription,"• Vórtice se move como um relâmpago e acelera outros Bloons com ele!\n• Quando cada caveira da barra de vida é alcançada, Vórtice se protege e envia uma onda de choque que atordoa torres próximas, antes de voltar para o início da pista.\n• Vórtice emite u"
+VortexInfoPanelDescription,"• Vórtice se move como um relâmpago e acelera outros Bloons com ele!\n• Quando cada caveira da barra de vida é alcançada, Vórtice se protege e envia uma onda de choque que atordoa torres próximas, antes de voltar para o início da pista.\n• Vórtice emite um pulso de tempestade regular, destruindo projéteis, incluindo qualquer que não for um poder, na pista."
 Scrapyard,Ferro-Velho
 BloonsAllBloonsCatEarName,Bloons Orelha de Gato
 BloonsAllBloonsCatEarShortName,Bloons Orelha de Gato
@@ -4482,25 +4482,512 @@ CreepyIdol,Estátua Assustadora
 RareQuincyActionFigure,Boneco Raro do Quincy
 GenieBottle,Garrafa de Gênio
 ParagonPowerTotem,Totem de Poder de Excelência
-FriendScreenErrorRequestFailed,Falha na solicitação de amizade
-FriendScreenErrorInvalidCode,Código de amigo inválido
-FriendScreenErrorBlocked,O jogador que você está tentando adicionar bloqueou pedidos de amizade. Desculpa!
-FriendScreenErrorAlreadySent,Você já enviou um pedido de amizade para esse jogador.
-FriendScreenErrorTooManyFriends,Você chegou ao seu limite máximo de amigos. Você pode liberar espaço removendo um amigo existente ou cancelando um pedido de amizade que você tiver feito.
+FriendScreenErrorRequestFailed,Pedido de amizade falhou
+FriendScreenErrorInvalidCode,Código de amizade inválido
+FriendScreenErrorBlocked,O jogador que você está tentando adicionar bloqueou pedidos de amizade. Sinto muito!
+FriendScreenErrorAlreadySent,Você já enviou um pedido de amizade para este jogador.
+FriendScreenErrorTooManyFriends,Você atingiu seu limite máximo de amigos. Você pode liberar espaço removendo um amigo existente ou cancelando solicitações de amizade feitas
 MapEditor,Editor de mapas
-Jar of Pickles description level 11,Experimente esses picles em uma de suas Monkey Towers e ela atingirá mais forte, mas atire mais devagar por um tempo. Agora com dano aumentado a Bloons fortificados!
-Creepy idol description level 12,Coloque este ídolo assustador perto da pista para assustar alguns Bloons (até mesmo MOABs!) de onde eles vieram.
-Shooty turret description level 13,Uma torre de tiro de dardo permanente e artesanal. atualizado! Dispara mais rápido e causa mais dano.
-Stack of old nails description level 13,Sim, é apenas uma pilha muito grande de pregos velhos, mas coloque-os em qualquer lugar na pista e eles facilmente estourarão os balões perdidos.
-See invisibility potion description level 14,Seja qual for o Macaco que você presentear com este elixir extremamente eficaz, poderá ver Camo Bloons com facilidade! Os efeitos vão passar. Agora dá maior alcance e dura ainda mais!
-Sharpening stone description level 15,Afie esses dardos, amigo! Aplique isso aos seus dardos e lâminas e eles ficarão mais afiados e causarão mais danos do que nunca.
-Blade trap description level 15,Coloque isso na pista e veja os primeiros Bloons a tocá-lo serem triturados pelas grandes lâminas giratórias! Novo modelo mais poderoso!
-Stack of old nails description level 16,Sim, é apenas uma MINA DE UNHAS GIGANTE, mas coloque-a em qualquer lugar na pista e ela irá facilmente estourar aqueles Bloons perdidos.
-Jar of Pickles description level 16,Experimente esses picles em uma de suas Monkey Towers e ela atingirá mais forte, mas atire mais devagar por um tempo. Agora com AINDA MAIS dano aumentado aos Bloons fortificados!
-Gerrys fire hot sauce description level 16,2,8 milhões de unidades Bloonville. Quem provar esse molho especial vai vomitar fogo por um tempo! Agora com queimação extra.
-Tube of amaz-o-glue description level 17,Verdadeiramente incrível! Aplique um tubo desta maravilha moderna em qualquer lugar da pista e veja o próximo grupo de Bloons e até MOABs desacelerarem.
-Genie bottle description level 18,Convoque um Macaco Gênio desta garrafa azul brilhante, mas cuidado, não durará para sempre! (sem desejos incluídos na compra). Ataque extra e mais danos aos MOABs agora incluídos.
-Creepy idol description level 18,Coloque este ídolo assustador perto da pista para assustar alguns Bloons de onde eles vieram. Atualização do Mystical Shroud desbloqueada!
-See invisibility potion description level 19,Seja qual for o Macaco que você presentear com este elixir extremamente eficaz, poderá ver Camo Bloons com facilidade e causar mais danos a eles! Os efeitos vão passar.
-FriendScreenSureUnBlock,Tem certeza de que deseja desbloquear este usuário?
+Jar of Pickles description level 11,"Experimente esse picles em uma das suas torres de macaco e ela vai bater mais forte, mas atirar um pouco mais lentamente, por um tempo. Agora com dano aumentado contra Bloons Fortificados!"
+Creepy idol description level 12,Coloque essa estátua horripilante perto da pista para assustar alguns Bloons (até mesmo MOABs) de volta pro lugar de onde vieram.
+Shooty turret description level 13,Uma torreta atiradora de dardos permanente feita a mão. Melhorada! Dispara mais rápido e causa mais dano.
+Stack of old nails description level 13,"Sim, é só um enorme punhado de pregos velhos, mas coloque em algum lugar da pista e eles serão muito úteis para estourar Bloons perdidos."
+See invisibility potion description level 14,O macaco que receber este elixir extremamente eficaz poderá ver Bloons Camuflados facilmente! O efeito passa. Agora dá maior alcance e dura ainda mais tempo!
+Sharpening stone description level 15,"Afie esses dardos, amigo! Aplique isso em seus dardos e lâminas e eles ficarão mais afiados e causando mais dano do que nunca."
+Blade trap description level 15,Coloque na pista e veja os primeiros Bloons que tocarem nela serem retalhados pelas grandes lâminas giratórias! Modelo novo mais poderoso!
+Stack of old nails description level 16,"Sim, é só uma MINA DE PREGOS GIGANTE, mas coloque em algum lugar da pista e ela será muito útil em estourar Bloons perdidos."
+Jar of Pickles description level 16,"Experimente esse picles em uma das suas torres de macaco e ela vai bater mais forte, mas atirar um pouco mais lentamente, por um tempo. Agora com AINDA MAIS dano aumentado contra Bloons Fortificados!"
+Gerrys fire hot sauce description level 16,"2,8 milhões de unidades Bloonville. Quem provar esse molho especial vai cuspir fogo por um tempo! Agora com fogo extra."
+Tube of amaz-o-glue description level 17,"Realmente incrível! Aplique um pouco dessa maravilha moderna em qualquer lugar da pista e veja os próximos Bloons, até mesmo MOABs, desacelerando."
+Genie bottle description level 18,"Invoca um Macaco Gênio dessa brilhante garrafa dourada, mas cuidado, ele não dura para sempre! (Nenhum desejo incluso com a compra). Agora com ataque extra e mais dano contra MOABs."
+Creepy idol description level 18,Coloque essa estátua horripilante perto da pista para assustar alguns Bloons de volta pro lugar de onde vieram. Melhoria Mortalha Mística inclusa!
+See invisibility potion description level 19,O macaco que receber este elixir extremamente eficaz poderá ver Bloons Camuflados facilmente e causar mais dano neles! O efeito passa.
+FriendScreenSureUnBlock,Tem certeza que deseja desbloquear este usuário?
 None,Nenhum
+Knowledge Requirement Monkey Money,Sem Dinheiro de Macaco suficiente. Comprar mais?
+Knowledge Requirement Points,Sem Pontos de Conhecimento suficientes.
+InviteFriend,Convidar amigo
+InvitedToJoin,{0} convidou você para um jogo cooperativo. Deseja entrar?
+HeroesMountainObynPetBalfrogName,Pet Balfrog
+HeroesMountainObynPetBalfrogShortName,Pet Balfrog
+HeroesMountainObynPetBalfrogDescription,"Vindo de escuras minas sob montanhas nebulosas, esse pequeno sapo incendeia qualquer conversa com um desejo flamejante de ser sua verdadeira chama. Apenas Obyn da Montanha."
+TowerPropMonkeyVillagePrideFlagName,Bandeira do Orgulho da Vila Macaco
+TowerPropMonkeyVillagePrideFlagShortName,Bandeira do Orgulho da Vila
+TowerPropMonkeyVillagePrideFlagDescription,Celebre a diversidade e a escolha com essa Bandeira do Orgulho mais incrível para suas Vilas Macacos. Aparece em todas as melhorias.
+CoopEmoteTextNeedMoreName,Reação Preciso de Mais!
+CoopEmoteTextNeedMoreShortName,Preciso de Mais!
+CoopEmoteTextNeedMoreDescription,"Para quando precisar de mais dinheiro, Bloons, defesas ou apenas comida. Essa reação é ótima para qualquer ocasião."
+CoopEmoteTextNeedMoreWord,Preciso de Mais!
+CoopEmoteAnimationRainbowName,Animação de Arco-Íris
+CoopEmoteAnimationRainbowShortName,Arco-Íris
+CoopEmoteAnimationRainbowDescription,Todo mundo cantando junto! Aléééém do arco-íris...
+GameUIProfileAvatar61Name,Avatar Macaco Dardo
+GameUIProfileAvatar61ShortName,Avatar Macaco Dardo
+GameUIProfileAvatar61Description,Todos saúdem o poderoso Dardo! Estourador de Bloons!
+GameUIProfileAvatar62Name,Avatar Geraldo
+GameUIProfileAvatar62ShortName,Avatar Geraldo
+GameUIProfileAvatar62Description,"Olá, amigo. Tem interesse em um coelhinho branco peludo? Ele é completamente inofensivo, não concorda?"
+GameUIProfileBanner15Name,Bandeira BTD Clássico
+GameUIProfileBanner15ShortName,Bandeira BTD Clássico
+GameUIProfileBanner15Description,Bandeira vencedora por LordTeddington
+GameUIProfileBanner16Name,Bandeira Espírito da Floresta
+GameUIProfileBanner16ShortName,Bandeira Espírito da Floresta
+GameUIProfileBanner16Description,Bandeira vencedora por tricky999tricky
+GameUIMusicTrackMusicTribesJaloonMixName,Jukebox: Tribes & Tribulations - Jaloon Remix
+GameUIMusicTrackMusicTribesJaloonMixShortName,Tribes - Jaloon
+GameUIMusicTrackMusicTribesJaloonMixDescription,Caia na pista de dança com esse remix turbinado da amada faixa Tribes & Tribulations
+Quarry,Pedreira
+VoidoraAdoraSkinName,Visual Voidora
+VoidoraAdoraSkinDescription,"Vindo do vazio, eu cheguei."
+VoidoraAdoraSkinNameFull,Voidora
+InappropriateTeamName,Escolha um nome de equipe mais apropriado
+TeamNameNotUnique,Esse nome já foi usado! Escolha outro ou tente adicionar dígitos.
+TeamNameTooShort,"O nome da equipe devem ter entre {0} e {1} caracteres,"
+SentryParagonChild,Torre Paradigmática Modificada
+LoginwithEpic,Entre com a Epic
+EnterLinkingCode,Insira um código de conexão para se conectar
+Connect,Conectar
+PrivacyPolicy,Política de Privacidade
+TermsOfService,Termos de Serviço
+ConfirmAgeInfo,"Para continuar, confirme sua idade atual. Você precisa fazer login para jogar funções online adicionais e fazer backup dos dados."
+AgeQuestion,Você tem {0} anos ou mais?
+AgeYes,"Sim, eu tenho {0} anos ou mais."
+AgeNo,"Não, eu tenho menos de {0} anos."
+PersonalAccountInfo,"Você pode criar uma conta pessoal sem usar nenhuma informação pessoalmente identificável.
+Ao escolher ""Eu concordo"", seu responsável ou guardião avaliou a Política de Privacidade e os Termos de Serviço da Ninja Kiwi com você, e concorda com a Política de Privacidade e Termos de Serviço, e com nossa capacidade de armazenar suas informações de jogo e de conta não identificáveis pessoalmente em nosso serviço, o que inclui o uso de nossos servidores localizados nos EUA."
+AgreeCreateAccount,"Eu concordo, criar uma conta"
+NormalAccountInfo,"Ao continuar, você concorda com a Política de Privacidade e os Termos de Serviço, e com nossa capacidade de armazenar suas informações de jogo e de conta em nosso serviço, o que inclui o uso de nossos servidores localizados nos EUA."
+LoggedInAs,Logado como:
+EpicAccountId,ID da Conta Epic:
+NeedHelp,Precisa de ajuda?
+ContactSupport,Falar com o suporte
+DeleteAccountText,"Apagar sua conta significa perder acesso a todos os dados e progresso salvos na nuvem.
+Insira seu ID de usuário (como visto abaixo) na caixa para apagar sua conta. Pode demorar de 48 a 72 horas para sua conta ser removida."
+EnterUserId,Insira o ID de usuário aqui
+GetAllButton,Pegar tudo
+GetAllConfirmation,Confirme que você deseja gastar seu Dinheiro de Macaco para obter todos os heróis e visuais disponíveis!
+DeleteAccount,Apagar conta
+CtLeaderboardTitle,Placares de Território Contestado
+LocalTeams,Equipes locais
+LocalPlayers,Jogadores locais
+GlobalTeams,Equipes globais
+GlobalPlayers,Jogadores globais
+CreateTeamPanelTitle,Criar equipe
+CreateTeamTitle,Criar uma equipe
+CreateTeamNameDescription,Nome da equipe:
+CreateTeamNameInputField,Insira o nome da equipe.
+CreateTeamCostDescription,Gaste {0} para comprar uma equipe
+CreateTeamFailed,Falha ao criar equipe
+EditTeamPanelTitle,Editar equipe
+EditTeamTitle,Editar sua equipe
+EditTeamNameDescription,Editar nome da equipe:
+TeamEmblemTitle,Emblema
+TeamBannerTitle,Bandeira
+TeamEmblemsTitle,Emblemas
+TeamBannersTitle,Bandeiras
+TeamGeneralTitle,Geral
+TeamSettingPublicTitle,Público
+TeamSettingPrivateTitle,Privado
+TeamSettingClosedTitle,Fechado
+TeamJoin,Entrar
+TeamApply,Candidatar-se
+RecentWin,Vitória recente:
+TileHeldBy,Título com:
+Score,Pontuação
+ScoreDegradesIn,Pontuação reduz em:
+NeutralOwnerIn,Proprietário neutro em:
+Tile,Espaço: {0}
+RelicTile,Espaço de Relíquia
+BannerTile,Espaço de Bandeira
+BonusCTPoints,Pontos de TC bônus!
+DailyRelics,Relíquias Diárias
+HeldRelics,Relíquias possuídas
+Tickets,Tickets:
+PurchaseTickets,Comprar ticket
+MoreTicketsIn,Mais tickets em:
+CTTitleName,Território Contestado
+CTTeamStore,Loja da equipe
+CTMyTeam,Minha equipe
+CTTeamTrophies,Troféus da equipe
+CTTickets,Tickets
+CTTeamTickets,Tickets de Equipe
+CTNextTicketsIn,Próximos tickets em:
+CTTileSearch,Busca de espaços
+CTOwner,Proprietário:
+CTScore,Pontuação:
+CTNeutralIn,Neutro em:
+CTPosition,Posição:
+CTUncaptured,Não capturado
+CTCheckpoint,Ponto de verificação alcançado!
+CTNewScore,Nova pontuação!
+CTBestScore,Recorde
+TimeAttack,Contra o tempo
+ERR_NOT_LOGGED_IN,Não conectado
+ERR_ALREADY_PENDING,Solicitação pendente
+ERR_FEATURE_UNAVAILABLE,Função indisponível. Tente novamente mais tarde.
+ERR_REQUEST_PARAMETER_MISSING,Parâmetro faltando
+ERR_GUILD_FULL,A equipe está cheia
+ERR_GUILD_NAME_EXISTS,O nome de equipe já existe
+ERR_GUILD_DOES_NOT_EXIST,A equipe não existe
+ERR_GUILD_CANNOT_DISBAND,A equipe não pode ser desfeita
+ERR_GUILD_PERMISSION_DENIED,Permissão negada
+ERR_GUILD_CANNOT_UPDATE_OWNER_DENIED,Incapaz de atualizar dono da equipe. Permissão negada.
+ERR_GUILD_CANNOT_UPDATE_OWNER_NONE,Incapaz de atualizar dono da equipe.
+ERR_TIMEOUT,Solicitação expirada. Tente novamente.
+CreateNewTeamText,Criar uma nova equipe?
+ParagonLimitReached,Limite de Excelência alcançado
+TeamMsgNewMayor,{0} é o novo prefeito!
+TeamMsgPlayerJoined,{0} se juntou à equipe
+TeamMsgPlayerLeft,{0} saiu da equipe
+TeamMsgPlayerKicked,{0} foi expulso da equipe por {1}.
+TeamMsgPlayerDemoted,{0} foi rebaixado por {1}.
+TeamMsgRegularTileCaptured,{0} capturou um Espaço Comum. Ótimo trabalho!
+TeamMsgBannerTileCaptured,{0} capturou um Espaço de Bandeira. Incrível!
+TeamMsgRelicTileCaptured,{0} capturou um Espaço de Relíquia e adicionou {1} à lista de relíquias da equipe. Muito bom!
+TeamMsgRegularTileCapturedOtherGuild,{0} capturou um Espaço Comum de {1}. Ótimo trabalho!
+TeamMsgBannerTileCapturedOtherGuild,{0} capturou um Espaço de Bandeira de {1}. Incrível!
+TeamMsgRelicTileCapturedOtherGuild,{0} capturou um Espaço de Relíquia de {1} e adicionou {2} à lista de relíquias da equipe. Muito bom!
+TeamMsgRelicTileLost,Espaço de Relíquia perdido! {0} não está mais disponível.
+TeamMsgPlayerPromoted,{0} foi promovido a subprefeito por {1}
+TeamMsgTeamCreated,A equipe {0} foi criada por {1}
+TeamMsgNewFocusMarker,Novo marcador de foco definido por {0}
+TeamMsgFlairUnlocked,{0} foi totalmente fundado! Esforço incrível!
+TileCaptured,Espaço capturado
+TileNotCaptured,Espaço não capturado
+TicketUsed,Ticket usado
+NoTicketUsed,Ticket não usado
+ScoreToBeat,Pontuação a superar:
+YourScore,Sua pontuação:
+PublicWithBrackets,(Público)
+PrivateWithBrackets,(Privado)
+CTRelicWon,Relíquia obtida!
+CTBonusPoints,Pontos bônus!
+Teams,Equipes
+CaptureScoreMissed,Pontuação de captura não alcançada!
+CaptureScoreNear,Aviso! Perto da pontuação de captura!
+CtInternalError,Um erro interno ocorreu. Tente novamente mais tarde.
+CtServerError,O servidor do Território Contestado não conseguiu processar sua solicitação. Tente novamente mais tarde.
+Achievement 143 Name,Território Conquistado
+Achievement 143 Description,Capture 5 espaços de outros jogadores.
+Achievement 144 Name,Estado dos Impérios
+Achievement 144 Description,Capture 50 espaços.
+Achievement 145 Name,Degustador de Territórios
+Achievement 145 Description,"Capture 1 de cada espaço: Chefe, Contra o Tempo, Menos Níveis e Menos Dinheiro"
+CTLeastCashDescription,"Use o mínimo de dinheiro possível para ganhar o espaço. Dinheiro gasto inclui posicionamento de torres de macaco e melhorias, assim como melhorias de herói pagas. Vender um macaco não reduz o dinheiro gasto."
+CTLeastTiersDescription,"Use o menor número de torres de macaco e melhorias possível para vencer cada espaço. Cada macaco e herói posicionado, e cada melhoria, conta como um nível. Melhorias de herói pagas também contam como níveis. Vender um macaco não reduz a contagem de níveis"
+CTTimeAttackDescription,"Consiga o menor tempo possível para ganhar o espaço. Baseado no evento de corrida, o relógio começa quando você apertar em jogar. Envie as próximas rodadas mais cedo para melhorar seu tempo, mas tome cuidado! Partidas de Contra o Tempo não serão salvas, e"
+CTBossDescription,"Destrua o chefe o mais rápido possível para ganhar o espaço. Baseado no evento de chefe, o relógio começa quando o chefe aparece na tela. Chefes de Território Contestado serão apenas nível 1 ou níveis 1 e 2, dependendo da contagem de rodadas de cada espaç"
+CtEventEnded,Infelizmente o evento terminou
+RelicStartingStash,Estoque Inicial
+RelicExtraEmpowered,Empoderamento Extra
+RelicBoxOfChocolates,Caixa de Chocolates
+RelicBoxOfMonkey,Caixa de Macacos
+RelicMarchingBoots,Botas de Marcha
+RelicHeroBoost,Poder de Herói
+RelicBiggerBloonSabotage,Sabotagem Bloon Maior
+RelicRoundingUp,Arredondado para Cima
+RelicManaBulwark,Baluarte de Mana
+RelicRegeneration,Regeneração
+RelicRestoration,Restauração
+RelicDurableShots,Disparos Duráveis
+RelicAlchemistTouch,Toque de Alquimista
+RelicDeepHeat,Calor Profundo
+RelicSharpsplosion,Explosão Afiada
+RelicRoyalTreatment,Tratamento Real
+RelicHardBaked,Forno Quente
+RelicFortifried,Fortifritado
+RelicMoabClash,Duelo MOAB
+RelicCamoFlogged,Divulgação Camuflada
+RelicBrokenHeart,Coração Partido
+RelicGoingTheDistance,Indo Até o Fim
+RelicHeartless,Sem Coração
+RelicFlintTips,Pontas Incendiárias
+RelicAbilitized,Habilidoso
+RelicAirAndSea,Pelo Ar e pelo Mar
+RelicElDorado,El Dorado
+RelicMonkeyShield,Escudo de Macaco
+RelicMonkeyShieldMark2,Escudo de Macaco Nv. 2
+RelicMonkeyShieldMark3,Escudo de Macaco Nv. 3
+RelicPsiVision,Visão Psíquica
+RelicOpenSeason,Temporada de Caça
+RelicCamoTrap,Armadilha de Camuflados
+RelicThrive,Prosperar
+RelicSuperMonkeyStorm,SMS
+RelicMonkeyBoost,Impulso Símio
+RelicRoadSpikes,Espinhos
+RelicMoabMine,Mina MOAB
+RelicGlueTrap,Armadilha de Cola
+RelicTechbot,Bot Tecnológico
+RelicPrimaryPrimates,Primatas Primários
+RelicMilitaryMonkeys,Macacos Militares
+RelicMagicMonkeys,Macacos Mágicos
+RelicSupportSimians,Símios de Suporte
+RelicMonkeyTycoon,Macaco Magnata
+RelicStartingStashDescription,Comece cada partida com 300 de dinheiro extra (acumula com Mais Dinheiro em Espaços Comuns).
+RelicExtraEmpoweredDescription,Seu herói começa o jogo com 3 níveis extras (acumula com Heróis Empoderados em Espaços Comuns).
+RelicBoxOfChocolatesDescription,Comece cada partida com 100 vidas extras.
+RelicBoxOfMonkeyDescription,Comece cada partida com um macaco grátis no valor de $500 ou menos para posicionamento inicial não modificado.
+RelicMarchingBootsDescription,"Em partidas de contagem restrita, dá aos jogadores +1 de contagem máxima para cada torre em seu arsenal, ou +4 de contagem máxima total por partida."
+RelicHeroBoostDescription,Heróis ganham XP 10% mais rápido em cada partida.
+RelicBiggerBloonSabotageDescription,Todos os Bloons classe MOAB surgem com 15% menos vida e se movem em 95% da velocidade.
+RelicRoundingUpDescription,Ganhe +$20 ao final de cada rodada.
+RelicManaBulwarkDescription,Cria um escudo que absorve até 50 vidas (acumula com Escudo de Mana em Espaços Comuns).
+RelicRegenerationDescription,"Restaura 10 vidas por rodada até o número de vidas inicial de cada partida, caso nenhuma vida tenha sido perdida naquela rodada."
+RelicRestorationDescription,"Restaura 20 vidas por rodada até um número de vidas inicial de +200, caso nenhuma vida tenha sido perdida naquela rodada."
+RelicDurableShotsDescription,Todos os projéteis duram +25%.
+RelicAlchemistTouchDescription,Todos os ataques podem estourar Bloons de Chumbo.
+RelicDeepHeatDescription,Todos os ataques podem estourar Bloons Brancos.
+RelicSharpsplosionDescription,Todos os ataques podem estourar Bloons Pretos.
+RelicRoyalTreatmentDescription,Todos os ataques podem estourar Bloons Roxos.
+RelicHardBakedDescription,Todos os ataques causam +1 de dano em Bloons de Cerâmica.
+RelicFortifriedDescription,Todos os ataques causam +1 de dano em Bloons Fortificados.
+RelicMoabClashDescription,Todos os ataques causam +3 de dano em Bloons classe MOAB.
+RelicCamoFloggedDescription,Todos os ataques causam +1 de dano em Bloons Camuflados.
+RelicBrokenHeartDescription,Todos os ataques causam +1 de dano em Bloons Regeneradores.
+RelicGoingTheDistanceDescription,Todos os macacos ganham alcance +10%.
+RelicHeartlessDescription,A velocidade de regeneração dos Bloons Regeneradores é reduzida em 25%.
+RelicFlintTipsDescription,Projéteis afiados adicionam fogo a todos os Bloons que danificam (1 de dano a cada 2 s por um total de 4 s).
+RelicAbilitizedDescription,Todas as recargas de habilidade ativas de todos os macacos reduzidas em 10%.
+RelicAirAndSeaDescription,"Ás, Helicóptero, Bucaneiro e Submarino têm custos de posicionamento e melhoria reduzidos em 10% e recarga melhorada em 5%."
+RelicElDoradoDescription,Todas as recompensas de Dinheiro de Macaco e Troféus de Equipe por vitórias em partidas aumenta em 25% (mínimo +1).
+RelicMonkeyShieldDescription,"Por 1 hora após a captura, o espaço não pode ser atacado por equipes adversárias. Pontuação melhorada irá reiniciar."
+RelicMonkeyShieldMark2Description,"Por 2 horas após a captura, o espaço não pode ser atacado por equipes adversárias. Pontuação melhorada irá reiniciar."
+RelicMonkeyShieldMark3Description,"Por 3 horas após a captura, o espaço não pode ser atacado por equipes adversárias. Pontuação melhorada irá reiniciar."
+RelicPsiVisionDescription,Veja os detalhes completos para todos os espaços no mapa.
+RelicOpenSeasonDescription,Ataque qualquer espaço no mapa.
+RelicCamoTrapDescription,Concede o uso de 2 poderes Armadilha de Camuflados por partida.
+RelicThriveDescription,Concede o uso de 2 poderes Prosperar por partida.
+RelicSuperMonkeyStormDescription,Concede o uso de 2 poderes SMS por partida.
+RelicMonkeyBoostDescription,Concede o uso de 3 poderes Impulso de Macaco por partida.
+RelicRoadSpikesDescription,Concede 10 instâncias de Espinhos por partida.
+RelicMoabMineDescription,Concede o uso de 1 poder Mina MOAB por partida.
+RelicGlueTrapDescription,Concede o uso de 2 poderes Armadilha de Cola por partida.
+RelicTechbotDescription,Concede o uso de 1 poder Bot Tecnológico por partida.
+RelicPrimaryPrimatesDescription,Reduz o custo de todos os macacos primários em 10%.
+RelicMilitaryMonkeysDescription,Reduz o custo de todos os macacos militares em 10%.
+RelicMagicMonkeysDescription,Reduz o custo de todos os macacos mágicos em 10%.
+RelicSupportSimiansDescription,Reduz o custo de todos os macacos de apoio em 10%.
+RelicMonkeyTycoonDescription,Ganha +1 de todas as torres de macaco no seu arsenal e seu custo base é reduzido em 5%.
+InviteToTeam,Convidar para a equipe
+TeamLeave,Sair da equipe
+Requests,Solicitações
+TeamMessagesTab,Mensagens
+TeamRosterTab,Membros
+TeamPending,Pendente
+CancelRequest,Cancelar solicitação
+TeamDisband,Desfazer equipe
+TeamCode,Código da equipe
+TeamMemberCount,{0}/{1} membros
+TeamPendingApplications,({0} pendente)
+TeamNoInfo,Nenhuma informação para exibir
+AllTeams,Todas as equipes
+TeamsAdvancedSearch,Busca avançada
+TeamInvitationDisband,Você deve desfazer sua equipe antes de aceitar um convite
+TeamInvitationAcceptWarning,Aceitar este convite removerá você da sua equipe atual
+TeamBrowserAllTeams,Todas as equipes
+TeamBrowserFriendsTeams,Equipes de amigos
+TeamBrowserTeamRequests,Solicitações
+TeamQuickJoin,Entrar rapidamente
+TeamBrowserTitle,Navegador de equipes
+TeamBrowserSearchField,Insira o nome da equipe...
+TeamBrowserSearchHideFull,Ocultar equipes cheias
+TeamBrowserSearchHidePrivate,Ocultar equipes privadas
+TeamBrowserSearchHideClosed,Ocultar equipes fechadas
+TeamEditApplyAll,Aplicar tudo
+TeamScore,Pontuação: {0}
+TeamRemoveMember,Tem certeza que deseja remover este membro?
+TeamPromoteMember,Tem certeza que deseja promover este membro?
+TeamDemoteMember,Tem certeza que deseja rebaixar este membro?
+TeamErrorShowPop,Erro na equipe
+TeamOwnershipTransferTitle,Transferência de liderança de equipe
+TeamOwnershipTransferFailed,Falha ao transferir liderança para outro jogador
+TeamOwnershipTransferWarning,Tem certeza que deseja transferir a liderança da equipe para esse membro? Isso não pode ser desfeito!
+TeamLeaveConfirm,Tem certeza que deseja sair da equipe?
+TeamDisbandConfirm,Tem certeza que deseja desfazer a equipe?
+TeamOwnershipLeavingWarning,Transfira a liderança da equipe para outro membro antes de sair
+TeamNoneFound,Equipe não encontrada
+CTLocal,TC Local
+CTGlobal,TC Global
+Rank4th,4º
+Rank4thAnd,4º-10º
+Rank11thAnd,11º-20º
+Rank21stAnd,21º-40º
+Rank41stAnd,41º-60º
+RewardsTop25,Melhores 25
+RewardsTop100,Melhores 100
+DegradedScore,Pontuação reduzida
+ERR_INVITATION_NO_LONGER_EXISTS,O convite não existe mais
+TeamMateSetScore,Um membro da equipe definiu uma nova pontuação a superar!
+AnotherTeamSetScore,Outra equipe definiu uma nova pontuação a superar!
+FriendScreenErrorTeamInviteAlreadyMember,Este jogador já está na sua equipe
+TotalTeamScore,Pontuação da equipe
+CTRulesInfo,"Boas-vindas aos Territórios Contestados! Trabalhe em conjunto com sua equipe, capture espaços, suba nos placares e ganhe grandes recompensas!\n\n• Tickets de captura são usados apenas se você capturar um espaço. Eles recarregam a cada 24 horas.\n• Tickets de captura não usados vão para um estoque de tickets que pode ser usado por outros membros da equipe no dia seguinte.\n• Uma vez capturado, pontuações de espaços reduzirão lentamente com o tempo, até que o espaço se torne neutro após 24 horas.\n• Pontos de TC são obtidos ao capturar um espaço e a cada hora que você continua com um espaço. Pontos de TC decidem sua posição e a de sua equipe nos placares, então capture espaços sempre que puder!\n• Espaços de Bandeira são mais difíceis, mas dão muito mais Pontos de TC.\n• Espaços de Relíquia dão à sua equipe acesso a poderosos conhecimentos de relíquia que ajudarão você ao capturar espaços.\n• O progresso de espaços é salvo a cada 20 rodadas e você só pode ter um jogo salvo em andamento por vez.\n• Vote em quais relíquias você gosta mais na loja de troféu de equipe e depois escolha quais relíquias específicas levar na batalha na página pré-jogo."
+TeamTrophyStoreRulesInfo,"Esta é a loja de troféus da equipe, onde você pode votar em relíquias de TC liberadas, dar fundos para poderes diários, relíquias de evento e estilo da equipe.\n• Poderes diários ficam disponíveis para liberar a cada dia durante o evento de TC e uma vez que os fundos alcancem o necessário, podem ser usados pela equipe inteira naquele dia.\n• Relíquias de evento ficam disponíveis ao longo do evento de TC e quando os fundos alcançarem o necessário, podem ser utilizadas pelo resto do evento. Elas são separadas das relíquias liberadas pelos Espaços de Relíquia.\n• Capture Espaços de Relíquia e depois vote em seus conhecimentos de relíquia preferidos liberados neste evento. As 7 relíquias mais votadas ficarão disponíveis para escolha em seu arsenal final de 4 relíquias.\n• Estilo da equipe recebe fundos da equipe inteira, e uma vez que o valor seja alcançado, é liberado permanentemente para a sua equipe. Jogadores saindo da equipe não levam o estilo da equipe com eles."
+TeamsBanner1Name,Bandeira Macacos no Espaço
+TeamsBanner2Name,Bandeira Heróis Aliados
+TeamsBanner3Name,Bandeira Alegria
+TeamsBanner4Name,Bandeira Céu de Shurikens
+TeamsBanner5Name,Bandeira Macacos Unidos
+TeamsBanner6Name,Bandeira Reino Contestado
+TeamsBanner1ShortName,Bandeira Macacos no Espaço
+TeamsBanner2ShortName,Bandeira Heróis Aliados
+TeamsBanner3ShortName,Bandeira Alegria
+TeamsBanner4ShortName,Bandeira Céu de Shurikens
+TeamsBanner5ShortName,Bandeira Macacos Unidos
+TeamsBanner6ShortName,Bandeira Reino Contestado
+TeamsBanner1Description,Você também está vendo aquele cacho de bananas gigante flutuando?!
+TeamsBanner2Description,"Pela união dos seus poderes, é hora da equipe de super-heróis!"
+TeamsBanner3Description,Macacos felizes são macacos produtivos.
+TeamsBanner4Description,Vamos cobrir o sol com nossos shurikens!
+TeamsBanner5Description,Macacos juntos fortes.
+TeamsBanner6Description,Domine todas as outras equipes de macacos com essa incrível bandeira de TC.
+TeamsEmblemFrame5Name,Moldura de Floco de Neve
+TeamsEmblemFrame6Name,Moldura de Fogo
+TeamsEmblemFrame7Name,Moldura Mágica
+TeamsEmblemFrame8Name,Moldura de Floresta
+TeamsEmblemFrame9Name,Moldura de Engenheiro
+TeamsEmblemFrame5ShortName,Moldura de Floco de Neve
+TeamsEmblemFrame6ShortName,Moldura de Fogo
+TeamsEmblemFrame7ShortName,Moldura Mágica
+TeamsEmblemFrame8ShortName,Moldura de Floresta
+TeamsEmblemFrame9ShortName,Moldura de Engenheiro
+TeamsEmblemFrame5Description,Uma moldura muito legal para uma equipe séria e fria.
+TeamsEmblemFrame6Description,Hora de incendiar seus adversários!
+TeamsEmblemFrame7Description,Uma moldura mágica e mística.
+TeamsEmblemFrame8Description,Faça sua equipe se destacar do resto com essa moldura natural descolada.
+TeamsEmblemFrame9Description,"Planejamento, medidas e execução cuidadosos são essenciais para a vitória!"
+TeamsEmblemIcon5Name,Ícone Caveira
+TeamsEmblemIcon6Name,Ícone Assassino de MOAB
+TeamsEmblemIcon7Name,Ícone Shuriken
+TeamsEmblemIcon8Name,Ícone Poção Alquímica
+TeamsEmblemIcon5ShortName,Ícone Caveira
+TeamsEmblemIcon6ShortName,Ícone Assassino de MOAB
+TeamsEmblemIcon7ShortName,Ícone Shuriken
+TeamsEmblemIcon8ShortName,Ícone Poção Alquímica
+TeamsEmblemIcon5Description,"Atenção, meus caros! Naveguem e saqueiem territórios!"
+TeamsEmblemIcon6Description,Causem medo nos corações de MOABs por todo lado.
+TeamsEmblemIcon7Description,Atacantes silenciosos porém mortais são a marca de equipes com este ícone.
+TeamsEmblemIcon8Description,Cause uma tempestade com este incrível ícone de equipe.
+TeamsEmblemIcon9Name,Ícone Fogo da Gwen
+TeamsEmblemIcon9ShortName,Ícone Fogo da Gwen
+TeamsEmblemIcon9Description,"Este é o ícone de equipe da Gwen. Não deveria ser uma surpresa a essa altura, não é? É fogo."
+TeamsEmblemIcon10Name,Ícone Flechas do Quincy
+TeamsEmblemIcon10ShortName,Ícone Flechas do Quincy
+TeamsEmblemIcon10Description,"As flechas teleguiadas patenteadas do Quincy, agora em formato icônico!"
+TeamsEmblemIcon11Name,Ícone Árvore do Obyn
+TeamsEmblemIcon11ShortName,Ícone Árvore do Obyn
+TeamsEmblemIcon11Description,Veja a floresta E as árvores com este ícone ecológico.
+TeamsEmblemIcon12Name,Ícone Ossos de Motoqueiro
+TeamsEmblemIcon12ShortName,Ícone Ossos de Motoqueiro Joinha
+TeamsEmblemIcon12Description,O sujeito dos ossos flamejantes aprova sua equipe épica!
+BuildingPropWizardTowerName,Construção Torre do Feiticeiro
+BuildingPropLighthouseName,Construção Farol
+FlyingPropPhoenixName,Fênix Voadora
+FlyingPropMiniAceName,Mini-Ás Voador
+WaterPropKrakenName,Kraken
+WaterPropMiniSubName,Mini-Sub
+BasePropKingName,Rei Macaco
+BasePropLighthouseKeeperName,Faroleiro
+BasePropCrashedMoabName,MOAB Naufragado
+BasePropTrainingDummyName,Boneco de Treinamento
+BasePropCampfireName,Fogueira Aconchegante
+BasePropTotemName,Totem Tribal
+BasePropSatelliteName,Veículo de Satélite Móvel
+BasePropTortoiseName,Tartaruga Tribal
+BasePropBattleMonkeyName,Macaco de Batalha
+BuildingPropBattleTowerName,Construção Torre Básica
+BuildingPropWizardTowerShortName,Construção Torre do Feiticeiro
+BuildingPropLighthouseShortName,Construção Farol
+FlyingPropPhoenixShortName,Fênix Voadora
+FlyingPropMiniAceShortName,Mini-Ás Voador
+WaterPropKrakenShortName,Kraken
+WaterPropMiniSubShortName,Mini-Sub
+BasePropKingShortName,Rei Macaco
+BasePropLighthouseKeeperShortName,Faroleiro
+BasePropCrashedMoabShortName,MOAB Naufragado
+BasePropTrainingDummyShortName,Boneco de Treinamento
+BasePropCampfireShortName,Fogueira Aconchegante
+BasePropTotemShortName,Totem Tribal
+BasePropSatelliteShortName,Veículo de Satélite Móvel
+BasePropTortoiseShortName,Tartaruga Tribal
+BasePropBattleMonkeyShortName,Macaco de Batalha
+BuildingPropBattleTowerShortName,Construção Torre Básica
+BuildingPropWizardTowerDescription,Uma aventura mágica aguarda qualquer equipe capaz de bancar essa base mística.
+BuildingPropLighthouseDescription,Ilumine o caminho para sua equipe inteira com essa base principal bem iluminada.
+FlyingPropPhoenixDescription,"Todo mundo se pergunta se é mesmo um Macaco Mago lá em cima, mas alguém já pensou que talvez todos os Macacos Magos sejam só Fênixes esperando pra renascer?"
+FlyingPropMiniAceDescription,Deixe o Macaco Ás vigiar os céus para sua equipe com esse adorável Mini-Ás.
+WaterPropKrakenDescription,Libere o Kraken! Domine as ondas com essa criatura marinha gigante surpreendentemente fofa.
+WaterPropMiniSubDescription,Levantar periscópios! Vasculhe a área com o Mini-Sub.
+BasePropKingDescription,"Dê boas-vindas ao novo macaco... Digo, Território Contestado! Esse território está disponível e infestado de Bloons! Estoure-os e garanta esse território para sua equipe."
+BasePropLighthouseKeeperDescription,Este sábio macaco cuida do farol e está sempre de olho em navios passando à noite.
+BasePropCrashedMoabDescription,"Uma equipe de macacos cientistas já vasculharam esses destroços em busca de algo útil, então agora ele só fica ali como aviso para outros Bloons."
+BasePropTrainingDummyDescription,"Mantenha todos os seus Macacos Dardos atentos com um boneco de treinamento 100% reutilizável, certificado pelo Dr. Macaco."
+BasePropCampfireDescription,Mantenha sua equipe aquecida nas noites frias ou conte histórias assustadoras sobre Territórios Contestados de antigamente ao lado da fogueira.
+BasePropTotemDescription,Proteja suas fronteiras com esse medonho totem tribal.
+BasePropSatelliteDescription,"Envie informação diretamente do espaço para este veículo de satélite móvel, pronto pra seguir!"
+BasePropTortoiseDescription,"Não pergunte se ele tem algum parente tribal, especialmente não tartarugas!"
+BasePropBattleMonkeyDescription,"Macaco de Território Contestado, pronto pra ação!"
+BuildingPropBattleTowerDescription,Toda aventura em um Território Contestado requer uma base sólida.
+Neutral,Neutro
+TilesCaptured,Espaços capturados:
+CTPointsEarnt,Pontos de TC obtidos:
+TeamTrophiesEarnt,Troféus de equipe obtidos:
+RelicsUnlocked,Relíquias liberadas:
+EventEnded,Evento encerrado
+NextEventIn,Próximo evento em:
+SecondsAgo,segundos atrás
+1MinuteAgo,1 minuto atrás
+MinutesAgo,{0} minutos atrás
+1HourAgo,1 hora atrás
+HoursAgo,{0} horas atrás
+1DayAgo,1 dia atrás
+XDaysAgo,{0} dias atrás
+TeamSettingDisbandedTitle,Desfeito
+Incoming,Entrada
+Outgoing,Saída
+RoundsCount,Rodadas: {0}
+Relics,Relíquias
+TeamFlair,Estilo da Equipe
+RefreshesIn,Atualiza em: {0}
+DailyPower,Poder Diário
+EventRelic1,Relíquia de Evento 1
+EventRelic2,Relíquia de Evento 2
+EventRelic3,Relíquia de Evento 3
+Vote,Votar
+InventoryEmpty,Inventário vazio
+Blocked,Bloqueado
+ShowOnlineStatus,Mostrar status online
+Invisible,Invisível
+NexusTitle,Apoio ao criador
+NexusDescription,"Apoie seu criador preferido de Bloons TD 6 inserindo o código de criador dele aqui. Qualquer compra feita no jogo irá apoiar aquele criador, assim como a equipe de desenvolvedores da Ninja Kiwi!"
+TimeAttackPowersDisabled,Poderes são desabilitados no modo Contra o Tempo.
+Funded,Fundos alcançados
+UnlocksIn,Libera em: {0}
+TimeRemaining,Tempo restante: {0}
+TeamInviteAlreadySent,Convite da equipe já foi enviado
+Captured,Capturado!
+DisabledFriendInvites,Este jogador desabilitou os convites de amizade
+ItemFunded,Fundos do item alcançados!
+Now,Agora
+Players,Jogadores
+LocalRewards,Recompensas locais
+GlobalRewards,Recompensas globais
+RewardsTop10,10 melhores
+RewardsTop20,20 melhores
+RewardsTop40,40 melhores
+RewardsTop60,60 melhores
+RewardsTopX,{0} melhores
+Rank5th,5º
+Rank6th,6º
+TeamName,Nome do time
+CTPoints,Pontos CT
+Contribute,Contribuir
+ContributeTrophies,Contribuir com troféus
+ColorblindEnabled,Modo daltônico ativado!
+ColorblindDisabled,Modo daltônico desativado
+Local,Local
+KickPending,Remoção pendente
+SentryParagonGreen,Paragon Sentinela Verde
+SentryParagonRed,Paragon da Sentinela Vermelha
+SentryParagonBlue,Paragon Sentinela Azul
+TeamManagement,Gerenciamento de equipe

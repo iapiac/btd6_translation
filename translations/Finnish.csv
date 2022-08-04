@@ -2160,7 +2160,7 @@ FriendLiNKLoginFailed,Facebook-kirjautuminen epäonnistui. Tarkista internetyhte
 Do It,Tee se
 Restart?,Aloitetaanko alusta?
 Continue Details,Yritä tätä kierrosta täydennetyillä elämillä ja rahoilla.
-Restart Details,Haluatko varmasti lopettaa ja aloittaa alusta?
+Restart Details,Haluatko varmasti aloittaa alusta?
 Insta-Monkey!,Välitön apina!
 Power!,Voima!
 Optimizing,Optimoidaan...
@@ -2472,7 +2472,7 @@ SlowerMoabs,MOAB-nopeutta vähennetty
 BikerBonesSkinName,Prätkä-Bones-ulkoasu
 BikerBonesSkinDescription,"Aurinkojumalakin lakoaa, kun Prätkä-Bones innostuu!"
 PatsPond,Patin lammikko
-InappropriateChallengeName,Käytä sopivampaa nimeä haasteelle ja yritä uudelleen
+InappropriateChallengeName,Valitse soveliaampi nimi haasteelle
 DCVictoryBody,Onnittelut! Suoritit: {0}!
 EditorCreateVictoryBody,Onnittelut! Voit nyt jakaa haasteesi muille.
 EditorOlderVersion,Tämä haaste on luotu versiolla {0} eikä sitä ole välttämättä enää mahdollista läpäistä
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] synkkäsiirtyäksesi alueella
 DarkChampionDarkshift,[I] synkkäsiirtyäksesi mihin tahansa kelvolliseen sijaintiin
 SmallTowersMode,Pienet apinatornit
 BigTowersMode,Suuret apinatornit
-UpdatePopupTitle,Päivitys 31!
-UpdatePopupDescription,"Uusi sisältöpäivitys!\n• Uusi sankari! Mystinen kauppias Geraldo on saapunut ja tuonut mukanaan mahtavan kauppansa täynnä blooneja poksauttavia esineitä!\n• Uusi pomo! Vortex, Ilman tappava mestari on vapautettu!\n• Pidä hauskaa tuhotessasi blooneja uudella aloittelijatason kartalla: Romuttamo\n• 9 uutta pokaalikaupan esinettä, mukaan lukien uusi remix\n• Haasteselain: Pulmahaasteiden nauttimiseen on lisätty erityiset voittoehdot vähiten käteistä ja vähiten tasoja\n• Sankarivalikko on uusittu ja parannettu, minkä lisäksi on tehty muita elämänlaatua parantavia muutoksia ja tasapainotuksia. Katso päivitystiedoista tarkemmat tiedot!"
+UpdatePopupTitle,Päivitys 32!
+UpdatePopupDescription,"Eeppinen Kilpaillut territoriot -päivitys!\n• Jättimäinen uusi tapahtuma: Kilpaillut territoriot – valtaa ruutuja muilta ryhmiltä ja hallitse pistetaulukkoa!\n• Ryhmiä! Ota ystäväsi mukaan, muodostakaa pysäyttämätön ryhmä ja vallatkaa Kilpaillut territoriot\n• Uusi perikuva: Mestarirakentaja\n• Uusi sankarin ulkoasu: Voidora\n• Uusi keskitason kartta: Louhos\n• Uusia esineitä pokaalikauppaan, peliä parantavia korjauksia, tasapainotuksia ja paljon muuta!"
 ResetDailyChest,Nollaa päivittäinen arkku
 JukeboxName,Jukeboksi
 EnableFunction,Ota käyttöön
@@ -2852,7 +2852,7 @@ AdmiralBrickell Level 3 Description,Laivastotaktiikat:  parantaa Brickellin ja l
 AdmiralBrickell Level 4 Description,Lisää poksautusvoimaa merimiinoihin.
 AdmiralBrickell Level 5 Description,Laivastotaktiikat parantavat poksautustehoa ja mahdollistavat vaikutuksen alaisten apinoiden osuvan kaikkiin blooneihin paitsi maastokuvioituihin.
 AdmiralBrickell Level 6 Description,Kasvattaa merimiinojen ja pistoolihyökkäysten vahinkoa.
-AdmiralBrickell Level 7 Description,Brickell saa hyökkäykselle suuremman kantaman ja maastokuvioitujen bloonien tunnistuksen.
+AdmiralBrickell Level 7 Description,"Ketjureaktio: Merimiinat räjähtävät nopeammin hetken aikaa. Brickellin hyökkäyksen kantama on suurempi, ja hän näkee maastokuvioidut bloonit."
 AdmiralBrickell Level 8 Description,Laivastotaktiikat mahdollistavat vaikutuksen alaisten apinoiden osumisen maastokuvioituihin blooneihin. Vaikutusalueella olevat vesitornit saavat lävistykseen lisätehoa.
 AdmiralBrickell Level 9 Description,Merimiinat tekevät lisävahinkoa.
 AdmiralBrickell Level 10 Description,"Megamiina: jättää minne tahansa vesialueelle tuhovoimaisen miinan, joka räjähtää MOAB-kosketuksesta ja tyrmää lähellä olevat bloonit. Megamiinat kestävät 3 kierrosta."
@@ -2860,9 +2860,9 @@ AdmiralBrickell Level 11 Description,Nopeampi jättönopeus ja jättötahti meri
 AdmiralBrickell Level 12 Description,"Pistoolihyökkäykset ovat nopeampia ja tekevät enemmän vahinkoa, merimiinat tekevät enemmän vahinkoa."
 AdmiralBrickell Level 13 Description,Megamiinan palautumisaika on lyhyempi.
 AdmiralBrickell Level 14 Description,Laivastotaktiikoiden kesto on pidempi.
-AdmiralBrickell Level 15 Description,"Parannetuilla merimiinoilla on suurempi räjähdys, ne vahingoittavat mustia blooneja ja poistavat maastokuvioinnin."
+AdmiralBrickell Level 15 Description,"Parannetuilla merimiinoilla on suurempi räjähdys, ne vahingoittavat mustia blooneja ja poistavat maastokuvioinnin. Pistoolit tekevät enemmän vahinkoa."
 AdmiralBrickell Level 16 Description,Hyökkäyksen ja merimiinojen jättökantama on hieman suurempi.
-AdmiralBrickell Level 17 Description,Merimiinat tekevät huomattavasti lisävahinkoa.
+AdmiralBrickell Level 17 Description,Merimiinat tekevät huomattavasti enemmän vahinkoa. Pistoolit tekevät enemmän vahinkoa.
 AdmiralBrickell Level 18 Description,Megamiinan palautumisaika on vieläkin lyhyempi.
 AdmiralBrickell Level 19 Description,Laivastotaktiikat vaikuttavat kaikkiin vesipohjaisiin torneihin.
 AdmiralBrickell Level 20 Description,Megamiina tekee massiivisesti enemmän vahinkoa ja tyrmää pidemmäksi aikaa.
@@ -4334,7 +4334,7 @@ Geraldo Level 1 Description,"Esineitä saatavilla! Amputorni, kasa vanhoja naulo
 Geraldo Level 2 Description,Uusi esine! Harvinainen Quincy-toimintafiguuri – kasvattaa arvoaan mitä pidempään sen omistat!
 Geraldo Level 3 Description,Uusi esine! Näe näkymättömät -taikajuoma – antaa väliaikaisen maastokuvioinnin tunnistamisen apinatornille tai sankarille. Geraldon hyökkäyskantama kasvaa.
 Geraldo Level 4 Description,Uusi esine! Mahtiliimaputkilo – voidaan asettaa radalle hidastamaan blooneja.
-Geraldo Level 5 Description,Uusi esine! Teroituskivi – tehostaa apinatornin tai sankarin läpäisyä terävää vahinkoa tehdessä.
+Geraldo Level 5 Description,Uusi esine! Hiomakivi – tehostaa apinatornin tai sankarin terävien ammusten lävistystehoa. Geraldo hyökkää nopeammin.
 Geraldo Level 6 Description,Uusi esine! Kulunut sankarin viitta – muuttaa korkeintaan tason 2 tikka-apinan superapinaksi! Nämä muunnetut superapinat voi päivittää vain tasolle 3.
 Geraldo Level 7 Description,"Uusi esine! Teräansa – kun näkyvä blooni koskettaa ansaa, terämyrsky laukeaa. Geraldon päähyökkäys saa lisää vahinkoa ja läpäisyä."
 Geraldo Level 8 Description,"Uusi esine! Pullollinen Gerryn tulta – 2,8 miljoonaa bloonvillen yksikköä puhdasta tulisuutta! Antaa apinalle, sankarille tai kätyrille tulisen hyökkäyksen 10 kierrokseksi."
@@ -4347,9 +4347,9 @@ Geraldo Level 14 Description,Näe näkymättömät -taikajuoma antaa lisäkantam
 Geraldo Level 15 Description,"Teroituskivi lisää nyt vahinkoa läpäisyn lisäksi ja teräansa luo tehokkaamman vaikutuksen, kun se laukeaa."
 Geraldo Level 16 Description,"Kasa vanhoja nauloja muuttuu naulamiinaksi, pikkelssipurkki antaa lisää bonusvahinkoa vahvistettuja blooneja vastaan ja Gerryn tuli saa bonuspalovahinkoa."
 Geraldo Level 17 Description,Geraldon päähyökkäys tekee enemmän vahinkoa ja mahtiliimaputkilo vaikuttaa hieman MOAB-luokan blooneihin.
-Geraldo Level 18 Description,"Henki saa toisen lyhyen kantaman hyökkäyksen ja tekee bonusvahinkoa MOAB-luokan blooneja vastaan, ja karmiva idoli käyttää MOAB-luokan blooneihin mystistä käärinliinaa, joka tekee paljon vahinkoa lähellä, kun ne poksautetaan."
-Geraldo Level 19 Description,"Geraldon päähyökkäys on nopeampi, pidemmällä kantamalla ja tekee enemmän vahinkoa, ja näe näkymättömät -taikajuoma antaa bonusvahinkoa maastokuvioituja blooneja vastaan."
-Geraldo Level 20 Description,Uusi esine! Esikuva-voimatoteemi – lisää esikuvan tehoa seuraavalle luodulle esikuvalle. Geraldon päähyökkäys tekee enemmän vahinkoa.
+Geraldo Level 18 Description,"Henki saa toisen lähihyökkäyksen ja tekee lisävahinkoa MOAB-luokan blooneille. Kun karmivan idolin vaikutus lakkaa, se peittää kaikki MOAB-luokan bloonit salaperäisen harson alle, joka tekee poksautettaessa vahinkoa."
+Geraldo Level 19 Description,Geraldon päähyökkäys on huomattavasti vahvempi ja Näe näkymätön -taikajuoma tekee lisävahinkoa maastokuvioiduille blooneille.
+Geraldo Level 20 Description,Uusi esine! Perikuvan voima -toteemi – antaa perikuvan voiman seuraavalle luodulle perikuvalle. Kaupan varastot täydennetään kokonaan! Geraldon päähyökkäys tekee enemmän vahinkoa.
 Geraldo Shop shortname,Kauppa
 Geraldo Shop name,Geraldon kauppa
 Shooty turret name,Amputorni
@@ -4365,9 +4365,9 @@ Rare Quincy action figure description,"Rajatun erän huippukuntoinen alkuperäin
 See invisibility potion name,Näe näkymättömät -taikajuoma
 See invisibility potion description,"Mille apinalle annatkin tämän tehokkaan eliksiirin, se pystyy näkemään maastokuvioidut bloonit helposti! Tehosteet kuluvat pois."
 Tube of amaz-o-glue name,Mahtiliimaputkilo
-Tube of amaz-o-glue description,"Mahtavaa! Käytä putkilollinen tätä nykyaikaista ihmettä radalle, niin voit katsoa kuinka seuraavat bloonit hidastuvat."
+Tube of amaz-o-glue description,"Ällistyttävää! Lisää tuubillinen tätä nykyaikaista ihmeainetta minne tahansa radan varrelle ja seuraa, miten seuraava joukko blooneja hidastuu silmiesi edessä. Kestää 4 kierroksen ajan tai kunnes se on kulunut loppuun."
 Sharpening stone name,Teroituskivi
-Sharpening stone description,"Teroita tikkojasi! Käytä tätä tikkoihisi ja teriisi, niin ne ovat terävämpiä kuin koskaan."
+Sharpening stone description,"Teroita tikat, ystäväiseni! Käytä tätä tikkoihin ja teräaseisiin, jolloin niistä tulee terävämpiä kuin koskaan aiemmin. Kuluu loppuun 15 kierroksen jälkeen."
 Worn heros cape name,Kulunut sankarin viitta
 Worn heros cape description,"Kaikki sankarit käyttävät viittaa! Anna tämä yhdelle tikka-apinoistasi, niin näet muutoksen! Hieman käytetty, vähän heikkotasoinen."
 Blade trap name,Teräansa
@@ -4393,7 +4393,7 @@ ConfirmLogoutDesc,"Haluatko varmasti kirjautua ulos tililtäsi? Jos teet niin, k
 VortexTagLine,Taivaalta saapuu
 VortexTagLine2,Ilman tappava mestari
 Vortex,Vortex
-VortexInfoPanelDescription,"• Vortex liikkuu salamannopeudella ja nopeuttaa muita blooneja mukanaan!\n• Aina kun terveyspalkin pääkallo saavutetaan, Vortex suojaa itsensä ja lähettää sokkiaallon, joka tyrmää läheiset tornit, ennen kuin se pakenee rataa pitkin.\n• Vortex lähettää sää"
+VortexInfoPanelDescription,"• Vortex liikkuu salamannopeudella ja nopeuttaa muita blooneja mukanaan!\n• Aina kun terveyspalkin pääkallo saavutetaan, Vortex suojaa itsensä ja lähettää sokkiaallon, joka tyrmää läheiset tornit, ennen kuin se pakenee rataa pitkin.\n• Vortex lähettää säännöllisiä myrskypulsseja, jotka tuhoavat projektiileja, mukaan lukien radalla olevat muut asiat kuin voimat."
 Scrapyard,Romuttamo
 BloonsAllBloonsCatEarName,Kissankorvabloonit
 BloonsAllBloonsCatEarShortName,Kissankorvabloonit
@@ -4477,30 +4477,517 @@ GoalSetForCash,Tavoite on {0} käteistä
 GoalSetForTiers,Tavoite on {0} tasoa
 ChallengeCashUsed,Olet käyttänyt {0} / {1} käteistä
 ChallengeTiersUsed,Olet käyttänyt {0} / {1} tasoa
-ShootyTurret,Amputorni
+ShootyTurret,Paukkutykki
 CreepyIdol,Karmiva idoli
 RareQuincyActionFigure,Harvinainen Quincy-toimintafiguuri
-GenieBottle,Pullon henki
-ParagonPowerTotem,Esikuvan voimatoteemi
-FriendScreenErrorRequestFailed,Ystäväpyyntö epäonnistui
-FriendScreenErrorInvalidCode,Virheellinen ystäväkoodi
-FriendScreenErrorBlocked,Pelaaja, jota yrität lisätä, on ikävä kyllä estänyt kaveripyynnöt.
-FriendScreenErrorAlreadySent,Olet jo lähettänyt kaveripyynnön tälle pelaajalle.
-FriendScreenErrorTooManyFriends,Olet saavuttanut kaverien maksimimäärän. Voit tehdä tilaa poistamalla nykyisen kaverin tai perumalla tekemäsi kaveripyynnön.
+GenieBottle,Taikalamppu
+ParagonPowerTotem,Perikuvan voima -toteemi
+FriendScreenErrorRequestFailed,Kaveripyyntö epäonnistui
+FriendScreenErrorInvalidCode,Kaverikoodi ei kelpaa
+FriendScreenErrorBlocked,"Pelaaja, jota yrität lisätä, on ikävä kyllä estänyt kaveripyynnöt."
+FriendScreenErrorAlreadySent,Olet jo lähettänyt kaveripyynnön tälle pelaajalle
+FriendScreenErrorTooManyFriends,Olet saavuttanut kaverien maksimimäärän. Voit tehdä tilaa poistamalla jonkun nykyisen kaverisi tai perumalla tekemäsi kaveripyynnön
 MapEditor,Karttaeditori
-Jar of Pickles description level 11,Kokeile näitä suolakurkkuja yhdellä Monkey Towersistasi, niin se iskee kovemmin, mutta ammu hitaammin jonkin aikaa. Nyt vahvistetuille Blooneille lisääntynyt vahinko!
-Creepy idol description level 12,Sijoita tämä pelottavan näköinen idoli lähelle raitaa pelotellaksesi joitakin Blooneja (jopa MOABeja!) takaisin lähtökohtaansa.
-Shooty turret description level 13,Pysyvä, käsintehty tikanheittotorni. päivitetty! Syttyy nopeammin ja aiheuttaa enemmän vahinkoa.
-Stack of old nails description level 13,Kyllä, se on vain erittäin suuri pino vanhoja nauloja, mutta laita ne mihin tahansa kappaleeseen, niin ne poksahtavat kätevästi ne eksyneet bloonit.
-See invisibility potion description level 14,Minkä tahansa apinan lahjoititkin tällä erittäin tehokkaalla eliksiirillä, se pystyy näkemään Camo Bloonsin helposti! Vaikutukset häviävät. Nyt lisää kantamaa ja kestää vielä pidempään!
-Sharpening stone description level 15,Teroita nuotit, ystävä! Käytä tätä tikkaasi ja teriisi, niin ne ovat terävämpiä ja aiheuttavat enemmän vahinkoa kuin koskaan ennen.
-Blade trap description level 15,Aseta tämä radalle ja katso, kuinka ensimmäiset Bloonit koskettavat sitä hienojen pyörivien terien murskaavan! Uusi tehokkaampi malli!
-Stack of old nails description level 16,Kyllä, se on vain JÄTTIVÄ NAIL MININE, mutta laita se mihin tahansa kappaleeseen, niin se pomppaa helposti eksyneet Bloonit.
-Jar of Pickles description level 16,Kokeile näitä suolakurkkuja yhdellä Monkey Towersistasi, niin se iskee kovemmin, mutta ammu hitaammin jonkin aikaa. Nyt VENÄJÄ LISÄÄ lisääntyneitä vahinkoja vahvistetuille Blooneille!
-Gerrys fire hot sauce description level 16,2,8 miljoonaa Bloonvillen yksikköä. Jokainen, joka maistaa tätä erikoiskastiketta, sylkee tulta jonkin aikaa! Nyt ylimääräisellä palavuudella.
-Tube of amaz-o-glue description level 17,Todella ällistyttävä! Käytä tätä modernia ihmettä mihin tahansa radalla ja katso, kuinka seuraava joukko Blooneja ja jopa MOABeja hidastuu.
-Genie bottle description level 18,Kutsu Genie Monkey tästä loistavan sinisestä pullosta, mutta varo, se ei kestä ikuisesti! (ei toiveita mukana ostossa). Lisähyökkäys ja enemmän vahinkoa MOAB:ille nyt mukana.
-Creepy idol description level 18,Aseta tämä pelottavan näköinen idoli lähelle raitaa pelästyttääksesi jotkut Bloonit takaisin sinne, mistä he tulivat. Mystical Shroud -päivitys avattu!
-See invisibility potion description level 19,Minkä tahansa apinan lahjoitit tällä erittäin tehokkaalla eliksiirillä, se pystyy näkemään Camo Bloons helposti ja tekemään niille enemmän vahinkoa! Vaikutukset häviävät.
-FriendScreenSureUnBlock,Haluatko varmasti kumota tämän käyttäjän eston?
-None,Ei mitään
+Jar of Pickles description level 11,"Yritäpä antaa tämä jollekin apinatornillesi: tekee enemmän vahinkoa, mutta ampuu hetken hitaammin. Tekee lisävahinkoa vahvistetuille blooneille!"
+Creepy idol description level 12,"Aseta tämä pelottavan näköinen idoli radan varrelle, jolloin pelästyneet bloonit (ja MOABit!) palaavat vauhdilla sinne, mistä tulivatkin."
+Shooty turret description level 13,"Tikkoja ampuva, pysyvä ja käsintehty tykkitorni. Päivitetty! Ampuu nopeammin ja tekee enemmän vahinkoa."
+Stack of old nails description level 13,"Niin siis, onhan se vain vino pino vanhoja nauloja, mutta laita ne radalle ja voilá, karanneet bloonit poksahtavat miltei itsestään."
+See invisibility potion description level 14,Tämän eliksiirin avulla mikä tahansa apina pystyy näkemään maastokuvioidut bloonit yhdellä hännän heilautuksella! Kestää vain hetken ajan. Pidempi kantama ja kestää pidemmän aikaa!
+Sharpening stone description level 15,"Teroita tikat, ystäväiseni! Käytä tätä tikkoihin ja teräaseisiin, jolloin niistä tulee terävämpiä ja ne tekevät enemmän vahinkoa kuin koskaan aiemmin."
+Blade trap description level 15,"Aseta tämä radalle ja seuraa, miten ensimmäinen siihen koskeva blooni repeytyy riekaleiksi pyörivien terien syleilyssä! Uusi, tehokkaampi malli!"
+Stack of old nails description level 16,"Juu, se on pelkkä JÄTTIMÄINEN NAULAMIINA, mutta laita se radalle ja voilá, karanneet bloonit poksahtavat miltei itsestään."
+Jar of Pickles description level 16,"Yritäpä antaa tämä jollekin apinatornillesi: tekee enemmän vahinkoa, mutta ampuu hetken hitaammin. Tekee VIELÄ ENEMMÄN lisävahinkoa vahvistetuille blooneille!"
+Gerrys fire hot sauce description level 16,"2,8 miljoonaa Bloonvillen asteikolla. Ken maistaakaan tätä tulista soossia, sylkee takuulla tulta hetken aikaa! Sisältää ekstrapoltetta."
+Tube of amaz-o-glue description level 17,"Ällistyttävää! Lisää tuubillinen tätä nykyaikaista ihmeainetta minne tahansa radan varrelle ja seuraa, miten seuraava joukko blooneja hidastuu silmiesi edessä. Vaikuttaa jopa MOABeihin!"
+Genie bottle description level 18,"Kutsuu lampun apinan kauniista kultaisesta lampusta, mutta varo – se ei pysy pelissä ikuisesti! (Toiveet eivät sisälly ostoon.) Sisältää lisähyökkäyksen ja tekee enemmän vahinkoa MOABeille."
+Creepy idol description level 18,"Aseta tämä pelottavan näköinen idoli radan varrelle, jolloin pelästyneet bloonit palaavat vauhdille sinne, mistä tulivatkin. Salaperäinen harso -päivitys avattu!"
+See invisibility potion description level 19,Tämän eliksiirin avulla mikä tahansa apina pystyy näkemään maastokuvioidut bloonit yhdellä hännän heilautuksella ja tekee niille lisävahinkoa! Tehoste kuluu käytössä.
+FriendScreenSureUnBlock,Haluatko varmasti poistaa eston tältä pelaajalta?
+None,Ei mikään
+Knowledge Requirement Monkey Money,Ei riittävästi apinarahaa. Osta lisää?
+Knowledge Requirement Points,Ei riittävästi tietämyspisteitä
+InviteFriend,Kutsu kaveri
+InvitedToJoin,{0} on kutsunut sinut yhteistoimintapeliinsä. Haluatko liittyä?
+HeroesMountainObynPetBalfrogName,Balfrog-lemmikki
+HeroesMountainObynPetBalfrogShortName,Balfrog-lemmikki
+HeroesMountainObynPetBalfrogDescription,Tämä sumuisten vuorten syvimmistä kaivoksista kavunnut sammakkokaveri lisää takuuvarmasti lämpöä joka ikiseen keskusteluun. Vain Vuori-Obyn
+TowerPropMonkeyVillagePrideFlagName,Apinakylän sateenkaarilippu
+TowerPropMonkeyVillagePrideFlagShortName,Kylän sateenkaarilippu
+TowerPropMonkeyVillagePrideFlagDescription,Juhli apinakyläläisten moninaisuutta ja vapautta olla oma itsensä tällä huikealla sateenkaarilipulla! Näkyy kaikissa päivityksissä
+CoopEmoteTextNeedMoreName,"Lisää, lisää! Tekstiemote"
+CoopEmoteTextNeedMoreShortName,"Lisää, lisää!"
+CoopEmoteTextNeedMoreDescription,"Tämä emote sopii käyttöön, kun tarvitset enemmän rahaa, blooneja, puolustusta tai ruokaa."
+CoopEmoteTextNeedMoreWord,"Lisää, lisää!"
+CoopEmoteAnimationRainbowName,Sateenkaari-animaatio
+CoopEmoteAnimationRainbowShortName,Sateenkaari
+CoopEmoteAnimationRainbowDescription,Kaikki mukaan laulamaan! Sateenkaaren tuolla puolen...
+GameUIProfileAvatar61Name,Tikka-apina-avatar
+GameUIProfileAvatar61ShortName,Tikka-apina-avatar
+GameUIProfileAvatar61Description,Ylistäkää mahtavaa Tikkaa! Bloonien poksauttaja!
+GameUIProfileAvatar62Name,Geraldo-avatar
+GameUIProfileAvatar62ShortName,Geraldo-avatar
+GameUIProfileAvatar62Description,"Tervehdys, ystävä. Kiinnostaisiko pehmoinen ja valkoinen jänö? Se on täysin harmiton, eikö olekin?"
+GameUIProfileBanner15Name,OG-BTD-tyylinen banneri
+GameUIProfileBanner15ShortName,OG-BTD-tyylinen banneri
+GameUIProfileBanner15Description,"Voittajabanneri, LordTeddington"
+GameUIProfileBanner16Name,Metsän henki -banneri
+GameUIProfileBanner16ShortName,Metsän henki -banneri
+GameUIProfileBanner16Description,"Voittajabanneri, tricky999tricky"
+GameUIMusicTrackMusicTribesJaloonMixName,Jukeboksi: Heimoja ja koettelemuksia – Jaloon Remix
+GameUIMusicTrackMusicTribesJaloonMixShortName,Heimoja – Jaloon
+GameUIMusicTrackMusicTribesJaloonMixDescription,Ota tanssilattia haltuun tällä rakastetulla Heimoja ja koettelemuksia -bändin remixillä
+Quarry,Louhos
+VoidoraAdoraSkinName,Voidora-ulkoasu
+VoidoraAdoraSkinDescription,Tyhjyydestä olen tullut
+VoidoraAdoraSkinNameFull,Voidora
+InappropriateTeamName,Valitse soveliaampi nimi ryhmälle
+TeamNameNotUnique,Nimi on jo käytössä! Valitse uusi nimi tai lisää numeroita
+TeamNameTooShort,Ryhmän nimen on oltava {0}–{1} merkkiä pitkä
+SentryParagonChild,Muokatun tykin perikuva
+LoginwithEpic,Kirjaudu Epic-tilillä
+EnterLinkingCode,Yhdistä syöttämällä linkityskoodi:
+Connect,Yhdistä
+PrivacyPolicy,Tietosuojakäytäntö
+TermsOfService,Käyttöehdot
+ConfirmAgeInfo,"Jatka vahvistamalla nykyinen ikäsi. Sinun on kirjauduttava, jotta saat peliin kaikki online-ominaisuudet ja varmuuskopioinnin."
+AgeQuestion,Oletko vähintään {0}-vuotias?
+AgeYes,"Kyllä, olen vähintään {0}-vuotias."
+AgeNo,"Ei, olen alle {0}-vuotias."
+PersonalAccountInfo,"Voit luoda henkilökohtaisen tilin käyttämättä mitään henkilökohtaisesti tunnistettavia tietoja.
+Valitsemalla ”Hyväksyn” vanhempasi tai huoltajasi on tarkistanut Ninja Kiwin tietosuojakäytännön ja käyttöehdot kanssasi, ja hän hyväksyy tietosuojakäytäntömme ja käyttöehtomme sekä kykymme tallentaa pelitilanteesi ja yksilöimättömiä tilitietoja palveluumme, joka sisältää Yhdysvalloissa sijaitsevia palvelimia."
+AgreeCreateAccount,"Hyväksyn, luo tili"
+NormalAccountInfo,"Jatkamalla hyväksyt Ninja Kiwin tietosuojakäytännön ja käyttöehdot ja kykymme tallentaa pelitilanteesi ja tilitietosi palveluumme, joka sisältää Yhdysvalloissa sijaitsevia palvelimia."
+LoggedInAs,Kirjautuneena:
+EpicAccountId,Epic-tilitunnus:
+NeedHelp,Tarvitsetko apua?
+ContactSupport,Ota yhteyttä tukeen
+DeleteAccountText,"Tilin poistaminen tarkoittaa, että menetät pääsyn pilviedistymiseesi ja -tietoihisi.
+Kirjoita käyttäjätunnuksesi (kuten osoitettu alla) ruutuun tilin poistamista varten. Tilisi poistamisessa voi kestää 48–72 tuntia."
+EnterUserId,Syötä käyttäjätunnus tähän
+GetAllButton,Hanki kaikki
+GetAllConfirmation,"Vahvista, että haluat ostaa apinarahalla kaikki mahdolliset sankarit ja ulkoasut!"
+DeleteAccount,Poista tili
+CtLeaderboardTitle,Kilpailtujen territorioiden pistetaulukko
+LocalTeams,Paikalliset ryhmät
+LocalPlayers,Paikalliset pelaajat
+GlobalTeams,Maailmanlaajuiset ryhmät
+GlobalPlayers,Maailmanlaajuiset pelaajat
+CreateTeamPanelTitle,Luo ryhmä
+CreateTeamTitle,Luo ryhmä
+CreateTeamNameDescription,Ryhmän nimi:
+CreateTeamNameInputField,Anna ryhmän nimi...
+CreateTeamCostDescription,Luo ryhmä hintaan {0}
+CreateTeamFailed,Ryhmän luonti epäonnistui
+EditTeamPanelTitle,Muokkaa ryhmää
+EditTeamTitle,Muokkaa ryhmääsi
+EditTeamNameDescription,Muokkaa ryhmän nimeä:
+TeamEmblemTitle,Tunnus
+TeamBannerTitle,Banneri
+TeamEmblemsTitle,Tunnukset
+TeamBannersTitle,Bannerit
+TeamGeneralTitle,Yleinen
+TeamSettingPublicTitle,Julkinen
+TeamSettingPrivateTitle,Yksityinen
+TeamSettingClosedTitle,Suljettu
+TeamJoin,Liity
+TeamApply,Lähetä hakemus
+RecentWin,Viimeisin voitto:
+TileHeldBy,Ruudun omistaja:
+Score,Pistemäärä
+ScoreDegradesIn,Pisteet kuluvat ajassa:
+NeutralOwnerIn,Neutraali omistaja ajassa:
+Tile,Ruutu: {0}
+RelicTile,Reliikkiruutu
+BannerTile,Banneriruutu
+BonusCTPoints,Bonus-KT-pisteitä!
+DailyRelics,Päivittäiset reliikit
+HeldRelics,Omistetut reliikit
+Tickets,Tiketit:
+PurchaseTickets,Osta tiketti
+MoreTicketsIn,Lisää tikettejä saatavilla:
+CTTitleName,Kilpailtu territorio
+CTTeamStore,Ryhmän pisteet
+CTMyTeam,Ryhmäni
+CTTeamTrophies,Ryhmän pokaalit
+CTTickets,Tiketit
+CTTeamTickets,Ryhmätiketit
+CTNextTicketsIn,Seuraavat tiketit saatavilla:
+CTTileSearch,Ruutuhaku
+CTOwner,Omistaja:
+CTScore,Pistemäärä:
+CTNeutralIn,Neutraali ajassa:
+CTPosition,Sijoitus:
+CTUncaptured,Valtaamaton
+CTCheckpoint,Tarkistuspiste saavutettu!
+CTNewScore,Uusi pistemäärä!
+CTBestScore,Paras pistemäärä
+TimeAttack,Aikahyökkäys
+ERR_NOT_LOGGED_IN,Et ole kirjautuneena sisään
+ERR_ALREADY_PENDING,Olemassa on jo odottava pyyntö
+ERR_FEATURE_UNAVAILABLE,"Ominaisuus ei ole saatavilla, yritä myöhemmin uudestaan"
+ERR_REQUEST_PARAMETER_MISSING,Parametri puuttuu
+ERR_GUILD_FULL,Ryhmä on täynnä
+ERR_GUILD_NAME_EXISTS,Tällä nimellä on jo ryhmä
+ERR_GUILD_DOES_NOT_EXIST,Ryhmää ei ole olemassa
+ERR_GUILD_CANNOT_DISBAND,Ryhmää ei voi hajottaa
+ERR_GUILD_PERMISSION_DENIED,Lupa evätty
+ERR_GUILD_CANNOT_UPDATE_OWNER_DENIED,"Ryhmän omistajaa ei voi päivittää, lupa evätty"
+ERR_GUILD_CANNOT_UPDATE_OWNER_NONE,Ryhmän omistajaa ei voi päivittää
+ERR_TIMEOUT,"Pyyntö aikakatkaistiin, yritä uudelleen"
+CreateNewTeamText,Luo uusi ryhmä?
+ParagonLimitReached,Perikuvien raja saavutettu
+TeamMsgNewMayor,{0} on uusi pormestari!
+TeamMsgPlayerJoined,{0} liittyi ryhmään
+TeamMsgPlayerLeft,{0} poistui ryhmästä
+TeamMsgPlayerKicked,{1} poisti pelaajan {0} ryhmästä.
+TeamMsgPlayerDemoted,{1} alensi pelaajan {0}.
+TeamMsgRegularTileCaptured,{0} kaappasi tavanomaisen ruudun. Hyvää työtä!
+TeamMsgBannerTileCaptured,{0} kaappasi banneriruudun. Mahtavaa!
+TeamMsgRelicTileCaptured,{0} kaappasi reliikkiruudun ja lisäsi reliikin {1} ryhmän reliikkilistaan. Niin sitä pitää!
+TeamMsgRegularTileCapturedOtherGuild,"{0} kaappasi tavanomaisen ruudun, jonka omisti {1}. Hyvää työtä!"
+TeamMsgBannerTileCapturedOtherGuild,"{0} kaappasi banneriruudun, jonka omisti {1}. Mahtavaa!"
+TeamMsgRelicTileCapturedOtherGuild,"{0} kaappasi reliikkiruudun, jonka omisti {2}, ja lisäsi reliikin {1} ryhmän reliikkilistaan. Niin sitä pitää!"
+TeamMsgRelicTileLost,Reliikkiruutu menetettiin! {0} ei ole enää saatavilla.
+TeamMsgPlayerPromoted,{1} ylensi pelaajan {0} apulaispormestariksi
+TeamMsgTeamCreated,{1} loi ryhmän {0}
+TeamMsgNewFocusMarker,{0} asetti uuden fokusmerkin
+TeamMsgFlairUnlocked,{0} on rahoitettu kokonaan! Mahtavaa työtä!
+TileCaptured,Ruutu kaapattu
+TileNotCaptured,Ruutua ei ole kaapattu
+TicketUsed,Tiketti käytetty
+NoTicketUsed,Tikettiä ei käytetty
+ScoreToBeat,Voitettava pistemäärä:
+YourScore,Omat pisteesi:
+PublicWithBrackets,(Julkinen)
+PrivateWithBrackets,(Yksityinen)
+CTRelicWon,Reliikki voitettu!
+CTBonusPoints,Bonuspisteitä!
+Teams,Ryhmät
+CaptureScoreMissed,Valtauspisteitä ei saavutettu!
+CaptureScoreNear,Varoitus! Valtauspisteitä lähestytään
+CtInternalError,"Tapahtui sisäinen virhe, yritä myöhemmin uudelleen"
+CtServerError,Kilpaillun alueen serveri ei voi käsitellä pyyntöä tällä hetkellä. Yritä myöhemmin uudelleen
+Achievement 143 Name,Vallattu territorio
+Achievement 143 Description,Valtaa 5 ruutua muilta pelaajilta
+Achievement 144 Name,Imperiumin nousu
+Achievement 144 Description,Valtaa 50 ruutua
+Achievement 145 Name,Saisiko olla territorionäyte?
+Achievement 145 Description,"Valtaa 1 kutakin: Pomo-, aikahyökkäys-, vähiten tasoja ja vähiten rahaa -ruutu"
+CTLeastCashDescription,Käytä ruudun valtaamiseen mahdollisimman vähän rahaa. Kulutetuksi rahaksi lasketaan apinatornin asettaminen ja päivittäminen sekä sankarin maksulliset päivitykset. Apinan myyminen ei pienennä kulutetun rahan määrää.
+CTLeastTiersDescription,Käytä ruudun valtaamiseen mahdollisimman vähän apinatorneja ja päivityksiä. Kukin ruudulle asetettu apina ja sankari lasketaan yhdeksi tasoksi. Sankarin maksulliset päivitykset lasketaan myös tasoksi. Apinan myyminen ei vähennä tasojen määrää.
+CTTimeAttackDescription,"Käytä ruudun valtaamiseen mahdollisimman vähän aikaa. Kuten kilpailutapahtumassa, kello lähtee käyntiin, kun painat Pelaa. Lähettää seuraavat kierrokset matkaan aikaisemmin, mutta ole varovainen! Aikahyökkäyksien aikana ei tallenneta, joten älä lopeta pel"
+CTBossDescription,"Valtaa ruutu päihittämällä pomo mahdollisimman nopeasti. Kuten pomotapahtumassa, kello käynnistyy, kun pomo ilmaantuu ruudulle. Kilpailtujen alueiden pomot ovat joko pelkästään tasolla 1 tai tasoilla 1 ja 2 riippuen kunkin ruudun kierrosmäärästä. Keskitä "
+CtEventEnded,Valitettavasti tapahtuma on päättynyt
+RelicStartingStash,Alkujemma
+RelicExtraEmpowered,Vielä vahvempi
+RelicBoxOfChocolates,Suklaarasia
+RelicBoxOfMonkey,Apinarasia
+RelicMarchingBoots,Marssikengät
+RelicHeroBoost,Sankaritehoste
+RelicBiggerBloonSabotage,Suurempi bloonisabotaasi
+RelicRoundingUp,Vinopino
+RelicManaBulwark,Manamuuri
+RelicRegeneration,Regeneraatio
+RelicRestoration,Parannus
+RelicDurableShots,Kestävät ammukset
+RelicAlchemistTouch,Alkemistin kosketus
+RelicDeepHeat,"Poppaa, poppaa"
+RelicSharpsplosion,Teräpläjäys
+RelicRoyalTreatment,Kuninkaallista kohtelua
+RelicHardBaked,Kovapintainen
+RelicFortifried,Vahvistettu
+RelicMoabClash,MOAB-tyrmäys
+RelicCamoFlogged,Kiinni jäit
+RelicBrokenHeart,Särkynyt sydän
+RelicGoingTheDistance,Muita pidemmälle
+RelicHeartless,Sydämetön
+RelicFlintTips,Piikärjet
+RelicAbilitized,Kyvystetty
+RelicAirAndSea,Ilma ja meri
+RelicElDorado,El Dorado
+RelicMonkeyShield,Apinakilpi
+RelicMonkeyShieldMark2,Apinakilpi v. 2
+RelicMonkeyShieldMark3,Apinakilpi v. 3
+RelicPsiVision,Psi-näkö
+RelicOpenSeason,Metsästyskausi
+RelicCamoTrap,Maastokuvioansa
+RelicThrive,Menestys
+RelicSuperMonkeyStorm,SMS
+RelicMonkeyBoost,Apinatehoste
+RelicRoadSpikes,Tiepiikit
+RelicMoabMine,MOAB-miina
+RelicGlueTrap,Liima-ansa
+RelicTechbot,Tekkibotti
+RelicPrimaryPrimates,Perusapinat
+RelicMilitaryMonkeys,Sotilasapinat
+RelicMagicMonkeys,Maagiset apinat
+RelicSupportSimians,Tukiapinat
+RelicMonkeyTycoon,Apinapohatta
+RelicStartingStashDescription,Aloita peli 300 lisärahalla (pinoutuu kyvyn ”Lisää käteistä tavanomaisille ruuduille” kanssa)
+RelicExtraEmpoweredDescription,Sankarisi aloittaa pelin 3 lisätason voimin (pinoutuu kyvyn ”Sankarit vahvistuvat tavanomaisilla ruuduilla” kanssa)
+RelicBoxOfChocolatesDescription,Aloita kukin peli 100 lisäelämällä!
+RelicBoxOfMonkeyDescription,"Aloita kukin peli yhdellä ilmaisella, korkeintaan 500 $:n arvoisella apinalla (asettamisen perushinta)"
+RelicMarchingBootsDescription,Rajoitetuissa peleissä pelaajat saavat kussakin pelissä +1 jokaista valitsemaansa tornia tai +4 kokonaismaksimiin.
+RelicHeroBoostDescription,Sankarit ansaitsevat kussakin pelissä XP:tä 10 % nopeammin
+RelicBiggerBloonSabotageDescription,Kaikki MOAB-luokan bloonit syntyvät 15 % pienemmillä osumapisteillä ja liikkuvat 95 %:n nopeudella
+RelicRoundingUpDescription,Tienaa +20 $ kunkin kierroksen lopussa
+RelicManaBulwarkDescription,"Luo kilven, joka imee itseensä 50 elämää (pinoutuu kyvyn ”Manakilpi tavanomaisilla ruuduilla” kanssa)"
+RelicRegenerationDescription,"Palauttaa 10 elämää per kierros aloitusmäärään saakka, ellei elämiä menetetä kyseisellä kierroksella"
+RelicRestorationDescription,"Palauttaa 20 elämää per kierros maksimissaan +200:een saakka, jos elämiä ei menetetä kyseisellä kierroksella"
+RelicDurableShotsDescription,Kaikki ammukset kestävät +25 % pidempään
+RelicAlchemistTouchDescription,Kaikki hyökkäykset voivat poksauttaa lyijyblooneja
+RelicDeepHeatDescription,Kaikki hyökkäykset voivat poksauttaa valkoisia blooneja
+RelicSharpsplosionDescription,Kaikki hyökkäykset voivat poksauttaa mustia blooneja
+RelicRoyalTreatmentDescription,Kaikki hyökkäykset voivat poksauttaa violetteja blooneja
+RelicHardBakedDescription,Kaikki hyökkäykset tekevät +1 vahinkoa keraamisille blooneille
+RelicFortifriedDescription,Kaikki hyökkäykset tekevät +1 vahinkoa vahvistetuille blooneille
+RelicMoabClashDescription,Kaikki hyökkäykset tekevät +3 vahinkoa MOAB-luokan blooneille
+RelicCamoFloggedDescription,Kaikki hyökkäykset tekevät +1 vahinkoa maastokuvioiduille blooneille
+RelicBrokenHeartDescription,Kaikki hyökkäykset tekevät +1 vahinkoa uusiutuville blooneille
+RelicGoingTheDistanceDescription,Kaikki apinat saavat +10 % kantamaa
+RelicHeartlessDescription,Uusiutuvien bloonien uusiutumisnopeus on 25 % pienempi
+RelicFlintTipsDescription,"Terävät ammukset tuottavat kaikille vahingoittamilleen blooneille hetken aikaa tulivahinkoa (1 vahinko 2 sekunnin ajaksi, maksimissaan 4 sekuntia)"
+RelicAbilitizedDescription,Kaikkien apinoiden aktivoitujen kykyjen palautumisaikaa on lyhennetty 10 %.
+RelicAirAndSeaDescription,"Lentäjä-ässän, kopterilentäjän, merirosvon ja sukellusveneen asettaminen ja päivittäminen maksaa 10 % vähemmän ja ne lataavat 5 % tehokkaammin"
+RelicElDoradoDescription,Kaikki voitoista saadut apinaraha- ja ryhmäpokaalipalkinnot ovat 25 % suurempia (minimi +1)
+RelicMonkeyShieldDescription,"Vastustaja ei voi hyökätä vallattuun ruutuun tunnin ajan. Ajastin alkaa alusta, jos pistemäärää parannetaan."
+RelicMonkeyShieldMark2Description,"Vastustaja ei voi hyökätä vallattuun ruutuun kahden tunnin ajan. Ajastin alkaa alusta, jos pistemäärää parannetaan."
+RelicMonkeyShieldMark3Description,"Vastustaja ei voi hyökätä vallattuun ruutuun kolmen tunnin ajan. Ajastin alkaa alusta, jos pistemäärää parannetaan."
+RelicPsiVisionDescription,Katso lisätietoja kaikista kartan ruuduista
+RelicOpenSeasonDescription,Hyökkää minkä tahansa kartan ruudun kimppuun
+RelicCamoTrapDescription,Antaa jokaiseen peliin 2 maastokuvioansaa
+RelicThriveDescription,Antaa jokaiseen peliin 2 menestystehostetta
+RelicSuperMonkeyStormDescription,Antaa jokaiseen peliin 2 superapinamyrskyä
+RelicMonkeyBoostDescription,Antaa jokaiseen peliin 3 apinatehostetta
+RelicRoadSpikesDescription,Antaa jokaiseen peliin 10 pinoa tiepiikkejä
+RelicMoabMineDescription,Antaa jokaiseen peliin 1 MOAB-miinan
+RelicGlueTrapDescription,Antaa jokaiseen peliin 2 liima-ansaa
+RelicTechbotDescription,Antaa jokaiseen peliin 1 teknobotin
+RelicPrimaryPrimatesDescription,Pienentää kaikkien perusapinoiden hintaa 10 %
+RelicMilitaryMonkeysDescription,Pienentää kaikkien sotilasapinoiden hintaa 10 %
+RelicMagicMonkeysDescription,Pienentää kaikkien taika-apinoiden hintaa 10 %
+RelicSupportSimiansDescription,Pienentää kaikkien tukiapinoiden hintaa 10 %
+RelicMonkeyTycoonDescription,"Saat valikoimaasi +1 apinatornia, ja ne ovat 5 % halvempia"
+InviteToTeam,Kutsu ryhmään
+TeamLeave,Poistu ryhmästä
+Requests,Pyynnöt
+TeamMessagesTab,Viestit
+TeamRosterTab,Luettelo
+TeamPending,Odottaa
+CancelRequest,Peruuta pyyntö
+TeamDisband,Hajota ryhmä
+TeamCode,Ryhmäkoodi
+TeamMemberCount,{0}/{1} jäsentä
+TeamPendingApplications,({0} odottaa)
+TeamNoInfo,Ei näytettäviä tietoja
+AllTeams,Kaikki ryhmät
+TeamsAdvancedSearch,Tarkennettu haku
+TeamInvitationDisband,Sinun on hajotettava ryhmäsi ennen kuin voit hyväksyä kutsun
+TeamInvitationAcceptWarning,"Jos hyväksyt tämän kutsun, sinut poistetaan nykyisestä ryhmästäsi"
+TeamBrowserAllTeams,Kaikki ryhmät
+TeamBrowserFriendsTeams,Kaverien ryhmät
+TeamBrowserTeamRequests,Pyynnöt
+TeamQuickJoin,Pikaliittyminen
+TeamBrowserTitle,Selaa ryhmiä
+TeamBrowserSearchField,Anna ryhmän nimi...
+TeamBrowserSearchHideFull,Piilota täydet ryhmät
+TeamBrowserSearchHidePrivate,Piilota yksityiset ryhmät
+TeamBrowserSearchHideClosed,Piilota suljetut ryhmät
+TeamEditApplyAll,Ota kaikki käyttöön
+TeamScore,Pistemäärä: {0}
+TeamRemoveMember,Haluatko varmasti poistaa tämän pelaajan?
+TeamPromoteMember,Haluatko varmasti ylentää tämän pelaajan?
+TeamDemoteMember,Haluatko varmasti alentaa tämän pelaajan?
+TeamErrorShowPop,Ryhmävirhe
+TeamOwnershipTransferTitle,Ryhmän omistajan vaihto
+TeamOwnershipTransferFailed,Ryhmän omistajan vaihto epäonnistui
+TeamOwnershipTransferWarning,Haluatko varmasti siirtää ryhmän omistusoikeuden tälle pelaajalle? Tätä ei voi perua!
+TeamLeaveConfirm,Haluatko varmasti lähteä ryhmästä?
+TeamDisbandConfirm,Haluatko varmasti hajottaa ryhmän?
+TeamOwnershipLeavingWarning,Tee toisesta jäsenestä ryhmän omistaja ennen poistumista
+TeamNoneFound,Ryhmää ei löytynyt
+CTLocal,KT: paikallinen
+CTGlobal,KT: maailmanlaajuinen
+Rank4th,4
+Rank4thAnd,4.–10.
+Rank11thAnd,11.–20.
+Rank21stAnd,21.–40.
+Rank41stAnd,41.–60.
+RewardsTop25,Top 25
+RewardsTop100,Top 100
+DegradedScore,Kulunut pistemäärä
+ERR_INVITATION_NO_LONGER_EXISTS,Kutsu ei ole enää olemassa
+TeamMateSetScore,Ryhmän jäsen asetti uuden päihitettävän pistemäärän!
+AnotherTeamSetScore,Toinen ryhmän asetti uuden päihitettävän pistemäärän!
+FriendScreenErrorTeamInviteAlreadyMember,Tämä pelaaja on jo ryhmässäsi
+TotalTeamScore,Ryhmän pisteet
+CTRulesInfo,"Tervetuloa Kilpailtuihin territorioihin! Tee yhteistyötä ryhmäsi kanssa, valtaa ruutuja, kiipeä pistetaulukon huipulle ja ansaitse mahtavia palkintoja!\n\n• Valtaustikettejä käytetään vain silloin, kun valtaat ruudun. Ne päivittyvät 24 tunnin välein.\n• Käyttämättömät valtaustiketit siirtyvät säilöön, jolloin joku toinen ryhmän jäsenistä voi ottaa ne käyttöönsä seuraavana päivänä.\n• Kerran vallatun ruudun pisteet pienenevät hiljalleen, kunnes se muuttuu jälleen neutraaliksi 24 tunnin kuluttua.\n• KT-pisteitä tienataan valtaamalla ruutu sekä puolen tunnin välein, jos onnistut pitämään ruudun itselläsi. KT-pisteet määrittävät sinun ja ryhmäsi sijoituksen pistetaulukossa, joten valtaa ruutuja mahdollisimman usein!\n• Banneriruudut ovat vaikeampia ruutuja, joista saa enemmän KT-pisteitä.\n• Reliikkiruutujen avulla keräät voimakasta reliikkitietämystä, jonka auttaa sinua valtaamaan ruutuja.\n• Ruudut tallennetaan 20 kierroksen välein, käytössä voi olla vain yksi tallennus kerrallaan.\n• Äänestä ryhmän pokaalikaupassa, mistä reliikistä pidät eniten, niin pääset valitsemaan, mitkä reliikit voit ottaa mukaan taistoon ennen ottelun alkua."
+TeamTrophyStoreRulesInfo,"Tämä on ryhmän pokaalikauppa, jossa voit äänestää avattavia KT-reliikkejä, rahoittaa päivittäisiä voimia, tapahtumareliikkejä ja ryhmän koristeita.\n• Päivittäiset voimat ovat avattavissa päivittäin KT-tapahtuman aikana, ja kun sellaisen on saanut rahoitettua, se on koko ryhmän käytettävissä kyseisen päivän ajan.\n• Tapahtumareliikit avautuvat käyttöön KT-tapahtuman aikana, ja kun sellaisen on saanut rahoitettua, se on käytettävissä koko tapahtuman ajan. Nämä reliikit ovat erilaisia kuin reliikkiruutujen reliikit.\n• Kaapatkaa reliikkiruutuja ja valitkaa paras tapahtumassa avattu reliikkitietämys. Top 7:n reliikit ovat valittavissa 4 viimeisen reliikin joukkoon.\n• Ryhmän koriste rahoitetaan koko ryhmän voimin, ja kun siinä on onnistuttu, se on pysyvästi ryhmän käytettävissä. Pelaajat, jotka poistuvat ryhmästä, eivät voi ottaa koristetta mukaansa."
+TeamsBanner1Name,Apinat avaruudessa -banneri
+TeamsBanner2Name,Ryhmä sankareita -banneri
+TeamsBanner3Name,Iloa-banneri
+TeamsBanner4Name,Shurikentaivas-banneri
+TeamsBanner5Name,Apinat yhteistyössä -banneri
+TeamsBanner6Name,Kilpailtu kuningaskunta -banneri
+TeamsBanner1ShortName,Apinat avaruudessa -banneri
+TeamsBanner2ShortName,Ryhmä sankareita -banneri
+TeamsBanner3ShortName,Iloa-banneri
+TeamsBanner4ShortName,Shurikentaivas-banneri
+TeamsBanner5ShortName,Apinat yhteistyössä -banneri
+TeamsBanner6ShortName,Kilpailtu kuningaskunta -banneri
+TeamsBanner1Description,Näethän sinäkin tuon valtavan leijuvan banaanitertun?!
+TeamsBanner2Description,Heidän voimansa yhdistyvät ja heistä tulee supersankariryhmä!
+TeamsBanner3Description,Onnelliset apinat ovat tuottavia apinoita.
+TeamsBanner4Description,Pimennämme taivaan shurikeneillamme!
+TeamsBanner5Description,Apinat yhdessä vahva.
+TeamsBanner6Description,Hallitse muita apinoita tämän mahtavan KT-bannerin voimin.
+TeamsEmblemFrame5Name,Lumihiutale-kehys
+TeamsEmblemFrame6Name,Tuli-kehys
+TeamsEmblemFrame7Name,Taika-kehys
+TeamsEmblemFrame8Name,Metsä-kehys
+TeamsEmblemFrame9Name,Insinööri-kehys
+TeamsEmblemFrame5ShortName,Lumihiutale-kehys
+TeamsEmblemFrame6ShortName,Tuli-kehys
+TeamsEmblemFrame7ShortName,Taika-kehys
+TeamsEmblemFrame8ShortName,Metsä-kehys
+TeamsEmblemFrame9ShortName,Insinööri-kehys
+TeamsEmblemFrame5Description,Kolee kehys koleelle ryhmälle!
+TeamsEmblemFrame6Description,Aika kuumotella vastustajaasi!
+TeamsEmblemFrame7Description,Salaperäinen ja taianomainen kehys.
+TeamsEmblemFrame8Description,"Varmista, että ryhmäsi erottuu joukosta tällä siistillä luontoaiheisella kehyksellä."
+TeamsEmblemFrame9Description,"Perinpohjainen suunnittelu, tarkka mittaaminen ja huolellinen toteutus ovat voiton avaimia!"
+TeamsEmblemIcon5Name,Pääkallo-kuvake
+TeamsEmblemIcon6Name,MOAB-salamurhaaja-kuvake
+TeamsEmblemIcon7Name,Shuriken-kuvake
+TeamsEmblemIcon8Name,Alkemistin keitos -kuvake
+TeamsEmblemIcon5ShortName,Pääkallo-kuvake
+TeamsEmblemIcon6ShortName,MOAB-salamurhaaja-kuvake
+TeamsEmblemIcon7ShortName,Shuriken-kuvake
+TeamsEmblemIcon8ShortName,Alkemistin keitos -kuvake
+TeamsEmblemIcon5Description,"Reivatkaa purjeet, lähtekää merille ja kaapatkaa alueet!"
+TeamsEmblemIcon6Description,Vavisuttakaa kaikkia eteenne astuvia MOABeja!
+TeamsEmblemIcon7Description,Tätä kuvaketta käyttävät ryhmät iskevät hiljaisuudessa – ja kuolettavasti.
+TeamsEmblemIcon8Description,Ota myrskypilvet komentoosi tällä upealla ryhmäkuvakkeella.
+TeamsEmblemIcon9Name,Gwenin tuli -kuvake
+TeamsEmblemIcon9ShortName,Gwenin tuli -kuvake
+TeamsEmblemIcon9Description,Tämä on Gwenin käsitys ryhmäkuvakkeesta. Tässä vaiheessa kenenkään ei pitäisi enää olla yllättynyt. Se on tulta.
+TeamsEmblemIcon10Name,Quincyn nuolet -kuvake
+TeamsEmblemIcon10ShortName,Quincyn nuolet -kuvake
+TeamsEmblemIcon10Description,Quincyn ohjautuvat nuolet nyt kuvakkeena!
+TeamsEmblemIcon11Name,Obynin puu -kuvake
+TeamsEmblemIcon11ShortName,Obynin puu -kuvake
+TeamsEmblemIcon11Description,Näet takuulla metsän puilta tämän ympäristöystävällisen kuvakkeen ansiosta.
+TeamsEmblemIcon12Name,Prätkä-Bones-kuvake
+TeamsEmblemIcon12ShortName,Prätkä-Bonesin peukku -kuvake
+TeamsEmblemIcon12Description,Herra liekkirysty antaa tällä kuvakkeella peukun eeppiselle ryhmällesi!
+BuildingPropWizardTowerName,Velhotornirakennus
+BuildingPropLighthouseName,Majakkarakennus
+FlyingPropPhoenixName,Lentävä feeniks
+FlyingPropMiniAceName,Lentävä mini-ässä
+WaterPropKrakenName,Kraken
+WaterPropMiniSubName,Minisukellusvene
+BasePropKingName,Apinakuningas
+BasePropLighthouseKeeperName,Majakanvartija
+BasePropCrashedMoabName,Rysähtänyt MOAB
+BasePropTrainingDummyName,Harjoitusnukke
+BasePropCampfireName,Mukava leirituli
+BasePropTotemName,Tribaalitoteemi
+BasePropSatelliteName,Liikkuva satelliittilaite
+BasePropTortoiseName,Tribaalikilpikonna
+BasePropBattleMonkeyName,Taisteluapina
+BuildingPropBattleTowerName,Perustornirakennus
+BuildingPropWizardTowerShortName,Velhotornirakennus
+BuildingPropLighthouseShortName,Majakkarakennus
+FlyingPropPhoenixShortName,Lentävä feeniks
+FlyingPropMiniAceShortName,Lentävä mini-ässä
+WaterPropKrakenShortName,Kraken
+WaterPropMiniSubShortName,Minisukellusvene
+BasePropKingShortName,Apinakuningas
+BasePropLighthouseKeeperShortName,Majakanvartija
+BasePropCrashedMoabShortName,Rysähtänyt MOAB
+BasePropTrainingDummyShortName,Harjoitusnukke
+BasePropCampfireShortName,Mukava leirituli
+BasePropTotemShortName,Tribaalitoteemi
+BasePropSatelliteShortName,Liikkuva satelliittilaite
+BasePropTortoiseShortName,Tribaalikilpikonna
+BasePropBattleMonkeyShortName,Taisteluapina
+BuildingPropBattleTowerShortName,Perustornirakennus
+BuildingPropWizardTowerDescription,"Taianomaiset seikkailut odottavat sitä ryhmää, joka kykenee rahoittamaan tämän salaperäisen tukikohdan."
+BuildingPropLighthouseDescription,Valaise ryhmäsi tie voittoon tällä kirkkaasti valaistulla tukikohdalla.
+FlyingPropPhoenixDescription,"Kaikki pohtivat, ettei huipulla vaan olisi velhoapina. Mutta onko kenellekään tullut mieleen, että ehkä velhoapinat ovat vain feeniksejä, jotka odottavat uudelleensyntymistään?"
+FlyingPropMiniAceDescription,Anna lentäjä-ässän valvoa ryhmäsi taivaita tämän hellyyttävän mini-ässän voimin.
+WaterPropKrakenDescription,Vapauta kraken! Dominoi aaltoja tällä yllättävän söötin merenalaisen otuksen avulla.
+WaterPropMiniSubDescription,Periskoopit ylös! Tiedustele aluetta minisukellusveneellä.
+BasePropKingDescription,"Tervetuloa uuteen, henkeäsalpaavaan Apinasir... Eikun Kilpailtuihin alueisiin! Tämä maa odottaa valtaajansa ja on täynnä blooneja! Poksauta ne ja valtaa maa ryhmällesi."
+BasePropLighthouseKeeperDescription,Tämä vanha ja viisas apina huolehtii majakasta ja tarkkailee merta pimeällä ulapalla seilaavien laivojen varalta.
+BasePropCrashedMoabDescription,Välkkyjen apinatutkijoiden tiimi on jo kalunnut hylyn käyttökelpoisen teknologian varalta. Nyt se on pelkkä karu varoitus muille blooneille.
+BasePropTrainingDummyDescription,"Pidä tikka-apinasi varpaillaan tohtori Apinan sertifioimalla, 100 % uusiokäyttöisellä harjoitusnukella!"
+BasePropCampfireDescription,Pidä ryhmäsi varpaat lämpiminä kylminä öinä tai kerro pelottavia tarinoita menneiden aikojen Kilpailluista alueista leiritulen lämmössä.
+BasePropTotemDescription,Suojele rajojasi tällä hurjalla tribaalitoteemilla.
+BasePropSatelliteDescription,"Lähetä tietoa suoraan avaruudesta tällä liikkuvalla satelliittilaitteella, joka on valmis lähtöön!"
+BasePropTortoiseDescription,"Älä kysy, onko hänellä tribaalitatuointia, äläkä missään nimessä mainitse kilpikonnia."
+BasePropBattleMonkeyDescription,"Kilpailtujen alueiden apinat, valmiina lähtöön!"
+BuildingPropBattleTowerDescription,Kilpaillulle alueelle astuminen vaatii vahvaa tekoa olevan tukikohdan.
+Neutral,Neutraali
+TilesCaptured,Ruutuja kaapattu:
+CTPointsEarnt,KT-pisteitä tienattu:
+TeamTrophiesEarnt,Ryhmäpokaaleja ansaittu:
+RelicsUnlocked,Reliikkejä avattu:
+EventEnded,Tapahtuma päättyi
+NextEventIn,Seuraavaan tapahtumaan:
+SecondsAgo,Sekuntia sitten
+1MinuteAgo,minuutti sitten
+MinutesAgo,{0} minuuttia sitten
+1HourAgo,tunti sitten
+HoursAgo,{0} tuntia sitten
+1DayAgo,päivä sitten
+XDaysAgo,{0} päivää sitten
+TeamSettingDisbandedTitle,Hajotettu
+Incoming,Saapuvat
+Outgoing,Lähtevät
+RoundsCount,Kierroksia: {0}
+Relics,Reliikkejä
+TeamFlair,Ryhmän koriste
+RefreshesIn,Päivittymiseen: {0}
+DailyPower,Päivittäinen voima
+EventRelic1,Tapahtumareliikki 1
+EventRelic2,Tapahtumareliikki 2
+EventRelic3,Tapahtumareliikki 3
+Vote,Äänestä
+InventoryEmpty,Inventaario on tyhjä
+Blocked,Estetty
+ShowOnlineStatus,Näytä tila
+Invisible,Näkymätön
+NexusTitle,Tekijätuki
+NexusDescription,Tue Bloons TD 6 -suosikkitekijääsi syöttämällä hänen tekijäkoodinsa tähän. Pelissä tehdyt ostokset tukevat sekä kyseistä tekijää että Ninja Kiwi -kehittäjätiimiä!
+TimeAttackPowersDisabled,Voimat eivät ole käytössä aikahyökkäystilassa.
+Funded,Rahoitettu
+UnlocksIn,Avautumiseen: {0}
+TimeRemaining,Aikaa jäljellä: {0}
+TeamInviteAlreadySent,Ryhmäkutsu on jo lähetetty
+Captured,Vallattu!
+DisabledFriendInvites,Tämä pelaaja on kytkenyt kaveripyynnöt pois päältä
+ItemFunded,Esine rahoitettu!
+Now,Nyt
+Players,Pelaajat
+LocalRewards,Paikalliset palkkiot
+GlobalRewards,Maailmanlaajuiset palkkiot
+RewardsTop10,10 parasta
+RewardsTop20,20 parasta
+RewardsTop40,40 parasta
+RewardsTop60,60 parasta
+RewardsTopX,{0} parasta
+Rank5th,5
+Rank6th,6
+TeamName,Joukkueen nimi
+CTPoints,CT-pisteet
+Contribute,Osallistu
+ContributeTrophies,Lahjoita palkintoja
+ColorblindEnabled,Värisokea tila käytössä!
+ColorblindDisabled,Värisokea tila pois käytöstä
+Local,Paikalliset
+KickPending,Odottaa poistoa
+SentryParagonGreen,Green Sentry Paragon
+SentryParagonRed,Red Sentry Paragon
+SentryParagonBlue,Blue Sentry Paragon
+TeamManagement,Joukkueen hallinta

@@ -699,17 +699,17 @@ Triple Shot Description,Lanza 3 dardos al mismo tiempo en vez de 1.
 Crossbow Description,Usa una ballesta de largo alcance capaz de reventar 3 capas de bloons en cada impacto.
 Juggernaut Description,Lanza una bola claveteada gigante que revienta bloons emplomados y es ideal para destruir bloons cerámicos.
 Super Monkey Fan Club Description,Habilidad del club de fans del supermono: convierte a hasta 10 monos darderos incluido él mismo en supermonos durante 15 segundos. También aumenta la velocidad de ataque regular.
-Sharp Shooter Description,Tl tirador afilado ejecuta ataca más rápido y ejecuta críticos que hacen mucho más daño cada varios disparos.
+Sharp Shooter Description,El tirador afilado ejecuta ataca más rápido y ejecuta críticos que hacen mucho más daño cada varios disparos.
 Ultra-Juggernaut Description,La bola claveteada gigante se divide dos veces y forma 6 bolas leviatanes que tienen aún más poder destructivo.
 Plasma Monkey Fan Club Description,Una membresía de élite de este club otorga aún más potencia a los monos darderos.
 Crossbow Master Description,El amo ballestero dispara muy rápido y aniquila a la mayoría de tipos de bloons con facilidad.
 ,
 Improved Rangs Description,Puede reventar hasta 8 bloons por tiro.
-Faster Throwing Description,Arroja búmeran más rápido.
+Faster Throwing Description,Arroja bumeranes más rápido.
 Long Range Rangs Description,Puede lanzar bumeranes más lejos de lo normal.
 Glaives Description,Lanza gujas (que son más rápidas y afiladas) en vez de bumeranes.
-Faster Rangs Description,Los búmeran se disparan y vuelan más rápido.
-Red Hot Rangs Description,Los búmeran ahora revientan bloons congelados y emplomados y hacen más daño a todos.
+Faster Rangs Description,Los bumeranes se disparan y vuelan más rápido.
+Red Hot Rangs Description,Los bumeranes ahora revientan bloons congelados y emplomados y hacen más daño a todos.
 Glaive Ricochet Description,Las gujas rebotan de bloon en bloon de forma automática y agresiva.
 Bionc Boomerang Description,Reemplaza el brazo con uno biónico fuerte que puede lanzar bumeranes extremadamente rápido y hacer más daño a los Bloons clase MOAB.
 Kylie Boomerang Description,Arroja bumeranes Kylie pesados que trazan un trayecto recto en vez de curvo.
@@ -759,7 +759,7 @@ Metal Freeze Description,Puede congelar y reventar bloons emplomados y camuflado
 Deep Freeze Description,Congela a través de 2 capas de bloons.
 Re-Freeze Description,Puede volver a congelar bloons que ya están congelados.
 Ice Shards Description,"Cuando los bloons congelados revientan, despiden esquirlas afiladísimas."
-Arctic Wind Description,Aumenta mucho la perforación y gana un aura superfría que desacelera a los bloons y derrite el agua cercana.
+Arctic Wind Description,Aumenta mucho la perforación y gana un aura superfría que desacelera a los bloons y congela el agua cercana.
 Cryo Cannon Description,Dispara bombas congelantes a los bloons con un alcance mayor.
 Embrittlement Description,"Ataca a los bloons clase MOAB y todos los bloons golpeados se vuelven frágiles, reciben daño extra cuando están congelados y pierden el camuflaje."
 Snowstorm Description,"Habilidad Tormenta de nieve: congela a todos los bloons en pantalla, congela durante un tiempo corto a los blancos, cebras y camufloons y desacelera a los clase MOAB."
@@ -833,7 +833,7 @@ Buccaneer-Pirate Lord Description,Aumenta mucho la velocidad de todos los ataque
 Buccaneer-Trade Empire Description,Genera más dinero por ronda. Aumenta el dinero que ganan hasta otros 20 buques mercantes según la cantidad que haya y potencia el daño de todos ellos.
 ,
 Rapid Fire Description,Dispara más rápido de lo normal.
-Exploding Pineapple Description,Arroja piñas al suelo y estas explotan con violencia después de unos segundos. Mejoran los ataques explosivos de Ace.
+Exploding Pineapple Description,Arroja piñas al suelo y estas explotan con violencia después de unos segundos. Mejoran los ataques explosivos del As.
 Sharper Darts Description,Cada dardo puede reventar 8 bloons.
 Lots More Darts Description,Lanza 12 dardos al mismo tiempo.
 Spy Plane Description,Permite que el mono as ataque a los camufloons y les haga más daño.
@@ -1392,8 +1392,8 @@ Impoppable,Imposibloon
 Sandbox,Entorno de pruebas
 Easy Description,"En fácil, los monos cuestan menos de lo normal, los bloons se mueven un poco más lento y tienes 200 vidas. Si superas la ronda 40 en fácil, conseguirás una medalla de bronce en ese camino."
 Medium Description,"En Intermedio, los monos cuestan lo normal, los bloons se mueven de modo normal y tienes 150 vidas. Si superas la ronda 60 en intermedio, conseguirás una medalla de plata en ese camino."
-Hard Description,"En Difícil, los Monos cuestan más de lo normal, comienzas en el asalto 3, los Bloons se mueven un poco más rápido y tienes 100 vidas. Si superas la ronda 80 en Difícil conseguirás una medalla de oro en ese camino."
-Impoppable Description,"En Imposibloon, los Monos cuestan mucho más de lo normal, comienzas en el asalto 6, los Bloons se mueven más rápido y tienes 1 vida. Si superas la ronda 100 en Imposibloon conseguirás una medalla de platino en ese camino."
+Hard Description,"En Difícil, los Monos cuestan más de lo normal, comienzas en la ronda 3, los Bloons se mueven un poco más rápido y tienes 100 vidas. Si superas la ronda 80 en Difícil conseguirás una medalla de oro en ese camino."
+Impoppable Description,"En Imposibloon, los Monos cuestan mucho más de lo normal, comienzas en la ronda 6, los Bloons se mueven más rápido y tienes 1 vida. Si superas la ronda 100 en Imposibloon conseguirás una medalla de platino en ese camino."
 Sandbox Description,"En entorno de pruebas, los monos cuestan lo normal, los bloons se mueven de modo normal y tienes vidas y dinero ilimitados."
 ,
 ,
@@ -1542,9 +1542,9 @@ Achievement 29 Description,Gana {0} partidas usando solo monos de refuerzo
 Achievement 30 Name,Inflado
 Achievement 30 Description,Gana la ronda {0} en modo deflación
 Achievement 31 Name,Superviviente
-Achievement 31 Description,Gana la ronda {0} en modo aglobolipsis
+Achievement 31 Description,Gana la ronda {0} en modo Apopalipsis
 Achievement 32 Name,Indie
-Achievement 32 Description,Gana {0} partidas con rondas de bloons alternados
+Achievement 32 Description,Gana {0} partidas con Rondas Alternativas de Bloons
 Achievement 33 Name,Posibloon
 Achievement 33 Description,Gana {0} partidas en dificultad imposibloon
 Achievement 34 Name,Ahorrativo
@@ -1607,7 +1607,7 @@ Hint 89,"¿Qué es un bloon DDT, preguntas? Es como un MOAB combinado con un blo
 Hint 100,Felicitaciones por superar la ronda 100. Disfruta la recompensa.
 ,
 //Alternate Round Messages [will comment out duplicates for now / warnings],
-Alternate Hint 3,Rondas de bloons alternados...
+Alternate Hint 3,Rondas Alternativas de Bloons…
 Alternate Hint 4,"Ya sabrás que con alternados queremos decir más difíciles, ¿no?"
 Alternate Hint 5,¿Entraste en pánico cuando viste al camufloon?
 Alternate Hint 7,¿Sigues con el máximo de vidas?
@@ -1858,7 +1858,7 @@ NavalUpgradesDescription,El Mono Bucanero y el Submonino reciben +1 de perforaci
 TradeAgreements,Acuerdos comerciales
 TradeAgreementsDescription,El buque mercante genera +$20 por ronda.
 AirforceUpgrades,Mejoras aeronáuticas
-AirforceUpgradesDescription,El Mono As y el Helipiloto revientan reciben +1 de perforación por disparo.
+AirforceUpgradesDescription,El Mono As y el Helipiloto reciben +1 de perforación por disparo.
 BroadBladeDartlings,Dardos de punta ancha
 BroadBladeDartlingsDescription,Los disparos de las pistolas de dardos impactan en los bloons con más facilidad.
 BreakingBallistic,Balística potente
@@ -2015,7 +2015,7 @@ Buy Insta Monkeys,Comprar instamonos
 ,
 Mode Clicks,CHIMPS
 Mode DoubleMoabHealth,MOAB de PV Doble
-Mode AlternateBloonsRounds,Alternar rondas de bloons
+Mode AlternateBloonsRounds,Rondas Alternativas de Bloons
 Mode Impoppable,Imposibloon
 Mode HalfStartingCash,Mitad del dinero inicial
 Mode MagicOnly,Solo monos mágicos
@@ -2160,7 +2160,7 @@ FriendLiNKLoginFailed,Falló el inicio de sesión en Facebook. Verifica la conex
 Do It,Hazlo
 Restart?,¿Reiniciar?
 Continue Details,Reintentar esta ronda con vidas y dinero reabastecidos.
-Restart Details,¿Seguro que quieres salir y reiniciar?
+Restart Details,¿Confirmas que quieres reiniciar?
 Insta-Monkey!,¡Instamono!
 Power!,¡Poder!
 Optimizing,Optimizando...
@@ -2472,7 +2472,7 @@ SlowerMoabs,Disminuyó la velocidad de los MOAB
 BikerBonesSkinName,Aspecto Biker Bones
 BikerBonesSkinDescription,La furia del Dios del Sol ni se compara con la de Biker Bones sin límites.
 PatsPond,Estanque de Pat
-InappropriateChallengeName,Usa un nombre menos inadecuado e inténtalo de nuevo.
+InappropriateChallengeName,Elige un nombre de desafío más apropiado
 DCVictoryBody,¡Felicitaciones! Completaste {0}.
 EditorCreateVictoryBody,¡Felicitaciones! Ahora puedes compartir el desafío con otros.
 EditorOlderVersion,Este desafío se creó en la versión {0} y quizá ya no sea posible completarlo.
@@ -2735,7 +2735,7 @@ AmbushTechDescription,El tecnobot gana una opción de puntería que se activa so
 DoorGunner,Artillero de ingreso
 DoorGunnerDescription,El helicóptero de revientes especiales permite que las torres moneriles de nivel 4 e inferior ataquen a los bloons en tránsito.
 DoorGunnerDenied,No se puede convertir esta torre en artillero de ingreso
-AmbidextrousRangs,Búmeran ambidiestros
+AmbidextrousRangs,Bumeranes ambidiestros
 AmbidextrousRangsDescription,El conocimiento y entrenamiento permiten que el mono bumeranero cambie de mano para optimizar los ataques de búmeran.
 BoomerangTargetingSwitchHands,Cambio de manos
 VineRupture,Ruptura de zarzas
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] para usar Desvío oscuro dentro del alcance
 DarkChampionDarkshift,[I] para usar Desvío oscuro a cualquier ubicación válida
 SmallTowersMode,Torres moneriles pequeñas
 BigTowersMode,Torres moneriles grandes
-UpdatePopupTitle,¡Actualización 31!
-UpdatePopupDescription,"¡Nueva actualización de contenido!\n• ¡Héroe nuevo! Llega Geraldo el tendero místico y tiene un emporio increíble de objetos para reventar bloons.\n • ¡Jefe nuevo! Vortex es un maestro aéreo letal que desata su ira.\n• Diviértete mientras revientas bloons en Desarmadero, el mapa nuevo para principiantes.\n• 9 objetos nuevos en la tienda de trofeos, entre ellos un remix.\n• Explorador de desafíos: se agregaron las condiciones especiales de victoria Menos dinero y Menos grados para que disfrutes más.\n• Menú Héroes nuevo y mejorado y más cambios de calidad y equilibrio. Consulta las notas para ver todos los detalles."
+UpdatePopupTitle,¡Actualización 32!
+UpdatePopupDescription,"¡Actualización de Territorios Disputados épica!\n• Nuevo evento enorme: Territorios Disputados: ¡captura casillas de los otros equipos para dominar el marcador!\n • ¡Equipos! Llama a tus amigos y formen un equipo imparable para conquistar el territorio disputado\n• Nuevo modelo: Maestro constructor\n• Nuevo aspecto de héroe: Voidora\n• Nuevo mapa intermedio: Cantera\n• ¡Elementos de la tienda de trofeos, mejoras a la calidad de vida, cambios de balance y mucho más!"
 ResetDailyChest,Restablecer cofre diario
 JukeboxName,Rocola
 EnableFunction,Habilitar
@@ -2774,7 +2774,7 @@ PlayerStatsSettings,Estadísticas del jugador
 PlayerStatsPublicStats,Estadísticas públicas
 HiddenAchievements,Logros ocultos
 PlayerStatsTopHeroes,Héroes superiores
-PlayerStatsTopMonkeys,Monos superiores
+PlayerStatsTopMonkeys,Más usados
 PlayerStatsGamesPlayed,Partidas jugadas
 PlayerStatsGamesWon,Partidas ganadas
 PlayerStatsHighestRound,Ronda más alta
@@ -2843,7 +2843,7 @@ OdysseyAddCrew,Agrega más Monos a tu Equipo para comenzar tu Odisea
 LeaderboardHacker,No se encontraron datos.
 Bazaar,Bazar
 FloodedValley,Valle Inundado
-AdmiralBrickell,Almirante Brickwell
+AdmiralBrickell,Almirante Brickell
 AdmiralBrickell Short Description,Comandante Naval
 AdmiralBrickell Description,Comanda a todos tus Monos acuáticos a una victoria decisiva. Requiere agua para la colocación.
 AdmiralBrickell Level 1 Description,Suelta minas marinas poderosas que rastrean y destruyen Bloons.
@@ -2852,17 +2852,17 @@ AdmiralBrickell Level 3 Description,Táctica naval: aumenta mucho la velocidad d
 AdmiralBrickell Level 4 Description,Más poder reventador para las Minas Marinas.
 AdmiralBrickell Level 5 Description,Táctica Naval aumenta el poder reventador y permite a los Monos afectados dañar a todos los tipos de Bloons excepto Camu.
 AdmiralBrickell Level 6 Description,Aumenta el daño de las Minas Marinas y los ataques de Pistolas.
-AdmiralBrickell Level 7 Description,Aumenta el alcance de ataque y la detección de camufloons de Brickell.
+AdmiralBrickell Level 7 Description,Cadena de impactos: Las minas marinas se disparan más rápido durante un período corto. Brickell recibe un aumento de alcance de ataque y de detección de camufloons.
 AdmiralBrickell Level 8 Description,Táctica Naval permite que los Monos afectados dañen camufloons. Las torres acuáticas en el radio ganan más perforación.
 AdmiralBrickell Level 9 Description,Las Minas Marinas hacen daño extra.
 AdmiralBrickell Level 10 Description,Megamina: Despliega una Mina devastadora a cualquier área acuática que se activa bajo MOAB y aturde a los Bloons cercanos. Las Megaminas duran 3 rondas.
 AdmiralBrickell Level 11 Description,Velocidad y frecuencia de despliegue más rápidas para las Minas Marinas.
-AdmiralBrickell Level 12 Description,Aumento de velocidad y daño del ataque de Pistola aumento de daño de las Minas Marinas.
+AdmiralBrickell Level 12 Description,"Aumento de velocidad y daño del ataque de Pistola, aumento de daño de las Minas Marinas."
 AdmiralBrickell Level 13 Description,Tiempo de recuperación de las Megaminas reducido.
 AdmiralBrickell Level 14 Description,Duración de Táctica Naval aumentada.
-AdmiralBrickell Level 15 Description,"Las Minas Marinas Mejoradas tienen explosiones más grandes, pueden dañar Bloons Negros y quitan la propiedad de Camuflaje."
+AdmiralBrickell Level 15 Description,"Las minas marinas mejoradas tienen explosiones más grandes, pueden dañar bloons negros y quitan la propiedad de camuflaje. La pistola hace más daño."
 AdmiralBrickell Level 16 Description,El alcance de despliegue y el ataque de las Minas Marinas aumenta levemente.
-AdmiralBrickell Level 17 Description,Las Minas Marinas hacen un daño aumentado mucho mayor.
+AdmiralBrickell Level 17 Description,Las minas marinas hacen un daño aumentado mucho mayor. La pistola hace más daño.
 AdmiralBrickell Level 18 Description,Tiempo de recuperación reducido de las Megaminas reducido aún más.
 AdmiralBrickell Level 19 Description,Táctica Naval afecta a todas las torres acuáticas en todos lados.
 AdmiralBrickell Level 20 Description,La Megamina hace un daño aumentado enorme y aturde por más tiempo.
@@ -2907,7 +2907,7 @@ CoopEmoteAnimationConfettiDescription,Dispara un cañón de confeti durante cual
 CoopEmoteTextAmazingName,Emote textual Increíble
 CoopEmoteTextAmazingDescription,"Dile a otros jugadores cooperativos que jugaron Increíble o que lo que acabas de hacer fue Increíble, para que aprecien que los hayas bendecido con tu presencia."
 CoopEmoteTextPerfectTimingName,Emote textual Justo a tiempo
-CoopEmoteTextPerfectTimingDescription,¡Grita Perfect Timing en esas jugadas que llegan justo a tiempo! También puede usarse irónicamente.
+CoopEmoteTextPerfectTimingDescription,¡Grita Justo a tiempo en esas jugadas que llegan justo a tiempo! También puede usarse irónicamente.
 CoopEmoteAnimationSirenName,Efecto de sonido Sirena
 CoopEmoteAnimationSirenDescription,¡Enciende las sirenas para recordar a tus compañeros de cooperativo que se viene el fin! O que tienes que irte a hacer un sándwich.
 CoopEmoteAnimationLoveHeartsName,Animación Corazoncitos
@@ -3079,7 +3079,7 @@ GameUIProfileAvatar22ShortName,Avatar de DJ Ben
 GameUIProfileAvatar22Description,Dj Benjammin con su icónico estilo personal.
 HeroesObynPetWolfName,Mascota Lobo Fantasma de Obyn
 HeroesObynPetWolfShortName,Lobo Fantasma de Obyn
-HeroesObynPetWolfDescription,Los espíritus del bosque siempre están despiertos cuando el lobito fantasma encantador de Obyn está cerca. Solo Obyn original
+HeroesObynPetWolfDescription,Los espíritus del bosque siempre están despiertos cuando el encantador lobito fantasma de Obyn está cerca. Solo Obyn original
 HeroesEziliPetFrogName,Mascota Rana de Ezili
 HeroesEziliPetFrogShortName,Mascota Rana de Ezili
 HeroesEziliPetFrogDescription,Ezili jura que no es un estereotipo del vudú: es solo que esta rana le parece la rana más cool que hay. Solo Ezili original
@@ -3345,14 +3345,14 @@ GameUIProfileAvatar29Description,Prepárate para las fiestas con este avatar gen
 GameUIProfileAvatar30Name,Avatar personalizado: Patch festiva
 GameUIProfileAvatar30ShortName,Avatar de Patch festiva
 GameUIProfileAvatar30Description,Patch tiene una novedad para ti: feliz Navidad y próspero Año Nuevo. Objeto para coleccionistas por tiempo limitado.
-RecurringRangs,Búmeran recurrentes
-RecurringRangsDescription,Los búmeran que regresan al mono bumeranero se arrojan una segunda vez.
+RecurringRangs,Bumeranes recurrentes
+RecurringRangsDescription,Los bumeranes que regresan al mono bumeranero se arrojan una segunda vez.
 FirstLastLineOfDefense,Primera última línea de defensa
 FirstLastLineOfDefenseDescription,La primera fábrica de clavos que se compra en cada partida cuesta $150 menos.
 FlankingManeuvers,Maniobras de flanqueo
 FlankingManeuversDescription,"El francotirador, el submonino y el mono bucanero atacan 10 % más rápido cuando tienen la prioridad de objetivos en último."
 EmergencyUnlock,Desbloqueo de emergencia
-EmergencyUnlockDescription,Habilidad activada: desbloquea los pistoleros movedizos bloqueados y potencia la velocidad de giro durante un tiempo corto.
+EmergencyUnlockDescription,Habilidad activada: desbloquea los artilleros darderos bloqueados y potencia la velocidad de giro durante un tiempo corto.
 GorgonStorm,Tormenta gorgónica
 GorgonStormDescription,La tormenta de misiles hidra aturde a los bloons dañados durante un tiempo corto.
 CrossTheStreams,Cruce de rayos
@@ -3400,7 +3400,7 @@ Achievement 108 Description,Destruye las fortificaciones de los DDT fortificados
 Achievement 109 Name,El código justo
 Achievement 109 Description,Envía un desafío al explorador de contenido.
 Achievement 110 Name,Regalo doble
-Achievement 110 Description,Revienta 1 millón de bloons con pistoleros movedizos.
+Achievement 110 Description,Revienta 1 millón de bloons con artilleros darderos.
 Achievement 111 Name,Locura de cupones
 Achievement 111 Description,Gasta al menos 50 trofeos en la tienda correspondiente.
 Achievement 112 Name,Gratificación instantánea
@@ -3555,7 +3555,7 @@ Sauda Level 9 Description,Hemorragia de bloons: Sauda revienta 3 capas de bloons
 Sauda Level 10 Description,Carga de espada: Sauda se desliza por el camino y destruye a los bloons que encuentra.
 Sauda Level 11 Description,"Sauda hace más daño a los bloons desacelerados, inmobilizados o que reciben daño por tiempo de otros monos."
 Sauda Level 12 Description,Aumenta mucho la potencia de Ataque de espada con salto.
-Sauda Level 13 Description,Las hojas encantadas hacen más daño y permiten que Sauda dañe a todos los bloon.
+Sauda Level 13 Description,Las hojas encantadas hacen más daño y permiten que Sauda dañe a todos los bloons.
 Sauda Level 14 Description,Sauda ataca aún más rápido.
 Sauda Level 15 Description,Aumenta el alcance de ataque y el poder reventador. Ataque de espada con salto hace más daño.
 Sauda Level 16 Description,La carga de espada hace mucho más daño.
@@ -3882,7 +3882,7 @@ GameUIProfileAvatar45ShortName,Avatar de plano
 GameUIProfileAvatar45Description,Avatar ganador de dungeon-raided
 GameUIProfileAvatar46Name,Avatar personalizado: Ezili con máscara
 GameUIProfileAvatar46ShortName,Avatar de Ezili con máscara
-GameUIProfileAvatar46Description,También conocido como Ezili recién levantado.
+GameUIProfileAvatar46Description,También conocido como Ezili recién levantada.
 GameUIProfileAvatar47Name,Avatar personalizado: bola claveteada
 GameUIProfileAvatar47ShortName,Avatar de bola claveteada
 GameUIProfileAvatar47Description,Las bolas claveteadas nunca fueron tan geniales. Imprescindible.
@@ -4196,7 +4196,7 @@ GameUIMusicTrackMusicWinterChilledMixDescription,"Relájate, juega y mira las es
 Achievement 134 Name,David y Goliat
 Achievement 134 Description,Gana una batalla de jefe sin usar un héroe.
 Achievement 135 Name,Ninja Kiwi muy picante
-Achievement 135 Description,Supera Islas de especias en las rondas de bloons alternados solo con torres de tierra.
+Achievement 135 Description,Supera Islas de especias en las Rondas Alternativas de Bloons solo con torres de tierra.
 Achievement 136 Name,Cosecha vacía
 Achievement 136 Description,Supera Maizal en CHIMPS sin quitar nada de maíz.
 Achievement 137 Name,Préstamos estudiantiles
@@ -4334,7 +4334,7 @@ Geraldo Level 1 Description,"Objetos disponibles: torreta tiradora, montón de c
 Geraldo Level 2 Description,¡Objeto nuevo! Figura de acción rara de Quincy que aumenta de valor con el tiempo.
 Geraldo Level 3 Description,¡Objeto nuevo! Poción de visibilidad que otorga detección de camuflaje de corto plazo a una torre moneril o un héroe. Aumenta el alcance de ataque de Geraldo.
 Geraldo Level 4 Description,¡Objeto nuevo! Tubo de pegatodo que se puede colocar en el camino para demorar a los bloons.
-Geraldo Level 5 Description,¡Objeto nuevo! Piedra de afilar que mejora la perforación de una torre moneril o un héroe cuando causa daño de corte.
+Geraldo Level 5 Description,¡Objeto nuevo! Afiladora: potencia la perforación de una torre de monos o un héroe que hagan daño de tipo filoso. Geraldo ataca más rápido.
 Geraldo Level 6 Description,¡Objeto nuevo! Capa heroica gastada que convierte a un mono dardero de grado 2 o menos en Supermono. Los monos convertidos solo pueden llegar hasta grado 3.
 Geraldo Level 7 Description,"¡Objeto nuevo! Trampa cortante. Cuando un bloon la toca, se desata un remolino de cuchillas. También aumentan el daño y la perforación del ataque principal de Geraldo."
 Geraldo Level 8 Description,"¡Objeto nuevo! Botella de Llamarada Geri: salsa hiperpicante de 2,8 millones de unidades de Bloonville. Otorga un ataque incendiario durante 10 rondas a un mono, héroe o secuaz."
@@ -4347,9 +4347,9 @@ Geraldo Level 14 Description,Poción de visibilidad otorga más alcance y dura m
 Geraldo Level 15 Description,Piedra de afilar aumenta el daño además de la perforación y Trampa cortante crea un efecto más potente cuando se activa.
 Geraldo Level 16 Description,Montón de clavos viejos se convierte en Mina de clavos. Frasco de encurtidos otorga más daño contra bloons fortificados y Llamarada Geri adquiere más daño de quemadura.
 Geraldo Level 17 Description,El ataque principal de Geraldo hace más daño y Tubo de pegatodo tiene un efecto pequeño sobre bloons clase MOAB.
-Geraldo Level 18 Description,El genio adquiere un segundo ataque contra objetivos cercanos y hace más daño a los bloons clase MOAB. Ídolo aterrador aplica un velo místico a los bloons clase MOAB que causa mucho daño alrededor cuando revientan.
-Geraldo Level 19 Description,"El ataque principal de Geraldo es más rápido, tiene más alcance y hace más daño. Poción de visibilidad adquiere más daño contra los camufloons."
-Geraldo Level 20 Description,¡Objeto nuevo! Tótem que aumenta la potencia del próximo ejemplar creado. El ataque principal de Geraldo hace más daño.
+Geraldo Level 18 Description,"El Genio recibe un segundo ataque de objetivo cercano y hace daño adicional a los bloons clase MOAB. Cuando el ídolo espeluznante expira, cubre a los bloons clase MOAB cercanos con un manto místico que hace que causen daño cuando revientan."
+Geraldo Level 19 Description,El ataque principal de Geraldo se mejora mucho y la poción de ver invisibilidad hace daño adicional a los camufloons.
+Geraldo Level 20 Description,¡Objeto nuevo! Tótem de poder modelo: agrega poder modelo al siguiente modelo creado. ¡La tienda se reabastece completamente! El ataque principal de Geraldo hace más daño.
 Geraldo Shop shortname,Comprar
 Geraldo Shop name,Tienda de Geraldo
 Shooty turret name,Torreta tiradora
@@ -4365,9 +4365,9 @@ Rare Quincy action figure description,"Original de edición limitada en condicio
 See invisibility potion name,Poción de visibilidad
 See invisibility potion description,El mono que reciba este elixir de eficacia extrema verá a los camufloons con facilidad. El efecto se agota con el tiempo.
 Tube of amaz-o-glue name,Tubo de pegatodo
-Tube of amaz-o-glue description,¡Es increíble! Aplica un tubo de esta maravilla moderna en el camino y observa cómo pierden velocidad los bloons.
+Tube of amaz-o-glue description,¡Verdaderamente increíble! Aplica un pomo de esta maravilla moderna en cualquier lugar del camino y la siguiente tanda de bloons irá más lenta. Dura 4 rondas o hasta gastarse.
 Sharpening stone name,Piedra de afilar
-Sharpening stone description,"Afila los dardos, camarada. Úsala con los dardos y cuchillas para que sean más filosos que nunca."
+Sharpening stone description,"¡Afila esos dardos, amigo! Aplica esto a tus dardos y cuchillas para afilarlos. Se acaba después de 15 rondas."
 Worn heros cape name,Capa heroica gastada
 Worn heros cape description,"¡Digna de todo héroe! Úsala con uno de los monos darderos y observa la transformación. Tiene poco uso y aún menos grados, eh, desgarros."
 Blade trap name,Trampa cortante
@@ -4393,7 +4393,7 @@ ConfirmLogoutDesc,"¿Seguro quieres cerrar sesión en la cuenta? Si es así, ano
 VortexTagLine,Llega desde el cielo
 VortexTagLine2,Maestro aéreo letal
 Vortex,Vortex
-VortexInfoPanelDescription,"• Vortex se mueve como un rayo y acelera a los bloons.\n• Cuando cada barra de vida llega a la calavera, Vortex se protege, envía una onda expansiva que aturde a las torres cercanas y retrocede en el camino.\n• También emite un pulso de tormenta regular q"
+VortexInfoPanelDescription,"• Vortex se mueve como un rayo y acelera a los bloons.\n• Cuando cada barra de vida llega a la calavera, Vortex se protege, envía una onda expansiva que aturde a las torres cercanas y retrocede en el camino.\n• También emite un pulso de tormenta regular que destruye los proyectiles (entre ellos los que no sean de poderes) en el camino."
 Scrapyard,Desarmadero
 BloonsAllBloonsCatEarName,Bloons con orejas de gato
 BloonsAllBloonsCatEarShortName,Bloons con orejas de gato
@@ -4478,29 +4478,516 @@ GoalSetForTiers,El objetivo es {0} grados
 ChallengeCashUsed,Usaste {0}/{1} de dinero
 ChallengeTiersUsed,Usaste {0}/{1} grados
 ShootyTurret,Torreta tiradora
-CreepyIdol,Ídolo aterrador
+CreepyIdol,Ídolo espeluznante
 RareQuincyActionFigure,Figura de acción rara de Quincy
-GenieBottle,Lámpara de genio
-ParagonPowerTotem,Tótem de ejemplar
+GenieBottle,Botella de genio
+ParagonPowerTotem,Tótem de poder modelo
 FriendScreenErrorRequestFailed,Solicitud de amistad fallida
 FriendScreenErrorInvalidCode,Código de amigo no válido
 FriendScreenErrorBlocked,Disculpa, el jugador que intentas agregar bloqueó las solicitudes de amistad.
 FriendScreenErrorAlreadySent,Ya enviaste una solicitud de amistad a este jugador.
 FriendScreenErrorTooManyFriends,Alcanzaste el límite máximo de amigos. Puedes hacer lugar quitando a un amigo existente o cancelando una solicitud de amistad que hayas hecho.
 MapEditor,Editor de mapas
-Jar of Pickles description level 11,Pruebe estos pepinillos en una de sus Torres Mono y golpeará más fuerte, pero disparará más lento por un tiempo. ¡Ahora con mayor daño a Bloons fortificados!
-Creepy idol description level 12,Coloque este ídolo de aspecto espeluznante cerca de la pista para asustar a algunos Bloons (¡incluso MOAB!) de regreso de donde vinieron.
-Shooty turret description level 13,Una torreta permanente de tiro de dardos hecha a mano. ¡Actualizado! Dispara más rápido y hace más daño.
-Stack of old nails description level 13,Sí, es solo una pila muy grande de clavos viejos, pero colóquelos en cualquier lugar de la pista y reventarán fácilmente esos bloons perdidos.
-See invisibility potion description level 14,¡Cualquier mono que regales con este elixir extremadamente eficaz podrá ver Camo Bloons con facilidad! Los efectos desaparecerán. ¡Ahora da mayor alcance y dura aún más!
-Sharpening stone description level 15,¡Afila esos dardos, amigo! Aplica esto a tus dardos y cuchillas y estarán más afilados y harán más daño que nunca.
-Blade trap description level 15,¡Coloca esto en la pista y observa cómo las grandes cuchillas giratorias destrozan a los primeros Bloons que lo tocan! Nuevo modelo más potente!
-Stack of old nails description level 16,Sí, es solo una MINA DE UÑAS GIGANTE, pero colócala en cualquier parte de la pista y hará estallar fácilmente esos Bloons perdidos.
-Jar of Pickles description level 16,Pruebe estos pepinillos en una de sus Torres Mono y golpeará más fuerte, pero disparará más lento por un tiempo. ¡Ahora con AÚN MÁS daño aumentado a Bloons fortificados!
-Gerrys fire hot sauce description level 16,2,8 millones de unidades de Bloonville. ¡Quien pruebe esta salsa especial estará echando fuego por un rato! Ahora con extra burny-ness.
-Tube of amaz-o-glue description level 17,¡Verdaderamente asombroso! Aplique un tubo de esta maravilla moderna en cualquier parte de la pista y observe cómo el siguiente grupo de Bloons e incluso los MOAB se ralentizan.
-Genie bottle description level 18,Invoca a un mono genio de esta brillante botella azul, pero ten cuidado, ¡no durará para siempre! (sin deseos incluidos con la compra). Ataque adicional y más daño a MOAB ahora incluidos.
-Creepy idol description level 18,Coloque este ídolo de aspecto espeluznante cerca de la pista para asustar a algunos Bloons de donde vinieron. ¡Mejora de Mystical Shroud desbloqueada!
-See invisibility potion description level 19,¡Cualquier mono que regales con este elixir extremadamente eficaz podrá ver Camo Bloons con facilidad y hacerles más daño! Los efectos desaparecerán.
-FriendScreenSureUnBlock,¿Estás seguro de que quieres desbloquear a este usuario?
-None,Ninguna
+Jar of Pickles description level 11,"Prueba estos pickles en una de tus torres de monos y sus impactos serán más fuertes, pero dispararán más lento por un tiempo. ¡Ahora con daño aumentado a bloons fortificados!"
+Creepy idol description level 12,Coloca este ídolo espeluznante cerca del camino para asustar a algunos bloons (¡incluso MOAB!) y hacer que regresen al lugar de donde vinieron.
+Shooty turret description level 13,Una torreta permanente que dispara dardos hechos a mano. ¡Mejorada! Dispara más rápido y hace más daño.
+Stack of old nails description level 13,"Sí, son un montón de clavos viejos. Pero ponlos en cualquier lugar del camino y reventarán esos bloons perdidos. Muy útil."
+See invisibility potion description level 14,Cualquier mono al que le des este elixir extremadamente eficaz podrá ver camufloons fácilmente. Los efectos se agotan. ¡Ahora da un alcance mayor y dura más tiempo!
+Sharpening stone description level 15,"¡Afila esos dardos, amigo! Aplica esto a tus dardos y cuchillas para afilarlos; harán más daño que nunca."
+Blade trap description level 15,¡Coloca esto en el camino y mira cómo tritura los primeros bloons que tocan sus cuchillas giratorias! ¡Un modelo más nuevo y más poderoso!
+Stack of old nails description level 16,"Sí, es solo una MINA DE CLAVOS GIGANTE, pero ponla en cualquier lugar del camino y reventará esos bloons perdidos. Muy útil."
+Jar of Pickles description level 16,"Prueba estos pickles en una de tus torres de monos y sus impactos serán más fuertes, pero dispararán más lento por un tiempo. ¡Ahora con MÁS daño aumentado a bloons fortificados!"
+Gerrys fire hot sauce description level 16,"2,8 millones de unidades en la escala Bloonville. ¡Quien pruebe esta salsa especial escupirá fuego por un rato! Ahora con quemación extra."
+Tube of amaz-o-glue description level 17,¡Verdaderamente increíble! Aplica un pomo de esta maravilla moderna en cualquier lugar del camino y la siguiente tanda de bloons y hasta los MOAB irán más lentos.
+Genie bottle description level 18,Invoca a un mono genio con esta botella de oro brillante pero ten cuidado: ¡no durará para siempre! (La compra no incluye tres deseos. Sí incluye ataque extra y más daño a los MOAB).
+Creepy idol description level 18,Coloca este ídolo espeluznante cerca del camino para asustar a algunos bloons y hacer que regresen al lugar de donde vinieron. ¡Mejora de manto místico desbloqueada!
+See invisibility potion description level 19,Cualquier mono al que le des este elixir extremadamente eficaz podrá ver camufloons fácilmente y hacerles más daño. Los efectos se agotan.
+FriendScreenSureUnBlock,¿Confirmas que quieres desbloquear a este usuario?
+None,Ninguno
+Knowledge Requirement Monkey Money,No alcanzan los Mónares. ¿Comprar más?
+Knowledge Requirement Points,No alcanzan los Puntos de Conocimiento.
+InviteFriend,Invitar a un amigo
+InvitedToJoin,{0} te invitó a una partida cooperativa. ¿Deseas unirte?
+HeroesMountainObynPetBalfrogName,Mascota balfrog
+HeroesMountainObynPetBalfrogShortName,Mascota balfrog
+HeroesMountainObynPetBalfrogDescription,"De las minas oscuras bajo las montañas neblinosas, esta ranita cálida es capaz de avivar cualquier conversación cuando alguien la ""llama"". Solo montaña Obyn"
+TowerPropMonkeyVillagePrideFlagName,Bandera de orgullo de la Aldea Moneril
+TowerPropMonkeyVillagePrideFlagShortName,Bandera de orgullo de la aldea
+TowerPropMonkeyVillagePrideFlagDescription,Celebra la diversidad con esta bandera de orgullo espectacular para tus Aldeas Moneriles. Aparece en todas las mejoras
+CoopEmoteTextNeedMoreName,¡Necesito más! Emote textual
+CoopEmoteTextNeedMoreShortName,¡Necesito más!
+CoopEmoteTextNeedMoreDescription,"Cuando necesitas más dinero, bloons, defensas o simplemente comida. Este emote es genial para toda ocasión."
+CoopEmoteTextNeedMoreWord,¡Necesito más!
+CoopEmoteAnimationRainbowName,Animación de arcoíris
+CoopEmoteAnimationRainbowShortName,Arcoíris
+CoopEmoteAnimationRainbowDescription,¡Canten todos! Somewheeere over the rainbow...
+GameUIProfileAvatar61Name,Avatar del mono dardero
+GameUIProfileAvatar61ShortName,Avatar del mono dardero
+GameUIProfileAvatar61Description,¡Todos adoren al poderoso Dardo! ¡Reventador de bloons!
+GameUIProfileAvatar62Name,Avatar de Geraldo
+GameUIProfileAvatar62ShortName,Avatar de Geraldo
+GameUIProfileAvatar62Description,"Hola, amigo, ¿te interesa un conejo blanco suavecito? Es totalmente inofensivo, ¿no te parece?"
+GameUIProfileBanner15Name,Banderola estilo BTD OG
+GameUIProfileBanner15ShortName,Banderola estilo BTD OG
+GameUIProfileBanner15Description,"Banderola ganadora, por Lord Teddington"
+GameUIProfileBanner16Name,Banderola Espíritu del Bosque
+GameUIProfileBanner16ShortName,Banderola Espíritu del Bosque
+GameUIProfileBanner16Description,"Banderola ganadora, por tricky999tricky"
+GameUIMusicTrackMusicTribesJaloonMixName,Rocola: Tribes & Tribulations - Jaloon Remix
+GameUIMusicTrackMusicTribesJaloonMixShortName,Tribes - Jaloon
+GameUIMusicTrackMusicTribesJaloonMixDescription,Sal a la pista de baile con este remix de la famosa pista Tribes & Tribulations
+Quarry,Cantera
+VoidoraAdoraSkinName,Aspecto de Voidora
+VoidoraAdoraSkinDescription,Vengo del Vacío
+VoidoraAdoraSkinNameFull,Voidora
+InappropriateTeamName,Elige un nombre de equipo más apropiado
+TeamNameNotUnique,¡Ese nombre ya está tomado! Elige otro o prueba agregar dígitos
+TeamNameTooShort,Los nombres de equipo deben tener entre {0} y {1} caracteres
+SentryParagonChild,Centinela modelo modificado
+LoginwithEpic,Iniciar sesión con Epic
+EnterLinkingCode,Escribe el código de vinculación:
+Connect,Conectar
+PrivacyPolicy,Política de privacidad
+TermsOfService,Términos de servicio
+ConfirmAgeInfo,Confirma tu edad actual para continuar. Debes iniciar sesión para usar las funciones adicionales en línea y guardar datos.
+AgeQuestion,¿Tienes {0} años o más?
+AgeYes,"Sí, tengo {0} años o más."
+AgeNo,"No, tengo menos de {0}."
+PersonalAccountInfo,"Puedes crear una cuenta personal sin usar información que permita identificarte.
+Cuando eliges Acepto, significa que tu madre, padre o tutor revisó la política de privacidad y los términos de servicio de Ninja Kiwi contigo y que los acepta junto con nuestra capacidad de almacenar tu información de juego y de cuenta (que no permite identificarte). Los datos se almacenan mediante nuestro servicio, que incluye el uso de servidores ubicados en EE. UU."
+AgreeCreateAccount,"Acepto, crear una cuenta"
+NormalAccountInfo,"Si continúas, aceptas la política de privacidad y los términos de servicio de Ninja Kiwi junto con nuestra capacidad de almacenar tu información de juego y de cuenta mediante nuestro servicio, que incluye el uso de servidores ubicados en EE. UU."
+LoggedInAs,Iniciaste sesión como:
+EpicAccountId,ID de cuenta de Epic:
+NeedHelp,¿Necesitas ayuda?
+ContactSupport,Hablar con soporte técnico
+DeleteAccountText,"Si eliminas la cuenta, perderás acceso al progreso y los datos en la nube.
+Escribe tu ID de usuario (como aparece abajo) en el cuadro para eliminar la cuenta. El proceso puede demorar de 48 a 72 horas."
+EnterUserId,Escribe la ID de usuario aquí
+GetAllButton,Obtener todo
+GetAllConfirmation,¡Confirma que quieres gastar tus Mónares para obtener todos los héroes y aspectos disponibles!
+DeleteAccount,Borrar cuenta
+CtLeaderboardTitle,Marcadores de Territorio Disputado
+LocalTeams,Equipos locales
+LocalPlayers,Jugadores locales
+GlobalTeams,Equipos globales
+GlobalPlayers,Jugadores globales
+CreateTeamPanelTitle,Crear equipo
+CreateTeamTitle,Crear un equipo
+CreateTeamNameDescription,Nombre del equipo:
+CreateTeamNameInputField,Ingresar nombre de equipo...
+CreateTeamCostDescription,Gasta {0} para crear un equipo
+CreateTeamFailed,Falló la creación de equipo
+EditTeamPanelTitle,Editar equipo
+EditTeamTitle,Editar tu equipo
+EditTeamNameDescription,Edita el nombre del equipo:
+TeamEmblemTitle,Emblema
+TeamBannerTitle,Banderola
+TeamEmblemsTitle,Emblemas
+TeamBannersTitle,Banderolas
+TeamGeneralTitle,General
+TeamSettingPublicTitle,Pública
+TeamSettingPrivateTitle,Privada
+TeamSettingClosedTitle,Cerrada
+TeamJoin,Unirse
+TeamApply,Aplicar
+RecentWin,Victoria reciente:
+TileHeldBy,Casilla bajo control de:
+Score,Puntuación
+ScoreDegradesIn,La puntuación se degrada en:
+NeutralOwnerIn,Dueño neutral en:
+Tile,Casilla: {0}
+RelicTile,Casilla de reliquia
+BannerTile,Casilla de banderola
+BonusCTPoints,¡Puntos TD adicionales!
+DailyRelics,Reliquias diarias
+HeldRelics,Reliquias bajo control
+Tickets,Pases:
+PurchaseTickets,Comprar pase
+MoreTicketsIn,Más pases en:
+CTTitleName,Territorio Disputado
+CTTeamStore,Tienda de equipo
+CTMyTeam,Mi equipo
+CTTeamTrophies,Trofeos de equipo
+CTTickets,Pases
+CTTeamTickets,Pases del equipo
+CTNextTicketsIn,Próximos pases en:
+CTTileSearch,Búsqueda de casillas
+CTOwner,Dueño:
+CTScore,Puntuación:
+CTNeutralIn,Neutral en:
+CTPosition,Posición:
+CTUncaptured,Sin capturar
+CTCheckpoint,¡Punto de control alcanzado!
+CTNewScore,¡Nueva puntuación!
+CTBestScore,Mejor puntuación
+TimeAttack,Ataque por tiempo
+ERR_NOT_LOGGED_IN,No se inició sesión
+ERR_ALREADY_PENDING,Solicitud ya pendiente
+ERR_FEATURE_UNAVAILABLE,Función no disponible vuelve a intentarlo más tarde
+ERR_REQUEST_PARAMETER_MISSING,Parámetro faltante
+ERR_GUILD_FULL,Equipo completo
+ERR_GUILD_NAME_EXISTS,El nombre de equipo ya existe
+ERR_GUILD_DOES_NOT_EXIST,El equipo no existe
+ERR_GUILD_CANNOT_DISBAND,El equipo no se puede desbandar
+ERR_GUILD_PERMISSION_DENIED,Permiso denegado
+ERR_GUILD_CANNOT_UPDATE_OWNER_DENIED,No se puede actualizar el dueño de equipo permiso denegado
+ERR_GUILD_CANNOT_UPDATE_OWNER_NONE,No se puede actualizar el dueño de equipo
+ERR_TIMEOUT,Solicitud caducada vuelve a intentarlo más tarde
+CreateNewTeamText,¿Crear equipo nuevo?
+ParagonLimitReached,Límite de modelos alcanzado
+TeamMsgNewMayor,¡{0} es el nuevo alcalde!
+TeamMsgPlayerJoined,{0} se unió al equipo
+TeamMsgPlayerLeft,{0} abandonó el equipo
+TeamMsgPlayerKicked,{0} fue expulsado del equipo por {1}.
+TeamMsgPlayerDemoted,{0} fue degradado por {1}.
+TeamMsgRegularTileCaptured,{0} capturó una casilla normal. ¡Excelente trabajo!
+TeamMsgBannerTileCaptured,{0} capturó una casilla de banderola. ¡Excelente!
+TeamMsgRelicTileCaptured,{0} capturó una casilla de reliquia y agregó {1} a la lista de reliquias del equipo. ¡Bien hecho!
+TeamMsgRegularTileCapturedOtherGuild,{0} capturó una casilla normal de {1}. ¡Excelente trabajo!
+TeamMsgBannerTileCapturedOtherGuild,{0} capturó una casilla de banderola de {1}. ¡Excelente!
+TeamMsgRelicTileCapturedOtherGuild,{0} una casilla de reliquia de {2} y agregó {1} a la lista de reliquias del equipo. ¡Bien hecho!
+TeamMsgRelicTileLost,¡Casilla de reliquia perdida! {0} ya no está disponible.
+TeamMsgPlayerPromoted,{0} fue ascendido a alcalde adjunto por {1}.
+TeamMsgTeamCreated,El equipo {0} fue creado por {1}
+TeamMsgNewFocusMarker,Nueva marca de foco establecida por {0}
+TeamMsgFlairUnlocked,¡{0} recibió todos los fondos! ¡Excelente intento!
+TileCaptured,Casilla capturada
+TileNotCaptured,Casilla no capturada
+TicketUsed,Pase usado
+NoTicketUsed,No se usó pase
+ScoreToBeat,Puntuación a superar:
+YourScore,Tu puntuación:
+PublicWithBrackets,(Pública)
+PrivateWithBrackets,(Privada)
+CTRelicWon,¡Reliquia ganada!
+CTBonusPoints,¡Puntos adicionales!
+Teams,Equipos
+CaptureScoreMissed,¡Puntos de captura perdidos!
+CaptureScoreNear,¡Advertencia! Acercándose a los puntos de captura
+CtInternalError,Ocurrió un error interno vuelve a intentarlo más tarde
+CtServerError,El servidor de Territorio Disputado no puede procesar tu solicitud en este momento. Vuelve a intentarlo más tarde.
+Achievement 143 Name,Territorio Conquistado
+Achievement 143 Description,Captura 5 casillas de otros jugadores
+Achievement 144 Name,Principios de imperio
+Achievement 144 Description,Captura 50 casillas
+Achievement 145 Name,Catador de territorios
+Achievement 145 Description,"Captura 1 de cada casilla: jefe, ataque por tiempo, menos grados y menos casillas de dinero"
+CTLeastCashDescription,Usa la menor cantidad de dinero posible para ganar la casilla. El dinero gastado incluye la colocación de torres de monos y las mejoras además de las mejoras de héroes pagas. Vender un mono no reduce el dinero gastado.
+CTLeastTiersDescription,Usa la menor cantidad posible de torres de monos y mejoras para ganar la casilla. Cada mono y héroe colocado y cada mejora cuenta como una grado. Las mejoras de héroes pagas también cuentan como grado. Vender un mono no reduce el conteo de grados.
+CTTimeAttackDescription,"Gana el tiempo más rápido posible para ganar la casilla. Según el evento de carrera, el temporizador se inicia cuando pulsas ""jugar"". Envía las próximas rondas antes para mejorar el tiempo, ¡pero ten cuidado! Las partidas de ataque por tiempo no se guarda"
+CTBossDescription,"Destruye al jefe lo más rápido posible para ganar la casilla. Según el evento de jefe, el temporizador se inicia cuando el jefe aparece en pantalla. Los jefes de Territorio Disputado serán o grado 1 solo o grados 1 y 2, dependiendo del conteo de ronda de "
+CtEventEnded,"Lamentablemente, el evento terminó"
+RelicStartingStash,Reserva inicial
+RelicExtraEmpowered,Empoderamiento extra
+RelicBoxOfChocolates,Caja de chocolates
+RelicBoxOfMonkey,Caja de monos
+RelicMarchingBoots,Botas de marcha
+RelicHeroBoost,Potenciador de héroe
+RelicBiggerBloonSabotage,Sabotaje bloon mayor
+RelicRoundingUp,Redondeando
+RelicManaBulwark,Bastión de maná
+RelicRegeneration,Regeneración
+RelicRestoration,Restauración
+RelicDurableShots,Disparos duraderos
+RelicAlchemistTouch,Toque alquimista
+RelicDeepHeat,Calor profundo
+RelicSharpsplosion,Filoso-fía
+RelicRoyalTreatment,Digno de la realeza
+RelicHardBaked,Cocido a fondo
+RelicFortifried,Fortifreído
+RelicMoabClash,Choque de MOAB
+RelicCamoFlogged,Camuflojo
+RelicBrokenHeart,Corazón roto
+RelicGoingTheDistance,A fondo
+RelicHeartless,Descorazonado
+RelicFlintTips,Puntas chisperas
+RelicAbilitized,Habilidizado
+RelicAirAndSea,Aire y mar
+RelicElDorado,El Dorado
+RelicMonkeyShield,Escudo moneril
+RelicMonkeyShieldMark2,Escudo moneril ver. 2
+RelicMonkeyShieldMark3,Escudo moneril ver. 3
+RelicPsiVision,Psivisión
+RelicOpenSeason,Temporada de caza
+RelicCamoTrap,Camutrampa
+RelicThrive,Prosperidad
+RelicSuperMonkeyStorm,SMS
+RelicMonkeyBoost,Potenciador moneril
+RelicRoadSpikes,Abrojos
+RelicMoabMine,Mina de MOAB
+RelicGlueTrap,Pegatrampa
+RelicTechbot,Tecnobot
+RelicPrimaryPrimates,Primates primarios
+RelicMilitaryMonkeys,Monos militares
+RelicMagicMonkeys,Monos mágicos
+RelicSupportSimians,Refuerzo primate
+RelicMonkeyTycoon,Mono magnate
+RelicStartingStashDescription,Comienza cada partida con 300 de dinero extra (se apila con Más dinero en casillas normales)
+RelicExtraEmpoweredDescription,Tu héroe comienza una partida con 3 niveles extra (se apila con Héroes empoderados en casillas normales)
+RelicBoxOfChocolatesDescription,Comienza cada partida con 100 vidas extra
+RelicBoxOfMonkeyDescription,Comienza cada partida con un mono gratis que cueste $500 o menos para una ubicación inicial no modificada
+RelicMarchingBootsDescription,"En partidas de conteo restringidas, da a los jugadores +1 máx. conteo de cada torre en su armamento o +4 máx. conteo total por partida"
+RelicHeroBoostDescription,Los héroes ganan PE un 10 % más rápido en cada partida
+RelicBiggerBloonSabotageDescription,Todos los bloons clase MOAB se generan con un 15 % menos de salud y se mueven al 95 % de velocidad
+RelicRoundingUpDescription,Gana +$20 al final de cada ronda
+RelicManaBulwarkDescription,Crea un escudo especial que absorbe hasta 50 vidas (se apila con Escudo de maná en casillas normales)
+RelicRegenerationDescription,Restaura 10 vidas por ronda hasta el valor de vidas inicial de cada partida si no se perdieron vidas en esa ronda
+RelicRestorationDescription,Restaura 20 vidas por ronda hasta un valor de vidas inicial incrementado de +200 si no se perdieron vidas en esa ronda
+RelicDurableShotsDescription,Todos los proyectiles tienen un promedio de vida de +25 %
+RelicAlchemistTouchDescription,Todos los ataques revientan bloons emplomados
+RelicDeepHeatDescription,Todos los ataques revientan bloons blancos
+RelicSharpsplosionDescription,Todos los ataques revientan bloons negros
+RelicRoyalTreatmentDescription,Todos los ataques revientan bloons violetas
+RelicHardBakedDescription,Todos los ataques hacen +1 de daño a bloons cerámicos
+RelicFortifriedDescription,Todos los ataques hacen +1 de daño a bloons fortificados
+RelicMoabClashDescription,Todos los ataques hacen +3 de daño a bloons clase MOAB
+RelicCamoFloggedDescription,Todos los ataques hacen +1 de daño a camufloons
+RelicBrokenHeartDescription,Todos los ataques hacen +1 de daño a bloons regenerativos
+RelicGoingTheDistanceDescription,Todos los monos ganan +10 % de alcance
+RelicHeartlessDescription,La tasa de regeneración de los bloons regenerativos se reduce en un 25 %
+RelicFlintTipsDescription,Los proyectiles filosos agregan un toque de fuego a todos los bloons que dañan (1 daño cada 2 seg. durante 4 seg. en total)
+RelicAbilitizedDescription,Los tiempos de recuperación de todas las habilidades activadas se reducen en un 10 %
+RelicAirAndSeaDescription,"As, heli, bucanero y sub tienen una reducción en los costos de colocación y mejora de un 10 % y una mejora en la recarga de un 5 %"
+RelicElDoradoDescription,Todos los Mónares y las recompensas de trofeos de equipo de las victorias de partidas aumentan en un 25 % (mínimo +1)
+RelicMonkeyShieldDescription,"Durante 1 hora tras su captura, la casilla no puede ser atacada por equipos oponentes. La puntuación mejorada se reactiva."
+RelicMonkeyShieldMark2Description,"Durante 2 horas tras su captura, la casilla no puede ser atacada por equipos oponentes. La puntuación mejorada se reactiva."
+RelicMonkeyShieldMark3Description,"Durante 3 horas tras su captura, la casilla no puede ser atacada por equipos oponentes. La puntuación mejorada se reactiva."
+RelicPsiVisionDescription,Mira los detalles completos de todas las casillas del mapa
+RelicOpenSeasonDescription,Ataca a cualquier casilla del mapa
+RelicCamoTrapDescription,Otorga el uso de 2 potenciadores Camutrampas por partida
+RelicThriveDescription,Otorga el uso de 2 potenciadores Prosperidad por partida
+RelicSuperMonkeyStormDescription,Otorga el uso de 2 SMS por partida
+RelicMonkeyBoostDescription,Otorga el uso de 3 potenciadores de monos por partida
+RelicRoadSpikesDescription,Otorga 10 apilamientos de abrojos por partida
+RelicMoabMineDescription,Otorga el uso de 1 potenciador Mina de MOAB por partida
+RelicGlueTrapDescription,Otorga el uso de 2 potenciadores Pegatrampa por partida
+RelicTechbotDescription,Otorga el uso de 1 potenciador Tecnobot por partida
+RelicPrimaryPrimatesDescription,Reduce el costo de todos los monos primarios en un 10 %
+RelicMilitaryMonkeysDescription,Reduce el costo de todos los monos militares en un 10 %
+RelicMagicMonkeysDescription,Reduce el costo de todos los monos mágicos en un 10 %
+RelicSupportSimiansDescription,Reduce el costo de todos los monos de refuerzo en un 10 %
+RelicMonkeyTycoonDescription,Obtienes +1 en todas las torres de monos de tu arsenal y su precio de base se reduce en un 5 %.
+InviteToTeam,Invitar al equipo
+TeamLeave,Abandonar equipo
+Requests,Solicitudes
+TeamMessagesTab,Mensajes
+TeamRosterTab,Nómina
+TeamPending,Pendiente
+CancelRequest,Cancelar solicitud
+TeamDisband,Desbandar equipo
+TeamCode,Código de equipo
+TeamMemberCount,{0}/{1} miembros
+TeamPendingApplications,({0} pendientes)
+TeamNoInfo,No hay información para mostrar
+AllTeams,Todos los equipos
+TeamsAdvancedSearch,Búsqueda avanzada
+TeamInvitationDisband,Tienes que desbandar tu equipo antes de aceptar una invitación
+TeamInvitationAcceptWarning,Aceptar esta invitación te quitará de tu equipo actual
+TeamBrowserAllTeams,Todos los equipos
+TeamBrowserFriendsTeams,Equipos de amigos
+TeamBrowserTeamRequests,Solicitudes
+TeamQuickJoin,Unirse rápido
+TeamBrowserTitle,Explorador de equipos
+TeamBrowserSearchField,Ingresar nombre de equipo...
+TeamBrowserSearchHideFull,Ocultar equipos completos
+TeamBrowserSearchHidePrivate,Ocultar equipos privados
+TeamBrowserSearchHideClosed,Ocultar equipos cerrados
+TeamEditApplyAll,Aplicar todo
+TeamScore,Puntuación: {0}
+TeamRemoveMember,¿Confirmas que quieres quitar a este miembro?
+TeamPromoteMember,¿Confirmas que quieres ascender a este miembro?
+TeamDemoteMember,¿Confirmas que quieres degradar a este miembro?
+TeamErrorShowPop,Error de equipo
+TeamOwnershipTransferTitle,Transferencia de propiedad de equipo
+TeamOwnershipTransferFailed,No se pudo transferir la propiedad al jugador nuevo
+TeamOwnershipTransferWarning,¿Confirmas que quieres transferir la propiedad del equipo a este miembro? ¡Esto no se puede deshacer!
+TeamLeaveConfirm,¿Confirmas que quieres abandonar el equipo?
+TeamDisbandConfirm,¿Confirmas que quieres desbandar el equipo?
+TeamOwnershipLeavingWarning,Transfiere la propiedad del equipo a otro miembro antes de irte
+TeamNoneFound,Equipo no encontrado
+CTLocal,TD local
+CTGlobal,TD global
+Rank4th,4.°
+Rank4thAnd,4.°-10.°
+Rank11thAnd,11.°-20.°
+Rank21stAnd,21.°-40.°
+Rank41stAnd,41.°-60.°
+RewardsTop25,Mejores 25
+RewardsTop100,Mejores 100
+DegradedScore,Puntuación degradada
+ERR_INVITATION_NO_LONGER_EXISTS,La invitación ya no existe
+TeamMateSetScore,¡Un compañero de equipo estableció una nueva puntuación a superar!
+AnotherTeamSetScore,¡Otro equipo estableció una nueva puntuación a superar!
+FriendScreenErrorTeamInviteAlreadyMember,Este jugador ya está en tu equipo
+TotalTeamScore,Puntuación de equipo
+CTRulesInfo,"¡Bienvenido a Territorios Disputados! ¡Trabaja con tu equipo, captura casillas, asciende a la cima de los marcadores y gana grandes recompensas!\n\n• Los pases de captura solo se usan si capturas una casilla. Se actualizan cada 24 horas.\n• Los pases de captura sin usar irán a un fondo de pases que otros miembros del equipo podrán usar al día siguiente.\n• Una vez capturada la casilla, sus puntos se degradarán lentamente hasta que la casilla se vuelva neutral después de 24 horas.\n• Los puntos TD se ganan al capturar una casilla y por cada hora que mantengas el control de dicha casilla. Los puntos TD deciden tu ubicación y la de tu equipo en el marcador, ¡así que no dejes de apoderarte de casillas!\n• Las casillas de banderola son más difíciles pero dan más puntos TD.\n• Las casillas de reliquia le dan a tu equipo acceso a conocimientos de reliquias que les ayudarán a capturar casillas.\n• El progreso en las casillas se guarda cada 20 rondas y solo puedes tener una guardada en progreso a la vez.\n•Vota por las reliquias que prefieras en la tienda de trofeos de equipo y luego elige qué reliquias específicas llevarás a la batalla en la página de preparación antes de una partida."
+TeamTrophyStoreRulesInfo,"Esta es la tienda de trofeos del equipo, donde puedes votar por reliquias DT desbloqueadas, financiar poderes diarios, reliquias de eventos y distinciones de equipo.\n•Los poderes diarios están disponibles para desbloquear diariamente durante el evento TD y, una vez financiados, pueden ser usados por todo el equipo durante ese día.\n• Las reliquias de eventos se vuelven disponibles durante el evento DT y una vez que son financiadas pueden ser usadas durante lo que queda de ese evento. Son aparte de las reliquias desbloqueadas mediante las casillas de reliquias.\n• Captura casillas de reliquias y luego vota por tus conocimientos de reliquias preferidos desbloqueados en este evento. Las 7 mejores reliquias estarán disponibles para elegir en tu arsenal final de 4 reliquias.\n• La distinción de equipo es financiada por todo el equipo y una vez que se alcanza, queda desbloqueada para siempre para tu equipo. Los jugadores que se van del equipo no se llevan la distinción de equipo."
+TeamsBanner1Name,Banderola Monos en el espacio
+TeamsBanner2Name,Banderola Equipo heroico
+TeamsBanner3Name,Banderola Alegre
+TeamsBanner4Name,Banderola Cielo shuriken
+TeamsBanner5Name,Banderola Monos unidos
+TeamsBanner6Name,Banderola Reino disputado
+TeamsBanner1ShortName,Banderola Monos en el espacio
+TeamsBanner2ShortName,Banderola Equipo heroico
+TeamsBanner3ShortName,Banderola Alegre
+TeamsBanner4ShortName,Banderola Cielo de shuriken
+TeamsBanner5ShortName,Banderola Monos unidos
+TeamsBanner6ShortName,Banderola Reino disputado
+TeamsBanner1Description,¡¿Tú también ves ese cacho de bananas que flota?!
+TeamsBanner2Description,"¡Con sus poderes combinados, llega el equipo heroico!"
+TeamsBanner3Description,Un mono alegre es un mono productivo.
+TeamsBanner4Description,¡Taparemos el cielo con nuestros shuriken!
+TeamsBanner5Description,"Monos juntos, fuertes."
+TeamsBanner6Description,Reina sobre los otros equipos de monos con esta banderola de TD espectacular.
+TeamsEmblemFrame5Name,Marco de copos de nieve
+TeamsEmblemFrame6Name,Marco de fuego
+TeamsEmblemFrame7Name,Marco de magia
+TeamsEmblemFrame8Name,Marco de bosque
+TeamsEmblemFrame9Name,Marco de mecánica
+TeamsEmblemFrame5ShortName,Marco de copos de nieve
+TeamsEmblemFrame6ShortName,Marco de fuego
+TeamsEmblemFrame7ShortName,Marco de magia
+TeamsEmblemFrame8ShortName,Marco de bosque
+TeamsEmblemFrame9ShortName,Marco de mecánica
+TeamsEmblemFrame5Description,¡Un marco fresco para un equipo fresco!
+TeamsEmblemFrame6Description,¡Hora de acalorar a tus oponentes!
+TeamsEmblemFrame7Description,"Un marco místico, mágico."
+TeamsEmblemFrame8Description,Haz que tu equipo se destaque con este marco totalmente natural.
+TeamsEmblemFrame9Description,"Planear, medir y ejecutar con cuidado; ¡esa es la clave de la victoria!"
+TeamsEmblemIcon5Name,Ícono de calavera
+TeamsEmblemIcon6Name,Ícono de asesino de MOAB
+TeamsEmblemIcon7Name,Ícono de shuriken
+TeamsEmblemIcon8Name,Ícono de alquimista
+TeamsEmblemIcon5ShortName,Ícono de calavera
+TeamsEmblemIcon6ShortName,Ícono de asesino de MOAB
+TeamsEmblemIcon7ShortName,Ícono de shuriken
+TeamsEmblemIcon8ShortName,Ícono de alquimista
+TeamsEmblemIcon5Description,¡Ah del barco! ¡Leven anclas! ¡A conquistar territorios!
+TeamsEmblemIcon6Description,Siembra el terror para todos los MOAB.
+TeamsEmblemIcon7Description,Los ataques silenciosos pero mortíferos son lo que caracteriza a este equipo.
+TeamsEmblemIcon8Description,Convierte a tu equipo en oro.
+TeamsEmblemIcon9Name,Ícono de Gwen en llamas
+TeamsEmblemIcon9ShortName,Ícono de Gwen en llamas
+TeamsEmblemIcon9Description,"Esta es la ofrenda de Gwen a los íconos de equipo. A esta altura, ya no sorprende a nadie, ¿no? Es un fuego."
+TeamsEmblemIcon10Name,Ícono Flechas de Quincy
+TeamsEmblemIcon10ShortName,Ícono Flechas de Quincy
+TeamsEmblemIcon10Description,"Las flechas rastreadoras patentadas de Quincy, ahora en forma de ícono."
+TeamsEmblemIcon11Name,Ícono Árbol de Obyn
+TeamsEmblemIcon11ShortName,Ícono Árbol de Obyn
+TeamsEmblemIcon11Description,Vete por las ramas con este ícono ecológico.
+TeamsEmblemIcon12Name,Ícono Huesos de motoquero
+TeamsEmblemIcon12ShortName,Ícono Huesos de motoquero con pulgar arriba
+TeamsEmblemIcon12Description,¡El Sr. Nudillos en Llamas aprueba a tu épico equipo!
+BuildingPropWizardTowerName,Edificación Torre de mago
+BuildingPropLighthouseName,Edificación Faro
+FlyingPropPhoenixName,Fénix en vuelo
+FlyingPropMiniAceName,Mini-as en vuelo
+WaterPropKrakenName,Kraken
+WaterPropMiniSubName,Mini-sub
+BasePropKingName,Rey Mono
+BasePropLighthouseKeeperName,Guardián del faro
+BasePropCrashedMoabName,MOAB estrellado
+BasePropTrainingDummyName,Muñeco de entrenamiento
+BasePropCampfireName,Fogata acogedora
+BasePropTotemName,Tótem tribal
+BasePropSatelliteName,Vehículo satelital móvil
+BasePropTortoiseName,Tortuga tribal
+BasePropBattleMonkeyName,Monos de batalla
+BuildingPropBattleTowerName,Edificación Torre base
+BuildingPropWizardTowerShortName,Edificación Torre de mago
+BuildingPropLighthouseShortName,Edificación Faro
+FlyingPropPhoenixShortName,Fénix en vuelo
+FlyingPropMiniAceShortName,Mini-as en vuelo
+WaterPropKrakenShortName,Kraken
+WaterPropMiniSubShortName,Mini-sub
+BasePropKingShortName,Rey Mono
+BasePropLighthouseKeeperShortName,Guardián del faro
+BasePropCrashedMoabShortName,MOAB estrellado
+BasePropTrainingDummyShortName,Muñeco de entrenamiento
+BasePropCampfireShortName,Fogata acogedora
+BasePropTotemShortName,Tótem tribal
+BasePropSatelliteShortName,Vehículo satelital móvil
+BasePropTortoiseShortName,Tortuga tribal
+BasePropBattleMonkeyShortName,Monos de batalla
+BuildingPropBattleTowerShortName,Edificación Torre base
+BuildingPropWizardTowerDescription,Una aventura mágica espera a todo equipo capaz de financiar esta base mística.
+BuildingPropLighthouseDescription,Ilumina el camino de todo tu equipo con esta base principal luminosa.
+FlyingPropPhoenixDescription,"Todos se preguntan si hay un mono mago ahí arriba, pero ¿a nadie se le ocurrió que tal vez todos los monos magos son Fénix que esperan renacer?"
+FlyingPropMiniAceDescription,Que el mono as vigile desde los cielos en favor de tu equipo con este adorable mini-as.
+WaterPropKrakenDescription,¡Suelten al Kraken! Domina las olas con este gigante de los mares que es sorprendentemente adorable.
+WaterPropMiniSubDescription,¡Suban los periscopios! Explora el área con el mini-sub.
+BasePropKingDescription,"Bienvenido a nuestra nueva Ciudad Mo... ¡Digo, Territorio Disputado! ¡Esta tierra sin dueño está infestada de bloons! Reviéntalos y aprópiate del territorio para tu equipo."
+BasePropLighthouseKeeperDescription,Este mono sabio cuida el faro y siempre está atento a los barcos que pasan a la noche.
+BasePropCrashedMoabDescription,"Un equipo de monos científicos de primera ya tomaron todo lo que se podía aprovechar de estos restos; lo que quedó, sigue ahí, como una advertencia para otros bloons."
+BasePropTrainingDummyDescription,"¡Entrena a tus monos darderos con un muñeco de entrenamiento reutilizable del Dr. Mono, 100 % certificado!"
+BasePropCampfireDescription,Dale calor a tu equipo en noches heladas o cuenten historias terroríficas sobre Territorios Disputados del pasado en el próximo campamento.
+BasePropTotemDescription,Protege tus fronteras con este tótem tribal que mete miedo.
+BasePropSatelliteDescription,"Envía información directo desde el espacio con este vehículo satelital móvil, ¡listo para rodar!"
+BasePropTortoiseDescription,"No le preguntes si tiene parientes tribales, ¡ni menciones a las tortugas!"
+BasePropBattleMonkeyDescription,¡Mono de Territorio Disputado listo para salir!
+BuildingPropBattleTowerDescription,Toda aventura en Territorio Disputado requiere una base sólida.
+Neutral,Neutral
+TilesCaptured,Casillas capturadas:
+CTPointsEarnt,Puntos TD ganados:
+TeamTrophiesEarnt,Trofeos de equipo ganados:
+RelicsUnlocked,Reliquias desbloqueadas:
+EventEnded,Evento terminado
+NextEventIn,Próximo evento en:
+SecondsAgo,Hace segundos
+1MinuteAgo,Hace 1 minuto
+MinutesAgo,Hace {0} minutos
+1HourAgo,Hace 1 hora
+HoursAgo,Hace {0} horas
+1DayAgo,Hace 1 día
+XDaysAgo,Hace {0} días
+TeamSettingDisbandedTitle,Desbandado
+Incoming,Entrantes
+Outgoing,Salientes
+RoundsCount,Rondas: {0}
+Relics,Reliquias
+TeamFlair,Distinción de equipo
+RefreshesIn,Se actualiza en: {0}
+DailyPower,Poder diario
+EventRelic1,Reliquia de evento 1
+EventRelic2,Reliquia de evento 2
+EventRelic3,Reliquia de evento 3
+Vote,Votar
+InventoryEmpty,Inventario vacío
+Blocked,Bloqueado
+ShowOnlineStatus,Mostrar estado en línea
+Invisible,Invisible
+NexusTitle,Apoyo a creadores
+NexusDescription,Apoya a tu creador favorito de Bloons TD 6 ingresando su código de creador aquí. Cualquier compra que realices en el juego servirá para apoyar a ese creador y al equipo de desarrollo de Ninja Kiwi.
+TimeAttackPowersDisabled,Los poderes están desactivados en el modo de Ataque por tiempo.
+Funded,Financiado
+UnlocksIn,Se desbloquea en: {0}
+TimeRemaining,Tiempo restante: {0}
+TeamInviteAlreadySent,La invitación del equipo ya se envió
+Captured,¡Capturado!
+DisabledFriendInvites,Este jugador tiene las invitaciones de amigos desactivadas
+ItemFunded,¡Objeto financiado!
+Now,Ahora
+Players,Jugadores
+LocalRewards,Recompensas locales
+GlobalRewards,Recompensas globales
+RewardsTop10,Mejores 10
+RewardsTop20,Mejores 20
+RewardsTop40,Mejores 40
+RewardsTop60,Mejores 60
+RewardsTopX,Mejores {0}
+Rank5th,5to
+Rank6th,6to
+TeamName,Nombre del equipo
+CTPoints,Puntos CT
+Contribute,Contribuir
+ContributeTrophies,Contribuir Trofeos
+ColorblindEnabled,¡Modo daltónico habilitado!
+ColorblindDisabled,Modo daltónico desactivado
+Local,Local
+KickPending,eliminación pendiente
+SentryParagonGreen,Modelo de centinela verde
+SentryParagonRed,Modelo de centinela rojo
+SentryParagonBlue,Modelo de centinela azul
+TeamManagement,Gestión de equipos

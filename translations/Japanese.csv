@@ -2160,7 +2160,7 @@ FriendLiNKLoginFailed,Facebookにログインできませんでした。イン�
 Do It,試行
 Restart?,再スタート？
 Continue Details,このラウンドをライフとキャッシュを補充して再試行
-Restart Details,本当に終了して再スタートしますか？
+Restart Details,本当に再スタートしてよろしいですか？
 Insta-Monkey!,インスタモンキー！
 Power!,パワー！
 Optimizing,最適化中...
@@ -2473,7 +2473,7 @@ SlowerMoabs,MOABスピード減少
 BikerBonesSkinName,バイカーボーンのスキン
 BikerBonesSkinDescription,太陽神には、鎖を解かれたバイカーボーンのような憤怒はない！
 PatsPond,パットの池
-InappropriateChallengeName,そんなに不適切でないチャレンジを使って、もう一度試してみて
+InappropriateChallengeName,もっと適切なチャレンジ名を選んでください
 DCVictoryBody,おめでとう！{0}をクリアした！
 EditorCreateVictoryBody,おめでとう！ほかの人とチャレンジをシェアできるようになった！
 EditorOlderVersion,このチャレンジは{0}バージョンで作られたため、もうクリアできません
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,[I]で範囲内にダークシフト
 DarkChampionDarkshift,[I]で任意の有効な場所にダークシフト
 SmallTowersMode,スモールモンキータワー
 BigTowersMode,ビッグモンキータワー
-UpdatePopupTitle,アップデート31！
-UpdatePopupDescription,新しいコンテンツの更新！\n•新しいヒーロー、神秘の小売商人ジェラルドが、Bloon割りアイテム百貨店と一緒に登場です！\n•新しいボス！ヴォルテックス、空気の死なる使い手が出現！\n•新しい初心者マップ、ジャンクヤードで、楽しくブルーンをごみ溜めに送り込もう\n•新しいリミックスを含む、9種の新しいトロフィーストアアイテムが登場\n•チャレンジブラウザー：パズルチャレンジを楽しめるように、最小限キャッシュと最小限ティアでの特別勝利条件を追加\n•ヒーローメニューが新しくなり改善されたほか、より充実のQOLやバランス変更を行ったので、詳細についてはアップデートノートを確認してください！
+UpdatePopupTitle,アップデート32！
+UpdatePopupDescription,対戦テリトリーのエピックアップデート！\n• 超ビッグな新イベント：対戦テリトリー - 他のチームからタイルを奪ってランキングを制しよう！\n• チーム！友達を集めて最強のチームを作り、対戦テリトリーを制覇しよう\n• 新パラゴン：マスタービルダー\n• 新ヒーロースキン：ヴォイドラ\n• 新中級マップ：採石場\n• トロフィーストアのアイテム、QOLの改善、バランス調整など、盛りだくさんの内容です！
 ResetDailyChest,日替わり宝箱をリセット
 JukeboxName,ジュークボックス
 EnableFunction,有効化
@@ -2853,7 +2853,7 @@ AdmiralBrickell Level 3 Description,海軍戦術－短時間の間、ブリッ�
 AdmiralBrickell Level 4 Description,海の地雷の破裂パワーが増える。
 AdmiralBrickell Level 5 Description,海軍戦術では、破裂パワーが増え、影響を受けたモンキーが迷彩を除く全てのブルーンに命中できるようになる。
 AdmiralBrickell Level 6 Description,海の地雷とピストル攻撃のダメージが増える。
-AdmiralBrickell Level 7 Description,ブリッケルの攻撃範囲が拡大し、迷彩ブルーンの検出が増加する。
+AdmiralBrickell Level 7 Description,ブラストチェーン：海の地雷の射出ペースが短時間早くなる。ブリッケルの攻撃範囲が広がるほか、迷彩ブルーンを検出できるようになる。
 AdmiralBrickell Level 8 Description,海軍戦術で、影響を受けたモンキーが迷彩ブルーンに命中できるようになる。水タワーの半径内の給水塔は、追加の貫通度を得る。
 AdmiralBrickell Level 9 Description,海の地雷が追加ダメージを与える。
 AdmiralBrickell Level 10 Description,メガ地雷：任意の水域に、MOABでトリガーし付近のブルーンをマヒさせる破壊的な機雷を展開させる。メガ地雷は3ラウンドの間、継続する。
@@ -2861,9 +2861,9 @@ AdmiralBrickell Level 11 Description,海の地雷の展開率と展開スピー�
 AdmiralBrickell Level 12 Description,ピストル攻撃のスピードとダメージを増え、海の地雷がダメージを増える。
 AdmiralBrickell Level 13 Description,メガ地雷のクールダウンが短縮。
 AdmiralBrickell Level 14 Description,海軍戦術の期間が延長。
-AdmiralBrickell Level 15 Description,改良版海の地雷は爆破がさらに大規模で、黒ブルーンにダメージを与え、迷彩ブルーンの迷彩効果を除去する。
+AdmiralBrickell Level 15 Description,改良版海の地雷の爆発がもっと大きくなる。黒ブルーンにダメージを与え、迷彩効果を取り除けるようになる。ピストルが与えるダメージがもっと増える。
 AdmiralBrickell Level 16 Description,攻撃と海の地雷の展開範囲が、少し増える。
-AdmiralBrickell Level 17 Description,海の地雷が及ぼすダメージが増える。
+AdmiralBrickell Level 17 Description,海の地雷が与えるダメージが大きく増加する。ピストルが与えるダメージがもっと増える。
 AdmiralBrickell Level 18 Description,メガ地雷のクールダウンが、さらに短縮。
 AdmiralBrickell Level 19 Description,海軍戦術があらゆる場所の水ベースのタワーに影響を与える。
 AdmiralBrickell Level 20 Description,メガ地雷が与えるダメージは大きく増大しているほか、マヒもより長くなる。
@@ -4337,7 +4337,7 @@ Geraldo Level 1 Description,入手可能なアイテム！射撃砲塔、古い�
 Geraldo Level 2 Description,新しいアイテム！レアなクインシーアクションフィギュア：持っている時間が長いほど価値が上がっていく！
 Geraldo Level 3 Description,新しいアイテム！不可視が見えるポーション：モンキータワーやヒーローに短時間の迷彩検出を付与する。ジェラルドの攻撃範囲が広がる。
 Geraldo Level 4 Description,新しいアイテム！素晴らしいグルーのチューブ：トラックに配置し、ブルーンの速度を落とすことができる。
-Geraldo Level 5 Description,新しいアイテム！砥石：鋭いタイプのダメージを与える時、モンキータワーやヒーローの貫通度が向上します。
+Geraldo Level 5 Description,新アイテム！砥石：シャープタイプのダメージを与える時、モンキータワーやヒーローの貫通力がアップする。ジェラルドの攻撃が早くなる。
 Geraldo Level 6 Description,新しいアイテム！ヒーローのケープ着用：ティア2以下のダートモンキーをスーパーモンキーに変換する！これらの変換されたスーパーモンキーは、ティア3までにのみアップグレード可能。
 Geraldo Level 7 Description,新しいアイテム！ブレードトラップ：目に見えるブルーンがトラップに触れると、ブレード大混乱がオフになる。ジェラルドの主な攻撃のダメージと貫通度が増加。
 Geraldo Level 8 Description,新しいアイテム！「ジェリーの炎」のボトル：280万ブルーンズビル・ユニットの純粋なホットソースの炎！モンキー、ヒーロー、またはミニオンに10ラウンドの激しい攻撃を与える。
@@ -4350,9 +4350,9 @@ Geraldo Level 14 Description,不可視が見えるポーションは追加の範
 Geraldo Level 15 Description,砥石は貫通度に加えてダメージを大きくし、ブレードトラップはトリガーされるとさらに強力な効果を生み出す。
 Geraldo Level 16 Description,古い釘の山は釘の地雷になり、ピクルスのビンは強化ブルーンに対して追加のボーナスダメージを与え、ジェリーの炎は追加のバーニーダメージを獲得。
 Geraldo Level 17 Description,ジェラルドの主な攻撃はより大きなダメージを与え、凄すぎグルーはMOABクラスのブルーンに小さな影響を与えるようになった。
-Geraldo Level 18 Description,精霊は2回目の近接攻撃を獲得し、MOABクラスのブルーンに追加ダメージを与える。不気味な偶像は追加された時に近くのMOABクラスのブルーンに大きなダメージを与える神秘的なシュラウドを適用。
-Geraldo Level 19 Description,ジェラルドの主な攻撃はより速く、より長い範囲にわたり、より大きなダメージを与え、不可視が見えるポーションはカモフラージュブルーンに追加ダメージを与える。
-Geraldo Level 20 Description,新しいアイテム！パラゴンパワートーテム：作成された次のパラゴンにパラゴンパワーを追加。ジェラルドの主な攻撃はより大きなダメージを与える。
+Geraldo Level 18 Description,精霊が2回目の近接攻撃を獲得し、MOAB級ブルーンにボーナスダメージを与える。不気味な偶像が無効になると、MOAB級ブルーンを神秘のシュラウドで多い、割れるとダメージを与えるようになる。
+Geraldo Level 19 Description,ジェラルドのメイン攻撃が向上する。「不可視が見えるポーション」がカモフラージュブルーンにボーナスダメージを与える。
+Geraldo Level 20 Description,新アイテム！パラゴンパワートーテム：次に作成したパラゴンにパラゴンパワーを追加。ショップが完全に補充される！ジェラルドのメイン攻撃がもっとダメージを与えるようになる。
 Geraldo Shop shortname,店
 Geraldo Shop name,ジェラルドの店
 Shooty turret name,射撃砲塔
@@ -4368,9 +4368,9 @@ Rare Quincy action figure description,限定版、新品同様のオリジナル
 See invisibility potion name,不可視が見えるポーション
 See invisibility potion description,この非常に効果的なエリクサーを贈ると、どんなモンキーでもカモフラージュブルーンが簡単に見えるように！効果は持続しない。
 Tube of amaz-o-glue name,素晴らしいグルーのチューブ
-Tube of amaz-o-glue description,本当にすごい！このモダンな驚異のチューブをトラックのどこかに置いて、次のブルーンの群れがすぐに遅くなるのを見てみて。
+Tube of amaz-o-glue description,これはオドロキ！この恐るべきモダンなチューブをトラックのどこでも好きな場所に置くと、次のブルーンの群れがたちまちスピードダウンする。4ラウンドの間、または使い切るまで持続。
 Sharpening stone name,砥石
-Sharpening stone description,友よ、それらのダーツを研げ！これをダーツやブレードに塗ると、これまで以上に鋭くなるよ。
+Sharpening stone description,ダーツを研ぎあげろ！ダーツやブレードに使うと、これまでになく切れ味が増す。15ラウンド後になくなる。
 Worn heros cape name,ヒーローのケープ着用
 Worn heros cape description,どんなヒーローも、ケープを着用するものだ！これをダーツモンキーの1匹に渡して、変身するところを見てみて！少し使用された状態、マイナーなティアだけ、えーっと、ティアー、涙って意味。
 Blade trap name,ブレードトラップ
@@ -4482,28 +4482,515 @@ ChallengeCashUsed,{0} / {1}キャッシュを使用した
 ChallengeTiersUsed,{0} / {1}ティアを使用した
 ShootyTurret,射撃砲塔
 CreepyIdol,不気味な偶像
-RareQuincyActionFigure,レアなクインシーアクションフィギュア
+RareQuincyActionFigure,レアなクインシーのアクションフィギュア
 GenieBottle,精霊のボトル
 ParagonPowerTotem,パラゴンパワートーテム
-FriendScreenErrorRequestFailed,友達リクエストに失敗しました
-FriendScreenErrorInvalidCode,無効なフレンドコード
-FriendScreenErrorBlocked,あなたが追加しようとしているプレーヤーは、友達リクエストをブロックしています。残念です！
-FriendScreenErrorAlreadySent,このプレイヤーには、友達リクエストを送信済みです。
-FriendScreenErrorTooManyFriends,フレンド数が上限に達しました。既存のフレンドを削除したり、フレンド申請をキャンセルしたりすることで、スペースを確保できます。
+FriendScreenErrorRequestFailed,友達リクエストが失敗しました
+FriendScreenErrorInvalidCode,無効な友達コード
+FriendScreenErrorBlocked,追加しようとしているプレイヤーは友達リクエストをブロックしています、残念！
+FriendScreenErrorAlreadySent,このプレイヤーに友達リクエストを送信済みです
+FriendScreenErrorTooManyFriends,友達の上限に達しました。今いる友達を外すか、申請済みの友達リクエストをキャンセルして空きを作ってください
 MapEditor,マップエディタ
-Jar of Pickles description level 11,モンキータワーの1つでこれらのピクルスを試してみると、より強く当たるでしょうが、しばらくの間ゆっくりと撃ちます。要塞化されたBloonsへのダメージが増加しました！
-Creepy idol description level 12,この不気味な見た目のアイドルをトラックの近くに置いて、いくつかのBloons（MOABでさえも！）を元の場所に戻します。
-Shooty turret description level 13,恒久的な手作りのダーツ射撃砲塔。アップグレードしました！より速く発砲し、より多くのダメージを与えます。
-Stack of old nails description level 13,はい、それは古い釘の非常に大きなスタックですが、それらをトラックのどこにでも置くと、それらはそれらの漂遊したブロンを手軽にポップします。
-See invisibility potion description level 14,この非常に効果的なエリクサーであなたが贈るどんな猿でも、カモフラージュを簡単に見ることができます！効果がなくなります。範囲が広がり、さらに長持ちします！
-Sharpening stone description level 15,それらのダーツを研ぎます、友達！これをダーツとブレードに適用すると、これまで以上にシャープになり、ダメージが大きくなります。
-Blade trap description level 15,これをトラックに置いて、最初に触れたBloonsが大きな回転するブレードによって細断されるのを見てください！より強力な新しいモデル！
-Stack of old nails description level 16,はい、それはただのジャイアントネイルマインですが、トラックのどこにでも置くと、それらの漂遊したBloonsを手軽にポップします。
-Jar of Pickles description level 16,モンキータワーの1つでこれらのピクルスを試してみると、より強く当たるでしょうが、しばらくの間ゆっくりと撃ちます。要塞化されたBloonsへのダメージがさらに増加し​​ました！
-Gerrys fire hot sauce description level 16,280万のBloonvilleユニット。この特別なソースを味わう人は誰でもしばらくの間火を噴きます！今、余分な焦げ目があります。
-Tube of amaz-o-glue description level 17,本当にすごい！このモダンな驚異のチューブをトラックのどこにでも適用して、次のBloonsの束、さらにはMOABがすぐに遅くなるのを見てください。
-Genie bottle description level 18,この鮮やかな青いボトルから魔神猿を召喚しますが、注意してください、それは永遠に続くことはありません！ （購入には希望は含まれていません）。追加の攻撃とMOABへのより多くのダメージが含まれるようになりました。
-Creepy idol description level 18,この不気味な見た目のアイドルをトラックの近くに置いて、Bloonsが元の場所に戻ってくるのを怖がらせます。神秘的なシュラウドのアップグレードのロックが解除されました！
-See invisibility potion description level 19,この非常に効果的なエリクサーを贈ったサルは、カモフラージュを簡単に見ることができ、より多くのダメージを与えることができます！効果がなくなります。
-FriendScreenSureUnBlock,このユーザーのブロックを解除してもよろしいですか？
+Jar of Pickles description level 11,これらのピクルスをモンキータワーの一つに使ってみて、射撃のペースがしばらくの間ゆっくりになるが、威力はアップ。強化バルーンに対するダメージもアップ！
+Creepy idol description level 12,この見るからに不気味な偶像をトラックの近くに置くと、ブルーン（なんとMOABも！）が回れ右して帰っていく。
+Shooty turret description level 13,ダーツを撃ち出す恒久的な手作りの砲塔。アップグレード済み！発射ペースとダメージが向上。
+Stack of old nails description level 13,そう、単なる古い釘の山だけど、トラックの好きなところに置いておけば、はぐれたブルーンを次々と割ってくれる。
+See invisibility potion description level 14,この効果絶大のエリクサーをモンキーに飲ませると、簡単にカモフラージュブルーンが見えるようになる！効果は薄れていく。攻撃範囲も広がるほか、有効時間も延長！
+Sharpening stone description level 15,友よ、ダーツを研ぎあげろ！これをダーツやブレードに使うと、これまでになく切れ味が増してダメージが増加する。
+Blade trap description level 15,トラック上に設置しておくと、ぐるぐる回る大きなブレードが最初に当たったブルーンを粉々に！よりパワフルな新モデル！
+Stack of old nails description level 16,そう、単なる大きな釘の山だが、トラック上の好きなところに置いておけば、はぐれたブルーンを次々と割ってくれる。
+Jar of Pickles description level 16,これらのピクルスをモンキータワーに使ってみて、射撃のペースがしばらくの間ゆっくりになるが、命中の威力が上がる。強化バルーンに与えられるダメージも、より一層アップ！
+Gerrys fire hot sauce description level 16,280万ブルーンビル・ユニット。この特別なソースを口にすると、しばらくの間口から火が出るようになる。
+Tube of amaz-o-glue description level 17,本当にオドロキ！この恐るべきモダンなチューブをトラック上の好きな場所に置いて、次のブルーンの群れがどうなるか見てみて、MOABさえスローダウンできる。
+Genie bottle description level 18,精霊モンキーを呼び出せる真っ青なボトルだけど、ずっとは続かない！（買っても願いごとは叶いません）。新たにMOABへの追加攻撃とダメージアップの効果も加わりました。
+Creepy idol description level 18,この見るからに不気味な偶像をトラックの近くに置くと、いくつかのブルーンが回れ右して帰っていく。神秘のシュラウドのアップグレードがアンロックされた！
+See invisibility potion description level 19,この効果絶大のエリクサーをモンキーに飲ませると、簡単にカモフラージュブルーンが見えるようになり、もっとダメージを与えられるようになる！効果は薄れていく。
+FriendScreenSureUnBlock,このユーザーのブロックを解除します。よろしいですか？
 None,なし
+Knowledge Requirement Monkey Money,Monkey Moneyが足りません。もっと購入しますか？
+Knowledge Requirement Points,知識ポイントが足りません
+InviteFriend,友達を招待
+InvitedToJoin,{0}から協力プレイの誘いが来ています。参加しますか？
+HeroesMountainObynPetBalfrogName,バルフロッグペット
+HeroesMountainObynPetBalfrogShortName,バルフロッグペット
+HeroesMountainObynPetBalfrogDescription,霧に包まれた山々の、闇深い鉱山で生まれた小さなカエル。あなたの本当の恋人になりたいという熱い欲求に身を焦がし、どんな会話でも明るいものにしてくれる。マウンテン・オービン限定
+TowerPropMonkeyVillagePrideFlagName,モンキー村のプライドフラッグ
+TowerPropMonkeyVillagePrideFlagShortName,村のプライドフラッグ
+TowerPropMonkeyVillagePrideFlagDescription,このイケイケのモンキー村のプライドフラッグで、多様性と選択をお祝いしよう。すべてのアップグレードに表示される
+CoopEmoteTextNeedMoreName,「もっと必要！」のテキストエモート
+CoopEmoteTextNeedMoreShortName,もっと必要！
+CoopEmoteTextNeedMoreDescription,キャッシュ、ブルーン、防御、それかただ単に食べ物が足りないときに。場面を問わずに使えるエモート。
+CoopEmoteTextNeedMoreWord,もっと必要！
+CoopEmoteAnimationRainbowName,虹のアニメーション
+CoopEmoteAnimationRainbowShortName,虹
+CoopEmoteAnimationRainbowDescription,今すぐみんなで歌おう。虹の向こうのどこかに…
+GameUIProfileAvatar61Name,ダーツモンキーのアバター
+GameUIProfileAvatar61ShortName,ダーツモンキーのアバター
+GameUIProfileAvatar61Description,ダーツを大いに称えよ！ブルーン割りダーツを！
+GameUIProfileAvatar62Name,ジェラルドのアバター
+GameUIProfileAvatar62ShortName,ジェラルドのアバター
+GameUIProfileAvatar62Description,こんにちは、フワフワの白ウサギはいかがですか？完全に人畜無害そうでしょう？
+GameUIProfileBanner15Name,OG BTDスタイルのバナー
+GameUIProfileBanner15ShortName,OG BTDスタイルのバナー
+GameUIProfileBanner15Description,バナー入選者LordTeddingtonの作品
+GameUIProfileBanner16Name,森の精霊のバナー
+GameUIProfileBanner16ShortName,森の精霊のバナー
+GameUIProfileBanner16Description,バナー入選者tricky999trickyの作品
+GameUIMusicTrackMusicTribesJaloonMixName,ジュークボックス：トライブ＆トリビューレション - ジャルーンリミックス
+GameUIMusicTrackMusicTribesJaloonMixShortName,トライブ - ジャルーン
+GameUIMusicTrackMusicTribesJaloonMixDescription,ダンスフロアに繰り出そう！人気の楽曲トライブ＆トリビューレションのリミックス
+Quarry,採石場
+VoidoraAdoraSkinName,ヴォイドラのスキン
+VoidoraAdoraSkinDescription,虚空の果てから、見参
+VoidoraAdoraSkinNameFull,ヴォイドラ
+InappropriateTeamName,もっと適切なチーム名を選んでください
+TeamNameNotUnique,その名前はすでに使われています！別の名前にするか、数字を加えてください
+TeamNameTooShort,チーム名は{0}文字以上{1}文字以下にしてください
+SentryParagonChild,改造見張り番パラゴン
+LoginwithEpic,Epicでログイン
+EnterLinkingCode,リンクコードを入力して接続する：
+Connect,接続
+PrivacyPolicy,プライバシーポリシー
+TermsOfService,利用規約
+ConfirmAgeInfo,続行するには、現在の年齢を確認してください。追加のオンライン機能をプレイしたり、データをバックアップするには、ログインする必要があります。
+AgeQuestion,{0}歳以上ですか？
+AgeYes,はい、{0}歳以上です。
+AgeNo,いいえ、{0}未満です。
+PersonalAccountInfo,"『個人アカウント』は、個人を特定できるような情報を一切使わずに作成することができます。
+「同意する」を選択すると、あなたの親または保護者はNinja Kiwiのプライバシーポリシーおよび利用規約を確認し、同プライバシーポリシーおよび同利用規約に同意し、またお客様のゲームプレイおよび個人を特定できないアカウント情報を当社が米国に存在するサーバーを含む当社のサービスに保存できることに同意するものとします。"
+AgreeCreateAccount,同意します、アカウントを作成する
+NormalAccountInfo,続行することにより、お客様はNinja Kiwiのプライバシーポリシーおよび利用規約に、また米国に存在するサーバーの使用を含む当社のサービスにおいて、お客様のゲームプレイとアカウント情報を保存することに同意するものとします。
+LoggedInAs,この名前でログイン：
+EpicAccountId,EpicアカウントID：
+NeedHelp,ヘルプが必要ですか？
+ContactSupport,サポートに連絡
+DeleteAccountText,"アカウントを削除すると、クラウド上に進捗とデータを全て失うことになります。
+削除するには、ボックス内にユーザーID（下記に表示）を入力してください。アカウントが消去されるまで、48～72時間かかることがあります。"
+EnterUserId,ここにユーザーIDを入力してください
+GetAllButton,すべてゲット
+GetAllConfirmation,Monkey Moneyを消費して、取得可能なすべてのヒーローとスキンを取得するか確認してください！
+DeleteAccount,アカウントを削除
+CtLeaderboardTitle,対戦テリトリーのランキング
+LocalTeams,ローカルチーム
+LocalPlayers,ローカルプレイヤー
+GlobalTeams,グローバルチーム
+GlobalPlayers,グローバルプレイヤー
+CreateTeamPanelTitle,チーム作成
+CreateTeamTitle,チームを作成
+CreateTeamNameDescription,チーム名：
+CreateTeamNameInputField,チーム名を入力…
+CreateTeamCostDescription,{0}を消費してチームを作成する
+CreateTeamFailed,チームを作成できませんでした
+EditTeamPanelTitle,チーム編集
+EditTeamTitle,チームの編集
+EditTeamNameDescription,チーム名の編集：
+TeamEmblemTitle,エンブレム
+TeamBannerTitle,バナー
+TeamEmblemsTitle,エンブレム
+TeamBannersTitle,バナー
+TeamGeneralTitle,一般
+TeamSettingPublicTitle,公開
+TeamSettingPrivateTitle,非公開
+TeamSettingClosedTitle,クローズド
+TeamJoin,参加
+TeamApply,申請
+RecentWin,最近の勝利：
+TileHeldBy,タイル保持者：
+Score,スコア
+ScoreDegradesIn,スコアの低減まで：
+NeutralOwnerIn,中立的所有まで：
+Tile,タイル：{0}
+RelicTile,レリックタイル
+BannerTile,バナータイル
+BonusCTPoints,ボーナスCTポイント！
+DailyRelics,日替わりレリック
+HeldRelics,保持されたレリック
+Tickets,チケット：
+PurchaseTickets,チケット購入
+MoreTicketsIn,チケット追加まで：
+CTTitleName,対戦テリトリー
+CTTeamStore,チームストア
+CTMyTeam,マイチーム
+CTTeamTrophies,チームトロフィー
+CTTickets,チケット
+CTTeamTickets,チームチケット
+CTNextTicketsIn,新規チケットまで：
+CTTileSearch,タイルサーチ
+CTOwner,オーナー：
+CTScore,スコア：
+CTNeutralIn,中立まで：
+CTPosition,順位：
+CTUncaptured,未制圧
+CTCheckpoint,チェックポイント到達！
+CTNewScore,新しいスコア！
+CTBestScore,ベストスコア
+TimeAttack,タイムアタック
+ERR_NOT_LOGGED_IN,ログインしていません
+ERR_ALREADY_PENDING,リクエストが保留中です
+ERR_FEATURE_UNAVAILABLE,機能を利用できません。後ほどお試しください
+ERR_REQUEST_PARAMETER_MISSING,パラメータがありません
+ERR_GUILD_FULL,チームがいっぱいです
+ERR_GUILD_NAME_EXISTS,すでに存在するチーム名です
+ERR_GUILD_DOES_NOT_EXIST,チームが存在しません
+ERR_GUILD_CANNOT_DISBAND,チームを解散できません
+ERR_GUILD_PERMISSION_DENIED,権限が拒否されました
+ERR_GUILD_CANNOT_UPDATE_OWNER_DENIED,チームオーナーを更新できません。権限が拒否されました
+ERR_GUILD_CANNOT_UPDATE_OWNER_NONE,チームオーナーを更新できません
+ERR_TIMEOUT,タイムアウトしました。もう一度お試しください
+CreateNewTeamText,新しいチームを作成しますか？
+ParagonLimitReached,パラゴン上限に到達
+TeamMsgNewMayor,{0}が新たな市長になりました！
+TeamMsgPlayerJoined,{0}がチームに加わりました
+TeamMsgPlayerLeft,{0}がチームを抜けました
+TeamMsgPlayerKicked,{1}が{0}をチームから追放しました。
+TeamMsgPlayerDemoted,{1}が{0}を降格させました。
+TeamMsgRegularTileCaptured,{0}がレギュラータイルを制圧しました。さすが！
+TeamMsgBannerTileCaptured,{0}がバナータイルを制圧しました。やったね！
+TeamMsgRelicTileCaptured,{0}がレリックタイルを制圧し、{1}をチームレリックのリストに追加しました。その調子！
+TeamMsgRegularTileCapturedOtherGuild,{0}が{1}の標準タイルを奪いました。お見事！
+TeamMsgBannerTileCapturedOtherGuild,{0}が{1}のバナータイルを奪いました。やったね！
+TeamMsgRelicTileCapturedOtherGuild,{0}が{2}のレリックタイルを奪い、{1}をチームレリックのリストに追加しました。その調子！
+TeamMsgRelicTileLost,レリックタイルを失いました！{0}は利用できなくなりました
+TeamMsgPlayerPromoted,{1}が{0}を市長補佐に昇格させました
+TeamMsgTeamCreated,{1}がチーム「{0}」を結成しました
+TeamMsgNewFocusMarker,{0}が新たなマーカーを設定しました
+TeamMsgFlairUnlocked,{0}は全額出資されました！すごい努力です！
+TileCaptured,タイル制圧
+TileNotCaptured,タイル未制圧
+TicketUsed,チケット使用
+NoTicketUsed,チケット未使用
+ScoreToBeat,勝利スコア：
+YourScore,スコア：
+PublicWithBrackets,（公開）
+PrivateWithBrackets,（非公開）
+CTRelicWon,レリック獲得！
+CTBonusPoints,ボーナスポイント！
+Teams,チーム
+CaptureScoreMissed,制圧スコアに足りない！
+CaptureScoreNear,注意！制圧スコアに迫っています
+CtInternalError,内部エラーが発生しました。後ほどまたお試しください
+CtServerError,現在、対戦テリトリーサーバーがリクエストを処理できません。後ほどまたお試しください
+Achievement 143 Name,争奪テリトリー
+Achievement 143 Description,他のプレイヤーから5タイル奪う
+Achievement 144 Name,帝国のステージ
+Achievement 144 Description,50タイルを制圧する
+Achievement 145 Name,テリトリーサンプラー
+Achievement 145 Description,各1つ制圧する：ボス、タイムアタック、最低限ティア、最小限キャッシュのタイル
+CTLeastCashDescription,できるだけキャッシュを使わずにタイルを獲得しよう。モンキータワーの配置とアップグレード、ヒーローの有料アップグレードに使ったキャッシュがカウントされる。モンキーを売っても使用キャッシュは減らない。
+CTLeastTiersDescription,モンキータワーとアップグレードをできるだけ使わずにタイルを獲得しよう。モンキーやヒーローを設置するたびに、ティアが1段階上がる。有料のヒーローアップグレードもティアとして数えられる。モンキーを売ってもティアの数字は下がらない。
+CTTimeAttackDescription,最速タイムでタイルを獲得しよう。レースイベントがベースとなり、プレイボタンを押すとタイマーがスタート。次のラウンドを早送りすればタイム短縮につながるけれど、要注意！タイムアタックのゲームはセーブできないので、ゲームの途中でやめないようにしよう。
+CTBossDescription,できるだけ早くボスを倒してタイルを獲得しよう。ボスイベントがベースとなり、ボスが画面に現れるとタイマーがスタート。対戦テリトリーのボスは、タイルのラウンドカウントによって、ティア1のみか、ティア1＆2のどちらかになる。ダメージの大きなタワーに集中し、可能であれば収入を生成しよう。そして、他のブルーンも無視しないように！
+CtEventEnded,残念ですがイベントは終了しました
+RelicStartingStash,スターティングスタッシュ
+RelicExtraEmpowered,追加強化
+RelicBoxOfChocolates,チョコレートの箱
+RelicBoxOfMonkey,モンキーの箱
+RelicMarchingBoots,進撃のブーツ
+RelicHeroBoost,ヒーローブースト
+RelicBiggerBloonSabotage,大型ブルーンサボタージュ
+RelicRoundingUp,ラウンドアップ
+RelicManaBulwark,マナブルワーク
+RelicRegeneration,リジェネレーション
+RelicRestoration,レストレーション
+RelicDurableShots,デュアラブルショット
+RelicAlchemistTouch,錬金術師の手
+RelicDeepHeat,ディープヒート
+RelicSharpsplosion,シャープスロージョン
+RelicRoyalTreatment,ロイヤルトリートメント
+RelicHardBaked,ハードベイク
+RelicFortifried,フォーティフライド
+RelicMoabClash,MOABクラッシュ
+RelicCamoFlogged,カモフロッグ
+RelicBrokenHeart,ブロークンハート
+RelicGoingTheDistance,ゴーイングディスタンス
+RelicHeartless,ハートレス
+RelicFlintTips,フリントティップス
+RelicAbilitized,アビリタイズド
+RelicAirAndSea,空と海
+RelicElDorado,エルドラド
+RelicMonkeyShield,モンキーシールド
+RelicMonkeyShieldMark2,モンキーシールドマーク2
+RelicMonkeyShieldMark3,モンキーシールドマーク3
+RelicPsiVision,サイキックビジョン
+RelicOpenSeason,オープンシーズン
+RelicCamoTrap,カモフラージュトラップ
+RelicThrive,スライブ
+RelicSuperMonkeyStorm,SMS
+RelicMonkeyBoost,モンキーブースト
+RelicRoadSpikes,路上スパイク
+RelicMoabMine,MOAB地雷
+RelicGlueTrap,接着剤トラップ
+RelicTechbot,テックボット
+RelicPrimaryPrimates,プライマリープライメート
+RelicMilitaryMonkeys,ミリタリーモンキー
+RelicMagicMonkeys,マジックモンキー
+RelicSupportSimians,サポートシミアン
+RelicMonkeyTycoon,モンキータイクーン
+RelicStartingStashDescription,300キャッシュ多く持った状態で毎回のゲームを開始する（レギュラータイルの「もっとキャッシュ」と重複可能）
+RelicExtraEmpoweredDescription,ヒーローが3レベル上がった状態でゲームを開始する（レギュラータイルの「権威のヒーロー」と重複可能）
+RelicBoxOfChocolatesDescription,ライフを100多く持った状態で毎回のゲームを開始する
+RelicBoxOfMonkeyDescription,無償のモンキーを1匹持った状態で毎回のゲームを開始し、これにより、変更前の初期配置の費用が多くても$500になる
+RelicMarchingBootsDescription,カウント制限のあるゲームで、ロードアウトの各タワーの最大カウントが+1、または1ゲームごとのカウント上限が+4される
+RelicHeroBoostDescription,"ヒーローが毎回のゲームで10%早くXPを獲得する"
+RelicBiggerBloonSabotageDescription,MOAB級ブルーンが全てが、ライフ-15%、スピード-5%の状態で出現するようになる。
+RelicRoundingUpDescription,ラウンドが終了するたびに、追加で20ドルを獲得する
+RelicManaBulwarkDescription,最大で50ライフ分のライフを吸収するシールドを張る（レギュラータイルの「マナシールド」と重複可能）
+RelicRegenerationDescription,そのラウンドでライフを失わなかった場合、毎回のゲーム開始時のライフを上限として、ラウンドごとに10ライフ回復する
+RelicRestorationDescription,そのラウンドでライフを失わなかった場合、開始時のライフ+200を上限として、ラウンドごとに20ライフ回復する
+RelicDurableShotsDescription,すべての投射物のライフスパンが+25%
+RelicAlchemistTouchDescription,すべての攻撃が鉛ブルーンを割れるようになる
+RelicDeepHeatDescription,すべての攻撃が白ブルーンを割れるようになる
+RelicSharpsplosionDescription,すべての攻撃が黒ブルーンを割れるようになる
+RelicRoyalTreatmentDescription,すべての攻撃が紫ブルーンを割れるようになる
+RelicHardBakedDescription,すべての攻撃が陶器ブルーンに与えるダメージ+1
+RelicFortifriedDescription,すべての攻撃が強化ブルーンに与えるダメージ+1
+RelicMoabClashDescription,すべての攻撃がMOAB級ブルーンに与えるダメージ+3
+RelicCamoFloggedDescription,すべての攻撃がカモフラージュブルーンに与えるダメージ+1
+RelicBrokenHeartDescription,すべての攻撃が再生ブルーン に与えるダメージ+1
+RelicGoingTheDistanceDescription,全モンキーの射程+10%
+RelicHeartlessDescription,再生ブルーンの再生ペース-25%
+RelicFlintTipsDescription,シャープな投射物がダメージを与えたすべてのブルーンに火の点を追加する（2秒ごとに1ダメージ、計4秒間）
+RelicAbilitizedDescription,すべてのモンキーが発動させた全アビリティのクールダウン-10%
+RelicAirAndSeaDescription,エース、ヘリ、バッカニア、潜水艦の設置とアップグレードにかかるコスト-10%、リロードが+5%改善
+RelicElDoradoDescription,勝利したゲームの報酬として得られるMonkey Moneyとチームトロフィーの全てが+25%（最小+1）
+RelicMonkeyShieldDescription,制圧してから1時間の間、タイルが相手チームに攻撃されなくなる。スコアが更新されると、タイマーがもとに戻る。
+RelicMonkeyShieldMark2Description,制圧してから2時間の間、タイルが相手チームに攻撃されなくなる。スコアが更新されると、タイマーがもとに戻る。
+RelicMonkeyShieldMark3Description,制圧してから3時間の間、タイルが相手チームに攻撃されなくなる。スコアが更新されると、タイマーがもとに戻る。
+RelicPsiVisionDescription,マップ上のすべてのタイルの詳細を確認する
+RelicOpenSeasonDescription,マップ上の任意のタイルを攻撃する
+RelicCamoTrapDescription,パワーアップ「カモフラージュトラップ」を1ゲームにつき2回使えるようになる
+RelicThriveDescription,パワーアップ「スライブ」を1ゲームにつき2回使えるようになる
+RelicSuperMonkeyStormDescription,パワーアップ「SMS」を1ゲームにつき2回使えるようになる
+RelicMonkeyBoostDescription,モンキーブーストを1ゲームにつき3回使えるようになる
+RelicRoadSpikesDescription,「路上スパイク」を1ゲームにつき10スタック付与する
+RelicMoabMineDescription,パワーアップ「MOAB地雷」を1ゲームにつき1回使えるようになる
+RelicGlueTrapDescription,パワーアップ「接着剤トラップ」を1ゲームにつき2回使えるようになる
+RelicTechbotDescription,パワーアップ「テックボット」を1ゲームにつき1回使えるようになる
+RelicPrimaryPrimatesDescription,すべてのメインモンキーのコストを10%減らす
+RelicMilitaryMonkeysDescription,すべての軍人モンキーのコストを10%減らす
+RelicMagicMonkeysDescription,すべてのマジックモンキーのコストを10%減らす
+RelicSupportSimiansDescription,すべてのサポートモンキーのコストを10%減らす
+RelicMonkeyTycoonDescription,ロードアウトのモンキータワー全種が1つ追加され、その基本価格が5%安くなる
+InviteToTeam,チームに招待
+TeamLeave,チームを脱退
+Requests,リクエスト
+TeamMessagesTab,メッセージ
+TeamRosterTab,ロスター
+TeamPending,保留中
+CancelRequest,リクエストをキャンセル
+TeamDisband,チームを解散
+TeamCode,チームコード
+TeamMemberCount,{0}/{1}メンバー
+TeamPendingApplications,（{0}保留中）
+TeamNoInfo,表示する情報なし
+AllTeams,すべてのチーム
+TeamsAdvancedSearch,高度な検索
+TeamInvitationDisband,招待を受ける場合は、その前に自分のチームを解散してください
+TeamInvitationAcceptWarning,この招待を受けると、今いるチームから除外されます
+TeamBrowserAllTeams,すべてのチーム
+TeamBrowserFriendsTeams,友達のチーム
+TeamBrowserTeamRequests,リクエスト
+TeamQuickJoin,クイック参加
+TeamBrowserTitle,チームブラウザ
+TeamBrowserSearchField,チーム名を入力…
+TeamBrowserSearchHideFull,満員のチームを非表示
+TeamBrowserSearchHidePrivate,非公開チームを非表示
+TeamBrowserSearchHideClosed,クローズドチームを非表示
+TeamEditApplyAll,すべて適用
+TeamScore,スコア：{0}
+TeamRemoveMember,本当にこのメンバーを除外してよろしいですか？
+TeamPromoteMember,本当にこのメンバーを昇格させてよろしいですか？
+TeamDemoteMember,本当にこのメンバーを降格させてよろしいですか？
+TeamErrorShowPop,チームエラー
+TeamOwnershipTransferTitle,チーム所有権の譲渡
+TeamOwnershipTransferFailed,所有権を新しいプレイヤーに譲渡できませんでした
+TeamOwnershipTransferWarning,チーム所有権をこのメンバーに譲渡しますか？この操作は元に戻せません！
+TeamLeaveConfirm,本当にチームから抜けてよろしいですか？
+TeamDisbandConfirm,本当にチームを解散してよろしいですか？
+TeamOwnershipLeavingWarning,チームから抜ける前に、チーム所有権を他のメンバーに譲渡してください
+TeamNoneFound,チームが見つかりません
+CTLocal,CTローカル
+CTGlobal,CTグローバル
+Rank4th,4位
+Rank4thAnd,4〜10位
+Rank11thAnd,11〜20位
+Rank21stAnd,21〜40位
+Rank41stAnd,41〜60位
+RewardsTop25,トップ25
+RewardsTop100,トップ100
+DegradedScore,低減したスコア
+ERR_INVITATION_NO_LONGER_EXISTS,招待がもう存在しません
+TeamMateSetScore,チームメイトが新スコアを記録しました！
+AnotherTeamSetScore,別のチームが新スコアを記録しました！
+FriendScreenErrorTeamInviteAlreadyMember,このプレイヤーはすでにチームにいます
+TotalTeamScore,チームスコア
+CTRulesInfo,対戦テリトリーへようこそ！チームと力を合わせてタイルを制圧し、ランキングの上位に入って立派な報酬をゲットしましょう！\n\n• 制圧チケット(CT)はタイルを制圧する場合しか使えません。CTは24時間ごとにリフレッシュされます。\n• 未使用の制圧チケットはチケットのプールに移動し、翌日に他のチームメンバーが使えるようになります。\n• 制圧すると、タイルスコアは少しずつ減っていき、24時間後に中立状態になります。\n• タイルを制圧するとCTポイントを獲得し、また、タイルを1時間保持するたびにポイントを獲得できます。CTポイントで個人とチームのランキングの順位が決まるので、できるだけたくさんのタイルを制圧しましょう！\n• バナータイルは難易度が高いタイルで、もっとたくさんのCTポイントが得られます。\n• レリックタイルを制圧すると、チーム全員が他のタイルの制圧に役立つ強力なレリック知識を利用できるようになります。\n• タイルの進行状況は20ラウンドごとに保存されます。なお、進捗データは一度に1つしか保存できません。\n• チームトロフィーストアで気に入ったレリックに投票し、ゲーム開始前のページでバトルに持ち込む特定のレリックを選びましょう。
+TeamTrophyStoreRulesInfo,こちらはチームトロフィーストアです。ここではアンロックされたCTレリックへの投票や、デイリーパワー、イベントレリック、チームフレアに出資できます。\n• CTイベントの期間中はデイリーパワーを毎日アンロックできます。出資するとその日が終わるまでチーム全体で使えます。\n• イベントレリックはCTイベントの期間中ずっと使用可能になり、出資するとイベントが終わるまで使えます。レリックタイルでアンロックできるレリックとは別物です。\n• レリックタイルを制圧し、このイベントでアンロックされたお気に入りのレリック知識に投票しましょう。上位7つのレリックのうち4つを選んで最終ロードアウトに組み込めます。\n• チームフレアはチーム全体で出資します。一度出資されると、恒久的にアンロックされて全員が使えますが、チームを抜けた場合は持ち出せません。
+TeamsBanner1Name,スペースモンキーのバナー
+TeamsBanner2Name,ヒーローチームアップのバナー
+TeamsBanner3Name,喜びのバナー
+TeamsBanner4Name,手裏剣スカイのバナー
+TeamsBanner5Name,モンキーズユナイテッドのバナー
+TeamsBanner6Name,対戦王国のバナー
+TeamsBanner1ShortName,スペースモンキーのバナー
+TeamsBanner2ShortName,ヒーローチームアップのバナー
+TeamsBanner3ShortName,喜びのバナー
+TeamsBanner4ShortName,手裏剣スカイのバナー
+TeamsBanner5ShortName,モンキーズユナイテッドのバナー
+TeamsBanner6ShortName,対戦王国のバナー
+TeamsBanner1Description,君にも、宙に浮かぶあの巨大なバナナの房が見えますか！？
+TeamsBanner2Description,力を合わせて、スーパーヒーローのチームアップ！
+TeamsBanner3Description,ハッピーなモンキーは生産的なモンキー。
+TeamsBanner4Description,手裏剣で太陽を覆い隠そう！
+TeamsBanner5Description,モンキーいっしょ、モンキー強い
+TeamsBanner6Description,このカッコいいCTバナーで、他のモンキーチームの上に立とう。
+TeamsEmblemFrame5Name,雪の結晶のフレーム
+TeamsEmblemFrame6Name,火のフレーム
+TeamsEmblemFrame7Name,魔法のフレーム
+TeamsEmblemFrame8Name,森のフレーム
+TeamsEmblemFrame9Name,エンジニアのフレーム
+TeamsEmblemFrame5ShortName,雪の結晶のフレーム
+TeamsEmblemFrame6ShortName,火のフレーム
+TeamsEmblemFrame7ShortName,魔法のフレーム
+TeamsEmblemFrame8ShortName,森のフレーム
+TeamsEmblemFrame9ShortName,エンジニアのフレーム
+TeamsEmblemFrame5Description,めちゃクールなチームのための、めちゃクールなフレーム！
+TeamsEmblemFrame6Description,ハートを燃やして対戦相手に立ち向かえ！
+TeamsEmblemFrame7Description,神秘的な魔法のフレーム。
+TeamsEmblemFrame8Description,このファンキーな天然フレームで、他のチームより目立とう！
+TeamsEmblemFrame9Description,慎重な計画、測定、実行が勝利のカギ！
+TeamsEmblemIcon5Name,ドクロのアイコン
+TeamsEmblemIcon6Name,MOAB刺客のアイコン
+TeamsEmblemIcon7Name,手裏剣のアイコン
+TeamsEmblemIcon8Name,錬金術師の調合薬のアイコン
+TeamsEmblemIcon5ShortName,ドクロのアイコン
+TeamsEmblemIcon6ShortName,MOAB刺客のアイコン
+TeamsEmblemIcon7ShortName,手裏剣のアイコン
+TeamsEmblemIcon8ShortName,錬金術師の調合薬のアイコン
+TeamsEmblemIcon5Description,止まれ、野郎ども！船を出せ、縄張りを略奪だ！
+TeamsEmblemIcon6Description,あちこちのMOABの心に恐怖を刻み込め。
+TeamsEmblemIcon7Description,このアイコンを掲げるチームに共通するのは、静かだが致命的な攻撃だ。
+TeamsEmblemIcon8Description,この格好いいチームアイコンで嵐を吹き飛ばせ。
+TeamsEmblemIcon9Name,グウェンの火のアイコン
+TeamsEmblemIcon9ShortName,グウェンの火のアイコン
+TeamsEmblemIcon9Description,グウェンが考えたチームアイコン。今さら驚くことがあるだろうか、いやない。要するに火だ。
+TeamsEmblemIcon10Name,クインシーの矢のアイコン
+TeamsEmblemIcon10ShortName,クインシーの矢のアイコン
+TeamsEmblemIcon10Description,クインシーの専売特許、自動追尾式の矢をアイコン化！
+TeamsEmblemIcon11Name,オビンの木のアイコン
+TeamsEmblemIcon11ShortName,オビンの木のアイコン
+TeamsEmblemIcon11Description,環境に優しいこのマークをつけて、木を見て森も見よう。
+TeamsEmblemIcon12Name,バイカーボーンのアイコン
+TeamsEmblemIcon12ShortName,バイカーボーンのいいね！のアイコン
+TeamsEmblemIcon12Description,ミスター・激アツ・ナックルボーンがあなたの最強チームにいいね！
+BuildingPropWizardTowerName,ウィザードタワーの建物
+BuildingPropLighthouseName,灯台の建物
+FlyingPropPhoenixName,空飛ぶフェニックス
+FlyingPropMiniAceName,空飛ぶミニエース
+WaterPropKrakenName,クラーケン
+WaterPropMiniSubName,ミニ潜水艦
+BasePropKingName,モンキーキング
+BasePropLighthouseKeeperName,灯台守
+BasePropCrashedMoabName,撃墜されたMOAB
+BasePropTrainingDummyName,訓練用ダミー
+BasePropCampfireName,くつろぎのキャンプファイア
+BasePropTotemName,部族のトーテム
+BasePropSatelliteName,移動式衛星通信車
+BasePropTortoiseName,部族のカメ
+BasePropBattleMonkeyName,バトルモンキー
+BuildingPropBattleTowerName,ベースタワーの建物
+BuildingPropWizardTowerShortName,ウィザードタワーの建物
+BuildingPropLighthouseShortName,灯台の建物
+FlyingPropPhoenixShortName,空飛ぶフェニックス
+FlyingPropMiniAceShortName,空飛ぶミニエース
+WaterPropKrakenShortName,クラーケン
+WaterPropMiniSubShortName,ミニ潜水艦
+BasePropKingShortName,モンキーキング
+BasePropLighthouseKeeperShortName,灯台守
+BasePropCrashedMoabShortName,撃墜されたMOAB
+BasePropTrainingDummyShortName,訓練用ダミー
+BasePropCampfireShortName,くつろぎのキャンプファイア
+BasePropTotemShortName,部族のトーテム
+BasePropSatelliteShortName,移動式衛星通信車
+BasePropTortoiseShortName,部族のカメ
+BasePropBattleMonkeyShortName,バトルモンキー
+BuildingPropBattleTowerShortName,ベースタワーの建物
+BuildingPropWizardTowerDescription,この不思議なベースに出資したチームには、魔法の冒険が待っている。
+BuildingPropLighthouseDescription,こうこうと輝くこのメインベースで、チームの道を明るく照らそう。
+FlyingPropPhoenixDescription,あれは魔法使いモンキーでは？誰もがそう思っているが、こう考えたことはあるだろうか。すべての魔法使いモンキーは、生まれ変わりを待っているフェニックスかもしれないと。
+FlyingPropMiniAceDescription,このかわいらしいミニエースをチームに加え、モンキーエースに空を見張ってもらおう。
+WaterPropKrakenDescription,クラーケンを放て！このびっくりするほどキュートな大型深海生物で波を制覇せよ。
+WaterPropMiniSubDescription,潜望鏡を上げろ！ミニ潜水艦で辺りを偵察だ。
+BasePropKingDescription,ようこそ、モンキーシ…ではなく、新登場の対戦テリトリーへ！この土地は誰のものになってもおかしくありません。おまけにブルーンだらけ！ガンガン割って、チームの土地を確保しよう。
+BasePropLighthouseKeeperDescription,この賢い年よりモンキーは、昼間は灯台の世話をして、夜になると海を行く船を見守っている。
+BasePropCrashedMoabDescription,この残骸の役立つ技術については、一流の科学者モンキーたちが洗いざらい調べ終わっている。今はブルーンたちへの警告として無残な姿をさらしているだけ。
+BasePropTrainingDummyDescription,モンキー博士が太鼓判を押した、100%再利用可能な訓練用ダミー。ダーツモンキーたちの訓練に。
+BasePropCampfireDescription,肌寒い夜はキャンプファイヤーに当たって暖を取ろう。対戦テリトリーの恐怖体験や怪談を語り合うのにもぴったり。
+BasePropTotemDescription,見るからに恐ろしげなこの部族のトーテムで縄張りを守ろう。
+BasePropSatelliteDescription,この移動式衛星通信車で、情報を宇宙から直接ビーム照射。あとは出発の合図だけ！
+BasePropTortoiseDescription,部族の親戚がいるかどうかは聞かないであげよう。特にカメ以外の！
+BasePropBattleMonkeyDescription,対戦テリトリーモンキー、準備は万全！
+BuildingPropBattleTowerDescription,対戦テリトリーの冒険に乗り出すのなら、たしかな基地が必要だ。
+Neutral,中立
+TilesCaptured,制圧したタイル：
+CTPointsEarnt,獲得したCTポイント：
+TeamTrophiesEarnt,獲得したチームトロフィー：
+RelicsUnlocked,アンロックしたレリック：
+EventEnded,イベント終了
+NextEventIn,次のイベントまで：
+SecondsAgo,数秒前
+1MinuteAgo,1分前
+MinutesAgo,{0}分前
+1HourAgo,1時間前
+HoursAgo,{0}時間前
+1DayAgo,1日前
+XDaysAgo,{0}日前
+TeamSettingDisbandedTitle,解散
+Incoming,着信
+Outgoing,発信
+RoundsCount,ラウンド：{0}
+Relics,レリック
+TeamFlair,チームフレア
+RefreshesIn,リフレッシュまで：{0}
+DailyPower,デイリーパワー
+EventRelic1,イベントレリック1
+EventRelic2,イベントレリック2
+EventRelic3,イベントレリック3
+Vote,投票
+InventoryEmpty,インベントリが空
+Blocked,ブロック中
+ShowOnlineStatus,オンラインステータスを表示
+Invisible,非表示
+NexusTitle,クリエイターサポート
+NexusDescription,ここにクリエイターコードを入力して、お気に入りの『Bloons TD 6』クリエイターをサポートしましょう。ゲーム内購入をおこなうと、そのクリエイターとNinja Kiwi開発チームの応援になります！
+TimeAttackPowersDisabled,タイムアタックモードではパワーが無効になります。
+Funded,資金拠出済み
+UnlocksIn,アンロックまで：{0}
+TimeRemaining,残り時間：{0}
+TeamInviteAlreadySent,チーム招待は送信済みです
+Captured,制圧！
+DisabledFriendInvites,このプレイヤーはフレンド招待を無効にしています
+ItemFunded,アイテム資金拠出！
+Now,今
+Players,プレイヤー
+LocalRewards,ローカル報酬
+GlobalRewards,グローバル報酬
+RewardsTop10,トップ10
+RewardsTop20,トップ20
+RewardsTop40,トップ40
+RewardsTop60,トップ60
+RewardsTopX,トップ{0}
+Rank5th,5位
+Rank6th,6日
+TeamName,チームの名前
+CTPoints,CTポイント
+Contribute,助ける
+ContributeTrophies,トロフィーを寄付する
+ColorblindEnabled,色覚異常モードが有効になっています！
+ColorblindDisabled,色覚異常モードが無効
+Local,ローカル
+KickPending,保留中の削除
+SentryParagonGreen,グリーン セントリー パラゴン
+SentryParagonRed,レッド セントリー パラゴン
+SentryParagonBlue,ブルーセントリーパラゴン
+TeamManagement,チーム管理

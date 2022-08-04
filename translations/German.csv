@@ -2002,7 +2002,7 @@ Monkey Knowledge,Affenwissen
 Unlock More Amazing Skills,Schalte weitere tolle Fähigkeiten frei.
 Choose a tower to get started,Wähle einen Turm zum Beginnen.
 Requires Points,Erfordert \n{0} Punkte.
-Complete,Absolviere
+Complete,Schließe ab
 Needs,Braucht
 Assign+1,Zuweisen+1
 NEW HERO!,NEUER HELD!
@@ -2160,7 +2160,7 @@ FriendLiNKLoginFailed,Konnte sich bei Facebook nicht anmelden. Prüfe bitte dein
 Do It,Los
 Restart?,Neu starten?
 Continue Details,Versuche diese Runde noch einmal mit aufgefüllten Leben und Geld.
-Restart Details,Möchtest du wirklich das Spiel verlassen und neu starten?
+Restart Details,Möchtest du wirklich das Spiel neu starten?
 Insta-Monkey!,Insta-Affe
 Power!,Kraft
 Optimizing,Wird optimiert …
@@ -2473,7 +2473,7 @@ SlowerMoabs,MOAB-Geschwindigkeit gesenkt
 BikerBonesSkinName,Biker Bones-Skin
 BikerBonesSkinDescription,Der Sonnengott hat nicht die Wut eines entfesselten Biker Bones!
 PatsPond,Pats Teich
-InappropriateChallengeName,Bitte wähle einen weniger unangebrachten Namen für die Herausforderung und versuche es erneut
+InappropriateChallengeName,Bitte wähle einen angebrachteren Namen für die Herausforderung
 DCVictoryBody,Glückwunsch! Du hast {0} abgeschlossen!
 EditorCreateVictoryBody,Glückwunsch! Du kannst jetzt deine Herausforderung mit anderen teilen!
 EditorOlderVersion,Diese Herausforderung wurde mit Version {0} erstellt und kann möglicherweise nicht mehr abgeschlossen werden
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,"[I], um Dunkelsprung in Reichweite zu machen"
 DarkChampionDarkshift,"[I], um Dunkelsprung zu einem gültigen Ort zu machen"
 SmallTowersMode,Kleine Affentürme
 BigTowersMode,Große Affentürme
-UpdatePopupTitle,Update 31!
-UpdatePopupDescription,"Neues Inhaltsupdate!\n• Neuer Held! Geraldo der geheimnisvolle Händler ist angekommen, mit seiner unglaublichen Auswahl an Bloon platzen lassenden Artikeln!\n • Neuer Boss! Vortex, der tödliche Meister der Luftwirbel ist geboren!\n• Genieße es, die Bloons auf der neuen Anfängerkarte: Schrottplatz einzustampfen\n• 9 neue Artikel im Trophäen-Laden, darunter ein neuer Remix\n• Herausforderungs-Browser: die besonderen Bedingungen für den Sieg „Mindestgeld“ und „Mindeststufen“ wurden den Rätsel-Herausforderungen hinzugefügt, damit du noch mehr Spaß daran hast. \n• Das Helden-Menü ist neu und verbessert, dazu viele Änderungen an der Lebensqualität und Balance. Sieh dir alle Einzelheiten in den Update-Hinweisen an!"
+UpdatePopupTitle,Update 32!
+UpdatePopupDescription,"Episches Update „Umkämpfte Gebiete“!\n• Riesiges neues Event: Umkämpfte Gebiete – erobere Kacheln von anderen Teams und herrsche über die Bestenliste!\n• Teams! Bilde mit Freunden ein unaufhaltsames Team, um über das Umkämpfte Gebiet zu herrschen.\n• Neuer Paragon: Meisterbauer\n• Neuer Helden-Skin: Voidora\n• Neue Zwischenstüfler-Karte: Steinbruch\n• Trophäenshop-Gegenstände, Verbesserung der Lebensqualität und Balance und vieles mehr!"
 ResetDailyChest,Tägliche Truhe zurücksetzen
 JukeboxName,Musikbox
 EnableFunction,Aktivieren
@@ -2853,7 +2853,7 @@ AdmiralBrickell Level 3 Description,Flottentaktik: erhöht für kurze Zeit enorm
 AdmiralBrickell Level 4 Description,Mehr Kraft zum Platzenlassen für Seeminen.
 AdmiralBrickell Level 5 Description,"Flottentaktik erhöht die Kraft zum Platzenlassen und ermöglicht betroffenen Affen, alle Bloon-Typen zu treffen, außer Tarn-Bloons."
 AdmiralBrickell Level 6 Description,Erhöht den Schaden von Seeminen und Pistolenangriffen.
-AdmiralBrickell Level 7 Description,Brickell erhält erhöhte Angriffsreichweite und Enttarnungsfähigkeit.
+AdmiralBrickell Level 7 Description,Explosionskette: Seeminen feuern für kurze Zeit schneller. Brickell erhält erhöhte Angriffsreichweite und Enttarnungsfähigkeit.
 AdmiralBrickell Level 8 Description,"Flottentaktik ermöglicht betroffenen Affen, Tarn-Bloons zu treffen. Wassertürme im Radius erhalten zusätzliche Durchschlagskraft. "
 AdmiralBrickell Level 9 Description,Seeminen richten Extraschaden an.
 AdmiralBrickell Level 10 Description,"Mega-Mine: setzt in jedem Wasserbereich eine  vernichtende Mine ein, die bei MOABs auslöst und Bloons in der Nähe betäubt. Mega-Minen halten 3 Runden lang."
@@ -2861,9 +2861,9 @@ AdmiralBrickell Level 11 Description,Schnellere Einsatzgeschwindigkeit und höhe
 AdmiralBrickell Level 12 Description,"Pistolenangriffe haben erhöhte Geschwindigkeit und erhöhter Schaden, Seeminen haben erhöhten Schaden."
 AdmiralBrickell Level 13 Description,Abkühlzeit der Mega-Mine ist reduziert.
 AdmiralBrickell Level 14 Description,Dauer von Flottentaktik ist verlängert.
-AdmiralBrickell Level 15 Description,"Verbesserte Seeminen haben einen größeren Explosionsradius, können Schwarzen Bloons Schaden zufügen und Tarnungen entfernen."
+AdmiralBrickell Level 15 Description,"Verbesserte Seeminen haben einen größeren Explosionsradius, können Schwarzen Bloons Schaden zufügen und Tarnungen entfernen. Pistole richtet mehr Schaden an."
 AdmiralBrickell Level 16 Description,Angriff und Einsatzrate der Seemine ist leicht erhöht.
-AdmiralBrickell Level 17 Description,Seeminen richten einen wesentlich größeren Schaden an.
+AdmiralBrickell Level 17 Description,Seeminen richten einen wesentlich größeren Schaden an. Pistole richtet mehr Schaden an.
 AdmiralBrickell Level 18 Description,Abkühlzeit der  der Mega-Mine ist noch weiter reduziert
 AdmiralBrickell Level 19 Description,Flottentaktik wirkt sich überall auf alle wasserbasierten Türme aus.
 AdmiralBrickell Level 20 Description,Mega-Mine richtet extrem erhöhten Schaden an und betäubt länger
@@ -3754,7 +3754,7 @@ HeroesEziliPlacementGlyphDescription,"Beam me up, Ezili! Nur Original Ezili"
 TowerPropMonkeyVillageNZFlagName,Affendorf-Neuseeland-Flagge
 TowerPropMonkeyVillageNZFlagShortName,Dorf-NZ-Flagge
 TowerPropMonkeyVillageNZFlagDescription,Lass den Sonnengott unser freies Land UND unsere Affendörfer vor den Bloons verteidigen! Zeigt alle Upgrades!
-TowerPropMonkeyVillageScotlandFlagName,Affendorf-Neuseeland-Flagge
+TowerPropMonkeyVillageScotlandFlagName,Affendorf-Schottland-Flagge
 TowerPropMonkeyVillageScotlandFlagShortName,Dorf-Schottland-Flagge
 TowerPropMonkeyVillageScotlandFlagDescription,Erhebe dich und erkläre die Freiheit mit dieser Affendorf-Flagge. Zeigt alle Upgrades!
 TowerPropMonkeyVillageBananaFlagName,Affendorf-Bananen-Flagge
@@ -4197,7 +4197,7 @@ GameUIMusicTrackMusicWinterChilledMixDescription,"Chill' mal, spiel 'ne Runde un
 Achievement 134 Name,David gegen Goliath
 Achievement 134 Description,Gewinne einen Boss-Kampf ohne Einsatz eines Helden
 Achievement 135 Name,So würziiiger Ninja Kiwi
-Achievement 135 Description,Besiege Gewürzinsel in jeder zweiten Bloons-Runde nur mit Landtürmen
+Achievement 135 Description,Besiege Gewürzinsel in alternativen Bloonsrunden nur mit Landtürmen
 Achievement 136 Name,Keine Ernte
 Achievement 136 Description,"Besiege Maisfelder auf SCHIMPANSEN, ohne Mais zu entfernen"
 Achievement 137 Name,Studentenkredite
@@ -4335,7 +4335,7 @@ Geraldo Level 1 Description,"Verfügbare Artikel! Schießwütiger Turm, Haufen a
 Geraldo Level 2 Description,"Neuer Artikel! Seltene Quincy Actionfigur – wird wertvoller, je länger du sie besitzt!"
 Geraldo Level 3 Description,Neuer Artikel! Sichtbarkeitstrank – gewährt einem Affenturm oder einem Helden für kurze Zeit die Enttarnungsfähigkeit. Erhöht Geraldos Angriffsreichweite.
 Geraldo Level 4 Description,"Neuer Artikel! Genial-o-Kleb-Tube – kann auf der Strecke aufgebracht werden, um Bloons langsamer zu machen."
-Geraldo Level 5 Description,"Neuer Artikel! Wetzstein – erhöht die Durchschlagskraft eines Affenturms oder Helden, der Schärfe-Schaden einsetzt."
+Geraldo Level 5 Description,"Neuer Artikel! Wetzstein – erhöht die Durchschlagskraft eines Affenturms oder Helden, der Schärfe-Schaden einsetzt. Geraldo greift schneller an."
 Geraldo Level 6 Description,Neuer Artikel! Getragener Heldenumhang – verwandelt einen Pfeilaffen der Stufe 2 oder niedriger in einen Superaffen! Diese verwandelten Superaffen können nur bis Stufe 3 verbessert werden.
 Geraldo Level 7 Description,"Neuer Artikel! Klingenfalle – wenn ein sichtbarer Bloon die Falle berührt, bricht ein Klingensturm los. Geraldos Hauptangriff hat mehr Schaden und Durchschlagskraft."
 Geraldo Level 8 Description,"Neuer Artikel! Flasche 'Gerrys Feuer' – eine 2,8 Millionen Bloonville Einheiten scharfe Soße! Verleiht einem Affen, Helden oder Helfer 10 Runden lang feurige Angriffe."
@@ -4348,9 +4348,9 @@ Geraldo Level 14 Description,Sichtbarkeitstrank gewährt mehr Reichweite und hä
 Geraldo Level 15 Description,"Der Wetzstein macht jetzt größeren Schaden und dazu mehr Durchschlagskraft und die Klingenfalle erzeugt eine noch stärkere Wirkung, wenn sie ausgelöst wird."
 Geraldo Level 16 Description,"Der Haufen alter Nägel wird zu einer Nagelmine, das Gurkenglas gewährt einen zusätzlichen Schaden gegen Wehrbloons und Gerrys Feuer verursacht noch mehr Brandschaden."
 Geraldo Level 17 Description,Geraldos Hauptangriff richtet mehr Schaden an und Genial-o-Kleb hat nun auch eine kleine Wirkung bei Bloons der MOAB-Klasse.
-Geraldo Level 18 Description,"Genie erhält einen zweiten Nahkampf-Angriff und fügt Bloons der MOAB-Klasse Extraschaden zu und Gruselidol wendet bei Bloons der MOAB-Klasse ein geheimnisvolles Grabtuch an, das großen Schaden anrichtet in der Nähe, wenn sie platzen."
-Geraldo Level 19 Description,"Geraldos Hauptangriff ist schneller und hat eine größere Reichweite, und verursacht mehr Schaden und der Sichtbarkeitstrank gibt einen Bonusschaden gegen Tarn-Bloons."
-Geraldo Level 20 Description,Neuer Artikel! Paragon Kraft-Totem – fügt dem nächsten erzeugten Paragon Paragon-Kraft hinzu. Geraldos Hauptangriff richtet noch mehr Schaden an.
+Geraldo Level 18 Description,"Genie erhält einen zweiten Nahkampf-Angriff und fügt Bloons der MOAB-Klasse Extraschaden zu. Wenn Gruselidol abläuft, wendet er bei Bloons der MOAB-Klasse in der Nähe ein geheimnisvolles Grabtuch an, das Schaden anrichtet, wenn sie platzen."
+Geraldo Level 19 Description,"Geraldos Hauptangriff ist stark verbessert, und der Sichtbarkeitstrank gibt einen Bonusschaden gegen Tarn-Bloons."
+Geraldo Level 20 Description,Neuer Artikel! Paragon Kraft-Totem – fügt dem nächsten erzeugten Paragon Paragon-Kraft hinzu. Der Laden frischt das Sortiment vollständig auf. Geraldos Hauptangriff richtet noch mehr Schaden an.
 Geraldo Shop shortname,Laden
 Geraldo Shop name,Geraldos Laden
 Shooty turret name,Schießwütiger Turm
@@ -4366,9 +4366,9 @@ Rare Quincy action figure description,"Limitierte Ausgabe, perfekter Zustand, or
 See invisibility potion name,Sichtbarkeitstrank
 See invisibility potion description,"Egal, welchen Affen du mit diesem extrem wirksamen Elixier beglückst, er wird mit Leichtigkeit Tarn-Bloons erkennen! Die Wirkung verblasst mit der Zeit."
 Tube of amaz-o-glue name,Genial-o-Klebstofftube
-Tube of amaz-o-glue description,"Wirklich genial! Trage etwas von diesem Wunderklebstoff  irgendwo auf der Strecke auf und erlebe, wie der nächste Bloons-Haufen verlangsamt wird."
+Tube of amaz-o-glue description,"Wirklich genial! Trage etwas von diesem Wunderklebstoff irgendwo auf der Strecke auf und erlebe, wie der nächste Bloons-Haufen verlangsamt wird. Hält 4 Runden an oder bis er aufgebraucht ist."
 Sharpening stone name,Wetzstein
-Sharpening stone description,"Schärfe deine Pfeile, mein Freund! Mit diesem Stein werden deine Pfeile und Klingen schärfer denn je."
+Sharpening stone description,"Schärfe deine Pfeile, mein Freund! Mit diesem Stein werden deine Pfeile und Klingen schärfer denn je. Hält 15 Runden lang."
 Worn heros cape name,Getragener Heldenumhang
 Worn heros cape description,"Alle Helden tragen Umhänge! Gib diesen einem deiner Pfeilaffen und staune über dessen Transformation! Zustand ist kaum gebraucht, nur kleinere Kratzer."
 Blade trap name,Klingenfalle
@@ -4394,7 +4394,7 @@ ConfirmLogoutDesc,"Möchtest du dich wirklich von deinem Konto abmelden? Bitte n
 VortexTagLine,Vom Himmel herab kommt
 VortexTagLine2,der tödliche Meister der Luft
 Vortex,Vortex
-VortexInfoPanelDescription,"• Vortex bewegt sich blitzschnell und beschleunigt dabei die anderen Bloons !\n• Wenn jeder Schädel auf der Gesundheitsleiste erreicht ist, setzt Vortex einen Schild ein und sendet eine Schockwelle aus, die jeden Turm in der Nähe betäubt, bevor er sich au"
+VortexInfoPanelDescription,"• Vortex bewegt sich blitzschnell und beschleunigt dabei die anderen Bloons !\n• Wenn jeder Schädel auf der Gesundheitsleiste erreicht ist, setzt Vortex einen Schild ein und sendet eine Schockwelle aus, die jeden Turm in der Nähe betäubt, bevor er sich auf der Strecke zurückzieht.\n• Vortex gibt Stromstöße ab, die Projektile zerstören, einschließlich aller nicht-Kräfte auf der Strecke."
 Scrapyard,Schrottplatz
 BloonsAllBloonsCatEarName,Katzenohren-Bloons
 BloonsAllBloonsCatEarShortName,Katzenohren-Bloons
@@ -4482,26 +4482,513 @@ ShootyTurret,Schießwütiger Turm
 CreepyIdol,Gruselidol
 RareQuincyActionFigure,Seltene Quincy Actionfigur
 GenieBottle,Genie-Flasche
-ParagonPowerTotem,Paragon Kraft-Totem
-FriendScreenErrorRequestFailed,Freundschaftsanfrage fehlgeschlagen
-FriendScreenErrorInvalidCode,Ungültiger Freundescode
-FriendScreenErrorBlocked,Der Spieler, den du hinzufügen möchtest, blockiert Freundschaftsanfragen. Tut uns leid.
-FriendScreenErrorAlreadySent,Du hast diesem Spieler bereits eine Freundschaftsanfrage gesendet.
-FriendScreenErrorTooManyFriends,Du hast dein maximales Freundeslimit ereicht. Du kannst Platz schaffen, indem du einen vorhandenen Freund entfernst oder eine bereits gemachte Freundesanfrage stornierst.
+ParagonPowerTotem,Paragon-Kraft-Totem
+FriendScreenErrorRequestFailed,Freundschaftsanfrage gescheitert
+FriendScreenErrorInvalidCode,Ungültiger Freundschaftscode
+FriendScreenErrorBlocked,"Der Spieler, den du hinzufügen möchtest, hat Freundschaftsanfragen blockiert, sorry!"
+FriendScreenErrorAlreadySent,Du hast diesem Spieler schon eine Freundschaftsanfrage gesendet.
+FriendScreenErrorTooManyFriends,"Du hast die maximale Anzahl an Freunden erreicht. Mach Platz, indem du einen vorhandenen Freund entfernst oder eine von dir gemachte Freundschaftsanfrage abbrichst."
 MapEditor,Karteneditor
-Jar of Pickles description level 11,Probieren Sie diese Essiggurken an einem Ihrer Affentürme aus und sie werden härter treffen, aber für eine Weile langsamer schießen. Jetzt mit erhöhtem Schaden an befestigten Bloons!
-Creepy idol description level 12,Platzieren Sie dieses gruselig aussehende Idol in der Nähe der Strecke, um einige Bloons (sogar MOABs!) Zurück zu erschrecken, wo sie herkamen.
-Shooty turret description level 13,Ein permanenter, handgefertigter Dart-Schießturm. aufgerüstet! Feuert schneller und verursacht mehr Schaden.
-Stack of old nails description level 13,Ja, es ist nur ein sehr großer Stapel alter Nägel, aber legen Sie sie irgendwo auf die Strecke und sie werden diese streunenden Bloons leicht zum Platzen bringen.
-See invisibility potion description level 14,Welchen Affen Sie auch immer mit diesem äußerst wirksamen Elixier beschenken, er wird Camo Bloons mit Leichtigkeit sehen können! Effekte lassen nach. Gibt jetzt mehr Reichweite und hält noch länger!
-Sharpening stone description level 15,Schärfe die Pfeile, Freund! Wenden Sie dies auf Ihre Pfeile und Klingen an und sie werden schärfer sein und mehr Schaden anrichten als je zuvor.
-Blade trap description level 15,Platzieren Sie dies auf der Strecke und beobachten Sie, wie die ersten Bloons, die es berühren, von den großen wirbelnden Klingen zerfetzt werden! Neueres leistungsstärkeres Modell!
-Stack of old nails description level 16,Ja, es ist nur eine RIESEN-NAGELMINE, aber platzieren Sie sie irgendwo auf der Strecke und sie wird diese streunenden Bloons leicht zum Platzen bringen.
-Jar of Pickles description level 16,Probieren Sie diese Essiggurken an einem Ihrer Affentürme aus und sie werden härter treffen, aber für eine Weile langsamer schießen. Jetzt mit NOCH MEHR erhöhtem Schaden an befestigten Bloons!
-Gerrys fire hot sauce description level 16,2,8 Millionen Bloonville-Einheiten. Wer diese besondere Sauce probiert, wird für eine Weile Feuer spucken! Jetzt mit extra Burny-ness.
-Tube of amaz-o-glue description level 17,Wirklich erstaunlich! Bringen Sie eine Tube dieses modernen Wunderwerks an einer beliebigen Stelle auf der Strecke an und beobachten Sie, wie die nächsten Bloons und sogar MOABs langsamer werden.
-Genie bottle description level 18,Beschwöre einen Dschinni-Affen aus dieser leuchtend blauen Flasche, aber pass auf, er hält nicht ewig! (Keine Wünsche im Kauf enthalten). Extra Angriff und mehr Schaden an MOABs jetzt inklusive.
-Creepy idol description level 18,Platzieren Sie dieses unheimlich aussehende Idol in der Nähe der Strecke, um einige Bloons dorthin zurückzuschrecken, wo sie hergekommen sind. Mystical Shroud-Upgrade freigeschaltet!
-See invisibility potion description level 19,Welchen Affen Sie auch immer mit diesem äußerst wirksamen Elixier beschenken, er wird in der Lage sein, Camo Bloons mit Leichtigkeit zu sehen und ihnen mehr Schaden zuzufügen! Effekte lassen nach.
-FriendScreenSureUnBlock,Möchten Sie diesen Benutzer wirklich entsperren?
-None,Keiner
+Jar of Pickles description level 11,"Verwende diese Gurken auf einem deiner Affentürme, damit er härter zuschlägt, aber für einige Zeit langsamer schießt. Jetzt mit erhöhtem Schaden gegen Wehrbloons!"
+Creepy idol description level 12,"Stell dieses gruselig aussehende Idol an der Strecke auf, um diverse Bloons (sogar MOABs) zurückschrecken zu lassen."
+Shooty turret description level 13,"Ein dauerhafter, handgefertigter Pfeilschuss-Turm. Verbesserte Version! Feuert schneller und richtet mehr Schaden an."
+Stack of old nails description level 13,"Ja, es ist nur ein sehr großer Haufen alter Nägel, aber auf der Strecke verteilt bringen sie streunende Bloons zum Platzen."
+See invisibility potion description level 14,"Egal, welchen Affen du mit diesem extrem wirksamen Elixier beglückst, er wird mit Leichtigkeit Tarn-Bloons erkennen! Die Wirkung verblasst mit der Zeit. "
+Sharpening stone description level 15,"Schärfe deine Pfeile, mein Freund! Mit diesem Stein werden deine Pfeile und Klingen schärfer und richten mehr Schaden an denn je."
+Blade trap description level 15,"Stell sie auf der Strecke auf und schau zu, wie die ersten Bloons, die sie berühren von den rotierenden Klingen zerfetzt werden! Neue, noch stärkere Version!"
+Stack of old nails description level 16,"Ja, es ist eine RIESIGE NAGELMINE, aber auf der Strecke verteilt bringt sie streunende Bloons zum Platzen."
+Jar of Pickles description level 16,"Verwende diese Gurken auf einem deiner Affentürme, damit er härter zuschlägt, aber für einige Zeit langsamer schießt. Jetzt mit NOCH MEHR Schaden gegen Wehrbloons!"
+Gerrys fire hot sauce description level 16,"2,8 Millionen Bloonville Einheiten. Wer immer von dieser Sauce kostet, speit eine Zeitlang Feuer! Jetzt mit extra-scharfer Zutat."
+Tube of amaz-o-glue description level 17,"Wirklich genial! Trage eine Tube von diesem Wunderklebstoff irgendwo auf der Strecke auf und erlebe, wie der nächste Bloons-Haufen und sogar MOABs sofort langsamer werden."
+Genie bottle description level 18,"Ruf einen Genie-Affen mit dieser genialen goldenen Flasche herbei, aber pass auf, es hält nicht ewig! (keine Wünsche im Preis enthalten). Extra-Angriff und mehr Schaden bei MOABs sind jetzt inbegriffen."
+Creepy idol description level 18,"Stell dieses gruselig aussehende Idol an der Strecke auf, um einige Bloons zurückschrecken zu lassen. Geheimnisvolles Grabtuch-Upgrade ist freigeschaltet! "
+See invisibility potion description level 19,"Egal, welchen Affen du mit diesem extrem wirksamen Elixier beglückst, er wird mit Leichtigkeit Tarn-Bloons erkennen und ihnen mehr Schaden zufügen! Die Wirkung verblasst mit der Zeit. "
+FriendScreenSureUnBlock,Möchtest du wirklich diesen Benutzer wieder freigeben?
+None,Nichts
+Knowledge Requirement Monkey Money,Nicht genug Affengeld. Mehr kaufen?
+Knowledge Requirement Points,Nicht genug Wissenspunkte
+InviteFriend,Freund einladen
+InvitedToJoin,{0} hat dich zu einem Koop-Spiel eingeladen. Möchtest du beitreten?
+HeroesMountainObynPetBalfrogName,Balrogfrosch-Haustier
+HeroesMountainObynPetBalfrogShortName,Balrogfrosch-Haustier
+HeroesMountainObynPetBalfrogDescription,"Aus den finsteren Höhlen unter dem Nebelgebirge stammt dieser Frosch und erhellt jede Unterhaltung mit dem brennenden Verlangen, deine einzig wahre Flamme zu sein. Nur für Berg-Obyn."
+TowerPropMonkeyVillagePrideFlagName,Affendorf-Stolz-Fahne
+TowerPropMonkeyVillagePrideFlagShortName,Dorf-Stolz-Fahne
+TowerPropMonkeyVillagePrideFlagDescription,Zelebriere Vielfalt und Freiheiten mit dieser noch genialeren Stolz-Fahne für deine Affendörfer. Ist in allen Upgrades zu sehen.
+CoopEmoteTextNeedMoreName,Text Emoji „Need More!“
+CoopEmoteTextNeedMoreShortName,„Need More!“
+CoopEmoteTextNeedMoreDescription,"Wenn du mehr Geld, Bloons, Verteidigung oder einfach was zu essen brauchst, dann hilft dir dieses Emoji garantiert."
+CoopEmoteTextNeedMoreWord,„Need More!“
+CoopEmoteAnimationRainbowName,Regenbogen-Animation
+CoopEmoteAnimationRainbowShortName,Regenbogen
+CoopEmoteAnimationRainbowDescription,Bitte alle mitsingen! Irgendwooooo über dem Regenbogen …
+GameUIProfileAvatar61Name,Affenpfeil-Avatar
+GameUIProfileAvatar61ShortName,Affenpfeil-Avatar
+GameUIProfileAvatar61Description,Lobet den allmächtigen Pfeil! Den Bloons-Platzer!
+GameUIProfileAvatar62Name,Geraldo Avatar
+GameUIProfileAvatar62ShortName,Geraldo Avatar
+GameUIProfileAvatar62Description,"Hallo, mein Freund. Kann ich dich für einen flauschigen weißen Hasen begeistern? Er ist total harmlos, nicht wahr?"
+GameUIProfileBanner15Name,OG BTD-Stil-Banner
+GameUIProfileBanner15ShortName,OG BTD-Stil-Banner
+GameUIProfileBanner15Description,Banner-Sieger by LordTeddington
+GameUIProfileBanner16Name,Waldgeist-Banner
+GameUIProfileBanner16ShortName,Waldgeist-Banner
+GameUIProfileBanner16Description,Banner-Sieger by tricky999tricky
+GameUIMusicTrackMusicTribesJaloonMixName,Jukebox: Stämme & Strapazen - Jaloon Remix
+GameUIMusicTrackMusicTribesJaloonMixShortName,Stämme - Jaloon
+GameUIMusicTrackMusicTribesJaloonMixDescription,Ab auf die Tanzfläche mit diesem starken Remix des beliebten Stämme & Strapazen Hits
+Quarry,Steinbruch
+VoidoraAdoraSkinName,Voidora-Skin
+VoidoraAdoraSkinDescription,Aus dem Void da komm ich her
+VoidoraAdoraSkinNameFull,Voidora
+InappropriateTeamName,Bitte wähle einen angebrachteren Teamnamen
+TeamNameNotUnique,Dieser Name ist bereits vergeben! Wähle einen anderen oder ergänze ihn mit Ziffern.
+TeamNameTooShort,Teamnamen müssen {0} bis {1} Zeichen lang sein
+SentryParagonChild,Modifizierter Wachposten-Paragon
+LoginwithEpic,Mit Epic anmelden
+EnterLinkingCode,"Gib einen Link-Code ein, um zu verbinden:"
+Connect,Verbinden
+PrivacyPolicy,Datenschutzerklärung
+TermsOfService,Nutzungsbedingungen
+ConfirmAgeInfo,"Bestätige bitte dein aktuelles Alter, um fortzufahren. Du musst dich anmelden, um zusätzliche Online-Funktionen nutzen zu können und deine Daten zu speichern."
+AgeQuestion,Bist du {0} Jahre oder älter?
+AgeYes,"Ja, ich bin {0} Jahre oder älter."
+AgeNo,"Nein, ich bin noch nicht {0} Jahre."
+PersonalAccountInfo,"Du kannst ein eigenes Konto erstellen, ohne personenbezogene Daten einzugeben. 
+Durch Wählen von „Ich stimme zu“ erklären deine Eltern oder deine Erziehungsberechtigten, dass sie mit dir die Datenschutzerklärung und die Nutzungsbedingungen von Ninja Kiwi gelesen haben und damit einverstanden sind, und dass wir berechtigt sind, deine Spiel- und nicht personenbezogenen Daten  in unserem Dienst zu speichern, was auch die Nutzung von Servern in den USA beinhaltet."
+AgreeCreateAccount,"Ich stimme zu, Konto erstellen"
+NormalAccountInfo,"Durch Fortsetzen erklärst du dich mit der Datenschutzerklärung und den Nutzungsbedingungen von Ninja Kiwi einverstanden und damit, dass wir berechtigt sind, deine Spieldaten und Kontoinformationen  in unserem Dienst zu speichern, was auch die Nutzung von "
+LoggedInAs,Angemeldet als:
+EpicAccountId,Epic Account-ID:
+NeedHelp,Brauchst du Hilfe?
+ContactSupport,Support kontaktieren
+DeleteAccountText,"Wenn du dein Konto löschst, verlierst du den Zugriff auf alle in der Cloud gespeicherten Fortschritte und Daten.
+Bitte gib deine User-ID (wie unten zu sehen) in dem Kästchen ein, um dein Konto zu löschen. Es kann 48-72 Stunden dauern, bis dein Konto entfernt wurde."
+EnterUserId,User-ID hier eingeben
+GetAllButton,Alle erhalten
+GetAllConfirmation,"Bestätige bitte, dass du dein Affengeld dafür einsetzen möchtest, alle verfügbaren Helden und Skins zu erhalten!"
+DeleteAccount,Konto löschen
+CtLeaderboardTitle,Umkämpftes Gebiet Bestenlisten
+LocalTeams,Lokale Teams
+LocalPlayers,Lokale Spieler
+GlobalTeams,Globale Teams
+GlobalPlayers,Globale Spieler
+CreateTeamPanelTitle,Team erstellen
+CreateTeamTitle,Erstelle ein Team
+CreateTeamNameDescription,Teamname:
+CreateTeamNameInputField,Gib einen Teamnamen ein:
+CreateTeamCostDescription,"Gib {0} aus, um ein Team zu erstellen"
+CreateTeamFailed,Team konnte nicht erstellt werden
+EditTeamPanelTitle,Team bearbeiten
+EditTeamTitle,Bearbeite dein Team
+EditTeamNameDescription,Teamname bearbeiten:
+TeamEmblemTitle,Emblem
+TeamBannerTitle,Banner
+TeamEmblemsTitle,Embleme
+TeamBannersTitle,Banner
+TeamGeneralTitle,Allgemein
+TeamSettingPublicTitle,Öffentlich
+TeamSettingPrivateTitle,Privat
+TeamSettingClosedTitle,Geschlossen
+TeamJoin,Beitreten
+TeamApply,Bewerben
+RecentWin,Jüngster Sieg:
+TileHeldBy,Kachel in Besitz von:
+Score,Punktzahl
+ScoreDegradesIn,Punktzahl verringert sich in:
+NeutralOwnerIn,Neutraler Besitzer in:
+Tile,Kachel: {0}
+RelicTile,Relikt-Kachel
+BannerTile,Banner-Kachel
+BonusCTPoints,Bonus-UG-Punkte!
+DailyRelics,Tägliche Relikte
+HeldRelics,Relikte in Besitz
+Tickets,Tickets:
+PurchaseTickets,Ticket kaufen
+MoreTicketsIn,Mehr Tickets in:
+CTTitleName,Umkämpftes Gebiet
+CTTeamStore,Teamshop
+CTMyTeam,Mein Team
+CTTeamTrophies,Teamtrophäen
+CTTickets,Tickets
+CTTeamTickets,Teamtickets
+CTNextTicketsIn,Nächste Tickets in:
+CTTileSearch,Kachelsuche
+CTOwner,Besitzer:
+CTScore,Punktzahl:
+CTNeutralIn,Neutral in:
+CTPosition,Rang:
+CTUncaptured,Nicht erobert
+CTCheckpoint,Kontrollpunkt erreicht!
+CTNewScore,Neue Punktzahl!
+CTBestScore,Rekord
+TimeAttack,Zeitangriff
+ERR_NOT_LOGGED_IN,Nicht angemeldet
+ERR_ALREADY_PENDING,Anfrage ist bereits vorhanden
+ERR_FEATURE_UNAVAILABLE,"Funktion nicht verfügbar, versuch es später wieder"
+ERR_REQUEST_PARAMETER_MISSING,Parameter fehlt
+ERR_GUILD_FULL,Das Team ist voll
+ERR_GUILD_NAME_EXISTS,Teamname schon vorhanden
+ERR_GUILD_DOES_NOT_EXIST,Team existiert nicht
+ERR_GUILD_CANNOT_DISBAND,Team kann nicht aufgelöst werden
+ERR_GUILD_PERMISSION_DENIED,Keine Genehmigung
+ERR_GUILD_CANNOT_UPDATE_OWNER_DENIED,"Teambesitzer kann nicht aktualisiert werden, keine Genehmigung"
+ERR_GUILD_CANNOT_UPDATE_OWNER_NONE,Teambesitzer kann nicht aktualisiert werden
+ERR_TIMEOUT,"Anfrage veraltet, versuche es erneut"
+CreateNewTeamText,Ein neues Team erstellen?
+ParagonLimitReached,Paragon-Höchstzahl erreicht
+TeamMsgNewMayor,{0} ist der neue Bürgermeister!
+TeamMsgPlayerJoined,{0} ist dem Team beigetreten
+TeamMsgPlayerLeft,{0} hat das Team verlassen
+TeamMsgPlayerKicked,{0} wurde von {1} aus dem Team geworfen.
+TeamMsgPlayerDemoted,{0} wurde von {1} degradiert.
+TeamMsgRegularTileCaptured,{0} eroberte eine normale Kachel. Gute Arbeit!
+TeamMsgBannerTileCaptured,{0} eroberte eine Banner-Kachel. Das ist spitze!
+TeamMsgRelicTileCaptured,{0} eroberte eine Relikt-Kachel und fügte {1} der Team-Relikt-Liste hinzu. Weiter so!
+TeamMsgRegularTileCapturedOtherGuild,{0} eroberte eine normale Kachel von {1}. Gute Arbeit!
+TeamMsgBannerTileCapturedOtherGuild,{0} eroberte eine Banner-Kachel von {1}. Das ist spitze!
+TeamMsgRelicTileCapturedOtherGuild,{0} eroberte eine Relikt-Kachel von {2} und fügte {1} der Team-Relikt-Liste hinzu. Weiter so!
+TeamMsgRelicTileLost,Relikt-Kachel verloren! {0} ist nicht mehr verfügbar.
+TeamMsgPlayerPromoted,{0} wurde von {1} zum stellvertretenden Bürgermeister ernannt
+TeamMsgTeamCreated,Das {0}-Team wurde von {1} erstellt
+TeamMsgNewFocusMarker,Neue Fokusmarkierung von {0} gesetzt
+TeamMsgFlairUnlocked,{0} wurde vollständig erwirtschaftet! Sagenhafte Leistung!
+TileCaptured,Kachel erobert
+TileNotCaptured,Kachel nicht erobert
+TicketUsed,Ticket eingesetzt
+NoTicketUsed,Kein Ticket eingesetzt
+ScoreToBeat,Zu schlagende Punktzahl:
+YourScore,Deine Punktzahl:
+PublicWithBrackets,(Öffentlich)
+PrivateWithBrackets,(Privat)
+CTRelicWon,Relikt gewonnen!
+CTBonusPoints,Bonuspunkte
+Teams,Teams
+CaptureScoreMissed,Eroberungspunktzahl verfehlt!
+CaptureScoreNear,Warnung! Die Eroberungspunktzahl ist fast erreicht
+CtInternalError,"Ein interner Fehler ist aufgetreten, versuch es später wieder"
+CtServerError,Der Umkämpftes Gebiet-Server kann deine Anfrage zur Zeit nicht verarbeiten. Versuch es später wieder
+Achievement 143 Name,Eroberer
+Achievement 143 Description,Erobere 5 Kacheln von anderen Spielern
+Achievement 144 Name,Imperator
+Achievement 144 Description,Erobere 50 Kacheln
+Achievement 145 Name,Gebietssammler
+Achievement 145 Description,"Erobere jeweils eine Boss-, Zeitangriff-, Mindeststufe- und Mindestgeld-Kachel"
+CTLeastCashDescription,"Gib so wenig Geld wie möglich aus, um die Kachel zu gewinnen. Zum ausgegebenen Geld zählen Affenturmplatzierungen und Upgrades, sowie alle bezahlten Helden-Upgrades. Der Verkauf eines Affen reduziert nicht das ausgegebene Geld."
+CTLeastTiersDescription,"Verwende die wenigsten Affentürme und Upgrades, um die Kachel zu gewinnen. Jeder platzierte Affe und Held und jedes Upgrade zählen wie eine Stufe. Bezahlte Helden-Upgrades zählen auch als eine Stufe. Der Verkauf eines Affen reduziert nicht die Stufenzahl."
+CTTimeAttackDescription,"Erziele die schnellste Zeit, um die Kachel zu gewinnen. Aufgrund des Renncharakters startet die Zeit, wenn du auf „Spielen“ drückst. Sende vorzeitig die nächsten Runden los, um deine Zeit zu verbessern. Aber Vorsicht: Zeitangriff-Spiele werden nicht gespe"
+CTBossDescription,"Vernichte den Boss so schnell wie möglich, um die Kachel zu gewinnen. Basierend auf dem Boss-Event beginnt die Zeit, sobald der Boss erscheint. Umkämpftes Gebiet-Bosse sind entweder nur Stufe 1 oder Stufe 1 & 2, abhängig von der Rundenzahl jeder Kachel. K"
+CtEventEnded,Leider ist das Event schon beendet
+RelicStartingStash,Startreserve
+RelicExtraEmpowered,Besonders ermächtigt
+RelicBoxOfChocolates,Schokoladentafel
+RelicBoxOfMonkey,Affenkiste
+RelicMarchingBoots,Wanderstiefel
+RelicHeroBoost,Helden-Boost
+RelicBiggerBloonSabotage,Größere Bloon-Sabotage
+RelicRoundingUp,Aufrunden
+RelicManaBulwark,Mana-Schutz
+RelicRegeneration,Wiederherstellung
+RelicRestoration,Wiederaufbau
+RelicDurableShots,Haltbare Schüsse
+RelicAlchemistTouch,Alchemisten-Touch
+RelicDeepHeat,Große Hitze
+RelicSharpsplosion,Schwarze Schärfe
+RelicRoyalTreatment,Königliche Behandlung
+RelicHardBaked,Hartgekocht
+RelicFortifried,Wehrhaftig
+RelicMoabClash,MOAB-Kracher
+RelicCamoFlogged,Tarnhaft
+RelicBrokenHeart,Gebrochenes Herz
+RelicGoingTheDistance,Meilenweit
+RelicHeartless,Herzlos
+RelicFlintTips,Feurig scharf
+RelicAbilitized,Fähig
+RelicAirAndSea,Luft und Wasser
+RelicElDorado,El Dorado
+RelicMonkeyShield,Affenschutz
+RelicMonkeyShieldMark2,Affenschutz Mark 2
+RelicMonkeyShieldMark3,Affenschutz Mark 3
+RelicPsiVision,Psi-Vision
+RelicOpenSeason,Offene Saison
+RelicCamoTrap,Tarnfalle
+RelicThrive,Erfolg
+RelicSuperMonkeyStorm,SAS
+RelicMonkeyBoost,Affen-Boost
+RelicRoadSpikes,Nagelsperren
+RelicMoabMine,MOAB-Mine
+RelicGlueTrap,Klebefalle
+RelicTechbot,Tech-Bot
+RelicPrimaryPrimates,Primärprimaten
+RelicMilitaryMonkeys,Militäraffen
+RelicMagicMonkeys,Zauberaffen
+RelicSupportSimians,Unterstützeraffen
+RelicMonkeyTycoon,Affentycoon
+RelicStartingStashDescription,Starte jedes Spiel mit einem extra Vorrat von 300 Geld (kombinierbar mit „Mehr Geld“ auf normalen Kacheln)
+RelicExtraEmpoweredDescription,Dein Held startet im Spiel mit 3 Extralevels (kombinierbar mit „Ermächtigte Helden“ auf normalen Kacheln)
+RelicBoxOfChocolatesDescription,Starte jedes Spiel mit 100 Extraleben
+RelicBoxOfMonkeyDescription,"Starte jedes Spiel mit einem Gratis-Affen, der $500 oder weniger kosten würde für nicht modifizierte erste Platzierung"
+RelicMarchingBootsDescription,In Spielen mit eingeschränkter Anzahl bietet es dem Spieler +1 maximale Zahl von jedem Turm oder +4 maximale Zahl je Spiel
+RelicHeroBoostDescription,Helden verdienen XP 10 % schneller in jedem Spiel.
+RelicBiggerBloonSabotageDescription,Alle Bloons der MOAB-Klasse erscheinen mit 15 % weniger Gesundheit und bewegen sich mit 95 % Geschwindigkeit.
+RelicRoundingUpDescription,Verdiene am Ende der Runde +20 $
+RelicManaBulwarkDescription,"Erzeugt einen Schild, der bis zu 50 Leben absorbiert (kombinierbar mit Mana-Schild bei normalen Kacheln)"
+RelicRegenerationDescription,"Stelle je Runde 10 Leben wieder her, bis zur Ausgangsmenge der Leben im Spiel, wenn in dieser Runde keine Leben verloren wurden."
+RelicRestorationDescription,"Stelle je Runde 20 Leben wieder her, bis zu einer erhöhten Ausgangsmenge der Leben von +200, wenn in dieser Runde keine Leben verloren wurden."
+RelicDurableShotsDescription,Alle Projektile haben eine Lebensdauer von +25 %
+RelicAlchemistTouchDescription,Alle Angriffe können Blei-Bloons platzen lassen
+RelicDeepHeatDescription,Alle Angriffe können Weiße Bloons platzen lassen
+RelicSharpsplosionDescription,Alle Angriffe können Schwarze Bloons platzen lassen
+RelicRoyalTreatmentDescription,Alle Angriffe können Violette Bloons platzen lassen
+RelicHardBakedDescription,Alle Angriffe fügen Keramik-Bloons +1 Schaden zu
+RelicFortifriedDescription,Alle Angriffe fügen Wehrbloons +1 Schaden zu
+RelicMoabClashDescription,Alle Angriffe fügen Bloons der MOAB-Klasse +1 Schaden zu
+RelicCamoFloggedDescription,Alle Angriffe fügen Tarn-Bloons +1 Schaden zu
+RelicBrokenHeartDescription,Alle Angriffe fügen runderneuerten Bloons +1 Schaden zu
+RelicGoingTheDistanceDescription,Alle Affen erhalten +10 % Reichweite
+RelicHeartlessDescription,Die Regenerationsrate von runderneuerten Bloons ist um 25 % reduziert
+RelicFlintTipsDescription,"Scharfe Projektile fügen allen Bloons, die sie treffen, einen Feuerpunkt zu (1 Schaden alle 2s für insgesamt 4s)"
+RelicAbilitizedDescription,Alle aktiven Fähigkeitsabkühlraten bei allen Affen sind um 10 % reduziert
+RelicAirAndSeaDescription,"Fliegerass, Hubschrauber, Freibeuter und U-Boot haben um 10 % reduzierte Platzierungs- und Upgrade-Kosten, und das Nachladen ist um 5 % verbessert "
+RelicElDoradoDescription,Alle Affengelder und Team-Trophäenbelohnungen für Siege sind um 25 % erhöht (mindestens +1)
+RelicMonkeyShieldDescription,Bis zu 1 Stunde nach der Eroberung kann die Kachel vom gegnerischen Team nicht angegriffen werden. Verbesserte Punktzahl setzt den Timer wieder auf 1 Stunde.
+RelicMonkeyShieldMark2Description,Bis zu 2 Stunden nach der Eroberung kann die Kachel vom gegnerischen Team nicht angegriffen werden. Verbesserte Punktzahl setzt den Timer wieder auf 2 Stunden.
+RelicMonkeyShieldMark3Description,Bis zu 3 Stunden nach der Eroberung kann die Kachel vom gegnerischen Team nicht angegriffen werden. Verbesserte Punktzahl setzt den Timer wieder auf 3 Stunden.
+RelicPsiVisionDescription,Erfahre Einzelheiten zu den Kacheln auf der Karte
+RelicOpenSeasonDescription,Greife eine beliebige Kachel auf der Karte an
+RelicCamoTrapDescription,Gewährt Einsatz von 2 Tarnfallen-Power-Ups je Spiel
+RelicThriveDescription,Gewährt Einsatz von 2 Erfolg-Power-Ups je Spiel
+RelicSuperMonkeyStormDescription,Gewährt Einsatz von 2 Superaffensturm je Spiel
+RelicMonkeyBoostDescription,Gewährt Einsatz von 3 Affen-Boosts je Spiel
+RelicRoadSpikesDescription,Gewährt Einsatz von 10 Nagelsperren je Spiel
+RelicMoabMineDescription,Gewährt Einsatz von 1 MOAB-Mine-Power-Up je Spiel
+RelicGlueTrapDescription,Gewährt Einsatz von 2 Klebefallen-Power-Ups je Spiel
+RelicTechbotDescription,Gewährt Einsatz von 1 Tech-Bot-Power-Up je Spiel
+RelicPrimaryPrimatesDescription,Reduziert die Kosten für alle Primäraffen um 10 %
+RelicMilitaryMonkeysDescription,Reduziert die Kosten für alle Militäraffen um 10 %
+RelicMagicMonkeysDescription,Reduziert die Kosten für alle Zauberaffen um 10 %
+RelicSupportSimiansDescription,Reduziert die Kosten für alle Unterstützeraffen um 10 %
+RelicMonkeyTycoonDescription,Erhalte +1 von allen Affentürmen in deiner Verladung und ihre Basiskosten sind um 5 % reduziert
+InviteToTeam,Ins Team einladen
+TeamLeave,Team verlassen
+Requests,Anfragen
+TeamMessagesTab,Nachrichten
+TeamRosterTab,Spielerliste
+TeamPending,Ausstehend
+CancelRequest,Anfrage abbrechen
+TeamDisband,Team auflösen
+TeamCode,Teamcode
+TeamMemberCount,{0}/{1} Mitglieder
+TeamPendingApplications,({0} ausstehend)
+TeamNoInfo,Keine Informationen zum Anzeigen
+AllTeams,Alle Teams
+TeamsAdvancedSearch,Erweiterte Suche
+TeamInvitationDisband,"Du musst dein Team auflösen, bevor du eine Einladung annehmen kannst"
+TeamInvitationAcceptWarning,"Wenn du diese Einladung annimmst, wirst du aus deinem aktuellen Team entfernt"
+TeamBrowserAllTeams,Alle Teams
+TeamBrowserFriendsTeams,Teams von Freunden
+TeamBrowserTeamRequests,Anfragen
+TeamQuickJoin,Schneller Beitritt
+TeamBrowserTitle,Teambrowser
+TeamBrowserSearchField,Teamname eingeben…
+TeamBrowserSearchHideFull,Volle Teams verbergen
+TeamBrowserSearchHidePrivate,Private Teams verbergen
+TeamBrowserSearchHideClosed,Geschlossene Teams verbergen
+TeamEditApplyAll,Alles anwenden
+TeamScore,Punktzahl: {0}
+TeamRemoveMember,Möchtest du wirklich dieses Mitglied entfernen?
+TeamPromoteMember,Möchtest du wirklich dieses Mitglied befördern?
+TeamDemoteMember,Möchtest du wirklich dieses Mitglied degradieren?
+TeamErrorShowPop,Teamfehler
+TeamOwnershipTransferTitle,Übertragung Teaminhaberschaft
+TeamOwnershipTransferFailed,Inhaberschaft konnte nicht auf neuen Spieler übertragen werden
+TeamOwnershipTransferWarning,Möchtest du wirklich die Teaminhaberschaft an dieses Mitglied übertragen? Dies kann nicht rückgängig gemacht werden!
+TeamLeaveConfirm,Möchtest du wirklich das Team verlassen?
+TeamDisbandConfirm,Möchtest du wirklich das Team auflösen?
+TeamOwnershipLeavingWarning,"Übertrage die Teaminhaberschaft auf ein anderes Mitglied, bevor du es verlässt"
+TeamNoneFound,Team nicht gefunden
+CTLocal,UG Lokal
+CTGlobal,UG Global
+Rank4th,4
+Rank4thAnd,4. - 10.
+Rank11thAnd,11. - 20.
+Rank21stAnd,21. - 40.
+Rank41stAnd,41. - 60
+RewardsTop25,Top 25
+RewardsTop100,Top 100
+DegradedScore,Verringerte Punktzahl
+ERR_INVITATION_NO_LONGER_EXISTS,Einladung ist nicht mehr vorhanden
+TeamMateSetScore,Ein Teammitglied hat einen neuen Rekord erzielt!
+AnotherTeamSetScore,Ein anderes Team hat einen neuen Rekord erzielt!
+FriendScreenErrorTeamInviteAlreadyMember,Dieser Spieler ist bereits in deinem Team
+TotalTeamScore,Teampunktzahl
+CTRulesInfo,"Willkommen in den Umkämpften Gebieten (UG)! Arbeite mit deinem Team zusammen, erobere Kacheln, klettere in den Bestenlisten bis an die Spitze und verdiene geniale Belohnungen!\n\n• Eroberungstickets werden nur verbraucht, wenn du eine Kachel eroberst. Sie werden alle 24 Stunden erneuert.\n• Nicht verbrauchte Eroberungstickets wandern in einen Ticketpool, aus dem sich deine Teammitglieder am folgenden Tag bedienen können.\n• Nach der Eroberung der Kachel nimmt die Punktzahl mit der Zeit ab, bis die Kachel nach 24 Stunden wieder neutral wird.\n• UG-Punkte erhältst du für das Erobern einer Kachel sowie für jede Stunde, die du die Kachel noch in Besitz hast. UG-Punkte entscheiden deinen persönlichen Rang auf den Bestenlisten sowie den deines Teams – es gilt also so viele Kacheln wie möglich zu erobern!\n• Banner-Kacheln sind schwerer zu knacken und bringen mehr UG-Punkte ein.\n• Relikt-Kacheln bieten deinem Team Zugriff auf starke Wissensrelikte, die beim Erobern weiterer Kacheln hilfreich sind.\n• Kachel-Fortschritte werden alle 20 Runden gespeichert und du kannst immer nur eine Fortschrittsspeicherung gleichzeitig haben.\n• Wähle im Team-Trophäenshop, welche Relikte dir am besten gefallen und dann auf der Spielvorbereitungsseite, welche Relikte du in den Kampf mitnehmen willst."
+TeamTrophyStoreRulesInfo,"Das ist der Team-Trophäenshop, in dem du freigeschaltete  UG-Relikte auswählen kannst, Tageskräfte, Event-Relikte und Teamflair kaufen kannst.\n• Tageskräfte können jeden Tag während eines UG-Events freigeschaltet werden und, sobald erwirtschaftet, vom ganzen Team an diesem Tag verwendet werden.\n• Event-Relikte werden während des ganzen UG-Events verfügbar und, sobald erwirtschaftet, sind sie für den Rest des Events verwendbar. Sie unterscheiden sich von den Relikten, die auf Relikt-Kacheln freigeschaltet werden.\n• Erobere Relikt-Kacheln und wähle dein bevorzugtes Reliktwissen in diesem Event. Die Top 7 Relikte können dann für deine finale Verladung mit 4 Relikten gewählt werden.\n• Teamflair wird vom gesamten Team erwirtschaftet, und, wenn es erwirtschaftet wurde, dauerhaft für dein Team freigeschaltet. Spieler, die das Team verlassen, dürfen kein Teamflair mitnehmen."
+TeamsBanner1Name,Affen im Weltraum-Banner
+TeamsBanner2Name,Vereinte Helden-Banner
+TeamsBanner3Name,Freuden-Banner
+TeamsBanner4Name,Shurikenhimmel-Banner
+TeamsBanner5Name,Vereinte Affen-Banner
+TeamsBanner6Name,Umkämpftes Königreich-Banner
+TeamsBanner1ShortName,Affen im Weltraum-Banner
+TeamsBanner2ShortName,Vereinte Helden-Banner
+TeamsBanner3ShortName,Freuden-Banner
+TeamsBanner4ShortName,Shurikenhimmel-Banner
+TeamsBanner5ShortName,Vereinte Affen-Banner
+TeamsBanner6ShortName,Umkämpftes Königreich-Banner
+TeamsBanner1Description,Siehst du auch diesen schwebenden Bananenhaufen?
+TeamsBanner2Description,Mit vereinten Kräften ist jetzt die Zeit der Superhelden!
+TeamsBanner3Description,Glückliche Affen leisten mehr. 
+TeamsBanner4Description,Wir verdunkeln die Sonne mit unseren Shuriken!
+TeamsBanner5Description,Gemeinsam sind wir affenstark.
+TeamsBanner6Description,"Zeig anderen Affenteams, was angesagt ist, mit diesem genialen UG-Banner"
+TeamsEmblemFrame5Name,Schneeflockenrahmen
+TeamsEmblemFrame6Name,Feuerrahmen
+TeamsEmblemFrame7Name,Zauberrahmen
+TeamsEmblemFrame8Name,Waldrahmen
+TeamsEmblemFrame9Name,Ingenieurrahmen
+TeamsEmblemFrame5ShortName,Schneeflockenrahmen
+TeamsEmblemFrame6ShortName,Feuerrahmen
+TeamsEmblemFrame7ShortName,Zauberrahmen
+TeamsEmblemFrame8ShortName,Waldrahmen
+TeamsEmblemFrame9ShortName,Ingenieurrahmen
+TeamsEmblemFrame5Description,Ein echt cooler Rahmen für dein echt cooles Team!
+TeamsEmblemFrame6Description,"Es wird Zeit, deinen Gegnern einzuheizen!"
+TeamsEmblemFrame7Description,Ein geheimnisvoller Zauberrahmen.
+TeamsEmblemFrame8Description,Zeige allen mit diesem schrillen Naturrahmen wie besonders dein Team ist.
+TeamsEmblemFrame9Description,"Sorgfältiges Planen, Abmessen und Ausführen sind der Schlüssel zum Sieg!"
+TeamsEmblemIcon5Name,Schädel-Symbol
+TeamsEmblemIcon6Name,MOAB-Attentäter-Symbol
+TeamsEmblemIcon7Name,Shuriken-Symbol
+TeamsEmblemIcon8Name,Alchemistengebräu-Symbol
+TeamsEmblemIcon5ShortName,Schädel-Symbol
+TeamsEmblemIcon6ShortName,MOAB-Attentäter-Symbol
+TeamsEmblemIcon7ShortName,Shuriken-Symbol
+TeamsEmblemIcon8ShortName,Alchemistengebräu-Symbol
+TeamsEmblemIcon5Description,"Auf geht’s, meine Lieben. Setzt die Segel und plündert die Gebiete!"
+TeamsEmblemIcon6Description,Flößt MOABs auf der ganzen Welt Angst ein.
+TeamsEmblemIcon7Description,Lautlose aber tödliche Treffer sind kennzeichnend für Teams mit diesem Symbol.
+TeamsEmblemIcon8Description,Braue einen Sturm zusammen mit diesem genialen Teamsymbol.
+TeamsEmblemIcon9Name,Gwen-Feuer-Symbol
+TeamsEmblemIcon9ShortName,Gwen-Feuer-Symbol
+TeamsEmblemIcon9Description,"Das ist Gwens Beitrag zu den Teamsymbolen. Es überrascht uns nicht, dass es so heiß ist…"
+TeamsEmblemIcon10Name,Quincys-Pfeile-Symbol
+TeamsEmblemIcon10ShortName,Quincys-Pfeile-Symbol
+TeamsEmblemIcon10Description,"Quincys patentierte zielsuchende Pfeile, jetzt in ikonenhafter Form!"
+TeamsEmblemIcon11Name,Obyn-Baum-Symbol
+TeamsEmblemIcon11ShortName,Obyn-Baum-Symbol
+TeamsEmblemIcon11Description,Sieh den Wald UND die Bäume mit diesem umweltfreundlichen Symbol.
+TeamsEmblemIcon12Name,Biker-Knochen-Symbol
+TeamsEmblemIcon12ShortName,Biker-Knochen-Symbol
+TeamsEmblemIcon12Description,Der superheiße Biker-Knochen macht Daumen hoch für dein episches Team!
+BuildingPropWizardTowerName,Zauberturm-Gebäude
+BuildingPropLighthouseName,Leuchtturm-Gebäude
+FlyingPropPhoenixName,Fliegender Phönix
+FlyingPropMiniAceName,Fliegendes Mini-Affenass
+WaterPropKrakenName,Krake
+WaterPropMiniSubName,Mini-U-Boot
+BasePropKingName,Affenkönig
+BasePropLighthouseKeeperName,Leuchtturmwächter
+BasePropCrashedMoabName,Abgestürzter MOAB
+BasePropTrainingDummyName,Trainingspuppe
+BasePropCampfireName,Gemütliches Lagerfeuer
+BasePropTotemName,Stammestotem
+BasePropSatelliteName,Mobiles Satellitenfahrzeug
+BasePropTortoiseName,Stammesschildkröte
+BasePropBattleMonkeyName,Kampfaffe
+BuildingPropBattleTowerName,Basisturm-Gebäude
+BuildingPropWizardTowerShortName,Zauberturm-Gebäude
+BuildingPropLighthouseShortName,Leuchtturm-Gebäude
+FlyingPropPhoenixShortName,Fliegender Phönix
+FlyingPropMiniAceShortName,Mini-Affenflieger
+WaterPropKrakenShortName,Krake
+WaterPropMiniSubShortName,Mini-U-Boot
+BasePropKingShortName,Affenkönig
+BasePropLighthouseKeeperShortName,Leuchtturmwächter
+BasePropCrashedMoabShortName,Abgestürzter MOAB
+BasePropTrainingDummyShortName,Trainingspuppe
+BasePropCampfireShortName,Gemütliches Lagerfeuer
+BasePropTotemShortName,Stammestotem
+BasePropSatelliteShortName,Mobiles Satellitenfahrzeug
+BasePropTortoiseShortName,Stammesschildkröte
+BasePropBattleMonkeyShortName,Kampfaffe
+BuildingPropBattleTowerShortName,Basisturm-Gebäude
+BuildingPropWizardTowerDescription,"Magische Abenteuer erwarten jedes Team, das sich diese geheimnisvolle Basis erwirtschaftet."
+BuildingPropLighthouseDescription,Leuchte deinem ganzen Team den Weg mit dieser hell leuchtenden Hauptbasis.
+FlyingPropPhoenixDescription,"Alle fragen sich, ob das nicht ein Zauberaffe in der Luft ist. Ist schon mal einer darauf gekommen, dass alle Zauberaffen ein Phönix sein könnten, der nur auf seine Wiedergeburt wartet?"
+FlyingPropMiniAceDescription,Lass das Affenfliegerass mit diesem süßen Mini-Affenflieger deinen Luftraum kontrollieren.
+WaterPropKrakenDescription,Lass die Krake los! Herrsche über die Wellen mit dieser überraschend liebenswerten Unterwasserkreatur.
+WaterPropMiniSubDescription,Sehrohre ausfahren! Erkunde mit diesem Mini-U-Boot die Gegend.
+BasePropKingDescription,"Willkommen in unserem neuen Affensta… Ich wollte sagen, Umkämpftes Gebiet! Dieses Land wartet auf deine Eroberung und es wimmelt an Bloons! Lass sie alle platzen und sichere das Gebiet für dein Team."
+BasePropLighthouseKeeperDescription,Dieser kluge alte Affe hütet den Leuchtturm und hält  in der Nacht ständig Ausschau nach vorbeifahrenden Schiffen.
+BasePropCrashedMoabDescription,Ein Team erstklassiger Affen-Wissenschaftler hat dieses Wrack schon gründlich nach nützlicher Technik durchforstet. Jetzt liegt es nur noch da und dient als Warnung für die Bloons.
+BasePropTrainingDummyDescription,"Halte alle deine Pfeilaffen auf Trab mit einer von Dr. Affe zertifizierten, 100 % wiederverwendbaren Trainingspuppe!"
+BasePropCampfireDescription,"Halte dein Team in kühlen Nächten warm, oder erzähle Gruselgeschichten über die Umkämpften Gebiete an diesem gemütlichen Lagerfeuer."
+BasePropTotemDescription,Schütze deine Grenzen mit diesem angsteinflößenden Stammestotem.
+BasePropSatelliteDescription,"Empfange Informationen direkt aus dem All mit diesem mobilen Satellitenfahrzeug, sofort fahrbereit!"
+BasePropTortoiseDescription,"Frag ja nicht nach der Stammesverwandschaft, schon gar nicht nach Schildkröten!"
+BasePropBattleMonkeyDescription,"Umkämptes-Gebiet-Affe, bereit zum Einsatz!"
+BuildingPropBattleTowerDescription,Jedes Abenteuer im Umkämpften Gebiet braucht eine sichere Basis.
+Neutral,Neutral
+TilesCaptured,Kacheln erobert:
+CTPointsEarnt,UG-Punkte verdient:
+TeamTrophiesEarnt,Teamtrophäen verdient:
+RelicsUnlocked,Relikte freigeschaltet:
+EventEnded,Event ist beendet
+NextEventIn,Nächstes Event in:
+SecondsAgo,Vor Sekunden
+1MinuteAgo,Vor 1 Minute
+MinutesAgo,Vor {0} Minuten
+1HourAgo,Vor 1 Stunde
+HoursAgo,Vor {0} Stunden
+1DayAgo,Vor 1 Tag
+XDaysAgo,Vor {0} Tagen
+TeamSettingDisbandedTitle,Aufgelöst
+Incoming,Eingehende
+Outgoing,Ausgehende
+RoundsCount,Runden: {0}
+Relics,Relikte
+TeamFlair,Teamflair
+RefreshesIn,Beginnt wieder in: {0}
+DailyPower,Tageskraft
+EventRelic1,Event-Relikt 1
+EventRelic2,Event-Relikt 2
+EventRelic3,Event-Relikt 3
+Vote,Abstimmen
+InventoryEmpty,Inventar ist leer
+Blocked,Geblockt
+ShowOnlineStatus,Onlinestatus anzeigen
+Invisible,Nicht sichtbar
+NexusTitle,Ersteller-Unterstützung
+NexusDescription,"Unterstütze deinen beliebtesten Bloons TD6-Ersteller, indem du seinen Ersteller-Code hier eingibst. Jeder Einkauf im Spiel wird diesen Ersteller sowie das Ninja-Kiwi-Entwicklerteam unterstützen!"
+TimeAttackPowersDisabled,Kräfte sind im Zeitangriff-Modus deaktiviert
+Funded,Erwirtschaftet
+UnlocksIn,Freigeschaltet in {0}
+TimeRemaining,Verbleibende Zeit: {0}
+TeamInviteAlreadySent,Teameinladung wurde bereits versendet
+Captured,Erobert!
+DisabledFriendInvites,Dieser Spieler hat Einladungen deaktiviert
+ItemFunded,Gegenstand erwirtschaftet!
+Now,Jetzt
+Players,Spieler
+LocalRewards,Lokale Belohnungen
+GlobalRewards,Globale Belohnungen
+RewardsTop10,Top 10
+RewardsTop20,Top 20
+RewardsTop40,Top 40
+RewardsTop60,Top 60
+RewardsTopX,Top {0}
+Rank5th,5
+Rank6th,6
+TeamName,Teamname
+CTPoints,CT-Punkte
+Contribute,Beitragen
+ContributeTrophies,Trophäen beisteuern
+ColorblindEnabled,Farbenblind-Modus aktiviert!
+ColorblindDisabled,Farbenblind-Modus deaktiviert
+Local,Lokal
+KickPending,Bevorstehende Entfernung
+SentryParagonGreen,Green Sentry Paragon
+SentryParagonRed,Red Sentry Paragon
+SentryParagonBlue,Blue Sentry Paragon
+TeamManagement,Team Management

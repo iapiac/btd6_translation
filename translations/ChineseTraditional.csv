@@ -2160,7 +2160,7 @@ FriendLiNKLoginFailed,登入Facebook失敗。請查看網際網路連線及登�
 Do It,執行
 Restart?,重新開始？
 Continue Details,藉助補充生命和現金重新挑戰本回合。
-Restart Details,是否確定要退出并重新開始？
+Restart Details,你確定要重新開始嗎？
 Insta-Monkey!,即時猴子
 Power!,力量！
 Optimizing,正在優化…
@@ -2472,7 +2472,7 @@ SlowerMoabs,Moab速度
 BikerBonesSkinName,車手骨頭皮膚
 BikerBonesSkinDescription,太陽神可不像被解放的車手骨頭那麼憤怒！
 PatsPond,Pat 的池塘
-InappropriateChallengeName,請使用更合適的挑戰名稱，然後再試一次
+InappropriateChallengeName,請選擇一個更合適的挑戰名稱
 DCVictoryBody,恭喜！你已經完成了{0}次！
 EditorCreateVictoryBody,恭喜！你現在可以與其他人分享你的挑戰！
 EditorOlderVersion,此挑戰在{0}版本中創建，可能無法再完成
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I]黑暗轉移至範圍內
 DarkChampionDarkshift,[I]黑暗轉移至任何有效位置
 SmallTowersMode,小猴子塔
 BigTowersMode,大猴子塔
-UpdatePopupTitle,更新 31！
-UpdatePopupDescription,新内容更新！\n• 新英雄！神秘店主Geraldo帶著他琳琅滿目的擊破氣球物品來了！\n• 新頭目！致命空中主宰Vortex猶如猛獸出籠！\n• 全新新手地圖：廢品場，在那裡享受破壞氣球的樂趣吧\n• 新增9個獎盃商店物品，包括一首新混音\n• 挑戰瀏覽器：加入最少現金和最低階特殊勝利條件，助你享受完成挑戰的樂趣\n• 新增英雄選單，進一步改善生活素質，平衡性修改，完整內容，請查看更新說明！
+UpdatePopupTitle,更新 32！
+UpdatePopupDescription,史詩級爭議領土更新！\n•全新大型活動：爭議領土 - 從其他戰隊手中奪取地塊，稱霸排行榜！\n •戰隊！找上好友，組成勢不可擋的戰隊，征服爭議領土\n•新的巔峰：建造大師\n•新的英雄皮膚：Voidora\n•新的中級地圖：採石場\n•獎盃商店物品，生活素質改進、平衡性修改等！
 ResetDailyChest,重設每日寶箱
 JukeboxName,自動唱機
 EnableFunction,啟用
@@ -2852,7 +2852,7 @@ AdmiralBrickell Level 3 Description,海軍策略 - 短時間內大幅加快附�
 AdmiralBrickell Level 4 Description,水雷擊破力增加。
 AdmiralBrickell Level 5 Description,海軍策略可增強擊破力，使受影響的猴子能夠擊中除迷彩氣球外的所有氣球。
 AdmiralBrickell Level 6 Description,增加水雷和手槍攻擊造成的傷害。
-AdmiralBrickell Level 7 Description,Brickell獲得攻擊範圍增加和僞裝氣球偵測。
+AdmiralBrickell Level 7 Description,爆炸鏈：水雷發射速度短時間內加快。Brickell的攻擊範圍增加，獲得僞裝氣球偵測能力。
 AdmiralBrickell Level 8 Description,海軍策略可使受影響的猴子能夠擊中僞裝氣球。作用範圍内的水塔獲得額外穿透力。
 AdmiralBrickell Level 9 Description,水雷造成額外傷害。
 AdmiralBrickell Level 10 Description,巨型水雷：在任何水域部署一枚破壞力巨大的水雷，引爆MOAB級氣球並且擊暈附近的氣球。巨型水雷持續3個回合。
@@ -2860,9 +2860,9 @@ AdmiralBrickell Level 11 Description,加快水雷的部署速度。
 AdmiralBrickell Level 12 Description,手槍攻擊的速度和傷害得到增強，水雷造成的傷害增加。
 AdmiralBrickell Level 13 Description,巨型水雷的冷卻時間縮短。
 AdmiralBrickell Level 14 Description,海軍策略的持續時間增加。
-AdmiralBrickell Level 15 Description,增強型水雷的爆炸範圍更大，可對黑色氣球造成傷害，並解除迷彩氣球的偽裝。
+AdmiralBrickell Level 15 Description,增強型水雷的爆炸範圍更大，可對黑色氣球造成傷害，並解除迷彩氣球的偽裝。手槍造成的傷害增加。
 AdmiralBrickell Level 16 Description,攻擊和水雷的部署範圍大幅增加。
-AdmiralBrickell Level 17 Description,水雷造成的傷害大幅增加。
+AdmiralBrickell Level 17 Description,水雷造成的傷害大幅增加。手槍造成的傷害增加。
 AdmiralBrickell Level 18 Description,巨型水雷的冷卻時間進一步縮短。
 AdmiralBrickell Level 19 Description,海軍策略影響所有水面防禦塔。
 AdmiralBrickell Level 20 Description,巨型水雷造成巨大的傷害與更長時間的擊暈。
@@ -4334,7 +4334,7 @@ Geraldo Level 1 Description,可買到的物品！射擊塔、一堆舊釘子、�
 Geraldo Level 2 Description,新物品！稀有Quincy公仔 - 保有時間越長，價值越高！
 Geraldo Level 3 Description,新物品！識破隱形藥水 - 使猴子塔或英雄在短時間內能夠偵測偽裝。Geraldo的攻擊範圍增加。
 Geraldo Level 4 Description,新物品！一管神奇膠水 - 可把它放在路徑上，減緩氣球速度。
-Geraldo Level 5 Description,新物品！磨刀石 - 提高猴子塔或英雄銳器攻擊的穿透力。
+Geraldo Level 5 Description,新物品！磨刀石 – 提升猴塔或英雄在銳氣傷害時的穿刺力。Geraldo攻擊速度加快。
 Geraldo Level 6 Description,新物品！破舊的英雄斗篷 - 可將2階或更低階的飛鏢猴轉換成超猴！轉換的超猴只能升級到3階。
 Geraldo Level 7 Description,新物品！利刃陷阱 - 可見氣球接觸到陷阱會觸發利刃風暴。Geraldo主攻擊的傷害和穿透力增加。
 Geraldo Level 8 Description,新物品！一瓶傑瑞之火 - 280萬Bloonville單位的純辣醬！賦予猴子、英雄或僕從火焰攻擊，效果持續10回合。
@@ -4348,8 +4348,8 @@ Geraldo Level 15 Description,磨刀石除了增加穿透力外，現在還可以
 Geraldo Level 16 Description,一堆舊釘子升級成釘子地雷，罐裝腌菜可使猴子塔對強化氣球造成額外傷害，傑瑞之火可使作用對象造成額外的燃燒傷害。
 Geraldo Level 17 Description,Geraldo的主攻擊造成的傷害增加，神奇膠水現在可小幅降低MOAB級氣球的速度。
 Geraldo Level 18 Description,瓶中精靈獲得第二近戰攻擊，可對MOAB級氣球造成額外傷害，恐怖神像可對MOAB級氣球施放一個遮罩，如果被擊破，可對附近的氣球造成大量傷害。
-Geraldo Level 19 Description,Geraldo主攻擊的攻速加快，範圍增加，造成的傷害增加，識破隱形藥劑可使作用對象對偽裝氣球造成額外傷害。
-Geraldo Level 20 Description,新物品！典範力量圖騰 - 為下一個創建的典範增加典範力量。Geraldo的主攻擊造成的傷害增加。
+Geraldo Level 19 Description,Geraldo主攻擊大幅增強，識破隱形藥劑可使作用對象對偽裝氣球造成額外傷害。
+Geraldo Level 20 Description,新物品！巔峰力量圖騰 – 為下一個建造的巔峰增加巔峰力量。商店補滿庫存！Geraldo主攻擊造成的傷害增加。
 Geraldo Shop shortname,商店
 Geraldo Shop name,Geraldo的商店
 Shooty turret name,射擊塔
@@ -4365,9 +4365,9 @@ Rare Quincy action figure description,原始Quincy的限量版，Quincy公仔之
 See invisibility potion name,識破隱形藥劑
 See invisibility potion description,不管是什麼樣的猴子，只要用了這種靈丹妙藥，它就能輕鬆發現偽裝氣球！效力會逐漸衰退。
 Tube of amaz-o-glue name,一管神奇膠水
-Tube of amaz-o-glue description,真的很神奇！只要往路徑上塗上一管這種神奇膠水，接下來就會看到一連串氣球的速度降了下來。
+Tube of amaz-o-glue description,真的很神奇！只要往路徑上塗上一管這種神奇膠水，接下來就會看到一連串氣球的速度降了下來。效果持續4回合或直到用完。
 Sharpening stone name,磨刀石
-Sharpening stone description,朋友，磨快那些飛鏢吧！對你的飛鏢和利刃使用磨刀石，它們會變得比以往更加鋒利。
+Sharpening stone description,朋友，磨快那些飛鏢吧！對你的飛鏢和利刃使用磨刀石，它們會變得比以往更加鋒利。效果持續15回合。
 Worn heros cape name,破舊的英雄斗篷
 Worn heros cape description,所有英雄都披著斗篷！把這件物品給你的飛鏢猴子，接下來就看著它變身吧！不過，使用條件有一點限制，只能是低階猴子，唉，辛酸啊。
 Blade trap name,利刃陷阱
@@ -4481,26 +4481,513 @@ ShootyTurret,射擊塔
 CreepyIdol,恐怖神像
 RareQuincyActionFigure,稀有Quincy公仔
 GenieBottle,瓶中精靈
-ParagonPowerTotem,典範力量圖騰
+ParagonPowerTotem,巔峰力量圖騰
 FriendScreenErrorRequestFailed,好友請求失敗
-FriendScreenErrorInvalidCode,無效的朋友代碼
-FriendScreenErrorBlocked,抱歉，你想添加的玩家已封鎖了好友請求！
-FriendScreenErrorAlreadySent,您已經向此玩家發送了好友請求。
-FriendScreenErrorTooManyFriends,你的好友人數已達到上限。你可以通過移除現在的好友來騰出空間，或取消好友請求。
+FriendScreenErrorInvalidCode,無效好友代碼
+FriendScreenErrorBlocked,抱歉，你嘗試添加的玩家封鎖了好友請求！
+FriendScreenErrorAlreadySent,你已經向該玩家發送了好友請求
+FriendScreenErrorTooManyFriends,你的好友數量已達上限。你可以通過移除現有好友來騰出空間，或取消已發出的好友請求
 MapEditor,地圖編輯器
-Jar of Pickles description level 11,在你的一個猴子塔上試試這些泡菜，它會更猛烈地撞擊，但射擊速度會慢一段時間。現在增加了對強化布隆的傷害！
-Creepy idol description level 12,將這個看起來怪異的偶像放在賽道附近，以嚇跑一些 Bloons（甚至 MOAB！）回到他們來自的地方。
-Shooty turret description level 13,一個永久性的、手工製作的飛鏢射擊砲塔。升級了！射速更快，傷害更高。
-Stack of old nails description level 13,是的，它只是一堆非常大的舊釘子，但把它們放在賽道上的任何地方，它們都會輕鬆彈出那些流浪的氣球。
-See invisibility potion description level 14,無論您用這種極其有效的靈藥送什麼猴子，都可以輕鬆看到迷彩氣球！效果會消失。現在提供更大的範圍並持續更長時間！
-Sharpening stone description level 15,把飛鏢磨快，朋友！將它應用到你的飛鏢和刀片上，它們會比以往任何時候都更鋒利並且造成更多的傷害。
-Blade trap description level 15,把它放在軌道上，看著第一個接觸它的氣球被巨大的旋轉刀片撕碎！更新更強大的模型！
-Stack of old nails description level 16,是的，它只是一個 GIANT NAIL MINE，但將它放在賽道上的任何地方，它都會輕鬆彈出那些流浪的 Bloons。
-Jar of Pickles description level 16,在你的一個猴子塔上試試這些泡菜，它會更猛烈地撞擊，但射擊速度會慢一段時間。現在對強化的 Bloons 造成的傷害增加了更多！
-Gerrys fire hot sauce description level 16,280 萬布隆維爾單位。誰嚐了這特製的醬汁，一會兒就噴火了！現在有額外的灼熱感。
-Tube of amaz-o-glue description level 17,真的很棒！在賽道上的任何地方塗抹一管這種現代奇蹟，然後觀看下一批 Bloons 甚至 MOAB 減速。
-Genie bottle description level 18,從這個明亮的藍色瓶子中召喚一隻精靈猴，但要小心，它不會永遠存在！ （購買時不包括任何願望）。現在包括對 MOAB 的額外攻擊和更多傷害。
-Creepy idol description level 18,將這個看起來怪異的偶像放在賽道附近，以嚇跑一些 Bloons 回到他們來自的地方。神秘裹屍布升級解鎖！
-See invisibility potion description level 19,無論您用這種極其有效的靈藥送什麼猴子，都可以輕鬆地看到迷彩氣球並對它們造成更大的傷害！效果會消失。
-FriendScreenSureUnBlock,您確定要取消阻止此用戶嗎？
-None,沒有
+Jar of Pickles description level 11,試著對你的猴子塔使用這些罐裝腌菜，它短時間內造成的傷害會增加，但射擊速度會變慢。現在對強化氣球造成的傷害增加！
+Creepy idol description level 12,把這座看起來令人毛骨悚然的神像放在路徑旁邊，可嚇退靠近的氣球（甚至MOAB級氣球）。
+Shooty turret description level 13,一座手工建造的永久飛鏢射擊塔。已升級！射擊速度加快，造成的傷害增加。
+Stack of old nails description level 13,是的，雖然只是一大堆舊釘子，但把只要它們放在路徑上，就能輕鬆擊破那些離群的氣球。
+See invisibility potion description level 14,不管是什麼樣的猴子，只要用了這種靈丹妙藥，它就能輕鬆發現偽裝氣球！效力會逐漸衰退。攻擊範圍增加，效果持續更長時間！
+Sharpening stone description level 15,朋友，磨快那些飛鏢吧！對你的飛鏢和利刃使用磨刀石，它們會變得比以往更加鋒利。
+Blade trap description level 15,把這種陷阱放在路徑上，第一個接觸它的氣球會被高速旋轉的利刃切成碎片！更新，更強力！
+Stack of old nails description level 16,是的，雖然只是一個巨型釘子地雷，但把只要它們放在路徑上，就能輕鬆擊破那些離群的氣球。
+Jar of Pickles description level 16,試著對你的猴子塔使用這些罐裝腌菜，它短時間內造成的傷害會增加，但射擊速度會變慢。現在對強化氣球造成的傷害大幅增加！
+Gerrys fire hot sauce description level 16,280萬Bloonville單位。不管是誰，只要嘗一口這種特製辣醬，都得噴火！現在可造成額外的燃燒傷害。
+Tube of amaz-o-glue description level 17,真的很神奇！只要往路徑上塗上一管這種神奇膠水，接下來就會看到一連串氣球，甚至MOAB級氣球的速度降了下來。
+Genie bottle description level 18,這個光彩奪目的藍色瓶子中可以召喚出一個精靈猴子，不過要注意了，精靈可不會永久存在！（購買時不包括願望）。進行額外攻擊，現在對包括MOAB級氣球在內的氣球造成的傷害增加。
+Creepy idol description level 18,把這座看起來令人毛骨悚然的神像放在路徑旁邊，可嚇退靠近的氣球。神秘遮罩升級已解鎖！
+See invisibility potion description level 19,不管是什麼樣的猴子，只要用了這種靈丹妙藥，它就能輕鬆發現偽裝氣球，並對他們造成額外傷害！效力會逐漸衰退。
+FriendScreenSureUnBlock,你確定要解除封鎖此用戶嗎？
+None,無
+Knowledge Requirement Monkey Money,沒有足夠的猴幣。是否要購買更多？
+Knowledge Requirement Points,沒有足夠的知識點
+InviteFriend,邀請好友
+InvitedToJoin,{0}邀請你加入他們的組隊遊戲。你是否要加入？
+HeroesMountainObynPetBalfrogName,炎魔蛙寵物
+HeroesMountainObynPetBalfrogShortName,炎魔蛙寵物
+HeroesMountainObynPetBalfrogDescription,這種小蛙來自飄渺山脈底下的黑暗礦井，喜歡用燃燒的真炎點亮對話。僅限山脈Obyn
+TowerPropMonkeyVillagePrideFlagName,猴村驕傲旗
+TowerPropMonkeyVillagePrideFlagShortName,猴村驕傲旗
+TowerPropMonkeyVillagePrideFlagDescription,讓這面驕傲旗飄揚在猴村的上空，慶祝多元化。表明全部升級
+CoopEmoteTextNeedMoreName,需要更多！文本表情
+CoopEmoteTextNeedMoreShortName,需要更多！
+CoopEmoteTextNeedMoreDescription,當你需要更多現金、氣球、防禦塔或食物時，這個表情就派上用場了。
+CoopEmoteTextNeedMoreWord,需要更多！
+CoopEmoteAnimationRainbowName,彩虹動畫
+CoopEmoteAnimationRainbowShortName,彩虹
+CoopEmoteAnimationRainbowDescription,每個人都跟著哼唱！Somewheeere over the rainbow…
+GameUIProfileAvatar61Name,飛鏢猴化身
+GameUIProfileAvatar61ShortName,飛鏢猴化身
+GameUIProfileAvatar61Description,讚美強大的飛鏢！氣球擊破手！
+GameUIProfileAvatar62Name,Geraldo化身
+GameUIProfileAvatar62ShortName,Geraldo化身
+GameUIProfileAvatar62Description,你好，朋友，要不要看一看這隻毛茸茸的白兔？他不會造成任何傷害，你說是吧？
+GameUIProfileBanner15Name,OG BTD風格橫幅
+GameUIProfileBanner15ShortName,OG BTD風格橫幅
+GameUIProfileBanner15Description,橫幅獲勝者LordTeddington
+GameUIProfileBanner16Name,森之精靈橫幅
+GameUIProfileBanner16ShortName,森之精靈橫幅
+GameUIProfileBanner16Description,橫幅獲勝者tricky999tricky
+GameUIMusicTrackMusicTribesJaloonMixName,自動唱機：部落與苦難 - Jaloon混音版
+GameUIMusicTrackMusicTribesJaloonMixShortName,部落 - Jaloon
+GameUIMusicTrackMusicTribesJaloonMixDescription,陶醉在深受喜愛的部落與苦難混音版下，在舞池盡情跳舞
+Quarry,採石場
+VoidoraAdoraSkinName,虛空Adora皮膚
+VoidoraAdoraSkinDescription,我來自虛空
+VoidoraAdoraSkinNameFull,虛空Adora
+InappropriateTeamName,請選擇一個更合適的戰隊名稱
+TeamNameNotUnique,這個名稱已有人使用！請選擇另一個或嘗試加上數字
+TeamNameTooShort,戰隊名稱的程度必須為{0} 至 {1}個字元
+SentryParagonChild,修改過的哨兵巔峰
+LoginwithEpic,登入Epic
+EnterLinkingCode,輸入鏈接代碼以連接：
+Connect,連接
+PrivacyPolicy,隱私權原則
+TermsOfService,服務條款
+ConfirmAgeInfo,要繼續，請確認您目前的年齡。您必須登入才能使用其他網路功能和備份數據。
+AgeQuestion,你是否已年滿{0}歲及以上？
+AgeYes,是，我已年滿{0}周歲。
+AgeNo,不，我未滿{0}周歲。
+PersonalAccountInfo,"您可以創建一個不使用任何個人身份資訊的個人賬戶。
+選擇「我同意」即表示您的父母或監護人已與您一同仔細閱讀過Ninja Kiwi隱私權原則和服務條款，他們同意該隱私權原則和服務條款，並同意我們保存您的遊戲資訊和您在我們服務中的非個人身份賬戶資訊，包括使用部署在美國的伺服器。"
+AgreeCreateAccount,我同意，創建賬戶
+NormalAccountInfo,繼續操作即表示您同意Ninja Kiwi隱私權原則和服務條款，並同意我們保存您的遊戲資訊和您在我們服務中的非個人身份賬戶資訊，包括使用部署在美國的伺服器。
+LoggedInAs,登入身份：
+EpicAccountId,Epic賬戶ID：
+NeedHelp,需要幫助？
+ContactSupport,連絡客戶支援
+DeleteAccountText,"刪除您的賬戶意味著您將無法再存取所有雲進度和數據。
+請在方框中輸入您的使用者ID（如下所示）以刪除您的賬戶。移除您的賬戶需要48-72小時。"
+EnterUserId,在此處輸入使用者ID
+GetAllButton,獲取全部
+GetAllConfirmation,請確保你希望花費猴幣購買所有可用的英雄和皮膚！
+DeleteAccount,刪除賬戶
+CtLeaderboardTitle,爭議領土排行榜
+LocalTeams,本地戰隊
+LocalPlayers,本地玩家
+GlobalTeams,全球戰隊
+GlobalPlayers,全球玩家
+CreateTeamPanelTitle,創建戰隊
+CreateTeamTitle,創建一個戰隊
+CreateTeamNameDescription,戰隊名稱：
+CreateTeamNameInputField,輸入戰隊名稱…
+CreateTeamCostDescription,花費{0}創建一個戰隊
+CreateTeamFailed,無法創建戰隊
+EditTeamPanelTitle,編輯戰隊
+EditTeamTitle,編輯你的戰隊
+EditTeamNameDescription,編輯戰隊名稱：
+TeamEmblemTitle,紋章
+TeamBannerTitle,橫幅
+TeamEmblemsTitle,紋章
+TeamBannersTitle,橫幅
+TeamGeneralTitle,一般
+TeamSettingPublicTitle,公開
+TeamSettingPrivateTitle,私人
+TeamSettingClosedTitle,已關閉
+TeamJoin,加入
+TeamApply,套用
+RecentWin,最近獲勝：
+TileHeldBy,地塊佔領者：
+Score,分數
+ScoreDegradesIn,分數降級時間：
+NeutralOwnerIn,中立擁有者時間：
+Tile,地塊：{0}
+RelicTile,聖物地塊
+BannerTile,橫幅地塊
+BonusCTPoints,獎勵CT點數！
+DailyRelics,每日聖物
+HeldRelics,擁有聖物
+Tickets,票券：
+PurchaseTickets,購買票券
+MoreTicketsIn,票券刷新時間：
+CTTitleName,爭議領土
+CTTeamStore,戰隊分數
+CTMyTeam,我的戰隊
+CTTeamTrophies,戰隊獎盃
+CTTickets,票券
+CTTeamTickets,戰隊票券
+CTNextTicketsIn,下一票券刷新時間：
+CTTileSearch,地塊搜索
+CTOwner,擁有者：
+CTScore,分數：
+CTNeutralIn,恢復中立時間：
+CTPosition,位置：
+CTUncaptured,未奪取
+CTCheckpoint,檢查點已達！
+CTNewScore,新分數！
+CTBestScore,最高分數
+TimeAttack,時間挑戰
+ERR_NOT_LOGGED_IN,未登入
+ERR_ALREADY_PENDING,請求已待處理
+ERR_FEATURE_UNAVAILABLE,功能不可用，請稍後重試
+ERR_REQUEST_PARAMETER_MISSING,缺少參數
+ERR_GUILD_FULL,戰隊已滿
+ERR_GUILD_NAME_EXISTS,戰隊名稱已存在
+ERR_GUILD_DOES_NOT_EXIST,戰隊不存在
+ERR_GUILD_CANNOT_DISBAND,無法解散戰隊
+ERR_GUILD_PERMISSION_DENIED,許可權被拒
+ERR_GUILD_CANNOT_UPDATE_OWNER_DENIED,無法更新戰隊擁有者，許可權被拒
+ERR_GUILD_CANNOT_UPDATE_OWNER_NONE,無法更新戰隊擁有者
+ERR_TIMEOUT,請求已逾時，請重試
+CreateNewTeamText,是否要創建一個新戰隊？
+ParagonLimitReached,已達巔峰限制
+TeamMsgNewMayor,{0}是新鎮長！
+TeamMsgPlayerJoined,{0}加入了戰隊
+TeamMsgPlayerLeft,{0}離開入了戰隊
+TeamMsgPlayerKicked,{1}將{0}踢出了戰隊。
+TeamMsgPlayerDemoted,{1}將{0}降級。
+TeamMsgRegularTileCaptured,{0}奪取了一個普通地塊。幹得好！
+TeamMsgBannerTileCaptured,{0}奪取了一個橫幅地塊。了不起！
+TeamMsgRelicTileCaptured,{0}奪取了一個聖物地塊，為戰隊聖物清單增加了{1}。好樣的！
+TeamMsgRegularTileCapturedOtherGuild,{0}從{1}手上奪取了一個普通地塊。幹得好！
+TeamMsgBannerTileCapturedOtherGuild,{0}從{1}手上奪取了一個橫幅地塊。了不起！
+TeamMsgRelicTileCapturedOtherGuild,{0}從{2}手上奪取了一個聖物地塊，為戰隊聖物清單增加了{1}。好樣的！
+TeamMsgRelicTileLost,失去聖物地塊！{0} 不再可用。
+TeamMsgPlayerPromoted,{1}將{0}晉陞為副鎮長
+TeamMsgTeamCreated,{1}創建了{0}戰隊
+TeamMsgNewFocusMarker,{0}設定了新的焦點標記
+TeamMsgFlairUnlocked,{0}已資助完畢！太棒了！
+TileCaptured,地塊已奪取
+TileNotCaptured,地塊未奪取
+TicketUsed,票券已使用
+NoTicketUsed,未使用票券
+ScoreToBeat,目標分數：
+YourScore,你的分數：
+PublicWithBrackets,（公開）
+PrivateWithBrackets,（私人）
+CTRelicWon,聖物已獲取！
+CTBonusPoints,獎勵點數！
+Teams,戰隊
+CaptureScoreMissed,錯失奪取分數！
+CaptureScoreNear,警告！接近奪取分數
+CtInternalError,出現內部錯誤，請稍後重試
+CtServerError,爭議領土伺服器目前無法處理你的請求。請稍後再試
+Achievement 143 Name,爭議領土
+Achievement 143 Description,從其他玩家手上奪取5個地塊
+Achievement 144 Name,帝國舞台
+Achievement 144 Description,奪取50個地塊
+Achievement 145 Name,領土取樣器
+Achievement 145 Description,奪取以下地塊個1個：頭目、時間挑戰、最低階和最少現金
+CTLeastCashDescription,使用最少的現金以贏得地塊。現金使用包括猴塔放置和升級以及花錢購買的英雄升級。出售猴子不會減少花費的現金。
+CTLeastTiersDescription,使用最少的猴塔和升級以贏得地塊。放置的每隻猴子和每個英雄以及完成的每次升級都算作一階。花錢購買的英雄升級也算作一階。出售猴子不會減少花費的現金。
+CTTimeAttackDescription,使用最少的時間以贏得地塊。根據競速活動，計時器在你按下開始遊戲時啟動。提早進入下一回合可節省時間，但需要謹慎！時間挑戰遊戲不會儲存，因此不要在遊戲中途退出。
+CTBossDescription,儘快消滅頭目氣球以贏得地塊。根據頭目活動，計時器在頭目出現在螢幕時啟動。爭議領土頭目只會是1階，或者1階和2階，具體視每個地塊的回合數而定。集中建造高傷害的防禦塔和生成收入，當然也不要忽視其他氣球！
+CtEventEnded,很遺憾，活動已經結束了
+RelicStartingStash,開局儲備
+RelicExtraEmpowered,額外強化
+RelicBoxOfChocolates,一盒巧克力
+RelicBoxOfMonkey,一盒猴子
+RelicMarchingBoots,行軍靴
+RelicHeroBoost,英雄助力
+RelicBiggerBloonSabotage,更大的氣球破壞
+RelicRoundingUp,四捨五入
+RelicManaBulwark,法力屏障
+RelicRegeneration,再生
+RelicRestoration,恢復
+RelicDurableShots,持久射擊
+RelicAlchemistTouch,鍊金術士之觸
+RelicDeepHeat,深層加熱
+RelicSharpsplosion,銳器
+RelicRoyalTreatment,皇室待遇
+RelicHardBaked,烤硬
+RelicFortifried,強化
+RelicMoabClash,MOAB衝突
+RelicCamoFlogged,偽裝鞭笞
+RelicBrokenHeart,心碎
+RelicGoingTheDistance,蓄勢遠謀
+RelicHeartless,無情
+RelicFlintTips,打火石
+RelicAbilitized,技能強化
+RelicAirAndSea,空海強化
+RelicElDorado,El Dorado
+RelicMonkeyShield,猴子護盾
+RelicMonkeyShieldMark2,猴子護盾標記2
+RelicMonkeyShieldMark3,猴子護盾標記3
+RelicPsiVision,靈能術士視野
+RelicOpenSeason,狩獵季
+RelicCamoTrap,偽裝陷阱
+RelicThrive,茁壯成長
+RelicSuperMonkeyStorm,超猴風暴
+RelicMonkeyBoost,猴子助力
+RelicRoadSpikes,道釘
+RelicMoabMine,MOAB地雷
+RelicGlueTrap,粘膠陷阱
+RelicTechbot,科技機器人
+RelicPrimaryPrimates,初級靈長類動物
+RelicMilitaryMonkeys,軍事猴子
+RelicMagicMonkeys,魔法猴子
+RelicSupportSimians,輔助猴子
+RelicMonkeyTycoon,猴子大亨
+RelicStartingStashDescription,每局遊戲開始時額外獲得300現金（可與普通地塊上的更多現金疊加）
+RelicExtraEmpoweredDescription,遊戲開始時英雄的等級額外增加3級（可與普通地塊上的強化英雄效果疊加）
+RelicBoxOfChocolatesDescription,每局遊戲開始時獲得額外100點生命
+RelicBoxOfMonkeyDescription,每局遊戲開始時免費獲得一隻花費不超過$500的猴子，進行未經修改的初始放置
+RelicMarchingBootsDescription,在數量受限的遊戲中，使玩家武裝中的每種防禦塔最大數量+1，或每局遊戲最大總數+4
+RelicHeroBoostDescription,英雄在每局遊戲中獲取的經驗值增加10%
+RelicBiggerBloonSabotageDescription,所有生成的MOAB氣球，生命值減少15%，移動速度將為95%
+RelicRoundingUpDescription,每回合結束時獲得$20
+RelicManaBulwarkDescription,創造一個最多可吸收50點生命的護盾（可與普通地塊上的法力護盾疊加）
+RelicRegenerationDescription,每回合恢復10點生命，如果當回合未損失生命，最高只能至每局遊戲開始時的生命值
+RelicRestorationDescription,每回合恢復20點生命，如果當回合未損失生命，最高只能至每局遊戲開始時的生命值+200
+RelicDurableShotsDescription,所有射彈的存在時間+25%
+RelicAlchemistTouchDescription,所有攻擊可擊破鉛氣球
+RelicDeepHeatDescription,所有攻擊可擊破白氣球
+RelicSharpsplosionDescription,所有攻擊可擊破黑氣球
+RelicRoyalTreatmentDescription,所有攻擊可擊破紫氣球
+RelicHardBakedDescription,所有攻擊對陶瓷氣球造成的傷害+1
+RelicFortifriedDescription,所有攻擊對強化氣球造成的傷害+1
+RelicMoabClashDescription,所有攻擊對MOAB級氣球造成的傷害+3
+RelicCamoFloggedDescription,所有攻擊對偽裝氣球造成的傷害+1
+RelicBrokenHeartDescription,所有攻擊對重生氣球造成的傷害+1
+RelicGoingTheDistanceDescription,所有猴子的攻擊範圍增加10%
+RelicHeartlessDescription,重生氣球的再生速度減慢25%
+RelicFlintTipsDescription,銳利射彈對氣球造成傷害時可對它們附加火焰周期性傷害（每2秒造成1點傷害，持續4秒）
+RelicAbilitizedDescription,所有猴子的激活技能的冷卻時間減少10%
+RelicAirAndSeaDescription,王牌猴子、直升機猴子、海盜猴子和猴子潛艇的放置和升級花費減少10%，並且裝彈速度加快5%
+RelicElDoradoDescription,通過遊戲勝利獲得的猴幣和戰隊獎盃獎勵增加25%（最少+1）
+RelicMonkeyShieldDescription,奪取後1小時內，地塊無法被敵方戰隊攻擊。強化分數將再次生效。
+RelicMonkeyShieldMark2Description,奪取後2小時內，地塊無法被敵方戰隊攻擊。強化分數將再次生效。
+RelicMonkeyShieldMark3Description,奪取後3小時內，地塊無法被敵方戰隊攻擊。強化分數將再次生效。
+RelicPsiVisionDescription,查看地圖上所有地塊的詳情
+RelicOpenSeasonDescription,攻擊地圖上任意地塊
+RelicCamoTrapDescription,每局遊戲可以使用2次偽裝陷阱強化道具
+RelicThriveDescription,每局遊戲可以使用2次茁壯成長強化道具
+RelicSuperMonkeyStormDescription,每局遊戲可以使用2次超猴風暴
+RelicMonkeyBoostDescription,每局遊戲可以使用3次猴子助力
+RelicRoadSpikesDescription,每局遊戲獲得10堆道釘
+RelicMoabMineDescription,每局遊戲可以使用1次MOAB地雷強化道具
+RelicGlueTrapDescription,每局遊戲可以使用2次粘膠陷阱強化道具
+RelicTechbotDescription,每局遊戲可以使用1次科技機器人強化道具
+RelicPrimaryPrimatesDescription,所有初級猴子的花費減少10%
+RelicMilitaryMonkeysDescription,所有軍事猴子的花費減少10%
+RelicMagicMonkeysDescription,所有魔法猴子的花費減少10%
+RelicSupportSimiansDescription,所有輔助猴子的花費減少10%
+RelicMonkeyTycoonDescription,武裝中的所有猴塔+1，並且它們的基礎價格減少5%
+InviteToTeam,邀請加入戰隊
+TeamLeave,離開戰隊
+Requests,請求
+TeamMessagesTab,訊息
+TeamRosterTab,名冊
+TeamPending,待處理
+CancelRequest,取消請求
+TeamDisband,解散戰隊
+TeamCode,戰隊代碼
+TeamMemberCount,{0}/{1}個成員
+TeamPendingApplications,（{0}待處理）
+TeamNoInfo,沒有要顯示的資訊
+AllTeams,所有戰隊
+TeamsAdvancedSearch,高級搜索
+TeamInvitationDisband,你必須解散戰隊才能接受邀請
+TeamInvitationAcceptWarning,接受此邀請會將你從當前戰隊移除
+TeamBrowserAllTeams,所有戰隊
+TeamBrowserFriendsTeams,好友戰隊
+TeamBrowserTeamRequests,請求
+TeamQuickJoin,快速加入
+TeamBrowserTitle,戰隊瀏覽器
+TeamBrowserSearchField,輸入戰隊名稱
+TeamBrowserSearchHideFull,隱藏整個戰隊
+TeamBrowserSearchHidePrivate,隱藏私人戰隊
+TeamBrowserSearchHideClosed,隱藏已關閉戰隊
+TeamEditApplyAll,全部套用
+TeamScore,分數：{0}
+TeamRemoveMember,你確定要移除此成員嗎？
+TeamPromoteMember,你確定要晉陞此成員嗎？
+TeamDemoteMember,你確定要降級此成員嗎？
+TeamErrorShowPop,戰隊錯誤
+TeamOwnershipTransferTitle,戰隊擁有權轉讓
+TeamOwnershipTransferFailed,無法將擁有權轉讓給新玩家
+TeamOwnershipTransferWarning,你確定要將戰隊擁有權轉讓給此成員嗎？此動作將無法復原！
+TeamLeaveConfirm,你確定要離開戰隊嗎？
+TeamDisbandConfirm,你確定要解散戰隊嗎？
+TeamOwnershipLeavingWarning,必須將戰隊擁有權轉讓給另一個玩家才能離開戰隊
+TeamNoneFound,未找到戰隊
+CTLocal,CT本地
+CTGlobal,CT全球
+Rank4th,第4位
+Rank4thAnd,第4-10位
+Rank11thAnd,第11-20位
+Rank21stAnd,第21-40位
+Rank41stAnd,第41-60位
+RewardsTop25,前25位
+RewardsTop100,前100位
+DegradedScore,降級分數
+ERR_INVITATION_NO_LONGER_EXISTS,邀請不再存在
+TeamMateSetScore,戰隊成員設定了新的目標分數！
+AnotherTeamSetScore,另一個戰隊設定了新的目標分數！
+FriendScreenErrorTeamInviteAlreadyMember,此玩家已在你的戰隊中
+TotalTeamScore,戰隊分數
+CTRulesInfo,歡迎來到爭議領土！與戰隊成員通力協作，奪取地塊、稱霸排行榜，獲取豐厚獎勵！\n\n•只有在你奪取地塊時才使用奪取票券。每24小時刷新一張。\n•沒有使用的票券會使用票券池，其他戰隊成員可以在第二天使用它們。\n•奪取地塊後，地塊分數會逐漸降低，直到地塊在24小時後恢復中立狀態。\n•奪取地塊和每佔領地塊一小時都可以獲得CT點數。CT點數將決定你個人及戰隊在排行榜上的排名，因此儘可能多地奪取地塊吧！\n•橫幅地塊的奪取難度更高，可以提供更多CT點數。\n•聖物地塊可能讓你的戰隊使用強大的聖物知識，可以在奪取地塊時為你提供幫助。\n•系統每20回合儲存一次地塊進度，你一次只能儲存一個地塊的進度。\n•你可以在戰隊獎盃商店中為自己最喜歡的聖物投票，然後在戰前準備頁面選擇你要帶入戰鬥的聖物。
+TeamTrophyStoreRulesInfo,這裡是戰鬥獎盃商店，你可以在這裡為已解鎖的CT聖物投票，資助每日力量、活動聖物和戰隊天賦。\n•每日力量會在每天的CT活動中解鎖，一旦資助，整個戰隊當天都可以使用。\n•活動聖物在CT活動期間一直可用，一旦資助，活動餘下時間都可以使用。它們與通過聖物地塊解鎖的聖物不一樣。\n•奪取聖物地塊，然後為此活動中你最喜歡的已解鎖聖物知識投票。你可以在最終武裝中從前7種聖物中選出4種。\n•戰隊天賦需要整個戰隊資助，一旦完成就對你的戰隊永久解鎖。玩家離開戰隊後將失去戰隊天賦。
+TeamsBanner1Name,太空中的猴子橫幅
+TeamsBanner2Name,英雄聯手橫幅
+TeamsBanner3Name,歡樂橫幅
+TeamsBanner4Name,手裏劍天空橫幅
+TeamsBanner5Name,猴子團結橫幅
+TeamsBanner6Name,爭議王國橫幅
+TeamsBanner1ShortName,太空中的猴子橫幅
+TeamsBanner2ShortName,英雄聯手橫幅
+TeamsBanner3ShortName,歡樂橫幅
+TeamsBanner4ShortName,手裏劍天空橫幅
+TeamsBanner5ShortName,猴子團結橫幅
+TeamsBanner6ShortName,爭議王國橫幅
+TeamsBanner1Description,你也看見漂浮的巨大香蕉串了嗎？！
+TeamsBanner2Description,聯合他們的力量，這是超級英雄聯手的時刻！
+TeamsBanner3Description,快樂的猴子才是高效的猴子。
+TeamsBanner4Description,我們要用手裏劍遮天蔽日！
+TeamsBanner5Description,猴子團結起來力量大。
+TeamsBanner6Description,利用這個強大的CT橫幅來擺布其他猴子戰隊。
+TeamsEmblemFrame5Name,雪花框
+TeamsEmblemFrame6Name,火焰框
+TeamsEmblemFrame7Name,魔法框
+TeamsEmblemFrame8Name,森林框
+TeamsEmblemFrame9Name,工程框
+TeamsEmblemFrame5ShortName,雪花框
+TeamsEmblemFrame6ShortName,火焰框
+TeamsEmblemFrame7ShortName,魔法框
+TeamsEmblemFrame8ShortName,森林框
+TeamsEmblemFrame9ShortName,工程框
+TeamsEmblemFrame5Description,冷靜的戰隊配涼爽的地圖框！
+TeamsEmblemFrame6Description,是時候給對手升升溫了！
+TeamsEmblemFrame7Description,神秘的魔法地圖框。
+TeamsEmblemFrame8Description,這個全天然的時尚地圖框可以讓你的戰隊脫穎而出。
+TeamsEmblemFrame9Description,精心規劃、認真測量和執行才是獲取勝利的關鍵！
+TeamsEmblemIcon5Name,骷髏圖標
+TeamsEmblemIcon6Name,MOAB刺殺圖標
+TeamsEmblemIcon7Name,手裏劍圖標
+TeamsEmblemIcon8Name,鍊金術士釀造圖標
+TeamsEmblemIcon5ShortName,骷髏圖標
+TeamsEmblemIcon6ShortName,MOAB刺殺圖標
+TeamsEmblemIcon7ShortName,手裏劍圖標
+TeamsEmblemIcon8ShortName,鍊金術士釀造圖標
+TeamsEmblemIcon5Description,停，水手們，啟航，掠奪領土！
+TeamsEmblemIcon6Description,讓隨處可見的MOAB深感恐懼。
+TeamsEmblemIcon7Description,帶有此圖標的戰隊的特點是悄然無聲地發起致命攻擊。
+TeamsEmblemIcon8Description,使用這個強力的戰隊圖標醞釀一場風暴。
+TeamsEmblemIcon9Name,Gwen火焰圖標
+TeamsEmblemIcon9ShortName,Gwen火焰圖標
+TeamsEmblemIcon9Description,這是Gwen為戰隊圖標提供的支持。我是說我們不應該對此感到意外，不是嗎？就是火。
+TeamsEmblemIcon10Name,Quincy箭矢圖標
+TeamsEmblemIcon10ShortName,Quincy箭矢圖標
+TeamsEmblemIcon10Description,Quincy特有的追蹤箭矢現在以圖標形式呈現！
+TeamsEmblemIcon11Name,Obyn樹圖標
+TeamsEmblemIcon11ShortName,Obyn樹圖標
+TeamsEmblemIcon11Description,看見帶有這個環保圖標的森林和樹木。
+TeamsEmblemIcon12Name,骷髏騎手圖標
+TeamsEmblemIcon12ShortName,骷髏騎手稱讚圖標
+TeamsEmblemIcon12Description,烈焰骨頭先生對你的史詩戰隊表示稱讚！
+BuildingPropWizardTowerName,巫師塔建築
+BuildingPropLighthouseName,燈塔建築
+FlyingPropPhoenixName,飛翔的不死鳥
+FlyingPropMiniAceName,飛翔的迷你王牌猴子
+WaterPropKrakenName,海怪
+WaterPropMiniSubName,迷你潛艇
+BasePropKingName,猴王
+BasePropLighthouseKeeperName,燈塔管理員
+BasePropCrashedMoabName,墜毀的MOAB
+BasePropTrainingDummyName,訓練假人
+BasePropCampfireName,溫暖的營火
+BasePropTotemName,部落圖騰
+BasePropSatelliteName,移動衛星車
+BasePropTortoiseName,部落龜
+BasePropBattleMonkeyName,戰鬥猴子
+BuildingPropBattleTowerName,基地塔建築
+BuildingPropWizardTowerShortName,巫師塔建築
+BuildingPropLighthouseShortName,燈塔建築
+FlyingPropPhoenixShortName,飛翔的不死鳥
+FlyingPropMiniAceShortName,飛翔的迷你王牌猴子
+WaterPropKrakenShortName,海怪
+WaterPropMiniSubShortName,迷你潛艇
+BasePropKingShortName,猴王
+BasePropLighthouseKeeperShortName,燈塔管理員
+BasePropCrashedMoabShortName,墜毀的MOAB
+BasePropTrainingDummyShortName,訓練假人
+BasePropCampfireShortName,溫暖的營火
+BasePropTotemShortName,部落圖騰
+BasePropSatelliteShortName,移動衛星車
+BasePropTortoiseShortName,部落龜
+BasePropBattleMonkeyShortName,戰鬥猴子
+BuildingPropBattleTowerShortName,基地塔建築
+BuildingPropWizardTowerDescription,能夠資助此魔法基地的戰隊將展開魔法冒險。
+BuildingPropLighthouseDescription,這座燈火通明的主基地將為整個戰隊照亮前路。
+FlyingPropPhoenixDescription,每個人都想知道這裡是不是有一隻巫師猴子，但有誰想過巫師猴只不過在等待涅槃重生的不死鳥？
+FlyingPropMiniAceDescription,用這隻可愛的王牌猴子為你的戰隊守護上空。
+WaterPropKrakenDescription,放出海怪！用這隻異常可愛的海底巨型生物統治這片水域。
+WaterPropMiniSubDescription,潛望鏡升起！派出迷你潛艇偵測這片區域。
+BasePropKingDescription,歡迎來到我們新的猴子…我是說爭議領土！氣球在這片土地橫行肆虐！率領你的戰隊擊破它們，確保這裡的安全。
+BasePropLighthouseKeeperDescription,這位年長且充滿智慧的猴子負責看護這座燈塔，他總是在夜晚瞭望過往的船隻。
+BasePropCrashedMoabDescription,一隊精銳猴子科學家為尋找有用的科技已對此殘骸進行了徹底搜索，現在之所以將它放置在那裡，是為了警告其他氣球。
+BasePropTrainingDummyDescription,用100%可重複使用的訓練假人使你的飛鏢猴保持警覺狀態！
+BasePropCampfireDescription,在寒冷的夜晚為你的戰隊保暖，或者給營火周圍的成員講關於爭議領土的恐怖故事。
+BasePropTotemDescription,用這種駭人的部落圖騰來保護你的邊境。
+BasePropSatelliteDescription,這輛移動衛星車準備出發，能直接從天空傳送資訊！
+BasePropTortoiseDescription,別問他是否有部落親戚，尤其是烏龜！
+BasePropBattleMonkeyDescription,爭議領土猴子，準備就緒！
+BuildingPropBattleTowerDescription,任何進入爭議領土的戰隊都需要一座堅固的基地。
+Neutral,中立
+TilesCaptured,已奪取的地塊：
+CTPointsEarnt,已獲取的CT點數：
+TeamTrophiesEarnt,已獲取的戰隊獎盃：
+RelicsUnlocked,已解鎖的聖物：
+EventEnded,活動已結束
+NextEventIn,距離下次活動：
+SecondsAgo,秒前
+1MinuteAgo,1分鐘前
+MinutesAgo,{0}分鐘前
+1HourAgo,1小時前
+HoursAgo,{0}小時前
+1DayAgo,1天前
+XDaysAgo,{0}天前
+TeamSettingDisbandedTitle,已解散
+Incoming,傳入
+Outgoing,傳出
+RoundsCount,回合：{0}
+Relics,聖物
+TeamFlair,戰隊天賦
+RefreshesIn,刷新時間：{0}
+DailyPower,每日力量
+EventRelic1,活動聖物1
+EventRelic2,活動聖物2
+EventRelic3,活動聖物3
+Vote,投票
+InventoryEmpty,庫存空
+Blocked,已封鎖
+ShowOnlineStatus,顯示連線狀態
+Invisible,顯示為離線
+NexusTitle,創作者支持
+NexusDescription,在此處輸入創作者代碼，支持你最喜歡的《Bloons TD 6》創作者。你在遊戲內完成的任何購買都將支持創作者和Ninja Kiwi開發團隊！
+TimeAttackPowersDisabled,時間挑戰模式已停用力量。
+Funded,已資助
+UnlocksIn,解鎖時間：{0}
+TimeRemaining,剩餘時間：{0}
+TeamInviteAlreadySent,戰隊邀請已發送
+Captured,已奪取！
+DisabledFriendInvites,該玩家已停用好友邀請
+ItemFunded,物品已資助！
+Now,立即
+Players,玩家
+LocalRewards,本地獎勵
+GlobalRewards,全球獎勵
+RewardsTop10,前10名
+RewardsTop20,前20名
+RewardsTop40,前40名
+RewardsTop60,前60名
+RewardsTopX,前{0}名
+Rank5th,第 5 名
+Rank6th,6日
+TeamName,隊名
+CTPoints,CT 點
+Contribute,貢獻
+ContributeTrophies,貢獻獎杯
+ColorblindEnabled,啟用色盲模式！
+ColorblindDisabled,色盲模式已禁用
+Local,當地的
+KickPending,待刪除
+SentryParagonGreen,綠色哨兵典範
+SentryParagonRed,紅色哨兵典範
+SentryParagonBlue,藍色哨兵典範
+TeamManagement,團隊管理

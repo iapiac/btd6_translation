@@ -2160,7 +2160,7 @@ FriendLiNKLoginFailed,Kunde inte logga in på Facebook. Kontrollera din internet
 Do It,Gör det
 Restart?,Starta om?
 Continue Details,Prova denna runda på nytt med återställda liv och pengar.
-Restart Details,Är du säker på att du vill stänga och starta om?
+Restart Details,Är du säker på att du vill starta om?
 Insta-Monkey!,Omedelbar apa!
 Power!,Kraft!
 Optimizing,Optimerar...
@@ -2472,7 +2472,7 @@ SlowerMoabs,Moab-hastighet minskad
 BikerBonesSkinName,Biker Bones-skin
 BikerBonesSkinDescription,Solgudens ilska blir aldrig starkare än en frisläppt Biker Bones!
 PatsPond,Pats damm
-InappropriateChallengeName,Var vänlig använd ett mindre olämpligt utmaningsnamn och försök igen
+InappropriateChallengeName,Var vänlig välj ett mera lämpligt utmaningsnamn
 DCVictoryBody,Gratulerar! Du har slutfört {0}!
 EditorCreateVictoryBody,Gratulerar! Du kan nu dela din utmaning med andra!
 EditorOlderVersion,Denna utmaning skapades i version {0} och det kan hända att den inte går att slutföra längre
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] till Mörkskifte inom räckvidden
 DarkChampionDarkshift,[I] till Mörkskifte till valfri giltig plats
 SmallTowersMode,Små aptorn
 BigTowersMode,Stora aptorn
-UpdatePopupTitle,Uppdatering 31!
-UpdatePopupDescription,"Ny innehållsuppdatering!\n• Ny hjälte! Geraldo den mystiska handelsmannen har anlänt med sin fantastiska arsenal av Bloonsmällande artiklar!\n• Ny boss! Vortex, luftens dödliga mästare, har släppts lös!\n• Ha kul när du smäller Bloons på den nya nybörjarbanan: Skrotupplag\n• 9 nya artiklar i Trofébutiken, inklusive en ny remix\n• Utmaningswebbläsare: Minst pengar och Minst nivåer som specialsegervillkor för dina problemutmaningar\n• Hjältemenyn är ny och förbättrad plus mer livskvalitets- och balansändringar, kolla uppdateringsmeddelandet för mer information!"
+UpdatePopupTitle,Uppdatering 32!
+UpdatePopupDescription,"Episk uppdatering om omtvistade territorier!\n• Stort nytt event: Omtvistade territorier - erövra rutor från andra team och regera på topplistan!\n • Team! Samla dina vänner och bilda ett ostoppbart team för att erövra det omtvistade territoriet\n• Ny paragon: Mästerbyggare\n• Nytt hjälteskin: Voidora\n• Ny medelsvår bana: Stenbrott\n• Trofébutikartiklar, förbättringar av livskvalitet, balansändringar och mycket mera!"
 ResetDailyChest,Återställ daglig kista
 JukeboxName,Jukebox
 EnableFunction,Aktivera
@@ -2852,7 +2852,7 @@ AdmiralBrickell Level 3 Description,Sjötaktik: ökar attackhastigheten betydlig
 AdmiralBrickell Level 4 Description,Större smällkraft för sjöminor.
 AdmiralBrickell Level 5 Description,Sjötaktik ökar smällkraften och tillåter påverkade apor att träffa alla Bloontyper utom Kamo.
 AdmiralBrickell Level 6 Description,Ökar skadan från sjöminor och pistolattacker.
-AdmiralBrickell Level 7 Description,Ökad attackräckvidd och detektering av Kamobloons för Brickell.
+AdmiralBrickell Level 7 Description,Sprängkedja: Sjöminor sprängs snabbare under en kort stund. Ökad attackräckvidd och detektering av Kamobloons för Brickell
 AdmiralBrickell Level 8 Description,Sjötaktik tillåter påverkade apor att träffa Kamobloons. Vattentorn inom radien får extra genomslag.
 AdmiralBrickell Level 9 Description,Sjöminor ger extra skada.
 AdmiralBrickell Level 10 Description,Megamina: aktiverar en förödande mina i valfritt vattenområde som utlöses av MOAB:er och bedövar Bloons i närheten. Megaminan varar i 3 rundor.
@@ -2860,9 +2860,9 @@ AdmiralBrickell Level 11 Description,Snabbare utläggningshastighet och utläggn
 AdmiralBrickell Level 12 Description,"Pistolattacker får ökad hastighet och skada, sjöminor får ökad skada."
 AdmiralBrickell Level 13 Description,Nedkylning för megamina minskas.
 AdmiralBrickell Level 14 Description,Varaktigheten för sjötaktik ökar.
-AdmiralBrickell Level 15 Description,"Förstärkta sjöminor har en större explosion, kan skada Svarta Bloons och avlägsna kamoflage."
+AdmiralBrickell Level 15 Description,"Förstärkta sjöminor har en större explosion, kan skada Svarta Bloons och avlägsna kamoflage. Pistolen åsamkar mer skada."
 AdmiralBrickell Level 16 Description,Attack och utläggningsräckvidd för sjöminor ökar något.
-AdmiralBrickell Level 17 Description,Sjöminor ger mycket högre skada.
+AdmiralBrickell Level 17 Description,Sjöminor ger mycket högre skada. Pistolen åsamkar mer skada.
 AdmiralBrickell Level 18 Description,Nedkylningen av megaminan minskas ännu mer.
 AdmiralBrickell Level 19 Description,Sjötaktik påverkar alla vattenbaserade torn överallt.
 AdmiralBrickell Level 20 Description,Megaminan åsamkar massivt större skada och längre bedövning.
@@ -4334,7 +4334,7 @@ Geraldo Level 1 Description,"Tillgängliga artiklar! Skjutigt torn, Hög med gam
 Geraldo Level 2 Description,Ny artikel! Sällsynt Quincy-äventyrsfigur - stiger i värde ju längre du har den!
 Geraldo Level 3 Description,Ny artikel! Se osynlighetsdryck - ger kamodetektering till ett Aptorn eller en Hjälte en kort stund Geraldos attackräckvidd ökar.
 Geraldo Level 4 Description,Ny artikel! Tub med Fantastoklister - kan placeras på vägen för att sakta ner Bloons.
-Geraldo Level 5 Description,Ny artikel! Slipsten - ökar genomslaget för ett Aptorn eller en Hjälte vid användning av vassa vapen.
+Geraldo Level 5 Description,Ny artikel! Slipsten - ökar genomslaget för ett Aptorn eller en Hjälte vid användning av vassa vapen. Geraldo attackerar snabbare.
 Geraldo Level 6 Description,Ny artikel! Sliten Hjältekappa - förvandlar en Pilapa på nivå 2 eller lägre till en Stålapa! Dessa konverterade Stålapor kan bara uppgraderas till Nivå 3.
 Geraldo Level 7 Description,Ny artikel! Bladfälla - när en synlig Bloon vidrör fällan utlöses en Bladmalström. Geraldos huvudattack åsamkar mer skada och får högre genomslag.
 Geraldo Level 8 Description,"Ny artikel! Flaska med ""Gerrys eld"" - 2,8 miljoner Bloonby-enheter av superstark såsbränna! Ger en Apa, Hjälte eller underhuggare en eldig attack i 10 rundor."
@@ -4347,9 +4347,9 @@ Geraldo Level 14 Description,Se osynlighetsdryck får större räckvidd och vara
 Geraldo Level 15 Description,Slipsten ger ökad skada utöver genomslag och Bladfälla ger en mera kraftfull effekt när den utlöses.
 Geraldo Level 16 Description,"Hög med gamla spikar blir en Spikmina, Inlagd Gurkburk ger extra bonusskada mot förstärkta Bloons och Gerrys Eld ger bonusbrännskada."
 Geraldo Level 17 Description,Geraldos huvudattack åsamkar mer skada och Fantastoklister har nu en liten effekt på Bloons i MOAB-klassen.
-Geraldo Level 18 Description,Anden får en andra kortdistansattack och ger bonusskada på Bloons i MOAB-klassen och Läskig Avgudabild använder sig av en Mystisk Svepning på Bloons i MOAB-klassen som ger stor skada i närheten när de smälls.
-Geraldo Level 19 Description,"Geraldos huvudattack är snabbare, har längre räckvidd och ger mer skada och Se Osynlighetsdryck ger bonusskada på Kamobloons."
-Geraldo Level 20 Description,Ny artikel! Paragonkrafttotem - ger paragonkraft till nästa paragon som skapas. Geraldos huvudattack ger mer skada.
+Geraldo Level 18 Description,Genie får en sekundär attack på nära håll och ger bonusskada till Bloons i MOAB-klassen. När den läskiga avgudabilden upphör att gälla täcker den Bloons i MOAB-klassen i närheten med en mystisk svepning som ger skada när den smälls.
+Geraldo Level 19 Description,Geraldos huvudattack är betydligt förbättrad och se osynlighetsdrycken ger bonusskada på Kamobloons.
+Geraldo Level 20 Description,Ny artikel! Paragonkrafttotem - ger paragonkraft till nästa paragon som skapas. Butiken fylls på helt! Geraldos huvudattack ger mer skada.
 Geraldo Shop shortname,Butik
 Geraldo Shop name,Geraldos butik
 Shooty turret name,Skjutigt Torn
@@ -4365,9 +4365,9 @@ Rare Quincy action figure description,"Originaläventyrsfiguren Quincy, Quincys 
 See invisibility potion name,Se Osynlighetsdryck
 See invisibility potion description,Alla Apor som du förser med detta extremt effektiva elixir kommer att kunna se Kamobloons med lätthet! Effekten upphör med tiden.
 Tube of amaz-o-glue name,Tub med Fantastoklister
-Tube of amaz-o-glue description,Verkligen fantastiskt! Använd en tub av detta moderna underverk var som helst på vägen och se hur nästa gäng Bloons saktas ner ordentligt.
+Tube of amaz-o-glue description,Verkligen fantastiskt! Använd en tub av detta moderna underverk var som helst på vägen och se hur nästa gäng Bloons saktas ner ordentligt. Varar 4 rundor eller tills det tar slut.
 Sharpening stone name,Slipsten
-Sharpening stone description,"Vässa dina pilar, kompis! Använd denna på dina pilar och blad, så kommer de att bli vassare än någonsin tidigare."
+Sharpening stone description,"Vässa dina pilar, kompis! Använd denna på dina pilar och blad, så kommer de att bli vassare än någonsin tidigare. Tar slut efter 15 rundor."
 Worn heros cape name,Sliten Hjältekappa
 Worn heros cape description,"Alla hjältar har kappor! Ge den till en av dina Pilapor och se förvandlingen! Bättre begagnad, bara några få nivåer, uh, jag menar revor."
 Blade trap name,Bladfälla
@@ -4393,7 +4393,7 @@ ConfirmLogoutDesc,"Är du säker på att du vill logga ut från ditt konto? Om s
 VortexTagLine,Från himlen kommer
 VortexTagLine2,Luftens dödliga mästare
 Vortex,Vortex
-VortexInfoPanelDescription,"• Vortex rör sig som blixten och får med sig andra Bloons i farten!\n• När varje hälsomätardödskalle har uppnåtts, aktiverar Vortex en sköld för att skydda sig och skickar ut en stötvåg som bedövar torn i närheten innan han drar sig tillbaka uppför vägen."
+VortexInfoPanelDescription,"• Vortex rör sig som blixten och får med sig andra Bloons i farten!\n• När varje hälsomätardödskalle har uppnåtts, aktiverar Vortex en sköld för att skydda sig och skickar ut en stötvåg som bedövar torn i närheten innan han drar sig tillbaka uppför vägen.\n• Vortex avger en regelbunden stormpuls som förstör projektiler, inklusive alla icke-förmågor på vägen."
 Scrapyard,Skrotupplag
 BloonsAllBloonsCatEarName,Kattöron-Bloons
 BloonsAllBloonsCatEarShortName,Kattöron-Bloons
@@ -4485,22 +4485,509 @@ ParagonPowerTotem,Paragonkrafttotem
 FriendScreenErrorRequestFailed,Vänförfrågan misslyckades
 FriendScreenErrorInvalidCode,Ogiltig vänkod
 FriendScreenErrorBlocked,Spelaren du försöker lägga till har tyvärr blockerat vänförfrågningar!
-FriendScreenErrorAlreadySent,Du har redan skickat en vänförfrågan till denna spelare.
-FriendScreenErrorTooManyFriends,Du har nått ditt maximalt tillåtna antal vänner. Du kan skapa plats genom att ta bort en existerande vän, eller ångra vänförfrågningar du har gjort.
-MapEditor,Kartredigerare
-Jar of Pickles description level 11,Prova dessa pickles på ett av dina Monkey Towers och det kommer att slå hårdare, men skjut långsammare ett tag. Nu med ökad skada på stärkta Bloons!
-Creepy idol description level 12,Placera denna skrämmande idol nära banan för att skrämma några Bloons (även MOABs!) tillbaka där de kom ifrån.
-Shooty turret description level 13,Ett permanent, handgjord dartskyttetorn. uppgraderat! Brinner snabbare och gör mer skada.
-Stack of old nails description level 13,Ja, det är bara en mycket stor bunt med gamla spikar, men lägg dem var som helst på banan och de kommer lätt att knäppa de där borta bloons.
-See invisibility potion description level 14,Vilken apa du än ger med detta extremt effektiva elixir kommer att kunna se Camo Bloons med lätthet! Effekterna kommer att avta. Ger nu ökad räckvidd och håller ännu längre!
-Sharpening stone description level 15,Vässa pilarna, vän! Använd detta på dina pilar och blad så blir de vassare och gör mer skada än någonsin tidigare.
-Blade trap description level 15,Placera den här på banan och se de första Bloonerna som rör vid den bli rivna av de stora virvlande bladen! Nyare mer kraftfull modell!
-Stack of old nails description level 16,Ja, det är bara en GIANT NAGLE, men lägg den var som helst på banan och den kommer lätt att knäppa de där borta Bloons.
-Jar of Pickles description level 16,Prova dessa pickles på ett av dina Monkey Towers och det kommer att slå hårdare, men skjut långsammare ett tag. Nu med ÄNNU MER ökad skada på stärkta Bloons!
-Gerrys fire hot sauce description level 16,2,8 miljoner Bloonville-enheter. Den som smakar denna speciella sås kommer att spy eld ett tag! Nu med extra brännhet.
-Tube of amaz-o-glue description level 17,Verkligen fantastiskt! Applicera en tub av detta moderna underverk var som helst på banan och se nästa gäng Bloons och till och med MOAB:s sakta ner direkt.
-Genie bottle description level 18,Tillkalla en Genie Monkey från denna lysande blå flaska men se upp, den kommer inte att vara för evigt! (inga önskemål ingår i köpet). Extra attack och mer skada på MOAB ingår nu.
-Creepy idol description level 18,Placera den här skrämmande idolen nära banan för att skrämma tillbaka några Bloons där de kom ifrån. Mystical Shroud-uppgradering upplåst!
-See invisibility potion description level 19,Vilken apa du än ger med detta extremt effektiva elixir kommer att kunna se Camo Bloons med lätthet och göra mer skada på dem! Effekterna kommer att avta.
-FriendScreenSureUnBlock,Är du säker på att du vill avblockera den här användaren?
+FriendScreenErrorAlreadySent,Du har redan skickat en vänförfrågan till denna spelare
+FriendScreenErrorTooManyFriends,"Du har nått ditt maximalt tillåtna antal vänner. Du kan skapa plats genom att ta bort en existerande vän, eller ångra vänförfrågningar du har gjort"
+MapEditor,Banredigerare
+Jar of Pickles description level 11,"Prova de här gurkorna på ett av dina Aptorn, så kommer det att träffa hårdare men skjuta långsammare en stund. Nu med större skada på förstärkta Bloons!"
+Creepy idol description level 12,Placera den här läskiga avgudabilden nära vägen för att skrämma tillbaka några Bloons (även MOAB:er!) dit de kom från.
+Shooty turret description level 13,"Ett permanent, handgjort pilskjutande torn. Uppgraderat! Avfyrar snabbare och ger mer skada."
+Stack of old nails description level 13,"Ja, det är bara en hög med gamla spikar, men placera dem någonstans på vägen, så kommer de att smälla Bloons som är på villovägar. Mycket praktiskt."
+See invisibility potion description level 14,Alla Apor som du förser med detta extremt effektiva elixir kommer att kunna se Kamobloons med lätthet! Effekten upphör med tiden. Ger nu större räckvidd och räcker ännu längre!
+Sharpening stone description level 15,"Vässa dina pilar, kompis! Använd detta på dina pilar och blad så kommer de att bli vassare och orsaka mer skada än någonsin tidigare."
+Blade trap description level 15,"Placera den här på vägen och se hur de första Bloonsen som nuddar den strimlas sönder av de stora snurrande bladen. Nyare, mera kraftfull modell!"
+Stack of old nails description level 16,"Ja, det är bara en GIGANTISK SPIKBOMB, men placera den någonstans på vägen, så kommer den att smälla Bloons som är på villovägar. Mycket praktiskt."
+Jar of Pickles description level 16,"Prova de här gurkorna på ett av dina Aptorn, så kommer det att träffa hårdare men skjuta långsammare en stund. Nu med ÄNNU STÖRRE skada på förstärkta Bloons!"
+Gerrys fire hot sauce description level 16,"2,8 miljoner Bloonvilleenheter. Alla som smakar på den här specialsåsen kommer att spotta eld ett tag! Nu extra brännhet."
+Tube of amaz-o-glue description level 17,Verkligen fantastiskt! Använd en tub av detta moderna underverk var som helst på vägen och se hur nästa gäng Bloons och till och med MOAB:er saktas ner ordentligt.
+Genie bottle description level 18,"Frammana en Andeapa från denna gyllenglänsande flaska, men tänk på att den inte varar för evigt! (inga önskningar ingår i köpet). Extra attack och mer skada på MOAB:er ingår nu."
+Creepy idol description level 18,Placera den här läskiga avgudabilden nära vägen för att skrämma bort några Bloons. Mystisk svepning-uppgradering upplåst!
+See invisibility potion description level 19,Alla Apor som du förser med detta extremt effektiva elixir kommer att kunna se Kamobloons med lätthet och orsaka mer skada på dem! Effekten upphör med tiden.
+FriendScreenSureUnBlock,Är du säker på att du vill avblockera denna användare?
 None,Ingen
+Knowledge Requirement Monkey Money,Inte tillräckligt med appengar. Köp fler?
+Knowledge Requirement Points,Inte tillräckligt med kunskapspoäng
+InviteFriend,Bjud in vän
+InvitedToJoin,{0} har bjudit in dig att vara med i deras samarbetsspel. Vill du gå med?
+HeroesMountainObynPetBalfrogName,Balgrodan-husdjur
+HeroesMountainObynPetBalfrogShortName,Balgrodan-husdjur
+HeroesMountainObynPetBalfrogDescription,Från de mörka gruvorna under Dimmiga Bergen lyser denna lilla groda verkligen upp alla konversationer med en brinnande längtan efter att vara din enda sanna flamma. Endast berg-Obyn
+TowerPropMonkeyVillagePrideFlagName,Apbyns prideflagga
+TowerPropMonkeyVillagePrideFlagShortName,Byns prideflagga
+TowerPropMonkeyVillagePrideFlagDescription,Fira mångfald och valfrihet med denna ännu snyggare prideflagga för dina Apbyar. Visas för alla uppgraderingar
+CoopEmoteTextNeedMoreName,Behöver mer! Text-emote
+CoopEmoteTextNeedMoreShortName,Behöver mer!
+CoopEmoteTextNeedMoreDescription,"När du behöver mer pengar, Bloons, försvar eller bara mat är denna emote perfekt för alla tillfällen."
+CoopEmoteTextNeedMoreWord,Behöver mer!
+CoopEmoteAnimationRainbowName,Regnbågsanimering
+CoopEmoteAnimationRainbowShortName,Regnbåge
+CoopEmoteAnimationRainbowDescription,Sjung med allihop! Somewheeere over the rainbow...
+GameUIProfileAvatar61Name,Pilapans avatar
+GameUIProfileAvatar61ShortName,Pilapans avatar
+GameUIProfileAvatar61Description,Låt oss alla prisa den mäktiga Pilen! Smällare av Bloons!
+GameUIProfileAvatar62Name,Geraldo-avatar
+GameUIProfileAvatar62ShortName,Geraldo-avatar
+GameUIProfileAvatar62Description,"Hallå, min vän. Kan jag fresta med en fluffig vit kanin? Han är helt ofarlig, håller du inte med?"
+GameUIProfileBanner15Name,Banner i OG BTD-stil
+GameUIProfileBanner15ShortName,Banner i OG BTD-stil
+GameUIProfileBanner15Description,Bannervinnare av Lord Teddington
+GameUIProfileBanner16Name,Skogens ande-banner
+GameUIProfileBanner16ShortName,Skogens ande-banner
+GameUIProfileBanner16Description,Bannervinnare av tricky999tricky
+GameUIMusicTrackMusicTribesJaloonMixName,Jukebox: Tribes & Tribulations - Jaloon Remix
+GameUIMusicTrackMusicTribesJaloonMixShortName,Tribes - Jaloon
+GameUIMusicTrackMusicTribesJaloonMixDescription,Ge dig ut på dansgolvet till denna uppumpade remix av den älskade låten från Tribes & Tribulations
+Quarry,Stenbrott
+VoidoraAdoraSkinName,Voidora-skin
+VoidoraAdoraSkinDescription,Jag har kommit från tomrummet
+VoidoraAdoraSkinNameFull,Voidora
+InappropriateTeamName,Var vänlig välj ett mera lämpligt teamnamn
+TeamNameNotUnique,Det namnet är upptaget! Var vänlig välj ett annat eller försök att lägga till siffror
+TeamNameTooShort,Teamnamn måste bestå av {0} till {1} tecken
+SentryParagonChild,Modifierad vakttornsparagon
+LoginwithEpic,Logga in med Epic
+EnterLinkingCode,Ange en länkningskod för att ansluta:
+Connect,Anslut
+PrivacyPolicy,Integritetspolicy
+TermsOfService,Användarvillkor
+ConfirmAgeInfo,"För att fortsätta, var vänlig bekräfta din nuvarande ålder. Du måste logga in för att spela ytterligare onlinefunktioner och säkerhetskopiera data."
+AgeQuestion,Är du {0} år eller äldre?
+AgeYes,"Ja, jag är {0} eller äldre."
+AgeNo,"Nej, jag är under {0}."
+PersonalAccountInfo,"Du kan skapa ett personligt konto utan att använda information som kan identifiera dig personligen.
+Genom att välja ""Jag samtycker"", har din förälder eller vårdnadshavare granskat Ninja Kiwis integritetspolicy och användarvillkor tillsammans med dig och de godkänner integritetspolicyn och användarvillkoren och vår förmåga att lagra din spelutveckling och ej personligt identifierbara kontoinformation i vår tjänst, vilket omfattar användning av servrar som är belägna i USA."
+AgreeCreateAccount,"Jag samtycker, skapa ett konto"
+NormalAccountInfo,"Genom att fortsätta, godkänner du Ninja Kiwis integritetspolicy och användarvillkor och vår förmåga att lagra din spelutveckling och kontoinformation i vår tjänst, vilket omfattar användning av servrar som är belägna i USA."
+LoggedInAs,Logga in som:
+EpicAccountId,Epic-konto-ID:
+NeedHelp,Behöver du hjälp?
+ContactSupport,Kontakta support
+DeleteAccountText,"Om du raderar ditt konto kommer du att förlora åtkomsten till alla sparade spel och data i molnet.
+Var vänlig ange ditt användar-ID (enligt vad som visas nedan) i rutan för att radera ditt konto. Det kan ta 48-72 timmar innan ditt konto raderas."
+EnterUserId,Ange ditt användar-ID här
+GetAllButton,Skaffa alla
+GetAllConfirmation,Var vänlig bekräfta att du vill spendera dina appengar för att skaffa alla tillgängliga hjältar och skins!
+DeleteAccount,Radera konto
+CtLeaderboardTitle,Topplistor för omtvistade territorier
+LocalTeams,Lokala team
+LocalPlayers,Lokala spelare
+GlobalTeams,Globala team
+GlobalPlayers,Globala spelare
+CreateTeamPanelTitle,Skapa team
+CreateTeamTitle,Skapa ett team
+CreateTeamNameDescription,Teamnamn:
+CreateTeamNameInputField,Ange teamnamn...
+CreateTeamCostDescription,Spendera {0} för att skapa ett team
+CreateTeamFailed,Misslyckades med att skapa ett team
+EditTeamPanelTitle,Redigera team
+EditTeamTitle,Redigera ditt team
+EditTeamNameDescription,Redigera teamnamn:
+TeamEmblemTitle,Emblem
+TeamBannerTitle,Banner
+TeamEmblemsTitle,Emblem
+TeamBannersTitle,Banners
+TeamGeneralTitle,Allmänt
+TeamSettingPublicTitle,Offentligt
+TeamSettingPrivateTitle,Privat
+TeamSettingClosedTitle,Stängd
+TeamJoin,Gå med
+TeamApply,Tillämpa
+RecentWin,Senaste vinsten:
+TileHeldBy,Rutan hålls av:
+Score,Poäng
+ScoreDegradesIn,Poängen nedgraderas om:
+NeutralOwnerIn,Neutral ägare om:
+Tile,Ruta: {0}
+RelicTile,Relikruta
+BannerTile,Bannerruta
+BonusCTPoints,OT-bonuspoäng!
+DailyRelics,Dagliga reliker
+HeldRelics,Hållna reliker
+Tickets,Biljetter:
+PurchaseTickets,Köp biljett
+MoreTicketsIn,Fler biljetter om:
+CTTitleName,Omtvistat territorium
+CTTeamStore,Teambutik
+CTMyTeam,Mitt team
+CTTeamTrophies,Teamtroféer
+CTTickets,Biljetter
+CTTeamTickets,Teambiljetter
+CTNextTicketsIn,Fler biljetter om:
+CTTileSearch,Rutsökning
+CTOwner,Ägare:
+CTScore,Poäng:
+CTNeutralIn,Neutral om:
+CTPosition,Position:
+CTUncaptured,Oerövrad
+CTCheckpoint,Kontrollpunkt uppnådd!
+CTNewScore,Ny poäng!
+CTBestScore,Bästa poäng
+TimeAttack,Tidsattack
+ERR_NOT_LOGGED_IN,Ej inloggad
+ERR_ALREADY_PENDING,Avvaktande begäran finns redan
+ERR_FEATURE_UNAVAILABLE,"Funktion otillgänglig, försök igen senare"
+ERR_REQUEST_PARAMETER_MISSING,Parameter saknas
+ERR_GUILD_FULL,Team fullt
+ERR_GUILD_NAME_EXISTS,Teamnamnet finns redan
+ERR_GUILD_DOES_NOT_EXIST,Teamet finns inte
+ERR_GUILD_CANNOT_DISBAND,Teamet kan inte upplösas
+ERR_GUILD_PERMISSION_DENIED,Tillstånd nekat
+ERR_GUILD_CANNOT_UPDATE_OWNER_DENIED,"Kan inte uppdatera teamägaren, tillstånd nekat"
+ERR_GUILD_CANNOT_UPDATE_OWNER_NONE,Kan inte uppdatera teamägaren
+ERR_TIMEOUT,"Tiden för begäran har löpt ut, var vänlig försök igen"
+CreateNewTeamText,Skapa ett nytt team?
+ParagonLimitReached,Paragongräns uppnådd
+TeamMsgNewMayor,{0} är den nya borgmästaren!
+TeamMsgPlayerJoined,{0} har gått med i teamet
+TeamMsgPlayerLeft,{0} har lämnat teamet
+TeamMsgPlayerKicked,{0} har sparkats från teamet av {1}.
+TeamMsgPlayerDemoted,{0} degraderades av {1}.
+TeamMsgRegularTileCaptured,{0} erövrade en vanlig ruta. Bra jobbat!
+TeamMsgBannerTileCaptured,{0} erövrade en bannerruta. Härligt!
+TeamMsgRelicTileCaptured,{0} erövrade en relikruta och lade till {1} till teamets reliklista. Snyggt!
+TeamMsgRegularTileCapturedOtherGuild,{0} erövrade en vanlig ruta från {1}. Bra jobbat!
+TeamMsgBannerTileCapturedOtherGuild,{0} erövrade en bannerruta från {1}. Härligt!
+TeamMsgRelicTileCapturedOtherGuild,{0} erövrade en relikruta från {2} och lade till {1} till teamets reliklista. Snyggt!
+TeamMsgRelicTileLost,Relikruta förlorad! {0} är inte längre tillgänglig.
+TeamMsgPlayerPromoted,{0} befordrades till ställföreträdande borgmästare av {1}
+TeamMsgTeamCreated,Teamet {0} skapades av {1}
+TeamMsgNewFocusMarker,Ny fokusmarkör skapad av {0}
+TeamMsgFlairUnlocked,{0} har finansierats till fullo! Otrolig prestation!
+TileCaptured,Ruta erövrad
+TileNotCaptured,Ruta ej erövrad
+TicketUsed,Biljett använd
+NoTicketUsed,Ingen biljett använd
+ScoreToBeat,Poäng att slå:
+YourScore,Din poäng:
+PublicWithBrackets,(Offentlig)
+PrivateWithBrackets,(Privat)
+CTRelicWon,Relik vunnen!
+CTBonusPoints,Bonuspoäng!
+Teams,Team
+CaptureScoreMissed,Erövringspoäng missad!
+CaptureScoreNear,Varning! Närmar sig erövringspoäng
+CtInternalError,Ett internt fel har inträffat. Var god försök igen senare.
+CtServerError,Servern för Omtvistat territorium kan inte behandla din begäran just nu. Var vänlig försök igen senare
+Achievement 143 Name,Omtvistat territorium
+Achievement 143 Description,Erövra 5 rutor från andra spelare
+Achievement 144 Name,Imperium-stadiet
+Achievement 144 Description,Erövra 50 rutor
+Achievement 145 Name,Territorieurval
+Achievement 145 Description,"Erövra 1 av varje: Rutorna Boss, Tidsattack, Minsta antal nivåer och Minst pengar"
+CTLeastCashDescription,"Använd så lite pengar som möjligt för att erövra rutan. Spenderade pengar inkluderar placering av aptorn och uppgraderingar, såväl som betalda hjälteuppgraderingar. Att sälja en apa minskar inte det spenderade beloppet."
+CTLeastTiersDescription,Använd så få aptorn och uppgraderingar som möjligt för att erövra rutan. Varje utplacerad apa och hjälte och varje uppgradering räknas som en nivå. Betalda hjälteuppgraderingar räknas också som en nivå. Att sälja en apa minskar inte antalet nivåer.
+CTTimeAttackDescription,"Uppnå den snabbaste tiden för att erövra rutan. Baserat på tävlingseventet, startar tiden när du trycker på spela. Skicka kommande rundor tidigt för att förbättra din tid med var försiktig! Tidsattackspel kommer inte att sparas, så försök inte att avsluta"
+CTBossDescription,"Besegra bossen så snabbt som möjligt för att erövra rutan. Baserat på Bosseventet startar tiden när bossen dyker upp på skärmen. Bossar i Omtvistade Territorier kommer antingen att vara Nivå 1 eller Nivå 1 och 2, beroende på varje rutas antal rundor. Konc"
+CtEventEnded,Tyvärr har eventet avslutas
+RelicStartingStash,Startbelopp
+RelicExtraEmpowered,Extra befogenheter
+RelicBoxOfChocolates,Chokladask
+RelicBoxOfMonkey,Ask med apor
+RelicMarchingBoots,Marschkängor
+RelicHeroBoost,Hjälteförstärkare
+RelicBiggerBloonSabotage,Större Bloonsabotage
+RelicRoundingUp,Runda av uppåt
+RelicManaBulwark,Mana Bulwark
+RelicRegeneration,Regeneration
+RelicRestoration,Återställning
+RelicDurableShots,Hållbara skott
+RelicAlchemistTouch,Alkemistberöring
+RelicDeepHeat,Djup Hetta
+RelicSharpsplosion,Vassplosion
+RelicRoyalTreatment,Kunglig behandling
+RelicHardBaked,Hårdbakad
+RelicFortifried,Förstekt
+RelicMoabClash,MOAB-sammandrabbning
+RelicCamoFlogged,Kamoflådd
+RelicBrokenHeart,Brustet Hjärta
+RelicGoingTheDistance,Hela vägen
+RelicHeartless,Hjärtlös
+RelicFlintTips,Flintspetsar
+RelicAbilitized,Förmågad
+RelicAirAndSea,Himmel och Hav
+RelicElDorado,El Dorado
+RelicMonkeyShield,Apsköld
+RelicMonkeyShieldMark2,Apsköld Mark 2
+RelicMonkeyShieldMark3,Apsköld Mark 3
+RelicPsiVision,Psi Vision
+RelicOpenSeason,Öppen Säsong
+RelicCamoTrap,Kamo-fälla
+RelicThrive,Frodas
+RelicSuperMonkeyStorm,SMS
+RelicMonkeyBoost,Apförstärkning
+RelicRoadSpikes,Vägspikar
+RelicMoabMine,MOAB-mina
+RelicGlueTrap,Klisterfälla
+RelicTechbot,Techbot
+RelicPrimaryPrimates,Primära Primater
+RelicMilitaryMonkeys,Militärapor
+RelicMagicMonkeys,Magiska apor
+RelicSupportSimians,Stödapor
+RelicMonkeyTycoon,Apmagnat
+RelicStartingStashDescription,Börja varje spel med extra 300 pengar (kombineras med Mera Pengar på Vanliga Rutor)
+RelicExtraEmpoweredDescription,Din hjälte börjar spelet med 3 extra nivåer (kombineras med Hjältar med Befogenhet på Vanliga Rutor)
+RelicBoxOfChocolatesDescription,Börja varje spel med 100 extraliv
+RelicBoxOfMonkeyDescription,Börja varje spel med en gratis apa som kostar $500 eller mindre för omodifierad inledande utplacering
+RelicMarchingBootsDescription,I spel med begränsat antal ger det spelarna +1 maxantal för varje torn i deras laddning eller +4 totalt maxantal per spel
+RelicHeroBoostDescription,Hjältar tjänar XP 10 % snabbare i varje spel.
+RelicBiggerBloonSabotageDescription,Alla Bloons i MOAB-klassen återföds med 15 % mindre hälsa och rör sig med 95 % hastighet.
+RelicRoundingUpDescription,Tjäna +$20 vid slutet av varje runda
+RelicManaBulwarkDescription,Skapar en sköld som absorberar upp till 50 liv (kombineras med Manasköld på Vanliga Rutor)
+RelicRegenerationDescription,"Återställ 10 liv per runda upp till varje spels startlivvärde, om inga liv förloras under rundan i fråga"
+RelicRestorationDescription,"Återställ 20 liv per runda upp till ett ökat startlivvärde på +200, om inga liv förloras under rundan i fråga"
+RelicDurableShotsDescription,Alla projektiler har +25 % livslängd
+RelicAlchemistTouchDescription,Alla attacker kan smälla Blybloons
+RelicDeepHeatDescription,Alla attacker kan smälla vita Bloons
+RelicSharpsplosionDescription,Alla attacker kan smälla svarta Bloons
+RelicRoyalTreatmentDescription,Alla attacker kan smälla lila Bloons
+RelicHardBakedDescription,Alla attacker åsamkar +1 skada på Keramikbloons
+RelicFortifriedDescription,Alla attacker åsamkar +1 skada på Förstärka Bloons
+RelicMoabClashDescription,Alla attacker åsamkar +3 skada på Bloons i MOAB-klassen
+RelicCamoFloggedDescription,Alla attacker åsamkar +1 skada på Kamobloons
+RelicBrokenHeartDescription,Alla attacker åsamkar +1 skada på återväxande Bloons
+RelicGoingTheDistanceDescription,Alla apor får +10 % räckvidd
+RelicHeartlessDescription,Återväxttakten för återväxande Bloons minskar 25 %
+RelicFlintTipsDescription,Vassa projektiler lägger till en eldpunkt till alla Bloons de skadar (1 skada varannan sekund i totalt 4 sekunder)
+RelicAbilitizedDescription,All nedkylning av aktiverade förmågor för alla apor minskas med 10 %
+RelicAirAndSeaDescription,"Placerings- och uppgraderingskostnaderna för Ess, Helikopter, Pirat och Ubåt minskas 10 % och omladdning förbättras med 5 %"
+RelicElDoradoDescription,Alla belöningar med appengar och teamtroféer från spelsegrar ökas med 25 % (+1 som minimum)
+RelicMonkeyShieldDescription,Under 1 timme efter erövrandet kan rutan inte attackeras av motståndarteam. Förbättrad poäng kommer att återaktiveras.
+RelicMonkeyShieldMark2Description,Under 2 timmar efter erövrandet kan rutan inte attackeras av motståndarteam. Förbättrad poäng kommer att återaktiveras.
+RelicMonkeyShieldMark3Description,Under 3 timmar efter erövrandet kan rutan inte attackeras av motståndarteam. Förbättrad poäng kommer att återaktiveras.
+RelicPsiVisionDescription,Se fullständig information för alla rutor på kartan
+RelicOpenSeasonDescription,Attackera valfri ruta på kartan
+RelicCamoTrapDescription,Ger tillgång till användning av 2 effekthöjare för Kamofällor per spel
+RelicThriveDescription,Ger tillgång till användning av 2 effekthöjare för Frodas per spel
+RelicSuperMonkeyStormDescription,Ger tillgång till användning av 2 SMS per spel
+RelicMonkeyBoostDescription,Ger tillgång till användning av 3 Apeffekthöjare per spel
+RelicRoadSpikesDescription,Ger 10 högar med Vägspikar per spel
+RelicMoabMineDescription,Ger tillgång till användning av 1 effekthöjare för MOAB-mina per spel
+RelicGlueTrapDescription,Ger tillgång till användning av 2 effekthöjare för Klisterfälla per spel
+RelicTechbotDescription,Ger tillgång till användning av 1 effekthöjare för Techbot per spel
+RelicPrimaryPrimatesDescription,Minskar kostnaden för alla Primära Apor med 10 %
+RelicMilitaryMonkeysDescription,Minskar kostnaden för alla Militärapor med 10 %
+RelicMagicMonkeysDescription,Minskar kostnaden för alla Magiska Apor med 10 %
+RelicSupportSimiansDescription,Minskar kostnaden för alla Stödapor med 10 %
+RelicMonkeyTycoonDescription,Få +1 för alla Aptorn i din utplacering och deras grundpris minskas med 5 %
+InviteToTeam,Bjud in till team
+TeamLeave,Lämna team
+Requests,Förfrågningar
+TeamMessagesTab,Meddelanden
+TeamRosterTab,Roller per användare
+TeamPending,Väntande
+CancelRequest,Avbryt ansökan
+TeamDisband,Upplös team
+TeamCode,Teamkod
+TeamMemberCount,{0}/{1} Medlemmar
+TeamPendingApplications,({0} väntande)
+TeamNoInfo,Ingen information att visa
+AllTeams,Alla team
+TeamsAdvancedSearch,Avancerad sökning
+TeamInvitationDisband,Du måste upplösa ditt team innan du accepterar en inbjudan
+TeamInvitationAcceptWarning,Om du accepterar denna inbjudan kommer du att tas bort från ditt nuvarande team
+TeamBrowserAllTeams,Alla team
+TeamBrowserFriendsTeams,Vänners team
+TeamBrowserTeamRequests,Förfrågningar
+TeamQuickJoin,Gå med snabbt
+TeamBrowserTitle,Teamsökare
+TeamBrowserSearchField,Ange teamnamn...
+TeamBrowserSearchHideFull,Dölj fulla team
+TeamBrowserSearchHidePrivate,Dölj privata team
+TeamBrowserSearchHideClosed,Dölj stängda team
+TeamEditApplyAll,Tillämpa alla
+TeamScore,Poäng: {0}
+TeamRemoveMember,Är du säker på att du vill ta bort denna medlem?
+TeamPromoteMember,Är du säker på att du vill befordra denna medlem?
+TeamDemoteMember,Är du säker på att du vill degradera denna medlem?
+TeamErrorShowPop,Teamfel
+TeamOwnershipTransferTitle,Ägarskapsöverlåtande av team
+TeamOwnershipTransferFailed,Det gick inte att överlåta ägandet till ny spelare
+TeamOwnershipTransferWarning,Är du säker på att du vill överlåta ägandet av teamet till denna medlem? Detta kan inte ångras!
+TeamLeaveConfirm,Är du säker på att du vill lämna teamet?
+TeamDisbandConfirm,Är du säker på att du vill upplösa teamet?
+TeamOwnershipLeavingWarning,Överför ägarskapet för teamet till en annan medlem innan du lämnar
+TeamNoneFound,Teamet kunde inte hittas
+CTLocal,OT Lokalt
+CTGlobal,OT Globalt
+Rank4th,4:e
+Rank4thAnd,4:e-10:e
+Rank11thAnd,11:e-20:e
+Rank21stAnd,21:a-40:e
+Rank41stAnd,41:a-60:e
+RewardsTop25,Topp 25
+RewardsTop100,Topp 100
+DegradedScore,Degraderad poäng
+ERR_INVITATION_NO_LONGER_EXISTS,Inbjudan finns inte längre
+TeamMateSetScore,En teamkamrat satte en ny poäng att slå!
+AnotherTeamSetScore,Ett annat team satte en ny poäng att slå!
+FriendScreenErrorTeamInviteAlreadyMember,Denna spelaren är redan i ditt team
+TotalTeamScore,Teampoäng
+CTRulesInfo,"Välkommen till Omtvistade Territorier! Arbeta tillsammans med ditt team, erövra Rutor, hamna längst upp på topplistorna och vinn fantastiska belöningar!\n\n• Erövringsbiljetter används endast om du erövrar en Ruta. De uppdateras var 24:e timme.\n• Oanvända Erövringsbiljetter kommer att hamna i en biljettpool som kan användas av andra teammedlemmar följande dag.\n• Efter erövringen kommer Rutpoäng att sjunka långsamt med tiden, tills Rutan blir neutral efter 24 timmar.\n• OT-poäng tjänas när man erövrar en Ruta och varje timme som du fortsätter att hålla en Ruta. OT-poäng bestämmer din personliga och ditt teams placering på topplistan, så erövra Rutor så ofta du kan!\n• Bannerrutor är svårare Rutor som ger massor av OT-poäng.\n• Relikrutor ger dig team tillgång till kraftfulla Relikkunskaper som i sin tur kommer att hjälpa dig när du erövrar Rutor.\n• Rutförloppet sparas var 20:e runda och du kan bara ha ett pågående sparat spel åt gången.\n• Rösta på vilka Reliker du gillar mest i Teamtrofébutiken och välj sedan vilka specifika Reliker du vill ta med dig ut på slagfältet på spelets startsida."
+TeamTrophyStoreRulesInfo,"Detta är Teamtrofébutiken där du kan rösta på upplåsta OT-reliker, finansiera Dagliga krafter, Eventreliker och Teamstil.\n• Dagliga krafter är tillgängliga för upplåsning varje dag under OT-eventet och när de har finansierats kan de användas av hela teamet under den dagen.\n• Eventreliker blir tillgängliga under hela OT-eventet och när de har finansierats, är de tillgängliga under återstoden av eventet. De är separata från Reliker som låses upp via Relikrutor.\n• Erövra Relikrutor och rösta sedan på dina favoriter bland Relikkunskaperna som låstes upp under detta event. De högst placerade Relikerna kommer att vara tillgängliga för dig att välja från under din avslutande aktivering av 4 Reliker.\n• Teamstil finansieras av hela teamet och när det väl har finansierats, är det permanent upplåst för ditt Team. Spelare som lämnar Teamet tar inte med sig Teamstilen."
+TeamsBanner1Name,Apor i Rymden-banner
+TeamsBanner2Name,Hjälteteam på väg uppåt-banner
+TeamsBanner3Name,Glädjerik banner
+TeamsBanner4Name,Shurikenhimmel-banner
+TeamsBanner5Name,Förenade Apors banner
+TeamsBanner6Name,Omtvistat territorium-banner
+TeamsBanner1ShortName,Apor i Rymden-banner
+TeamsBanner2ShortName,Hjälteteam på väg uppåt-banner
+TeamsBanner3ShortName,Glädjerik banner
+TeamsBanner4ShortName,Shurikenhimmel-banner
+TeamsBanner5ShortName,Förenade Apors banner
+TeamsBanner6ShortName,Omtvistat territorium-banner
+TeamsBanner1Description,Ser du också den där gigantiska flytande bananklasen?
+TeamsBanner2Description,Med kombinerade krafter är det dags för superhjälteteamet!
+TeamsBanner3Description,Glada Apor är produktiva Apor.
+TeamsBanner4Description,Vi ska göra himlen svart med våra kaststjärnor!
+TeamsBanner5Description,Apor är starka tillsammans.
+TeamsBanner6Description,Regera över andra Apteam med denna häftiga OT-banner.
+TeamsEmblemFrame5Name,Snöflingeram
+TeamsEmblemFrame6Name,Eldram
+TeamsEmblemFrame7Name,Magisk ram
+TeamsEmblemFrame8Name,Skogsram
+TeamsEmblemFrame9Name,Ingenjörram
+TeamsEmblemFrame5ShortName,Snöflingeram
+TeamsEmblemFrame6ShortName,Eldram
+TeamsEmblemFrame7ShortName,Magisk ram
+TeamsEmblemFrame8ShortName,Skogsram
+TeamsEmblemFrame9ShortName,Ingenjörram
+TeamsEmblemFrame5Description,En seriöst cool ram för ditt seriöst coola team!
+TeamsEmblemFrame6Description,Dags att höja värmen för dina motståndare!
+TeamsEmblemFrame7Description,En mystisk och magisk ram.
+TeamsEmblemFrame8Description,Få ditt Team att sticka ut från de andra med denna snygga och naturliga ram.
+TeamsEmblemFrame9Description,"Omsorgsfull planering, mätning och verkställande är nycklarna till seger!"
+TeamsEmblemIcon5Name,Dödskalleikon
+TeamsEmblemIcon6Name,MOAB-mördarikon
+TeamsEmblemIcon7Name,Shurikenikon
+TeamsEmblemIcon8Name,Alkemistbrygdikon
+TeamsEmblemIcon5ShortName,Dödskalleikon
+TeamsEmblemIcon6ShortName,MOAB-mördarikon
+TeamsEmblemIcon7ShortName,Shurikenikon
+TeamsEmblemIcon8ShortName,Alkemistbrygdikon
+TeamsEmblemIcon5Description,"Alle man ombord, hissa seglen och plundra territorierna!"
+TeamsEmblemIcon6Description,Injaga skräck i MOAB:er överallt.
+TeamsEmblemIcon7Description,Tysta men dödliga attacker är kännetecknet för Team med denna ikon.
+TeamsEmblemIcon8Description,Blås upp en storm med denna häftiga teamikon.
+TeamsEmblemIcon9Name,Gwens eldikon
+TeamsEmblemIcon9ShortName,Gwens eldikon
+TeamsEmblemIcon9Description,"Detta är vad Gwen erbjuder när det gäller teamikoner. Det kommer knappast som en överraskning, eller hur? Det är eld."
+TeamsEmblemIcon10Name,Quincys pilikon
+TeamsEmblemIcon10ShortName,Quincys pilikon
+TeamsEmblemIcon10Description,"Quincys patentskyddade målsökande pilar, nu i form av en ikon!"
+TeamsEmblemIcon11Name,Obyns trädikon
+TeamsEmblemIcon11ShortName,Obyns trädikon
+TeamsEmblemIcon11Description,Se skogen OCH träden med denna miljövänliga ikon.
+TeamsEmblemIcon12Name,Biker Bones ikon
+TeamsEmblemIcon12ShortName,Biker Bones tummen upp-ikon
+TeamsEmblemIcon12Description,Herr glödheta knogar ger tummen upp till ditt episka team!
+BuildingPropWizardTowerName,Trollkarlstorn
+BuildingPropLighthouseName,Fyr
+FlyingPropPhoenixName,Flygande Fenix
+FlyingPropMiniAceName,Flygande Miniess
+WaterPropKrakenName,Kraken
+WaterPropMiniSubName,Miniubåt
+BasePropKingName,Apkung
+BasePropLighthouseKeeperName,Fyrvaktare
+BasePropCrashedMoabName,Kraschad MOAB
+BasePropTrainingDummyName,Träningsdocka
+BasePropCampfireName,Mysig lägereld
+BasePropTotemName,Tribal Totem
+BasePropSatelliteName,Rörligt satellitfordon
+BasePropTortoiseName,Tribal sköldpadda
+BasePropBattleMonkeyName,Stridsapa
+BuildingPropBattleTowerName,Bastorn
+BuildingPropWizardTowerShortName,Trollkarlstorn
+BuildingPropLighthouseShortName,Fyr
+FlyingPropPhoenixShortName,Flygande Fenix
+FlyingPropMiniAceShortName,Flygande Miniess
+WaterPropKrakenShortName,Kraken
+WaterPropMiniSubShortName,Miniubåt
+BasePropKingShortName,Apkung
+BasePropLighthouseKeeperShortName,Fyrvaktare
+BasePropCrashedMoabShortName,Kraschad MOAB
+BasePropTrainingDummyShortName,Träningsdocka
+BasePropCampfireShortName,Mysig lägereld
+BasePropTotemShortName,Tribal Totem
+BasePropSatelliteShortName,Rörligt satellitfordon
+BasePropTortoiseShortName,Tribal sköldpadda
+BasePropBattleMonkeyShortName,Stridsapa
+BuildingPropBattleTowerShortName,Bastorn
+BuildingPropWizardTowerDescription,Magiska äventyr väntar alla team som kan finansiera denna mystiska bas.
+BuildingPropLighthouseDescription,Lys upp vägen för hela ditt team med denna starkt lysande huvudbas.
+FlyingPropPhoenixDescription,"Alla undrar om det faktiskt finns en Trollkarlsapa där uppe, men har någon funderat över om kanske alla Trollkarlsapor bara är Fenixar som väntar på att återfödas?"
+FlyingPropMiniAceDescription,Låt Apesset ha koll på himlen över ditt team med detta söta Miniess.
+WaterPropKrakenDescription,Släpp lös Kraken! Dominera vågorna med denna förvånansvärt söta gigantiska undervattensvarelse.
+WaterPropMiniSubDescription,Upp med periskopet! Speja över området med Miniubåten.
+BasePropKingDescription,Välkommen till vår häftiga nya Ap.... Jag menar Omtvistade Territorier! Det är fritt fram att sno detta land och det är överhopat med Bloons! Smäll dem och säkra landet för ditt team.
+BasePropLighthouseKeeperDescription,Denna visa gamla apa sköter om fyren och håller ständig utkik efter fartyg som passerar i nattens mörker.
+BasePropCrashedMoabDescription,"Ett team av smarta apvetenskapsmän har redan finkammat detta vrak för användbar teknologi, så nu ligger det bara kvar som en varning till andra Bloons."
+BasePropTrainingDummyDescription,"Håll alla dina Pilapor i toppform med en 100 % återanvändbar Träningsdocka, som har certifierats av Dr. Apa."
+BasePropCampfireDescription,"Håll ditt team varmt under kyliga nätter, eller berätta läskiga historier om Omtvistade Territorier från förr vid lägerelden."
+BasePropTotemDescription,Skydda dina gränser med denna skräckinjagande tribala totem.
+BasePropSatelliteDescription,"Skicka ner information direkt från rymden med detta mobila satellitfordon, som är redo att rulla!"
+BasePropTortoiseDescription,"Fråga honom inte om han har några tribala släktingar, särskilt inte sköldpaddor!"
+BasePropBattleMonkeyDescription,"Omtvistade territorier-apa, redo att ge sig av!"
+BuildingPropBattleTowerDescription,Alla uppdrag in i Omtvistade Territorier kräver en ordentlig bas.
+Neutral,Neutral
+TilesCaptured,Erövrade rutor:
+CTPointsEarnt,Intjänade OT-poäng:
+TeamTrophiesEarnt,Intjänade teamtroféer:
+RelicsUnlocked,Upplåsta reliker:
+EventEnded,Eventet har avslutats
+NextEventIn,Nästa event om:
+SecondsAgo,Sekunder sedan
+1MinuteAgo,1 minut sedan
+MinutesAgo,{0} minuter sedan
+1HourAgo,1 timme sedan
+HoursAgo,{0} timmar sedan
+1DayAgo,1 dag sedan
+XDaysAgo,{0} dagar sedan
+TeamSettingDisbandedTitle,Upplöst
+Incoming,Inkommande
+Outgoing,Utgående
+RoundsCount,Rundor: {0}
+Relics,Reliker
+TeamFlair,Teamstil
+RefreshesIn,Uppdateras om: {0}
+DailyPower,Daglig kraft
+EventRelic1,Eventrelik 1
+EventRelic2,Eventrelik 2
+EventRelic3,Eventrelik 3
+Vote,Rösta
+InventoryEmpty,Lager tomt
+Blocked,Blockerad
+ShowOnlineStatus,Visa onlinestatus
+Invisible,Osynlig
+NexusTitle,Skaparstöd
+NexusDescription,Stöd din Bloons TD 6-favoritskapare genom att ange deras skaparkod här. Alla köp du gör i spelet kommer att stödja den skaparen såväl som Ninja Kiwis utvecklingsteam!
+TimeAttackPowersDisabled,Förmågor är inaktiverade i tidsattackläge.
+Funded,Finansierad
+UnlocksIn,Låses upp om: {0}
+TimeRemaining,Återstående tid: {0}
+TeamInviteAlreadySent,Teaminbjudan har redan skickats
+Captured,Erövrad!
+DisabledFriendInvites,Denna spelare har inaktiverat väninbjudningar
+ItemFunded,Artikel finansierad!
+Now,Nu
+Players,Spelare
+LocalRewards,Lokala belöningar
+GlobalRewards,Globala belöningar
+RewardsTop10,Topp 10
+RewardsTop20,Topp 20
+RewardsTop40,Topp 40
+RewardsTop60,Topp 60
+RewardsTopX,Topp {0}
+Rank5th,5.
+Rank6th,6.
+TeamName,Lagnamn
+CTPoints,CT-poäng
+Contribute,Bidra
+ContributeTrophies,Bidra med troféer
+ColorblindEnabled,Färgblindläge aktiverat!
+ColorblindDisabled,Färgblindläge inaktiverat
+Local,Lokal
+KickPending,i väntan på borttagning
+SentryParagonGreen,Green Sentry Paragon
+SentryParagonRed,Red Sentry Paragon
+SentryParagonBlue,Blue Sentry Paragon
+TeamManagement,Laghantering

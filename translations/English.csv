@@ -2160,7 +2160,7 @@ FriendLiNKLoginFailed,Failed to login to Facebook. Please check internet connect
 Do It,Do It
 Restart?,Restart?
 Continue Details,Retry this round with replenished lives and cash.
-Restart Details,Are you sure you wish to exit and restart?
+Restart Details,Are you sure you wish to restart?
 Insta-Monkey!,Insta-Monkey!
 Power!,Power!
 Optimizing,Optimizing...
@@ -2472,7 +2472,7 @@ SlowerMoabs,Moab Speed Decreased
 BikerBonesSkinName,Biker Bones Skin
 BikerBonesSkinDescription,The Sun God hath no fury like Biker Bones unchained!
 PatsPond,Pat's Pond
-InappropriateChallengeName,Please use a less inappropriate challenge name then try again
+InappropriateChallengeName,Please choose a more appropriate Challenge name
 DCVictoryBody,Congratulations! You have completed {0}!
 EditorCreateVictoryBody,Congratulations! You can now share your challenge with others!
 EditorOlderVersion,This challenge was created in version {0} and may not be possible to complete anymore
@@ -2700,7 +2700,7 @@ WolfpackQuincySkinName,Wolfpack Quincy Skin
 WolfpackQuincySkinDescription,"From wilder distant days, when all hunters were strong and the pack yet stronger, he is Quincy, ancestor of Quincy."
 Infernal,Infernal
 DownloadButton,Download
-DownloadDescription,Downloading additional files. Wi-fi recommended. Data size {0}MB
+DownloadDescription,Updated files required before play. Wi-fi recommended. Data size {0}MB
 ViewCollectionButton,View Collection
 ViewInventoryButton,View Inventory
 CollectionDescription,Insta Monkeys will remain visible in your Collection even after use.
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] to Darkshift within range
 DarkChampionDarkshift,[I] to Darkshift to any valid location
 SmallTowersMode,Small Monkey Towers
 BigTowersMode,Big Monkey Towers
-UpdatePopupTitle,Update 31!
-UpdatePopupDescription,"New Content Update!\n• New Hero! Geraldo the Mystic Shopkeeper has arrived with his amazing emporium of Bloon-popping items!\n • New Boss! Vortex, Deadly Master of Air has been unleashed!\n• Have fun trashing the Bloons on the new Beginner map: Scrapyard\n• 9 new Trophy Store items, including a new remix\n• Challenge browser: Least Cash and Least Tiers special victory conditions added for your puzzle challenge enjoyment\n• Heroes menu is new and improved plus more quality of life and balance changes, check the update notes for full details!"
+UpdatePopupTitle,Update 32!
+UpdatePopupDescription,"Epic Contested Territories Update!\n• Huge new event: Contested Territories - capture Tiles from other Teams to rule the leaderboard!\n • Teams! Grab your friends and form an unstoppable Team to conquer the Contested Territory\n• New paragon: Master Builder\n• New hero skin: Voidora\n• New intermediate map: Quarry\n• Trophy store items, quality of life improvements, balance changes and much more!"
 ResetDailyChest,Reset Daily Chest
 JukeboxName,Jukebox
 EnableFunction,Enable
@@ -2852,7 +2852,7 @@ AdmiralBrickell Level 3 Description,Naval Tactics: greatly increases attack spee
 AdmiralBrickell Level 4 Description,More popping power for Sea Mines.
 AdmiralBrickell Level 5 Description,Naval Tactics increases popping power and allows affected Monkeys to hit all Bloon types except Camo.
 AdmiralBrickell Level 6 Description,Increases the damage of Sea Mines and Pistol attacks.
-AdmiralBrickell Level 7 Description,Brickell gains increased attack range and Camo Bloon detection.
+AdmiralBrickell Level 7 Description,Blast Chain: Sea mines fire off quicker for a short time. Brickell gains increased attack range and Camo Bloon detection.
 AdmiralBrickell Level 8 Description,Naval Tactics allows affected Monkeys to hit Camo Bloons. Water towers in radius gain extra pierce.
 AdmiralBrickell Level 9 Description,Sea Mines do extra damage.
 AdmiralBrickell Level 10 Description,Mega Mine: deploys to any water area a devastating Mine that triggers on MOABs and stuns nearby Bloons. Mega Mines last 3 rounds.
@@ -2860,9 +2860,9 @@ AdmiralBrickell Level 11 Description,Faster deploy speed and deploy rate for Sea
 AdmiralBrickell Level 12 Description,"Pistol attack increased speed and damage, Sea Mines increased damage."
 AdmiralBrickell Level 13 Description,Mega Mine cooldown reduced.
 AdmiralBrickell Level 14 Description,Naval Tactics duration increased.
-AdmiralBrickell Level 15 Description,"Enhanced Sea Mines have larger explosion, can damage Black Bloons and remove Camo property."
+AdmiralBrickell Level 15 Description,"Enhanced Sea Mines have larger explosion, can damage Black Bloons and remove Camo property. Pistol does more damage."
 AdmiralBrickell Level 16 Description,Attack and Sea Mine deploy range increased slightly.
-AdmiralBrickell Level 17 Description,Sea Mines do greatly increased damage.
+AdmiralBrickell Level 17 Description,Sea Mines do greatly increased damage. Pistol does more damage.
 AdmiralBrickell Level 18 Description,Mega Mine cooldown reduced even further.
 AdmiralBrickell Level 19 Description,Naval Tactics affects all water based towers everywhere.
 AdmiralBrickell Level 20 Description,Mega Mine does massively increased damage and longer stun.
@@ -3008,7 +3008,7 @@ MonkeyNameHeader,Edit Monkey Name
 MonkeyNameInstruction,Choose a custom name for the first monkey of every type. Limit names to 20 characters and 2 lines for optimal display. Use Space to separate lines
 OdysseyCompleteDescription,"Congratulations, brave adventurer! You have completed your Odyssey and earned these rewards!"
 HeroBoosterDescription,Boost hero to Level 10 immediately?
-InappropriateNamedMonkeyName,Please choose a more appropriate Monkey Name
+InappropriateNamedMonkeyName,Please choose a more appropriate Monkey name
 PatchNotesLink,"For full update notes, please go to:"
 TrophyPurchaseConfirmation,Purchase {0} for {1} Trophies?
 TrophyPurchaseInsufficient,You do not have enough Trophies to purchase this item. Get more from Races and Odyssey Mode.
@@ -4334,7 +4334,7 @@ Geraldo Level 1 Description,"Available Items! Shooty Turret, Stack of Old Nails,
 Geraldo Level 2 Description,New Item! Rare Quincy Action Figure - increases in value the longer you possess it!
 Geraldo Level 3 Description,New Item! See Invisibility Potion - grants short term camo detection to a Monkey Tower or Hero. Geraldo's attack range increases.
 Geraldo Level 4 Description,New Item! Tube of Amaz-o-Glue - can be placed on the track to slow Bloons down.
-Geraldo Level 5 Description,New Item! Sharpening Stone - boosts the pierce of a Monkey Tower or Hero when doing sharp-type damage.
+Geraldo Level 5 Description,New Item! Sharpening Stone - boosts the pierce of a Monkey Tower or Hero when doing sharp-type damage. Geraldo attacks faster.
 Geraldo Level 6 Description,New Item! Worn Hero's Cape - converts a Tier 2 or lower Dart Monkey into a Super Monkey! These converted Super Monkeys can only be upgraded to Tier 3.
 Geraldo Level 7 Description,"New Item! Blade Trap - when a visible Bloon touches the trap, a Blade Maelstrom goes off. Geraldo's main attack increases in damage and pierce."
 Geraldo Level 8 Description,"New Item! Bottle of 'Gerry's Fire' - 2.8 million Bloonville units of pure hot sauce fire! Gives a Monkey, Hero, or minion a fiery attack for 10 rounds."
@@ -4346,10 +4346,10 @@ Geraldo Level 13 Description,"Shooty Turret fires faster with increased damage, 
 Geraldo Level 14 Description,See Invisibility Potion grants additional range and lasts longer.
 Geraldo Level 15 Description,"Sharpening Stone now increases damage in addition to pierce, and Blade Trap creates a more powerful effect when triggered."
 Geraldo Level 16 Description,"Stack of Old Nails becomes a Nail Mine, Jar of Pickles grants additional bonus damage vs. Fortified Bloons, and Gerry's Fire gains bonus burny damage."
-Geraldo Level 17 Description,Geraldo's main attack does more damage and Amaz-o-Glue now has a small affect on MOAB-class Bloons.
-Geraldo Level 18 Description,Genie gains a second close-target attack and does bonus damage to MOAB-class Bloons and Creepy Idol applies a Mystical Shroud to MOAB-class Bloons that causes big damage nearby when they are popped.
-Geraldo Level 19 Description,"Geraldo's main attack is faster, has a longer range, and does more damage and See Invisibility Potion gains bonus damage to Camo Bloons."
-Geraldo Level 20 Description,New Item! Paragon Power Totem - adds paragon power to the next paragon created. Geraldo's main attack does more damage.
+Geraldo Level 17 Description,Geraldo's main attack does more damage and Amaz-o-Glue now has a small effect on MOAB-class Bloons.
+Geraldo Level 18 Description,"Genie gains a second close-target attack and does bonus damage to MOAB-class Bloons. When Creepy Idol expires, it covers nearby MOAB-class Bloons with a Mystical Shroud, causing damage when popped."
+Geraldo Level 19 Description,Geraldo's main attack greatly improved and See Invisibility Potion gains bonus damage to Camo Bloons.
+Geraldo Level 20 Description,New Item! Paragon Power Totem - adds paragon power to the next paragon created. Shop restocks fully! Geraldo's main attack does more damage.
 Geraldo Shop shortname,Shop
 Geraldo Shop name,Geraldo's Shop
 Shooty turret name,Shooty Turret
@@ -4365,9 +4365,9 @@ Rare Quincy action figure description,"Limited edition, mint condition original 
 See invisibility potion name,See Invisibility Potion
 See invisibility potion description,Whatever Monkey you gift with this extremely eficacious elixir will be able to see Camo Bloons with ease! Effects will wear off.
 Tube of amaz-o-glue name,Tube of Amaz-o-Glue
-Tube of amaz-o-glue description,Truly amazing! Apply a tube of this modern marvel anywhere on the track and watch the next bunch of Bloons slow right down.
+Tube of amaz-o-glue description,Truly amazing! Apply a tube of this modern marvel anywhere on the track and watch the next bunch of Bloons slow right down. Lasts 4 rounds or until used up.
 Sharpening stone name,Sharpening Stone
-Sharpening stone description,"Sharpen those darts, friend! Apply this to your darts and blades and they'll be sharper than ever before."
+Sharpening stone description,"Sharpen those darts, friend! Apply this to your darts and blades and they'll be sharper than ever before. Runs out after 15 rounds."
 Worn heros cape name,Worn Hero's Cape
 Worn heros cape description,"All heroes wear capes! Give this to one of your Dart Monkeys and watch the transformation! Slightly used condition, only minor tiers, er, I mean tears."
 Blade trap name,Blade Trap
@@ -4499,8 +4499,494 @@ Stack of old nails description level 16,Yes it's just a GIANT NAIL MINE but put 
 Jar of Pickles description level 16,"Try these pickles on one of your Monkey Towers and it will hit harder, but shoot slower for a while. Now with EVEN MORE increased damage to fortified Bloons!"
 Gerrys fire hot sauce description level 16,2.8 million Bloonville units. Whoever tastes this special sauce will be spewing fire for a while! Now with extra burny-ness.
 Tube of amaz-o-glue description level 17,Truly amazing! Apply a tube of this modern marvel anywhere on the track and watch the next bunch of Bloons and even MOABs slow right down.
-Genie bottle description level 18,"Summon a Genie Monkey from this brilliant blue bottle but beware, it won't last forever! (no wishes included with purchase). Extra attack and more damage to MOABs now included."
+Genie bottle description level 18,"Summon a Genie Monkey from this brilliant gold bottle but beware, it won't last forever! (no wishes included with purchase). Extra attack and more damage to MOABs now included."
 Creepy idol description level 18,Place this spooky looking idol near the track to scare some Bloons back where they came from. Mystical Shroud upgrade unlocked!
 See invisibility potion description level 19,Whatever Monkey you gift with this extremely eficacious elixir will be able to see Camo Bloons with ease and do more damage to them! Effects will wear off.
 FriendScreenSureUnBlock,Are you sure you want to unblock this user?
 None,None
+Knowledge Requirement Monkey Money,Not enough Monkey Money. Buy more?
+Knowledge Requirement Points,Not enough Knowledge Points
+InviteFriend,Invite Friend
+InvitedToJoin,{0} has invited you to their co-op game. Do you want to join?
+HeroesMountainObynPetBalfrogName,Balfrog Pet
+HeroesMountainObynPetBalfrogShortName,Balfrog Pet
+HeroesMountainObynPetBalfrogDescription,"Hailing from dark mines under misty mountains, this little frog really lights up any conversation with a burning desire to be your one true flame. Mountain Obyn only"
+TowerPropMonkeyVillagePrideFlagName,Monkey Village Pride Flag
+TowerPropMonkeyVillagePrideFlagShortName,Village Pride Flag
+TowerPropMonkeyVillagePrideFlagDescription,Celebrate diversity and choice with this more awesomer Pride flag for your Monkey Villages. Shows for all upgrades
+CoopEmoteTextNeedMoreName,Need More! Text Emote
+CoopEmoteTextNeedMoreShortName,Need More!
+CoopEmoteTextNeedMoreDescription,"When you need more cash, Bloons, defenses or just food, this emote is great for any occasion."
+CoopEmoteTextNeedMoreWord,Need More!
+CoopEmoteAnimationRainbowName,Rainbow Animation
+CoopEmoteAnimationRainbowShortName,Rainbow
+CoopEmoteAnimationRainbowDescription,Everybody sing along now! Somewheeere over the rainbow...
+GameUIProfileAvatar61Name,Dart Monkey Avatar
+GameUIProfileAvatar61ShortName,Dart Monkey Avatar
+GameUIProfileAvatar61Description,All praise the mighty Dart! Popper of Bloons!
+GameUIProfileAvatar62Name,Geraldo Avatar
+GameUIProfileAvatar62ShortName,Geraldo Avatar
+GameUIProfileAvatar62Description,"Hello friend, can I interest you in a fluffy white rabbit? He's completely harmless, wouldn't you agree?"
+GameUIProfileBanner15Name,OG BTD Style Banner
+GameUIProfileBanner15ShortName,OG BTD Style Banner
+GameUIProfileBanner15Description,Banner winner by LordTeddington
+GameUIProfileBanner16Name,Spirit of the Forest Banner
+GameUIProfileBanner16ShortName,Spirit of the Forest Banner
+GameUIProfileBanner16Description,Banner winner by tricky999tricky
+GameUIMusicTrackMusicTribesJaloonMixName,Jukebox: Tribes & Tribulations - Jaloon Remix
+GameUIMusicTrackMusicTribesJaloonMixShortName,Tribes - Jaloon
+GameUIMusicTrackMusicTribesJaloonMixDescription,Hit the dance floor with this amped up remix of the beloved Tribes & Tribulations track
+Quarry,Quarry
+VoidoraAdoraSkinName,Voidora Skin
+VoidoraAdoraSkinDescription,"From the void, I have arrived"
+VoidoraAdoraSkinNameFull,Voidora
+InappropriateTeamName,Please choose a more appropriate Team name
+TeamNameNotUnique,That name is already taken! Please choose another or try adding digits
+TeamNameTooShort,Team names must be {0} to {1} characters long
+SentryParagonChild,Modified Sentry Paragon
+LoginwithEpic,Login with Epic
+EnterLinkingCode,Enter a linking code to connect:
+Connect,Connect
+PrivacyPolicy,Privacy Policy
+TermsOfService,Terms of Service
+ConfirmAgeInfo,"To continue, please confirm your current age. You must log in to play additional online features and back up data."
+AgeQuestion,Are you age {0} or older?
+AgeYes,"Yes, I am {0} or older."
+AgeNo,"No, I am under {0}."
+PersonalAccountInfo,"You may create a Personal Account without using any personally identifiable information. By choosing ""I Agree"" your parent or guardian has reviewed the Ninja Kiwi Privacy Policy and Terms of Service with you, and they consent to the Privacy Policy and Terms of Service, and to our ability to store your gameplay and non-personally identifiable account information in our service, which includes the use of servers located in the USA."
+AgreeCreateAccount,"I Agree, Create an Account"
+NormalAccountInfo,"By continuing, you consent to the Ninja Kiwi Privacy Policy and Terms of Service, and to our ability to store your gameplay and account information in our service, which includes the use of servers located in the USA."
+LoggedInAs,Logged in as: 
+EpicAccountId,Epic Account ID:
+NeedHelp,Need help?
+ContactSupport,Contact Support
+DeleteAccountText,"Deleting your account will mean you lose access to all cloud progress and data.
+Please enter your User ID (as seen below) in the box to delete your account. It may take 48-72 hours for your account to be removed."
+EnterUserId,Enter User ID here
+GetAllButton,Get All
+GetAllConfirmation,Please confirm you wish to spend your Monkey Money to get all available Heroes and Skins!
+DeleteAccount,Delete Account
+CtLeaderboardTitle,Contested Territory Leaderboards
+LocalTeams,Local Teams
+LocalPlayers,Local Players
+GlobalTeams,Global Teams
+GlobalPlayers,Global Players
+CreateTeamPanelTitle,Create Team
+CreateTeamTitle,Create A Team
+CreateTeamNameDescription,Team Name:
+CreateTeamNameInputField,Enter team name...
+CreateTeamCostDescription,Spend {0} to create a team
+CreateTeamFailed,Failed to create team
+EditTeamPanelTitle,Edit Team
+EditTeamTitle,Edit Your Team
+EditTeamNameDescription,Edit Team Name:
+TeamEmblemTitle,Emblem
+TeamBannerTitle,Banner
+TeamEmblemsTitle,Emblems
+TeamBannersTitle,Banners
+TeamGeneralTitle,General
+TeamSettingPublicTitle,Public
+TeamSettingPrivateTitle,Private
+TeamSettingClosedTitle,Closed
+TeamJoin,Join
+TeamApply,Apply
+RecentWin,Recent Win:
+TileHeldBy,Tile Held By:
+Score,Score
+ScoreDegradesIn,Score Degrades In:
+NeutralOwnerIn,Neutral Owner In:
+Tile,Tile: {0}
+RelicTile,Relic Tile
+BannerTile,Banner Tile
+BonusCTPoints,Bonus CT Points!
+DailyRelics,Daily Relics
+HeldRelics,Select Relics
+Tickets,Tickets:
+PurchaseTickets,Purchase Ticket
+MoreTicketsIn,More Tickets In:
+CTTitleName,Contested Territory
+CTTeamStore,Team Store
+CTMyTeam,My Team
+CTTeamTrophies,Team Trophies
+CTTickets,Tickets
+CTTeamTickets,Team Tickets
+CTNextTicketsIn,Next Tickets in:
+CTTileSearch,Tile Search
+CTOwner,Owner:
+CTScore,Score:
+CTNeutralIn,Neutral in:
+CTPosition,Position:
+CTUncaptured,Uncaptured
+CTCheckpoint,Checkpoint Reached!
+CTNewScore,New Score!
+CTBestScore,Best Score
+TimeAttack,Time Attack
+ERR_NOT_LOGGED_IN,Not Logged In
+ERR_ALREADY_PENDING,Request Already Pending
+ERR_FEATURE_UNAVAILABLE,"Feature Unavailable, try again later"
+ERR_REQUEST_PARAMETER_MISSING,Parameter missing
+ERR_GUILD_FULL,Team is full
+ERR_GUILD_NAME_EXISTS,Team name already exists
+ERR_GUILD_DOES_NOT_EXIST,Team does not exist
+ERR_GUILD_CANNOT_DISBAND,Team cannot be disbanded
+ERR_GUILD_PERMISSION_DENIED,Permission denied
+ERR_GUILD_CANNOT_UPDATE_OWNER_DENIED,"Cannot update team owner, permission denied"
+ERR_GUILD_CANNOT_UPDATE_OWNER_NONE,Cannot update team owner
+ERR_TIMEOUT,"Request timed out, please try again"
+CreateNewTeamText,Create a new Team?
+ParagonLimitReached,Paragon Limit Reached
+TeamMsgNewMayor,{0} is the new Mayor!
+TeamMsgPlayerJoined,{0} has joined the Team
+TeamMsgPlayerLeft,{0} has left the Team
+TeamMsgPlayerKicked,{0} was kicked from the Team by {1}.
+TeamMsgPlayerDemoted,{0} was demoted by {1}.
+TeamMsgRegularTileCaptured,{0} captured a Regular Tile. Great work!
+TeamMsgBannerTileCaptured,{0} captured a Banner Tile. Awesome stuff!
+TeamMsgRelicTileCaptured,{0} captured a Relic Tile and added {1} to the Team Relic list. Way to go!
+TeamMsgRegularTileCapturedOtherGuild,{0} captured a Regular Tile from {1}. Great work!
+TeamMsgBannerTileCapturedOtherGuild,{0} captured a Banner Tile from {1}. Awesome stuff!
+TeamMsgRelicTileCapturedOtherGuild,{0} captured a Relic Tile from {2} and added {1} to the Team Relic list. Way to go!
+TeamMsgRelicTileLost,Relic Tile lost! {0} is no longer available.
+TeamMsgPlayerPromoted,{0} was promoted to Assistant Mayor by {1}
+TeamMsgTeamCreated,The {0} Team was created by {1}
+TeamMsgNewFocusMarker,New Focus Marker set by {0}
+TeamMsgFlairUnlocked,{0} has been fully funded! Amazing effort!
+TileCaptured,Tile Captured
+TileNotCaptured,Tile Not Captured
+TicketUsed,Ticket Used
+NoTicketUsed,No Ticket Used
+ScoreToBeat,Score to Beat:
+YourScore,Your Score:
+PublicWithBrackets,(Public)
+PrivateWithBrackets,(Private)
+CTRelicWon,Relic Won!
+CTBonusPoints,Bonus Points!
+Teams,Teams
+CaptureScoreMissed,Capture Score Missed!
+CaptureScoreNear,Warning! Nearing Capture Score
+CtInternalError,"An internal error has occurred, please try again later"
+CtServerError,The Contested Territory server can't process your request right now. Please try again later
+Achievement 143 Name,Conquested Territory
+Achievement 143 Description,Capture 5 Tiles off other players
+Achievement 144 Name,Stage of Empires
+Achievement 144 Description,Capture 50 Tiles
+Achievement 145 Name,Territory Sampler
+Achievement 145 Description,"Capture 1 of each: Boss, Time Attack, Least Tiers and Least Cash Tiles"
+CTLeastCashDescription,Use the least cash possible to win the Tile. Cash spent includes Monkey Tower placement and upgrades as well as paid Hero upgrades. Selling a Monkey does not reduce cash spent.
+CTLeastTiersDescription,Use the fewest Monkey Towers and Upgrades possible to win the Tile. Each Monkey and Hero placed and each upgrade counts as one Tier. Paid Hero upgrades also count as a Tier. Selling a Monkey does not reduce the Tier count.
+CTTimeAttackDescription,"Earn the fastest time possible to win the Tile. Based on the Race Event, the timer starts when you press play. Send next rounds early to improve your time but be careful! Time Attack games will not save so try not to quit mid-game."
+CTBossDescription,"Destroy the Boss as quickly as possible to win the Tile. Based on the Boss Event, the timer starts when the Boss appears on screen. Contested Territory Bosses will either be Tier 1 only or Tier 1 & 2, depending on each Tile's round count. Concentrate on high damage towers, generate income if you can, and don't ignore the other Bloons!"
+CtEventEnded,Unfortunately the event has ended
+RelicStartingStash,Starting Stash
+RelicExtraEmpowered,Extra Empowered
+RelicBoxOfChocolates,Box of Chocolates
+RelicBoxOfMonkey,Box of Monkey
+RelicMarchingBoots,Marching Boots
+RelicHeroBoost,Hero Boost
+RelicBiggerBloonSabotage,Bigger Bloon Sabotage
+RelicRoundingUp,Rounding Up
+RelicManaBulwark,Mana Bulwark
+RelicRegeneration,Regeneration
+RelicRestoration,Restoration
+RelicDurableShots,Durable Shots
+RelicAlchemistTouch,Alchemist Touch
+RelicDeepHeat,Deep Heat
+RelicSharpsplosion,Sharpslosion
+RelicRoyalTreatment,Royal Treatment
+RelicHardBaked,Hard Baked
+RelicFortifried,Fortifried
+RelicMoabClash,MOAB-Clash
+RelicCamoFlogged,Camo-flogged
+RelicBrokenHeart,Broken Heart
+RelicGoingTheDistance,Going the Distance
+RelicHeartless,Heartless
+RelicFlintTips,Flint Tips
+RelicAbilitized,Abilitized
+RelicAirAndSea,Air and Sea
+RelicElDorado,El Dorado
+RelicMonkeyShield,Monkey Shield
+RelicMonkeyShieldMark2,Monkey Shield Mark 2
+RelicMonkeyShieldMark3,Monkey Shield Mark 3
+RelicPsiVision,Psi Vision
+RelicOpenSeason,Open Season
+RelicCamoTrap,Camo Trap
+RelicThrive,Thrive
+RelicSuperMonkeyStorm,SMS
+RelicMonkeyBoost,Monkey Boost
+RelicRoadSpikes,Road Spikes
+RelicMoabMine,MOAB Mine
+RelicGlueTrap,Glue Trap
+RelicTechbot,Techbot
+RelicPrimaryPrimates,Primary Primates
+RelicMilitaryMonkeys,Military Monkeys
+RelicMagicMonkeys,Magic Monkeys
+RelicSupportSimians,Support Simians
+RelicMonkeyTycoon,Monkey Tycoon
+RelicStartingStashDescription,Start each game with an extra 300 cash (stacks with More Cash on Regular Tiles)
+RelicExtraEmpoweredDescription,Your hero starts a game with 3 extra levels (stacks with Empowered Heroes on Regular Tiles)
+RelicBoxOfChocolatesDescription,Start each game with 100 extra lives
+RelicBoxOfMonkeyDescription,Start each game with one free Monkey costing $500 or less for unmodified initial placement
+RelicMarchingBootsDescription,"In restricted count games, gives players +1 max count of each tower in their loadout or +4 total max count per game"
+RelicHeroBoostDescription,Heroes earn XP 10% faster in each game
+RelicBiggerBloonSabotageDescription,All MOAB-class Bloons spawn with 15% less health and move at 95% speed
+RelicRoundingUpDescription,Earn +$20 at the end of every round
+RelicManaBulwarkDescription,Creates a shield that absorbs up to 50 lives (stacks with Mana Shield on Regular Tiles)
+RelicRegenerationDescription,"Restore 10 lives per round up to each game’s starting lives value, if no lives lost that round"
+RelicRestorationDescription,"Restore 20 lives per round up to an increased starting lives value of +200, if no lives lost that round"
+RelicDurableShotsDescription,All projectiles have +25% lifespan
+RelicAlchemistTouchDescription,All attacks can pop lead Bloons
+RelicDeepHeatDescription,All attacks can pop white Bloons
+RelicSharpsplosionDescription,All attacks can pop black Bloons
+RelicRoyalTreatmentDescription,All attacks can pop purple Bloons
+RelicHardBakedDescription,All attacks do +1 damage to Ceramic Bloons
+RelicFortifriedDescription,All attacks do +1 damage to Fortified Bloons
+RelicMoabClashDescription,All attacks do +3 damage to MOAB-class Bloons
+RelicCamoFloggedDescription,All attacks do +1 damage to camo Bloons
+RelicBrokenHeartDescription,All attacks do +1 damage to regrow Bloons
+RelicGoingTheDistanceDescription,All Monkeys gain +10% range
+RelicHeartlessDescription,Regrow Bloons regeneration rate reduced 25%
+RelicFlintTipsDescription,Sharp projectiles add fire dot to all Bloons they damage (1 damage every 2s for 4s total)
+RelicAbilitizedDescription,All Activated Ability cooldowns for all Monkeys reduced 10%
+RelicAirAndSeaDescription,"Ace, Heli, Buccaneer and Sub have placement and upgrade costs reduced 10%, and reload improved by 5%"
+RelicElDoradoDescription,All Monkey Money and Team Trophy rewards from game victories are increased by 25% (minimum +1)
+RelicMonkeyShieldDescription,"For 1 hour after capture, Tile cannot be attacked by opposing Teams. Improved score will re-engage."
+RelicMonkeyShieldMark2Description,"For 2 hours after capture, Tile cannot be attacked by opposing Teams. Improved score will re-engage."
+RelicMonkeyShieldMark3Description,"For 3 hours after capture, Tile cannot be attacked by opposing Teams. Improved score will re-engage."
+RelicPsiVisionDescription,See full details for all Tiles on the map
+RelicOpenSeasonDescription,Attack any Tile on the map
+RelicCamoTrapDescription,Grants the use of 2 Camo Trap Powerups per game
+RelicThriveDescription,Grants the use of 2 Thrive Powerups per game
+RelicSuperMonkeyStormDescription,Grants the use of 2 SMS per game
+RelicMonkeyBoostDescription,Grants the use of 3 Monkey Boosts per game
+RelicRoadSpikesDescription,Grants 10 stacks of Road Spikes per game
+RelicMoabMineDescription,Grants the use of 1 MOAB Mine Powerup per game
+RelicGlueTrapDescription,Grants the use of 2 Glue Trap Powerups per game
+RelicTechbotDescription,Grants the use of 1 Tech Bot Powerup per game
+RelicPrimaryPrimatesDescription,Reduces cost of all Primary Monkeys by 10%
+RelicMilitaryMonkeysDescription,Reduces cost of all Military Monkeys by 10%
+RelicMagicMonkeysDescription,Reduces cost of all Magic Monkeys by 10%
+RelicSupportSimiansDescription,Reduces cost of all Support Monkeys by 10%
+RelicMonkeyTycoonDescription,Get +1 of all Monkey Towers in your loadout and their base price is reduced by 5%
+InviteToTeam,Invite to Team
+TeamLeave,Leave Team
+Requests,Requests
+TeamMessagesTab,Messages
+TeamRosterTab,Roster
+TeamPending,Pending
+CancelRequest,Cancel Request
+TeamDisband,Disband Team
+TeamCode,Team Code
+TeamMemberCount,{0}/{1} Members
+TeamPendingApplications,({0} Pending)
+TeamNoInfo,No Information to Display
+AllTeams,All Teams
+TeamsAdvancedSearch,Advanced Search
+TeamInvitationDisband,You must disband your Team before accepting an invite
+TeamInvitationAcceptWarning,Accepting this invite will remove you from your current Team
+TeamBrowserAllTeams,All Teams
+TeamBrowserFriendsTeams,Friends Teams
+TeamBrowserTeamRequests,Requests
+TeamQuickJoin,Quick Join
+TeamBrowserTitle,Team Browser
+TeamBrowserSearchField,Enter Team Name...
+TeamBrowserSearchHideFull,Hide Full Teams
+TeamBrowserSearchHidePrivate,Hide Private Teams
+TeamBrowserSearchHideClosed,Hide Closed Teams
+TeamEditApplyAll,Apply All
+TeamScore,Score: {0}
+TeamRemoveMember,Are you sure you want to remove this member?
+TeamPromoteMember,Are you sure you want to promote this member?
+TeamDemoteMember,Are you sure you want to demote this member?
+TeamErrorShowPop,Team Error
+TeamOwnershipTransferTitle,Team Ownership Transfer
+TeamOwnershipTransferFailed,Failed to transfer ownership to new player
+TeamOwnershipTransferWarning,Are you sure you want to transfer Team ownership to this member. This is cannot be undone!
+TeamLeaveConfirm,Are you sure you want to leave the Team?
+TeamDisbandConfirm,Are you sure you want to disband the Team?
+TeamOwnershipLeavingWarning,Transfer ownership of the Team to another member before leaving
+TeamNoneFound,Team Not Found
+CTLocal,CT Local
+CTGlobal,CT Global
+Rank4th,4th
+Rank4thAnd,4th-10th
+Rank11thAnd,11th-20th
+Rank21stAnd,21st-40th
+Rank41stAnd,41st-60th
+RewardsTop25,Top 25
+RewardsTop100,Top 100
+DegradedScore,Degraded Score
+ERR_INVITATION_NO_LONGER_EXISTS,Invitation no longer exists
+TeamMateSetScore,Teammate set a new score to beat!
+AnotherTeamSetScore,Another team set a new score to beat!
+FriendScreenErrorTeamInviteAlreadyMember,This player is already in your Team
+TotalTeamScore,Team Score
+CTRulesInfo,"Welcome to Contested Territories! Work together with your Team, capture Tiles, come out on top of the leaderboards and earn great rewards!\n\n• Capture Tickets are only used if you capture a Tile. They refresh every 24 hours.\n• Unused Capture Tickets will go into a pool of Tickets that can be used by other Team members the following day.\n• Once captured, Tile scores will slowly degrade over time, until the Tile becomes neutral after 24 hours.\n• CT Points are earned when capturing a Tile and every hour that you continue to hold a Tile. CT Points decide your personal and Team placing on the leaderboard, so grab Tiles as often as you can!\n• Banner Tiles are harder Tiles that give lots more CT Points.\n• Relic Tiles give your team access to powerful Relic Knowledges that will in turn help you when capturing Tiles.\n• Tile progress is saved every 20 rounds and you can only have one in-progress save at a time.\n• Vote for which Relics you like the most in the Team Trophy store and then choose which specific Relics you'll take into battle on the pre-game page."
+TeamTrophyStoreRulesInfo,"This is the Team Trophy Store, where you can vote for unlocked CT Relics, fund Daily Powers, Event Relics and Team Flair.\n• Daily Powers are available to unlock each day during the CT event and once funded can be used by the whole Team for that day.\n• Event Relics become available throughout the CT event and once funded are useable for the rest of that event. They are separate from Relics unlocked via Relic Tiles.\n• Capture Relic Tiles and then vote for your favorite Relic Knowledges unlocked this event. The top 7 Relics will be available to choose from in your final loadout of 4 Relics.\n• Team Flair is funded by the entire Team and once funded is permanently unlocked for your Team. Players leaving the Team do not take Team Flair with them."
+TeamsBanner1Name,Monkeys In Space Banner
+TeamsBanner2Name,Hero Team Up Banner
+TeamsBanner3Name,Joyful Banner
+TeamsBanner4Name,Shuriken Sky Banner
+TeamsBanner5Name,Monkeys United Banner
+TeamsBanner6Name,Contested Kingdom Banner
+TeamsBanner1ShortName,Monkeys In Space Banner
+TeamsBanner2ShortName,Hero Team Up Banner
+TeamsBanner3ShortName,Joyful Banner
+TeamsBanner4ShortName,Shuriken Sky Banner
+TeamsBanner5ShortName,Monkeys United Banner
+TeamsBanner6ShortName,Contested Kingdom Banner
+TeamsBanner1Description,Do you see that giant floating banana bunch too?!
+TeamsBanner2Description,"By their powers combined, it's super hero team up time!"
+TeamsBanner3Description,Happy Monkeys are productive Monkeys.
+TeamsBanner4Description,We shall black out the sun with our shurikens!
+TeamsBanner5Description,Monke together strong.
+TeamsBanner6Description,Lord over other Monkey Teams with this awesome CT banner.
+TeamsEmblemFrame5Name,Snowflake Frame
+TeamsEmblemFrame6Name,Fire Frame
+TeamsEmblemFrame7Name,Magic Frame
+TeamsEmblemFrame8Name,Forest Frame
+TeamsEmblemFrame9Name,Engineer Frame
+TeamsEmblemFrame5ShortName,Snowflake Frame
+TeamsEmblemFrame6ShortName,Fire Frame
+TeamsEmblemFrame7ShortName,Magic Frame
+TeamsEmblemFrame8ShortName,Forest Frame
+TeamsEmblemFrame9ShortName,Engineer Frame
+TeamsEmblemFrame5Description,A seriously cool frame for your seriously cool Team!
+TeamsEmblemFrame6Description,Time to turn up the heat on your opponents!
+TeamsEmblemFrame7Description,"A mystical, magical frame."
+TeamsEmblemFrame8Description,Make your Team stand out from the rest with this funky all natural frame.
+TeamsEmblemFrame9Description,"Careful planning, measuring and execution are the keys to victory!"
+TeamsEmblemIcon5Name,Skull Icon
+TeamsEmblemIcon6Name,MOAB Assassin Icon
+TeamsEmblemIcon7Name,Shuriken Icon
+TeamsEmblemIcon8Name,Alchemist Brew Icon
+TeamsEmblemIcon5ShortName,Skull Icon
+TeamsEmblemIcon6ShortName,MOAB Assassin Icon
+TeamsEmblemIcon7ShortName,Shuriken Icon
+TeamsEmblemIcon8ShortName,Alchemist Brew Icon
+TeamsEmblemIcon5Description,"Avast me hearties, set sail and plunder the territories!"
+TeamsEmblemIcon6Description,Strike fear into the hearts of MOABs everywhere.
+TeamsEmblemIcon7Description,Silent but deadly strikes are the hallmark of Teams with this icon.
+TeamsEmblemIcon8Description,Brew up a storm with this awesome Team icon.
+TeamsEmblemIcon9Name,Gwen Fire Icon
+TeamsEmblemIcon9ShortName,Gwen Fire Icon
+TeamsEmblemIcon9Description,This is Gwen's offering towards Team icons. I mean we shouldn't be surprised at this point should we? It's fire.
+TeamsEmblemIcon10Name,Quincy Arrows Icon
+TeamsEmblemIcon10ShortName,Quincy Arrows Icon
+TeamsEmblemIcon10Description,"Quincy's patented homing arrows, now in iconic form!"
+TeamsEmblemIcon11Name,Obyn Tree Icon
+TeamsEmblemIcon11ShortName,Obyn Tree Icon
+TeamsEmblemIcon11Description,See the forest AND the trees with this eco-friendly icon.
+TeamsEmblemIcon12Name,Biker Bones Icon
+TeamsEmblemIcon12ShortName,Biker Bones Thumbs Up Icon
+TeamsEmblemIcon12Description,Mr. flaming hot knuckle bones gives the thumbs up to your epic Team!
+BuildingPropWizardTowerName,Wizard Tower Building
+BuildingPropLighthouseName,Lighthouse Building
+FlyingPropPhoenixName,Flying Phoenix
+FlyingPropMiniAceName,Flying Mini-Ace
+WaterPropKrakenName,Kraken 
+WaterPropMiniSubName,Mini-sub
+BasePropKingName,Monkey King
+BasePropLighthouseKeeperName,Lighthouse Keeper
+BasePropCrashedMoabName,Crashed MOAB
+BasePropTrainingDummyName,Training Dummy
+BasePropCampfireName,Cozy Campfire
+BasePropTotemName,Tribal Totem
+BasePropSatelliteName,Mobile Satellite Vehicle
+BasePropTortoiseName,Tribal Tortoise
+BasePropBattleMonkeyName,Battle Monkey
+BuildingPropBattleTowerName,Base Tower Building
+BuildingPropWizardTowerShortName,Wizard Tower Building
+BuildingPropLighthouseShortName,Lighthouse Building
+FlyingPropPhoenixShortName,Flying Phoenix
+FlyingPropMiniAceShortName,Flying Mini-Ace
+WaterPropKrakenShortName,Kraken 
+WaterPropMiniSubShortName,Mini-sub
+BasePropKingShortName,Monkey King
+BasePropLighthouseKeeperShortName,Lighthouse Keeper
+BasePropCrashedMoabShortName,Crashed MOAB
+BasePropTrainingDummyShortName,Training Dummy
+BasePropCampfireShortName,Cozy Campfire
+BasePropTotemShortName,Tribal Totem
+BasePropSatelliteShortName,Mobile Satellite Vehicle
+BasePropTortoiseShortName,Tribal Tortoise
+BasePropBattleMonkeyShortName,Battle Monkey
+BuildingPropBattleTowerShortName,Base Tower Building
+BuildingPropWizardTowerDescription,Magical adventure awaits any team capable of funding this mystical base. [Main Building Slot]
+BuildingPropLighthouseDescription,Light the way for your whole team with this brightly lit main base. [Main Building Slot]
+FlyingPropPhoenixDescription,"Everyone wonders if it's actually a Wizard Monkey up there, but has anyone considered that maybe all Wizard Monkeys are just Phoenixes waiting to be reborn? [Air Slot]"
+FlyingPropMiniAceDescription,Let Monkey Ace watch over the skies for your team with this adorable mini-Ace. [Air Slot]
+WaterPropKrakenDescription,Release the Kraken! Dominate the waves with this surprisingly cute giant undersea creature. [Water Slot]
+WaterPropMiniSubDescription,Periscopes up! Scout out the area with the Mini-sub. [Water Slot]
+BasePropKingDescription,Welcome to our awesome new Monkey Ci... I mean Contested Territory! This land is up for grabs and infested with Bloons! Pop them and secure the land for your team. [Island Slot]
+BasePropLighthouseKeeperDescription,This wise old monkey tends the lighthouse and is always on the lookout for ships passing in the night. [Island Slot]
+BasePropCrashedMoabDescription,"A team of crack monkey scientists have already combed this wreckage for useful tech, so now it just lies there as a warning to other Bloons. [Island Slot]"
+BasePropTrainingDummyDescription,Keep all your Dart Monkeys on their toes with a Dr. Monkey certified 100% re-usable Training Dummy! [Island Slot]
+BasePropCampfireDescription,"Keep your team warm on chilly nights, or tell spooky stories about Contested Territories of yore next to the Campfire. [Island Slot]"
+BasePropTotemDescription,Protect your borders with this fearsome looking Tribal Totem. [Island Slot]
+BasePropSatelliteDescription,"Beam information directly down from space with this mobile satellite vehicle, ready to roll! [Island Slot]"
+BasePropTortoiseDescription,"Don't ask him if he has any tribal relatives, especially not turtles! [Island Slot]"
+BasePropBattleMonkeyDescription,"Contested Territory monkey, ready to go! [Island Slot]"
+BuildingPropBattleTowerDescription,Any adventure into Contested Territory needs a solid base. [Main Building Slot]
+Neutral,Neutral
+TilesCaptured,Tiles Captured:
+CTPointsEarnt,CT Points earned:
+TeamTrophiesEarnt,Team Trophies earned:
+RelicsUnlocked,Relics unlocked:
+EventEnded,Event Ended
+NextEventIn,Next event in:
+SecondsAgo,Seconds ago
+1MinuteAgo,1 minute ago
+MinutesAgo,{0} minutes ago
+1HourAgo,1 hour ago
+HoursAgo,{0} hours ago
+1DayAgo,1 day ago
+XDaysAgo,{0} days ago
+TeamSettingDisbandedTitle,Disbanded
+Incoming,Incoming
+Outgoing,Outgoing
+RoundsCount,Rounds: {0}
+Relics,Relics
+TeamFlair,Team Flair
+RefreshesIn,Refreshes in: {0}
+DailyPower,Daily Power
+EventRelic1,Event Relic 1
+EventRelic2,Event Relic 2
+EventRelic3,Event Relic 3
+Vote,Vote
+InventoryEmpty,Inventory Empty
+Blocked,Blocked
+ShowOnlineStatus,Show Online Status
+Invisible,Invisible
+NexusTitle,Creator Support
+NexusDescription,Support your favorite Bloons TD 6 creator by entering their creator code here. Any purchases you make in-game will support that creator as well as the Ninja Kiwi dev team!
+TimeAttackPowersDisabled,Powers are disabled in Time Attack mode.
+Funded,Funded
+UnlocksIn,Unlocks in: {0}
+TimeRemaining,Time remaining: {0}
+TeamInviteAlreadySent,Team invitation has already been sent
+Captured,Captured!
+DisabledFriendInvites,This player has friend invites disabled
+ItemFunded,Item Funded!
+Now,Now
+Players,Players
+LocalRewards,Local Rewards
+GlobalRewards,Global Rewards
+RewardsTop10,Top 10
+RewardsTop20,Top 20
+RewardsTop40,Top 40
+RewardsTop60,Top 60
+RewardsTopX,Top {0}
+Rank5th,5th
+Rank6th,6th
+TeamName,Team Name
+CTPoints,CT Points
+Contribute,Contribute
+ContributeTrophies,Contribute Trophies
+ColorblindEnabled,Colorblind mode enabled!
+ColorblindDisabled,Colorblind mode disabled
+Local,Local
+KickPending,Kick pending
+SentryParagonGreen,Green Sentry Paragon
+SentryParagonRed,Red Sentry Paragon
+SentryParagonBlue,Blue Sentry Paragon
+TeamManagement,Team Management
