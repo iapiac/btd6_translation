@@ -150,7 +150,7 @@ Gwendolin Level 1 Description,Estoure Bloons com o fogo da sua arma pirotécnica
 Gwendolin Level 2 Description,Poder de estouro ligeiramente aumentado por disparo.
 Gwendolin Level 3 Description,"Coquetel de Fogo: Lança um frasco de líquido inflamável, queimando Bloons que passem pela chama."
 Gwendolin Level 4 Description,Esquenta Aí - A cada segundo cria uma onda de jato de chamas que estoura Bloons e adiciona chamas aos ataques dos Macacos próximos.
-Gwendolin Level 5 Description,Poder de estouro aumentado.
+Gwendolin Level 5 Description,"Poder de estouro aumentado. 10% de aumento na velocidade de ataque e no raio de Anel de Fogo, Sinalizador e Sopro do Dragão."
 Gwendolin Level 6 Description,Ataques causam um efeito de queima no Bloon alvo.
 Gwendolin Level 7 Description,Esquenta Aí tem raio aumentado. Coquetel de Fogo é mais eficiente.
 Gwendolin Level 8 Description,Atira duas rajadas de fogo por disparo.
@@ -163,7 +163,7 @@ Gwendolin Level 14 Description,Coquetel de Fogo causa dano extra e incendeia Blo
 Gwendolin Level 15 Description,Velocidade de ataque aumentada.
 Gwendolin Level 16 Description,A Tempestade de Fogo tem duração aumentada e causa mais dano. Bloons Roxos não são mais imunes aos ataques de Gwendolin.
 Gwendolin Level 17 Description,Aquecer fortalece os macacos afetados para estourar 1 camada extra e causar +2 de dano a Bloons de Chumbo.
-Gwendolin Level 18 Description,Velocidade de ataque aumentada.
+Gwendolin Level 18 Description,"Velocidade de ataque aumentada. 20% de aumento na velocidade de ataque e no raio de Anel de Fogo, Sinalizador e Sopro do Dragão."
 Gwendolin Level 19 Description,Atira 3 rajadas de fogo por disparo.
 Gwendolin Level 20 Description,Tempestade de Fogo causa dano imensamente aumentado.
 ,
@@ -232,11 +232,11 @@ ObynGreenfoot Level 20 Description,Muralha de Árvores aguenta muito mais Bloons
 ,
 Ezili Level 1 Description,Ezili amaldiçoa Bloons com magia vodu obscura.
 Ezili Level 2 Description,Alcance aumentado.
-Ezili Level 3 Description,Parada Cardíaca: Impede qualquer Regeneração de acontecer a cada 6 segundos.
+Ezili Level 3 Description,"Parar o Coração: desacelera Bloons, permite estourar Roxos e impede qualquer regeneração por 10 segundos."
 Ezili Level 4 Description,O ataque principal de Ezili agora amaldiçoa múltiplos Bloons.
 Ezili Level 5 Description,Velocidade de ataque aumentada.
 Ezili Level 6 Description,O dano por tempo dura mais tempo e causa dano mais rápido.
-Ezili Level 7 Description,"Totem de Sacrifício: Um totem que dá detecção de Camuflagem, perfuração, velocidade de ataque e velocidade de projétil extras para Macacos próximos. Drena 10 vidas."
+Ezili Level 7 Description,"Totem de Sacrifício: Um totem que dá detecção de Camuflagem, perfuração, velocidade de ataque e velocidade de projétil extras para Macacos próximos, especialmente Macacos Magos. Drena 10 vidas."
 Ezili Level 8 Description,Os ataques de Ezili causam muito mais dano a Bloons Classe MOAB.
 Ezili Level 9 Description,"Os ataques de Ezili retiram as propriedades de Camuflagem, Regeneração e Fortificação dos Bloons não MOAB."
 Ezili Level 10 Description,Maldição MOAB: amaldiçoa um Bloon Classe MOAB que tomará dano por segundo até ser aniquilado.
@@ -282,8 +282,8 @@ Rallying Roar Ability Description,Todos os Macacos próximos estouram +1 camada 
 Big Squeeze Ability Description,"Pega um MOAB, BFB, DDT (se visível), ou ZOMG e o esmaga por 5 segundos."
 Brambles Ability Description,Cria um arbusto espinhoso na pista que pode estourar 50 Bloons.
 Wall of Trees Ability Description,"Invoca uma muralha de árvores na pista que destrói todos os Bloons que entram. Quando enchem, as árvores estouram dinheiro."
-Heartstopper Ability Description,Impede qualquer Regeneração de acontecer a cada 6 segundos.
-Sacrificial Totem Ability Description,"Um totem que dá detecção de Camuflagem, perfuração, velocidade de ataque e velocidade de projétil extras para Macacos próximos. Drena 10 vidas."
+Heartstopper Ability Description,Permite estourar Roxos e impede qualquer regeneração por 10 segundos.
+Sacrificial Totem Ability Description,"Um totem que dá detecção de Camuflagem, perfuração, velocidade de ataque e velocidade de projétil extras para Macacos próximos, especialmente Macacos Magos. Drena 10 vidas."
 MOAB Hex Ability Description,Coloca uma maldição em um Bloon Classe MOAB que tomará dano por segundo até ser aniquilado.
 ,
 //Hero Misc,
@@ -694,7 +694,7 @@ Long Range Darts Description,Faz o Macaco Dardo disparar mais longe que o normal
 Razor Sharp Shots Description,Estoura 2 Bloons extras por disparo.
 Very Quick Shots Description,Dispara 33% mais rápido!
 Enhanced Eyesight Description,Dispara ainda mais longe e detecta Camuflagem.
-Spike-o-pult Description,"Converte o Macaco Dardo numa Catapulta de Espinhos que lança uma grande bola espinhada no lugar de dardos. Bom alcance, mas velocidade de ataque mais lenta. Cada bola pode estourar muitos Bloons e quica em obstáculos."
+Spike-o-pult Description,Converte o Macaco Dardo numa Catapulta de Espinhos mais lenta que lança grandes bolas espinhadas. Cada bola pode estourar muitos Bloons e quica em obstáculos.
 Triple Shot Description,Dispara 3 dardos de uma vez ao invés de um.
 Crossbow Description,Usa uma Besta de longo alcance que pode estourar 3 camadas de Bloon a cada acerto.
 Juggernaut Description,Lança uma bola de espinhos gigante que estoura chumbo é ótima pra destruir cerâmica.
@@ -756,7 +756,7 @@ Permafrost Description,Bloons se movem lentamente após derretimento.
 Enhanced Freeze Description,Ataca mais rápido e congela por mais tempo.
 Larger Radius Description,Maior área de congelamento.
 Metal Freeze Description,Pode congelar e estourar Bloons de Chumbo e Camuflados.
-Deep Freeze Description,Congela através de duas camadas de Bloon.
+Deep Freeze Description,Congela uma cada extra e o congelamento dura mais tempo.
 Re-Freeze Description,Pode recongelar Bloons já congelados.
 Ice Shards Description,Fragmentos afiados voam quando Bloons congelados estouram.
 Arctic Wind Description,Aumenta muito a perfuração e ganha uma aura superfria que desacelera Bloons e congela águas próximas.
@@ -798,13 +798,13 @@ Supply Drop Description,Habilidade Descarga de Suprimentos: Deixa uma caixa chei
 Full Auto Rifle Description,Arma completamente automática com incrível poder de estouro.
 Cripple MOAB Description,MOABs ficam incapacitados por mais tempo e tomam dano extra de todos os outros ataques.
 Elite Sniper Description,A Descarga de Suprimentos dá muito mais dinheiro. Concede mira de elite e recarga mais rápida para todos os atiradores.
-Elite Defender Description,Uma vida perdida dá a esse Atirador velocidade de ataque x4 por um curto período de tempo em resposta. Também ataca mais rápido conforme os Bloons avançam mais na pista. Causa mais dano a todos os Bloons classe MOAB.
+Elite Defender Description,Dispara super-rápido e ainda mais rápido quanto mais longe os Bloons estiverem na pista. Ganha 4x velocidade de ataque brevemente ao perder vidas. Causa mais dano em Bloons classe MOAB.
 ,
 Longer Range Description,Aumenta o alcance do ataque.
 Barbed Darts Description,Os dardos do Sub podem estourar mais 3 Bloons.
 Twin Guns Description,Arma Dupla duplica velocidade de ataque. Melhora o Míssil Balístico e o Reator de Bloontônio.
 Advanced Intel Description,Possibilita disparos de longo alcance contra Bloons no raio de suas outras torres.
-Heat-tipped Darts Description,Dardos com pontas incandescentes possibilitam o estouro de Bloons Congelados e de Chumbo.
+Heat-tipped Darts Description,Dardos com pontas incandescentes permitem que o Macaco Sub estoure Bloons Congelados e de Chumbo.
 Airburst Darts Description,Dardos de Ar se dividem em três no impacto para maior poder de estouro. Melhora ainda mais o Reator de Bloontônio.
 Submerge and Support Description,"Adiciona a opção de mira submersa que revela permanentemente Bloons Camuflados no seu raio, mas não ataca enquanto submerso."
 Ballistic Missile Description,O míssil persegue o alvo dentro do alcance e causa dano extra em MOAB e Cerâmica.
@@ -826,7 +826,7 @@ Buccaneer-Destroyer Description,"Ataca super, super rapidamente!"
 Buccaneer-Cannon Ship Description,Adiciona um poderoso canhão que dispara poderosas bombas.
 Buccaneer-Merchantman Description,Gera dinheiro automaticamente a cada rodada.
 Buccaneer-Aircraft Carrier Description,Lança ondas de caças que atacam seus alvos e disparam mísseis contra Bloons classe MOAB.
-Buccaneer-Monkey Pirates Description,Adiciona 2 canhões ao navio e ataques de canhão causam mais dano. Habilidade Derrubar MOAB: arpoa um Bloon classe MOAB e o derruba.
+Buccaneer-Monkey Pirates Description,Adiciona 2 canhões ao navio e ataques causam mais dano. Habilidade Derrubar MOAB: arpoa um Bloon classe MOAB e o derruba.
 Buccaneer-Favored Trades Description,Ataca mais rápido e gera muito dinheiro por rodada. Macacos no alcance também possuem maior valor de venda.
 Buccaneer-Carrier Flagship Description,"Causa dano extra. Pode colocar outros macacos nos convés superiores do navio, aumenta a velocidade de ataque de todos os macacos aquáticos e Macacos Áses."
 Buccaneer-Pirate Lord Description,"Aumenta muito a velocidade de ataque para todos os ataques e pode atirar 3 ganchos de uma vez, saqueando dinheiro extra de cada Bloon classe MOAB eliminado."
@@ -874,11 +874,11 @@ Shockwave Description,"A onda de choque da explosão atordoa Bloons com o impact
 Heavy Shells Description,"Cápsulas pesadas causam mais danos a Bloons de Cerâmica, Chumbo, todos os Fortificados e todos os atordoados. Também estoura Bloons Pretos."
 Signal Flare Description,Bloons Camuflados estourados por sinalizadores perdem a camuflagem permanentemente.
 The Big One Description,"Explosões devastadoras estouram 7 camadas de Bloons cada, além de um aumento maior no dano de Parada Queimante."
-Artillery Battery Description,"Habilidade Bombardeio: libera um ataque de disparo rápido em uma área um pouco maior. O ataque principal melhora para 3 barris, causando ataques incrivelmente rápidos."
+Artillery Battery Description,"Habilidade Bombardeio: libera um ataque de disparo rápido em uma área um pouco maior. O ataque principal causa mais dano em Bloons BAD e chefes, e melhora para 3 barris, causando ataques incrivelmente rápidos."
 Shattering Shells Description,"Cápsulas destrutivas removem todas as propriedades de bloons especiais, com exceção dos maiores bloons."
 The Biggest One Description,"Estoura profundamente Bloons e camadas em uma área enorme, mais um poderoso dano de Parada Queimante."
-Pop and Awe Description,"Habilidade Estouro Fascinante: Chove explosões sobre toda a tela, estourando e imobilizando todos os Bloons por alguns segundos."
-Blooncineration Description,"Coisa superquente derrete 5 camadas de Bloon em cada disparo, queima MOAB causando dano extra e remove a camuflagem de DDT."
+Pop and Awe Description,"Habilidade Estouro Fascinante: Chove explosões sobre toda a tela, danificando e imobilizando todos os Bloons por alguns segundos. Todas as Baterias de Artilharia causam mais dano em Bloons BAD e chefes. O ataque principal causa dano extra a Bloons atordoados."
+Blooncineration Description,Coisa superquente derrete 5 camadas de Bloon em cada disparo e queima Bloons classe MOAB causando dano extra.
 ,
 Focused Firing Description,Aumenta a precisão da Arma de Dardos.
 Advanced Targeting Description,Permite ao Atirador de Dardos atingir Bloons Camuflados.
@@ -918,7 +918,7 @@ Super Range Description,Supermacacos precisam de um Alcance Superior.
 Knockback Description,Os Bloons recuam ou são desacelerados após cada acerto.
 Plasma Blasts Description,O plasma vaporiza tudo o que toca.
 Epic Range Description,"Por que se contentar com super, quando se pode ter ÉPICO?"
-Ultravision Description,Permite que o Supermacaco dispare um pouco mais longe e veja Bloons Camuflados.
+Ultravision Description,"Permite que o Supermacaco dispare um pouco mais longe, e veja e cause mais dano a Bloons Camuflados."
 Sun Avatar Description,Canaliza poder do núcleo do Sol.
 Robo Monkey Description,"Metade Supermacaco, metade robô assassino mortal. Dispara duas armas de vez e pode causar crítico!"
 Dark Knight Description,"Lâminas Obscuras aumentam o recuo, perfuram e causam dano extra a Bloons classe MOAB. Ganha a habilidade Teleporte Sombrio para mudar para uma localização próxima."
@@ -951,7 +951,7 @@ Acid Pool Description,"Se não tiver Bloons por perto, o Alquimista pode encharc
 Acidic Mixture Dip Description,"Lança uma útil poção nos Macacos próximos, permitindo que eles possam estourar Bloons de Chumbo, e causar dano extra a Cerâmica e Bloons classe MOAB. Acaba após alguns ataques."
 Perishing Potions Description,Poções de ataque causam mais dano a Bloons classe MOAB e retira Fortificação de Bloons menores. Também fortalece preparos e estimulantes.
 Alchemist Faster Throwing Description,Joga poções e ataca mais rápido.
-Berserker Brew Description,"Mistura especial dá dano, alcance e velocidade de ataque extra aos macacos. Dura mais."
+Berserker Brew Description,"Joga um preparo especial em Macacos próximos dando a eles dano, alcance e velocidade de ataque extras."
 Unstable Concoction Description,Envolve Bloons Classe MOAB numa substância explosiva que causa grande explosão quando estoura.
 Lead to Gold Description,"Transforma Bloons de Chumbo em OURO! Solventes especiais causam dano extra a Bloons de Chumbo, destruindo-os em um disparo e gerando dinheiro."
 Stronger Stimulant Description,Poção Berserker extra forte que tem efeitos ainda mais poderosos sobre o alvo. Dura ainda mais.
@@ -1870,7 +1870,7 @@ RapidRazorsDescription,Lâminas Rotoras estouram Bloons mais rápido.
 BudgetBattery,Promoção de Bateria
 BudgetBatteryDescription,Bateria de Artilharia tem custo reduzido em 600.
 PaintStripper,Remove Tintas
-PaintStripperDescription,Cápsulas de morteiro explosivas removem Camuflagem de Bloons DDT.
+PaintStripperDescription,Cápsulas de morteiro explosivas removem a blindagem de Bloons DDT.
 CheaperMaiming,Esmagamento Mais Barato
 CheaperMaimingDescription,Custo do Esmaga MOAB reduzido em 1000.
 ChargedChinooks,Chinooks Carregados
@@ -2638,17 +2638,17 @@ Adora Level 5 Description,Raios Divinos perfuram mais Bloons.
 Adora Level 6 Description,Dispara 3 Raios Divinos de vez.
 Adora Level 7 Description,Sacrifício de Sangue: Sacrifica uma torre alvo para conceder grandes quantidades de XP à Adora e impulsiona o alcance e cadência de tiro dela por um curto período.
 Adora Level 8 Description,Dispara 4 Raios Divinos de vez.
-Adora Level 9 Description,Alcance aumentado.
+Adora Level 9 Description,Aumento no alcance e no dano contra Bloons Fortificados.
 Adora Level 10 Description,Bola de Luz: Cria uma poderosa bola de energia que ataca os Bloons.
 Adora Level 11 Description,Adora aumenta a velocidade de ataque.
 Adora Level 12 Description,Dispara 5 Raios Divinos de vez.
-Adora Level 13 Description,Raios Divinos perfuram ainda mais Bloons.
+Adora Level 13 Description,Raios Divinos perfuram ainda mais Bloons. Dano aumentado contra Bloons Fortificados.
 Adora Level 14 Description,Dispara 6 Raios Divinos de vez.
 Adora Level 15 Description,"Raios Divinos queimam uma cama extra dos Bloons, além disso Bola de Luz causa mais dano."
 Adora Level 16 Description,Longo Braço da Luz se torna ainda mais mortal.
 Adora Level 17 Description,Adora aumenta a velocidade de ataque ainda mais.
 Adora Level 18 Description,Dispara 8 Raios Divinos de vez.
-Adora Level 19 Description,Alcance aumentado.
+Adora Level 19 Description,Aumento no alcance. Dano aumentado contra Bloons Fortificados.
 Adora Level 20 Description,"Bola de Luz é muito melhorado, além de ter maior cadência de disparos, alcance e duração de vantagens de Sacrifícios."
 Carved,Entalhado
 BloodyPuddles,Lamaçal Terrível
@@ -2700,7 +2700,7 @@ WolfpackQuincySkinName,Quincy da Matilha
 WolfpackQuincySkinDescription,"De tempos antigos e selvagens, quando todos os caçadores eram fortes e a matilha ainda mais forte, ele é Quincy, ancestral de Quincy."
 Infernal,Infernal
 DownloadButton,Baixar
-DownloadDescription,Baixando arquivos adicionais. Wi-Fi recomendado. Tamanho dos dados {0} MB
+DownloadDescription,É preciso atualizar os arquivos antes de jogar. Wi-fi recomendado. Tamanho dos dados: {0} MB
 ViewCollectionButton,Ver coleção
 ViewInventoryButton,Ver inventário
 CollectionDescription,Macacos Insta permanecerão visíveis na sua coleção mesmo depois de usados.
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] para usar Teleporte Sombrio no alcance
 DarkChampionDarkshift,[I] para usar Teleporte Sombrio para qualquer local válido
 SmallTowersMode,Torres Macacos Pequenos
 BigTowersMode,Torres Macacos Grandes
-UpdatePopupTitle,Atualização 32!
-UpdatePopupDescription,"Atualização épica de Territórios Contestados!\n• Novo evento imenso: Territórios Contestados - capture espaços de outras equipes para comandar os placares!\n • Equipes! Junte seus amigos e forme uma equipe invencível para conquistar o Território Contestado\n• Nova Excelência: Mestre Construtor\n• Novo visual de herói: Voidora\n• Novo mapa intermediário: Pedreira\n• Itens da loja de troféus, melhorias de qualidade de vida, mudanças de equilíbrio e muito mais!"
+UpdatePopupTitle,Atualização 33!
+UpdatePopupDescription,"Grande atualização de conteúdo!\n• Libere o incrível Sombrioplano Golias, a Excelência do Macaco Ás!\n• Cultive um pouco de poder estourador de Bloons no mapa intermediário, Jardim Coberto! Criado pelo vencedor da competição de mapas da comunidade SuperPsou.\n• Assombre os salões do assustador novo mapa avançado, Mansão da Meia-Noite!\n• Itens da loja de Troféus, melhorias de qualidade de vida, mudanças de equilíbrio e muito mais!"
 ResetDailyChest,Zerar Baú Diário
 JukeboxName,Jukebox
 EnableFunction,Habilitar
@@ -4413,11 +4413,11 @@ GameUIProfileAvatar59Description,Você pode ver o amor nos olhos dele. Agora voc
 GameUIProfileAvatar60Name,Avatar Striker Jones
 GameUIProfileAvatar60ShortName,Avatar Striker Jones
 GameUIProfileAvatar60Description,Striker Jones se apresentando! Mostre como está preparado pra vencer com saudações do seu macaco atirador preferido.
-GameUIProfileBanner13Name,Faixa da Chegada
-GameUIProfileBanner13ShortName,Faixa de Perfil da Chegada
+GameUIProfileBanner13Name,Faixa de Perfil da Chegada
+GameUIProfileBanner13ShortName,Faixa da Chegada
 GameUIProfileBanner13Description,Faixa vencedora por betapotata
-GameUIProfileBanner14Name,Faixa Sob as Águas
-GameUIProfileBanner14ShortName,Faixa de Perfil Sob as Águas
+GameUIProfileBanner14Name,Faixa de Perfil Sob as Águas
+GameUIProfileBanner14ShortName,Faixa Sob as Águas
 GameUIProfileBanner14Description,Faixa vencedora por Cyliia
 GameUIMusicTrackMusicSunshineFiestaMixName,Jukebox: Serenata à Luz do Sol - Fiesta Remix
 GameUIMusicTrackMusicSunshineFiestaMixShortName,Sunshine - Fiesta
@@ -4588,7 +4588,7 @@ TeamBannersTitle,Bandeiras
 TeamGeneralTitle,Geral
 TeamSettingPublicTitle,Público
 TeamSettingPrivateTitle,Privado
-TeamSettingClosedTitle,Fechado
+TeamSettingClosedTitle,Apenas convidados
 TeamJoin,Entrar
 TeamApply,Candidatar-se
 RecentWin,Vitória recente:
@@ -4600,8 +4600,8 @@ Tile,Espaço: {0}
 RelicTile,Espaço de Relíquia
 BannerTile,Espaço de Bandeira
 BonusCTPoints,Pontos de TC bônus!
-DailyRelics,Relíquias Diárias
-HeldRelics,Relíquias possuídas
+DailyRelics,Poder diário e relíquias de evento
+HeldRelics,Relíquias capturadas
 Tickets,Tickets:
 PurchaseTickets,Comprar ticket
 MoreTicketsIn,Mais tickets em:
@@ -4728,7 +4728,7 @@ RelicExtraEmpoweredDescription,Seu herói começa o jogo com 3 níveis extras (a
 RelicBoxOfChocolatesDescription,Comece cada partida com 100 vidas extras.
 RelicBoxOfMonkeyDescription,Comece cada partida com um macaco grátis no valor de $500 ou menos para posicionamento inicial não modificado.
 RelicMarchingBootsDescription,"Em partidas de contagem restrita, dá aos jogadores +1 de contagem máxima para cada torre em seu arsenal, ou +4 de contagem máxima total por partida."
-RelicHeroBoostDescription,Heróis ganham XP 10% mais rápido em cada partida.
+RelicHeroBoostDescription,Heróis ganham XP 15% mais rápido em cada partida.
 RelicBiggerBloonSabotageDescription,Todos os Bloons classe MOAB surgem com 15% menos vida e se movem em 95% da velocidade.
 RelicRoundingUpDescription,Ganhe +$20 ao final de cada rodada.
 RelicManaBulwarkDescription,Cria um escudo que absorve até 50 vidas (acumula com Escudo de Mana em Espaços Comuns).
@@ -4742,11 +4742,11 @@ RelicRoyalTreatmentDescription,Todos os ataques podem estourar Bloons Roxos.
 RelicHardBakedDescription,Todos os ataques causam +1 de dano em Bloons de Cerâmica.
 RelicFortifriedDescription,Todos os ataques causam +1 de dano em Bloons Fortificados.
 RelicMoabClashDescription,Todos os ataques causam +3 de dano em Bloons classe MOAB.
-RelicCamoFloggedDescription,Todos os ataques causam +1 de dano em Bloons Camuflados.
+RelicCamoFloggedDescription,Todos os ataques causam +3 de dano em Bloons Camuflados.
 RelicBrokenHeartDescription,Todos os ataques causam +1 de dano em Bloons Regeneradores.
-RelicGoingTheDistanceDescription,Todos os macacos ganham alcance +10%.
+RelicGoingTheDistanceDescription,Todos os macacos ganham alcance +20%.
 RelicHeartlessDescription,A velocidade de regeneração dos Bloons Regeneradores é reduzida em 25%.
-RelicFlintTipsDescription,Projéteis afiados adicionam fogo a todos os Bloons que danificam (1 de dano a cada 2 s por um total de 4 s).
+RelicFlintTipsDescription,"Projéteis afiados adicionam fogo a todos os Bloons que danificam (1 de dano a cada 2,5 s por um total de 5 s)."
 RelicAbilitizedDescription,Todas as recargas de habilidade ativas de todos os macacos reduzidas em 10%.
 RelicAirAndSeaDescription,"Ás, Helicóptero, Bucaneiro e Submarino têm custos de posicionamento e melhoria reduzidos em 10% e recarga melhorada em 5%."
 RelicElDoradoDescription,Todas as recompensas de Dinheiro de Macaco e Troféus de Equipe por vitórias em partidas aumenta em 25% (mínimo +1).
@@ -4755,7 +4755,7 @@ RelicMonkeyShieldMark2Description,"Por 2 horas após a captura, o espaço não p
 RelicMonkeyShieldMark3Description,"Por 3 horas após a captura, o espaço não pode ser atacado por equipes adversárias. Pontuação melhorada irá reiniciar."
 RelicPsiVisionDescription,Veja os detalhes completos para todos os espaços no mapa.
 RelicOpenSeasonDescription,Ataque qualquer espaço no mapa.
-RelicCamoTrapDescription,Concede o uso de 2 poderes Armadilha de Camuflados por partida.
+RelicCamoTrapDescription,Concede o uso de 1 poder Armadilha de Camuflados por partida.
 RelicThriveDescription,Concede o uso de 2 poderes Prosperar por partida.
 RelicSuperMonkeyStormDescription,Concede o uso de 2 poderes SMS por partida.
 RelicMonkeyBoostDescription,Concede o uso de 3 poderes Impulso de Macaco por partida.
@@ -4792,7 +4792,7 @@ TeamBrowserTitle,Navegador de equipes
 TeamBrowserSearchField,Insira o nome da equipe...
 TeamBrowserSearchHideFull,Ocultar equipes cheias
 TeamBrowserSearchHidePrivate,Ocultar equipes privadas
-TeamBrowserSearchHideClosed,Ocultar equipes fechadas
+TeamBrowserSearchHideClosed,Ocultar equipes só para convidados
 TeamEditApplyAll,Aplicar tudo
 TeamScore,Pontuação: {0}
 TeamRemoveMember,Tem certeza que deseja remover este membro?
@@ -4821,7 +4821,7 @@ TeamMateSetScore,Um membro da equipe definiu uma nova pontuação a superar!
 AnotherTeamSetScore,Outra equipe definiu uma nova pontuação a superar!
 FriendScreenErrorTeamInviteAlreadyMember,Este jogador já está na sua equipe
 TotalTeamScore,Pontuação da equipe
-CTRulesInfo,"Boas-vindas aos Territórios Contestados! Trabalhe em conjunto com sua equipe, capture espaços, suba nos placares e ganhe grandes recompensas!\n\n• Tickets de captura são usados apenas se você capturar um espaço. Eles recarregam a cada 24 horas.\n• Tickets de captura não usados vão para um estoque de tickets que pode ser usado por outros membros da equipe no dia seguinte.\n• Uma vez capturado, pontuações de espaços reduzirão lentamente com o tempo, até que o espaço se torne neutro após 24 horas.\n• Pontos de TC são obtidos ao capturar um espaço e a cada hora que você continua com um espaço. Pontos de TC decidem sua posição e a de sua equipe nos placares, então capture espaços sempre que puder!\n• Espaços de Bandeira são mais difíceis, mas dão muito mais Pontos de TC.\n• Espaços de Relíquia dão à sua equipe acesso a poderosos conhecimentos de relíquia que ajudarão você ao capturar espaços.\n• O progresso de espaços é salvo a cada 20 rodadas e você só pode ter um jogo salvo em andamento por vez.\n• Vote em quais relíquias você gosta mais na loja de troféu de equipe e depois escolha quais relíquias específicas levar na batalha na página pré-jogo."
+CTRulesInfo,"Boas-vindas aos Territórios Contestados! Trabalhe em conjunto com sua equipe, capture espaços, suba nos placares e ganhe grandes recompensas!\n\n• Tickets de captura são usados apenas se você capturar um espaço. Eles recarregam a cada 24 horas.\n• Tickets de captura não usados vão para um estoque de tickets que pode ser usado por outros membros da equipe no dia seguinte. Tickets de equipe não contribuem para posições no placar pessoal.\n• Uma vez capturado, pontuações de espaços reduzirão lentamente com o tempo, até que o espaço eventualmente se torne neutro.\n• Pontos de TC são obtidos ao capturar um espaço e a cada hora que você continua com um espaço. Pontos de TC decidem sua posição e a de sua equipe nos placares, então capture espaços sempre que puder!\n• Espaços de Bandeira são mais difíceis, mas dão muito mais Pontos de TC.\n• Espaços de Relíquia dão à sua equipe acesso a poderosos conhecimentos de relíquia que ajudarão você ao capturar espaços.\n• O progresso de espaços é salvo a cada 20 rodadas e você só pode ter um jogo salvo em andamento por vez."
 TeamTrophyStoreRulesInfo,"Esta é a loja de troféus da equipe, onde você pode votar em relíquias de TC liberadas, dar fundos para poderes diários, relíquias de evento e estilo da equipe.\n• Poderes diários ficam disponíveis para liberar a cada dia durante o evento de TC e uma vez que os fundos alcancem o necessário, podem ser usados pela equipe inteira naquele dia.\n• Relíquias de evento ficam disponíveis ao longo do evento de TC e quando os fundos alcançarem o necessário, podem ser utilizadas pelo resto do evento. Elas são separadas das relíquias liberadas pelos Espaços de Relíquia.\n• Capture Espaços de Relíquia e depois vote em seus conhecimentos de relíquia preferidos liberados neste evento. As 7 relíquias mais votadas ficarão disponíveis para escolha em seu arsenal final de 4 relíquias.\n• Estilo da equipe recebe fundos da equipe inteira, e uma vez que o valor seja alcançado, é liberado permanentemente para a sua equipe. Jogadores saindo da equipe não levam o estilo da equipe com eles."
 TeamsBanner1Name,Bandeira Macacos no Espaço
 TeamsBanner2Name,Bandeira Heróis Aliados
@@ -4912,22 +4912,22 @@ BasePropSatelliteShortName,Veículo de Satélite Móvel
 BasePropTortoiseShortName,Tartaruga Tribal
 BasePropBattleMonkeyShortName,Macaco de Batalha
 BuildingPropBattleTowerShortName,Construção Torre Básica
-BuildingPropWizardTowerDescription,Uma aventura mágica aguarda qualquer equipe capaz de bancar essa base mística.
-BuildingPropLighthouseDescription,Ilumine o caminho para sua equipe inteira com essa base principal bem iluminada.
-FlyingPropPhoenixDescription,"Todo mundo se pergunta se é mesmo um Macaco Mago lá em cima, mas alguém já pensou que talvez todos os Macacos Magos sejam só Fênixes esperando pra renascer?"
-FlyingPropMiniAceDescription,Deixe o Macaco Ás vigiar os céus para sua equipe com esse adorável Mini-Ás.
-WaterPropKrakenDescription,Libere o Kraken! Domine as ondas com essa criatura marinha gigante surpreendentemente fofa.
-WaterPropMiniSubDescription,Levantar periscópios! Vasculhe a área com o Mini-Sub.
-BasePropKingDescription,"Dê boas-vindas ao novo macaco... Digo, Território Contestado! Esse território está disponível e infestado de Bloons! Estoure-os e garanta esse território para sua equipe."
-BasePropLighthouseKeeperDescription,Este sábio macaco cuida do farol e está sempre de olho em navios passando à noite.
-BasePropCrashedMoabDescription,"Uma equipe de macacos cientistas já vasculharam esses destroços em busca de algo útil, então agora ele só fica ali como aviso para outros Bloons."
-BasePropTrainingDummyDescription,"Mantenha todos os seus Macacos Dardos atentos com um boneco de treinamento 100% reutilizável, certificado pelo Dr. Macaco."
-BasePropCampfireDescription,Mantenha sua equipe aquecida nas noites frias ou conte histórias assustadoras sobre Territórios Contestados de antigamente ao lado da fogueira.
-BasePropTotemDescription,Proteja suas fronteiras com esse medonho totem tribal.
-BasePropSatelliteDescription,"Envie informação diretamente do espaço para este veículo de satélite móvel, pronto pra seguir!"
-BasePropTortoiseDescription,"Não pergunte se ele tem algum parente tribal, especialmente não tartarugas!"
-BasePropBattleMonkeyDescription,"Macaco de Território Contestado, pronto pra ação!"
-BuildingPropBattleTowerDescription,Toda aventura em um Território Contestado requer uma base sólida.
+BuildingPropWizardTowerDescription,Uma aventura mágica aguarda qualquer equipe capaz de bancar essa base mística. [Espaço de construção principal]
+BuildingPropLighthouseDescription,Ilumine o caminho para sua equipe inteira com essa base principal bem iluminada. [Espaço de construção principal]
+FlyingPropPhoenixDescription,"Todo mundo se pergunta se é mesmo um Macaco Mago lá em cima, mas alguém já pensou que talvez todos os Macacos Magos sejam só Fênixes esperando pra renascer? [Espaço de ar]"
+FlyingPropMiniAceDescription,Deixe o Macaco Ás vigiar os céus para sua equipe com esse adorável Mini-Ás. [Espaço de ar]
+WaterPropKrakenDescription,Libere o Kraken! Domine as ondas com essa criatura marinha gigante surpreendentemente fofa. [Espaço de água]
+WaterPropMiniSubDescription,Levantar periscópios! Vasculhe a área com o Mini-Sub. [Espaço de água]
+BasePropKingDescription,"Dê boas-vindas ao novo macaco... Digo, Território Contestado! Esse território está disponível e infestado de Bloons! Estoure-os e garanta esse território para sua equipe. [Espaço de ilha]"
+BasePropLighthouseKeeperDescription,Este sábio macaco cuida do farol e está sempre de olho em navios passando à noite. [Espaço de ilha]
+BasePropCrashedMoabDescription,"Uma equipe de macacos cientistas já vasculharam esses destroços em busca de algo útil, então agora ele só fica ali como aviso para outros Bloons. [Espaço de ilha]"
+BasePropTrainingDummyDescription,"Mantenha todos os seus Macacos Dardos atentos com um boneco de treinamento 100% reutilizável, certificado pelo Dr. Macaco. [Espaço de ilha]"
+BasePropCampfireDescription,Mantenha sua equipe aquecida nas noites frias ou conte histórias assustadoras sobre Territórios Contestados de antigamente ao lado da fogueira. [Espaço de ilha]
+BasePropTotemDescription,Proteja suas fronteiras com esse medonho totem tribal. [Espaço de ilha]
+BasePropSatelliteDescription,"Envie informação diretamente do espaço para este veículo de satélite móvel, pronto pra seguir! [Espaço de ilha]"
+BasePropTortoiseDescription,"Não pergunte se ele tem algum parente tribal, especialmente não tartarugas! [Espaço de ilha]"
+BasePropBattleMonkeyDescription,"Macaco de Território Contestado, pronto pra ação! [Espaço de ilha]"
+BuildingPropBattleTowerDescription,Toda aventura em um Território Contestado requer uma base sólida. [Espaço de construção principal]
 Neutral,Neutro
 TilesCaptured,Espaços capturados:
 CTPointsEarnt,Pontos de TC obtidos:
@@ -4972,22 +4972,149 @@ Now,Agora
 Players,Jogadores
 LocalRewards,Recompensas locais
 GlobalRewards,Recompensas globais
-RewardsTop10,10 melhores
-RewardsTop20,20 melhores
-RewardsTop40,40 melhores
-RewardsTop60,60 melhores
-RewardsTopX,{0} melhores
+RewardsTop10,Melhores 10
+RewardsTop20,Melhores 20
+RewardsTop40,Melhores 40
+RewardsTop60,Melhores 60
+RewardsTopX,Melhores {0}
 Rank5th,5º
 Rank6th,6º
-TeamName,Nome do time
-CTPoints,Pontos CT
+TeamName,Nome da equipe
+CTPoints,Pontos de TC
 Contribute,Contribuir
-ContributeTrophies,Contribuir com troféus
-ColorblindEnabled,Modo daltônico ativado!
-ColorblindDisabled,Modo daltônico desativado
+ContributeTrophies,Contribuir troféus
+ColorblindEnabled,Modo daltônico habilitado!
+ColorblindDisabled,Modo daltônico desabilitado.
 Local,Local
-KickPending,Remoção pendente
-SentryParagonGreen,Paragon Sentinela Verde
-SentryParagonRed,Paragon da Sentinela Vermelha
-SentryParagonBlue,Paragon Sentinela Azul
+KickPending,Expulsão pendente
+SentryParagonGreen,Torre Paradigmática Verde
+SentryParagonRed,Torre Paradigmática Vermelha
+SentryParagonBlue,Torre Paradigmática Azul
 TeamManagement,Gerenciamento de equipe
+ERR_FEATURE_TEMPORARILY_UNAVAILABLE,"Esta função está indisponível porque sua conta foi marcada. Para mais informações, visite https://ninja.kiwi/ffgpd7"
+PlayerWillBeRemoved,O jogador será removido da equipe quando o atual evento de TC terminar.
+Epic login,"Fazendo login na conta da Epic, verificando permissões"
+FriendScreenErrorTeamInviteMaxInvitesSent,"Número máximo de convites enviados, tente novamente mais tarde."
+CantJoinTeamFromSameCT,Incapaz de se juntar a uma equipe da mesma instância de TC que esteve por último.
+RemovedFromTeam,Você foi removido da sua equipe. Junte-se a outra equipe e tente novamente.
+TileNoLongerAccessible,Este espaço não está mais acessível. Atualize o TC e tente novamente.
+CTTilesHeld,Espaços mantidos
+CTPointsProjected,Projeção
+ConfirmCancelRequest,Tem certeza que deseja cancelar sua solicitação?
+CouchCoop,Cooperativo local
+TeamTicketUsed,Ticket de equipe usado
+PersonalTicketUsed,Ticket pessoal usado
+TeamScreenCodeHidden,Código de equipe oculto
+ERR_ANOTHER_REQUEST_PENDING,Outra solicitação pendente
+QuickJoinSearchForTeam,Procurando uma equipe para entrar...
+QuickJoinJoiningTeam,Entrando em uma equipe...
+QuickJoinCancel,Cancelando...
+MidnightMansion,Mansão da Meia-Noite
+CoveredGarden,Jardim Coberto
+MonkeyAce Paragon,Sombrioplano Golias
+MonkeyAce Paragon Description,Uma sombra voadora de escuridão significa obliteração de Bloons.
+CreateOrJoinTeamLeaveFirst,Você já está em uma equipe.
+TeamMsgBannerTileLost,Um dos seus Espaços de Bandeira foi capturado por {0}. Reconquiste-o já!
+CTPlayerPopupNoData,Entre no TC para carregar esses dados
+HeroesJoanOfArcAdoraPetDragonName,Pet Dragão Joana d'Arc
+HeroesJoanOfArcAdoraPetDragonShortName,Pet Dragão Joana d'Arc
+HeroesJoanOfArcAdoraPetDragonDescription,Você não precisa ser uma santa pra ver o quão mais divertido o jogo fica com esse dragão dourado bebê ao seu lado. Apenas Adora Joana d'Arc.
+TowerPetMonkeyAceDragonflyName,Pet Libélula Macaco Ás
+TowerPetMonkeyAceDragonflyShortName,Pet Libélula Ás
+TowerPetMonkeyAceDragonflyDescription,A ágil libélula de estimação do Macaco Ás voa pela pista para mantê-la pronta para o retorno vitorioso do Ás!
+BloonsDDTSkinSpiderName,DDT Aranha
+BloonsDDTSkinSpiderShortName,DDT Aranha
+BloonsDDTSkinSpiderDescription,Faça o DDT parecer uma aranha correndo pela pista. Agora você vê... Agora é fim de jogo! Item de colecionador por tempo limitado!
+CoopEmoteAnimationPsighName,Reação Psuspiro
+CoopEmoteAnimationPsighShortName,Psuspiro
+CoopEmoteAnimationPsighDescription,"O Psuspiro transmite telepaticamente essa combinação sutil de decepção, incômodo e resignação. Estamos de vendo, jogador 3."
+GameUIProfileBanner17Name,Bandeira de Perfil Grande Mestre Ninja
+GameUIProfileBanner17ShortName,Bandeira Grande Mestre Ninja
+GameUIProfileBanner17Description,Bandeira vencedora por LordTeddington
+GameUIProfileBanner18Name,Bandeira de Perfil Espuma de Engenheiro
+GameUIProfileBanner18ShortName,Bandeira Espuma de Engenheiro
+GameUIProfileBanner18Description,Bandeira vencedora por DREAD_LEAD
+GameUIPowerSkinGlueTrapHoneyTrapName,Poder Personalizado - Armadilha de Cola Mel de Abelha
+GameUIPowerSkinGlueTrapHoneyTrapShortName,Armadilha Mel de Abelha
+GameUIPowerSkinGlueTrapHoneyTrapDescription,Até um Bloon desacelera quando está coberto de abelhas!
+GameUIPowerSkinBananaFarmerBananaCostumeName,Poder Personalizado - Traje de Banana do Fazendeiro de Bananas
+GameUIPowerSkinBananaFarmerBananaCostumeShortName,Traje do Fazendeiro de Bananas
+GameUIPowerSkinBananaFarmerBananaCostumeDescription,"Por acaso existe isso de bananas demais? ""Claro que não!"" diz o Fazendeiro de Bananas. Pegue o traje de banana pra tornar o Fazendeiro de Bananas um pouco mais embananado."
+GameUIProfileAvatar63Name,Avatar Personalizado - O Grito
+GameUIProfileAvatar63ShortName,Avatar O Grito
+GameUIProfileAvatar63Description,Só pode ter sido pintado por um macaco louco. Item de colecionador por tempo limitado!
+GameUIProfileBanner19Name,Bandeira de Perfil de Retalhos
+GameUIProfileBanner19ShortName,Bandeira de Retalhos
+GameUIProfileBanner19Description,Aconchegue-se embaixo de uma manta de retalhos com uma xícara de chocolate quente... ou apenas equipe essa bandeira aconchegante.
+GameUIProfileBanner20Name,Bandeira de Perfil Raios Solares
+GameUIProfileBanner20ShortName,Bandeira Raios Solares
+GameUIProfileBanner20Description,Mostre suas estratégias brilhantes ainda mais com essa bandeira ensolarada.
+GameUIProfileBanner21Name,Bandeira de Perfil Explosão Estelar
+GameUIProfileBanner21ShortName,Bandeira Explosão Estelar
+GameUIProfileBanner21Description,"Alguns acreditam que estrelas são bolas de gás distantes, tão grandes que sua enorme gravidade gera fusão nuclear em seus núcleos. Tudo o que sabemos é que são bonitas e brilhantes."
+GameUIProfileBanner22Name,Bandeira de Perfil Corredor Assombrado
+GameUIProfileBanner22ShortName,Bandeira Corredor Assombrado
+GameUIProfileBanner22Description,Aterrorize seu perfil com a Bandeira de Perfil Corredor Assombrado. Arranhões sinistros e retratos torturados para lamentar ou celebrar o Halloween. Item de colecionador por tempo limitado!
+GameUIProfileAvatar64Name,Avatar Personalizado - Miolos de Macaco
+GameUIProfileAvatar64ShortName,Avatar Miolos de Macaco
+GameUIProfileAvatar64Description,"Uma figura decrépita coberta de bandagens, buscando alguns deliciosos MIOLOS! Item de colecionador por tempo limitado!"
+TeamsBanner7Name,Bandeira Frenesi de Pet
+TeamsBanner7ShortName,Bandeira Frenesi de Pet
+TeamsBanner7Description,É uma divertida festa de pets! Equipe esta bandeira para comemorar os pets do Bloons TD 6!
+TeamsBanner8Name,Bandeira de Território Contestado
+TeamsBanner8ShortName,Bandeira de Território Contestado
+TeamsBanner8Description,Equipe esta bandeira para mostrar seu comprometimento em capturar espaços hexagonais. Vermelho vs. Azul nunca esteve tão bonito.
+TeamsEmblemIcon13Name,Ícone Kiwi Kung Fu
+TeamsEmblemIcon13ShortName,Ícone Kiwi Kung Fu
+TeamsEmblemIcon13Description,Surpreenda seus oponentes com uma voadora do seu pássaro terrestre preferido.
+TeamsEmblemIcon14Name,Ícone do Olho que Tudo Vê
+TeamsEmblemIcon14ShortName,Ícone do Olho que Tudo Vê
+TeamsEmblemIcon14Description,Equipe este ícone de equipe e seus oponentes desconfiaram de cada movimento que fizerem.
+TeamsEmblemFrame10Name,Moldura Pergaminho Ninja
+TeamsEmblemFrame10ShortName,Moldura Pergaminho Ninja
+TeamsEmblemFrame10Description,Uma moldura para mostrar a dedicação da sua equipe à antiga arte dos ninjas.
+TeamsEmblemFrame11Name,Moldura de Maquinação
+TeamsEmblemFrame11ShortName,Moldura de Maquinação
+TeamsEmblemFrame11Description,Mostre o conhecimento em estourar Bloons superior da sua equipe com a Moldura de Maquinação.
+BasePropPirateCrewMonkeyName,Tripulação Pirata
+BasePropPirateCrewMonkeyShortName,Tripulação Pirata
+BasePropPirateCrewMonkeyDescription,Yar! Receba esse marujo na sua base do Território Contestado e as outras equipes vão dar meia-volta com a vela entre as pernas. [Espaço de ilha]
+BasePropTelescopeName,Telescópio Refrator
+BasePropTelescopeShortName,Telescópio Refrator
+BasePropTelescopeDescription,"Contemple as maravilhas do universo, ou apenas faça as equipes adversárias acharem que você espiou o caminho para a vitória. [Espaço de ilha]"
+BuildingPropCastleName,Construção Castelo Fortificado
+BuildingPropCastleShortName,Construção Castelo Fortificado
+BuildingPropCastleDescription,Reine sobre sua ilha e faça outras equipes jurarem lealdade com esta magnífica peça para sua base. [Espaço de construção principal]
+WaterPropMiniPirateBoatName,Mininavio Pirata
+WaterPropMiniPirateBoatShortName,Mininavio Pirata
+WaterPropMiniPirateBoatDescription,"Enquanto as outras equipes estiverem vendo você capturar o espaço delas, use este poderoso mininavio para mostrar que você está roubando o tesouro deles. [Espaço de água]"
+FlyingPropMoonRabbitName,Coelho Lunar
+FlyingPropMoonRabbitShortName,Coelho Lunar
+FlyingPropMoonRabbitDescription,"Territórios Contestados é sobre capturar, e este adorável Coelho Lunar vai capturar a imaginação de todos. [Espaço de ar]"
+Deselect,Desmarcar
+CTDailyTitle,Bônus diário
+CTDailySubtitle,Tickets de Jogador de hoje
+CTDailyDescription,Quando um Ticket de Jogador é usado para capturar um espaço
+CTDailyTrophies,Troféus bônus diários
+TileRecap,Recapitulação de espaços
+PlusCTPoints,+{0} pontos de TC
+CTRulesInfoSubtitle,"Boas-vindas aos Territórios Contestados! Trabalhe com sua equipe, capture espaços, fique no topo dos placares e ganhe muitas recompensas!"
+CTRulesInfoSectionOne,• Tickets de Captura só são utilizados se você capturar um espaço. Eles recarregam a cada 24 horas.
+CTRulesInfoSectionTwo,• Tickets de Captura não utilizados entram num estoque de tickets que podem ser usados por outros membros da equipe no dia seguinte. Tickets de Equipe não contribuem para posições no placar pessoal.
+CTRulesInfoSectionThree,"• Uma vez capturado, pontuações de espaço diminuirão gradualmente com o tempo, até que o espaço eventualmente se torne neutro."
+CTRulesInfoSectionFour,"• Pontos de TC são obtidos ao capturar um espaço e a cada hora que você continuar a manter o espaço. Pontos de TC decidem sua posição pessoal e da sua equipe no placar, então pegue espaços sempre que puder!"
+CTRulesInfoSectionFive,• Espaços de Bandeira são mais difíceis e dão muito mais Pontos de TC.
+CTRulesInfoSectionSix,• Espaços de Relíquia dão à sua equipe acesso a poderosos Conhecimentos de Relíquia que ajudarão você a capturar espaços.
+CTRulesInfoSectionSeven,• O progresso nos espaços é salvo a cada 20 rodadas e você só pode ter um jogo salvo em andamento por vez.
+TeamTrophyStoreRulesInfoSubtitle,"Essa é a Loja de Troféus de Equipe, onde você pode escolher Relíquias de TC desbloqueadas e ajudar a pagar Poderes Diários, Relíquias de Evento e Estilo da Equipe."
+TeamTrophyStoreRulesInfoSectionOne,"• Poderes Diários ficam disponíveis para liberar a cada dia durante o evento de TC, e depois de pagos, podem ser usados pela equipe inteira naquele dia."
+TeamTrophyStoreRulesInfoSectionTwo,"• Relíquias de Evento ficam disponíveis pelo evento de TC, e uma vez pagas, podem ser usadas pelo resto do evento. Elas são separadas das Relíquias liberadas através de Espaços de Relíquia."
+TeamTrophyStoreRulesInfoSectionThree,• Capture Espaços de Relíquia e depois escolha até 4 de seus Conhecimentos de Relíquia preferidos para usar no evento. Você pode trocar a qualquer momento.
+TeamTrophyStoreRulesInfoSectionFour,"• Estilo da Equipe é pago pela equipe inteira e, uma vez pago, fica liberado permanentemente para a sua equipe. Jogadores que saem da equipe não levam o Estilo da Equipe com eles."
+PlaySocialCaps,JOGO SOCIAL
+SelectCapturedRelics,Escolha até 4 relíquias capturadas
+NextBonusIn,Próximo bônus em:
+MemberCount,Contagem de membro
+Min,Mínimo
+PrimeGamingText,Reivindique seu presente Prime Gaming!
+GetNow,Get Now

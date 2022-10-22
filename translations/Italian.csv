@@ -150,7 +150,7 @@ Gwendolin Level 1 Description,Distrugge i bloon con il suo lanciafiamme.
 Gwendolin Level 2 Description,Lieve aumento di bloon scoppiati per colpo.
 Gwendolin Level 3 Description,Cocktail di fuoco: lancia un flacone di liquido infiammabile e tutti i bloon che attraversano il fuoco vengono inceneriti.
 Gwendolin Level 4 Description,Raffica ustionante - Ogni pochi secondi crea un'ondata di fuoco che fa scoppiare i bloon e aggiunge più fuoco agli attacchi delle scimmie vicine.
-Gwendolin Level 5 Description,Più bloon distrutti per colpo.
+Gwendolin Level 5 Description,"Potenza distruttiva aumentata. Velocità d'attacco e raggio d'azione dell'Anello di fuoco, del Bengala e del Respiro del drago migliorati del 10%."
 Gwendolin Level 6 Description,Gli attacchi provocano un effetto ustionante sui bloon bersaglio.
 Gwendolin Level 7 Description,"Raggio della Raffica ustionante aumentato, Cocktail di fuoco è più efficace."
 Gwendolin Level 8 Description,Spara 2 raffiche di fuoco per colpo.
@@ -163,7 +163,7 @@ Gwendolin Level 14 Description,Cocktail di fuoco infligge danni extra e incendia
 Gwendolin Level 15 Description,Velocità d'attacco aumentata.
 Gwendolin Level 16 Description,Tempesta di fuoco ha una durata maggiore e infligge più danni. I bloon viola non sono più immuni agli attacchi di Gwendolin.
 Gwendolin Level 17 Description,Raffica ustionante consente alle scimmie sotto il suo effetto di far scoppiare 1 strato aggiuntivo e di infliggere +2 di danno ai bloon di piombo.
-Gwendolin Level 18 Description,Velocità d'attacco aumentata.
+Gwendolin Level 18 Description,"Velocità d'attacco aumentata. Velocità d'attacco e raggio d'azione dell'Anello di fuoco, del Bengala e del Respiro del drago migliorati del 20%."
 Gwendolin Level 19 Description,Spara 3 raffiche di fuoco per colpo.
 Gwendolin Level 20 Description,Tempesta di fuoco provoca danno elevatissimo.
 ,
@@ -232,11 +232,11 @@ ObynGreenfoot Level 20 Description,La Muraglia d'alberi è in grado di trattener
 ,
 Ezili Level 1 Description,Ezili è in grado di maledire i bloon grazie ai suoi oscuri poteri vudù.
 Ezili Level 2 Description,Portata di attacco aumentata.
-Ezili Level 3 Description,Cuore in gola: impedisce la rigenerazione per 6 secondi.
+Ezili Level 3 Description,"Cuore in gola: rallenta i bloon, permette di scoppiare quelli viola e impedisce la rigenerazione per 10 secondi."
 Ezili Level 4 Description,L'attacco principale di Ezili ora maledice più bloon.
 Ezili Level 5 Description,Velocità d'attacco aumentata.
 Ezili Level 6 Description,Il danno a tempo ha una durata maggiore e infligge danni più rapidamente.
-Ezili Level 7 Description,"Totem sacrificale: un totem che fornisce alle scimmie vicine rilevamento mimetizzazione, penetrazione extra, portata di attacco, velocità di attacco e velocità proiettile. Consuma 10 vite."
+Ezili Level 7 Description,"Totem sacrificale: un totem che fornisce alle scimmie vicine (in particolare alle scimmie mago) rilevamento mimetizzazione, perforazione extra, portata d'attacco, velocità d'attacco e velocità proiettile. Consuma 10 vite."
 Ezili Level 8 Description,Gli attacchi di Ezili provocano molti più danni ai bloon classe MOAB. 
 Ezili Level 9 Description,"Gli attacchi di Ezili sono in grado di privare i bloon (tranne quelli di classe MOAB) delle proprietà mimetizzazione, rigenerazione e fortificazione."
 Ezili Level 10 Description,Anatema MOAB: lancia una maledizione contro un bloon classe MOAB che subisce danno ogni secondo fino al completo annientamento.
@@ -282,8 +282,8 @@ Rallying Roar Ability Description,Tutte le scimmie vicine sono in grado di far e
 Big Squeeze Ability Description,"Afferra un MOAB, un BFB, un DDT (se visibile) o un ZOMG e lo fa a pezzi in 5 secondi."
 Brambles Ability Description,Crea sul tracciato un cespuglio di rovi capace di far scoppiare 50 bloon.
 Wall of Trees Ability Description,Evoca una muraglia di alberi che si estende da un capo all'altro del tracciato e che è in grado di distruggere tutti i bloon in entrata. Una volta pieni gli alberi esplodono tramutandosi in denaro. 
-Heartstopper Ability Description,Impedisce ai bloon di rigenerarsi per 6 secondi.
-Sacrificial Totem Ability Description,"Un totem che fornisce rilevamento mimetizzazione, potenza perforatrice extra, portata di attacco, velocità di attacco e velocità proiettile alle scimmie vicine. Consuma 10 vite."
+Heartstopper Ability Description,Permette di scoppiare i bloon viola e impedisce la rigenerazione per 10 secondi.
+Sacrificial Totem Ability Description,"Un totem che fornisce alle scimmie vicine (in particolare alle scimmie mago) rilevamento mimetizzazione, perforazione extra, portata d'attacco, velocità d'attacco e velocità proiettile. Consuma 10 vite."
 MOAB Hex Ability Description,Scaglia una maledizione contro un bloon di classe MOAB che subisce danno ogni secondo fino al suo annientamento.
 ,
 //Hero Misc,
@@ -694,7 +694,7 @@ Long Range Darts Description,Consente alla scimmia di lanciare freccette più lo
 Razor Sharp Shots Description,In grado di far scoppiare 2 bloon extra per colpo.
 Very Quick Shots Description,Colpi più veloci del 33%!
 Enhanced Eyesight Description,È in grado di colpire ancora più lontano e di individuare i bloon mimetizzati.
-Spike-o-pult Description,"Converte la scimmia lancia freccette in una catapulta che, al posto delle freccette, lancia un'enorme sfera acuminata. Si tratta di un attacco con una buona portata ma non particolarmente veloce. Ogni sfera è capace di far scoppiare un bel po' di bloon e rimbalza sugli ostacoli."
+Spike-o-pult Description,Converte la scimmia lancia freccette in una catapulta più lenta nell'attacco che lancia enormi sfere acuminate. Ogni sfera è capace di far scoppiare un bel po' di bloon e rimbalza sugli ostacoli.
 Triple Shot Description,Consente di lanciare 3 dardi alla volta anziché 1.
 Crossbow Description,"Usa la balestra a lungo raggio che,  con ogni colpo, può far scoppiare 3 strati di bloon."
 Juggernaut Description,Lancia una sfera acuminata gigante capace di far scoppiare i bloon di piombo e particolarmente adatta contro quelli di ceramica.
@@ -756,7 +756,7 @@ Permafrost Description,I bloon si muovono lentamente anche dopo lo scongelamento
 Enhanced Freeze Description,Attacca più rapidamente e congela per un lasso di tempo maggiore.
 Larger Radius Description,Area congelata maxi.
 Metal Freeze Description,È in grado di congelare e far scoppiare bloon di piombo e mimetizzati.
-Deep Freeze Description,L'effetto congelante si propaga per 2 strati del bloon.
+Deep Freeze Description,Congela uno strato extra e fa durare il congelamento più a lungo.
 Re-Freeze Description,È in grado di ricongelare bloon già congelati.
 Ice Shards Description,"Quando un bloon congelato scoppia, vengono espulse schegge affilate."
 Arctic Wind Description,Aumenta considerevolmente la perforazione e ottiene un'aura super gelata che rallenta i bloon e congela l'acqua nelle vicinanze.
@@ -798,13 +798,13 @@ Supply Drop Description,Abilità Lancio scorte: rilascia una cassa piena di cont
 Full Auto Rifle Description,Arma completamente automatica dotata di un'incredibile potenza distruttiva.
 Cripple MOAB Description,I MOAB azzoppati vengono immobilizzati per un lasso di tempo maggiore e subiscono danno extra da tutti gli altri attacchi.
 Elite Sniper Description,Il Lancio scorte fornisce molto più contante. Conferisce mira prioritaria élite e caricamento accelerato a tutti i cecchini.
-Elite Defender Description,"Per una vita perduta un cecchino riceve, in contraccambio, una velocità d'attacco 4 volte maggiore per un breve lasso di tempo. Infligge più danni ai bloon di classe MOAB."
+Elite Defender Description,Spara più velocemente e a una velocità maggiore se i bloon sono più distanti sul tracciato. La velocità d'attacco aumenta di 4 volte per un breve periodo in caso di perdite. Infligge più danni ai bloon di classe MOAB.
 ,
 Longer Range Description,Portata di attacco aumentata.
 Barbed Darts Description,Le freccette sparate dal sommergibile sono in grado far scoppiare altri 3 bloon.
 Twin Guns Description,Velocità d'attacco raddoppiata. Potenzia il Missile balistico e il Reattore al bloontonio.
 Advanced Intel Description,Conferisce mira a lunga distanza per colpire i bloon situati nel raggio d'azione delle altre tue torri.
-Heat-tipped Darts Description,Le freccette con punta rovente sono in grado di far scoppiare i bloon congelati e quelli di piombo.
+Heat-tipped Darts Description,Le freccette con punta rovente permettono alla scimmia sommergibile di far scoppiare i bloon congelati e quelli di piombo.
 Airburst Darts Description,"Una volta colpito il bersaglio, si dividono in 3 per aumentare la potenza distruttiva. Potenzia ulteriormente il Reattore al bloontonio."
 Submerge and Support Description,"Aggiunge l'opzione Mira sommersa che consente di individuare permanentemente la presenza di bloon mimetizzati nel proprio raggio d'azione, ma non attacca in immersione."
 Ballistic Missile Description,Il missile è in grado di trovare il proprio bersaglio se a portata e di provocare danno extra a bloon MOAB e di ceramica.
@@ -826,7 +826,7 @@ Buccaneer-Destroyer Description,Attacca a velocità super.
 Buccaneer-Cannon Ship Description,Aggiunge un potente cannone in grado di sparare bombe dall'elevato potere distruttivo.
 Buccaneer-Merchantman Description,Genera automaticamente contante in ogni round.
 Buccaneer-Aircraft Carrier Description,Lancia ondate di caccia che sorvolano il bersaglio e lanciano missili ai Bloon di classe MOAB.
-Buccaneer-Monkey Pirates Description,Aggiunge 2 cannoni alla nave e gli attacchi dei cannoni infliggono più danni. Abilità Abbattimento MOAB: arpiona un Bloon di classe MOAB e lo trascina a terra.
+Buccaneer-Monkey Pirates Description,Aggiunge 2 cannoni alla nave e gli attacchi infliggono più danni. Abilità Abbattimento MOAB: arpiona un bloon di classe MOAB e lo trascina a terra.
 Buccaneer-Favored Trades Description,Attacca più velocemente e genera molto denaro ogni round. Le scimmie nel raggio hanno maggior valore di vendita.
 Buccaneer-Carrier Flagship Description,Infligge danni extra. Può collocare altre scimmie sui ponti superiori della nave e aumenta la velocità d'attacco di tutte le scimmie acquatiche e delle scimmie asso.
 Buccaneer-Pirate Lord Description,"Velocità d'attacco considerevolmente maggiore, è in grado di lanciare 3 rampini alla volta e di ricavare contante extra da ogni bloon di classe MOAB catturato."
@@ -874,11 +874,11 @@ Shockwave Description,"L'onda d'urto delle raffiche stordisce i bloon coinvolti,
 Heavy Shells Description,"Le granate pesanti provocano danno extra ai bloon di ceramica, di piombo, a tutti quelli fortificati e a tutti quelli immobilizzati. Possono anche far scoppiare i bloon neri."
 Signal Flare Description,I bloon mimetizzati esplosi con i bengala perdono definitivamente la loro mimetizzazione.
 The Big One Description,"Esplosioni devastanti fanno scoppiare 7 strati di bloon, oltre ad aumentare ulteriormente i danni da materiale infiammabile."
-Artillery Battery Description,Abilità Bombardamento: scatena un attacco di fuoco rapido su un'area un po' più ampia. L'attacco principale passa a 3 canne per attacchi incredibilmente veloci.
+Artillery Battery Description,Abilità Bombardamento: scatena un attacco di fuoco rapido su un'area un po' più ampia. L'attacco principale infligge più danni ai BAD e ai boss dei bloon e passa a 3 canne per attacchi incredibilmente veloci.
 Shattering Shells Description,Le granate frantumatrici privano i bloon (tranne quelli di più grosse dimensioni) di tutte le proprietà speciali.
 The Biggest One Description,"Fa esplodere con forza i bloon e gli strati presenti in un'ampia area, oltre a infliggere gravi danni da materiale infiammabile."
-Pop and Awe Description,Abilità Scoppia e terrorizza: le esplosioni piovono su tutta la schermata facendo scoppiare e immobilizzando i bloon per pochi secondi.
-Blooncineration Description,"Il caldissimo inceneritore scioglie 5 strati di bloon a ogni colpo, brucia bloon di classe MOAB per infliggere danno aggiuntivo e priva i bloon DDT della proprietà mimetizzazione."
+Pop and Awe Description,Abilità Scoppia e terrorizza: le esplosioni piovono su tutta la schermata facendo scoppiare e immobilizzando i bloon per pochi secondi. Tutte le batterie d'artiglieria infliggono più danni ai BAD e ai boss dei bloon. L'attacco principale ottiene danni bonus contro i bloon immobilizzati.
+Blooncineration Description,Il caldissimo inceneritore scioglie 5 strati di bloon a ogni colpo e brucia i bloon di classe MOAB per infliggere ulteriori danni.
 ,
 Focused Firing Description,Aumenta la precisione del mitra a freccette.
 Advanced Targeting Description,Consente alla torre spara freccette di colpire i bloon mimetizzati.
@@ -918,7 +918,7 @@ Super Range Description,Alle Superscimmie serve una portata super.
 Knockback Description,Dopo ogni colpo i bloon vengono spinti indietro o rallentati.
 Plasma Blasts Description,Il plasma è in grado di vaporizzare tutto ciò con cui entra in contatto.
 Epic Range Description,Perché accontentarsi di qualcosa di super quando può diventare EPICO?
-Ultravision Description,Consente alla Superscimmia di sparare un po' più lontano e di vedere i bloon mimetizzati.
+Ultravision Description,"Consente alla Super scimmia di sparare un po' più lontano, di vedere i bloon mimetizzati e di infliggere loro più danni."
 Sun Avatar Description,Attinge al potere presente nel nucleo del sole.
 Robo Monkey Description,Metà Super scimmia e metà letale robot killer. Spara con due pistole contemporaneamente e può mettere a segno colpi critici!
 Dark Knight Description,Le lame oscure aumentano lo spintone e la perforazione e infliggono danni extra ai bloon di classe MOAB. Ottiene l'abilità Trasformazione oscura per spostarsi in una posizione vicina.
@@ -951,7 +951,7 @@ Acid Pool Description,"Se non vi sono bloon nelle vicinanze, l'alchimista può i
 Acidic Mixture Dip Description,Lancia una pozione di supporto alle scimmie vicine che consente loro di far scoppiare i bloon di piombo nonché di infliggere danni extra ai bloon di ceramica e di classe MOAB. Si esaurisce dopo numerosi attacchi.
 Perishing Potions Description,Le pozioni di attacco infliggono più danni ai bloon classe MOAB e privano i bloon più piccoli della proprietà di fortificazione. Rafforza anche gli infusi e gli stimolanti.
 Alchemist Faster Throwing Description,Lancia pozioni e attacca più velocemente.
-Berserker Brew Description,L'infuso speciale conferisce alle scimmie la possibilità di provocare danno extra nonché portata e velocità d'attacco maggiori. Dura più a lungo.
+Berserker Brew Description,"Lancia l'infuso speciale alle scimmie vicine per conferire loro danni, portata e velocità d'attacco extra."
 Unstable Concoction Description,"Ricopre i bloon classe MOAB con una sostanza esplosiva che, al loro scoppio, provoca un'enorme esplosione."
 Lead to Gold Description,"Converte i bloon di piombo in ORO! I solventi speciali infliggono danni extra ai bloon di piombo, distruggendoli in un colpo e generando contante."
 Stronger Stimulant Description,L'Infuso del Berserker extra forte ha ancora più effetto sul bersaglio. Dura ancora più a lungo.
@@ -1870,7 +1870,7 @@ RapidRazorsDescription,I rotori affilati sono in grado di far scoppiare i bloon 
 BudgetBattery,Batteria economica
 BudgetBatteryDescription,Riduzione di 600 sul costo della batteria di artiglieria
 PaintStripper,Sverniciante
-PaintStripperDescription,Le granate frantumatrici sparate dal mortaio rimuovono la mimetizzazione dei bloon DDT.
+PaintStripperDescription,Le granate frantumatrici sparate dal mortaio rimuovono la fortificazione dai bloon DDT.
 CheaperMaiming,Tranciamento a buon mercato
 CheaperMaimingDescription,Riduzione di 1000 sul prezzo del Trancia MOAB.
 ChargedChinooks,Chinook caricati
@@ -2638,17 +2638,17 @@ Adora Level 5 Description,Le saette divine distruggono più bloon
 Adora Level 6 Description,Spara 3 saette divine per volta.
 Adora Level 7 Description,Sacrificio di sangue: sacrifica una torre presa di mira per conferire a Adora una grande quantità di PE e per potenziarne la portata di attacco e la cadenza di fuoco per un breve lasso di tempo.
 Adora Level 8 Description,Spara 4 saette divine per volta.
-Adora Level 9 Description,Portata di attacco aumentata.
+Adora Level 9 Description,Aumentata la portata di attacco e i danni ai bloon fortificati.
 Adora Level 10 Description,Sfera di luce: crea una potente sfera di energia che abbatte i bloon.
 Adora Level 11 Description,Adora aumenta la velocità d’attacco.
 Adora Level 12 Description,Spara 5 saette divine per volta.
-Adora Level 13 Description,Le saette divine distruggono ancora più bloon.
+Adora Level 13 Description,Le saette divine perforano ancora più bloon. Aumentati i danni inflitti ai bloon fortificati.
 Adora Level 14 Description,Spara 6 saette divine per volta.
 Adora Level 15 Description,Le saette divine distruggono un ulteriore strato di bloon e la sfera di luce infligge più danni.
 Adora Level 16 Description,L’Autorità della luce diviene ancora più letale.
 Adora Level 17 Description,Adora aumenta ancora di più la velocità d’attacco.
 Adora Level 18 Description,Spara 8 saette divine per volta.
-Adora Level 19 Description,Portata di attacco aumentata.
+Adora Level 19 Description,Portata di attacco aumentata. Danni ai bloon fortificati aumentati.
 Adora Level 20 Description,La sfera di luce è enormemente potenziata inoltre cadenza di fuoco portata e durata dei potenziamenti migliorate dai sacrifici.
 Carved,Intagliata
 BloodyPuddles,Pozze esagerate
@@ -2700,7 +2700,7 @@ WolfpackQuincySkinName,Quincy branco di lupi
 WolfpackQuincySkinDescription,"Quando in tempi remoti e selvaggi i cacciatori erano forti ma il branco lo era ancora di più, c'era Quincy, antenato di Quincy."
 Infernal,Infernale
 DownloadButton,Download
-DownloadDescription,Scaricamento file aggiuntivi in corso. Si raccomanda l'utilizzo del Wi-fi. Dimensione dei dati {0} MB
+DownloadDescription,Per giocare è necessario aggiornare i file. Si raccomanda l'utilizzo del Wi-fi. Dimensione dei dati {0} MB
 ViewCollectionButton,Vedi raccolta
 ViewInventoryButton,Vedi inventario
 CollectionDescription,Le Insta-scimmie restano visibili nella raccolta anche dopo che sono stati utilizzate.
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] per effettuare Passaggio oscuro nel raggio d'azione
 DarkChampionDarkshift,[I] per effettuare Passaggio oscuro in qualsiasi posizione valida
 SmallTowersMode,Torri scimmia piccola
 BigTowersMode,Torri scimmia grandi
-UpdatePopupTitle,Aggiornamento 32!
-UpdatePopupDescription,"Aggiornamento epico di Territori contesi!\n• Un enorme, nuovo evento: Territori contesi! Conquista le caselle dalle altre squadre per dominare la classifica!\n• Squadre! Riunisci i tuoi amici e forma una squadra inarrestabile per conquistare il Territorio conteso\n• Nuovo campione: capomastro\n• Nuova skin eroe: Vuodora\n• Nuova mappa di livello intermedio: Cava\n• Oggetti nel Negozio trofei, miglioramenti all'interfaccia, ribilanciamenti e molto altro!"
+UpdatePopupTitle,Aggiornamento 33!
+UpdatePopupDescription,"Sostanzioso aggiornamento dei contenuti!\n• Scatena la fantastica Distruttrice alata di Golia, campione scimmia asso!\n•Coltiva la potenza distruttiva con la mappa di livello Intermedio Giardino coperto! Questa mappa è stata progettata da SuperPsou, che ha vinto la competizione.\n• Infesta le sale della nuova mappa avanzata, Palazzo di mezzanotte!\n•Oggetti nel Negozio trofei, miglioramenti all'interfaccia, ribilanciamenti e molto altro!"
 ResetDailyChest,Azzera cassa delle ricompense giornaliere
 JukeboxName,Jukebox
 EnableFunction,Attiva
@@ -4413,11 +4413,11 @@ GameUIProfileAvatar59Description,Puoi vedere l'amore nei suoi occhi. Ora devi so
 GameUIProfileAvatar60Name,Avatar Striker Jones
 GameUIProfileAvatar60ShortName,Avatar Striker Jones
 GameUIProfileAvatar60Description,Striker Jones a rapporto! Mostra quanta voglia hai di vincere con il saluto della tua scimmia specializzata in armi da fuoco preferita.
-GameUIProfileBanner13Name,Banner Arrivo
-GameUIProfileBanner13ShortName,Banner profilo Arrivo
+GameUIProfileBanner13Name,Banner profilo Arrivo
+GameUIProfileBanner13ShortName,Banner Arrivo
 GameUIProfileBanner13Description,Banner Vincitore di betapotata
-GameUIProfileBanner14Name,Banner Sott'acqua
-GameUIProfileBanner14ShortName,Banner profilo Sott'acqua
+GameUIProfileBanner14Name,Banner profilo Sott'acqua
+GameUIProfileBanner14ShortName,Banner Sott'acqua
 GameUIProfileBanner14Description,Banner Vincitore di Cyliia
 GameUIMusicTrackMusicSunshineFiestaMixName,Jukebox: Sunshine Serenade - Fiesta remix
 GameUIMusicTrackMusicSunshineFiestaMixShortName,Sunshine - Fiesta
@@ -4588,7 +4588,7 @@ TeamBannersTitle,Banner
 TeamGeneralTitle,Generale
 TeamSettingPublicTitle,Pubblica
 TeamSettingPrivateTitle,Privata
-TeamSettingClosedTitle,Chiusa
+TeamSettingClosedTitle,Solo su invito
 TeamJoin,Unisciti
 TeamApply,Fai richiesta
 RecentWin,Vittoria recente:
@@ -4600,8 +4600,8 @@ Tile,Casella: {0}
 RelicTile,Casella reliquia
 BannerTile,Casella banner
 BonusCTPoints,Punti TC bonus!
-DailyRelics,Reliquie giornaliere
-HeldRelics,Reliquie detenute
+DailyRelics,Potere giornaliero e reliquie evento
+HeldRelics,Reliquie conquistate
 Tickets,Biglietti:
 PurchaseTickets,Acquista biglietto
 MoreTicketsIn,Altri biglietti tra:
@@ -4728,7 +4728,7 @@ RelicExtraEmpoweredDescription,Il tuo eroe inizia una partita con 3 livelli extr
 RelicBoxOfChocolatesDescription,Inizia ogni partita con 100 vite extra
 RelicBoxOfMonkeyDescription,Inizia ogni partita con una scimmia gratis del costo di 500 $ o inferiore per un posizionamento iniziale non modificato
 RelicMarchingBootsDescription,"Nelle partite con conteggi soggetti a restrizioni, dà ai giocatori +1 di conteggio massimo di ciascuna torre nella loro dotazione o +4 di conteggio massimo a partita"
-RelicHeroBoostDescription,Gli eroi guadagnano PE il 10% più velocemente in ogni partita
+RelicHeroBoostDescription,Gli eroi guadagnano PE il 15% più velocemente in ogni partita
 RelicBiggerBloonSabotageDescription,Tutti i bloon di classe MOAB si generano con il 15% in meno di PV e si muovono al 95% della velocità
 RelicRoundingUpDescription,Ottieni +20 $ al termine di ogni round
 RelicManaBulwarkDescription,Crea uno scudo che assorbe fino a 50 vite (si accumula con Scudo mana sulle caselle normali)
@@ -4742,11 +4742,11 @@ RelicRoyalTreatmentDescription,Tutti gli attacchi possono far scoppiare i bloon 
 RelicHardBakedDescription,Tutti gli attacchi infliggono +1 danno ai bloon di ceramica
 RelicFortifriedDescription,Tutti gli attacchi infliggono +1 danno ai bloon fortificati
 RelicMoabClashDescription,Tutti gli attacchi infliggono +3 danni ai bloon di classe MOAB
-RelicCamoFloggedDescription,Tutti gli attacchi infliggono +1 danno ai bloon mimetizzati
+RelicCamoFloggedDescription,Tutti gli attacchi infliggono +3 danno ai bloon mimetizzati
 RelicBrokenHeartDescription,Tutti gli attacchi infliggono +1 danno ai bloon rigeneranti
-RelicGoingTheDistanceDescription,Tutte le scimmie ottengono +10% di portata
+RelicGoingTheDistanceDescription,Tutte le scimmie ottengono +20% di portata
 RelicHeartlessDescription,Tasso di rigenerazione dei bloon rigeneranti ridotto del 25%
-RelicFlintTipsDescription,I proiettili acuminati aggiungono un tocco infuocato ai bloon che danneggiano (1 danno ogni 2 sec per 4 sec totali)
+RelicFlintTipsDescription,"I proiettili acuminati aggiungono un tocco infuocato ai bloon che danneggiano (1 danno ogni 2,5 sec per 5 sec totali)"
 RelicAbilitizedDescription,Tempi di recupero di tutte le abilità attivate ridotti del 10% per tutte le scimmie
 RelicAirAndSeaDescription,"Costi di posizionamento e di potenziamento delle scimmie asso, pilota di elicottero, bucaniere e sommergibile ridotti del 10% e caricamento migliorato del 5%"
 RelicElDoradoDescription,Tutto il denaro e le ricompense trofei squadra dalle partite vinte sono aumentati del 25% (minimo +1)
@@ -4755,7 +4755,7 @@ RelicMonkeyShieldMark2Description,"Per 2 ore dopo la conquista, la casella non p
 RelicMonkeyShieldMark3Description,"Per 3 ore dopo la conquista, la casella non può essere attaccata dalle squadre avversarie. Se il punteggio migliora, la contesa riprenderà"
 RelicPsiVisionDescription,Vedi i dettagli completi di tutte le caselle sulla mappa
 RelicOpenSeasonDescription,Attacca una casella qualsiasi sulla mappa
-RelicCamoTrapDescription,Concede l'uso di 2 potenziamenti Trappola mimetizzata per partita
+RelicCamoTrapDescription,Concede l'uso di 1 potenziamento Trappola mimetizzata per partita
 RelicThriveDescription,Concede l'uso di 2 potenziamenti Rigogliosità per partita
 RelicSuperMonkeyStormDescription,Concede l'uso di 2 SMS per partita
 RelicMonkeyBoostDescription,Concede l'uso di 3 potenziamenti scimmia per partita
@@ -4792,7 +4792,7 @@ TeamBrowserTitle,Ricerca squadre
 TeamBrowserSearchField,Inserisci nome squadra...
 TeamBrowserSearchHideFull,Nascondi squadre piene
 TeamBrowserSearchHidePrivate,Nascondi squadre private
-TeamBrowserSearchHideClosed,Nascondi squadre chiuse
+TeamBrowserSearchHideClosed,Nascondi le squadre solo su invito
 TeamEditApplyAll,Applica tutto
 TeamScore,Punteggio: {0}
 TeamRemoveMember,Vuoi davvero rimuovere questo membro?
@@ -4821,7 +4821,7 @@ TeamMateSetScore,Il compagno di squadra ha stabilito un nuovo punteggio da batte
 AnotherTeamSetScore,Un'altra squadra ha stabilito un nuovo punteggio da battere!
 FriendScreenErrorTeamInviteAlreadyMember,Questo giocatore fa già parte della tua squadra
 TotalTeamScore,Punteggio squadra
-CTRulesInfo,"Ti diamo il benvenuto nei Territori contesi! Collabora con la tua squadra, conquista caselle, scala la vetta delle classifiche e ottieni grandi ricompense!\n\n• I biglietti conquista si consumano solo se conquisti una casella e si aggiornano ogni 24 ore.\n• I biglietti cattura non utilizzati andranno in una riserva di biglietti che possono essere usati dagli altri membri della squadra il giorno successivo.\n• Dopo la conquista, i punteggi casella si deterioreranno nel tempo finché la casella non diventerà neutrale dopo 24 ore.\n• I punti TC si guadagnano conquistando una casella e per ogni ora in cui si continua a detenerne una. I punti TC stabiliscono la tua posizione personale e quella della tua squadra in classifica, perciò conquista caselle ogni volta che puoi!\n• Le caselle banner sono caselle più difficili che danno molti più punti TC.\n• Le caselle reliquia permettono alla tua squadra di ottenere potenti conoscenze reliquia che a loro volta ti aiuteranno a conquistare le caselle.\n• I progressi casella si salvano ogni 20 round e puoi avere solo un salvataggio in corso per volta.\n• Vota la reliquia che preferisci nel Negozio trofei della squadra e poi scegli di quali reliquie specifiche ti servirai in battaglia nella pagina del prepartita."
+CTRulesInfo,"Ti diamo il benvenuto nei Territori contesi! Collabora con la tua squadra, conquista caselle, scala la vetta delle classifiche e ottieni grandi ricompense!\n\n• I biglietti conquista si consumano solo se conquisti una casella e si aggiornano ogni 24 ore.\n• I biglietti cattura non utilizzati andranno in una riserva di biglietti che possono essere usati dagli altri membri della squadra il giorno successivo. I biglietti squadra non contribuiscono a determinare la posizione personale in classifica.\n• Dopo la conquista, i punteggi casella si deterioreranno nel tempo finché la casella non diventerà neutrale.\n• I punti TC si guadagnano conquistando una casella e per ogni ora in cui si continua a detenerne una. I punti TC stabiliscono la tua posizione personale e quella della tua squadra in classifica, perciò conquista caselle ogni volta che puoi!\n• Le caselle banner sono caselle più difficili che danno molti più punti TC.\n• Le caselle reliquia permettono alla tua squadra di ottenere potenti conoscenze reliquia che a loro volta ti aiuteranno a conquistare le caselle.\n• I progressi casella si salvano ogni 20 round e puoi avere solo un salvataggio in corso per volta."
 TeamTrophyStoreRulesInfo,"Questo è il Negozio trofei della squadra, in cui puoi votare reliquie TC sbloccate, poteri giornalieri del fondo, reliquie evento e attitudine della squadra.\n• I poteri giornalieri sono disponibili per lo sblocco ogni giorno durante l'evento TC e, una volta finanziati, possono essere usati da tutta la squadra per quel giorno.\n• Le reliquie evento diventano disponibili durante l'evento TC e, una volta finanziate, sono utilizzabili per il resto dell'evento. Non sono collegate alle reliquie sbloccate tramite le caselle reliquia.\n• Conquista caselle reliquia e poi vota le tue conoscenze reliquia preferite sbloccate in questo evento. Potrai scegliere le 4 reliquie della tua dotazione finale tra le 7 reliquie più votate.\n• L'attitudine della squadra è finanziata da tutta la squadra e, dopo il finanziamento, si sblocca in modo permanente per la squadra. I giocatori che abbandonano la squadra non conservano l'attitudine della squadra."
 TeamsBanner1Name,Banner Scimmie nello spazio
 TeamsBanner2Name,Banner Unione degli eroi
@@ -4912,22 +4912,22 @@ BasePropSatelliteShortName,Veicolo satellitare mobile
 BasePropTortoiseShortName,Tartaruga tribale
 BasePropBattleMonkeyShortName,Scimmia battagliera
 BuildingPropBattleTowerShortName,Edificio torre base
-BuildingPropWizardTowerDescription,Un'avventura magica attende la squadra in grado di finanziare questa base mistica.
-BuildingPropLighthouseDescription,Illumina la strada per tutta la tua squadra con questa base principale illuminata.
-FlyingPropPhoenixDescription,"Tutti si chiedono se quella lassù sia davvero una scimmia mago, ma qualcuno ha pensato al fatto che forse le scimmie mago sono semplicemente fenici in attesa di rinascere?"
-FlyingPropMiniAceDescription,Lascia che la scimmia asso perlustri il cielo per la tua squadra con questa adorabile mini scimmia asso.
-WaterPropKrakenDescription,Liberate il Kraken! Domina le onde con questa creatura gigante degli abissi sorprendentemente tenera.
-WaterPropMiniSubDescription,Su il periscopio! Perlustra l'area con questa mini scimmia sommergibile.
-BasePropKingDescription,"Ti diamo il benvenuto nel nostro nuovo, fantastico Territorio conteso! Questa è una terra di conquista ed è infestata dai bloon! Falli scoppiare e conquista il territorio per la tua squadra."
-BasePropLighthouseKeeperDescription,Questa vecchia scimmia saggia si occupa del faro ed è sempre alla ricerca di navi che passano nella notte.
-BasePropCrashedMoabDescription,"Un team di scienziati scimmia ha già setacciato questo relitto alla ricerca di tecnologie utili, quindi ora giace lì come monito per gli altri bloon."
-BasePropTrainingDummyDescription,Tieni tutte le tue scimmie lancia freccette sull'attenti con un manichino da addestramento riutilizzabile al 100% e certificato dal Dott. Scimmia!
-BasePropCampfireDescription,Tieni al caldo la tua squadra nelle notti fredde o racconta storie spaventose sui territori contesi del passato accanto al falò.
-BasePropTotemDescription,Proteggi i confini con questo totem tribale che incute timore.
-BasePropSatelliteDescription,Trasmetti informazioni direttamente dallo spazio con questo veicolo satellitare mobile pronto a partire!
-BasePropTortoiseDescription,"Non chiedergli se ha parenti tribali, soprattutto non tartarughe!"
-BasePropBattleMonkeyDescription,Scimmia del Territorio conteso pronta a partire!
-BuildingPropBattleTowerDescription,Le avventure nei Territori contesi richiedono tutte una base affidabile.
+BuildingPropWizardTowerDescription,Un'avventura magica attende la squadra in grado di finanziare questa base mistica. [Slot Edificio principale]
+BuildingPropLighthouseDescription,Illumina la strada per tutta la tua squadra con questa base principale illuminata. [Slot Edificio principale]
+FlyingPropPhoenixDescription,"Tutti si chiedono se quella lassù sia davvero una scimmia mago, ma qualcuno ha pensato al fatto che forse le scimmie mago sono semplicemente fenici in attesa di rinascere? [Slot Aria]"
+FlyingPropMiniAceDescription,Lascia che la scimmia asso perlustri il cielo per la tua squadra con questa adorabile mini scimmia asso. [Slot Aria]
+WaterPropKrakenDescription,Liberate il Kraken! Domina le onde con questa creatura gigante degli abissi sorprendentemente tenera. [Slot Acqua]
+WaterPropMiniSubDescription,Su il periscopio! Perlustra l'area con questa mini scimmia sommergibile. [Slot Acqua]
+BasePropKingDescription,"Ti diamo il benvenuto nel nostro nuovo, fantastico Territorio conteso! Questa è una terra di conquista ed è infestata dai bloon! Falli scoppiare e conquista il territorio per la tua squadra. [Slot Isola]"
+BasePropLighthouseKeeperDescription,Questa vecchia scimmia saggia si occupa del faro ed è sempre alla ricerca di navi che passano nella notte. [Slot Isola]
+BasePropCrashedMoabDescription,"Un team di scienziati scimmia ha già setacciato questo relitto alla ricerca di tecnologie utili, quindi ora giace lì come monito per gli altri bloon. [Slot Isola]"
+BasePropTrainingDummyDescription,Tieni tutte le tue scimmie lancia freccette sull'attenti con un manichino da addestramento riutilizzabile al 100% e certificato dal Dott. Scimmia! [Slot Isola]
+BasePropCampfireDescription,Tieni al caldo la tua squadra nelle notti fredde o racconta storie spaventose sui territori contesi del passato accanto al falò. [Slot Isola]
+BasePropTotemDescription,Proteggi i confini con questo totem tribale che incute timore. [Slot Isola]
+BasePropSatelliteDescription,Trasmetti informazioni direttamente dallo spazio con questo veicolo satellitare mobile pronto a partire! [Slot Isola]
+BasePropTortoiseDescription,"Non chiedergli se ha parenti tribali, soprattutto non tartarughe! [Slot Isola]"
+BasePropBattleMonkeyDescription,Scimmia del Territorio conteso pronta a partire! [Slot Isola]
+BuildingPropBattleTowerDescription,Le avventure nei Territori contesi richiedono tutte una base affidabile. [Slot Edificio principale]
 Neutral,Neutrale
 TilesCaptured,Caselle conquistate:
 CTPointsEarnt,Punti TC ottenuti:
@@ -4979,15 +4979,142 @@ RewardsTop60,Top 60
 RewardsTopX,Top {0}
 Rank5th,5°
 Rank6th,6°
-TeamName,Nome della squadra
-CTPoints,Punti CT
-Contribute,Contribuire
+TeamName,Nome squadra
+CTPoints,Punti TC
+Contribute,Contribuisci
 ContributeTrophies,Contribuisci ai trofei
-ColorblindEnabled,Modalità daltonici abilitata!
-ColorblindDisabled,Modalità daltonici disabilitata
-Local,Locali
-KickPending,In attesa di rimozione
-SentryParagonGreen,Esemplare della sentinella verde
-SentryParagonRed,Esemplare della sentinella rossa
-SentryParagonBlue,Esemplare della sentinella blu
-TeamManagement,Gestione della squadra
+ColorblindEnabled,Modalità daltonismo attivata!
+ColorblindDisabled,Modalità daltonismo disattivata
+Local,Locale
+KickPending,In attesa di espulsione
+SentryParagonGreen,Sentinella campione verde
+SentryParagonRed,Sentinella campione rossa
+SentryParagonBlue,Sentinella campione blu
+TeamManagement,Gestione squadra
+ERR_FEATURE_TEMPORARILY_UNAVAILABLE,"Questa funzione non è disponibile perché il tuo account è stato segnalato. Per ulteriori informazioni, visita https://ninja.kiwi/ffgpd7"
+PlayerWillBeRemoved,Il giocatore sarà rimosso dalla squadra al termine dell'attuale evento TC
+Epic login,"Accesso all'account Epic in corso, controllo delle autorizzazioni"
+FriendScreenErrorTeamInviteMaxInvitesSent,"Numero massimo di inviti raggiunto, riprova più tardi."
+CantJoinTeamFromSameCT,Non puoi unirti a una squadra dalla stessa istanza TC dell'ultima volta
+RemovedFromTeam,Hai subito la rimozione dalla tua squadra. Unisciti a un'altra squadra e riprova
+TileNoLongerAccessible,Quella casella non è più accessibile. Aggiorna il TC e riprova
+CTTilesHeld,Caselle detenute
+CTPointsProjected,Previsti
+ConfirmCancelRequest,Vuoi davvero annullare la richiesta?
+CouchCoop,Modalità cooperativa in locale
+TeamTicketUsed,Biglietto squadra usato
+PersonalTicketUsed,Biglietto personale usato
+TeamScreenCodeHidden,Codice squadra nascosto
+ERR_ANOTHER_REQUEST_PENDING,C'è un'altra richiesta ancora in attesa
+QuickJoinSearchForTeam,Ricerca squadra a cui unirsi...
+QuickJoinJoiningTeam,Ti stai unendo alla squadra...
+QuickJoinCancel,Annullamento...
+MidnightMansion,Palazzo di mezzanotte
+CoveredGarden,Giardino coperto
+MonkeyAce Paragon,Distruttrice alata di Golia
+MonkeyAce Paragon Description,"Un'ombra volante carica di oscurità, portatrice di distruzione per i bloon."
+CreateOrJoinTeamLeaveFirst,Fai già parte di una squadra.
+TeamMsgBannerTileLost,Una delle tue caselle banner è stata conquistata da {0}. Recuperala subito!
+CTPlayerPopupNoData,Inserisci TC per caricare questi dati
+HeroesJoanOfArcAdoraPetDragonName,Animaletto drago di Giovanna d'Arco
+HeroesJoanOfArcAdoraPetDragonShortName,Animaletto drago di Giovanna d'Arco
+HeroesJoanOfArcAdoraPetDragonDescription,Non devi aver raggiunto la santità per scoprire che le partite sono molto più divertenti con questo piccolo drago dorato accanto! Solo per Adora-Giovanna d'Arco
+TowerPetMonkeyAceDragonflyName,Animaletto libellula della scimmia asso
+TowerPetMonkeyAceDragonflyShortName,Animaletto libellula asso
+TowerPetMonkeyAceDragonflyDescription,"L'animaletto libellula della scimmia asso ronza agilmente in pista, per preparare la strada al ritorno trionfale dell'asso!"
+BloonsDDTSkinSpiderName,DDT ragno
+BloonsDDTSkinSpiderShortName,DDT ragno
+BloonsDDTSkinSpiderDescription,Fai somigliare il DDT a un ragno che zampetta sul tracciato. Un attimo prima lo vedi... l'attimo dopo la partita è finita! Oggetto collezionabile per un periodo limitato!
+CoopEmoteAnimationPsighName,Emote sbuffo
+CoopEmoteAnimationPsighShortName,Sbuffo
+CoopEmoteAnimationPsighDescription,"Questo sbuffo trasmette telepaticamente un insieme di delusione, fastidio e rassegnazione. Ti vediamo, giocatore 3."
+GameUIProfileBanner17Name,Banner profilo Gran Maestro Ninja
+GameUIProfileBanner17ShortName,Banner Gran Maestro Ninja
+GameUIProfileBanner17Description,Banner vincitore di LordTeddington
+GameUIProfileBanner18Name,Banner profilo schiuma dell'ingegnere
+GameUIProfileBanner18ShortName,Banner schiuma dell'ingegnere
+GameUIProfileBanner18Description,Banner vincitore di DREAD_LEAD
+GameUIPowerSkinGlueTrapHoneyTrapName,Potere personalizzato - Trappola alla colla con miele
+GameUIPowerSkinGlueTrapHoneyTrapShortName,Trappola Api mellifere
+GameUIPowerSkinGlueTrapHoneyTrapDescription,Anche i bloon rallentano se sono coperti di api!
+GameUIPowerSkinBananaFarmerBananaCostumeName,Potere personalizzato - Costume del coltivatore di banane
+GameUIPowerSkinBananaFarmerBananaCostumeShortName,Costume del coltivatore di banane
+GameUIPowerSkinBananaFarmerBananaCostumeDescription,"Si può mai arrivare a dire di averne abbastanza delle banane? ""Cavolo, no!"" dice il coltivatore di banane. Ottieni il costume del coltivatore di banane per rendere la coltivazione delle banane un po' più bananosa."
+GameUIProfileAvatar63Name,Avatar personalizzato - L'urlo
+GameUIProfileAvatar63ShortName,Avatar L'urlo
+GameUIProfileAvatar63Description,Solo una scimmia pazza poteva dipingere una cosa del genere. Oggetto collezionabile per un periodo limitato!
+GameUIProfileBanner19Name,Banner profilo Trapunta patchwork
+GameUIProfileBanner19ShortName,Banner Trapunta patchwork
+GameUIProfileBanner19Description,Accoccolati sotto una trapunta patchwork con una tazza di cioccolata calda... oppure equipaggia questo confortevole banner.
+GameUIProfileBanner20Name,Banner profilo Raggi di sole
+GameUIProfileBanner20ShortName,Banner Raggi di sole
+GameUIProfileBanner20Description,Rendi ancora più chiara la tua brillante capacità strategica con questo banner soleggiato.
+GameUIProfileBanner21Name,Banner profilo Esplosione di stelle
+GameUIProfileBanner21ShortName,Banner Esplosione di stelle
+GameUIProfileBanner21Description,"Ci sono persone che credono che le stelle siano ammassi di gas distanti, così grandi che la loro enorme forza gravità provoca fusioni nucleari all'interno del loro nucleo. Ciò che sappiamo noi è che brillano e sono carine."
+GameUIProfileBanner22Name,Banner profilo Corridoio infestato
+GameUIProfileBanner22ShortName,Banner Corridoio infestato
+GameUIProfileBanner22Description,"Rendi il tuo profilo spaventoso con il Banner profilo Corridoio infestato. Sinistri segni sui muri e quadri tormentati, per un'atmosfera adatta a una festa come Halloween. Oggetto collezionabile per un periodo limitato!"
+GameUIProfileAvatar64Name,Avatar personalizzato - Cervelli di scimmia
+GameUIProfileAvatar64ShortName,Avatar Cervelli di scimmia
+GameUIProfileAvatar64Description,"Una figura malandata, avvolta in bende sfilacciate, va in cerca di gustosi CERVELLI! Oggetto collezionabile per un periodo limitato!"
+TeamsBanner7Name,Banner Animaletti in festa
+TeamsBanner7ShortName,Banner Animaletti in festa
+TeamsBanner7Description,È una stravagante festa tra animaletti! Equipaggia questo banner in onore degli animaletti di Bloons TD6!
+TeamsBanner8Name,Banner Territorio conteso
+TeamsBanner8ShortName,Banner Territorio conteso
+TeamsBanner8Description,Equipaggia questo banner per mostrare il tuo impegno nel conquistare le caselle esagonali. Rosso e blu non sono mai stati abbinati meglio.
+TeamsEmblemIcon13Name,Icona Kiwi maestro di kung-fu
+TeamsEmblemIcon13ShortName,Icona Kiwi maestro di kung-fu
+TeamsEmblemIcon13Description,Prendi di sorpresa i tuoi avversari con un calcio volante del tuo uccellino senza ali preferito.
+TeamsEmblemIcon14Name,Icona Occhio che tutto vede
+TeamsEmblemIcon14ShortName,Icona Occhio che tutto vede
+TeamsEmblemIcon14Description,Equipaggia questa icona di squadra e i tuoi avversari saranno invasi da dubbi a ogni mossa.
+TeamsEmblemFrame10Name,Cornice Pergamena dei ninja
+TeamsEmblemFrame10ShortName,Cornice Pergamena dei ninja
+TeamsEmblemFrame10Description,Una cornice che mostra la devozione della tua squadra all'antica arte ninja.
+TeamsEmblemFrame11Name,Cornice Cognizione
+TeamsEmblemFrame11ShortName,Cornice Cognizione
+TeamsEmblemFrame11Description,Trasmetti le conoscenze superiori della tua squadra in materia di esplosioni di bloon con la Cornice Cognizione.
+BasePropPirateCrewMonkeyName,Equipaggio pirata
+BasePropPirateCrewMonkeyShortName,Equipaggio pirata
+BasePropPirateCrewMonkeyDescription,Arr! Accogli questo furfante nella tua base del Territorio conteso e le altre squadre faranno dietro-front con le vele tra le gambe [Slot Isola].
+BasePropTelescopeName,Telescopio rifrattore
+BasePropTelescopeShortName,Telescopio rifrattore
+BasePropTelescopeDescription,Osserva le meraviglie dell'universo oppure usalo per far pensare alle squadre avversarie di aver spiato il loro percorso per la vittoria [Slot Isola].
+BuildingPropCastleName,Castello fortificato
+BuildingPropCastleShortName,Castello fortificato
+BuildingPropCastleDescription,Regna sulla tua isola e fatti giurare fedeltà dalle altre squadre con questo fantastico elemento medievale per la tua base [Slot Edificio principale].
+WaterPropMiniPirateBoatName,Mini nave pirata
+WaterPropMiniPirateBoatShortName,Mini nave pirata
+WaterPropMiniPirateBoatDescription,"Mentre le altre squadre ti guardano prendere le loro caselle, usa questa potente mini nave per informarle che stai rubando i loro tesori [Slot Acqua]."
+FlyingPropMoonRabbitName,Coniglio lunare
+FlyingPropMoonRabbitShortName,Coniglio lunare
+FlyingPropMoonRabbitDescription,Nei Territori contesi la conquista è all'ordine del giorno e questo adorabile Coniglio lunare conquisterà il cuore di tutti [Slot Aria].
+Deselect,Deseleziona
+CTDailyTitle,Bonus giornaliero
+CTDailySubtitle,Biglietti giocatore di oggi
+CTDailyDescription,Quando un biglietto giocatore è usato per conquistare una casella
+CTDailyTrophies,Trofei bonus giornalieri
+TileRecap,Riepilogo caselle
+PlusCTPoints,+{0} punti TC
+CTRulesInfoSubtitle,"Ti diamo il benvenuto nei Territori contesi! Collabora con la tua squadra, conquista caselle, scala la vetta delle classifiche e ottieni grandi ricompense!"
+CTRulesInfoSectionOne,• I biglietti conquista si consumano solo se conquisti una casella e si aggiornano ogni 24 ore.
+CTRulesInfoSectionTwo,• I biglietti conquista non utilizzati andranno in una riserva di biglietti che possono essere usati dagli altri membri della squadra il giorno successivo. I biglietti squadra non contribuiscono a determinare la posizione personale in classifica.
+CTRulesInfoSectionThree,"• Dopo la conquista, i punteggi casella si deterioreranno nel tempo finché la casella non diventa neutrale."
+CTRulesInfoSectionFour,"• I punti TC si guadagnano conquistando una casella e per ogni ora in cui si continua a detenerne una. I punti TC stabiliscono la tua posizione personale e quella della tua squadra in classifica, perciò conquista caselle ogni volta che puoi!"
+CTRulesInfoSectionFive,• Le caselle banner sono caselle più difficili che danno molti più punti TC.
+CTRulesInfoSectionSix,• Le caselle reliquia permettono alla tua squadra di ottenere potenti conoscenze reliquia che a loro volta ti aiuteranno a conquistare le caselle.
+CTRulesInfoSectionSeven,• I progressi casella si salvano ogni 20 round e puoi avere solo un salvataggio in corso per volta.
+TeamTrophyStoreRulesInfoSubtitle,"Questo è il Negozio trofei della squadra, dove puoi scegliere reliquie TC sbloccate e finanziare poteri giornalieri, reliquie evento e attitudine della squadra."
+TeamTrophyStoreRulesInfoSectionOne,"I poteri giornalieri sono disponibili per lo sblocco ogni giorno durante l'evento TC e, una volta finanziati, possono essere usati da tutta la squadra per quel giorno."
+TeamTrophyStoreRulesInfoSectionTwo,"• Le reliquie evento diventano disponibili durante l'evento TC e, una volta finanziate, sono utilizzabili per il resto dell'evento. Non sono collegate alle reliquie sbloccate tramite le caselle reliquia."
+TeamTrophyStoreRulesInfoSectionThree,• Conquista caselle reliquia e poi scegli fino a 4 conoscenze reliquia preferite da usare in questo evento. Puoi cambiarle in qualsiasi momento.
+TeamTrophyStoreRulesInfoSectionFour,"• L'attitudine della squadra è finanziata da tutta la squadra e, dopo il finanziamento, si sblocca in modo permanente per la squadra. I giocatori che abbandonano la squadra non conservano l'attitudine della squadra."
+PlaySocialCaps,GIOCA SOCIAL
+SelectCapturedRelics,Seleziona fino a 4 reliquie conquistate
+NextBonusIn,Bonus successivo tra:
+MemberCount,Conte membro
+Min,Minimo
+PrimeGamingText,Richiedi il tuo regalo Prime Gaming!
+GetNow,Get Now

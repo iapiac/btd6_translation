@@ -150,7 +150,7 @@ Gwendolin Level 1 Description,Élimine les Bloons par le feu avec son arme de py
 Gwendolin Level 2 Description,Puissance d'éclatement par tir légèrement augmentée.
 Gwendolin Level 3 Description,"Cocktail de flammes : lance violemment une flasque de liquide inflammable, brûlant les Bloons qui traversent le feu."
 Gwendolin Level 4 Description,"Allumer le feu : à un intervalle régulier de quelques secondes, crée une explosion puissante, une vague de flammes qui fait éclater les Bloons et ajoute du feu dans les attaques des singes à proximité."
-Gwendolin Level 5 Description,Puissance d'éclatement augmentée.
+Gwendolin Level 5 Description,"Puissance d'éclatement augmentée. Vitesse d'attaque et rayon augmentés de 10 % pour Anneau de feu, Fusée éclairante et Souffle du dragon."
 Gwendolin Level 6 Description,Les attaques infligent des brûlures au Bloon ciblé.
 Gwendolin Level 7 Description,"Augmentation du rayon d'Allumer le feu, Cocktail de flammes est plus efficace."
 Gwendolin Level 8 Description,Tire 2 explosions de flammes par tir.
@@ -163,7 +163,7 @@ Gwendolin Level 14 Description,Cocktail de flammes inflige plus de dégâts et e
 Gwendolin Level 15 Description,Vitesse d'attaque augmentée.
 Gwendolin Level 16 Description,Tempête de feu dure plus longtemps et inflige plus de dégâts. Les Bloons violets ne sont plus immunisés contre les attaques de Gwendolin.
 Gwendolin Level 17 Description,Allumer le feu permet aux singes affectés de faire éclater une couche de plus et d'infliger +2 dégâts aux Bloons en plomb.
-Gwendolin Level 18 Description,Vitesse d'attaque augmentée.
+Gwendolin Level 18 Description,"Vitesse d'attaque augmentée. Vitesse d'attaque et rayon augmentés de 20 % pour Anneau de feu, Fusée éclairante et Souffle du dragon."
 Gwendolin Level 19 Description,Tire 3 explosions de flammes par tir.
 Gwendolin Level 20 Description,La tempête de feu inflige des dégâts immensément supérieurs.
 ,
@@ -232,11 +232,11 @@ ObynGreenfoot Level 20 Description,Le mur d'arbres peut retenir bien plus de Blo
 ,
 Ezili Level 1 Description,Ezili maudit les Bloons avec son sombre pouvoir vaudou.
 Ezili Level 2 Description,Portée d'attaque augmentée.
-Ezili Level 3 Description,Coup de cœur : empêche tout regonflage de se dérouler pendant 6 secondes.
+Ezili Level 3 Description,"Coup de cœur : ralentit les Bloons, permet de faire éclater les violets et empêche tout regonflage pendant 10 secondes."
 Ezili Level 4 Description,L'attaque principale d'Ezili maudit désormais plusieurs Bloons.
 Ezili Level 5 Description,Vitesse d'attaque augmentée.
 Ezili Level 6 Description,Les dégâts au fil du temps durent plus longtemps et sont infligés plus rapidement.
-Ezili Level 7 Description,"Totem du sacrifice : totem qui accorde une détection des Bloons camouflés, et une augmentation du pouvoir perforant, de la portée d'attaque, de la durée d'attaque et de la vitesse de projectile aux singes à proximité. Épuise 10 vies."
+Ezili Level 7 Description,"Totem du sacrifice : totem qui accorde une détection des Bloons camouflés, et une augmentation du pouvoir perforant, de la portée d'attaque, de la vitesse d'attaque et de la vitesse de projectile aux singes à proximité, en particulier aux singes sorciers. Épuise 10 vies."
 Ezili Level 8 Description,L'attaque d'Ezili inflige bien plus de dégâts aux Bloons de classe MOAB.
 Ezili Level 9 Description,"L'attaque d'Ezili retire les propriétés de camouflage, de regonflage et de fortification de tous les Bloons, sauf pour ceux de classe MOAB."
 Ezili Level 10 Description,"Sortilège MOAB : jette un sort sur un Bloon de classe MOAB, qui reçoit des dégâts toutes les secondes jusqu'à annihilation."
@@ -282,8 +282,8 @@ Rallying Roar Ability Description,Tous les singes à proximité peuvent faire é
 Big Squeeze Ability Description,"Attrape un MOAB, un BFB, un DDT (s'il est visible) ou un ZOMG et l'écrase violemment pendant 5 secondes."
 Brambles Ability Description,Crée un buisson piquant sur le circuit qui peut faire éclater 50 Bloons.
 Wall of Trees Ability Description,"Invoque un mur d'arbres traversant le circuit pour détruire tout Bloon qui y entrera. Lorsque plein, les arbres se transforment en argent."
-Heartstopper Ability Description,Empêche tout regonflage de se dérouler pendant 6 secondes.
-Sacrificial Totem Ability Description,"Totem qui accorde une détection des Bloons camouflés, et une augmentation du pouvoir perforant, de la portée d'attaque, de la vitesse d'attaque et de la vitesse de projectile aux singes à proximité. Épuise 10 vies."
+Heartstopper Ability Description,Permet de faire éclater les violets et empêche tout regonflage pendant 10 secondes.
+Sacrificial Totem Ability Description,"Totem qui accorde une détection des Bloons camouflés, et une augmentation du pouvoir perforant, de la portée d'attaque, de la vitesse d'attaque et de la vitesse de projectile aux singes à proximité, en particulier aux singes sorciers. Épuise 10 vies."
 MOAB Hex Ability Description,"Jette un sort sur un Bloon de classe MOAB, qui reçoit des dégâts toutes les secondes jusqu'à annihilation."
 ,
 //Hero Misc,
@@ -694,7 +694,7 @@ Long Range Darts Description,Le singe à fléchettes tire plus loin que d’habi
 Razor Sharp Shots Description,Peut faire éclater 2 Bloons en plus par tir.
 Very Quick Shots Description,Tire 33 % plus vite !
 Enhanced Eyesight Description,Tire encore plus loin et peut détecter les Bloons camouflés.
-Spike-o-pult Description,Convertit le singe à fléchettes en herse-a-pulte qui lance violemment une boule à pointes au lieu des fléchettes. Bonne portée mais vitesse d'attaque plus lente. Chaque boule peut faire éclater de nombreux Bloons et rebondit sur les obstacles.
+Spike-o-pult Description,Convertit le singe à fléchettes en herse-a-pulte à la vitesse d'attaque moins rapide qui lance violemment des boules à pointes. Chaque boule peut faire éclater de nombreux Bloons et rebondit sur les obstacles.
 Triple Shot Description,Lance 3 fléchettes à la fois au lieu d’une.
 Crossbow Description,Utilise une arbalète qui peut faire éclater 3 couches de Bloon à chaque tir.
 Juggernaut Description,Lance violemment une boule à pointes géante qui fait éclater les Bloons en plomb et est idéale pour pulvériser les Bloons en céramique.
@@ -756,7 +756,7 @@ Permafrost Description,"Les Bloons se déplacent lentement, même après avoir d
 Enhanced Freeze Description,Attaque plus rapidement et gèle plus longtemps.
 Larger Radius Description,Zone de gel plus large.
 Metal Freeze Description,Peut geler et faire éclater les Bloons en plomb et camouflés.
-Deep Freeze Description,Gèle à travers 2 couches de Bloon.
+Deep Freeze Description,Gèle une couche supplémentaire et le gel dure plus longtemps.
 Re-Freeze Description,Peut regeler les Bloons qui ont déjà été gelés.
 Ice Shards Description,"Des éclats, tels des rasoirs, s'envolent lorsque les Bloons gelés éclatent."
 Arctic Wind Description,Augmente considérablement la percée et confère une aura super froide qui ralentit les Bloons et gèle l'eau à proximité.
@@ -798,13 +798,13 @@ Supply Drop Description,Aptitude Caisse de ravitaillement : largue une caisse r
 Full Auto Rifle Description,Arme entièrement automatique dotée d'une puissance d'éclatement incroyable.
 Cripple MOAB Description,Les MOAB paralysés sont immobilisés pour plus longtemps et subissent davantage de dégâts lorsque touchés par toutes les autres attaques.
 Elite Sniper Description,Les caisses de ravitaillement fournissent davantage d'argent. Accorde une priorité de ciblage d'élite et un rechargement plus rapide à tous les snipers.
-Elite Defender Description,"Une vie perdue donne à ce sniper une vitesse d'attaque 4 fois supérieure pendant une courte durée, en représailles. En plus de cela, plus les Bloons sont avancés sur le circuit et plus il attaque rapidement. Inflige plus de dégâts aux Bloons de classe MOAB."
+Elite Defender Description,"Tire très vite et plus les Bloons ont avancé sur le circuit, plus les tirs sont rapides. Obtient brièvement 4x plus de vitesse d'attaque lorsque des vies sont perdues. Inflige davantage de dégâts aux Bloons de classe MOAB."
 ,
 Longer Range Description,Augmente la portée d'attaque.
 Barbed Darts Description,Les fléchettes des sous-marins peuvent faire éclater 3 Bloons supplémentaires.
 Twin Guns Description,Le double canon multiplie par deux la vitesse d’attaque. Améliore le Missile balistique et le Réacteur au bloontonium.
 Advanced Intel Description,Permet un ciblage de longue portée sur les Bloons dans un rayon autour de vos autres tours.
-Heat-tipped Darts Description,Les fléchettes à pointes brûlantes permettent de faire exploser les Bloons gelés et en plomb.
+Heat-tipped Darts Description,Les fléchettes à pointes brûlantes permettent au sous-marin singe de faire éclater les Bloons gelés et en plomb.
 Airburst Darts Description,Fléchettes à air divisées en 3 à l'impact pour augmentation massive de la puissance d'éclatement. Améliore encore plus le Réacteur au bloontonium.
 Submerge and Support Description,"Ajoute l'option de ciblage Immersion qui révèle les Bloons camouflés dans son rayon de façon permanente, mais n'attaque pas tant qu'il est immergé."
 Ballistic Missile Description,Le missile cherche une cible à portée et inflige des dégâts supplémentaires aux Bloons MOAB et en céramique.
@@ -826,7 +826,7 @@ Buccaneer-Destroyer Description,Attaque super hyper rapidement !
 Buccaneer-Cannon Ship Description,Ajoute un canon puissant qui tire des bombes puissantes.
 Buccaneer-Merchantman Description,"Génère de l'argent à chaque manche, automatiquement."
 Buccaneer-Aircraft Carrier Description,Lance des vagues d'avions de chasse qui mitraillent leurs cibles et tirent des missiles sur les Bloons de classe MOAB.
-Buccaneer-Monkey Pirates Description,Ajoute 2 canons au navire et les attaques au canon infligent plus de dégâts. Aptitude Démolition de MOAB : harponne un Bloon de classe MOAB et l'élimine.
+Buccaneer-Monkey Pirates Description,Ajoute 2 canons au navire et les attaques infligent plus de dégâts. Aptitude Démolition de MOAB : harponne un Bloon de classe MOAB et l'élimine.
 Buccaneer-Favored Trades Description,Attaque plus rapidement et génère beaucoup d'argent à chaque manche. La valeur de revente des singes situés dans le rayon est augmentée.
 Buccaneer-Carrier Flagship Description,Inflige davantage de dégâts. Peut placer d'autres singes sur les ponts supérieurs du navire et augmente la vitesse d'attaque de tous les singes aquatiques et singes pilotes d'élite.
 Buccaneer-Pirate Lord Description,"Vitesse d'attaque considérablement augmentée pour toutes les attaques et peut tirer 3 grappins à la fois, recevant de l'argent supplémentaire de chaque Bloon de classe MOAB abattu."
@@ -874,11 +874,11 @@ Shockwave Description,"L'onde de choc de l'explosion assomme les Bloons à l'imp
 Heavy Shells Description,"Les obus lourds infligent davantage de dégâts aux Bloons en céramique, en plomb, à tous les fortifiés et à tous les Bloons étourdis. Peut aussi faire éclater les Bloons noirs."
 Signal Flare Description,Les Bloons camouflés éclatés par des fusées éclairantes perdent leur camouflage de façon permanente.
 The Big One Description,Les explosions dévastatrices font éclater 7 couches de Bloons chacune et les dégâts de Ça crame sont encore plus augmentés.
-Artillery Battery Description,Aptitude bombardement : déclenche une attaque à feu nourri sur une zone légèrement plus étendue. L'attaque principale est améliorée à 3 canons pour effectuer des attaques extrêmement rapides.
+Artillery Battery Description,Aptitude bombardement : déclenche une attaque à feu nourri sur une zone légèrement plus étendue. L'attaque principale inflige plus de dégâts aux BAD et aux boss Bloons et est améliorée à 3 canons pour effectuer des attaques extrêmement rapides. 
 Shattering Shells Description,Toutes les propriétés spéciales des Bloons sont détruites sur les Bloons (excepté les plus gros Bloons) touchés par les obus fracassants.
 The Biggest One Description,Fait exploser de nombreuses couches de Bloons sur une vaste étendue et Ça crame inflige des dégâts puissants.
-Pop and Awe Description,"Aptitude Stupeur d'éclatement : fait pleuvoir des explosions sur tout l'écran, faisant éclater et immobilisant tous les Bloons pendant quelques secondes."
-Blooncineration Description,"Des trucs super chauds et brûlants brûlent 5 couches de Bloons à chaque tour, peuvent brûler les Bloons de classe MOAB et leur infliger des dégâts supplémentaires, et supprimer le camouflage des Bloons DDT."
+Pop and Awe Description,"Aptitude Stupeur d'éclatement : fait pleuvoir des explosions sur tout l'écran, endommageant et immobilisant tous les Bloons pendant quelques secondes. Tous les Déluges d'artillerie infligent plus de dégâts aux BAD et aux boss Bloons. L'attaque principale inflige un bonus de dégâts supplémentaire aux Bloons étourdis."
+Blooncineration Description,"Des trucs super chauds et brûlants brûlent 5 couches de Bloons à chaque tour, peuvent brûler les Bloons de classe MOAB et leur infliger des dégâts supplémentaires."
 ,
 Focused Firing Description,Augmente la précision de la mitrailleuse à fléchettes.
 Advanced Targeting Description,Permet aux mitrailleuses à fléchettes de toucher les Bloons camouflés.
@@ -918,7 +918,7 @@ Super Range Description,Les super singes ont besoin de super portée.
 Knockback Description,Les Bloons se font repousser ou ralentir après chaque tir.
 Plasma Blasts Description,Le plasma vaporise tout ce qu’il touche.
 Epic Range Description,Pourquoi se contenter de super quand on peut avoir de l’ÉPIQUE ?
-Ultravision Description,Permet au super singe de tirer un peu plus loin et de voir les Bloons camouflés.
+Ultravision Description,"Permet au super singe de tirer un peu plus loin, de voir les Bloons camouflés et de leur infliger plus de dégâts."
 Sun Avatar Description,Canalise le pouvoir du noyau solaire.
 Robo Monkey Description,"Moitié super singe, moitié robot tueur de la mort. Tire avec deux pistolets en même temps et peut infliger des tirs critiques !"
 Dark Knight Description,Les lames noires augmentent la poussée et la percée et infligent davantage de dégâts aux Bloons de classe MOAB. Confère l'aptitude Téléportation obscure permettant de se téléporter jusqu'à un endroit à proximité.
@@ -951,7 +951,7 @@ Acid Pool Description,"Si aucun Bloon ne se trouve à proximité, l'alchimiste p
 Acidic Mixture Dip Description,"Lance une potion utile sur les singes à proximité, leur permettant de faire éclater les Bloons en plomb et d'infliger davantage de dégâts aux Bloons en céramique et aux Bloons de classe MOAB. L'effet se dissipe après quelques attaques."
 Perishing Potions Description,Les potions d'attaque infligent plus de dégâts aux Bloons de classe MOAB et suppriment la propriété de fortification des Bloons de plus petite taille. Rend également les préparations et les stimulants plus puissants.
 Alchemist Faster Throwing Description,Lance des potions et attaque plus rapidement.
-Berserker Brew Description,"Concoction spéciale qui donne aux singes une plus grande capacité de dégâts, et une plus grande portée et vitesse d'attaque. Dure plus longtemps."
+Berserker Brew Description,"Lance une concoction spéciale aux singes à proximité, leur permettant d'infliger plus de dégâts et leur conférant une portée et une vitesse d'attaque accrues."
 Unstable Concoction Description,Enrobe les Bloons de classe MOAB d'une substance explosive qui cause une large explosion lorsqu'ils se font éclater.
 Lead to Gold Description,"Convertit les Bloons en plomb en OR ! Des dissolvants spéciaux infligent des dégâts supplémentaires aux Bloons en plomb, les détruisant en un coup et générant de l'argent."
 Stronger Stimulant Description,Concoction de berserker super concentrée dont l'effet sur la cible est encore plus puissant. Dure encore plus longtemps.
@@ -1870,7 +1870,7 @@ RapidRazorsDescription,Les rotors rasoirs font éclater les Bloons plus rapideme
 BudgetBattery,Artillerie économique
 BudgetBatteryDescription,Coût du déluge d'artillerie réduit de 600.
 PaintStripper,Décapant
-PaintStripperDescription,Les obus de mortier fracassants suppriment le camouflage des Bloons DDT.
+PaintStripperDescription,Les obus de mortier fracassants suppriment la fortification des Bloons DDT.
 CheaperMaiming,Mutilation moins chère
 CheaperMaimingDescription,Coût de la mutilation de MOAB réduit de 1 000.
 ChargedChinooks,Chinooks chargés
@@ -2355,7 +2355,7 @@ RaceFinishedPlaceAndTime,Tu as complété {0} avec un meilleur temps de {1}
 Heartstopper Ability,Coup de cœur
 Sacrificial Totem Ability,Totem du sacrifice
 MOAB Hex Ability,Sortilège MOAB
-RaceClock,Horloge rare
+RaceClock,Horloge Course
 LoginRequiredTitle,Connexion requise
 LoginRequiredBody,Tu dois être connecté pour accéder à cette fonctionnalité
 EventRewardsTitle,Récompenses d'événement
@@ -2638,17 +2638,17 @@ Adora Level 5 Description,Les Éclairs divins transpercent plus de Bloons
 Adora Level 6 Description,Tire 3 Éclairs divins à la fois.
 Adora Level 7 Description,Sacrifice de sang : Sacrifie une tour ciblée pour conférer une quantité importante d'XP à Adora et augmenter sa portée d'attaque et sa cadence de tir pendant un bref laps de temps.
 Adora Level 8 Description,Tire 4 Éclairs divins à la fois.
-Adora Level 9 Description,Portée d'attaque augmentée.
+Adora Level 9 Description,Portée d'attaque et dégâts augmentés aux Bloons fortifiés.
 Adora Level 10 Description,Boule de lumière : génère une puissante boule d'énergie qui abat les Bloons.
 Adora Level 11 Description,Adora augmente la vitesse d'attaque.
 Adora Level 12 Description,Tire 5 Éclairs divins à la fois.
-Adora Level 13 Description,Les Éclairs divins transpercent encore plus de Bloons.
+Adora Level 13 Description,Les Éclairs divins transpercent encore plus de Bloons. Inflige plus de dégâts aux Bloons fortifiés.
 Adora Level 14 Description,Tire 6 Éclairs divins à la fois.
 Adora Level 15 Description,Les Éclairs divins brûlent une couche de Bloons en plus et Boule de lumière inflige plus de dégâts.
 Adora Level 16 Description,Le Bras de la lumière devient encore plus mortel.
 Adora Level 17 Description,Adora augmente encore plus la vitesse d'attaque.
 Adora Level 18 Description,Tire 8 Éclairs divins à la fois.
-Adora Level 19 Description,Portée d'attaque augmentée.
+Adora Level 19 Description,Portée d'attaque augmentée. Inflige plus de dégâts aux Bloons fortifiés.
 Adora Level 20 Description,La Boule de lumière est considérablement améliorée et la cadence de tir la portée et les buffs de durée des Sacrifices sont augmentés.
 Carved,Taillée
 BloodyPuddles,Flaques mortelles
@@ -2700,7 +2700,7 @@ WolfpackQuincySkinName,Quincy Meute de loups
 WolfpackQuincySkinDescription,"Issu de jours anciens plus sauvages, lorsque tous les chasseurs étaient forts et la meute plus forte encore, voici Quincy, ancêtre de Quincy."
 Infernal,Infernal
 DownloadButton,Téléchargement
-DownloadDescription,Téléchargement de fichiers additionnels. Connexion Wi-Fi recommandée. Taille des données {0}Mo
+DownloadDescription,Fichiers mis à jour requis avant de jouer. Connexion Wi-Fi recommandée. Taille des données {0}Mo
 ViewCollectionButton,Voir collection
 ViewInventoryButton,Voir inventaire
 CollectionDescription,"Les singes instantanés demeureront visibles dans votre collection, même après avoir été utilisés."
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] pour effectuer Téléportation obscure à portée
 DarkChampionDarkshift,[I] pour effectuer Téléportation obscure à tout endroit valide
 SmallTowersMode,Petites tours de singe
 BigTowersMode,Grandes tours de singe
-UpdatePopupTitle,Mise à jour 32 !
-UpdatePopupDescription,"Mise à jour épique Territoires contestés !\n• Nouvel événement énorme : Territoires contestés - capturez des cases d'autres équipes pour régner sur le classement !\n • Équipes ! Rassemblez vos amis et formez une équipe imbattable pour conquérir le Territoire contesté\n• Nouveau parangon : Maître bâtisseur\n• Nouvelle apparence de héros : Néandora\n• Nouvelle carte de niveau intermédiaire : Carrière\n• Articles de Boutique de trophées, améliorations de qualité de vie, modifications d'équilibrage et bien plus encore !"
+UpdatePopupTitle,Mise à jour 33 !
+UpdatePopupDescription,"Mise à jour importante de contenu !\n• Libérez le puissant Navire de la mort Goliath, Parangon singe pilote d'élite !\n• Cultivez de la puissance d'éclatement de Bloons sur la carte de niveau intermédiaire, Jardin couvert ! Conception par le vainqueur de la compétition de cartes de la communauté, SuperPsou.\n• Hantez les couloirs de l'effrayante nouvelle carte de niveau avancé, Manoir de minuit !\n• Articles de Boutique de trophées, améliorations de qualité de vie, modifications d'équilibrage et bien plus encore !"
 ResetDailyChest,Réinitialiser le Coffre quotidien
 JukeboxName,Juke-box
 EnableFunction,Activer
@@ -4413,11 +4413,11 @@ GameUIProfileAvatar59Description,Il y a de l'amour dans son regard. La question 
 GameUIProfileAvatar60Name,Avatar de Striker Jones
 GameUIProfileAvatar60ShortName,Avatar de Striker Jones
 GameUIProfileAvatar60Description,Striker Jones prêt pour le service ! Montrez votre enthousiasme pour la victoire avec les salutations de votre singe lanceur de roquettes préféré.
-GameUIProfileBanner13Name,Bannière Arrivée
-GameUIProfileBanner13ShortName,Bannière de profil Arrivée
+GameUIProfileBanner13Name,Bannière de profil Arrivée
+GameUIProfileBanner13ShortName,Bannière Arrivée
 GameUIProfileBanner13Description,Bannière gagnante par betapotata
-GameUIProfileBanner14Name,Bannière Sous les eaux
-GameUIProfileBanner14ShortName,Bannière de profil Sous les eaux
+GameUIProfileBanner14Name,Bannière de profil Sous les eaux
+GameUIProfileBanner14ShortName,Bannière Sous les eaux
 GameUIProfileBanner14Description,Bannière gagnante par Cyliia
 GameUIMusicTrackMusicSunshineFiestaMixName,Juke-box : Sérénade solaire - Remix Fiesta
 GameUIMusicTrackMusicSunshineFiestaMixShortName,Sérénade - Fiesta
@@ -4588,7 +4588,7 @@ TeamBannersTitle,Bannières
 TeamGeneralTitle,Général
 TeamSettingPublicTitle,Public
 TeamSettingPrivateTitle,Privé
-TeamSettingClosedTitle,Fermé
+TeamSettingClosedTitle,Par invitation uniquement
 TeamJoin,Rejoindre
 TeamApply,Postuler
 RecentWin,Victoire récente :
@@ -4600,8 +4600,8 @@ Tile,Case : {0}
 RelicTile,Case relique
 BannerTile,Case bannière
 BonusCTPoints,Points TC bonus !
-DailyRelics,Reliques quotidiennes
-HeldRelics,Reliques détenues
+DailyRelics,Pouvoir quotidien et Reliques d'événement
+HeldRelics,Reliques capturées
 Tickets,Tickets :
 PurchaseTickets,Acheter un ticket
 MoreTicketsIn,Plus de tickets dans :
@@ -4728,7 +4728,7 @@ RelicExtraEmpoweredDescription,Votre héros débute une partie avec 3 niveaux de
 RelicBoxOfChocolatesDescription,Débutez chaque partie avec 100 vies supplémentaires
 RelicBoxOfMonkeyDescription,Débutez chaque partie avec un singe gratuit coûtant 500 $ ou moins pour un placement initial non modifié
 RelicMarchingBootsDescription,"Dans les parties à quantité restreinte, donne aux joueurs +1 en quantité max. de chaque tour de leur configuration ou +4 en quantité totale max. par partie"
-RelicHeroBoostDescription,Les héros gagnent des XP 10 % plus vite dans chaque partie
+RelicHeroBoostDescription,Les héros gagnent des XP 15 % plus vite dans chaque partie
 RelicBiggerBloonSabotageDescription,Tous les Bloons de classe MOAB apparaissent avec 15 % de santé en moins et se déplacent à 95 % de la vitesse
 RelicRoundingUpDescription,Gagnez +20 $ à la fin de chaque manche
 RelicManaBulwarkDescription,Crée un bouclier qui absorbe jusqu'à 50 vies (se cumule avec Bouclier de mana sur les cases ordinaires)
@@ -4742,11 +4742,11 @@ RelicRoyalTreatmentDescription,Toutes les attaques peuvent faire éclater les Bl
 RelicHardBakedDescription,Toutes les attaques infligent + 1 de dégâts aux Bloons en céramique
 RelicFortifriedDescription,Toutes les attaques infligent + 1 de dégâts aux Bloons fortifiés.
 RelicMoabClashDescription,Toutes les attaques infligent +3 de dégâts aux Bloons de classe MOAB
-RelicCamoFloggedDescription,Toutes les attaques infligent + 1 de dégâts aux Bloons camouflés
+RelicCamoFloggedDescription,Toutes les attaques infligent + 3 de dégâts aux Bloons camouflés
 RelicBrokenHeartDescription,Toutes les attaques infligent + 1 de dégâts aux Bloons regonflés
-RelicGoingTheDistanceDescription,Confère +10 % de portée à tous les singes
+RelicGoingTheDistanceDescription,Confère +20 % de portée à tous les singes
 RelicHeartlessDescription,Le taux de régénération des Bloons regonflés est réduit de 25 %
-RelicFlintTipsDescription,Les projectiles acérés ajoutent des dégâts de feu au fil du temps à tous les Bloons auxquels ils infligent des dégâts (1 en dégâts toutes les 2 s pendant 4 s au total)
+RelicFlintTipsDescription,"Les projectiles acérés ajoutent des dégâts de feu au fil du temps à tous les Bloons auxquels ils infligent des dégâts (1 en dégâts toutes les 2,5 s pendant 5 s au total)"
 RelicAbilitizedDescription,Tous les temps de recharge des aptitudes activées pour tous les singes sont réduits de 10%.
 RelicAirAndSeaDescription,"Les coûts de placement et d'amélioration du pilote d'élite, du pilote d'hélicoptère, du boucanier et du sous-marin sont réduits de 10 % et le rechargement est amélioré de 5 %."
 RelicElDoradoDescription,Toutes les récompenses en monnaie de singe et en trophées d'équipe découlant de victoires de parties sont augmentées de 25 % (+1 au minimum)
@@ -4755,7 +4755,7 @@ RelicMonkeyShieldMark2Description,"Pendant 2 heures après sa capture, une case 
 RelicMonkeyShieldMark3Description,"Pendant 3 heures après sa capture, une case ne peut être attaquée par les autres équipes. Un score amélioré réinitialisera l'effet."
 RelicPsiVisionDescription,Vous voyez les détails complets pour toutes les cases sur la carte
 RelicOpenSeasonDescription,Attaquez n'importe quelle case sur la carte
-RelicCamoTrapDescription,Permet l'utilisation de 2 bonus Piège anticamouflage par partie
+RelicCamoTrapDescription,Permet l'utilisation de 1 bonus Piège anticamouflage par partie
 RelicThriveDescription,Permet l'utilisation de 2 bonus Expansion par partie
 RelicSuperMonkeyStormDescription,Permet l'utilisation de 2 bonus Tempête de super singes par partie
 RelicMonkeyBoostDescription,Permet l'utilisation de 3 Boosts de singe par partie
@@ -4792,7 +4792,7 @@ TeamBrowserTitle,Navigateur d'équipe
 TeamBrowserSearchField,Saisir le nom d'équipe...
 TeamBrowserSearchHideFull,Masquer les équipes au complet
 TeamBrowserSearchHidePrivate,Masquer les équipes privées
-TeamBrowserSearchHideClosed,Masquer les équipes fermées
+TeamBrowserSearchHideClosed,Masquer les équipes par invitation uniquement
 TeamEditApplyAll,Tout appliquer
 TeamScore,Score : {0}
 TeamRemoveMember,Voulez-vous vraiment retirer ce membre ?
@@ -4821,7 +4821,7 @@ TeamMateSetScore,Un(e) coéquipier(-ère) a réalisé un nouveau score à battre
 AnotherTeamSetScore,Une autre équipe a réalisé un nouveau score à battre !
 FriendScreenErrorTeamInviteAlreadyMember,Ce joueur fait déjà partie de votre équipe
 TotalTeamScore,Score d'équipe
-CTRulesInfo,"Bienvenue dans Territoires contestés ! Travaillez en tant qu'équipe, capturez des cases, grimpez au sommet des classements et gagnez de super récompenses !\n\n• Les tickets de capture ne sont utilisés que si vous capturez une case. Ils sont actualisés toutes les 24 heures.\n• Les tickets de capture non utilisés seront placés dans un pot commun de tickets que d'autres membres de l'équipe pourront utiliser le jour suivant.\n• Une fois les cases capturées, les scores des cases se dégraderont lentement au fil du temps, jusqu'à ce que la case devienne neutre au bout de 24 heures.\n• Les points TC sont obtenus lorsque vous capturez une case et pour chaque heure où vous continuez à détenir une case. Les points TC déterminent votre place personnelle et celle de votre équipe au classement, alors capturez des cases aussi souvent que vous le pourrez !\n• Les cases bannière sont des cases plus difficiles à capturer qui donnent beaucoup plus de points TC.\n• Les cases relique donnent accès à votre équipe à de puissantes connaissances de reliques qui vous aideront à capturer d'autres cases.\n• L'avancement en termes de cases est sauvegardé toutes les 20 manches et vous ne pouvez avoir qu'une sauvegarde en cours à la fois.\n• Votez pour vos reliques préférées à la Boutique de trophées d'équipe, puis choisissez quelles reliques vous emmenez au combat avec vous sur la page de pré-partie. "
+CTRulesInfo,"Bienvenue dans Territoires contestés ! Travaillez en tant qu'équipe, capturez des cases, grimpez au sommet des classements et gagnez de super récompenses !\n\n• Les tickets de capture ne sont utilisés que si vous capturez une case. Ils sont actualisés toutes les 24 heures.\n• Les tickets de capture non utilisés seront placés dans un pot commun de tickets que d'autres membres de l'équipe pourront utiliser le jour suivant. Les tickets d'équipe ne contribuent pas à la position individuelle au classement.\n• Une fois les cases capturées, les scores des cases se dégraderont lentement au fil du temps, jusqu'à ce que la case finisse par devenir neutre.\n• Les points TC sont obtenus lorsque vous capturez une case et pour chaque heure où vous continuez à détenir une case. Les points TC déterminent votre place personnelle et celle de votre équipe au classement, alors capturez des cases aussi souvent que vous le pourrez !\n• Les cases bannière sont des cases plus difficiles à capturer qui donnent beaucoup plus de points TC.\n• Les cases relique donnent accès à votre équipe à de puissantes connaissances de reliques qui vous aideront à capturer d'autres cases.\n• L'avancement en termes de cases est sauvegardé toutes les 20 manches et vous ne pouvez avoir qu'une sauvegarde en cours à la fois."
 TeamTrophyStoreRulesInfo,"Ceci est la Boutique de trophées d'équipe, où vous pouvez voter pour les reliques TC débloquées, financer les pouvoirs quotidiens, les reliques d'événement et le panache d'équipe.\n• Les pouvoirs quotidiens peuvent être débloqués chaque jour pendant l'événement TC et une fois qu'ils sont financés, ils peuvent être utilisés par tous les membres de l'équipe ce jour-là.\n• Les reliques d'événement deviennent disponibles au fil de l'événement TC et une fois qu'elles sont financées, elles peuvent être utilisées pour le reste de cet événement. Elles sont distinctes des reliques débloquées via les cases relique.\n• Capturez des cases relique puis votez pour vos connaissances de reliques préférées débloquées pendant cet événement. Les 7 reliques ayant le plus de votes deviendront disponibles et vous pourrez choisir votre configuration finale de 4 reliques parmi elles.\n• Le panache d'équipe est financé par l'ensemble de l'équipe et une fois financé, il est débloqué de manière permanente pour votre équipe. Les joueurs qui quittent l'équipe ne prennent pas de panache d'équipe avec eux."
 TeamsBanner1Name,Bannière Singes dans l'espace
 TeamsBanner2Name,Bannière Équipe de héros parée
@@ -4912,22 +4912,22 @@ BasePropSatelliteShortName,Véhicule satellite mobile
 BasePropTortoiseShortName,Tortue terrestre tribale
 BasePropBattleMonkeyShortName,Singe de bataille
 BuildingPropBattleTowerShortName,Bâtiment tour de base
-BuildingPropWizardTowerDescription,Une aventure magique attend toute équipe capable de financer cette base mystique.
-BuildingPropLighthouseDescription,Éclairez le chemin de votre équipe avec cette base principale lumineuse.
-FlyingPropPhoenixDescription,"Tout le monde se demande s'il y a un singe sorcier là-haut, mais a-t-on réfléchi au fait que tous les singes sorciers sont peut-être simplement des phénix qui attendent leur résurrection ?"
-FlyingPropMiniAceDescription,Laissez le singe pilote d'élite surveiller les airs pour votre équipe avec ce mini-pilote d'élite adorable.
-WaterPropKrakenDescription,Libérez le kraken ! Régnez sur les vagues avec cette créature sous-marine géante étonnamment adorable.
-WaterPropMiniSubDescription,Sortez les périscopes ! Effectuez une reconnaissance de la zone avec le mini-sous-marin.
-BasePropKingDescription,Bienvenue à notre formidable nouvelle ville des sin... Je veux dire Territoire contesté ! Ces terres sont à saisir et elles sont infestées de Bloons ! Éclatez-les et prenez possession du territoire pour votre équipe.
-BasePropLighthouseKeeperDescription,Ce vieux singe sage s'occupe du phare et il est toujours à l'affût de navires qui passent dans la nuit.
-BasePropCrashedMoabDescription,"Une équipe de savants singes experts ont déjà fouillé cette épave pour récupérer toute technologie utile, elle n'est plus là que pour servir d'avertissement aux autres Bloons."
-BasePropTrainingDummyDescription,Aguerrissez vos singes à fléchettes avec ce mannequin d'entraînement 100 % réutilisable certifié par le Dr Singe !
-BasePropCampfireDescription,"Réchauffez votre équipe lors des nuits fraîches, ou racontez des histoires qui font peur au sujet des Territoires contestés d'antan, au coin de ce feu de camp."
-BasePropTotemDescription,Protégez vos frontières avec ce totem tribal à l'aspect effrayant.
-BasePropSatelliteDescription,"Tirez des flux d'informations directement de l'espace avec ce véhicule satellite mobile, prêt à rouler !"
-BasePropTortoiseDescription,"Ne lui demandez pas s'il a des parents tribaux, surtout des tortues de mer !"
-BasePropBattleMonkeyDescription,"Singe de Territoire contesté, prêt pour l'action !"
-BuildingPropBattleTowerDescription,Toute aventure en Territoire contesté requiert une base robuste.
+BuildingPropWizardTowerDescription,Une aventure magique attend toute équipe capable de financer cette base mystique. [Emplacement de bâtiment principal]
+BuildingPropLighthouseDescription,Éclairez le chemin de votre équipe avec cette base principale lumineuse. [Emplacement de bâtiment principal]
+FlyingPropPhoenixDescription,"Tout le monde se demande s'il y a un singe sorcier là-haut, mais a-t-on réfléchi au fait que tous les singes sorciers sont peut-être simplement des phénix qui attendent leur résurrection ? [Emplacement aérien]"
+FlyingPropMiniAceDescription,Laissez le singe pilote d'élite surveiller les airs pour votre équipe avec ce mini-pilote d'élite adorable. [Emplacement aérien]
+WaterPropKrakenDescription,Libérez le kraken ! Régnez sur les vagues avec cette créature sous-marine géante étonnamment adorable. [Emplacement aquatique]
+WaterPropMiniSubDescription,Sortez les périscopes ! Effectuez une reconnaissance de la zone avec le mini-sous-marin. [Emplacement aquatique]
+BasePropKingDescription,Bienvenue à notre formidable nouvelle ville des sin... Je veux dire Territoire contesté ! Ces terres sont à saisir et elles sont infestées de Bloons ! Éclatez-les et prenez possession du territoire pour votre équipe. [Emplacement d'île]
+BasePropLighthouseKeeperDescription,Ce vieux singe sage s'occupe du phare et il est toujours à l'affût de navires qui passent dans la nuit. [Emplacement d'île]
+BasePropCrashedMoabDescription,"Une équipe de savants singes experts ont déjà fouillé cette épave pour récupérer toute technologie utile, elle n'est plus là que pour servir d'avertissement aux autres Bloons. [Emplacement d'île]"
+BasePropTrainingDummyDescription,Aguerrissez vos singes à fléchettes avec ce mannequin d'entraînement 100 % réutilisable certifié par le Dr Singe ! [Emplacement d'île]
+BasePropCampfireDescription,"Réchauffez votre équipe lors des nuits fraîches, ou racontez des histoires qui font peur au sujet des Territoires contestés d'antan, au coin de ce feu de camp. [Emplacement d'île]"
+BasePropTotemDescription,Protégez vos frontières avec ce totem tribal à l'aspect effrayant. [Emplacement d'île]
+BasePropSatelliteDescription,"Tirez des flux d'informations directement de l'espace avec ce véhicule satellite mobile, prêt à rouler ! [Emplacement d'île]"
+BasePropTortoiseDescription,"Ne lui demandez pas s'il a des parents tribaux, surtout des tortues de mer ! [Emplacement d'île]"
+BasePropBattleMonkeyDescription,"Singe de Territoire contesté, prêt pour l'action ! [Emplacement d'île]"
+BuildingPropBattleTowerDescription,Toute aventure en Territoire contesté requiert une base robuste. [Emplacement de bâtiment principal]
 Neutral,Neutre
 TilesCaptured,Cases capturées :
 CTPointsEarnt,Points TC gagnés :
@@ -4972,22 +4972,149 @@ Now,Maintenant
 Players,Joueurs
 LocalRewards,Récompenses locales
 GlobalRewards,Récompenses mondiales
-RewardsTop10,Top 10
-RewardsTop20,Top 20
-RewardsTop40,Top 40
-RewardsTop60,Top 60
+RewardsTop10,Top 10
+RewardsTop20,Top 20
+RewardsTop40,Top 40
+RewardsTop60,Top 60
 RewardsTopX,Top {0}
-Rank5th,5ème
-Rank6th,6ème
-TeamName,Nom de l'équipe
-CTPoints,Points CT
+Rank5th,5e
+Rank6th,6e
+TeamName,Nom d'équipe
+CTPoints,Points TC
 Contribute,Contribuer
-ContributeTrophies,Contribuer aux trophées
-ColorblindEnabled,Mode daltonien activé !
+ContributeTrophies,Contribuer trophées
+ColorblindEnabled,Mode daltonien activé !
 ColorblindDisabled,Mode daltonien désactivé
 Local,Local
-KickPending,En attente de suppression
-SentryParagonGreen,Parangon de sentinelle verte
-SentryParagonRed,Parangon de sentinelle rouge
-SentryParagonBlue,Parangon de sentinelle bleue
+KickPending,Expulsion en attente
+SentryParagonGreen,Parangon sentinelle vert
+SentryParagonRed,Parangon sentinelle rouge
+SentryParagonBlue,Parangon sentinelle bleu
 TeamManagement,Gestion d'équipe
+ERR_FEATURE_TEMPORARILY_UNAVAILABLE,"Cette fonctionnalité n'est pas disponible parce que votre compte a été signalé. Pour plus d'infos, consultez https://ninja.kiwi/ffgpd7"
+PlayerWillBeRemoved,Le joueur sera retiré de l'équipe lorsque l'événement TC en cours sera terminé
+Epic login,"Connexion au compte Epic, vérification des autorisations"
+FriendScreenErrorTeamInviteMaxInvitesSent,"Nombre maximum d'invitations envoyé, veuillez réessayer plus tard"
+CantJoinTeamFromSameCT,Impossible de rejoindre une équipe de la même instance TC à laquelle vous participiez la dernière fois
+RemovedFromTeam,Vous avez été retiré(e) de votre équipe. Veuillez rejoindre une autre équipe et réessayer
+TileNoLongerAccessible,Cette case n'est plus accessible. Veuillez actualiser TC et réessayer
+CTTilesHeld,Cases détenues
+CTPointsProjected,Projection de points
+ConfirmCancelRequest,Êtes-vous vraiment sûr(e) de vouloir annuler votre demande ?
+CouchCoop,Coop canapé
+TeamTicketUsed,Ticket d'équipe utilisé
+PersonalTicketUsed,Ticket personnel utilisé
+TeamScreenCodeHidden,Code d'équipe caché
+ERR_ANOTHER_REQUEST_PENDING,Une autre demande est déjà en cours
+QuickJoinSearchForTeam,Recherche d'une équipe à rejoindre...
+QuickJoinJoiningTeam,En train de rejoindre une équipe...
+QuickJoinCancel,Annulation...
+MidnightMansion,Manoir de minuit
+CoveredGarden,Jardin couvert
+MonkeyAce Paragon,Navire de la mort Goliath
+MonkeyAce Paragon Description,Une ombre ténébreuse volante qui signifie l'annihilation de Bloons.
+CreateOrJoinTeamLeaveFirst,Vous faites déjà partie d'une équipe.
+TeamMsgBannerTileLost,Une de vos cases bannière a été capturée par {0}. Reprenez-la dès maintenant !
+CTPlayerPopupNoData,Entrez dans TC pour charger ces données
+HeroesJoanOfArcAdoraPetDragonName,Compagnon dragon de Jeanne d'Arc
+HeroesJoanOfArcAdoraPetDragonShortName,Compagnon dragon de Jeanne d'Arc
+HeroesJoanOfArcAdoraPetDragonDescription,Pas besoin d'être une sainte pour savoir à quel point chaque partie sera plus amusante avec ce bébé dragon d'or à vos côtés. Adora Jeanne d'Arc uniquement
+TowerPetMonkeyAceDragonflyName,Compagnon libellule de singe pilote d'élite
+TowerPetMonkeyAceDragonflyShortName,Compagnon libellule de pilote d'élite
+TowerPetMonkeyAceDragonflyDescription,Le compagnon agile du singe pilote d'élite bourdonne le long de la piste pour qu'elle soit prête pour le retour triomphal du pilote d'élite !
+BloonsDDTSkinSpiderName,DDT araignée
+BloonsDDTSkinSpiderShortName,DDT araignée
+BloonsDDTSkinSpiderDescription,Faites ressembler le DDT à une araignée qui se faufile le long du circuit. Là vous le voyez... là c'est Game Over ! Pièce de collection à durée limitée !
+CoopEmoteAnimationPsighName,Émoticône Psoupir
+CoopEmoteAnimationPsighShortName,Psoupir
+CoopEmoteAnimationPsighDescription,"Ce psoupir transmettra par télépathie ce mélange subtil de déception, d'irritation et de résignation. Nous vous voyons, joueur 3."
+GameUIProfileBanner17Name,Bannière de profil Grand maître ninja
+GameUIProfileBanner17ShortName,Bannière Grand maître ninja
+GameUIProfileBanner17Description,Bannière gagnante par LordTeddington
+GameUIProfileBanner18Name,Bannière de profil Mousse d'ingénieur
+GameUIProfileBanner18ShortName,Bannière Mousse d'ingénieur
+GameUIProfileBanner18Description,Bannière gagnante par DREAD_LEAD
+GameUIPowerSkinGlueTrapHoneyTrapName,Pouvoir personnalisé - Piège à colle à abeilles
+GameUIPowerSkinGlueTrapHoneyTrapShortName,Piège à abeilles
+GameUIPowerSkinGlueTrapHoneyTrapDescription,Même un Bloon ralentit lorsqu'il est couvert d'abeilles !
+GameUIPowerSkinBananaFarmerBananaCostumeName,Pouvoir personnalisé - Costume de banane de cultivateur de bananes
+GameUIPowerSkinBananaFarmerBananaCostumeShortName,Costume de cultivateur de bananes
+GameUIPowerSkinBananaFarmerBananaCostumeDescription,"Trop de banane, une telle chose est-elle possible ? « Crévindiou, non ! » répond le cultivateur de bananes. Obtenez le costume de banane du cultivateur de bananes pour rendre la culture de bananes un poil plus banananesque."
+GameUIProfileAvatar63Name,Avatar personnalisé - Le cri
+GameUIProfileAvatar63ShortName,Avatar Le cri
+GameUIProfileAvatar63Description,Seul un singe fou aurait pu peindre cela. Pièce de collection à durée limitée !
+GameUIProfileBanner19Name,Bannière de profil Patchwork
+GameUIProfileBanner19ShortName,Bannière Patchwork
+GameUIProfileBanner19Description,Pelotonnez-vous sous un dessus de lit en patchwork avec une tasse de chocolat chaud... Ou équipez simplement cette bannière douillette.
+GameUIProfileBanner20Name,Bannière de profil Rayons de soleil
+GameUIProfileBanner20ShortName,Bannière Rayons de soleil
+GameUIProfileBanner20Description,Démontrez votre radieuse brillance stratégique avec cette bannière ensoleillée.
+GameUIProfileBanner21Name,Bannière de profil Étoile rayonnante
+GameUIProfileBanner21ShortName,Bannière Étoile rayonnante
+GameUIProfileBanner21Description,"Certains pensent que les étoiles sont des boules de gaz lointaines si énormes que leur gravité immense alimente la fusion nucléaire en leur cœur. Tout ce que nous savons, c'est qu'elles sont jolies et qu'elles brillent."
+GameUIProfileBanner22Name,Profil de bannière Couloir hanté
+GameUIProfileBanner22ShortName,Bannière Couloir hanté
+GameUIProfileBanner22Description,Terreur-isez votre profil avec la bannière de profil Couloir hanté. Griffures sinistres et portraits torturés pour commémorer ou commisérer Halloween. Pièce de collection à durée limitée !
+GameUIProfileAvatar64Name,Avatar personnalisé - Cervelle de singe
+GameUIProfileAvatar64ShortName,Avatar Cervelle de singe
+GameUIProfileAvatar64Description,"Une silhouette décrépite enveloppée dans des bandages effilochés, en quête de délicieuse CERVELLE !!! Pièce de collection à durée limitée !"
+TeamsBanner7Name,Bannière Frénésie de compagnons
+TeamsBanner7ShortName,Bannière Frénésie de compagnons
+TeamsBanner7Description,C'est une fête fantaisiste pour compagnons ! Équipez cette bannière pour célébrer les compagnons de Bloons TD 6 !
+TeamsBanner8Name,Bannière Territoire contesté
+TeamsBanner8ShortName,Bannière Territoire contesté
+TeamsBanner8Description,Équipez cette bannière pour montrer à quel point vous êtes dévoué(e) à la capture de cases hexagonales. Rouge vs Bleu n'a jamais été aussi beau.
+TeamsEmblemIcon13Name,Icône Kiwi kung-fu
+TeamsEmblemIcon13ShortName,Icône Kiwi kung-fu
+TeamsEmblemIcon13Description,Surprenez vos adversaires avec un coup de pied aérien de votre oiseau incapable de voler préféré.
+TeamsEmblemIcon14Name,Icône Œil qui voit tout
+TeamsEmblemIcon14ShortName,Icône Œil qui voit tout
+TeamsEmblemIcon14Description,Équipez cette icône d'équipe et vos adversaires douteront de chacune de leurs décisions.
+TeamsEmblemFrame10Name,Cadre Parchemin de ninja
+TeamsEmblemFrame10ShortName,Cadre Parchemin de ninja
+TeamsEmblemFrame10Description,Un cadre pour montrer le dévouement de votre équipe pour l'art ancien du ninja.
+TeamsEmblemFrame11Name,Cadre Cognition
+TeamsEmblemFrame11ShortName,Cadre Cognition
+TeamsEmblemFrame11Description,Faites part des connaissances supérieures de votre équipe en termes d'éclatement de Bloons avec le cadre Cognition.
+BasePropPirateCrewMonkeyName,Équipage pirate
+BasePropPirateCrewMonkeyShortName,Équipage pirate
+BasePropPirateCrewMonkeyDescription,Yar ! Souhaitez la bienvenue à cette fripouille dans votre base de Territoires contestés et les autres équipes repartiront avec leurs voiles à leur cou. [Emplacement d'île]
+BasePropTelescopeName,Télescope réfracteur
+BasePropTelescopeShortName,Télescope réfracteur
+BasePropTelescopeDescription,"Admirez les merveilles de l'univers ou faites juste croire aux équipes adverses qu'en les espionnant, la victoire ne peut vous échapper. [Emplacement d'île]"
+BuildingPropCastleName,Bâtiment château fortifié
+BuildingPropCastleShortName,Bâtiment château fortifié
+BuildingPropCastleDescription,Jouez au seigneur sur votre île et obligez les autres équipes à vous prêter allégeance avec ce magnifique édifice médiéval pour vous servir de base. [Emplacement de bâtiment principal]
+WaterPropMiniPirateBoatName,Mini bateau pirate
+WaterPropMiniPirateBoatShortName,Mini bateau pirate
+WaterPropMiniPirateBoatDescription,"Pendant que les autres équipes vous regardent vous emparer de leurs cases, utilisez ce mini bateau maousse pour leur faire comprendre que vous pillez leur trésor. [Emplacement aquatique]"
+FlyingPropMoonRabbitName,Lapin lunaire
+FlyingPropMoonRabbitShortName,Lapin lunaire
+FlyingPropMoonRabbitDescription,"Dans Territoires contestés, tout est question de capture, et cet adorable Lapin lunaire capturera l'imagination de tous. [Emplacement aérien]"
+Deselect,Désélectionner
+CTDailyTitle,Bonus quotidien
+CTDailySubtitle,Tickets de joueurs du jour
+CTDailyDescription,Lorsqu'un ticket de joueur est utilisé pour capturer une case
+CTDailyTrophies,Trophées bonus quotidiens
+TileRecap,Récapitulatif des cases
+PlusCTPoints,+{0} Points TC
+CTRulesInfoSubtitle,"Bienvenue dans Territoires contestés ! Travaillez en tant qu'équipe, capturez des cases, grimpez au sommet des classements et gagnez de super récompenses !"
+CTRulesInfoSectionOne,• Les tickets de capture ne sont utilisés que si vous capturez une case. Ils sont actualisés toutes les 24 heures.
+CTRulesInfoSectionTwo,• Les tickets de capture non utilisés seront placés dans un pot commun de tickets que les autres membres de l'équipe pourront utiliser le jour suivant. Les tickets d'équipe ne contribuent pas à la position individuelle au classement.
+CTRulesInfoSectionThree,"• Une fois les cases capturées, les scores des cases se dégraderont lentement au fil du temps, jusqu'à ce que la case finisse par devenir neutre."
+CTRulesInfoSectionFour,"• Les points TC sont obtenus lorsque vous capturez une case et pour chaque heure où vous continuez à détenir une case. Les points TC déterminent votre place personnelle et celle de votre équipe au classement, alors capturez des cases aussi souvent que vou"
+CTRulesInfoSectionFive,• Les cases bannière sont des cases plus difficiles à capturer qui donnent beaucoup plus de points TC.
+CTRulesInfoSectionSix,• Les cases relique donnent accès à votre équipe à de puissantes connaissances de reliques qui vous aideront à capturer d'autres cases.
+CTRulesInfoSectionSeven,• L'avancement en termes de cases est sauvegardé toutes les 20 manches et vous ne pouvez avoir qu'une sauvegarde en cours à la fois.
+TeamTrophyStoreRulesInfoSubtitle,"Ceci est la Boutique de trophées d'équipe, où vous pouvez choisir des reliques TC débloquées, financer les pouvoirs quotidiens, les reliques d'événement et le panache d'équipe."
+TeamTrophyStoreRulesInfoSectionOne,"• Les pouvoirs quotidiens peuvent être débloqués chaque jour pendant l'événement TC et une fois qu'ils sont financés, ils peuvent être utilisés par tous les membres de l'équipe ce jour-là."
+TeamTrophyStoreRulesInfoSectionTwo,"• Les reliques d'événement deviennent disponibles au fil de l'événement TC et une fois qu'elles sont financées, elles peuvent être utilisées pour le reste de cet événement. Elles sont distinctes des reliques débloquées via les cases relique."
+TeamTrophyStoreRulesInfoSectionThree,• Capturez des cases relique puis choisissez jusqu'à 4 de vos connaissances de reliques préférées à utiliser pendant cet événement. Vous pouvez les échanger quand vous le souhaitez.
+TeamTrophyStoreRulesInfoSectionFour,"• Le panache d'équipe est financé par l'ensemble de l'équipe et une fois financé, il est débloqué de manière permanente pour votre équipe. Les joueurs qui quittent l'équipe ne prennent pas de panache d'équipe avec eux."
+PlaySocialCaps,JOUER EN SOCIAL
+SelectCapturedRelics,Sélectionner jusqu'à 4 reliques capturées
+NextBonusIn,Prochain bonus dans :
+MemberCount,Nombre de membres
+Min,Le minimum
+PrimeGamingText,Réclamez votre cadeau Prime Gaming !
+GetNow,Get Now

@@ -150,7 +150,7 @@ Gwendolin Level 1 Description,Lässt mit ihrer Pyro-Pistole Bloons platzen.
 Gwendolin Level 2 Description,Leicht erhöhte Kraft zum Platzenlassen pro Schuss.
 Gwendolin Level 3 Description,"Feuercocktail: Wirft eine Flasche mit einer brennenden Flüssigkeit, welche Bloons verbrennt, die hindurchfliegen."
 Gwendolin Level 4 Description,"„Es ist angeheizt“ – erzeugt alle paar Sekunden einen mächtigen Feuerstoß, der Bloons platzen lässt und Affenangriffe in der Nähe verstärkt."
-Gwendolin Level 5 Description,Erhöhte Kraft zum Platzenlassen.
+Gwendolin Level 5 Description,"Erhöhte Kraft zum Platzenlassen. 10 % verbesserte Angriffsgeschwindigkeit und Radius für Feuerring, Signalgeber und Atem des Drachen."
 Gwendolin Level 6 Description,Angriffe verursachen Verbrennungseffekte bei anvisierten Bloons.
 Gwendolin Level 7 Description,"„Es ist angeheizt“ verfügt über einen größeren Radius, Feuercocktail ist effektiver."
 Gwendolin Level 8 Description,Verschießt 2 Feuerstöße pro Schuss.
@@ -163,7 +163,7 @@ Gwendolin Level 14 Description,Feuercocktail verursacht Extraschaden und setzt B
 Gwendolin Level 15 Description,Erhöhte Angriffsgeschwindigkeit.
 Gwendolin Level 16 Description,Feuersturm ist von längerer Dauer und richtet mehr Schaden an. Violette Bloons sind nicht mehr gegen Gwendolins Angriffe immun.
 Gwendolin Level 17 Description,"Es ist angeheizt verstärkt alle betroffenen Affen und ermöglicht ihnen, 1 Extraschicht platzen zu lassen und Blei-Bloons +2 Schaden zuzufügen."
-Gwendolin Level 18 Description,Erhöhte Angriffsgeschwindigkeit.
+Gwendolin Level 18 Description,"Erhöhte Angriffsgeschwindigkeit. 20 % verbesserte Angriffsgeschwindigkeit und Radius für Feuerring, Signalgeber und Atem des Drachen."
 Gwendolin Level 19 Description,Verschießt 3 Feuerstöße pro Schuss.
 Gwendolin Level 20 Description,Feuersturm verursacht deutlich erhöhten Schaden.
 ,
@@ -232,11 +232,11 @@ ObynGreenfoot Level 20 Description,Baumwall hält eine Menge weiterer Bloons auf
 ,
 Ezili Level 1 Description,Ezili verflucht Bloons mit Schwarzen Voodoozaubern.
 Ezili Level 2 Description,Erhöhte Angriffsreichweite.
-Ezili Level 3 Description,Herzstopper: Verhindert Runderneuern für 6 Sekunden.
+Ezili Level 3 Description,"Herzstopper: Verlangsamt Bloons, ermöglicht das Platzenlassen violetter Bloons und verhindert Runderneuern für 10 Sekunden."
 Ezili Level 4 Description,Ezilis Hauptangriff verflucht jetzt mehrere Bloons.
 Ezili Level 5 Description,Erhöhte Angriffsgeschwindigkeit.
 Ezili Level 6 Description,Schaden über Zeit dauert länger und verursacht schneller Schäden.
-Ezili Level 7 Description,"Opfertotem: Ein Totem, das Affen in der Nähe Enttarnungsfähigkeit sowie zusätzliche Durchschlagskraft, Angriffsreichweite, Angriffsgeschwindigkeit und Geschossgeschwindigkeit verleiht. Zieht 10 Leben ab."
+Ezili Level 7 Description,"Opfertotem: Ein Totem, das Affen in der Nähe, vor allem Zauberer-Affen, Enttarnungsfähigkeit sowie zusätzliche Durchschlagskraft, Angriffsreichweite, Angriffsgeschwindigkeit und Geschossgeschwindigkeit verleiht. Zieht 10 Leben ab."
 Ezili Level 8 Description,Ezilis Angriff verursacht weitaus mehr Schaden bei Bloons der MOAB-Klasse.
 Ezili Level 9 Description,"Ezilis Angriff entzieht Bloons, die nicht der MOAB-Klasse angehören, Tarnung, Runderneuern und Befestigungen."
 Ezili Level 10 Description,"MOAB-Zauber: Verpasst Bloons der MOAB-Klasse einen Fluch, sodass sie jede Sekunde bis zur Vernichtung Schaden erleiden."
@@ -282,8 +282,8 @@ Rallying Roar Ability Description,Alle Affen in der Nähe können für kurze Zei
 Big Squeeze Ability Description,"Packt einen Bloon der Klasse MOAB, BFB, DDT (sofern sichtbar) oder ZOMG und zerdrückt ihn für 5 Sekunden."
 Brambles Ability Description,"Erstellt einen stacheligen Busch auf der Strecke, an dem bis zu 50 Bloons zerplatzen."
 Wall of Trees Ability Description,"Ruft eine Baummauer über die Strecke herbei, die alle eindringenden Bloons vernichtet. Wenn sie voll ist, explodieren die Bäume in Geld."
-Heartstopper Ability Description,Verhindert Runderneuern für 6 Sekunden.
-Sacrificial Totem Ability Description,"Ein Totem, das Affen in der Nähe Enttarnungsfähigkeit sowie zusätzliche Durchschlagskraft, Angriffsreichweite, Angriffsgeschwindigkeit und Geschossgeschwindigkeit verleiht. Zieht 10 Leben ab."
+Heartstopper Ability Description,Ermöglicht das Platzenlassen violetter Bloons und verhindert Runderneuern für 10 Sekunden.
+Sacrificial Totem Ability Description,"Ein Totem, das Affen in der Nähe, vor allem Zauberer-Affen, Enttarnungsfähigkeit sowie zusätzliche Durchschlagskraft, Angriffsreichweite, Angriffsgeschwindigkeit und Geschossgeschwindigkeit verleiht. Zieht 10 Leben ab."
 MOAB Hex Ability Description,"Verpasst Bloons der MOAB-Klasse einen Fluch, sodass sie jede Sekunde bis zur Vernichtung Schaden erleiden."
 ,
 //Hero Misc,
@@ -694,7 +694,7 @@ Long Range Darts Description,Lässt den Wurfpfeilaffen weiter schießen als gew�
 Razor Sharp Shots Description,Kann mit jedem Schuss 2 zusätzliche Bloons platzen lassen.
 Very Quick Shots Description,Schießt 33 % schneller!
 Enhanced Eyesight Description,Schießt sogar noch weiter und kann Tarnung aufdecken.
-Spike-o-pult Description,"Verwandelt den Wurfpfeilaffen in ein Nagelkatapult, das einen großen Nagelball statt Wurfpfeilen wirft. Gute Reichweite, aber langsamere Angriffsgeschwindigkeit. Jeder Ball kann eine Menge Bloons platzen lassen und prallt von Hindernissen ab."
+Spike-o-pult Description,"Verwandelt den Wurfpfeilaffen in ein langsamer angreifendes Nagelkatapult, das große Nagelbälle wirft. Jeder Ball kann eine Menge Bloons platzen lassen und prallt von Hindernissen ab."
 Triple Shot Description,Wirft 3 Pfeile auf einmal statt nur 1.
 Crossbow Description,"Verwendet eine Langstrecken-Armbrust, die bei jedem Treffer 3 Schichten Bloons platzen lassen kann."
 Juggernaut Description,Schleudert riesige Stachelkugel die Blei zum Platzen bringt und Keramik-Bloons besonders gut zerstört.
@@ -756,7 +756,7 @@ Permafrost Description,Bloons bewegen sich auch nach dem Auftauen noch langsam.
 Enhanced Freeze Description,Angriffe sind schneller und frieren länger ein.
 Larger Radius Description,Größerer Einfrierbereich.
 Metal Freeze Description,Kann Blei- und Tarn-Bloons einfrieren und platzen lassen.
-Deep Freeze Description,Friert durch 2 Bloonschichten hindurch.
+Deep Freeze Description,Friert durch eine Extraschicht und die Gefrierfunktion hält länger an.
 Re-Freeze Description,"Kann Bloons nochmals einfrieren, die schon gefroren sind."
 Ice Shards Description,"Messerscharfe Scherben fliegen durch die Gegend, wenn Eis-Bloons platzen."
 Arctic Wind Description,"Erhöht massiv die Durchschlagskraft und erhält eine superkalte Aura, die Bloons verlangsamt und Wasser in der Nähe gefrieren lässt."
@@ -798,13 +798,13 @@ Supply Drop Description,Versorgungs-Fähigkeit: Wirft eine Kiste voller Geld ab.
 Full Auto Rifle Description,Vollautomatische Waffe mit unglaublicher Platzkraft.
 Cripple MOAB Description,Angeschlagene MOABs sind länger bewegungsunfähig und erleiden Extraschaden durch alle anderen Angriffe.
 Elite Sniper Description,Nachschub-Abwurf bringt viel mehr Geld. Ergibt Elite-Zielprio und schnelleres Nachladen für alle Scharfschützen.
-Elite Defender Description,"Ein verlorenes Leben verleiht diesem Scharfschützen beim Gegenschlag für kurze Zeit 4-fache Angriffsgeschwindigkeit. Und er greift schneller an, je weiter die Bloons auf der Strecke sind. Richtet auch bei Bloons der MOAB-Klasse mehr Schaden an."
+Elite Defender Description,"Er greift superschnell an und noch schneller, je weiter die Bloons auf der Strecke sind. Ein verlorenes Leben verleiht ihm für kurze Zeit 4-fache Angriffsgeschwindigkeit. Richtet bei Bloons der MOAB-Klasse mehr Schaden an."
 ,
 Longer Range Description,Erhöhte Angriffsreichweite.
 Barbed Darts Description,U-Boot-Pfeile können zusätzlich 3 Bloons platzen lassen.
 Twin Guns Description,Hinzugefügte Zwillingskanone verdoppelt das Angriffstempo. Verbessert ballistische Raketen und den Bloontonium-Reaktor.
 Advanced Intel Description,"Ermöglicht aus großer Entfernung das Zielen auf Bloons, die im Radius deiner anderen Türme sind."
-Heat-tipped Darts Description,Heißspitzenpfeile ermöglichen das Platzenlassen von Eis- und Blei-Bloons.
+Heat-tipped Darts Description,Heißspitzenpfeile ermöglichen dem Affen-U-Boot das Platzenlassen von Eis- und Blei-Bloons.
 Airburst Darts Description,Luftdetonationspfeile teilen sich beim Aufprall in 3 Pfeile und erhöhen so die Kraft zum Platzen lassen. Verbessert den Bloontonium-Reaktor noch mehr.
 Submerge and Support Description,"Fügt Untertauch-Zieloption hinzu, die dauerhaft Tarn-Bloons in deren Radius zeigt, aber im Untertauchmodus nicht angreift."
 Ballistic Missile Description,Rakete sucht Ziel in Reichweite und fügt zusätzlichen MOAB- und Keramikschaden zu.
@@ -826,7 +826,7 @@ Buccaneer-Destroyer Description,Attackiert superduper-schnell!
 Buccaneer-Cannon Ship Description,"Fügt eine mächtige Kanone hinzu, die starke Bomben verschießt."
 Buccaneer-Merchantman Description,Generiert automatisch jede Runde Geld.
 Buccaneer-Aircraft Carrier Description,"Startet Wellen von Kampfflugzeugen, die ihre Ziele bombardieren und Raketen auf Bloons der MOAB-Klasse feuern."
-Buccaneer-Monkey Pirates Description,Fügt dem Schiff 2 Kanonen hinzu und Kanonenangriffe richten mehr Schaden an. MOAB-Abschuss-Fähigkeit: Harpuniert einen Bloons der MOAB-Klasse und schießt ihn ab.
+Buccaneer-Monkey Pirates Description,Fügt dem Schiff 2 Kanonen hinzu und Angriffe richten mehr Schaden an. MOAB-Abschuss-Fähigkeit: Harpuniert einen Bloon der MOAB-Klasse und schießt ihn ab.
 Buccaneer-Favored Trades Description,Greift schneller an und erzeugt viel mehr Geld pro Runde. Affen in Reichweite haben einen erhöhten Verkaufswert.
 Buccaneer-Carrier Flagship Description,Verursacht Extraschaden. Kann andere Affen auf dem Oberdeck des Schiffs platzieren und erhöht die Angriffsgeschwindigkeit aller wasserbasierten Affen und Affenfliegerasse.
 Buccaneer-Pirate Lord Description,"Stark erhöhte Angriffsgeschwindigkeit für alle Angriffsarten und kann 3 Enterhaken gleichzeitig verschießen und Extrageld von jedem Bloon der MOAB-Klasse plündern, den er damit heruntergeholt hat."
@@ -874,11 +874,11 @@ Shockwave Description,"Explosionsschockwelle, die Bloons am Einschlagrost betäu
 Heavy Shells Description,Schwere Granaten verursachen Extraschaden bei Keramik-Bloons und Wehrbloons. Kann außerdem Schwarze Bloons platzen lassen.
 Signal Flare Description,"Tarn-Bloons, die von Leuchtgeschossen zum Platzen gebracht wurden, verlieren dauerhaft ihre Tarnung."
 The Big One Description,"Vernichtende Explosionen lassen jeweils 7 Bloonschichten platzen, plus noch mehr erhöhter Schaden durch Heißes Zeug."
-Artillery Battery Description,Bombardierungsfähigkeit: Löst einen Schnellfeuerangriff in einem etwas breiteren Bereich aus. Hauptangriff erhält ein Upgrade auf 3 Läufe für unglaublich schnelle Angriffe.
+Artillery Battery Description,Bombardierungsfähigkeit: Löst einen Schnellfeuerangriff in einem etwas breiteren Bereich aus. Hauptangriff richtet mehr Schaden an BADs und Boss-Bloons an und hat ein Upgrade auf 3 Läufe für unglaublich schnelle Angriffe.
 Shattering Shells Description,"Schmetter-Granaten vernichten alle Bloon-Spezialeigenschaften, mit Ausnahme der größten Bloons."
 The Biggest One Description,"Explosion zerfetzt Bloons und Schichten in einem riesigen Bereich, plus mächtiger Schaden durch Heißes Zeug."
-Pop and Awe Description,"Platz-Methode-Fähigkeit: Lässt Explosionen über den ganzen Bildschirm regnen, während ein paar Sekunden lang alle Bloons platzen und bewegungsunfähig sind."
-Blooncineration Description,"Superheißes Zeug schmilzt sich bei jedem Schuss durch 5 Bloonschichten, verbrennt Bloons der MOAB-Klasse mit Extraschaden und entfernt die Tarnung von DDT-Bloons."
+Pop and Awe Description,"Platz-Methode-Fähigkeit: Lässt Explosionen über den ganzen Bildschirm regnen, während ein paar Sekunden lang alle Bloons platzen und bewegungsunfähig sind. Alle Artillerie-Batterien richten mehr Schaden an BADs und Boss-Bloons an. Der Hauptangriff erhält zusätzlichen Schadensbonus für betäubte Bloons."
+Blooncineration Description,Superheißes Zeug schmilzt sich bei jedem Schuss durch 5 Bloonschichten und verbrennt Bloons der MOAB-Klasse mit Extraschaden.
 ,
 Focused Firing Description,Höhere Zielgenauigkeit beim Pfeilschussgewehr.
 Advanced Targeting Description,Ermöglicht Pfeilschussschütze Tarn-Bloons zu treffen.
@@ -918,7 +918,7 @@ Super Range Description,Superaffen brauchen eine Superreichweite.
 Knockback Description,Bloons werden nach jedem Treffer zurückgeschlagen oder verlangsamt.
 Plasma Blasts Description,"Das Plasma verdampft alles, mit dem es in Berührung kommt."
 Epic Range Description,"Warum sich mit Super zufriedengeben, wenn man MONUMENTAL haben kann?"
-Ultravision Description,"Ermöglicht es Superaffen, ein wenig weiter zu schießen und Tarn-Bloons zu sehen."
+Ultravision Description,"Ermöglicht es Superaffen, ein wenig weiter zu schießen, Tarn-Bloons zu sehen und ihnen mehr Schaden zuzufügen."
 Sun Avatar Description,Kanalisiert die Kraft vom Kern der Sonne.
 Robo Monkey Description,Zur Hälfte Superaffe und zur Hälfte todbringender Killerroboter. Schießt gleichzeitig aus 2 Handkanonen und kann einen kritischen Treffer erzielen!
 Dark Knight Description,"Dunkelklingen erhöhen Rückschlag und Durchschlagskraft und verursachen Extraschaden bei Bloons der MOAB-Klasse. Erhält Finsterwechsel-Fähigkeit, um an einen Ort in der Nähe zu wechseln."
@@ -951,7 +951,7 @@ Acid Pool Description,"Wenn keine Bloons in der Nähe sind, kann der Alchemist d
 Acidic Mixture Dip Description,"Wirft einen nützlichen Trank auf Affen, wonach sie Blei-Bloons platzen lassen können und Extraschaden bei Keramik-Bloons und Bloons der MOAB-Klasse anrichten. Klingt nach mehreren Angriffen wieder ab."
 Perishing Potions Description,Angriffstränke fügen Bloons der MOAB-Klasse mehr Schaden zu und entfernen Stärkung von kleineren Bloons. Stärkt auch Gebräue und Anregungsmittel.
 Alchemist Faster Throwing Description,Wirft Tränke und greift schneller an.
-Berserker Brew Description,"Ein Spezialgebräu verleiht den Affen Extraschaden, Reichweite und Angriffsgeschwindigkeit. Hält länger an."
+Berserker Brew Description,"Wirft ein Spezialgebräu auf Affen in der Nähe und verleiht ihnen Extraschaden, Reichweite und Angriffsgeschwindigkeit."
 Unstable Concoction Description,"Beschichtete Bloons der MOAB-Klasse mit einer explosiven Substanz, die eine größere Explosion verursacht, wenn sie platzen."
 Lead to Gold Description,"Verwandelt Blei-Bloons zu GOLD! Spezielle Lösungsmittel verursachen bei Blei-Bloons Extraschaden, zerstören sie in einem Schuss und erzeugen Geld."
 Stronger Stimulant Description,Das extra starke Berserker-Gebräu hat einen noch kraftvolleren Effekt auf das Ziel. Hält noch länger an.
@@ -1870,7 +1870,7 @@ RapidRazorsDescription,Rasier-Rotorblätter lassen Bloons schneller platzen.
 BudgetBattery,Budget-Geschütz
 BudgetBatteryDescription,Artillerie-Geschützkosten um 600 reduziert.
 PaintStripper,Entfärber
-PaintStripperDescription,Mörser-Schmetter-Granaten entfernen die Tarnung von DDT-Bloons.
+PaintStripperDescription,Mörser-Schmetter-Granaten entfernen die Verstärkung von DDT-Bloons.
 CheaperMaiming,Billig-Verstümmeln
 CheaperMaimingDescription,Verstümmel-MOAB-Kosten um 1.000 reduziert.
 ChargedChinooks,Aufgeladene Chinooks
@@ -2639,17 +2639,17 @@ Adora Level 5 Description,Göttliche Blitze durchbohren mehr Bloons.
 Adora Level 6 Description,Schießt 3 göttliche Blitze auf einmal.
 Adora Level 7 Description,"Blutopfer: Opfere einen Zielturm, um Adora große Mengen EP zu gewähren und ihre Angriffsreichweite und Feuerrate für kurze Zeit zu verbessern."
 Adora Level 8 Description,Schießt 4 göttliche Blitze auf einmal.
-Adora Level 9 Description,Erhöhte Angriffsreichweite.
+Adora Level 9 Description,Erhöhte Angriffsreichweite und erhöhter Schaden bei Wehrbloons.
 Adora Level 10 Description,"Ball des Lichts: Erzeugt einen starken Energieball, der die Bloons ausschalten kann."
 Adora Level 11 Description,Adora erhöht die Angriffsgeschwindigkeit.
 Adora Level 12 Description,Schießt 5 göttliche Blitze auf einmal.
-Adora Level 13 Description,Göttliche Blitze durchbohren noch mehr Bloons.
+Adora Level 13 Description,Göttliche Blitze durchbohren noch mehr Bloons. Erhöhter Schaden bei Wehrbloons.
 Adora Level 14 Description,Schießt 6 göttliche Blitze auf einmal.
 Adora Level 15 Description,Göttliche Blitze brennen sich durch eine extra Bloon-Schicht durch außerdem teilt der Ball des Lichts mehr Schaden aus.
 Adora Level 16 Description,Der lange Arm des Lichts wird noch tödlicher.
 Adora Level 17 Description,Adora erhöht noch mehr die Angriffsgeschwindigkeit.
 Adora Level 18 Description,Schießt 8 göttliche Blitze auf einmal.
-Adora Level 19 Description,Erhöhte Angriffsreichweite.
+Adora Level 19 Description,Erhöhte Angriffsreichweite. Erhöhter Schaden bei Wehrbloons.
 Adora Level 20 Description,Der Ball des Lichts ist erheblich verbessert außerdem wurde die Feuerraten- Reichweiten- und Dauervorteile von Opfern erhöht.
 Carved,Ausgehöhlt
 BloodyPuddles,Verfluchte Pfützen
@@ -2701,7 +2701,7 @@ WolfpackQuincySkinName,Wolfsrudel Quincy
 WolfpackQuincySkinDescription,"Aus vergangenen wilden Zeiten, als alle Jäger stark und die Wolfsrudel dennoch stärker waren, stammt Quincy, Vorfahre von Quincy."
 Infernal,Teuflisch
 DownloadButton,Download
-DownloadDescription,Zusätzliche Dateien werden heruntergeladen. WLAN wird empfohlen. Datengröße {0}MB.
+DownloadDescription,Das Spiel benötigt aktualisierte Daten. WLAN-Verbindung wird empfohlen. Datengröße {0}MB
 ViewCollectionButton,Sammlung ansehen
 ViewInventoryButton,Inventar ansehen
 CollectionDescription,Insta-Affen bleiben auch nach der Verwendung in deiner Sammlung sichtbar.
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,"[I], um Dunkelsprung in Reichweite zu machen"
 DarkChampionDarkshift,"[I], um Dunkelsprung zu einem gültigen Ort zu machen"
 SmallTowersMode,Kleine Affentürme
 BigTowersMode,Große Affentürme
-UpdatePopupTitle,Update 32!
-UpdatePopupDescription,"Episches Update „Umkämpfte Gebiete“!\n• Riesiges neues Event: Umkämpfte Gebiete – erobere Kacheln von anderen Teams und herrsche über die Bestenliste!\n• Teams! Bilde mit Freunden ein unaufhaltsames Team, um über das Umkämpfte Gebiet zu herrschen.\n• Neuer Paragon: Meisterbauer\n• Neuer Helden-Skin: Voidora\n• Neue Zwischenstüfler-Karte: Steinbruch\n• Trophäenshop-Gegenstände, Verbesserung der Lebensqualität und Balance und vieles mehr!"
+UpdatePopupTitle,Update 33!
+UpdatePopupDescription,"Großes Inhaltsupdate!\n• Entfessele das prachtvolle Goliath-Schicksalsschiff, den Affenfliegerass-Champion!\n• Kultiviere ein bisschen Kraft zum Platzenlassen der Bloons auf der Karte für Zwischenstüfler, dem Überdachten Garten! Das Design stammt von SuperPsou, Gewinner des Community-Kartenwettbewerbs.\n• Irre durch die Hallen der gruseligen neuen Karte für Fortgeschrittene, dem Spukhaus!\n• Gegenstände im Trophäen-Shop, Verbesserungen an der Lebensqualität, Änderungen an der Balance und vieles andere mehr!"
 ResetDailyChest,Tägliche Truhe zurücksetzen
 JukeboxName,Musikbox
 EnableFunction,Aktivieren
@@ -4414,11 +4414,11 @@ GameUIProfileAvatar59Description,"In seinen Augen kannst du die Liebe sehen. Du 
 GameUIProfileAvatar60Name,Striker Jones-Avatar
 GameUIProfileAvatar60ShortName,Striker Jones-Avatar
 GameUIProfileAvatar60Description,Striker Jones meldet sich zum Einsatz! Zeige deinen Siegeswillen mit Grüßen deines winkenden Lieblingsaffen.
-GameUIProfileBanner13Name,Ankunftsbanner
-GameUIProfileBanner13ShortName,Ankunftsprofilbanner
+GameUIProfileBanner13Name,Ankunftsprofilbanner
+GameUIProfileBanner13ShortName,Ankunftsbanner
 GameUIProfileBanner13Description,Banner-Sieger by betapotata
-GameUIProfileBanner14Name,Unterwasser-Banner
-GameUIProfileBanner14ShortName,Unterwasserprofilbanner
+GameUIProfileBanner14Name,Unterwasserprofilbanner
+GameUIProfileBanner14ShortName,Unterwasser-Banner
 GameUIProfileBanner14Description,Banner-Sieger by Cyliia
 GameUIMusicTrackMusicSunshineFiestaMixName,Jukebox: Sonnenschein-Serenade - Fiesta Remix
 GameUIMusicTrackMusicSunshineFiestaMixShortName,Sonnenschein - Fiesta
@@ -4589,7 +4589,7 @@ TeamBannersTitle,Banner
 TeamGeneralTitle,Allgemein
 TeamSettingPublicTitle,Öffentlich
 TeamSettingPrivateTitle,Privat
-TeamSettingClosedTitle,Geschlossen
+TeamSettingClosedTitle,Nur mit Einladung
 TeamJoin,Beitreten
 TeamApply,Bewerben
 RecentWin,Jüngster Sieg:
@@ -4601,8 +4601,8 @@ Tile,Kachel: {0}
 RelicTile,Relikt-Kachel
 BannerTile,Banner-Kachel
 BonusCTPoints,Bonus-UG-Punkte!
-DailyRelics,Tägliche Relikte
-HeldRelics,Relikte in Besitz
+DailyRelics,Tägliche Kraft und Event-Relikte
+HeldRelics,Eroberte Relikte
 Tickets,Tickets:
 PurchaseTickets,Ticket kaufen
 MoreTicketsIn,Mehr Tickets in:
@@ -4729,7 +4729,7 @@ RelicExtraEmpoweredDescription,Dein Held startet im Spiel mit 3 Extralevels (kom
 RelicBoxOfChocolatesDescription,Starte jedes Spiel mit 100 Extraleben
 RelicBoxOfMonkeyDescription,"Starte jedes Spiel mit einem Gratis-Affen, der $500 oder weniger kosten würde für nicht modifizierte erste Platzierung"
 RelicMarchingBootsDescription,In Spielen mit eingeschränkter Anzahl bietet es dem Spieler +1 maximale Zahl von jedem Turm oder +4 maximale Zahl je Spiel
-RelicHeroBoostDescription,Helden verdienen XP 10 % schneller in jedem Spiel.
+RelicHeroBoostDescription,Helden verdienen XP 15 % schneller in jedem Spiel.
 RelicBiggerBloonSabotageDescription,Alle Bloons der MOAB-Klasse erscheinen mit 15 % weniger Gesundheit und bewegen sich mit 95 % Geschwindigkeit.
 RelicRoundingUpDescription,Verdiene am Ende der Runde +20 $
 RelicManaBulwarkDescription,"Erzeugt einen Schild, der bis zu 50 Leben absorbiert (kombinierbar mit Mana-Schild bei normalen Kacheln)"
@@ -4743,11 +4743,11 @@ RelicRoyalTreatmentDescription,Alle Angriffe können Violette Bloons platzen las
 RelicHardBakedDescription,Alle Angriffe fügen Keramik-Bloons +1 Schaden zu
 RelicFortifriedDescription,Alle Angriffe fügen Wehrbloons +1 Schaden zu
 RelicMoabClashDescription,Alle Angriffe fügen Bloons der MOAB-Klasse +1 Schaden zu
-RelicCamoFloggedDescription,Alle Angriffe fügen Tarn-Bloons +1 Schaden zu
+RelicCamoFloggedDescription,Alle Angriffe fügen Tarn-Bloons +3 Schaden zu
 RelicBrokenHeartDescription,Alle Angriffe fügen runderneuerten Bloons +1 Schaden zu
-RelicGoingTheDistanceDescription,Alle Affen erhalten +10 % Reichweite
+RelicGoingTheDistanceDescription,Alle Affen erhalten +20 % Reichweite
 RelicHeartlessDescription,Die Regenerationsrate von runderneuerten Bloons ist um 25 % reduziert
-RelicFlintTipsDescription,"Scharfe Projektile fügen allen Bloons, die sie treffen, einen Feuerpunkt zu (1 Schaden alle 2s für insgesamt 4s)"
+RelicFlintTipsDescription,"Scharfe Projektile fügen allen Bloons, die sie treffen, einen Feuerpunkt zu (1 Schaden alle 2,5s für insgesamt 5s)"
 RelicAbilitizedDescription,Alle aktiven Fähigkeitsabkühlraten bei allen Affen sind um 10 % reduziert
 RelicAirAndSeaDescription,"Fliegerass, Hubschrauber, Freibeuter und U-Boot haben um 10 % reduzierte Platzierungs- und Upgrade-Kosten, und das Nachladen ist um 5 % verbessert "
 RelicElDoradoDescription,Alle Affengelder und Team-Trophäenbelohnungen für Siege sind um 25 % erhöht (mindestens +1)
@@ -4756,7 +4756,7 @@ RelicMonkeyShieldMark2Description,Bis zu 2 Stunden nach der Eroberung kann die K
 RelicMonkeyShieldMark3Description,Bis zu 3 Stunden nach der Eroberung kann die Kachel vom gegnerischen Team nicht angegriffen werden. Verbesserte Punktzahl setzt den Timer wieder auf 3 Stunden.
 RelicPsiVisionDescription,Erfahre Einzelheiten zu den Kacheln auf der Karte
 RelicOpenSeasonDescription,Greife eine beliebige Kachel auf der Karte an
-RelicCamoTrapDescription,Gewährt Einsatz von 2 Tarnfallen-Power-Ups je Spiel
+RelicCamoTrapDescription,Gewährt die Verwendung von 1 Tarnfallen-Powerup pro Spiel
 RelicThriveDescription,Gewährt Einsatz von 2 Erfolg-Power-Ups je Spiel
 RelicSuperMonkeyStormDescription,Gewährt Einsatz von 2 Superaffensturm je Spiel
 RelicMonkeyBoostDescription,Gewährt Einsatz von 3 Affen-Boosts je Spiel
@@ -4793,7 +4793,7 @@ TeamBrowserTitle,Teambrowser
 TeamBrowserSearchField,Teamname eingeben…
 TeamBrowserSearchHideFull,Volle Teams verbergen
 TeamBrowserSearchHidePrivate,Private Teams verbergen
-TeamBrowserSearchHideClosed,Geschlossene Teams verbergen
+TeamBrowserSearchHideClosed,„Nur mit Einladung“-Teams verbergen
 TeamEditApplyAll,Alles anwenden
 TeamScore,Punktzahl: {0}
 TeamRemoveMember,Möchtest du wirklich dieses Mitglied entfernen?
@@ -4822,7 +4822,7 @@ TeamMateSetScore,Ein Teammitglied hat einen neuen Rekord erzielt!
 AnotherTeamSetScore,Ein anderes Team hat einen neuen Rekord erzielt!
 FriendScreenErrorTeamInviteAlreadyMember,Dieser Spieler ist bereits in deinem Team
 TotalTeamScore,Teampunktzahl
-CTRulesInfo,"Willkommen in den Umkämpften Gebieten (UG)! Arbeite mit deinem Team zusammen, erobere Kacheln, klettere in den Bestenlisten bis an die Spitze und verdiene geniale Belohnungen!\n\n• Eroberungstickets werden nur verbraucht, wenn du eine Kachel eroberst. Sie werden alle 24 Stunden erneuert.\n• Nicht verbrauchte Eroberungstickets wandern in einen Ticketpool, aus dem sich deine Teammitglieder am folgenden Tag bedienen können.\n• Nach der Eroberung der Kachel nimmt die Punktzahl mit der Zeit ab, bis die Kachel nach 24 Stunden wieder neutral wird.\n• UG-Punkte erhältst du für das Erobern einer Kachel sowie für jede Stunde, die du die Kachel noch in Besitz hast. UG-Punkte entscheiden deinen persönlichen Rang auf den Bestenlisten sowie den deines Teams – es gilt also so viele Kacheln wie möglich zu erobern!\n• Banner-Kacheln sind schwerer zu knacken und bringen mehr UG-Punkte ein.\n• Relikt-Kacheln bieten deinem Team Zugriff auf starke Wissensrelikte, die beim Erobern weiterer Kacheln hilfreich sind.\n• Kachel-Fortschritte werden alle 20 Runden gespeichert und du kannst immer nur eine Fortschrittsspeicherung gleichzeitig haben.\n• Wähle im Team-Trophäenshop, welche Relikte dir am besten gefallen und dann auf der Spielvorbereitungsseite, welche Relikte du in den Kampf mitnehmen willst."
+CTRulesInfo,"Willkommen in den Umkämpften Gebieten! Arbeite gemeinsam mit deinem Team, erobere Kacheln, platziere dich an der Spitze der Leaderboards und verdiene tolle Belohnungen! \n\n• Eroberungstickets werden nur verwendet, wenn du eine Kachel eroberst. Sie werden alle 24 Stunden aktualisiert. \n• Ungenutzte Eroberungstickets kommen in einen Ticket-Pool, die von anderen Mitgliedern deines Teams am nächsten Tag verwendet werden können. Team-Tickets tragen nicht zur individuellen Platzierung auf den Leaderboards bei. \n• Sobald sie erobert sind, zersetzen sich die Kachel-Punktzahlen im Lauf der Zeit, bis die Kachel schließlich neutral wird. \n• UG-Punkte werden beim Erobern einer Kachel verdient und für jede Stunde, während der du eine Kachel hältst. UG-Punkte entscheiden über die Platzierung von dir persönlich und von deinem Team auf den Leaderboards, schnappe dir also so oft wie möglich Kacheln! \n• Banner-Kacheln sind härtere Kacheln, die mehr UG-Punkte bringen. \n• Relikt-Kacheln verleihen deinem Team Zugang zu mächtigem Relikt-Wissen, das dir wiederum beim Erobern von Kacheln hilft. \n• Der Kachel-Fortschritt wird alle 20 Runden gespeichert und du kannst immer nur eine Fortschrittsspeicherung haben."
 TeamTrophyStoreRulesInfo,"Das ist der Team-Trophäenshop, in dem du freigeschaltete  UG-Relikte auswählen kannst, Tageskräfte, Event-Relikte und Teamflair kaufen kannst.\n• Tageskräfte können jeden Tag während eines UG-Events freigeschaltet werden und, sobald erwirtschaftet, vom ganzen Team an diesem Tag verwendet werden.\n• Event-Relikte werden während des ganzen UG-Events verfügbar und, sobald erwirtschaftet, sind sie für den Rest des Events verwendbar. Sie unterscheiden sich von den Relikten, die auf Relikt-Kacheln freigeschaltet werden.\n• Erobere Relikt-Kacheln und wähle dein bevorzugtes Reliktwissen in diesem Event. Die Top 7 Relikte können dann für deine finale Verladung mit 4 Relikten gewählt werden.\n• Teamflair wird vom gesamten Team erwirtschaftet, und, wenn es erwirtschaftet wurde, dauerhaft für dein Team freigeschaltet. Spieler, die das Team verlassen, dürfen kein Teamflair mitnehmen."
 TeamsBanner1Name,Affen im Weltraum-Banner
 TeamsBanner2Name,Vereinte Helden-Banner
@@ -4913,22 +4913,22 @@ BasePropSatelliteShortName,Mobiles Satellitenfahrzeug
 BasePropTortoiseShortName,Stammesschildkröte
 BasePropBattleMonkeyShortName,Kampfaffe
 BuildingPropBattleTowerShortName,Basisturm-Gebäude
-BuildingPropWizardTowerDescription,"Magische Abenteuer erwarten jedes Team, das sich diese geheimnisvolle Basis erwirtschaftet."
-BuildingPropLighthouseDescription,Leuchte deinem ganzen Team den Weg mit dieser hell leuchtenden Hauptbasis.
-FlyingPropPhoenixDescription,"Alle fragen sich, ob das nicht ein Zauberaffe in der Luft ist. Ist schon mal einer darauf gekommen, dass alle Zauberaffen ein Phönix sein könnten, der nur auf seine Wiedergeburt wartet?"
-FlyingPropMiniAceDescription,Lass das Affenfliegerass mit diesem süßen Mini-Affenflieger deinen Luftraum kontrollieren.
-WaterPropKrakenDescription,Lass die Krake los! Herrsche über die Wellen mit dieser überraschend liebenswerten Unterwasserkreatur.
-WaterPropMiniSubDescription,Sehrohre ausfahren! Erkunde mit diesem Mini-U-Boot die Gegend.
-BasePropKingDescription,"Willkommen in unserem neuen Affensta… Ich wollte sagen, Umkämpftes Gebiet! Dieses Land wartet auf deine Eroberung und es wimmelt an Bloons! Lass sie alle platzen und sichere das Gebiet für dein Team."
-BasePropLighthouseKeeperDescription,Dieser kluge alte Affe hütet den Leuchtturm und hält  in der Nacht ständig Ausschau nach vorbeifahrenden Schiffen.
-BasePropCrashedMoabDescription,Ein Team erstklassiger Affen-Wissenschaftler hat dieses Wrack schon gründlich nach nützlicher Technik durchforstet. Jetzt liegt es nur noch da und dient als Warnung für die Bloons.
-BasePropTrainingDummyDescription,"Halte alle deine Pfeilaffen auf Trab mit einer von Dr. Affe zertifizierten, 100 % wiederverwendbaren Trainingspuppe!"
-BasePropCampfireDescription,"Halte dein Team in kühlen Nächten warm, oder erzähle Gruselgeschichten über die Umkämpften Gebiete an diesem gemütlichen Lagerfeuer."
-BasePropTotemDescription,Schütze deine Grenzen mit diesem angsteinflößenden Stammestotem.
-BasePropSatelliteDescription,"Empfange Informationen direkt aus dem All mit diesem mobilen Satellitenfahrzeug, sofort fahrbereit!"
-BasePropTortoiseDescription,"Frag ja nicht nach der Stammesverwandschaft, schon gar nicht nach Schildkröten!"
-BasePropBattleMonkeyDescription,"Umkämptes-Gebiet-Affe, bereit zum Einsatz!"
-BuildingPropBattleTowerDescription,Jedes Abenteuer im Umkämpften Gebiet braucht eine sichere Basis.
+BuildingPropWizardTowerDescription,"Magische Abenteuer erwarten jedes Team, das sich diese geheimnisvolle Basis erwirtschaftet. [Hauptgebäude-Slot]"
+BuildingPropLighthouseDescription,Leuchte deinem ganzen Team den Weg mit dieser hell leuchtenden Hauptbasis. [Hauptgebäude-Slot]
+FlyingPropPhoenixDescription,"Alle fragen sich, ob das nicht ein Zauberaffe in der Luft ist. Ist schon mal einer darauf gekommen, dass alle Zauberaffen ein Phönix sein könnten, der nur auf seine Wiedergeburt wartet? [Luft-Slot]"
+FlyingPropMiniAceDescription,Lass das Affenfliegerass mit diesem süßen Mini-Affenflieger deinen Luftraum kontrollieren. [Luft-Slot]
+WaterPropKrakenDescription,Lass die Krake los! Herrsche über die Wellen mit dieser überraschend liebenswerten Unterwasserkreatur. [Wasser-Slot]
+WaterPropMiniSubDescription,Sehrohre ausfahren! Erkunde mit diesem Mini-U-Boot die Gegend. [Wasser-Slot]
+BasePropKingDescription,"Willkommen in unserem neuen Affensta… Ich wollte sagen, Umkämpftes Gebiet! Dieses Land wartet auf deine Eroberung und es wimmelt an Bloons! Lass sie alle platzen und sichere das Gebiet für dein Team. [Insel-Slot]"
+BasePropLighthouseKeeperDescription,Dieser kluge alte Affe hütet den Leuchtturm und hält  in der Nacht ständig Ausschau nach vorbeifahrenden Schiffen. [Insel-Slot]
+BasePropCrashedMoabDescription,Ein Team erstklassiger Affen-Wissenschaftler hat dieses Wrack schon gründlich nach nützlicher Technik durchforstet. Jetzt liegt es nur noch da und dient als Warnung für die Bloons. [Insel-Slot]
+BasePropTrainingDummyDescription,"Halte alle deine Pfeilaffen auf Trab mit einer von Dr. Affe zertifizierten, 100 % wiederverwendbaren Trainingspuppe! [Insel-Slot]"
+BasePropCampfireDescription,"Halte dein Team in kühlen Nächten warm, oder erzähle Gruselgeschichten über die Umkämpften Gebiete an diesem gemütlichen Lagerfeuer. [Insel-Slot]"
+BasePropTotemDescription,Schütze deine Grenzen mit diesem angsteinflößenden Stammestotem. [Insel-Slot]
+BasePropSatelliteDescription,"Empfange Informationen direkt aus dem All mit diesem mobilen Satellitenfahrzeug, sofort fahrbereit! [Insel-Slot]"
+BasePropTortoiseDescription,"Frag ja nicht nach der Stammesverwandschaft, schon gar nicht nach Schildkröten! [Insel-Slot]"
+BasePropBattleMonkeyDescription,"Umkämptes-Gebiet-Affe, bereit zum Einsatz! [Insel-Slot]"
+BuildingPropBattleTowerDescription,Jedes Abenteuer im Umkämpften Gebiet braucht eine sichere Basis. [Hauptgebäude-Slot]
 Neutral,Neutral
 TilesCaptured,Kacheln erobert:
 CTPointsEarnt,UG-Punkte verdient:
@@ -4981,14 +4981,141 @@ RewardsTopX,Top {0}
 Rank5th,5
 Rank6th,6
 TeamName,Teamname
-CTPoints,CT-Punkte
+CTPoints,UG-Punkte
 Contribute,Beitragen
-ContributeTrophies,Trophäen beisteuern
-ColorblindEnabled,Farbenblind-Modus aktiviert!
+ContributeTrophies,Trophäen beitragen
+ColorblindEnabled,Farbenblind-Modus aktiviert
 ColorblindDisabled,Farbenblind-Modus deaktiviert
 Local,Lokal
-KickPending,Bevorstehende Entfernung
-SentryParagonGreen,Green Sentry Paragon
-SentryParagonRed,Red Sentry Paragon
-SentryParagonBlue,Blue Sentry Paragon
-TeamManagement,Team Management
+KickPending,Rauswurf ausstehend
+SentryParagonGreen,Grüner Wachposten-Paragon
+SentryParagonRed,Roter Wachposten-Paragon
+SentryParagonBlue,Blauer Wachposten-Paragon
+TeamManagement,Team-Verwaltung
+ERR_FEATURE_TEMPORARILY_UNAVAILABLE,"Dieses Merkmal ist nicht verfügbar, weil dein Nutzerkonto markiert wurde. Weitere Informationen erhältst du auf https://ninja.kiwi/ffgpd7"
+PlayerWillBeRemoved,"Spieler wird aus dem Team entfernt, sobald das aktuelle UG-Event beendet ist"
+Epic login,"Einloggen in Epic-Nutzerkonto, Genehmigungen werden geprüft"
+FriendScreenErrorTeamInviteMaxInvitesSent,"Maximale Zahl von Einladungen versendet, bitte versuche es später wieder"
+CantJoinTeamFromSameCT,"Teambeitritt nicht möglich in dem UG-Event, in dem du zuletzt warst"
+RemovedFromTeam,Du bist aus deinem Team entfernt worden. Tritt einem anderen Team bei und versuche es erneut
+TileNoLongerAccessible,Diese Kachel ist nicht mehr zugänglich. Bitte aktualisiere das UG-Event und versuche es erneut
+CTTilesHeld,Kacheln gehalten
+CTPointsProjected,Geplant
+ConfirmCancelRequest,"Bist du sicher, dass du deine Anfrage abbrechen willst?"
+CouchCoop,Couch-Koop
+TeamTicketUsed,Teamticket verwendet
+PersonalTicketUsed,Persönliches Ticket verwendet
+TeamScreenCodeHidden,Teamcode verborgen
+ERR_ANOTHER_REQUEST_PENDING,Es ist bereits eine andere Anfrage ausstehend
+QuickJoinSearchForTeam,Suche nach einem Team zum Beitreten…, dem ich beitreten kann...
+QuickJoinJoiningTeam,Beitreten zum Team…
+QuickJoinCancel,Abbrechen…
+MidnightMansion,Spukhaus
+CoveredGarden,Überdachter Garten
+MonkeyAce Paragon,Goliath-Schicksalsschiff
+MonkeyAce Paragon Description,Ein fliegender Schatten der Dunkelheit verspricht die Auslöschung der Bloons.
+CreateOrJoinTeamLeaveFirst,Du bist bereits Mitglied eines Teams., um diese Daten zu laden
+TeamMsgBannerTileLost,Eine deiner Banner-Kacheln wurde von {0} erobert. Hole sie dir jetzt zurück!
+CTPlayerPopupNoData,"Gib UG ein, um diese Daten zu laden"
+HeroesJoanOfArcAdoraPetDragonName,Jeanne d'Arc-Drachentier
+HeroesJoanOfArcAdoraPetDragonShortName,Jeanne d'Arc-Drachentier
+HeroesJoanOfArcAdoraPetDragonDescription,"Du musst nicht heilig sein, um zu erkennen wie viel mehr Spaß jedes Spiel macht, wenn du dieses Goldene Drachenbaby an deiner Seite hättest. Nur bei Jeanne d'Arc Adora"
+TowerPetMonkeyAceDragonflyName,Affenfliegerass-Libelle
+TowerPetMonkeyAceDragonflyShortName,Fliegerass-Libelle
+TowerPetMonkeyAceDragonflyDescription,"Die wendige Libelle des Affenfliegerasses flitzt über die Start- und Landebahn, um sie für die glorreiche Rückkehr des Fliegerasses bereitzuhalten!"
+BloonsDDTSkinSpiderName,Spinnen-DDT
+BloonsDDTSkinSpiderShortName,Spinnen-DDT
+BloonsDDTSkinSpiderDescription,"So sieht der DDT wie eine Spinne aus, die über den Pfad krabbelt. Jetzt siehst du sie… Bald ist das Spiel vorbei! Zeitlich begrenztes Sammlerstück!"
+CoopEmoteAnimationPsighName,Pseufz-Emote
+CoopEmoteAnimationPsighShortName,Pseufz-Emote
+CoopEmoteAnimationPsighDescription,"Dieses Pseufz überträgt telepathisch diese subtile Kombination aus Enttäuschung, Verärgerung und Resignation. Wir sehen dich, Spieler 3."
+GameUIProfileBanner17Name,Großer Meister-Ninja-Profilbanner
+GameUIProfileBanner17ShortName,Großer Meister-Ninja-Banner
+GameUIProfileBanner17Description,Banner-Gewinner von LordTeddington
+GameUIProfileBanner18Name,Ingenieursschaum-Profilbanner
+GameUIProfileBanner18ShortName,Ingenieursschaum-Banner
+GameUIProfileBanner18Description,Banner-Gewinner von DREAD_LEAD
+GameUIPowerSkinGlueTrapHoneyTrapName,Individuelle Kraft - Honigbienenkleberfalle
+GameUIPowerSkinGlueTrapHoneyTrapShortName,Honigbienenfalle
+GameUIPowerSkinGlueTrapHoneyTrapDescription,"Auch ein Bloon wird langsamer, wenn er mit Bienen bedeckt ist!"
+GameUIPowerSkinBananaFarmerBananaCostumeName,Individuelle Kraft - Bananenbauer-Bananenkostüm
+GameUIPowerSkinBananaFarmerBananaCostumeShortName,Bananenbauernkostüm
+GameUIPowerSkinBananaFarmerBananaCostumeDescription,"Gibt es so etwas wie zu viel Bananen? ""Oh nein!"" sagt der Bananenbauer. Hol dir das Bananenkostüm des Bananenbauern, um den Anbau von Bananen etwas mehr Banane zu machen."
+GameUIProfileAvatar63Name,Individueller Avatar - Der Schrei
+GameUIProfileAvatar63ShortName,Der-Schrei-Avatar
+GameUIProfileAvatar63Description,Kann nur von einem Verrückten Affen gemalt worden sein. Zeitlich begrenzt verfügbares Sammlerobjekt!
+GameUIProfileBanner19Name,Patchwork-Profilbanner
+GameUIProfileBanner19ShortName,Patchwork-Banner
+GameUIProfileBanner19Description,Kuschel dich unter einer Patchwork-Decke mit einem Becher Kakao ein… Oder rüste einfach dieses kuschelige Banner aus.
+GameUIProfileBanner20Name,Sonnenstrahlen-Profilbanner
+GameUIProfileBanner20ShortName,Sonnenstrahlen-Banner
+GameUIProfileBanner20Description,Präsentiere deine glanzvolle strategische Brillanz mithilfe dieses sonnigen Banners noch besser.
+GameUIProfileBanner21Name,Sternenleuchten-Profilbanner
+GameUIProfileBanner21ShortName,Sternenleuchten-Banner
+GameUIProfileBanner21Description,"Einige glauben, dass Sterne entfernte Gasbälle mit einem so großen Umfang sind, dass ihre unermessliche Schwerkraft nukleare Fusionen tief in ihrem Inneren antreibt. Wir wissen allerdings nur, dass sie hübsch sind und funkeln."
+GameUIProfileBanner22Name,Spukkorridor-Profilbanner
+GameUIProfileBanner22ShortName,Spukkorridor-Banner
+GameUIProfileBanner22Description,Terrorisiere dein Profil mit dem Spukkorridor-Profilbanner. Düstere Kratzer und gequälte Porträts dienen zum Bedauern oder zum Feiern von Halloween. Zeitlich begrenzt verfügbares Sammlerobjekt!
+GameUIProfileAvatar64Name,Individueller Avatar - Affengehirn
+GameUIProfileAvatar64ShortName,Affengehirn-Avatar
+GameUIProfileAvatar64Description,"Eine zerrüttete Gestalt in zerschlissenen Bandagen, die nach einigen köstlichen GEHIRNEN greift! Zeitlich begrenzt verfügbares Sammlerobjekt!"
+TeamsBanner7Name,Tier-Ekstase-Banner
+TeamsBanner7ShortName,Tier-Ekstase-Banner
+TeamsBanner7Description,"Es ist eine fipsige Tier-Party! Rüste dieses Banner aus, um die Haustiere von Bloons TD 6 zu feiern!"
+TeamsBanner8Name,Umkämpftes Gebiet-Banner
+TeamsBanner8ShortName,Umkämpftes Gebiet-Banner
+TeamsBanner8Description,"Rüste dieses Banner aus, um dein Engagement für das Erobern achteckiger Kacheln zu zeigen. Rot gegen Blau sah noch nie so gut aus."
+TeamsEmblemIcon13Name,Kung-Fu-Kiwi-Symbol
+TeamsEmblemIcon13ShortName,Kung-Fu-Kiwi-Symbol
+TeamsEmblemIcon13Description,Überrasche deine Gegner mit einem Luft-Tritt deines liebsten flügellosen Vogels.
+TeamsEmblemIcon14Name,Alles-sehendes-Auge-Symbol
+TeamsEmblemIcon14ShortName,Alles-sehendes-Auge-Symbol
+TeamsEmblemIcon14Description,"Rüste dieses Team-Symbol aus und deine Gegner werden jeden Zug, den sie machen, anzweifeln."
+TeamsEmblemFrame10Name,Ninja-Rollen-Rahmen
+TeamsEmblemFrame10ShortName,Ninja-Rollen-Rahmen
+TeamsEmblemFrame10Description,"Ein Rahmen, um die Passion deines Teams für die antike Kunst der Ninja zu zeigen."
+TeamsEmblemFrame11Name,Erkenntnisrahmen
+TeamsEmblemFrame11ShortName,Erkenntnisrahmen
+TeamsEmblemFrame11Description,Präsentiere das hochwertige Wissen deines Teams für das Platzenlassen von Bloons mit dem Erkenntnisrahmen.
+BasePropPirateCrewMonkeyName,Piraten-Mannschaft
+BasePropPirateCrewMonkeyShortName,Piraten-Mannschaft
+BasePropPirateCrewMonkeyDescription,Ha! Heiße diesen Schlingel in der Basis deines Umkämpften Gebiets willkommen und die anderen Teams drehen mit dem Segel zwischen den Beinen wieder um. [Insel-Slot]
+BasePropTelescopeName,Brechungsteleskop
+BasePropTelescopeShortName,Brechungsteleskop
+BasePropTelescopeDescription,"Bestaune die Wunder des Universum oder lasse die anderen Teams glauben, dass du ihren Weg zum Sieg ausspioniert hast. [Insel-Slot]"
+BuildingPropCastleName,Befestigtes Burggebäude
+BuildingPropCastleShortName,Befestigtes Burggebäude
+BuildingPropCastleDescription,Herrsche über deine Insel und lasse andere Teams mit diesem wunderbaren mittelalterlichen Herzstück für deine Basis Treue schwören. [Hauptgebäude-Slot]
+WaterPropMiniPirateBoatName,Mini-Piratenboot
+WaterPropMiniPirateBoatShortName,Mini-Piratenboot
+WaterPropMiniPirateBoatDescription,"Während die anderen Teams zusehen, wie du dir ihre Titel holst, nutze dieses mächtige Mini-Schiff, um sie wissen zu lassen, dass du ihre Schätze stiehlst. [Wasser-Slot]"
+FlyingPropMoonRabbitName,Mondkaninchen
+FlyingPropMoonRabbitShortName,Mondkaninchen
+FlyingPropMoonRabbitDescription,In Umkämpften Gebieten geht es nur um das Erobern von Dingen und dieses süße Mondkaninchen regt die Fantasie aller an. [Luft-Slot]
+Deselect,Abwählen
+CTDailyTitle,Tagesbonus
+CTDailySubtitle,Heutige Spielertickets
+CTDailyDescription,"Wenn ein Spielerticket verwendet wird, um eine Kachel zu erobern"
+CTDailyTrophies,Tagesbonus-Trophäen
+TileRecap,Kachel-Zusammenfassung
+PlusCTPoints,+{0} UG-Punkte
+CTRulesInfoSubtitle,"Willkommen in den Umkämpften Gebieten! Arbeite gemeinsam mit deinem Team, erobere Kacheln, platziere dich an der Spitze der Leaderboards und verdiene tolle Belohnungen!"
+CTRulesInfoSectionOne,"• Eroberungstickets werden nur verwendet, wenn du eine Kachel eroberst. Sie werden alle 24 Stunden aktualisiert."
+CTRulesInfoSectionTwo,"• Ungenutzte Eroberungstickets kommen in einen Ticket-Pool, die von anderen Mitgliedern deines Teams am nächsten Tag verwendet werden können. Team-Tickets tragen nicht zur individuellen Platzierung auf den Leaderboards bei."
+CTRulesInfoSectionThree,"• Sobald sie erobert sind, zersetzen sich die Kachel-Punktzahlen im Lauf der Zeit, bis die Kachel schließlich neutral wird."
+CTRulesInfoSectionFour,"• UG-Punkte werden beim Erobern einer Kachel verdient und für jede Stunde, während der du eine Kachel hältst. UG-Punkte entscheiden über die Platzierung von dir persönlich und von deinem Team auf den Leaderboards, schnappe dir also so oft wie möglich Kach"
+CTRulesInfoSectionFive,"• Banner-Kacheln sind härtere Kacheln, die mehr UG-Punkte bringen."
+CTRulesInfoSectionSix,"• Relikt-Kacheln verleihen deinem Team Zugang zu mächtigem Relikt-Wissen, das dir wiederum beim Erobern von Kacheln hilft."
+CTRulesInfoSectionSeven,• Der Kachel-Fortschritt wird alle 20 Runden gespeichert und du kannst immer nur eine Fortschrittsspeicherung haben.
+TeamTrophyStoreRulesInfoSubtitle,"Dies ist der Team-Trophäen-Shop, in dem du freigeschaltete UG-Relikte auswählen und Tägliche Kräfte, Event-Relikte und Team-Flair finanzieren kannst."
+TeamTrophyStoreRulesInfoSectionOne,"• Tägliche Kräfte sind jeden Tag während des UG-Events zum Freischalten verfügbar und können von dem ganzen Team für diesen Tag genutzt werden, sobald sie finanziert wurden."
+TeamTrophyStoreRulesInfoSectionTwo,"• Event-Relikte sind im Laufe des UG-Events verfügbar und können für den Rest des Events verwendet werden, sobald sie finanziert wurden. Sie sind separat von Relikten, die durch Relikt-Kacheln freigeschaltet wurden."
+TeamTrophyStoreRulesInfoSectionThree,"• Erobere Relikt-Kacheln und wähle dann bis zu 4 deiner liebsten Relikt-Kenntnisse aus, um dieses Event zu verwenden. Du kannst sie jederzeit austauschen."
+TeamTrophyStoreRulesInfoSectionFour,"• Der Team-Flair wird von dem gesamten Team finanziert und ist nach der Finanzierung dauerhaft für dein Team freigeschaltet. Spieler, die das Team verlassen, nehmen den Team-Flair nicht mit."
+PlaySocialCaps,IN SOZIALEN NETZWERKEN SPIELEN
+SelectCapturedRelics,Wähle bis zu 4 eroberte Relikte aus
+NextBonusIn,Nächster Bonus in:
+MemberCount,Mitgliederzahl
+Min,Minimum
+PrimeGamingText,Fordern Sie Ihr Prime Gaming-Geschenk an!
+GetNow,Get Now

@@ -150,7 +150,7 @@ Gwendolin Level 1 Description,Spränger Bloons med eld från hennes pyrokanon.
 Gwendolin Level 2 Description,Något ökad smällkraft per skott.
 Gwendolin Level 3 Description,Eldcocktail: Slungar en flaska med brandfarlig vätska och bränner Bloons som passerar genom elden.
 Gwendolin Level 4 Description,Värm upp det - Med några sekunders mellanrum skapas en kraftfull sprängvåg med eld som smäller Bloons och lägger till eld till apattacker i närheten.
-Gwendolin Level 5 Description,Ökad smällkraft.
+Gwendolin Level 5 Description,"Ökad smällkraft. 10 % ökad attackhastighet och räckvidd för Eldring, Signalraket och Drakandedräkt."
 Gwendolin Level 6 Description,Attackerna orsakar brännskador på Bloons.
 Gwendolin Level 7 Description,"Värm upp det har större radie, Eldcocktail är mera effektiv."
 Gwendolin Level 8 Description,Skjuter 2 eldvågor per skott.
@@ -163,7 +163,7 @@ Gwendolin Level 14 Description,Eldcocktail ger extra skada och sätter eld på B
 Gwendolin Level 15 Description,Ökad attackhastighet.
 Gwendolin Level 16 Description,Eldstorm varar längre och åsamkar mer skada. Rosa Bloons är inte längre immuna mot Gwendolins attacker.
 Gwendolin Level 17 Description,Värm upp det gör det möjligt för de påverkade aporna att smälla 1 extra lager och åsamka +2 skada på Blybloons.
-Gwendolin Level 18 Description,Ökad attackhastighet.
+Gwendolin Level 18 Description,"Ökad attackhastighet. 20 % ökad attackhastighet och räckvidd för Eldring, Signalraket och Drakandedräkt."
 Gwendolin Level 19 Description,Skjuter 3 eldvågor per skott.
 Gwendolin Level 20 Description,Eldstorm ger kraftigt ökad skada.
 ,
@@ -232,11 +232,11 @@ ObynGreenfoot Level 20 Description,Trädväggen har plats för många fler Bloon
 ,
 Ezili Level 1 Description,Ezili förbannar Bloons med mörk voodookraft.
 Ezili Level 2 Description,Ökad attackräckvidd.
-Ezili Level 3 Description,Hjärtstoppare: Förhindrar alla återväxt under 6 sekunder.
+Ezili Level 3 Description,"Hjärtstoppare: saktar ner Bloons, möjliggör smällning av Rosa och förhindrar all återväxt under 10 sekunder."
 Ezili Level 4 Description,Ezilis huvudattack förbannar nu flera Bloons.
 Ezili Level 5 Description,Ökad attackhastighet.
 Ezili Level 6 Description,Skada över tid varar längre och skadar snabbare.
-Ezili Level 7 Description,"Offertotem: En totem som ger kamo-detektering, extra genomslag, attackräckvidd, attackhastighet och projektilhastighet till apor i närheten. Kostar 10 liv."
+Ezili Level 7 Description,"Offertotem: En totem som ger kamodetektering, extra genomslag, attackräckvidd, attackhastighet och projektilhastighet till apor i närheten, i synnerhet trollkarlsapor. Kostar 10 liv."
 Ezili Level 8 Description,Ezilis attack åsamkar mycket större skada för MOAB-klass-Bloons.
 Ezili Level 9 Description,"Ezilis attack tar bort kamo, återväxt och förstärkningsegenskaper från Bloons som inte tillhör MOAB-klassen."
 Ezili Level 10 Description,"MOAB-förbannelse: kastar en förbannelse över en MOAB-klass-Bloon, som tar skada varje sekund tills den förintas."
@@ -282,8 +282,8 @@ Rallying Roar Ability Description,Alla apor i närheten kan smälla +1 lager ext
 Big Squeeze Ability Description,"Greppar en MOAB, BFB, DDT (om den är synlig) eller ZOMG och krossar den under 5 sekunder."
 Brambles Ability Description,Skapar en taggbuske på vägen som kan smälla 50 Bloons.
 Wall of Trees Ability Description,"Frammanar en trädvägg på vägen som förstör alla Bloons som kommer dit. När väggen är full, förvandlas träden till pengar."
-Heartstopper Ability Description,Förhindrar all återväxt under 6 sekunder.
-Sacrificial Totem Ability Description,"En totem som ger kamo-detektering, extra genomslag, attackräckvidd, attackhastighet och projektilhastighet till apor i närheten. Kostar 10 liv."
+Heartstopper Ability Description,Möjliggör smällning av Lila och förhindrar all återväxt under 10 sekunder.
+Sacrificial Totem Ability Description,"En totem som ger kamodetektering, extra genomslag, attackräckvidd, attackhastighet och projektilhastighet till apor i närheten, i synnerhet trollkarlsapor. Kostar 10 liv."
 MOAB Hex Ability Description,"kastar en förbannelse över en MOAB-klass-Bloon, som tar skada varje sekund tills den förintas."
 ,
 //Hero Misc,
@@ -694,7 +694,7 @@ Long Range Darts Description,Får Pilapan att skjuta längre än normalt.
 Razor Sharp Shots Description,Kan smälla 2 extra Bloon per skott.
 Very Quick Shots Description,Skjuter 33 % snabbare!
 Enhanced Eyesight Description,Skjuter ännu längre och kan detektera Kamo-Bloons.
-Spike-o-pult Description,"Förvandlar Pilapan till en Spikapult som slungar stora spikbollar istället för pilar. Bra räckvidd, men långsammare attackhastighet. Varje boll kan smälla en massa Bloons och studsar vidare från hinder."
+Spike-o-pult Description,Förvandlar Pilapan till en mera långsamt attackerande Spikapult som slungar stora spikbollar. Varje boll kan smälla en massa Bloons och studsar vidare från hinder.
 Triple Shot Description,Kastar 3 pilar åt gången istället för 1.
 Crossbow Description,Använder ett långdistansarmborst som kan smälla 3 Bloonlager för varje träff.
 Juggernaut Description,Slungar en enorm spikboll som smäller bly och är extra bra på att krossa Keramikbloons.
@@ -756,7 +756,7 @@ Permafrost Description,Bloons rör sig långsamt även efter de har tinat upp.
 Enhanced Freeze Description,Attackerar snabbare och fryser längre.
 Larger Radius Description,Större frysområde.
 Metal Freeze Description,Kan frysa och smälla Bly- och Kamobloons.
-Deep Freeze Description,Fryser genom 2 Bloonlager.
+Deep Freeze Description,Fryser ett extra lager och frysningen varar längre.
 Re-Freeze Description,Kan återfrysa Bloons som redan är frusna.
 Ice Shards Description,Rakbladsvassa skärvor flyger ut när frusna Bloons smäller.
 Arctic Wind Description,Ökar genomträngningsförmågan betydligt och förvärvar en superkall aura som saktar ner Bloons och fryser vatten i närheten.
@@ -798,13 +798,13 @@ Supply Drop Description,Släpp av förnödenheter-förmåga: släpper en låda f
 Full Auto Rifle Description,Helautomatiskt vapen med otrolig smällkraft.
 Cripple MOAB Description,Skadade MOAB:er är orörliga längre och tar extra skada från alla andra attacker.
 Elite Sniper Description,Släpp av förnödenheter ger mycket mera pengar. Ger elitsiktesprioritet och snabbare omladdning till alla prickskyttar.
-Elite Defender Description,Ett förlorat liv ger denna Prickskytt 4x attackhastighet under en kort stund som vedergällning. Attackerar även snabbare ju längre Bloons har kommit på banan. Ger större skada på MOAB-klass-Bloons.
+Elite Defender Description,Avfyrar supersnabbt och ännu snabbare ju längre Bloons har kommit på banan. Får 4 gånger högre attackhastighet en kort stund vid förlust av liv. Ger större skada på MOAB-klass-Bloons.
 ,
 Longer Range Description,Ökar attackräckvidden.
 Barbed Darts Description,Ubåtens pilar kan smälla 3 extra Bloons.
 Twin Guns Description,Tillagd dubbelkanon fördubblar attackhastigheten. Förbättrar den Ballistiska missilen och Bloontoniumreaktorn.
 Advanced Intel Description,Möjliggör långdistansskjutning på Bloons som befinner sig inom radien för dina andra torn.
-Heat-tipped Darts Description,Värmespetsade pilar möjliggör smällning av frusna Bloons och Blybloons.
+Heat-tipped Darts Description,Värmespetsade pilar gör det möjligt för Apubåten att smälla frusna Bloons och Blybloons.
 Airburst Darts Description,Luftexploderande pilar delas i 3 när de träffar för massiv smällkraft. Förstärker Bloontoniumreaktorn ytterligare.
 Submerge and Support Description,"Lägger till ett målsökningsalternativ i U-läge som avslöjar Kamobloons permanent inom dess radie, men attackerar inte från U-läge."
 Ballistic Missile Description,Missilen söker mål inom räckvidd och ger extra skada på MOAB och Keramik-Bloons.
@@ -826,7 +826,7 @@ Buccaneer-Destroyer Description,Attackerar superdupersnabbt!
 Buccaneer-Cannon Ship Description,Lägger till en kraftfull kanon som skjuter kraftfulla bomber.
 Buccaneer-Merchantman Description,Alstrar pengar varje runda automatiskt.
 Buccaneer-Aircraft Carrier Description,Skickar upp vågor av jaktplan som skjuter mot sina mål och avfyrar missiler mot Bloons i MOAB-klassen.
-Buccaneer-Monkey Pirates Description,Lägger till 2 kanoner till fartyget och kanonattacker ger större skada. MOAB-nerdragningsförmåga: harpunerar en Bloon i MOAB-klassen och drar ner den.
+Buccaneer-Monkey Pirates Description,Lägger till 2 kanoner till fartyget och attackerna ger större skada. MOAB-nerdragningsförmåga: harpunerar en Bloon i MOAB-klassen och drar ner den.
 Buccaneer-Favored Trades Description,Attackerar snabbare och genererar massor av pengar varje runda. Apor inom radien har ökat säljvärde.
 Buccaneer-Carrier Flagship Description,Ger extra skada. Kan placera andra apor på fartygets övre däck och öka attackhastigheten för alla vattenbaserade apor och apess.
 Buccaneer-Pirate Lord Description,Mycket högre attackhastighet för alla attacker och kan skjuta 3 änterhakar samtidigt vilket plundrar extra pengar från varje Bloon i MOAB-klassen som skjuts ner.
@@ -874,11 +874,11 @@ Shockwave Description,"Explosionens stötvåg bedövar Bloons som träffas, smä
 Heavy Shells Description,"Tunga projektiler åsamkar extra skada på Keramik-, Bly-, alla Förstärkta och alla bedövade Bloons. Kan även smälla Svarta Bloons."
 Signal Flare Description,Kamo-Bloons som smälls med signalraketer förlorar sin kamoflering permanent.
 The Big One Description,"Förödande explosioner smäller 7 Bloonlager, samt ökar skadan för Brännstoff ytterligare."
-Artillery Battery Description,Bombardemangförmåga: Avlossar en snabb eldattack i ett något större område. Huvudattacken uppgraderas till 3 eldrör för otroligt snabba attacker.
+Artillery Battery Description,Bombardemangförmåga: Avlossar en snabb eldattack i ett något större område. Huvudattacken åsamkar mer skada på BAD:er och Bloonsbossar och uppgraderas till 3 eldrör för otroligt snabba attacker.
 Shattering Shells Description,Splittergranater spränger bort alla specialegenskaper från alla Bloons förutom de allra största.
 The Biggest One Description,"Spränger sig djupt genom Bloons och lager över ett stort område, samt kraftfull Brännstoffskada."
-Pop and Awe Description,"Smäll och beundra-förmåga: Regnar explosioner över hela skärmen, smäller och gör Bloons orörliga under några sekunder."
-Blooncineration Description,"Supervarmt brinnande material smälter igenom 5 lager Bloon varje skott, bränner MOAB-klassbloons för extra skada och tar bort DDT-kamo."
+Pop and Awe Description,"Smäll och beundra-förmåga: regnar explosioner över hela skärmen, skadar och gör Bloons orörliga under några sekunder. Alla artilleribatterier åsamkar mer skada på BAD:er och Bloonsbossar. Huvudattacken ger extra bonusskada på bedövade Bloons."
+Blooncineration Description,"Supervarm brinnande materia smälter igenom 5 Bloonlager för varje skott, bränner MOAB-klass-Bloons för extra skada."
 ,
 Focused Firing Description,Ökar träffsäkerheten för Pilsprutan.
 Advanced Targeting Description,Gör det möjligt för Pilspruteskytten att träffa Kamo-Bloons.
@@ -918,7 +918,7 @@ Super Range Description,Stålapor behöver superräckvidd.
 Knockback Description,Bloons knuffas bakåt eller blir långsammare efter varje träff.
 Plasma Blasts Description,Plasma förångar nästan allt som vidrörs.
 Epic Range Description,Varför nöja sig med super när man kan ha EPISK?
-Ultravision Description,Gör det möjligt för Stålapan att skjuta något längre och se Kamo-Bloons.
+Ultravision Description,Gör det möjligt för Stålapan att skjuta något längre och åsamkar mer skada på Kamobloons.
 Sun Avatar Description,Utnyttjar kraften från solens kärna.
 Robo Monkey Description,"Hälften Stålapa, hälften dödlig mördarrobot. Skjuter från 2 kulsprutor samtidigt och kan övergå till kritisk attack!"
 Dark Knight Description,Mörka blad ökar tillbakaknuffningen och genomslagsförmågan och åsamkar extra skada på Bloons i MOAB-klassen. Förvärvar Mörkskifteförmåga för förflyttning till en plats i närheten.
@@ -951,7 +951,7 @@ Acid Pool Description,Om inga Bloons är i närheten kan Alkemisten dränka väg
 Acidic Mixture Dip Description,Kastar en hjälpsam trolldryck på apor i närheten som gör det möjligt för dem att smälla Blybloons och åsamka extra skada på Keramik- och MOAB-klass-Bloons. Upphör att verka efter flera attacker.
 Perishing Potions Description,Attacktrolldrycker åsamkar större skada på Bloons i MOAB-klassen och tar bort förstärkningar från mindre Bloons. Stärker även Brygder och Stimulanter.
 Alchemist Faster Throwing Description,Slänger trolldrycker och attackerar snabbare.
-Berserker Brew Description,"Specialbrygd ger apor extra skada, räckvidd och attackhastighet. Varar längre."
+Berserker Brew Description,"Kastar Specialbrygd till apor i närheten och ger dem extra skada, räckvidd och attackhastighet."
 Unstable Concoction Description,Täcker MOAB-klass med ett explosivt ämne som orsakar en stor explosion när de smälls.
 Lead to Gold Description,Förvandlar Blybloons till GULD! Speciallösningsmedel åsamkar extra skada på Blybloons och förstör dem med ett skott och genererar pengar.
 Stronger Stimulant Description,Extra stark bärsärkbrygd som har ännu mera kraftfull effekt på målet. Varar ännu längre.
@@ -1870,7 +1870,7 @@ RapidRazorsDescription,Rakbladsrotorblad smäller Bloons snabbare.
 BudgetBattery,Budgetbatteri
 BudgetBatteryDescription,Kostnaden för Artilleribatteriet minskas med 600.
 PaintStripper,Färgborttagare
-PaintStripperDescription,Spittergranater från granatkastare tar bort Kamo från DDT-Bloons.
+PaintStripperDescription,Splittergranater från granatkastare tar bort förstärkning från DDT-Bloons.
 CheaperMaiming,Billigare lemlästning
 CheaperMaimingDescription,Kostnaden för Lemlästa MOAB minskas med 1 000.
 ChargedChinooks,Laddade Chinooks
@@ -2638,17 +2638,17 @@ Adora Level 5 Description,Gudomliga åskviggar tränger igenom fler Bloons.
 Adora Level 6 Description,Skjuter 3 gudomliga åskviggar i taget.
 Adora Level 7 Description,Blodoffer: Offra ett utvalt Torn för att ge Adora stora mängder XP och förbättra hennes attackräckvidd och eldhastighet under en kort stund.
 Adora Level 8 Description,Skjuter 4 gudomliga åskviggar i taget.
-Adora Level 9 Description,Ökad attackräckvidd.
+Adora Level 9 Description,Ökar attackräckvidden och ger extra skada på förstärkta Bloons.
 Adora Level 10 Description,Ljusklot: Frammanar ett kraftfullt energiklot som slår ner Bloons.
 Adora Level 11 Description,Adora får högre attackhastighet.
 Adora Level 12 Description,Skjuter 5 gudomliga åskviggar i taget.
-Adora Level 13 Description,Gudomliga åskviggar tränger igenom ännu fler Bloons.
+Adora Level 13 Description,Gudomliga åskviggar tränger igenom ännu fler Bloons. Större skada på förstärkta Bloons.
 Adora Level 14 Description,Skjuter 6 gudomliga åskviggar i taget.
 Adora Level 15 Description,Gudomliga Åskbollar bränner igenom ett extra Bloonlager och Ljusbollen utdelar mer skada.
 Adora Level 16 Description,Ljusets långa arm blir ännu dödligare.
 Adora Level 17 Description,Adora får ännu högre attackhastighet.
 Adora Level 18 Description,Skjuter 8 gudomliga åskviggar i taget.
-Adora Level 19 Description,Ökad attackräckvidd.
+Adora Level 19 Description,Ökad attackräckvidd. Större skada på förstärkta Bloons.
 Adora Level 20 Description,"Ljusbollen är kraftigt förbättrad och har högre eldhastighet, längre räckvidd och ökad varaktighet från Offer."
 Carved,Utskuren
 BloodyPuddles,Krångliga pölar
@@ -2700,7 +2700,7 @@ WolfpackQuincySkinName,Vargflock-Quincy
 WolfpackQuincySkinDescription,"Från de vilda dagarna i det förgångna, när alla jägare var starka och flocken ännu starkare, är han Quincy, förfader till Quincy."
 Infernal,Infernalisk
 DownloadButton,Ladda ner
-DownloadDescription,Laddar ner ytterligare filer. Wi-fi rekommenderas. Datamängd {0}MB
+DownloadDescription,Uppdaterade filer krävs före spel. Wi-fi rekommenderas. Datamängd {0}MB
 ViewCollectionButton,Visa Samling
 ViewInventoryButton,Visa Inventarielista
 CollectionDescription,Instaapor kommer att förbli synliga i din inventarielista även efter användning.
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] till Mörkskifte inom räckvidden
 DarkChampionDarkshift,[I] till Mörkskifte till valfri giltig plats
 SmallTowersMode,Små aptorn
 BigTowersMode,Stora aptorn
-UpdatePopupTitle,Uppdatering 32!
-UpdatePopupDescription,"Episk uppdatering om omtvistade territorier!\n• Stort nytt event: Omtvistade territorier - erövra rutor från andra team och regera på topplistan!\n • Team! Samla dina vänner och bilda ett ostoppbart team för att erövra det omtvistade territoriet\n• Ny paragon: Mästerbyggare\n• Nytt hjälteskin: Voidora\n• Ny medelsvår bana: Stenbrott\n• Trofébutikartiklar, förbättringar av livskvalitet, balansändringar och mycket mera!"
+UpdatePopupTitle,Uppdatering 33!
+UpdatePopupDescription,"Stor innehållsuppdatering!\n• Släpp lös det skräckinjagande Goliatdomedagsskeppet, Apess-paragonen!\n• Bygg upp en smula Bloonsmällande kraft på den medelsvåra banan Skyddad trädgård! Design av vinnaren av communityns bantävling SuperPsou.\n• Hemsök salarna på den nya läskiga avancerade banan Midnattsherrgård!\n• Trofébutikartiklar, förbättringar av livskvalitet, balansändringar och mycket mera!"
 ResetDailyChest,Återställ daglig kista
 JukeboxName,Jukebox
 EnableFunction,Aktivera
@@ -4413,11 +4413,11 @@ GameUIProfileAvatar59Description,Du kan se kärleken i hans ögon. Nu behöver d
 GameUIProfileAvatar60Name,Striker Jones-avatar
 GameUIProfileAvatar60ShortName,Striker Jones-avatar
 GameUIProfileAvatar60Description,Striker Jones anmäler sig för tjänstgöring! Visa att du är redo att vinna med hälsningar från din skulderavfyrande favoritapa.
-GameUIProfileBanner13Name,Ankomstbanner
-GameUIProfileBanner13ShortName,Ankomstprofilbanner
+GameUIProfileBanner13Name,Ankomstprofilbanner
+GameUIProfileBanner13ShortName,Ankomstbanner
 GameUIProfileBanner13Description,Bannervinnare av betapotata
-GameUIProfileBanner14Name,Under vågorna-banner
-GameUIProfileBanner14ShortName,Under vågorna-profilbanner
+GameUIProfileBanner14Name,Under vågorna-profilbanner
+GameUIProfileBanner14ShortName,Under vågorna-banner
 GameUIProfileBanner14Description,Bannervinnare av Cyliia
 GameUIMusicTrackMusicSunshineFiestaMixName,Jukebox: Sunshine Serenade - Fiesta Remix
 GameUIMusicTrackMusicSunshineFiestaMixShortName,Sunshine - Fiesta
@@ -4588,7 +4588,7 @@ TeamBannersTitle,Banners
 TeamGeneralTitle,Allmänt
 TeamSettingPublicTitle,Offentligt
 TeamSettingPrivateTitle,Privat
-TeamSettingClosedTitle,Stängd
+TeamSettingClosedTitle,Endast inbjudan
 TeamJoin,Gå med
 TeamApply,Tillämpa
 RecentWin,Senaste vinsten:
@@ -4600,8 +4600,8 @@ Tile,Ruta: {0}
 RelicTile,Relikruta
 BannerTile,Bannerruta
 BonusCTPoints,OT-bonuspoäng!
-DailyRelics,Dagliga reliker
-HeldRelics,Hållna reliker
+DailyRelics,Dagliga förmågor och evenemangsreliker
+HeldRelics,Erövrade reliker
 Tickets,Biljetter:
 PurchaseTickets,Köp biljett
 MoreTicketsIn,Fler biljetter om:
@@ -4728,7 +4728,7 @@ RelicExtraEmpoweredDescription,Din hjälte börjar spelet med 3 extra nivåer (k
 RelicBoxOfChocolatesDescription,Börja varje spel med 100 extraliv
 RelicBoxOfMonkeyDescription,Börja varje spel med en gratis apa som kostar $500 eller mindre för omodifierad inledande utplacering
 RelicMarchingBootsDescription,I spel med begränsat antal ger det spelarna +1 maxantal för varje torn i deras laddning eller +4 totalt maxantal per spel
-RelicHeroBoostDescription,Hjältar tjänar XP 10 % snabbare i varje spel.
+RelicHeroBoostDescription,Hjältar tjänar XP 15 % snabbare i varje spel.
 RelicBiggerBloonSabotageDescription,Alla Bloons i MOAB-klassen återföds med 15 % mindre hälsa och rör sig med 95 % hastighet.
 RelicRoundingUpDescription,Tjäna +$20 vid slutet av varje runda
 RelicManaBulwarkDescription,Skapar en sköld som absorberar upp till 50 liv (kombineras med Manasköld på Vanliga Rutor)
@@ -4742,11 +4742,11 @@ RelicRoyalTreatmentDescription,Alla attacker kan smälla lila Bloons
 RelicHardBakedDescription,Alla attacker åsamkar +1 skada på Keramikbloons
 RelicFortifriedDescription,Alla attacker åsamkar +1 skada på Förstärka Bloons
 RelicMoabClashDescription,Alla attacker åsamkar +3 skada på Bloons i MOAB-klassen
-RelicCamoFloggedDescription,Alla attacker åsamkar +1 skada på Kamobloons
+RelicCamoFloggedDescription,Alla attacker åsamkar +3 skada på Kamobloons
 RelicBrokenHeartDescription,Alla attacker åsamkar +1 skada på återväxande Bloons
-RelicGoingTheDistanceDescription,Alla apor får +10 % räckvidd
+RelicGoingTheDistanceDescription,Alla apor får +20 % räckvidd
 RelicHeartlessDescription,Återväxttakten för återväxande Bloons minskar 25 %
-RelicFlintTipsDescription,Vassa projektiler lägger till en eldpunkt till alla Bloons de skadar (1 skada varannan sekund i totalt 4 sekunder)
+RelicFlintTipsDescription,"Vassa projektiler lägger till en eldpunkt till alla Bloons de skadar (1 skada var 2,5:e sekund i totalt 5 sekunder)"
 RelicAbilitizedDescription,All nedkylning av aktiverade förmågor för alla apor minskas med 10 %
 RelicAirAndSeaDescription,"Placerings- och uppgraderingskostnaderna för Ess, Helikopter, Pirat och Ubåt minskas 10 % och omladdning förbättras med 5 %"
 RelicElDoradoDescription,Alla belöningar med appengar och teamtroféer från spelsegrar ökas med 25 % (+1 som minimum)
@@ -4755,7 +4755,7 @@ RelicMonkeyShieldMark2Description,Under 2 timmar efter erövrandet kan rutan int
 RelicMonkeyShieldMark3Description,Under 3 timmar efter erövrandet kan rutan inte attackeras av motståndarteam. Förbättrad poäng kommer att återaktiveras.
 RelicPsiVisionDescription,Se fullständig information för alla rutor på kartan
 RelicOpenSeasonDescription,Attackera valfri ruta på kartan
-RelicCamoTrapDescription,Ger tillgång till användning av 2 effekthöjare för Kamofällor per spel
+RelicCamoTrapDescription,Ger tillgång till användning av 1 effekthöjare för Kamofällor per spel
 RelicThriveDescription,Ger tillgång till användning av 2 effekthöjare för Frodas per spel
 RelicSuperMonkeyStormDescription,Ger tillgång till användning av 2 SMS per spel
 RelicMonkeyBoostDescription,Ger tillgång till användning av 3 Apeffekthöjare per spel
@@ -4792,7 +4792,7 @@ TeamBrowserTitle,Teamsökare
 TeamBrowserSearchField,Ange teamnamn...
 TeamBrowserSearchHideFull,Dölj fulla team
 TeamBrowserSearchHidePrivate,Dölj privata team
-TeamBrowserSearchHideClosed,Dölj stängda team
+TeamBrowserSearchHideClosed,Dölj bjud endast in team
 TeamEditApplyAll,Tillämpa alla
 TeamScore,Poäng: {0}
 TeamRemoveMember,Är du säker på att du vill ta bort denna medlem?
@@ -4821,7 +4821,7 @@ TeamMateSetScore,En teamkamrat satte en ny poäng att slå!
 AnotherTeamSetScore,Ett annat team satte en ny poäng att slå!
 FriendScreenErrorTeamInviteAlreadyMember,Denna spelaren är redan i ditt team
 TotalTeamScore,Teampoäng
-CTRulesInfo,"Välkommen till Omtvistade Territorier! Arbeta tillsammans med ditt team, erövra Rutor, hamna längst upp på topplistorna och vinn fantastiska belöningar!\n\n• Erövringsbiljetter används endast om du erövrar en Ruta. De uppdateras var 24:e timme.\n• Oanvända Erövringsbiljetter kommer att hamna i en biljettpool som kan användas av andra teammedlemmar följande dag.\n• Efter erövringen kommer Rutpoäng att sjunka långsamt med tiden, tills Rutan blir neutral efter 24 timmar.\n• OT-poäng tjänas när man erövrar en Ruta och varje timme som du fortsätter att hålla en Ruta. OT-poäng bestämmer din personliga och ditt teams placering på topplistan, så erövra Rutor så ofta du kan!\n• Bannerrutor är svårare Rutor som ger massor av OT-poäng.\n• Relikrutor ger dig team tillgång till kraftfulla Relikkunskaper som i sin tur kommer att hjälpa dig när du erövrar Rutor.\n• Rutförloppet sparas var 20:e runda och du kan bara ha ett pågående sparat spel åt gången.\n• Rösta på vilka Reliker du gillar mest i Teamtrofébutiken och välj sedan vilka specifika Reliker du vill ta med dig ut på slagfältet på spelets startsida."
+CTRulesInfo,"Välkommen till Omtvistade Territorier! Arbeta tillsammans med ditt team, erövra rutor, hamna längst upp på topplistorna och vinn fantastiska belöningar!\n\n• Erövringsbiljetter används endast om du erövrar en ruta. De uppdateras var 24:e timme.\n• Oanvända erövringsbiljetter kommer att placeras i en biljettpott som kan användas av andra teammedlemmar följande dag. Teambiljetter bidrar inte till personlig placering på topplistan.\n• När de har erövrats kommer rutpoäng att minska långsamt med tiden, tills rutan slutligen blir neutral.\n• OT-poäng delas ut när man erövrar en ruta och varje timme som man fortsätter att hålla en ruta. OT-poäng bestämmer din personliga och ditt teams placering på topplistan, så erövra rutor så ofta du kan!\n• Bannerrutor är svårare rutor som ger massor av OT-poäng.\n• Relikrutor ger dig team tillgång till kraftfulla relikkunskaper som i sin tur kommer att hjälpa dig när du erövrar rutor.\n• Rutförloppet sparas var 20:e runda och du kan bara ha ett pågående sparat spel åt gången."
 TeamTrophyStoreRulesInfo,"Detta är Teamtrofébutiken där du kan rösta på upplåsta OT-reliker, finansiera Dagliga krafter, Eventreliker och Teamstil.\n• Dagliga krafter är tillgängliga för upplåsning varje dag under OT-eventet och när de har finansierats kan de användas av hela teamet under den dagen.\n• Eventreliker blir tillgängliga under hela OT-eventet och när de har finansierats, är de tillgängliga under återstoden av eventet. De är separata från Reliker som låses upp via Relikrutor.\n• Erövra Relikrutor och rösta sedan på dina favoriter bland Relikkunskaperna som låstes upp under detta event. De högst placerade Relikerna kommer att vara tillgängliga för dig att välja från under din avslutande aktivering av 4 Reliker.\n• Teamstil finansieras av hela teamet och när det väl har finansierats, är det permanent upplåst för ditt Team. Spelare som lämnar Teamet tar inte med sig Teamstilen."
 TeamsBanner1Name,Apor i Rymden-banner
 TeamsBanner2Name,Hjälteteam på väg uppåt-banner
@@ -4912,22 +4912,22 @@ BasePropSatelliteShortName,Rörligt satellitfordon
 BasePropTortoiseShortName,Tribal sköldpadda
 BasePropBattleMonkeyShortName,Stridsapa
 BuildingPropBattleTowerShortName,Bastorn
-BuildingPropWizardTowerDescription,Magiska äventyr väntar alla team som kan finansiera denna mystiska bas.
-BuildingPropLighthouseDescription,Lys upp vägen för hela ditt team med denna starkt lysande huvudbas.
-FlyingPropPhoenixDescription,"Alla undrar om det faktiskt finns en Trollkarlsapa där uppe, men har någon funderat över om kanske alla Trollkarlsapor bara är Fenixar som väntar på att återfödas?"
-FlyingPropMiniAceDescription,Låt Apesset ha koll på himlen över ditt team med detta söta Miniess.
-WaterPropKrakenDescription,Släpp lös Kraken! Dominera vågorna med denna förvånansvärt söta gigantiska undervattensvarelse.
-WaterPropMiniSubDescription,Upp med periskopet! Speja över området med Miniubåten.
-BasePropKingDescription,Välkommen till vår häftiga nya Ap.... Jag menar Omtvistade Territorier! Det är fritt fram att sno detta land och det är överhopat med Bloons! Smäll dem och säkra landet för ditt team.
-BasePropLighthouseKeeperDescription,Denna visa gamla apa sköter om fyren och håller ständig utkik efter fartyg som passerar i nattens mörker.
-BasePropCrashedMoabDescription,"Ett team av smarta apvetenskapsmän har redan finkammat detta vrak för användbar teknologi, så nu ligger det bara kvar som en varning till andra Bloons."
-BasePropTrainingDummyDescription,"Håll alla dina Pilapor i toppform med en 100 % återanvändbar Träningsdocka, som har certifierats av Dr. Apa."
-BasePropCampfireDescription,"Håll ditt team varmt under kyliga nätter, eller berätta läskiga historier om Omtvistade Territorier från förr vid lägerelden."
-BasePropTotemDescription,Skydda dina gränser med denna skräckinjagande tribala totem.
-BasePropSatelliteDescription,"Skicka ner information direkt från rymden med detta mobila satellitfordon, som är redo att rulla!"
-BasePropTortoiseDescription,"Fråga honom inte om han har några tribala släktingar, särskilt inte sköldpaddor!"
-BasePropBattleMonkeyDescription,"Omtvistade territorier-apa, redo att ge sig av!"
-BuildingPropBattleTowerDescription,Alla uppdrag in i Omtvistade Territorier kräver en ordentlig bas.
+BuildingPropWizardTowerDescription,Magiska äventyr väntar alla team som kan finansiera denna mystiska bas. [Huvudbyggnadsplats]
+BuildingPropLighthouseDescription,Lys upp vägen för hela ditt team med denna starkt lysande huvudbas. [Huvudbyggnadsplats]
+FlyingPropPhoenixDescription,"Alla undrar om det faktiskt finns en Trollkarlsapa där uppe, men har någon funderat över om kanske alla Trollkarlsapor bara är Fenixar som väntar på att återfödas? [Luftplats]"
+FlyingPropMiniAceDescription,Låt Apesset ha koll på himlen över ditt team med detta söta Miniess. [Luftplats]
+WaterPropKrakenDescription,Släpp lös Kraken! Dominera vågorna med denna förvånansvärt söta gigantiska undervattensvarelse. [Vattenplats]
+WaterPropMiniSubDescription,Upp med periskopet! Speja över området med Miniubåten. [Vattenplats]
+BasePropKingDescription,Välkommen till vår häftiga nya Ap.... Jag menar Omtvistade Territorier! Det är fritt fram att sno detta land och det är överhopat med Bloons! Smäll dem och säkra landet för ditt team. [Öplats]
+BasePropLighthouseKeeperDescription,Denna visa gamla apa sköter om fyren och håller ständig utkik efter fartyg som passerar i nattens mörker. [Öplats]
+BasePropCrashedMoabDescription,"Ett team av smarta apvetenskapsmän har redan finkammat detta vrak för användbar teknologi, så nu ligger det bara kvar som en varning till andra Bloons. [Öplats]"
+BasePropTrainingDummyDescription,"Håll alla dina Pilapor i toppform med en 100 % återanvändbar Träningsdocka, som har certifierats av Dr. Apa. [Öplats]"
+BasePropCampfireDescription,"Håll ditt team varmt under kyliga nätter, eller berätta läskiga historier om Omtvistade Territorier från förr vid lägerelden. [Öplats]"
+BasePropTotemDescription,Skydda dina gränser med denna skräckinjagande tribala totem. [Öplats]
+BasePropSatelliteDescription,"Skicka ner information direkt från rymden med detta mobila satellitfordon, som är redo att rulla! [Öplats]"
+BasePropTortoiseDescription,"Fråga honom inte om han har några tribala släktingar, särskilt inte sköldpaddor! [Öplats]"
+BasePropBattleMonkeyDescription,"Omtvistade territorier-apa, redo att ge sig av! [Öplats]"
+BuildingPropBattleTowerDescription,Alla uppdrag in i Omtvistade Territorier kräver en ordentlig bas. [Huvudbyggnadsplats]
 Neutral,Neutral
 TilesCaptured,Erövrade rutor:
 CTPointsEarnt,Intjänade OT-poäng:
@@ -4977,17 +4977,144 @@ RewardsTop20,Topp 20
 RewardsTop40,Topp 40
 RewardsTop60,Topp 60
 RewardsTopX,Topp {0}
-Rank5th,5.
-Rank6th,6.
-TeamName,Lagnamn
-CTPoints,CT-poäng
+Rank5th,5:a
+Rank6th,6:a
+TeamName,Teamnamn
+CTPoints,OT-poäng
 Contribute,Bidra
-ContributeTrophies,Bidra med troféer
-ColorblindEnabled,Färgblindläge aktiverat!
-ColorblindDisabled,Färgblindläge inaktiverat
+ContributeTrophies,Bidragstroféer
+ColorblindEnabled,Färgblint läge aktiverat!
+ColorblindDisabled,Färgblint läge inaktiverat!
 Local,Lokal
-KickPending,i väntan på borttagning
-SentryParagonGreen,Green Sentry Paragon
-SentryParagonRed,Red Sentry Paragon
-SentryParagonBlue,Blue Sentry Paragon
-TeamManagement,Laghantering
+KickPending,Avvaktande kick
+SentryParagonGreen,Grön vakttornsparagon
+SentryParagonRed,Röd vakttornsparagon
+SentryParagonBlue,Blå vakttornsparagon
+TeamManagement,Teamhantering
+ERR_FEATURE_TEMPORARILY_UNAVAILABLE,"Denna funktion är otillgänglig eftersom ditt konto har flaggats. För ytterligare information, besök https://ninja.kiwi/ffgpd7"
+PlayerWillBeRemoved,Spelare kommer att tas bort från teamet när det pågående OT-eventet avslutas
+Epic login,"Loggar in på Epic-konto, kontrollerar behörighet"
+FriendScreenErrorTeamInviteMaxInvitesSent,"Maximalt antal inbjudningar skickade, var god försök igen senare"
+CantJoinTeamFromSameCT,Kan inte gå med i ett team från samma OT-instans eftersom du var sist in
+RemovedFromTeam,Du har tagits bort från ditt team. Var vänlig gå med i ett annat team och försök igen
+TileNoLongerAccessible,Denna ruta är inte längre tillgänglig. Var vänlig uppdatera OT och försök igen
+CTTilesHeld,Hållna rutor
+CTPointsProjected,Prognos
+ConfirmCancelRequest,Är du säker på att du vill avbryta din begäran?
+CouchCoop,Soffsamarbete
+TeamTicketUsed,Teambiljett använd
+PersonalTicketUsed,Personlig biljett använd
+TeamScreenCodeHidden,Teamkoden har dolts
+ERR_ANOTHER_REQUEST_PENDING,En annan avvaktande begäran finns redan
+QuickJoinSearchForTeam,Söker efter team att gå med i...
+QuickJoinJoiningTeam,Går med i team...
+QuickJoinCancel,Avbryter...
+MidnightMansion,Midnattsherrgård
+CoveredGarden,Skyddad trädgård
+MonkeyAce Paragon,Goliatdomedagsskepp
+MonkeyAce Paragon Description,En flygande mörk skugga förebådar Bloonutplåning.
+CreateOrJoinTeamLeaveFirst,Du är redan med i ett team.
+TeamMsgBannerTileLost,En av dina bannerrutor har erövrats av {0}. Återerövra den nu!
+CTPlayerPopupNoData,Ange OT för att ladda denna information
+HeroesJoanOfArcAdoraPetDragonName,Jean d'Arcs drakhusdjur
+HeroesJoanOfArcAdoraPetDragonShortName,Jean d'Arcs drakhusdjur
+HeroesJoanOfArcAdoraPetDragonDescription,Du behöver inte vara ett helgon för att se hur mycket roligare varje spel kommer att vara med denna gyllene babydrake vid din sida. Endast Jean d'Arc Adora
+TowerPetMonkeyAceDragonflyName,Apessets trollslända
+TowerPetMonkeyAceDragonflyShortName,Essets trollslända
+TowerPetMonkeyAceDragonflyDescription,Apessets kvicka tama trollslända surrar runt på startbanan för att hålla den redo för essets segerrika återvändande!
+BloonsDDTSkinSpiderName,Spindel-DDT
+BloonsDDTSkinSpiderShortName,Spindel-DDT
+BloonsDDTSkinSpiderDescription,Få ditt DTT att se ut som en spindel som kilar över banan. Nu ser du det ... nu är spelet slut! Samlarföremål under begränsad tid!
+CoopEmoteAnimationPsighName,Psigh-emote
+CoopEmoteAnimationPsighShortName,Psigh
+CoopEmoteAnimationPsighDescription,"Denna Psigh kommer att förmedla den där subtila kombinationen av besvikelse, irritation och uppgivenhet telepatiskt. Vi ser dig Spelare 3."
+GameUIProfileBanner17Name,Stormästarninjans profilbanner
+GameUIProfileBanner17ShortName,Stormästarninjans banner
+GameUIProfileBanner17Description,Bannervinnare av Lord Teddington
+GameUIProfileBanner18Name,Ingenjörskum-profilbanner
+GameUIProfileBanner18ShortName,Ingenjörskumbanner
+GameUIProfileBanner18Description,Bannervinnare av DREAD_LEAD
+GameUIPowerSkinGlueTrapHoneyTrapName,Anpassad förmåga - Honungsbiklisterfälla
+GameUIPowerSkinGlueTrapHoneyTrapShortName,Honungsbifälla
+GameUIPowerSkinGlueTrapHoneyTrapDescription,Även en Bloon saktar ner när den är täckt av bin!
+GameUIPowerSkinBananaFarmerBananaCostumeName,Anpassad förmåga -Bananodlarens banankostym
+GameUIPowerSkinBananaFarmerBananaCostumeShortName,Bananodlarkostym
+GameUIPowerSkinBananaFarmerBananaCostumeDescription,"Kan det finnas för mycket banan? ”Milda skal, klart det inte kan!”, säger bananodlaren. Skaffa bananodlarens banankostym för att få lite mer banan i bananodlandet."
+GameUIProfileAvatar63Name,Anpassad avatar - Skriet
+GameUIProfileAvatar63ShortName,Skriet-avatar
+GameUIProfileAvatar63Description,Kan bara ha målats av en galen apa. Samlarföremål under begränsad tid!
+GameUIProfileBanner19Name,Lapptäckeprofilbanner
+GameUIProfileBanner19ShortName,Lapptäckebanner
+GameUIProfileBanner19Description,Kryp ihop och mys under ett lapptäcke med en kopp varm choklad... Eller använd bara denna mysiga banner.
+GameUIProfileBanner20Name,Solstråleprofilbanner
+GameUIProfileBanner20ShortName,Solstrålebanner
+GameUIProfileBanner20Description,Visa upp din strålande strategiska briljans ännu tydligare med denna soliga banner.
+GameUIProfileBanner21Name,Stjärnskottprofilbanner
+GameUIProfileBanner21ShortName,Stjärnskottbanner
+GameUIProfileBanner21Description,Vissa tror att stjärnor är avlägsna gasklot som är så stora att deras enorma gravitation leder till kärnfusion djupt inne i deras kärnor. Allt vi vet är att de är fina och blinkar.
+GameUIProfileBanner22Name,Hemsökt korridor-profilbanner
+GameUIProfileBanner22ShortName,Hemsökt korridor-banner
+GameUIProfileBanner22Description,Gör din profil skräckinjagande med den hemsökta korridor-profilbannern. Olycksbådande repor och torterade porträtt för att ömka eller fira Halloween. Samlarföremål under begränsad tid!
+GameUIProfileAvatar64Name,Anpassad avatar - Aphjärnor
+GameUIProfileAvatar64ShortName,Aphjärnavatar
+GameUIProfileAvatar64Description,En skröplig figur insvept i fransiga bandage som sträcker sig efter några smaskiga HJÄRNOR!!! Samlarföremål under begränsad tid!
+TeamsBanner7Name,Husdjursyra-banner
+TeamsBanner7ShortName,Husdjursyra-banner
+TeamsBanner7Description,Det är ett galet husdjursparty! Använd denna banner för att fira alla husdjur i Bloons TD 6!
+TeamsBanner8Name,Omtvistat territorium-banner
+TeamsBanner8ShortName,Omtvistat territorium-banner
+TeamsBanner8Description,Använd denna banner för att visa ditt engagemang när det gäller att erövra sexkantiga rutor. Rött mot blått har aldrig sett bättre ut.
+TeamsEmblemIcon13Name,Kung Fu Kiwi-ikon
+TeamsEmblemIcon13ShortName,Kung Fu Kiwi-ikon
+TeamsEmblemIcon13Description,Överraska din motståndare med en hoppspark från din marklevande favoritfågel.
+TeamsEmblemIcon14Name,Allseende ögat-ikon
+TeamsEmblemIcon14ShortName,Allseende ögat-ikon
+TeamsEmblemIcon14Description,Om du använder denna teamikon så kommer dina motståndare att vara osäkra på varje drag de gör.
+TeamsEmblemFrame10Name,Ninjaskrollram
+TeamsEmblemFrame10ShortName,Ninjaskrollram
+TeamsEmblemFrame10Description,En ram som visar ditt teams hängivenhet för den urgamla ninjakonsten.
+TeamsEmblemFrame11Name,Kognitionsram
+TeamsEmblemFrame11ShortName,Kognitionsram
+TeamsEmblemFrame11Description,Förmedla ditt teams överlägsna Bloonsmällningskunskaper med kognitionsramen.
+BasePropPirateCrewMonkeyName,Sjörövarbesättning
+BasePropPirateCrewMonkeyShortName,Sjörövarbesättning
+BasePropPirateCrewMonkeyDescription,Skepp ohoj! Välkomna det här salta sällskapet till din Omtvistat territorium-bas så kommer alla andra team att dra sig tillbaka med sina segel mellan benen. [Öplats]
+BasePropTelescopeName,Brytande teleskop
+BasePropTelescopeShortName,Brytande teleskop
+BasePropTelescopeDescription,Beundra universums underverk eller få bara motståndarteamet att tro att du har spionerat dig hela vägen till seger. [Öplats]
+BuildingPropCastleName,Befäst slottsbyggnad
+BuildingPropCastleShortName,Befäst slottsbyggnad
+BuildingPropCastleDescription,Härska över din ö och få andra team att svära trohet med detta magnifika medeltida byggnadsverk för din bas. [Huvudbyggnadsplats]
+WaterPropMiniPirateBoatName,Minisjörövarskepp
+WaterPropMiniPirateBoatShortName,Minisjörövarskepp
+WaterPropMiniPirateBoatDescription,"Medan dina motståndare ser hur du erövrar deras rutor, kan du använda detta miniskepp för att låta dem få veta att du stjäl deras skatt. [Vattenplats]"
+FlyingPropMoonRabbitName,Månkanin
+FlyingPropMoonRabbitShortName,Månkanin
+FlyingPropMoonRabbitDescription,Omtvistade territorier handlar om att erövra och denna bedårande månkanin kommer att erövra allas fantasi. [Luftplats]
+Deselect,Avmarkera
+CTDailyTitle,Daglig Bonus
+CTDailySubtitle,Dagens Spelarbiljetter
+CTDailyDescription,När en Spelarbiljett används för att erövra en Ruta
+CTDailyTrophies,Dagliga Bonustroféer
+TileRecap,Rutsammanfattning
+PlusCTPoints,+{0} OT-poäng
+CTRulesInfoSubtitle,"Välkommen till Omtvistade Territorier! Arbeta tillsammans med ditt team, erövra Rutor, hamna längst upp på topplistorna och vinn fantastiska belöningar!"
+CTRulesInfoSectionOne,• Erövringsbiljetter används endast om du erövrar en Ruta. De uppdateras var 24:e timme.
+CTRulesInfoSectionTwo,• Oanvända erövringsbiljetter kommer att placeras i en biljettpott som kan användas av andra teammedlemmar följande dag. Teambiljetter bidrar inte till personlig placering på topplistan.
+CTRulesInfoSectionThree,"• När de har erövrats kommer rutpoäng att minska långsamt med tiden, tills rutan slutligen blir neutral."
+CTRulesInfoSectionFour,"• OT-poäng delas ut när man erövrar en ruta och varje timme som man fortsätter att hålla en ruta. OT-poäng bestämmer din personliga och ditt teams placering på topplistan, så erövra rutor så ofta du kan!"
+CTRulesInfoSectionFive,• Bannerrutor är svårare rutor som ger massor av OT-poäng.
+CTRulesInfoSectionSix,• Relikrutor ger dig team tillgång till kraftfulla relikkunskaper som i sin tur kommer att hjälpa dig när du erövrar rutor.
+CTRulesInfoSectionSeven,• Rutförloppet sparas var 20:e runda och du kan bara ha ett pågående sparat spel åt gången.
+TeamTrophyStoreRulesInfoSubtitle,"Detta är teamtrofébutiken där du kan välja upplåsta OT-reliker och köpa dagliga förmågor, evenemangsreliker och teamstil."
+TeamTrophyStoreRulesInfoSectionOne,• Dagliga förmågor är tillgängliga för upplåsning varje dag under OT-evenemanget och när de har köpts kan de användas av hela teamet under den dagen.
+TeamTrophyStoreRulesInfoSectionTwo,• Evenemangsreliker blir tillgängliga under OT-evenemangets gång och när de har köpts kan de användas under återstoden av evenemanget. De skiljer sig från reliker som man låser upp via relikrutor.
+TeamTrophyStoreRulesInfoSectionThree,• Erövra relikrutor och välj sedan upp till 4 av dina favoritrelikkunskaper att använda i detta evenemang. Du kan byta ut dem när du vill.
+TeamTrophyStoreRulesInfoSectionFour,• Teamstil finansieras av hela teamet och när det väl har betalats är det permanent upplåst för ditt team. Spelare som lämnar Teamet tar inte med sig Teamstilen.
+PlaySocialCaps,SPELA SOCIALT
+SelectCapturedRelics,Välj upp till 4 erövrade reliker
+NextBonusIn,Nästa bonus om:
+MemberCount,medlemsantal
+Min,Minimum
+PrimeGamingText,Hämta din Prime Gaming-gåva!
+GetNow,Get Now

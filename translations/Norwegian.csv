@@ -150,7 +150,7 @@ Gwendolin Level 1 Description,Sprekk bloons med ild fra flammepistolen hennes.
 Gwendolin Level 2 Description,Øker poppekraft litt per skudd.
 Gwendolin Level 3 Description,Ild-cocktail: Kaster en flaske med brennbar væske og brenner bloons som passerer gjennom ilden.
 Gwendolin Level 4 Description,Skru opp varmen – med sekunders mellomrom kommer kraftige ildbølger som popper bloons og tilfører ild til ape-angrep i nærheten.
-Gwendolin Level 5 Description,Økt poppekraft.
+Gwendolin Level 5 Description,"Økt poppekraft. 10 % forbedret angrepshastighet og radius for ildring, signalbluss og dragepust."
 Gwendolin Level 6 Description,Angrep forårsaker en brenneffekt på mål-bloonen.
 Gwendolin Level 7 Description,"Skru opp varmen har økt radius., Ild-cocktail er mer effektiv."
 Gwendolin Level 8 Description,Skyter 2 skudd om gangen.
@@ -163,7 +163,7 @@ Gwendolin Level 14 Description,Flammecocktail gir ekstra skade og setter fyr på
 Gwendolin Level 15 Description,Økt angrepshastighet.
 Gwendolin Level 16 Description,Ildstorm har økt varighet og gjør mer skade. Lilla bloons er ikke lenger immune mot angrep fra Gwendolin.
 Gwendolin Level 17 Description,Varm den opp gir berørte Aper muligheten til å poppe 1 ekstra lag og gjøre +2 skade på Bly-bloons.
-Gwendolin Level 18 Description,Økt angrepshastighet.
+Gwendolin Level 18 Description,"Økt angrepshastighet. 20 % forbedret angrepshastighet og radius for ildring, signalbluss og dragepust."
 Gwendolin Level 19 Description,Skyter 3 skudd om gangen.
 Gwendolin Level 20 Description,Ildstorm øker skade enormt.
 ,
@@ -232,11 +232,11 @@ ObynGreenfoot Level 20 Description,Vegg av trær kan holde mange flere bloons.
 ,
 Ezili Level 1 Description,Ezili forbanner bloons med mørke voodookrefter.
 Ezili Level 2 Description,Økt angrepsrekkevidde.
-Ezili Level 3 Description,Hjertestopper: forhindrer gjenvekst i 6 sekunder.
+Ezili Level 3 Description,"Hjertestopper: Sakker bloons, gjør det mulig å poppe lilla og hindrer eventuell gjenvoksing i 10 sekunder."
 Ezili Level 4 Description,Ezilis hovedangrep forhekser nå flere bloons.
 Ezili Level 5 Description,Økt angrepshastighet.
 Ezili Level 6 Description,Skade over tid varer lenger og skader raskere.
-Ezili Level 7 Description,"Ofringstotem: et totem som gir kamuflasjeoppdagelse, ekstra gjennomtrengning, angrepsrekkevidde, angrepshastighet og prosjektilfart til aper i nærheten. Tar 10 liv."
+Ezili Level 7 Description,"Ofringstotem: Et totem som gir kamuflasjeoppdagelse, ekstra gjennomtrengning, angrepsrekkevidde, angrepshastighet og prosjektilfart til aper i nærheten – spesielt trollmannaper. Tar 10 liv."
 Ezili Level 8 Description,Ezilis angrep gjør mye mer skade på bloons av MOAB-klasse.
 Ezili Level 9 Description,"Ezilis angrep fjerner kamuflasje, gjenvoksing og forsterkning fra bloons som ikke er av MOAB-klasse."
 Ezili Level 10 Description,"MOAB-forhekselse: forhekser en bloon av MOAB-klasse, den tar i mot skade hvert sekund til den utslettes."
@@ -282,8 +282,8 @@ Rallying Roar Ability Description,Alle aper i nærheten kan poppe +1 lag i en ko
 Big Squeeze Ability Description,"Tar en MOAB, BFB, DDT (hvis synlig) eller ZOMG og knuser den i biter i løpet av 5 sekunder."
 Brambles Ability Description,Lager en piggete busk på banen som kan poppe 50 bloons.
 Wall of Trees Ability Description,"Tilkaller en mur av trær som dekker sporet og ødelegger alle bloons som kommer. Når de er fulle, forvandles trærne til penger."
-Heartstopper Ability Description,Forhindrer gjenvekst i 6 sekunder.
-Sacrificial Totem Ability Description,"Et totem som gir kamuflasjeoppdagelse, ekstra gjennomtrengning, angrepsrekkevidde, angrepshastighet og prosjektilfart til aper i nærheten. Tar 10 liv."
+Heartstopper Ability Description,Tillater popping av lilla og hindrer eventuell gjenvoksing i 10 sekunder.
+Sacrificial Totem Ability Description,"Et totem som gir kamuflasjeoppdagelse, ekstra gjennomtrengning, angrepsrekkevidde, angrepshastighet og prosjektilfart til aper i nærheten – spesielt trollmannaper. Tar 10 liv."
 MOAB Hex Ability Description,"Forhekser en bloon av MOAB-klasse, den tar i mot skade hvert sekund frem til den utslettes."
 ,
 //Hero Misc,
@@ -694,7 +694,7 @@ Long Range Darts Description,Gjør at Dart-apen kan skyte lengre enn vanlig.
 Razor Sharp Shots Description,Kan poppe 2 ekstra bloons per skudd.
 Very Quick Shots Description,Skyter 33% raskere!
 Enhanced Eyesight Description,Skyter enda lengre og kan oppdage kamuflasje.
-Spike-o-pult Description,"Konverterer Dart-apen til en Pigg-o-pult som kaster store spikerkuler i stedet for dartpiler. God rekkevidde, men saktere angrepshastighet. Hver kule kan poppe flere bloons og spretter av hinder."
+Spike-o-pult Description,Konverterer Dart-apen til en langsomt angripende Pigg-o-pult som kaster en stor spikerkule. Hver kule kan poppe flere bloons og spretter av hinder.
 Triple Shot Description,Kaster 3 dartpiler om gangen istedenfor 1.
 Crossbow Description,Bruker en armbrøst med lang rekkevidde som kan poppe 3 lag med bloons for hvert treff.
 Juggernaut Description,Slynger en gigantisk spikerkule som popper bly og er utmerket til å knuse keramiske bloons.
@@ -756,7 +756,7 @@ Permafrost Description,Bloonsene beveger seg sakte selv etter de har tint.
 Enhanced Freeze Description,Angriper raskere og fryser lengre.
 Larger Radius Description,Større fryseområde.
 Metal Freeze Description,Kan fryse og poppe blybloons og kamuflerte bloons.
-Deep Freeze Description,Fryser gjennom 2 lag med bloons.
+Deep Freeze Description,Fryser et ekstra lag og frysingen varer lengre.
 Re-Freeze Description,Kan fryse bloons som allerede er fryst.
 Ice Shards Description,Sylskarpe skår sprer seg når frosne bloon popper.
 Arctic Wind Description,Øker betydelig gjennomtrenging og får en superkald aura som sakker ned bloons og fryser vann i nærheten.
@@ -798,13 +798,13 @@ Supply Drop Description,Forsyningsslipp-evne: slipper en kasse full av penger. V
 Full Auto Rifle Description,Helautomatisk våpen med utrolig poppekraft.
 Cripple MOAB Description,Skadede MOABer blir immobile lenger og påføres ekstra skade fra alle andre angrep.
 Elite Sniper Description,Forsyningsslipp gir mye mer penger. Gir elite-målprioritet og raskere omlading til alle snikskyttere.
-Elite Defender Description,Et tapt liv gir denne snikskytteren 4x angrepshastighet i en kort periode under motangrep. Angriper også raskere jo lengre unna bloonsene er på banen. Gjør ekstra skade på bloons av MOAB-klasse.
+Elite Defender Description,Skyter superkjapt og enda kjappere jo lengre bloonsene har kommet på banen. Gir 4x angrepshastighet i kort tid ved tap av liv. Påfører mer skade på bloons av MOAB-klasse.
 ,
 Longer Range Description,Øker angrepsrekkevidde.
 Barbed Darts Description,Ubåtens dartpiler kan poppe ytterligere 3 bloons.
 Twin Guns Description,Dobbelkraft dobler angrepshastigheten. Forsterker Ballistisk missil og Bloontoniumreaktor.
 Advanced Intel Description,Gjør det mulig å treffe bloons innenfor radiusen til tårnene dine.
-Heat-tipped Darts Description,Varme dartpiler kan poppe frosne bloons og bly-bloons.
+Heat-tipped Darts Description,Varme dartpiler gir ape-ubåten muligheten til å poppe frosne bloons og blybloons.
 Airburst Darts Description,Deler dartpiler inn i 3 ved kontakt for enormt større poppekraft. Forbedrer Bloontonium-reaktoren ytterligere.
 Submerge and Support Description,"Tilfører målrettingsalternativet Gå under, som permanent viser kamuflerte bloons innen rekkevidde, men angriper ikke mens man er under."
 Ballistic Missile Description,Missilet søker mål innen rekkevidde og gjør ekstra skade på MOAB-klasse og keramiske bloons.
@@ -826,7 +826,7 @@ Buccaneer-Destroyer Description,Angriper superduperraskt!
 Buccaneer-Cannon Ship Description,Legger til en kraftig kanon som skyter ut kraftige bomber.
 Buccaneer-Merchantman Description,Genererer penger hver runde automatisk.
 Buccaneer-Aircraft Carrier Description,Sender av gårde bølger av jagerfly som sikter seg inn på målene sine og fyrer av missiler på MOAB-klasse bloons.
-Buccaneer-Monkey Pirates Description,2 kanoner legges til på skipet og kanonangrep gjør ytterligere skade. MOAB-nedfellingsevne: harpunerer en MOAB-klasse bloon og gjør slutt på den.
+Buccaneer-Monkey Pirates Description,Legger til 2 kanoner på skipet og angrep påfører mer skade. MOAB-nedfellingsevne: harpunerer en bloon i MOAB-klasse og gjør slutt på den.
 Buccaneer-Favored Trades Description,Angriper raskere og genererer mer penger per runde. Aper innen radius får økt salgsverdi.
 Buccaneer-Carrier Flagship Description,Gir ekstra skade. Kan plassere andre aper på de øvre dekkene til skipet og øker angrepshastigheten til alle vannbaserte aper og apeess.
 Buccaneer-Pirate Lord Description,"Øker betydelig angrepshastigheten for alle angrep, og kan skyte 3 entrehaker samtidig, plyndrer ekstra penger fra hver bloons av MOAB-klasse som tas knekken på."
@@ -874,11 +874,11 @@ Shockwave Description,"Hver sjokkbølge lammer bloons på nedslagspunktet og pop
 Heavy Shells Description,"Tunge patroner gjør ekstra skade på keramiske bloons, blybloons, alle forsterkede bloons og alle lammede bloons. Kan også poppe svarte bloons."
 Signal Flare Description,Kamuflerte bloons poppet av bluss mister kamuflasjen permanent.
 The Big One Description,"Ødeleggende eksplosjoner som popper 7 lag av bloons, i tillegg til å øke Brennstoff-skade enda mer."
-Artillery Battery Description,Evnen Bombardement: Slipper løs en rask skuddveksling i et litt bredere område. Hovedangrepet oppgraderes til 3 tønner for utrolig raske angrep.
+Artillery Battery Description,"Bombardement-evnen: Slipper løs en rask skuddveksling i et litt bredere område. Hovedangrepet påfører mer skade på BAD-er og sjefsbloons, og oppgraderes til 3 tønner for utrolig raske angrep."
 Shattering Shells Description,Knusende patroner som fjerner alle spesielle bloonegenskaper fra alle bortsett fra de største bloons.
 The Biggest One Description,"Skyter dypt gjennom bloons og lag over et stort område, i tillegg til å utsondre mektig Brennstoff-skade."
-Pop and Awe Description,"Popp og ærefrykt-evne: Spruter eksplosiver over hele skjermen, popper og immobiliserer alle bloons i et par sekunder."
-Blooncineration Description,"Supervarme brennende saker smelter gjennom 5 lag med bloons for hvert skudd, brenner bloons av MOAB-klasse for ekstra skade og fjerner DDT-kamuflasje."
+Pop and Awe Description,Popp og ærefrykt-evne: Spruter eksplosiver over hele skjermen og skader og immobiliserer alle bloons i et par sekunder. Alle artilleribatterier påfører mer skade på BAD-er og sjefsbloons. Hovedangrepet gir ytterligere bonusskade på lammede bloons.
+Blooncineration Description,Supervarme brennende saker smelter gjennom 5 lag med bloons for hvert skudd og brenner bloons i MOAB-klasse for ekstra skade.
 ,
 Focused Firing Description,Øker treffsikkerheten til dartpistolen.
 Advanced Targeting Description,Gjør det mulig for å dartpistolen treffe kamuflerte bloons.
@@ -918,7 +918,7 @@ Super Range Description,Superaper trenger superrekkevidde.
 Knockback Description,Bloons blir dyttet bakover og blir tregere for hvert treff.
 Plasma Blasts Description,Plasma fordamper alt det berører.
 Epic Range Description,Hvorfor nøye seg med super når du kan få EPISK?
-Ultravision Description,Gjør det mulig for Superaper å skyte litt lenger og se kamuflerte bloons.
+Ultravision Description,"Gjør det mulig for Superape å skyte litt lengre, samt se og påføre mer skade på kamuflerte bloons."
 Sun Avatar Description,Kanaliserer krefter fra solens kjerne.
 Robo Monkey Description,"Halvt Superape, halvt drapsrobot. Skyter fra 2 pistoler samtidig og kan få kritisk treff!"
 Dark Knight Description,"Mørke klinger øker tilbakeslag, og trenger gjennom og påfører ekstra skade til bloons av MOAB-klasse. Får mørkeskift-evnen for å transporteres til et sted i nærheten."
@@ -951,7 +951,7 @@ Acid Pool Description,Hvis det ikke er bloons i nærheten kan Alkymister helle s
 Acidic Mixture Dip Description,"Kaster et hjelpsomt brygg på aper i nærheten som gjør det mulig for dem å poppe Bly-bloons, og gjøre ekstra skade på keramiske bloons og bloons av MOAB-klasse. Går bort etter flere angrep."
 Perishing Potions Description,Angrepsbrygg påfører mer skade til bloons av MOAB-klasse og fjerner forsterkning fra mindre bloons. Styrker også brygg og stimulanter.
 Alchemist Faster Throwing Description,Kast brygg og angrip raskere.
-Berserker Brew Description,"Spesialbrygg gir aper ekstra skade, rekkevidde og angrepshastighet. Varer lengre."
+Berserker Brew Description,"Kaster spesialbrygg på aper i nærheten og gir dem ekstra skade, rekkevidde og angrepshastighet."
 Unstable Concoction Description,Dekker bloons av MOAB-klasse med et eksplosivt stoff som lager en stor eksplosjon når de er poppet.
 Lead to Gold Description,"Forvandler bly-bloons til GULL! Spesielt løsemiddel gjør ekstra skade på bly-bloons, og ødelegger dem med ett skudd og gir penger."
 Stronger Stimulant Description,Ekstra sterkt berserkerbrygg har enda sterkere effekt på målet. Varer enda lengre.
@@ -1870,7 +1870,7 @@ RapidRazorsDescription,Skarpe rotorer popper bloons raskere.
 BudgetBattery,Økonomi-batteri
 BudgetBatteryDescription,Kostnad for artilleribatteri redusert med 600.
 PaintStripper,Malingsfjerner
-PaintStripperDescription,Morter-knusende patroner fjerner kamuflasje fra DDT bloons.
+PaintStripperDescription,Morter-knusende patroner fjerner forsterkningslaget på DDT-bloons.
 CheaperMaiming,Billigere skadeskyting
 CheaperMaimingDescription,Kostnad for MOAB-skadeskyter redusert med 1000.
 ChargedChinooks,Ladet Chinook-vind
@@ -2638,17 +2638,17 @@ Adora Level 5 Description,Guddommelige lyn trenger gjennom flere bloons
 Adora Level 6 Description,Skyter 3 Guddommelige lyn samtidig.
 Adora Level 7 Description,Blodoffer: Ofre et målrettet tårn for å tildele Adora store mengder XP og øke angrepsrekkevidden og skuddhastigheten hennes i en kort periode.
 Adora Level 8 Description,Skyter 4 Guddommelige lyn samtidig.
-Adora Level 9 Description,Økt angrepsrekkevidde.
+Adora Level 9 Description,Økt angrepsrekkevidde og økt skade på forsterkede bloons.
 Adora Level 10 Description,Lyskule: Tilkaller en kraftig energikule som angriper bloons.
 Adora Level 11 Description,Adora angrepshastigheten.
 Adora Level 12 Description,Skyter 5 Guddommelige lyn samtidig.
-Adora Level 13 Description,Guddommelige lyn trenger gjennom enda flere bloons
+Adora Level 13 Description,Guddommelige lyn trenger gjennom flere bloons. Økt skade på forsterkede bloons.
 Adora Level 14 Description,Skyter 6 Guddommelige lyn samtidig.
 Adora Level 15 Description,"Guddommelige lyn brenner gjennom et ekstra bloonlag, og Lyskule gjør mer skade."
 Adora Level 16 Description,Lysets lange arm blir enda dødeligere.
 Adora Level 17 Description,Adora øker angrepshastigheten enda mer.
 Adora Level 18 Description,Skyter 8 Guddommelige lyn samtidig.
-Adora Level 19 Description,Økt angrepsrekkevidde.
+Adora Level 19 Description,Økt angrepsrekkevidde. Økt skade på forsterkede bloons.
 Adora Level 20 Description,"Lyskule forbedres betydelig, pluss økt ildhastighet, rekkevidde og varighet for fordeler fra Offer."
 Carved,Utskjært
 BloodyPuddles,Blodpøler
@@ -2700,7 +2700,7 @@ WolfpackQuincySkinName,Ulveflokk-Quincy
 WolfpackQuincySkinDescription,"Fra villere dager, da alle jegere var sterke og flokken enda sterkere – han er Ulveflokk-Quincy, forfaderen til Quincy."
 Infernal,Infernalsk
 DownloadButton,Last ned
-DownloadDescription,Laster ned ekstra filer. Wi-Fi anbefales. Datastørrelse {0} MB
+DownloadDescription,Oppdaterte filer kreves for å spille. WiFi anbefales. Datastørrelse {0} MB
 ViewCollectionButton,Vis samlingen
 ViewInventoryButton,Vis lageret
 CollectionDescription,Hurtig-aper forblir synlige i samlingen etter bruk.
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] for å Mørkehoppe innen rekkevidde
 DarkChampionDarkshift,[I] for å Mørkehoppe til et gyldig sted
 SmallTowersMode,Små apetårn
 BigTowersMode,Store apetårn
-UpdatePopupTitle,Oppdatering 32!
-UpdatePopupDescription,"Episk oppdatering med Kaprede territorier!\n• Massiv ny hendelse: Kaprede territorier – kapre fliser fra andre lag for å briljere på ledertavlen!\n • Lag! Samle vennene deres og dann et ustoppelig lag for å erobre det kaprede territoriet\n• Ny paragon: Mesterbygger\n• Nytt helteskin: Voidora\n• Nytt kart på middels nivå: Gullgruve\n• Trofégjenstander i butikken, endringer, balanseringer og mye mer!"
+UpdatePopupTitle,Oppdatering 33!
+UpdatePopupDescription,"Stor innholdsoppdatering!\n• Slipp løs det fantastiske Goliat-krigsskipet, Ape-ess-paragon!\n• Bruk bloon-poppekraft på Mellomnivå-kartet, Overbygd hage! Design av vinneren av fellesskapets kartkonkurranse, SuperPsou.\n• Hjemsøk gangene i det nifse, nye avanserte kartet, Nattsvart herskapshus!\n• Trofégjenstander i butikken, endringer, balansering og mye mer!"
 ResetDailyChest,Tilbakestill den Daglige kisten
 JukeboxName,Jukeboks
 EnableFunction,Aktiver
@@ -4413,11 +4413,11 @@ GameUIProfileAvatar59Description,Du kan se kjærligheten i øynene hans. Nå må
 GameUIProfileAvatar60Name,Striker Jones-avatar
 GameUIProfileAvatar60ShortName,Striker Jones-avatar
 GameUIProfileAvatar60Description,Striker Jones rapporterer til tjeneste! Vis hvor klar du er til å vinne med hilsninger fra apen som skyter fra skulderen.
-GameUIProfileBanner13Name,Ankomstbanner
-GameUIProfileBanner13ShortName,Ankomst-profilbanner
+GameUIProfileBanner13Name,Ankomst-profilbanner
+GameUIProfileBanner13ShortName,Ankomstbanner
 GameUIProfileBanner13Description,Bannervinner av betapotata
-GameUIProfileBanner14Name,Under vannet-banner
-GameUIProfileBanner14ShortName,Under vannet-profilbanner
+GameUIProfileBanner14Name,Under vannet-profilbanner
+GameUIProfileBanner14ShortName,Under vannet-banner
 GameUIProfileBanner14Description,Bannervinner av Cyliia
 GameUIMusicTrackMusicSunshineFiestaMixName,Jukeboks: Sunshine Serenade - Fiesta Remix
 GameUIMusicTrackMusicSunshineFiestaMixShortName,Sunshine - Fiesta
@@ -4588,7 +4588,7 @@ TeamBannersTitle,Bannere
 TeamGeneralTitle,Generelt
 TeamSettingPublicTitle,Offentlig
 TeamSettingPrivateTitle,Privat
-TeamSettingClosedTitle,Lukket
+TeamSettingClosedTitle,Kun inviter
 TeamJoin,Bli med
 TeamApply,Spør om å få bli med
 RecentWin,Nylig seier:
@@ -4600,8 +4600,8 @@ Tile,Flis: {0}
 RelicTile,Relikvieflis
 BannerTile,Bannerflis
 BonusCTPoints,Ekstra KT-poeng!
-DailyRelics,Daglige relikvier
-HeldRelics,Relikvier du har
+DailyRelics,Daglige kraft- og hendelsesrelikvier
+HeldRelics,Kaprede relikvier
 Tickets,Billetter:
 PurchaseTickets,Kjøp billett
 MoreTicketsIn,Flere billetter om:
@@ -4728,7 +4728,7 @@ RelicExtraEmpoweredDescription,Helten din starter et spill med 3 ekstra nivåer 
 RelicBoxOfChocolatesDescription,Start hvert spill med 100 ekstra liv
 RelicBoxOfMonkeyDescription,Start hvert spill med én gratis ape som koster 500 $ eller mindre for umodifisert førstegangs plassering.
 RelicMarchingBootsDescription,"I spill med begrensede antall får spillere maks +1 av hvert tårn i utvalget deres, eller totalt maks +4 per spill"
-RelicHeroBoostDescription,Helter får XP 10 % kjappere i hvert spill
+RelicHeroBoostDescription,Helter får XP 15 % kjappere i hvert spill
 RelicBiggerBloonSabotageDescription,Alle bloons i MOAB-klasse lager nye bloons med 15 % mindre helse og beveger seg i en hastighet tilsvarende 95 %
 RelicRoundingUpDescription,Tjen +20 $ på slutten av hver runde
 RelicManaBulwarkDescription,Skaper et skjold som absorberer opptil 50 liv (kan stables med manaskjold på vanlige fliser)
@@ -4744,9 +4744,9 @@ RelicFortifriedDescription,Alle angrep påfører +1 skade på forsterkede bloons
 RelicMoabClashDescription,Alle angrep påfører +3 skade på bloons i MOAB-klasse
 RelicCamoFloggedDescription,Alle angrep påfører +3 skade på kamuflerte bloons
 RelicBrokenHeartDescription,Alle angrep påfører +1 skade på gjenvoksende bloons
-RelicGoingTheDistanceDescription,Alle aper får +10 % rekkevidde
+RelicGoingTheDistanceDescription,Alle aper får +20 % rekkevidde
 RelicHeartlessDescription,Regenereringsraten for gjenvoksende bloons reduseres med 25 %
-RelicFlintTipsDescription,Skarpe prosjektiler tilføyer ildkuler på alle bloons de skader (1 skade hvert 2. sek i totalt 4 sek)
+RelicFlintTipsDescription,"Skarpe prosjektiler tilføyer ildkuler på alle bloons de skader (1 skade hvert 2,5 sek i totalt 5 sek)"
 RelicAbilitizedDescription,Alle aktiverte evnenedkjølinger for alle aper reduseres med 10 %
 RelicAirAndSeaDescription,"Ess, Helikopter, Pirat og Ubåt får plasserings- og oppgraderingskostnadene redusert med 10 %, samt 5 % forbedret omlading"
 RelicElDoradoDescription,Alle apepenger og lagtrofé-belønninger fra spillseire økes med 25 % (minimum +1)
@@ -4755,7 +4755,7 @@ RelicMonkeyShieldMark2Description,Flisen du har kapret kan ikke angripes av andr
 RelicMonkeyShieldMark3Description,Flisen du har kapret kan ikke angripes av andre lag i løpet av de første tre timene. Forbedret poengsum vil tilbakestille tidtakeren.
 RelicPsiVisionDescription,Se fullstendig informasjon for alle fliser på kartet
 RelicOpenSeasonDescription,Angrip en flis på kartet
-RelicCamoTrapDescription,Tildeler bruk av 2 kamuflert felle-økninger per spill
+RelicCamoTrapDescription,Gir bruk av 1 kamuflasje-felle per spill
 RelicThriveDescription,Tildeler bruk av 2 vekstøkninger per spill
 RelicSuperMonkeyStormDescription,Tildeler bruk av 2 superapestormer per spill
 RelicMonkeyBoostDescription,Tildeler bruk av 3 apeøkninger per spill
@@ -4792,7 +4792,7 @@ TeamBrowserTitle,Lagsøker
 TeamBrowserSearchField,Skriv inn lagnavn …
 TeamBrowserSearchHideFull,Skjul fulle lag
 TeamBrowserSearchHidePrivate,Skjul private lag
-TeamBrowserSearchHideClosed,Skjul lukkede lag
+TeamBrowserSearchHideClosed,Skjul Kun inviter-lag
 TeamEditApplyAll,Ta i bruk alle endringene
 TeamScore,Poeng: {0}
 TeamRemoveMember,Er du sikker på at du vil fjerne dette medlemmet?
@@ -4821,7 +4821,7 @@ TeamMateSetScore,Lagkameraten din har satt en ny rekord å slå!
 AnotherTeamSetScore,Et annet lag har satt en ny rekord å slå!
 FriendScreenErrorTeamInviteAlreadyMember,Denne spilleren er allerede på laget ditt
 TotalTeamScore,Lagets poengsum
-CTRulesInfo,"Velkommen til Kaprede territorier! Samarbeid med laget ditt, kapre fliser, sikre dere topplasseringer på ledertavlene og få flotte belønninger!\n\n• Kapringsbilletter brukes kun hvis du kaprer en flis. De oppdateres hver 24. time.\n• Ubrukte kapringsbilletter havner i en billettsamling som kan brukes av andre lagmedlemmer neste dag.\n• Når kapret, vil poengsummer for fliser langsomt degraderes over tid frem til flisen blir nøytral etter 24 timer.\n• Du tjener KT-poeng når du kaprer en flis og for hver time du klarer å holde fast på en flis. KT-poeng avgjør den personlige plasseringen din samt lagets plassering på ledertavlen, så kapre fliser så ofte du klarer!\n• Bannerfliser er vanskeligere fliser som gir deg mange flere KT-poeng.\n• Relikviefliser gir laget ditt tilgang til kraftfulle relikviekunnskap som hjelper deg med å kapre fliser.\n• Flisenes fremdrift lagres etter hver 20. runde, og du kan kun ha én under utvikling om gangen.\n• Stem på relikviene du liker best i lagtrofé-butikken, og velg deretter hvilke spesifikke relikvier du tar med deg i kamp på siden før spillet starter."
+CTRulesInfo,"Velkommen til Kaprede territorier! Samarbeid med laget ditt, kapre fliser, sikre dere topplasseringer på ledertavlene og få flotte belønninger!\n\n• Kapringsbilletter brukes kun hvis du kaprer en flis. De oppdateres hver 24. time.\n• Ubrukte kapringsbilletter havner i en billettsamling som kan brukes av andre lagmedlemmer neste dag. Lagbilletter bidrar ikke til den personlige plasseringen på poengtavlen.\n• Når kapret, vil poengsummer for fliser langsomt degraderes over tid frem til flisen blir nøytral.\n• Du tjener KT-poeng når du kaprer en flis og for hver time du klarer å holde fast på en flis. KT-poeng avgjør den personlige plasseringen din samt lagets plassering på poengtavlen, så kapre fliser så ofte du klarer!\n• Bannerfliser er vanskeligere fliser som gir deg mange flere KT-poeng.\n• Relikviefliser gir laget ditt tilgang til kraftfull relikviekunnskap som hjelper deg med å kapre fliser.\n• Flisenes fremdrift lagres etter hver 20. runde, og du kan kun ha én om gangen."
 TeamTrophyStoreRulesInfo,"Dette er lagtrofé-butikken der du kan stemme på KT-relikvier som er låst opp, betale for daglige krefter, hendelsesrelikvier og lagstil.\n• Daglige krefter kan låses opp hver dag under KT-hendelsen, og når de er betalt for, kan de brukes av hele laget den dagen.\n• Hendelsesrelikvier blir tilgjengelig under KT-hendelsen, og når de er betalt for, kan de brukes frem til hendelsen er over. De er separate fra relikvier som låses opp via relikviefliser.\n• Kapre relikviefliser og stem deretter på favoritt-relikviekunnskapen din som ble låst opp under denne hendelsen. Du kan velge blant de 7 mest populære relikviene i det endelige utvalget ditt som består av 4 relikvier.\n• Lagstil finansieres av hele laget, og når betalt for, er den tilgjengelig for hele laget ditt. Spillere som forlater laget kan ikke ta med seg lagstilen."
 TeamsBanner1Name,Aper i verdensrommet-banner
 TeamsBanner2Name,Heltelagøkning-banner
@@ -4912,22 +4912,22 @@ BasePropSatelliteShortName,Mobil satellitt-kjøretøy
 BasePropTortoiseShortName,Slektsskilpadde
 BasePropBattleMonkeyShortName,Kampape
 BuildingPropBattleTowerShortName,Basetårn-bygning
-BuildingPropWizardTowerDescription,Et magisk eventyr venter på det laget som er i stand til å låse opp denne mystiske basen.
-BuildingPropLighthouseDescription,Lys opp veien for hele laget ditt med denne opplyste hovedbasen.
-FlyingPropPhoenixDescription,"Alle lurer på om det faktisk er en Trollmann-ape der oppe, men har noen tenkt på at kanskje alle Trollmann-aper bare er fønikser som venter på å bli født på nytt?"
-FlyingPropMiniAceDescription,La Ape-ess holde vakt for laget ditt blant skyene med dette søte mini-esset.
-WaterPropKrakenDescription,"Slipp løs sjøuhyret! Hersk over bølgene med denne overraskende søte, gigantiske sjøskapningen."
-WaterPropMiniSubDescription,Opp med periskopene! Undersøk området med mini-ubåten.
-BasePropKingDescription,"Velommen til vår fantastiske nye apeb… jeg mener Kapret territorirum! Dette landområdet er ledig, og her myldrer det av bloons! Popp dem og sikre laget ditt dette landområdet."
-BasePropLighthouseKeeperDescription,"Den vise, gamle apen passer på fyrtårnet og er alltid på utkikk etter skip som passerer på nattestid."
-BasePropCrashedMoabDescription,"Et lag med dyktige apeforskere har allerede tømt dette vraket for nyttig teknologi, så nå ligger det bare der som en advarsel til andre bloons."
-BasePropTrainingDummyDescription,"Sørg for at dart-apene dine alltid har noe å gjøre med en doktor Ape-sertifisert, 100 % gjenbrukbar opplæringsdukke!"
-BasePropCampfireDescription,"Sørg for at laget holder seg varm på kalde netter, eller fortell spøkelseshistorier om Kaprede territorier "
-BasePropTotemDescription,Beskytt grensene dine med dette fryktinngytende stammetotemet.
-BasePropSatelliteDescription,Send stråler med informasjon direkte ned fra verdensrommet med dette mobil satellitt-kjøretøyet som er klart til bruk!
-BasePropTortoiseDescription,Ikke spør ham om han har noen stammeslektninger – spesielt ikke skilpadder!
-BasePropBattleMonkeyDescription,"Kapret territorium-ape, klar til å sette i gang!"
-BuildingPropBattleTowerDescription,Ethvert eventyr i Kapret territorium trenger en solid base.
+BuildingPropWizardTowerDescription,Et magisk eventyr venter på det laget som er i stand til å låse opp denne mystiske basen. [Plass for hovedbygning]
+BuildingPropLighthouseDescription,Lys opp veien for hele laget ditt med denne opplyste hovedbasen. [Plass for hovedbygning]
+FlyingPropPhoenixDescription,"Alle lurer på om det faktisk er en Trollmann-ape der oppe, men har noen tenkt på at kanskje alle Trollmann-aper bare er fønikser som venter på å bli født på nytt? [Plass for luft]"
+FlyingPropMiniAceDescription,La Ape-ess holde vakt for laget ditt blant skyene med dette søte mini-esset. [Plass for luft]
+WaterPropKrakenDescription,"Slipp løs sjøuhyret! Hersk over bølgene med denne overraskende søte, gigantiske sjøskapningen. [Plass for vann]"
+WaterPropMiniSubDescription,Opp med periskopene! Undersøk området med mini-ubåten. [Plass for vann]
+BasePropKingDescription,"Velommen til vår fantastiske nye apeb… jeg mener Kapret territorirum! Dette landområdet er ledig, og her myldrer det av bloons! Popp dem og sikre laget ditt dette landområdet. [Plass for øy]"
+BasePropLighthouseKeeperDescription,"Den vise, gamle apen passer på fyrtårnet og er alltid på utkikk etter skip som passerer på nattestid. [Plass for øy]"
+BasePropCrashedMoabDescription,"Et lag med dyktige apeforskere har allerede tømt dette vraket for nyttig teknologi, så nå ligger det bare der som en advarsel til andre bloons. [Plass for øy]"
+BasePropTrainingDummyDescription,"Sørg for at dart-apene dine alltid har noe å gjøre med en doktor Ape-sertifisert, 100 % gjenbrukbar opplæringsdukke! [Plass for øy]"
+BasePropCampfireDescription,"Sørg for at laget holder seg varm på kalde netter, eller fortell spøkelseshistorier om Kaprede territorier. [Plass for øy]"
+BasePropTotemDescription,Beskytt grensene dine med dette fryktinngytende stammetotemet. [Plass for øy]
+BasePropSatelliteDescription,Send stråler med informasjon direkte ned fra verdensrommet med dette mobil satellitt-kjøretøyet som er klart til bruk! [Plass for øy]
+BasePropTortoiseDescription,Ikke spør ham om han har noen stammeslektninger – spesielt ikke skilpadder! [Plass for øy]
+BasePropBattleMonkeyDescription,"Kapret territorium-ape, klar til å sette i gang! [Plass for øy]"
+BuildingPropBattleTowerDescription,Ethvert eventyr i Kapret territorium trenger en solid base. [Plass for hovedbygning]
 Neutral,Nøytral
 TilesCaptured,Kaprede fliser:
 CTPointsEarnt,Opptjente KT-poeng:
@@ -4972,22 +4972,149 @@ Now,Nå
 Players,Spillere
 LocalRewards,Lokale belønninger
 GlobalRewards,Globale belønninger
-RewardsTop10,Topp 10
-RewardsTop20,Topp 20
-RewardsTop40,Topp 40
-RewardsTop60,Topp 60
-RewardsTopX,Topp {0}
-Rank5th,5
-Rank6th,6
-TeamName,Lag navn
-CTPoints,CT-poeng
-Contribute,Bidra
-ContributeTrophies,Bidra med trofeer
-ColorblindEnabled,Fargeblindmodus aktivert!
-ColorblindDisabled,Fargeblindmodus deaktivert
-Local,Lokale
-KickPending,Venter på fjerning
-SentryParagonGreen,Green Sentry Paragon
-SentryParagonRed,Red Sentry Paragon
-SentryParagonBlue,Blue Sentry Paragon
-TeamManagement,Teamledelse
+RewardsTop10,De 10 beste
+RewardsTop20,De 20 beste
+RewardsTop40,De 40 beste
+RewardsTop60,De 60 beste
+RewardsTopX,De {0} beste
+Rank5th,5. plass
+Rank6th,6. plass
+TeamName,Lagnavn
+CTPoints,KT-poeng
+Contribute,Bidrag
+ContributeTrophies,Bidragstrofeer
+ColorblindEnabled,Fargeblind-modus er aktivert!
+ColorblindDisabled,Fargeblind-modus er deaktivert!
+Local,Lokal
+KickPending,Utkastelse venter
+SentryParagonGreen,Grønn sentrert paragon
+SentryParagonRed,Rød sentrert paragon
+SentryParagonBlue,Blå sentrert paragon
+TeamManagement,Lagadministrasjon
+ERR_FEATURE_TEMPORARILY_UNAVAILABLE,"Denne funksjonen er ikke tilgjengelig fordi kontoen din er flagget. For mer informasjon, gå til https://ninja.kiwi/ffgpd7"
+PlayerWillBeRemoved,Spilleren fjernes fra laget når nåværende KT-hendelse avsluttes
+Epic login,Logger på Epic-konto og sjekker tillatelser
+FriendScreenErrorTeamInviteMaxInvitesSent,Du har sendt maksimalt antall invitasjoner. Prøv på nytt senere
+CantJoinTeamFromSameCT,Kan ikke bli med i et lag fra samme KT-forekomst som du var i forrige gang
+RemovedFromTeam,Du er fjernet fra laget. Bli med i et annet lag og prøv på nytt
+TileNoLongerAccessible,Denne flisen er ikke lenger tilgjengelig. Oppdatert CT og prøv på nytt
+CTTilesHeld,Fliser du har
+CTPointsProjected,Beregnet
+ConfirmCancelRequest,Er du sikker på at du vil avbryte forespørselen?
+CouchCoop,Lokal flerspiller
+TeamTicketUsed,Lagbillett er brukt
+PersonalTicketUsed,Personlig billett er brukt
+TeamScreenCodeHidden,Lagkoden er skjult
+ERR_ANOTHER_REQUEST_PENDING,En annen forespørsel venter
+QuickJoinSearchForTeam,Søker etter et lag å bli med i …
+QuickJoinJoiningTeam,Blir med i lag …
+QuickJoinCancel,Avbryter …
+MidnightMansion,Nattsvart herskapshus
+CoveredGarden,Overbygd hage
+MonkeyAce Paragon,Goliat-krigsskip
+MonkeyAce Paragon Description,En flyvende skygge av mørke medfører bloons-utslettelse.
+CreateOrJoinTeamLeaveFirst,Du er allerede med i et lag.
+TeamMsgBannerTileLost,Én av bannerflisene dine ble kapret av {0}. Ta den tilbake nå!
+CTPlayerPopupNoData,Gå inn i KT for å laste inn disse dataene
+HeroesJoanOfArcAdoraPetDragonName,Jeanne d'Arc-dragekjæledyr
+HeroesJoanOfArcAdoraPetDragonShortName,Jeanne d'Arc-dragekjæledyr
+HeroesJoanOfArcAdoraPetDragonDescription,Du trenger ikke å være en helgen for å se hvor mye morsommere hvert spill blir med denne lille gulldragen ved din side. Kun Jeanne d'Arc
+TowerPetMonkeyAceDragonflyName,Ape-ess-øyenstikkerkjæledyr
+TowerPetMonkeyAceDragonflyShortName,Ess-øyenstikkerkjæledyr
+TowerPetMonkeyAceDragonflyDescription,Ape-essen sin kvikke kjæledyrøyenstikker 
+BloonsDDTSkinSpiderName,Edderkopp-DDT
+BloonsDDTSkinSpiderShortName,Edderkopp-DDT
+BloonsDDTSkinSpiderDescription,Få DDT til å se ut som en edderkopp som piler nedover banen. Nå ser du den … nå er spillet over! Tidsbegrenset samlergjenstand!
+CoopEmoteAnimationPsighName,Psigh-emote
+CoopEmoteAnimationPsighShortName,Psigh
+CoopEmoteAnimationPsighDescription,"Denne Psigh vil telepatisk formidle den subtile kombinasjonen av skuffelse, irritasjon og oppgivelse. Vi ser deg, spiller 3."
+GameUIProfileBanner17Name,Ninja-stormester-profilbanner
+GameUIProfileBanner17ShortName,Ninja-stormester-banner
+GameUIProfileBanner17Description,Bannervinner av LordTeddington
+GameUIProfileBanner18Name,Ingeniørskum-profilbanner
+GameUIProfileBanner18ShortName,Ingeniørskum-banner
+GameUIProfileBanner18Description,Bannervinner av DREAD_LEAD
+GameUIPowerSkinGlueTrapHoneyTrapName,Tilpasset kraft – Honningbie-limfelle
+GameUIPowerSkinGlueTrapHoneyTrapShortName,Honningbie-felle
+GameUIPowerSkinGlueTrapHoneyTrapDescription,Selv en bloon sakker ned når den er dekket av bier!
+GameUIPowerSkinBananaFarmerBananaCostumeName,Tilpasset kraft – Banangårdsarbeider-banankostyme
+GameUIPowerSkinBananaFarmerBananaCostumeShortName,Banangårdsarbeider-kostyme
+GameUIPowerSkinBananaFarmerBananaCostumeDescription,"Kan det egentlig noen gang bli for mye banan? «Usj, nei!», sier banangårdsarbeideren. Få banangårdsarbeider-banankostymet for å gjøre banangårdsarbeid litt mer bananana."
+GameUIProfileAvatar63Name,Tilpasset avatar – Skrik
+GameUIProfileAvatar63ShortName,Skrik-avataren
+GameUIProfileAvatar63Description,Kan kun ha blitt malt av galeape. Tidsbegrenset samlergjenstand!
+GameUIProfileBanner19Name,Lappeteppe-profilbanner
+GameUIProfileBanner19ShortName,Lappeteppe-banner
+GameUIProfileBanner19Description,Kryp under et lappeteppe med en kopp kakao … eller bare bruk dette koselige banneret.
+GameUIProfileBanner20Name,Solstråler-profilbanner
+GameUIProfileBanner20ShortName,Solstråler-banner
+GameUIProfileBanner20Description,Vis frem den skinnende strategiske briljansen din med dette solfylte banneret.
+GameUIProfileBanner21Name,Stjerner-profilbanner
+GameUIProfileBanner21ShortName,Stjernebanner
+GameUIProfileBanner21Description,Noen mener at stjerner er gassballer i det fjerne som er så massive at deres enorme tyngdekraft skaper kjernefysisk fusjon i kjernene deres. Det eneste vi vet er at de er fine å se på og at de funkler.
+GameUIProfileBanner22Name,Hjemsøkt gang-profilbanner
+GameUIProfileBanner22ShortName,Hjemsøkt gang-banner
+GameUIProfileBanner22Description,Få en fryktinngytende profil med Hjemsøkt gang-profilbanneret. Uhyggelige risper og torturerte portretter for å ha medynk eller minnes Halloween. Tidsbegrenset samlergjenstand!
+GameUIProfileAvatar64Name,Tilpasset avatar – Apehjerne
+GameUIProfileAvatar64ShortName,Apehjerne-avatar
+GameUIProfileAvatar64Description,En skrøpelig figur innhyllet i frynsete bandasjer som strekker seg etter noen smakfulle HJERNER!!! Tidsbegrenset samlergjenstand!
+TeamsBanner7Name,Kjæledyr-banner
+TeamsBanner7ShortName,Kjæledyr-banner
+TeamsBanner7Description,Det er en vimsete kjæledyrfest! Utrust dette banneret for å feire kjæledyrene i Bloons TD 6!
+TeamsBanner8Name,Kapret territorium-banner
+TeamsBanner8ShortName,Kapret territorium-banner
+TeamsBanner8Description,Utrust dette banneret for å vise hvor motivert du er til å fange sekskantede fliser. Røde versus blå har aldri vært finere.
+TeamsEmblemIcon13Name,Kung Fu-kiwi-ikon
+TeamsEmblemIcon13ShortName,Kung Fu-kiwi-ikon
+TeamsEmblemIcon13Description,Overrask motstanderne dine med et flyvende spark fra den bakkefaste favorittfuglen din.
+TeamsEmblemIcon14Name,Altseende øye-ikon
+TeamsEmblemIcon14ShortName,Altseende øye-ikon
+TeamsEmblemIcon14Description,Utrust dette lagikonet for å få motstanderne dine til å tvile på ethvert trekk de gjør.
+TeamsEmblemFrame10Name,Ninjaskriftrull-ramme
+TeamsEmblemFrame10ShortName,Ninjaskriftrull-ramme
+TeamsEmblemFrame10Description,En ramme for å vise lagets dedikasjon til ninjaens eldgamle kunst.
+TeamsEmblemFrame11Name,Kunnskapsramme
+TeamsEmblemFrame11ShortName,Kunnskapsramme
+TeamsEmblemFrame11Description,Ta med deg lagets overlegne kunnskap om bloons-popping med kunnskapsrammen.
+BasePropPirateCrewMonkeyName,Piratmannskap
+BasePropPirateCrewMonkeyShortName,Piratmannskap
+BasePropPirateCrewMonkeyDescription,"Yar! Ønsk denne kjeltringen velkommen til Kapret territorium-basen din, og de andre lagene vil vende om med seilet mellom beina. [Island Slot]"
+BasePropTelescopeName,Refraksjonsmålingsteleskop
+BasePropTelescopeShortName,Refraksjonsmålingsteleskop
+BasePropTelescopeDescription,"Betrakt universets vidundre, eller bare få motstanderteamene til å tro at du har spionert deg til seier. [Island Slot]"
+BuildingPropCastleName,Forsterket slott-bygning
+BuildingPropCastleShortName,Forsterket slott-bygning
+BuildingPropCastleDescription,Regjer over øya di og få andre lag til å sverge troskap med dette fantastiske middelalderske attraksjonen for basen din. [Main Building Slot]
+WaterPropMiniPirateBoatName,Mini-piratbåt
+WaterPropMiniPirateBoatShortName,Mini-piratbåt
+WaterPropMiniPirateBoatDescription,"Mens de andre lagene ser når du tar flisene deres, kan du bruke dette kraftfulle miniskipet til å informere dem om at du stjeler skatten deres. [Water Slot]"
+FlyingPropMoonRabbitName,Månekanin
+FlyingPropMoonRabbitShortName,Månekanin
+FlyingPropMoonRabbitDescription,"Kaprede territorier handler om å kapre, og denne nydelige månekaninen vil kapre alles fantasi. [Air Slot]"
+Deselect,Opphev valg
+CTDailyTitle,Daglig bonus
+CTDailySubtitle,Dagens spillerbilletter
+CTDailyDescription,Når en spillerbillett brukes til å kapre en flis
+CTDailyTrophies,Daglig bonus-trofeer
+TileRecap,Flisoppsummering
+PlusCTPoints,+{0} KT-poeng
+CTRulesInfoSubtitle,"Velkommen til Kaprede territorier! Samarbeid med laget ditt, kapre fliser, sikre dere en topplassering på poengtavlen og få fantastiske belønninger!"
+CTRulesInfoSectionOne,• Kapringsbilletter brukes kun hvis du kaprer en flis. De oppdateres hver 24. time.
+CTRulesInfoSectionTwo,• Ubrukte kapringsbilletter legges til i en pulje med billetter som kan brukes av andre lagmedlemmer neste dag. Lagbilletter bidrar ikke til den personlige plasseringen på poengtavlen.
+CTRulesInfoSectionThree,"• Når kapret, vil flispoengene forfalle over tid frem til flisen til slutt blir nøytral."
+CTRulesInfoSectionFour,"• Du tjener KT-poeng når du erobrer en flis og for hver time du holder fast på en. KT-poeng avgjør den personlige plasseringen din samt lagets plassering på poengtavlen, så sikre deg fliser så ofte du klarer!"
+CTRulesInfoSectionFive,• Bannerfliser er vanskeligere fliser som gir mange flere KT-poeng.
+CTRulesInfoSectionSix,• Relikviefliser gir laget tilgang til kraftfull relikviekunnskap som vil hjelpe deg med å erobre fliser.
+CTRulesInfoSectionSeven,"• Flisfremdrift lagres hver 20. runde, og du kan kun ha én lagring i bruk om gangen."
+TeamTrophyStoreRulesInfoSubtitle,"Dette er lagets trofébutikk der du kan velge ulåste KT-relikvier og betale for daglige krefter, hendelsesrelikvier og lagstil."
+TeamTrophyStoreRulesInfoSectionOne,"• Daglige krefter kan låses opp hver dag under KT-hendelsen, og når de er betalt for, kan de brukes av hele laget den dagen."
+TeamTrophyStoreRulesInfoSectionTwo,"• Hendelsesrelikvier blir tilgjengelige via KT-hendelsen, og så snart de er betalt for, kan de brukes for resten av hendelsen. De er separate fra relikvier som låses opp via relikviefliser."
+TeamTrophyStoreRulesInfoSectionThree,"• Kapre relikviefliser, og velg deretter opptil fire av de relikviekunnskapene du liker best for å bruke i denne hendelsen. Du kan når som helst bytte dem ut."
+TeamTrophyStoreRulesInfoSectionFour,"• Lagstil betales av hele teamet, og når betalt for, er den permanent tilgjengelig for laget. Spillere som forlater laget tar ikke med seg lagstil."
+PlaySocialCaps,SPILL SOSIALT
+SelectCapturedRelics,Velg opptil 4 kaprede relikvier
+NextBonusIn,Neste bonus om:
+MemberCount,Antall medlemmer
+Min,Minimum
+PrimeGamingText,Få din Prime Gaming-gave!
+GetNow,Get Now

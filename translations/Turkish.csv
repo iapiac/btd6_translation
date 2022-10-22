@@ -150,7 +150,7 @@ Gwendolin Level 1 Description,Piro silahıyla Bloon’ları patlatır.
 Gwendolin Level 2 Description,Atış başına biraz daha yüksek patlatma gücü.
 Gwendolin Level 3 Description,Ateş Kokteyli: Yanıcı bir sıvı fırlatarak ateşin içinden geçen Bloon’ları yakar.
 Gwendolin Level 4 Description,Biberleyelim - Her birkaç saniyede bir Bloon’ları patlatan ve yakındaki Maymun saldırılarına ateş ekleyen güçlü bir ateş patlaması dalgası oluşturur.
-Gwendolin Level 5 Description,Yüksek patlatma gücü.
+Gwendolin Level 5 Description,"Yüksek patlatma gücü. Ateş Halkası, İşaret Fişeği ve Ejderha Nefesi için %10 gelişmiş saldırı hızı ve yarıçap."
 Gwendolin Level 6 Description,"Saldırılar, hedef Bloon üzerinde bir yanma etkisine yol açar."
 Gwendolin Level 7 Description,"Biberleyelim etkisinin yarıçapı artar, Ateş Kokteyli daha etkilidir."
 Gwendolin Level 8 Description,Atış başına 2 ateş patlaması fırlatır.
@@ -163,7 +163,7 @@ Gwendolin Level 14 Description,Ateş Kokteyli ekstra hasar verir ve MOAB sınıf
 Gwendolin Level 15 Description,Yüksek saldırı hızı.
 Gwendolin Level 16 Description,Ateş Fırtınasının süresi uzar ve daha fazla hasar verir. Mor Bloon’lar artık Gwendolin’in saldırılarına karşı dayanıklı değil.
 Gwendolin Level 17 Description,"Biberleyelim, etkilenen Maymunlara 1 ekstra katman patlatmaları ve Kurşun Bloon’lara +2 hasar vermeleri için güç verir."
-Gwendolin Level 18 Description,Yüksek saldırı hızı.
+Gwendolin Level 18 Description,"Yüksek saldırı hızı. Ateş Halkası, İşaret Fişeği ve Ejderha Nefesi için %20 gelişmiş saldırı hızı ve yarıçap."
 Gwendolin Level 19 Description,Atış başına 3 ateş patlaması fırlatır.
 Gwendolin Level 20 Description,Ateş Fırtınası son derece yüksek hasar verir.
 ,
@@ -232,11 +232,11 @@ ObynGreenfoot Level 20 Description,Ağaç Duvarı çok daha fazla Bloon’u tuta
 ,
 Ezili Level 1 Description,"Ezili, karanlık vudu gücü ile Bloon’ları lanetler."
 Ezili Level 2 Description,Yüksek saldırı menzili.
-Ezili Level 3 Description,Yürek Hoplatan: 6 saniye boyunca herhangi bir Yeniden Şişme etkinliğini engeller.
+Ezili Level 3 Description,"Yürek Hoplatan: Bloon’ları yavaşlatır, Mor bloon patlatmayı sağlar ve 10 saniye boyunca herhangi bir yeniden şişme etkinliğini engeller."
 Ezili Level 4 Description,Ezili’nin ana saldırısı artık birden fazla Bloon’u lanetler.
 Ezili Level 5 Description,Yüksek saldırı hızı.
 Ezili Level 6 Description,Zamanla oluşan hasar daha uzun sürer ve daha hızlı hasar verir.
-Ezili Level 7 Description,"Kurban Totemi: Kamuflajlı tespiti, ekstra delme, saldırı menzili, saldırı hızı ve yakındaki Maymunlara fırlatıcı hızı sağlayan bir totemdir."
+Ezili Level 7 Description,"Kurban Totemi: Kamuflajlı tespiti, ekstra delme, saldırı menzili, saldırı hızı ve yakındaki Maymunlara, özellikle Sihirbaz Maymunlara fırlatıcı hızı sağlayan bir totemdir. 10 can tüketir."
 Ezili Level 8 Description,Ezili’nin saldırısı MOAB Sınıfı Bloon’lara çok daha fazla hasar verir.
 Ezili Level 9 Description,"Ezili’nin saldırısı, MOAB olmayan Bloon’ların Kamuflaj, Yeniden Şişme ve Güçlendirilme özelliklerini kaldırır."
 Ezili Level 10 Description,"MOAB Büyüsü: MOAB Sınıfı Bloon’lara bir lanet salar, söz konusu bloon yok edilene kadar her saniyede bir hasar alır."
@@ -282,8 +282,8 @@ Rallying Roar Ability Description,Yakındaki tüm Maymunlar kısa süreliğine +
 Big Squeeze Ability Description,"Bir MOAB, BFB, DDT (görünürse) veya ZOMG yakalar ve 5 saniye içinde parçalara ayırır."
 Brambles Ability Description,Parkur üzerinde 50 bloon patlatabilen dikenli bir tuzak oluşturur.
 Wall of Trees Ability Description,Giriş yapan tüm Bloon’ları yok eden bir ağaç duvarını parkura çağırır. Dolduğunda ağaçlar patlayarak paraya dönüşür.
-Heartstopper Ability Description,6 saniye boyunca herhangi bir Yeniden Şişme etkinliğini engeller.
-Sacrificial Totem Ability Description,"Kamuflajlı tespiti, ekstra delme, saldırı menzili, saldırı hızı ve yakındaki Maymunlara fırlatıcı hızı sağlayan bir totemdir."
+Heartstopper Ability Description,Mor bloon patlatmayı sağlar ve 10 saniye boyunca herhangi bir Yeniden Şişme etkinliğini engeller.
+Sacrificial Totem Ability Description,"Kamuflajlı tespiti, ekstra delme, saldırı menzili, saldırı hızı ve yakındaki Maymunlara, özellikle Sihirbaz Maymunlara fırlatıcı hızı sağlayan bir totemdir. 10 can tüketir."
 MOAB Hex Ability Description,"MOAB Sınıfı Bloon’lara bir lanet salar, söz konusu bloon yok edilene kadar her saniyede bir hasar alır."
 ,
 //Hero Misc,
@@ -694,7 +694,7 @@ Long Range Darts Description,Okçu Maymun’un normalden daha uzağa atış yapm
 Razor Sharp Shots Description,Her atışta 2 Bloon daha patlatabilir.
 Very Quick Shots Description,%33 daha hızlı fırlatır!
 Enhanced Eyesight Description,Çok daha uzağa atış yapabilir ve Kamuflajlıları fark edebilir.
-Spike-o-pult Description,"Okçu Maymunu, oklar yerine büyük çivili toplar fırlatan bir Çivili Top Mancınığına dönüştürür. İyi menzil ancak daha yavaş saldırı hızı. Her bir top birçok Bloon patlatır ve engellerden seker."
+Spike-o-pult Description,"Okçu Maymunu, büyük çivili toplar fırlatan, daha yavaş saldıran bir Çivili Top Mancınığına dönüştürür. Her bir top birçok Bloon patlatır ve engellerden seker."
 Triple Shot Description,"Tek seferde 1 değil, 3 ok fırlatır."
 Crossbow Description,Her vuruşta Bloon’ların 3 katmanını patlatabilen uzun menzilli bir Arbalet kullanır.
 Juggernaut Description,Kurşun olanları patlatan ve Seramik Bloon’ları parçalamada usta olan dev bir çivili top fırlatır.
@@ -756,7 +756,7 @@ Permafrost Description,Bloon’lar buzları çözüldükten sonra bile yavaş ha
 Enhanced Freeze Description,Saldırılar daha hızlıdır ve daha uzun sürer.
 Larger Radius Description,Daha geniş dondurma alanı.
 Metal Freeze Description,Kurşun ve Kamuflajlı Bloon’ları dondurabilir ve patlatabilir.
-Deep Freeze Description,Bloon’un 2 katmanını dondurur.
+Deep Freeze Description,Ekstra bir katmanı dondurur ve donma daha uzun sürer.
 Re-Freeze Description,Zaten donuk olan Bloon’ları tekrar dondurabilir.
 Ice Shards Description,Donmuş Bloon’lar patlarken jilet gibi keskin parçalar fırlar.
 Arctic Wind Description,Delmeyi büyük oranda artırır ve Bloon’ları yavaşlatıp yakındaki suyu donduran bir süper soğuk aura kazanır.
@@ -798,13 +798,13 @@ Supply Drop Description,İkmal Malzemesi Düşürme Yeteneği: nakitle dolu bir 
 Full Auto Rifle Description,İnanılmaz patlatma gücüne sahip tam otomatik silah.
 Cripple MOAB Description,Felç olan MOAB’lar daha uzun süre hareketsizleşir ve diğer tüm saldırılardan ekstra hasar alır.
 Elite Sniper Description,İkmal malzemesi düşürme çok daha fazla nakit kazandırır. Tüm keskin nişancılara Elit hedefleme önceliği ve daha hızlı yükleme sağlar.
-Elite Defender Description,"Kayıp bir ömür bu Keskin Nişancıya kısa süreliğine 4 kat saldırı hızı kazandırır. Ayrıca, Bloon’lar parkurdan ne kadar uzaktaysa saldırılar o kadar hızlanır. MOAB Sınıfı Bloon’lara daha fazla hasar verir."
+Elite Defender Description,Süper hızlı atış yapar ve hatta Bloon’lar parkurdan ne kadar uzaktaysa o kadar hızlanır. Can kaybından sonra 4 kat saldırı hızı kazanır. MOAB Sınıfı Bloon’lara daha fazla hasar verir.
 ,
 Longer Range Description,Saldırı menzili artar.
 Barbed Darts Description,Denizaltının okları ek olarak 3 Bloon patlatabilir.
 Twin Guns Description,Eklenen ikiz silah. Balistik Füze ve Bloontoniyum Reaktörü’nü iyileştirir.
 Advanced Intel Description,Diğer atıcılarının yarıçapı içindeki Bloon’ların uzun menzilli hedeflenmesini sağlar.
-Heat-tipped Darts Description,Kızgın uçlu oklar Donmuş ve Kurşun Bloon’ların patlamasını sağlar.
+Heat-tipped Darts Description,"Kızgın uçlu oklar, Maymun Denizaltının, Donmuş ve Kurşun Bloon’ları patlatmasını sağlar."
 Airburst Darts Description,Havada patlayan oklar büyük oranda arttırılmış patlatma gücü için 3 parçaya ayrılır. Bloontoniyum Reaktörü’nü daha fazla iyileştirir.
 Submerge and Support Description,Yarıçapı içindeki Kamuflajlı Bloon’ları kalıcı olarak görünür hale getiren Suya Batık hedefleme seçeneği ekler ancak batıkken saldırıda bulunmaz.
 Ballistic Missile Description,Füze menzil içinde hedefi bulabilir ekstra MOAB ve Seramik hasarı verir.
@@ -826,7 +826,7 @@ Buccaneer-Destroyer Description,Muhteşem bir hızla saldırır!
 Buccaneer-Cannon Ship Description,Güçlü bombalar atan kuvvetli bir top ekler.
 Buccaneer-Merchantman Description,Her turda otomatik olarak nakit oluşturur.
 Buccaneer-Aircraft Carrier Description,Hedeflerini bombalayan avcı uçağı dalgaları gönderir ve MOAB sınıfı Bloon’lara füzeler fırlatır.
-Buccaneer-Monkey Pirates Description,Gemiye 2 top ekler ve top saldırıları daha fazla hasar yaratır. MOAB Parçalama Yeteneği: Bir MOAB sınıfı bloon’u yakalar ve alt eder.
+Buccaneer-Monkey Pirates Description,Gemiye 2 top ekler ve saldırılar daha fazla hasar yaratır. MOAB Parçalama Yeteneği: Bir MOAB sınıfı bloon’u yakalar ve alt eder.
 Buccaneer-Favored Trades Description,Daha hızlı saldırır ve tur başına bir sürü para oluşturur.
 Buccaneer-Carrier Flagship Description,Ekstra hasar verir. Diğer Maymunları geminin üst güvertesine yerleştirebilir ve suda konuşlanan tüm Maymunların ve Pilot Maymunların saldırı hızını artırır.
 Buccaneer-Pirate Lord Description,"Tüm saldırılar için son derece yüksek saldırı hızına sahiptir ve tek seferde 3 yakalayıcı kanca fırlatabilir, indirilen her bir MOAB Sınıfı Bloon’dan ekstra nakit yağar."
@@ -874,11 +874,11 @@ Shockwave Description,"Patlama şok dalgası, Bloon’ları etki noktasında ser
 Heavy Shells Description,"Ağır mermiler Seramik, Kurşun, tüm Güçlendirilmiş ve sersemletilmiş Bloon’lara ekstra hasar verir. Siyah Bloon’ları da patlatabilir."
 Signal Flare Description,Alevlerin patlattığı Kamuflajlı Bloon’lar kamuflajlarını kalıcı olarak kaybeder.
 The Big One Description,Yıkıcı patlamaların her biri Bloon’ların 7 katmanını patlatır ve Yanıcı Madde hasarını daha da artırır.
-Artillery Battery Description,"Bombardıman Yeteneği: Biraz daha geniş bir alanda seri atış saldırısı gönderir. Ana saldırı, inanılmaz hızlı saldırılar için 3 namluya yükselir."
+Artillery Battery Description,"Bombardıman Yeteneği: Biraz daha geniş bir alanda seri atış saldırısı gönderir. Ana saldırı, BAD’lere ve Patron Bloon’lara daha fazla hasar verir ve inanılmaz hızlı saldırılar için 3 namluya yükselir."
 Shattering Shells Description,"Ezici mermiler, en büyük bloon’lar hariç tüm özel bloon özelliklerini çıkarır."
 The Biggest One Description,Geniş bir alanda Bloon’ları ve katmanlarını derinlemesine patlatır ve güçlü Yanıcı Madde hasarı verir.
-Pop and Awe Description,"Korkut Patlat Yeteneği: Tüm ekrana patlamalar yağdırır, tüm Bloon’ları patlatır ve birkaç saniyeliğine hareketsizleştirir."
-Blooncineration Description,"Süper sıcak yakıcı malzeme, her atışta Bloon’un 5 katmanını eritir, ekstra hasar için MOAB sınıfı bloon’ları yakar ve DDT kamuflajlıyı soyar. MOAB Sınıfı Bloon’ları da yakabilir."
+Pop and Awe Description,"Korkut Patlat yeteneği: Tüm ekrana patlamalar yağdırır, birkaç saniyeliğine tüm Bloon’lara hasar verir ve hareketsizleştirir. Topçu Bataryaları BAD’lere ve Patron Bloon’lara daha fazla hasar verir. Ana saldırı sersemletilmiş Bloon’lara karşı ek bonus hasarı kazandırır."
+Blooncineration Description,"Süper sıcak yakıcı malzeme, her atışta Bloon’un 5 katmanını eritir, ekstra hasar için MOAB Sınıfı Bloon’ları yakar."
 ,
 Focused Firing Description,Ok Silahının isabetini artırır.
 Advanced Targeting Description,Ok Nişancısının Kamuflajlı Bloon’ları vurmasını sağlar.
@@ -918,7 +918,7 @@ Super Range Description,Süper Maymunların Süper Menzile ihtiyacı vardır.
 Knockback Description,Her vuruştan sonra Bloon’lar geriye doğru itilir veya yavaşlatılır.
 Plasma Blasts Description,Plazma temas ettiği her şeyi buharlaştırır.
 Epic Range Description,EPİK’e sahip olmak varken neden süperle yetinesin ki?
-Ultravision Description,Süper Maymunun biraz daha uzağa atış yapmasını ve Kamuflajlı Bloon’ları görmesini sağlar.
+Ultravision Description,Süper Maymunun biraz daha uzağa atış yapmasını ve Kamuflajlı Bloon’ları görüp onlara daha fazla hasar vermesini sağlar.
 Sun Avatar Description,Gücü Güneşin çekirdeğinden gönderir.
 Robo Monkey Description,Yarı Süper Maymun yarı ölümcül katil robot. Tek seferde 2 silahtan ateş eder ve kritik vuruş yapabilir!
 Dark Knight Description,Karanlık bıçaklar şaşırtma ve delmeyi artırır ve MOAB Sınıfı Bloon’lara ekstra hasar verir. Yakındaki bir yere geçmek için Karanlık Kayması yeteneği kazanır.
@@ -951,7 +951,7 @@ Acid Pool Description,Yakında hiç Bloon yoksa Simyacı yakındaki parkuru asit
 Acidic Mixture Dip Description,"Yakındaki Maymunlara bir yardımcı iksir fırlatarak Kurşun Bloon’ları patlatmalarını, Seramik ve MOAB sınıfı Bloon’lara ekstra hasar vermelerini sağlar. Birkaç saldırıdan sonra yok olur."
 Perishing Potions Description,Saldırı iksirleri MOAB sınıfı Bloon’lara daha fazla hasar verir ve daha küçük Bloon’ların Güçlendirilmiş özelliklerini kaldırır. Ayrıca İçecekleri ve Etkileri kuvvetlendirir.
 Alchemist Faster Throwing Description,İksirler fırlatır ve daha hızlı saldırır.
-Berserker Brew Description,"Özel içecek Maymunlara ekstra hasar, menzil ve saldırı hızı kazandırır. Daha uzun sürer."
+Berserker Brew Description,"Yakındaki Maymunlara, ekstra hasar, menzil ve saldırı hızı kazandıran bir özel içecek atar."
 Unstable Concoction Description,MOAB Sınıfı Bloon’ları patlayıcı bir maddeyle kaplar ve bu madde Bloon’lar patlatılırken büyük bir patlama oluşturur.
 Lead to Gold Description,Kurşun Bloon’ları ALTINA dönüştürür! Özel solventler Kurşun Bloon’lara ekstra hasar vererek onları tek vuruşta yok eder ve nakit oluşturur.
 Stronger Stimulant Description,Hedef üzerinde çok daha güçlü bir etkiye sahip ekstra kuvvetli öfke içeceği. Çok daha uzun sürer.
@@ -1870,7 +1870,7 @@ RapidRazorsDescription,Jilet Pervaneler Bloon’ları daha hızlı patlatır.
 BudgetBattery,Batarya Bütçesi
 BudgetBatteryDescription,Topçu Bataryası maliyeti 600 azalır.
 PaintStripper,Boya Çıkarıcı
-PaintStripperDescription,"Ezici havan mermileri, Kamuflajlıları DDT Bloon’lardan çıkarır."
+PaintStripperDescription,"Ezici havan mermileri, Güçlendirilmişleri DDT Bloon’lardan çıkarır."
 CheaperMaiming,Daha Ucuz Hasar Verme
 CheaperMaimingDescription,MOAB Hasar Verme maliyeti 1000 azalır.
 ChargedChinooks,Yüklü Çinoklar
@@ -2638,17 +2638,17 @@ Adora Level 5 Description,İlahi yıldırımlar daha fazla Bloon’u deler.
 Adora Level 6 Description,Tek seferde 3 İlahi Yıldırım fırlatır.
 Adora Level 7 Description,"Kan Kurbanı: Adora’ya büyük oranda XP sağlamak, kısa süreliğine saldırı menzilini ve atış hızını artırmak için bir hedeflenmiş Atıcı feda eder."
 Adora Level 8 Description,Tek seferde 4 İlahi Yıldırım fırlatır.
-Adora Level 9 Description,Artan saldırı menzili.
+Adora Level 9 Description,Güçlendirilmiş Bloon’lara karşı yüksek saldırı menzili ve yüksek hasar.
 Adora Level 10 Description,Işık Topu: Bloon’ları devirmek için güçlü bir enerji topu oluşturur.
 Adora Level 11 Description,Adora saldırı hızını artırır.
 Adora Level 12 Description,Tek seferde 5 İlahi Yıldırım fırlatır.
-Adora Level 13 Description,İlahi Yıldırımlar çok daha fazla Bloon’u deler.
+Adora Level 13 Description,İlahi Yıldırımlar daha fazla Bloon’u deler. Güçlendirilmiş Bloon’lara yüksek hasar verir.
 Adora Level 14 Description,Tek seferde 6 İlahi Yıldırım fırlatır.
 Adora Level 15 Description,"İlahi Yıldırımlar ekstra bir Bloon katmanını yakar ve ayrıca, Yıldırım Topu daha fazla hasar verir."
 Adora Level 16 Description,Işığın Gücü çok daha ölümcül hale gelir.
 Adora Level 17 Description,Adora saldırı hızını çok daha fazla artırır.
 Adora Level 18 Description,Tek seferde 8 İlahi Yıldırım fırlatır.
-Adora Level 19 Description,Artan saldırı menzili.
+Adora Level 19 Description,Yüksek saldırı menzili. Güçlendirilmiş Bloon’lara yüksek hasar verir.
 Adora Level 20 Description,"Yıldırım Topu oldukça gelişmiştir, ayrıca Kurbanlardan yüksek atış hızı, menzil ve süre güçlendirmeleri elde edilir."
 Carved,Oyuk
 BloodyPuddles,Lanet Su Birikintileri
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,Menzilde Karanlık Kayması için [I]
 DarkChampionDarkshift,Herhangi bir geçerli konuma Karanlık Kayması için [I]
 SmallTowersMode,Küçük Maymun Atıcılar
 BigTowersMode,Büyük Maymun Atıcılar
-UpdatePopupTitle,32’yı Güncelle!
-UpdatePopupDescription,"Epik Çekişmeli Bölgeler Güncellemesi!\n• Büyük yeni etkinlik: Çekişmeli Bölgeler - Lider tablosunda hakimiyet kurmak için diğer Takımların Karolarını ele geçir!\n • Takımlar! Çekişmeli Bölgeyi fethetmek üzere arkadaşlarını topla ve durdurulamaz bir Takım oluştur\n• Yeni gözcü: Usta İnşaatçı\n• Yeni kahraman dış görünümü: Voidora\n• Yeni orta seviye harita: Taş Ocağı\n• Ganimet Mağazası eşyaları, yaşam kalitesi iyileştirmeleri, denge değişiklikleri ve çok daha fazlası!"
+UpdatePopupTitle,33’yı Güncelle!
+UpdatePopupDescription,"Büyük İçerik Güncellemesi!\n• Devasa Kıyamet Gemisini, Pilot Maymun Gözcüyü serbest bırak!\n• Orta seviye harita, Kapalı Bahçe’de biraz Bloon patlatma gücü kazan! Tasarım: Topluluk haritası yarışması galibi, SuperPsou.\n• Ürkütücü, yepyeni zor seviye harita, Gece Yarısı Malikânesi’nin koridorlarını ziyaret et!\n• Ganimet mağazası eşyaları, yaşam kalitesi iyileştirmeleri, denge değişiklikleri ve çok daha fazlası!"
 ResetDailyChest,Günlük Sandığı Sıfırla
 JukeboxName,Müzik Kutusu
 EnableFunction,Etkinleştir
@@ -4413,11 +4413,11 @@ GameUIProfileAvatar59Description,Gözlerinde sevgiyi görebilirsin. Şimdi yapma
 GameUIProfileAvatar60Name,Vurucu Jones Avatarı
 GameUIProfileAvatar60ShortName,Vurucu Jones Avatarı
 GameUIProfileAvatar60Description,Vurucu Jones görev yerinde! En sevdiğin omuzdan ateşlemeli silahı olan Maymundan selamlarla kazanmaya hazır olduğunu göster.
-GameUIProfileBanner13Name,Varış Afişi
-GameUIProfileBanner13ShortName,Varış Profil Afişi
+GameUIProfileBanner13Name,Varış Profil Afişi
+GameUIProfileBanner13ShortName,Varış Afişi
 GameUIProfileBanner13Description,"betapotata, Afiş galibi"
-GameUIProfileBanner14Name,Suların Altında Afişi
-GameUIProfileBanner14ShortName,Suların Altında Profil Afişi
+GameUIProfileBanner14Name,Suların Altında Profil Afişi
+GameUIProfileBanner14ShortName,Suların Altında Afişi
 GameUIProfileBanner14Description,"Cyliia, Afiş galibi"
 GameUIMusicTrackMusicSunshineFiestaMixName,Müzik Kutusu: Gün Işığı Serenadı - Fiesta Remiksi
 GameUIMusicTrackMusicSunshineFiestaMixShortName,Gün Işığı - Fiesta
@@ -4588,7 +4588,7 @@ TeamBannersTitle,Afişler
 TeamGeneralTitle,Umumi
 TeamSettingPublicTitle,Genel
 TeamSettingPrivateTitle,Özel
-TeamSettingClosedTitle,Kapalı
+TeamSettingClosedTitle,Yalnızca Davetle
 TeamJoin,Katıl
 TeamApply,Başvur
 RecentWin,Son Galibiyet:
@@ -4600,8 +4600,8 @@ Tile,Karo: {0}
 RelicTile,Yadigâr Karosu
 BannerTile,Afiş Karosu
 BonusCTPoints,Bonus ÇB Puanları!
-DailyRelics,Günlük Yadigârlar
-HeldRelics,Tutulan Yadigârlar
+DailyRelics,Günlük Güç ve Etkinlik Yadigârları
+HeldRelics,Ele Geçirilen Yadigârlar
 Tickets,Biletler:
 PurchaseTickets,Bilet Satın Al
 MoreTicketsIn,Daha Fazla Bilete Kalan Süre:
@@ -4728,7 +4728,7 @@ RelicExtraEmpoweredDescription,Kahramanın bir oyuna 3 ekstra seviye ile başlar
 RelicBoxOfChocolatesDescription,Her oyuna 100 ekstra can ile başla
 RelicBoxOfMonkeyDescription,Her oyuna maliyeti 500 dolar veya değiştirilmemiş başlangıç yerleştirmesi için bu değerin altında olan bir ücretsiz Maymun ile başla
 RelicMarchingBootsDescription,"Kısıtlanmış sayılı oyunlarda, oyunculara mühimmatları için her atıcıdan +1 maks. veya oyun başına +4 toplam maks sayı verilir "
-RelicHeroBoostDescription,Kahramanlar her oyunda %10 daha hızlı XP kazanır
+RelicHeroBoostDescription,Kahramanlar her oyunda %15 daha hızlı XP kazanır
 RelicBiggerBloonSabotageDescription,Tüm MOAB Sınıfı Bloon’lar %15 daha az sağlıkla canlanır ve %95 hızla hareket eder
 RelicRoundingUpDescription,Her turun sonunda +20 dolar kazan
 RelicManaBulwarkDescription,50 cana kadar emen özel bir kalkan oluşturur (Normal Karolarda Mana Kalkanı ile katlanır)
@@ -4742,11 +4742,11 @@ RelicRoyalTreatmentDescription,Tüm saldırılar mor Bloon'ları patlatabilir
 RelicHardBakedDescription,Tüm saldırılar Seramik Bloon’lara +1 hasar verir
 RelicFortifriedDescription,Tüm saldırılar Güçlendirilmiş Bloon’lara +1 hasar verir
 RelicMoabClashDescription,Tüm saldırılar MOAB Sınıfı Bloon’lara +3 hasar verir
-RelicCamoFloggedDescription,Tüm saldırılar kamuflajlı Bloon’lara +1 hasar verir
+RelicCamoFloggedDescription,Tüm saldırılar kamuflajlı Bloon’lara +3 hasar verir
 RelicBrokenHeartDescription,Tüm saldırılar yeniden şişen Bloon’lara +1 hasar verir
-RelicGoingTheDistanceDescription,Tüm Maymunlar +%10 menzil kazanır
+RelicGoingTheDistanceDescription,Tüm Maymunlar +%20 menzil kazanır
 RelicHeartlessDescription,Yeniden Şişen Bloon’ların yeniden doğma oranı %25 azalır
-RelicFlintTipsDescription,Keskin fırlatıcılar hasar verdikleri tüm Bloon’lara ateş noktası eklerler (her 2 için 1 hasar; toplamda 4 için)
+RelicFlintTipsDescription,"Keskin fırlatıcılar hasar verdikleri tüm Bloon’lara ateş noktası eklerler (her 2,5 için 1 hasar toplamda 5 için)"
 RelicAbilitizedDescription,Bütün Maymunların etkinleştirilmiş tüm yetenek gecikme süreleri %10 azalır
 RelicAirAndSeaDescription,"Pilot, Helikopter Pilotu, Korsan ve Denizaltı yerleştirme ve yükseltme maliyetleri %10 azalır ve yükleme %5 gelişir"
 RelicElDoradoDescription,Oyun zaferlerinden gelen tüm Maymun Parası ve Takım Ganimet ödülleri %25 artar (minimum +1)
@@ -4755,7 +4755,7 @@ RelicMonkeyShieldMark2Description,"Ele geçirmeden 2 saat sonra, Karoya karşı 
 RelicMonkeyShieldMark3Description,"Ele geçirmeden 3 saat sonra, Karoya karşı Takımlar saldıramaz. Düzeltilmiş skor yeniden değerlendirilecek."
 RelicPsiVisionDescription,Haritadaki tüm Karoların tam ayrıntılarına göz at
 RelicOpenSeasonDescription,Haritadaki herhangi bir Karoya saldır
-RelicCamoTrapDescription,Oyun başına 2 Kamuflajlı Tuzağı Güçlendirmesi kullanımı kazandırır
+RelicCamoTrapDescription,Oyun başına 1 Kamuflajlı Tuzağı Güçlendirmesi kullanımı kazandırır
 RelicThriveDescription,Oyun başına 2 Başarı Güçlendirmesi kullanımı kazandırır
 RelicSuperMonkeyStormDescription,Oyun başına 2 Süper Maymun Fırtınası (SMF) kullanımı kazandırır
 RelicMonkeyBoostDescription,Oyun başına 3 Maymun Desteği kullanımı kazandırır
@@ -4792,7 +4792,7 @@ TeamBrowserTitle,Takım Tarayıcısı
 TeamBrowserSearchField,Takım Adını Gir...
 TeamBrowserSearchHideFull,Dolu Takımları Gizle
 TeamBrowserSearchHidePrivate,Özel Takımları Gizle
-TeamBrowserSearchHideClosed,Kapalı Takımları Gizle
+TeamBrowserSearchHideClosed,Yalnızca Davetle Takımlarını Gizle
 TeamEditApplyAll,Tümüne Uygula
 TeamScore,Skor: {0}
 TeamRemoveMember,Bu üyeyi çıkarmak istediğinden emin misin?
@@ -4821,7 +4821,7 @@ TeamMateSetScore,"Takım arkadaşın, ulaşılacak yeni bir skor belirledi!"
 AnotherTeamSetScore,"Başka bir Takım, ulaşılacak yeni bir skor belirledi!"
 FriendScreenErrorTeamInviteAlreadyMember,Bu oyuncu zaten Takımında
 TotalTeamScore,Takım Skoru
-CTRulesInfo,"Çekişmeli Bölgelere Hoş Geldin! Takımınla birlikte çalış, Karoları ele geçir, lider tablolarında zirveye çık ve harika ödüller kazan!\n\n• Ele Geçirme Biletleri yalnızca bir Karo ele geçirdiğinde kullanılır. Her 24 saatte bir yenilenirler.\n• Kullanılmamış Ele Geçirme Biletleri, ertesi gün diğer Takım üyeleri tarafından kullanılabilen Bilet havuzuna gönderilir.\n• Ele geçirildikten sonra, ta ki 24 saat sonra Karo tarafsız olana dek, Karo skorları zaman geçtikçe yavaşça azalır.\n• ÇB Puanları bir Karo ele geçirildiğinde ve bir Karoyu tutmaya devam ettiğin her saat başı kazanılır. ÇB Puanları lider tablosundaki kişisel yerleşimini ve Takım yerleşimini belirler; bu nedenle, Karoları elinden geldiğince sık ele geçir!\n• Afiş Karoları çok daha fazla ÇB Puanı kazandıran, daha zorlu Karolardır.\n• Yadigâr Karosu sayesinde takımın, Karoları ele geçirirken sana yardımcı olacak güçlü Yadigâr Bilgilerine erişir.\n• Her 20 turda bir Karo ilerlemesi kaydedilir ve her seferinde yalnızca bir ilerleme kaydedilebilir.\n• Takım Ganimet mağazasında en beğendiğin Yadigârlara oy ver ve ardından oyun öncesi sayfada savaşa hangi belirli Yadigârları götüreceğini seç."
+CTRulesInfo,"Çekişmeli Bölgelere Hoş Geldin! Takımınla birlikte çalış, Karoları ele geçir, lider tablolarında zirveye çık ve harika ödüller kazan!\n\n• Ele Geçirme Biletleri yalnızca bir Karo ele geçirdiğinde kullanılır. Her 24 saatte bir yenilenirler.\n• Kullanılmamış Ele Geçirme Biletleri, ertesi gün diğer Takım üyeleri tarafından kullanılabilen Bilet havuzuna gönderilir. Takım biletleri, lider tablosundaki kişisel yerleşime katkıda bulunmaz.\n• Ele geçirildikten sonra, ta ki Karo tarafsız olana dek, Karo skorları zaman geçtikçe yavaşça azalır.\n• ÇB Puanları bir Karo ele geçirildiğinde ve bir Karoyu tutmaya devam ettiğin her saat başı kazanılır. ÇB Puanları lider tablosundaki kişisel yerleşimini ve Takım yerleşimini belirler; bu nedenle, Karoları elinden geldiğince sık ele geçir!\n• Afiş Karoları çok daha fazla ÇB Puanı kazandıran, daha zorlu Karolardır.\n• Yadigâr Karosu sayesinde takımın, Karoları ele geçirirken sana yardımcı olacak güçlü Yadigâr Bilgilerine erişir.\n• Her 20 turda bir Karo ilerlemesi kaydedilir ve her seferinde yalnızca bir ilerleme kaydedilebilir."
 TeamTrophyStoreRulesInfo,"Burası; kilitli ÇB Yadigârlarına oy verebileceğin, Günlük Güçleri, Etkinlik Yadigârlarını ve Takım Becerisini finanse ettiğin Takım Ganimet Mağazası.\n• ÇB etkinliği sırasında her gün Günlük Güçleri açabilirsin ve finanse edildikten sonra o gün tüm Takım tarafından kullanılabilirler.\n• Etkinlik Yadigârları, ÇB etkinliği boyunca kullanılabilirler ve finanse edildikten sonra söz konusu etkinliğin geri kalanında da kullanılabilirler. Bunlar, kilitli Yadigârlardan Yadigâr Karolarıyla ayrılmıştır.\n• Yadigâr Karolarını ele geçir ve ardından bu etkinliğin kilidini açan en beğendiğin Yadigâr Bilgileri için oy ver. En iyi 7 Yadigârı, son 4 Yadigâr mühimmatında seçebilirsin.\n• Takım Becerisi tüm Takım tarafından finanse edilir ve bir kez finanse edildikten sonra Takımın için kalıcı olarak açılır. Takımdan ayrılan oyuncular, Takım Becerisini beraberlerinde götüremezler."
 TeamsBanner1Name,Uzaydaki Maymunlar Afişi
 TeamsBanner2Name,Kahraman Takım Oluşturma Afişi
@@ -4912,22 +4912,22 @@ BasePropSatelliteShortName,Mobil Uydu Aracı
 BasePropTortoiseShortName,Kabile Kaplumbağası
 BasePropBattleMonkeyShortName,Savaş Maymunu
 BuildingPropBattleTowerShortName,Merkez Atıcı Binası
-BuildingPropWizardTowerDescription,Bu mistik merkezi finanse edebilen herhangi bir takımı büyülü bir macera bekliyor.
-BuildingPropLighthouseDescription,Bu parlak ışıklı ana merkezle takımının tamamının yolunu aydınlat.
-FlyingPropPhoenixDescription,Herkes şu yukarıdakinin gerçekten Sihirbaz Maymun olup olmadığını merak ediyor ama belki de tüm Sihirbaz Maymunların yeniden doğmayı bekleyen Anka Kuşları oldukları hiç kimsenin aklına geldi mi?
-FlyingPropMiniAceDescription,"Pilot Maymun, bu sevimli mini birlikle takımın için göklere göz kulak olsun."
-WaterPropKrakenDescription,Krakeni serbest bırak! Şaşırtıcı derecede sevimli bu dev denizaltı yaratığıyla dalgaların hâkimi ol.
-WaterPropMiniSubDescription,Periskoplar yukarı! Mini Denizaltı ile alanda keşif yap.
-BasePropKingDescription,"Muhteşem, yeni Maymun Çe...’ye hoş geldin. Yani, Çekişmeli Bölgeye demek istedim! Bu topraklar kapışmalar ve Bloon’larla dolu! Onları patlatıp takımın için bu toprakları güvenlik altına al."
-BasePropLighthouseKeeperDescription,"Bu bilge, yaşlı maymun deniz fenerine bakıyor ve her zaman gece geçen gemileri gözlüyor."
-BasePropCrashedMoabDescription,Bir grup çatlak maymun bilim insanı yararlı teknolojisi için bu enkazı taradı bile; bu nedenle artık sadece diğer Bloon’ları uyarmak için orada duruyor.
-BasePropTrainingDummyDescription,Dr. Maymun onaylı %100 yeniden kullanılabilir Eğitim Kuklası ile tüm Okçu Maymunlarını tetikte tut!
-BasePropCampfireDescription,Soğuk gecelerde kamp ateşinin yanında takımını sıcak tut veya Çekişmeli Bölgeler hakkında ürkütücü hikâyeler anlat.
-BasePropTotemDescription,Bu korkutucu görünen Kabile Totemi ile sınırlarını koru.
-BasePropSatelliteDescription,Bu yola çıkmaya hazır mobil uydu aracıyla doğrudan uzaydan bilgi yay!
-BasePropTortoiseDescription,"Ona kabileden akrabaları olup olmadığını, özellikle kaplumbağaları sorma!"
-BasePropBattleMonkeyDescription,Çekişmeli Bölge maymunu yola çıkmaya hazır!
-BuildingPropBattleTowerDescription,Çekişmeli Bölgeye yapılan her macera için sağlam bir merkez gerekir.
+BuildingPropWizardTowerDescription,Bu mistik merkezi finanse edebilen herhangi bir takımı büyülü bir macera bekliyor. [Ana Bina Yuvası]
+BuildingPropLighthouseDescription,Bu parlak ışıklı ana merkezle takımının tamamının yolunu aydınlat. [Ana Bina Yuvası]
+FlyingPropPhoenixDescription,Herkes şu yukarıdakinin gerçekten Sihirbaz Maymun olup olmadığını merak ediyor ama belki de tüm Sihirbaz Maymunların yeniden doğmayı bekleyen Anka Kuşları oldukları hiç kimsenin aklına geldi mi? [Hava Yuvası]
+FlyingPropMiniAceDescription,"Pilot Maymun, bu sevimli mini birlikle takımın için göklere göz kulak olsun. [Hava Yuvası]"
+WaterPropKrakenDescription,Krakeni serbest bırak! Şaşırtıcı derecede sevimli bu dev denizaltı yaratığıyla dalgaların hâkimi ol. [Su Yuvası]
+WaterPropMiniSubDescription,Periskoplar yukarı! Mini Denizaltı ile alanda keşif yap. [Su Yuvası]
+BasePropKingDescription,"Muhteşem, yeni Maymun Çe...’ye hoş geldin. Yani, Çekişmeli Bölgeye demek istedim! Bu topraklar kapışmalar ve Bloon’larla dolu! Onları patlatıp takımın için bu toprakları güvenlik altına al. [Ada Yuvası]"
+BasePropLighthouseKeeperDescription,"Bu bilge, yaşlı maymun deniz fenerine bakıyor ve her zaman gece geçen gemileri gözlüyor. [Ada Yuvası]"
+BasePropCrashedMoabDescription,Bir grup çatlak maymun bilim insanı yararlı teknolojisi için bu enkazı taradı bile bu nedenle artık sadece diğer Bloon’ları uyarmak için orada duruyor. [Ada Yuvası]
+BasePropTrainingDummyDescription,Dr. Maymun onaylı %100 yeniden kullanılabilir Eğitim Kuklası ile tüm Okçu Maymunlarını tetikte tut! [Ada Yuvası]
+BasePropCampfireDescription,Soğuk gecelerde kamp ateşinin yanında takımını sıcak tut veya Çekişmeli Bölgeler hakkında ürkütücü hikâyeler anlat. [Ada Yuvası]
+BasePropTotemDescription,Bu korkutucu görünen Kabile Totemi ile sınırlarını koru. [Ada Yuvası]
+BasePropSatelliteDescription,Bu yola çıkmaya hazır mobil uydu aracıyla doğrudan uzaydan bilgi yay! [Ada Yuvası]
+BasePropTortoiseDescription,"Ona kabileden akrabaları olup olmadığını, özellikle kaplumbağaları sorma! [Ada Yuvası]"
+BasePropBattleMonkeyDescription,Çekişmeli Bölge maymunu yola çıkmaya hazır! [Ada Yuvası]
+BuildingPropBattleTowerDescription,Çekişmeli Bölgeye yapılan her macera için sağlam bir merkez gerekir. [Ana Bina Yuvası]
 Neutral,Tarafsız
 TilesCaptured,Ele Geçirilen Karolar:
 CTPointsEarnt,Kazanılan ÇB Puanları:
@@ -4977,17 +4977,144 @@ RewardsTop20,En İyi 20
 RewardsTop40,En İyi 40
 RewardsTop60,En İyi 60
 RewardsTopX,En İyi {0}
-Rank5th,5.
-Rank6th,6.
-TeamName,Takım adı
-CTPoints,CT Noktaları
-Contribute,Katkıda bulunmak
-ContributeTrophies,Kupalara Katkıda Bulunun
-ColorblindEnabled,Renk körü modu etkinleştirildi!
-ColorblindDisabled,Renk körü modu devre dışı
+Rank5th,5
+Rank6th,6
+TeamName,Takım Adı
+CTPoints,ÇB Puanları
+Contribute,Katkıda Bulun
+ContributeTrophies,Ganimetlere Katkıda Bulun
+ColorblindEnabled,Renk Körü modu etkin!
+ColorblindDisabled,Renk Körü modu devre dışı
 Local,Yerel
-KickPending,bekleyen kaldırma
-SentryParagonGreen,Yeşil Nöbetçi Paragon
-SentryParagonRed,Kırmızı Nöbetçi Paragon
-SentryParagonBlue,Mavi Nöbetçi Paragon
-TeamManagement,Takım yönetimi
+KickPending,Atılma Beklemede
+SentryParagonGreen,Yeşil Kusursuz Gözcü
+SentryParagonRed,Kırmızı Kusursuz Gözcü
+SentryParagonBlue,Mavi Kusursuz Gözcü
+TeamManagement,Takım Yönetimi
+ERR_FEATURE_TEMPORARILY_UNAVAILABLE,"Hesabın işaretlenmiş olduğundan, bu özellik mevcut değildir. Daha fazla bilgi için şu adresi ziyaret et: https://ninja.kiwi/ffgpd7"
+PlayerWillBeRemoved,Mevcut ÇB etkinliği sona erdiğinde oyuncu Takımdan çıkarılacak
+Epic login,Epic hesabında oturum açılıyor; izinler kontrol ediliyor, izinler için tarayıcıya göz at
+FriendScreenErrorTeamInviteMaxInvitesSent,"Maksimum sayıda davet gönderildi, lütfen daha sonra tekrar dene"
+CantJoinTeamFromSameCT,En son bulunduğun aynı ÇB etkinliğinden bir Takıma katılamazsın
+RemovedFromTeam,Takımından çıkarıldın. Lütfen başka bir takıma katılıp tekrar dene
+TileNoLongerAccessible,Söz konusu karo artık erişilebilir değil. Lütfen ÇB’yi yenileyip tekrar dene
+CTTilesHeld,Tutulan Karolar
+CTPointsProjected,Öngörülen
+ConfirmCancelRequest,Talebini iptal etmek istediğinden emin misin?
+CouchCoop,Yerel İş Birliği
+TeamTicketUsed,Takım Bileti Kullanıldı
+PersonalTicketUsed,Bireysel Bilet Kullanıldı
+TeamScreenCodeHidden,Takım Kodu Gizli
+ERR_ANOTHER_REQUEST_PENDING,Başka bir talep hâlihazırda bekliyor
+QuickJoinSearchForTeam,Katılması için bir takım aranıyor...
+QuickJoinJoiningTeam,Takıma katılım sağlanıyor...
+QuickJoinCancel,İptal ediliyor...
+MidnightMansion,Gece Yarısı Malikânesi
+CoveredGarden,Kapalı Bahçe
+MonkeyAce Paragon,Devasa Kıyamet Gemisi
+MonkeyAce Paragon Description,Bloon tahribatı için gönderilen karanlığın uçan gölgesi.
+CreateOrJoinTeamLeaveFirst,Hâlihazırda bir Takıma üyesin.
+TeamMsgBannerTileLost,"Afiş Karolarından biri, {0} tarafından ele geçirildi. Şimdi geri al!"
+CTPlayerPopupNoData,Bu veriyi yüklemek için ÇB’ye gir
+HeroesJoanOfArcAdoraPetDragonName,Joan of Arc Ejderha Evcil Hayvanı
+HeroesJoanOfArcAdoraPetDragonShortName,Joan of Arc Ejderha Evcil Hayvanı
+HeroesJoanOfArcAdoraPetDragonDescription,Bu yavru Altın Ejderha senin yanındayken her oyunun ne kadar eğlenceli hale geldiğini görmek için bir aziz olman gerekmez. Yalnızca Joan of Arc Adora
+TowerPetMonkeyAceDragonflyName,Pilot Maymun Yusufçuk Evcil Hayvanı
+TowerPetMonkeyAceDragonflyShortName,Pilot Yusufçuk Evcil Hayvanı
+TowerPetMonkeyAceDragonflyDescription,"Pilot Maymunun çevik evcil hayvanı yusufçuk, uçak pistini Pilotun zafer kazanmış dönüşüne hazırlamak için pisti hızla turlar."
+BloonsDDTSkinSpiderName,Örümcek DDT
+BloonsDDTSkinSpiderShortName,Örümcek DDT
+BloonsDDTSkinSpiderDescription,DDT’ye parkurdan tüyen bir örümcek görünümü verir. Şimdi onu görüyorsun ... Şimdi Oyun Bitti! Sınırlı Süreli Koleksiyoncu Eşyası!
+CoopEmoteAnimationPsighName,Psişik İç Çekme Emojisi
+CoopEmoteAnimationPsighShortName,Psişik İç Çekme
+CoopEmoteAnimationPsighDescription,"Bu Psişik İç Çekme, telepatik olarak hayal kırıklığı, rahatsızlık ve vazgeçme duygularının üstü kapalı bir kombinasyonunu taşır. Seni görüyoruz Oyuncu 3."
+GameUIProfileBanner17Name,Büyük Usta Ninja Profil Afişi
+GameUIProfileBanner17ShortName,Büyük Usta Ninja Afişi
+GameUIProfileBanner17Description,"LordTeddington, Afiş galibi"
+GameUIProfileBanner18Name,Mühendis Köpüğü Profil Afişi
+GameUIProfileBanner18ShortName,Mühendis Köpüğü Afişi
+GameUIProfileBanner18Description,"DREAD_LEAD, Afiş galibi"
+GameUIPowerSkinGlueTrapHoneyTrapName,Özel Güç - Bal Arısı Yapışkan Tuzağı
+GameUIPowerSkinGlueTrapHoneyTrapShortName,Bal Arısı Tuzağı
+GameUIPowerSkinGlueTrapHoneyTrapDescription,"Arılarla kaplandığında, bir Bloon bile yavaşlar!"
+GameUIPowerSkinBananaFarmerBananaCostumeName,Özel Güç - Muz Yetiştiricisi Muz Kostümü
+GameUIPowerSkinBananaFarmerBananaCostumeShortName,Muz Yetiştiricisi Kostümü
+GameUIPowerSkinBananaFarmerBananaCostumeDescription,"Çok fazla muz diye bir şey var mıdır? “Hayır, olamaz!” der Muz Yetiştiricisi. Muz yetiştiriciliğini biraz daha muzlaştırmak için Muz Yetiştiricisi muz kostümünü al."
+GameUIProfileAvatar63Name,Özel Avatar - Çığlık
+GameUIProfileAvatar63ShortName,Çığlık Avatarı
+GameUIProfileAvatar63Description,Yalnızca çılgın bir maymun tarafından yapılmış olabilir. Sınırlı Süreli Koleksiyoncu Eşyası!
+GameUIProfileBanner19Name,Yamalı Örtü Profil Afişi
+GameUIProfileBanner19ShortName,Yamalı Örtü Afişi
+GameUIProfileBanner19Description,Bir kupa kakao ile bir yamalı örtünün altına kıvrıl… Ya da sadece bu keyifli afişi donan.
+GameUIProfileBanner20Name,Güneş Işınları Profil Afişi
+GameUIProfileBanner20ShortName,Güneş Işınları Afişi
+GameUIProfileBanner20Description,Bu güneşli afiş ile o parlak stratejik zekânı çok daha fazla göster.
+GameUIProfileBanner21Name,Yıldız Yağmuru Profil Afişi
+GameUIProfileBanner21ShortName,Yıldız Yağmuru Afişi
+GameUIProfileBanner21Description,"Bazılarının inanışına göre, yıldızlar öylesine devasa gaz toplarıdır ki, yoğun yer çekimleri, çekirdeklerinin derinliklerinde bulunan nükleer füzyonu harekete geçirir. Tüm bildiğimiz güzel ve parıltılı oldukları."
+GameUIProfileBanner22Name,Perili Koridor Profil Afişi
+GameUIProfileBanner22ShortName,Perili Koridor Afişi
+GameUIProfileBanner22Description,Perili Koridor Profil Afişi ile profilini ürkütücü hale getir. Cadılar Bayramını paylaşmak veya kutlamak için tekinsiz tırnak izleri ve kederli portreler. Sınırlı Süreli Koleksiyoncu Eşyası!
+GameUIProfileAvatar64Name,Özel Avatar - Maymun Beyinleri
+GameUIProfileAvatar64ShortName,Maymun Beyinleri Avatarı
+GameUIProfileAvatar64Description,"Yıpranmış bandajlara sarılı bir çökmüş figür, biraz lezzetli BEYİNLERE doğru uzanıyor!!! Sınırlı Süreli Koleksiyoncu Eşyası!"
+TeamsBanner7Name,Evcil Hayvan Çılgınlığı Afişi
+TeamsBanner7ShortName,Evcil Hayvan Çılgınlığı Afişi
+TeamsBanner7Description,Bu tuhaf bir evcil hayvan partisi! Bloons TD 6 evcil hayvanlarını kutlamak için bu afişi donan!
+TeamsBanner8Name,Çekişmeli Bölge Afişi
+TeamsBanner8ShortName,Çekişmeli Bölge Afişi
+TeamsBanner8Description,Altıgen karoları ele geçirme konusundaki kararlılığını göstermek için bu afişi donan. Kırmızı karşısında Mavi hiç bu kadar güzel durmamıştı.
+TeamsEmblemIcon13Name,Kung Fu Kiwi Simgesi
+TeamsEmblemIcon13ShortName,Kung Fu Kiwi Simgesi
+TeamsEmblemIcon13Description,"En sevdiğin, uçmayan kuştan gelen bir uçan tekme ile rakiplerini şaşırt."
+TeamsEmblemIcon14Name,Her Şeyi Gören Göz Simgesi
+TeamsEmblemIcon14ShortName,Her Şeyi Gören Göz Simgesi
+TeamsEmblemIcon14Description,"Bu takım simgesini donan ki, rakiplerin attıkları her adımdan tereddüt etsin."
+TeamsEmblemFrame10Name,Ninja Kaydırma Çerçevesi
+TeamsEmblemFrame10ShortName,Ninja Kaydırma Çerçevesi
+TeamsEmblemFrame10Description,"Takımının, kadim Ninja sanatına olan bağlılığını gösterecek bir çerçeve."
+TeamsEmblemFrame11Name,Bilgi Çerçevesi
+TeamsEmblemFrame11ShortName,Bilgi Çerçevesi
+TeamsEmblemFrame11Description,"Bilgi Çerçevesi sayesinde, Takımının üstün Bloon patlatma bilgisini aktar."
+BasePropPirateCrewMonkeyName,Korsan Mürettebatı
+BasePropPirateCrewMonkeyShortName,Korsan Mürettebatı
+BasePropPirateCrewMonkeyDescription,Vaayy! Çekişmeli Bölgeler merkezine hoş geldin kerata ve diğer Takımların ayakları birbirine dolanacak. [Ada Yuvası]
+BasePropTelescopeName,Kırılmalı Teleskop
+BasePropTelescopeShortName,Kırılmalı Teleskop
+BasePropTelescopeDescription,"Evrenin harikalarını gözlemle ya da sadece rakip Takımların, zafere giden yola casuslukla ulaştığını düşünmelerini sağla. [Ada Yuvası]"
+BuildingPropCastleName,Güçlendirilmiş Şato Binası
+BuildingPropCastleShortName,Güçlendirilmiş Şato Binası
+BuildingPropCastleDescription,"Adana hükmet ve bu muhteşem, önemli orta çağ parçasıyla diğer Takımların, merkezine bağlılık yemini etmelerini sağla. [Ana Bina Yuvası]"
+WaterPropMiniPirateBoatName,Mini Korsan Teknesi
+WaterPropMiniPirateBoatShortName,Mini Korsan Teknesi
+WaterPropMiniPirateBoatDescription,"Diğer Takımlar karolarını almanı izlerken, bu yüce mini tekneyi kullanarak onların hazinelerini çaldığını öğrenmelerini sağla. [Su Yuvası]"
+FlyingPropMoonRabbitName,Ay Tavşanı
+FlyingPropMoonRabbitShortName,Ay Tavşanı
+FlyingPropMoonRabbitDescription,Çekişmeli Bölgeler tamamen ele geçirmekle ilgilidir ve bu sevimli Ay Tavşanı herkesin hayal gücünü harekete geçirecek. [Hava Yuvası]
+Deselect,Seçimi Kaldır
+CTDailyTitle,Günlük Bonus
+CTDailySubtitle,Bugünkü Oyuncu Biletleri
+CTDailyDescription,Bir Karoyu ele geçirmek için bir Oyuncu Bileti kullanıldığında
+CTDailyTrophies,Günlük Bonus Ganimetler
+TileRecap,Karoyu Tekrar Ele Geçirme
+PlusCTPoints,+{0} ÇB Puanı
+CTRulesInfoSubtitle,"Çekişmeli Bölgelere Hoş Geldin! Takımınla birlikte çalış, Karoları ele geçir, lider tablolarında zirveye çık ve harika ödüller kazan!"
+CTRulesInfoSectionOne,• Ele Geçirme Biletleri yalnızca bir Karo ele geçirdiğinde kullanılır. Her 24 saatte bir yenilenirler.
+CTRulesInfoSectionTwo,"• Kullanılmamış Ele Geçirme Biletleri, ertesi gün diğer Takım üyeleri tarafından kullanılabilen Bilet havuzuna gönderilir. Takım biletleri, lider tablosundaki kişisel yerleşime katkıda bulunmaz."
+CTRulesInfoSectionThree,"• Ele geçirildikten sonra, ta ki Karo tarafsız olana dek, Karo skorları zaman geçtikçe yavaşça azalır."
+CTRulesInfoSectionFour,"• ÇB Puanları bir Karo ele geçirildiğinde ve bir Karoyu tutmaya devam ettiğin her saat başı kazanılır. ÇB Puanları lider tablosundaki kişisel yerleşimini ve Takım yerleşimini belirler; bu nedenle, Karoları elinden geldiğince sık ele geçir!"
+CTRulesInfoSectionFive,"• Afiş Karoları çok daha fazla ÇB Puanı kazandıran, daha zorlu Karolardır."
+CTRulesInfoSectionSix,"• Yadigâr Karosu sayesinde takımın, Karoları ele geçirirken sana yardımcı olacak güçlü Yadigâr Bilgilerine erişir."
+CTRulesInfoSectionSeven,• Her 20 turda bir Karo ilerlemesi kaydedilir ve her seferinde yalnızca bir ilerleme kaydedilebilir.
+TeamTrophyStoreRulesInfoSubtitle,"Burası; kilitli ÇB Yadigârlarını seçebileceğin, Günlük Güçleri, Etkinlik Yadigârlarını ve Takım Becerisini finanse ettiğin Takım Ganimet Mağazası."
+TeamTrophyStoreRulesInfoSectionOne,• ÇB etkinliği sırasında her gün Günlük Güçleri açabilirsin ve finanse edildikten sonra o gün tüm Takım tarafından kullanılabilirler.
+TeamTrophyStoreRulesInfoSectionTwo,"• Etkinlik Yadigârları, ÇB etkinliği boyunca kullanılabilirler ve finanse edildikten sonra söz konusu etkinliğin geri kalanında da kullanılabilirler. Bunlar, kilitli Yadigârlardan Yadigâr Karolarıyla ayrılmıştır."
+TeamTrophyStoreRulesInfoSectionThree,• Yadigâr Karolarını ele geçir ve ardından bu etkinliği kullanmak için en beğendiğin Yadigâr Bilgilerinden en fazla 4 tanesini seç. Onları istediğin zaman değiştirebilirsin.
+TeamTrophyStoreRulesInfoSectionFour,"• Takım Becerisi tüm Takım tarafından finanse edilir ve bir kez finanse edildikten sonra Takımın için kalıcı olarak açılır. Takımdan ayrılan oyuncular, Takım Becerisini beraberlerinde götüremezler."
+PlaySocialCaps,SOSYAL OYNA
+SelectCapturedRelics,En fazla 4 Ele Geçirilmiş Yadigâr seç
+NextBonusIn,Sonraki Bonusa kalan süre:
+MemberCount,Üye Sayısı
+Min,Asgari
+PrimeGamingText,Prime Gaming hediyenizi talep edin!
+GetNow,Get Now

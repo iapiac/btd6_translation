@@ -150,7 +150,7 @@ Gwendolin Level 1 Description,放火銃からの火でブルーンを爆破す�
 Gwendolin Level 2 Description,発射ごとの割る力が、少し増加。
 Gwendolin Level 3 Description,炎のカクテル：引火性の液体のフラスクを投げつけ、炎を通過するブルーンを燃やす。
 Gwendolin Level 4 Description,ヒートアップ：数秒ごとに強力な炎の爆風を作りだしてブルーンを割り、付近のモンキー攻撃に炎を加える。
-Gwendolin Level 5 Description,破裂パワーが増加。
+Gwendolin Level 5 Description,割る力が増加する。火の輪、信号弾、ドラゴンの息の攻撃速度と射程が10%アップ。
 Gwendolin Level 6 Description,攻撃すると、狙ったブルーンに燃焼効果を起こす。
 Gwendolin Level 7 Description,ヒートアップの半径が増加し、炎のカクテルがより効果的になった。
 Gwendolin Level 8 Description,発射ごとに、2個の火炎弾を撃つ。
@@ -163,7 +163,7 @@ Gwendolin Level 14 Description,炎のカクテルが追加ダメージを与え�
 Gwendolin Level 15 Description,攻撃速度が増加。
 Gwendolin Level 16 Description,火の嵐の期間が増加し、与えるダメージが増える。紫のブルーンのグウェンドリンの攻撃に対する耐性がなくなる。
 Gwendolin Level 17 Description,ヒートアップの影響を受けたモンキーは、追加で一層割れるようになり、また鉛ブルーンに対し+2のダメージを与えられるようになる。
-Gwendolin Level 18 Description,攻撃速度が増加。
+Gwendolin Level 18 Description,攻撃速度が増加する。火の輪、信号弾、ドラゴンの息の攻撃速度と射程が20%アップ。
 Gwendolin Level 19 Description,発射ごとに、3個の火炎弾を撃つ。
 Gwendolin Level 20 Description,火の嵐の与えるダメージが大幅に増加。
 ,
@@ -232,11 +232,11 @@ ObynGreenfoot Level 20 Description,木の壁が、もっとたくさんのブル
 ,
 Ezili Level 1 Description,エジーリが、闇のブードゥーパワーでブルーンに呪いをかける。
 Ezili Level 2 Description,攻撃範囲が拡大。
-Ezili Level 3 Description,ハートストッパー：6秒の間、再増殖型の発生を防ぐ。
+Ezili Level 3 Description,ハートストッパー：ブルーンの動きが遅くなり、紫を割れるようになり、再増殖の発生を10秒間防ぐ。
 Ezili Level 4 Description,エジーリのメイン攻撃が、複数のブルーンを呪うようになる。
 Ezili Level 5 Description,攻撃速度が増加。
 Ezili Level 6 Description,時間経過ダメージの期間とダメージ持続時間が増える。
-Ezili Level 7 Description,いけにえのトーテム：付近のモンキーに、カモフラージュ検知、さらなる貫通、攻撃範囲、攻撃スピードを与えるトーテム。10個のライフを消費する。
+Ezili Level 7 Description,いけにえのトーテム：付近のモンキー、特に魔法使いモンキーに、カモフラージュ検知、貫通力、攻撃範囲、攻撃速度、発射速度アップの効果をもたらすトーテム。ライフを10消費する。
 Ezili Level 8 Description,エジーリの攻撃はMOAB級ブルーンよりはるかに大きなダメージを与える。
 Ezili Level 9 Description,イージーリの攻撃は、迷彩、再増殖型、および非MOABクラスのブルーンからの武装プロパティを取り除きます。
 Ezili Level 10 Description,MOABヘックス：MOAB級ブルーンの一つに呪いをかけ、全滅するまで一秒ごとにダメージを与える。
@@ -282,8 +282,8 @@ Rallying Roar Ability Description,短時間の間、付近のモンキー全員�
 Big Squeeze Ability Description,MOAB、BFB、DDT（見える場合）またはZOMGをつかみ、5秒間粉々に砕いてしまう。
 Brambles Ability Description,50個のブルーンを割れるトゲの茂みをトラック上に作り出す。
 Wall of Trees Ability Description,通過する全てのブルーンを破壊してくれる木の壁をトラック上に召喚する。一杯になると、木々は破裂してお金になる。
-Heartstopper Ability Description,6秒間に再増殖型が起こらないようにします。
-Sacrificial Totem Ability Description,迷彩の検出、さらなる貫通度、攻撃範囲、攻撃速度、発射速度を近くのモンキーに与えるトーテム。 10ライフ減少。
+Heartstopper Ability Description,紫を割れるようになり、再増殖の発生を10秒間防ぐ。
+Sacrificial Totem Ability Description,付近のモンキー、特に魔法使いモンキーに、カモフラージュ検知、貫通力、攻撃範囲、攻撃速度、発射速度アップの効果をもたらすトーテム。ライフを10消費する。
 MOAB Hex Ability Description,MOAB級ブルーンに呪いをかけると、消滅するまで毎秒ダメージを受ける。
 ,
 //Hero Misc,
@@ -694,7 +694,7 @@ Long Range Darts Description,ダーツモンキーが\n通常より遠くまで�
 Razor Sharp Shots Description,一発ごとに2個多く\nブルーンを割れる。
 Very Quick Shots Description,発射速度が33％アップ！
 Enhanced Eyesight Description,さらに遠くまで発射\nでき、カモフラージュを探知できる。
-Spike-o-pult Description,ダートモンキーをスパイクでつぶせ！に変換し、ダーツでなくて大きなスパイクボールを投げられるようになる。なかなかの飛距離だが、攻撃速度は遅い。ボール一個でたくさんのブルーンを割ることができ、障害物から跳ね返ることができる。
+Spike-o-pult Description,ダーツモンキーが攻撃の遅いスパイクでつぶせ！に変わり、大きなトゲつきボールを投げる。投げたボールはたくさんのブルーンを割り、障害物に当たると跳ね返る。
 Triple Shot Description,一度に一本でなく三本のダーツを投げる。
 Crossbow Description,命中するたびにブルーンを3層分割れる、長距離クロスボウを使う。
 Juggernaut Description,鉛と陶器ブルーンの粉砕に効果的な、巨大なスパイク付きボールを投げつける。
@@ -756,7 +756,7 @@ Permafrost Description,解凍後もブルーンの動きを遅らせる。
 Enhanced Freeze Description,高速攻撃を行い、凍結時間も長くなる。
 Larger Radius Description,凍結エリアが広くなる。
 Metal Freeze Description,鉛とカモフラージュブルーンを凍結して割れる。
-Deep Freeze Description,ブルーン2層分を凍結する。
+Deep Freeze Description,もう1層余計に凍らせ、フリーズの持続時間を延ばす。
 Re-Freeze Description,既に凍結しているブルーンを、再凍結できる。
 Ice Shards Description,凍結ブルーンが割れると剃刀のように鋭い破片が飛び散る。
 Arctic Wind Description,貫通度を大きく上げて、近寄るブルーンの動きを遅らせるとても冷たいオーラを取得する。
@@ -798,13 +798,13 @@ Supply Drop Description,供給品ドロップ能力：箱に一杯のキャッ�
 Full Auto Rifle Description,信じられないほどの破裂パワーがある完全自動式の武器。
 Cripple MOAB Description,打撃をういけたMOABがより長い時間動けなくなり、全てのほかの攻撃から追加ダメージを受ける。
 Elite Sniper Description,供給品ドロップで投下されるキャッシュが増える。全てのスナイパーに、エリート照準プリオとより速いリロードを与えてくれる。
-Elite Defender Description,ライフが一つ失われると、短時間の間、このスナイパーに報復として4倍の攻撃速度が与えられる。また、ブルーンがトラックに沿っているほど、攻撃がより速く遠くまで到達する。MOAB級ブルーンにより大きなダメージを与える。
+Elite Defender Description,発射速度がものすごく速くなる。ブルーンがトラックの遠くにいるほどもっと速くなる。ライフを失うと、一定時間攻撃速度が4倍になる。MOAB級ブルーンにより大きなダメージを与える。
 ,
 Longer Range Description,攻撃距離を増やす。
 Barbed Darts Description,潜水艦のダーツが、追加で3個のブルーンを割れる。
 Twin Guns Description,ツインガンを追加すると攻撃スピードが2倍に。弾道ミサイルとブルーントニウム炉を増強する。
 Advanced Intel Description,ほかのタワーの半径内のブルーンを遠くから狙えるようになる。
-Heat-tipped Darts Description,加熱ダーツが命中すると3つに分裂し、巨大な破裂パワーとなる。
+Heat-tipped Darts Description,先を加熱したダーツにより、モンキー潜水艦が凍ったブルーンと鉛ブルーンを割れるようになる。
 Airburst Darts Description,エアバースト・ダーツは当たると3つに分裂し、巨大な破裂パワーを発する。ブルーントニウム炉をさらに増強する。
 Submerge and Support Description,潜水中は攻撃しないが、半径内のカモフラージュブルーンを永久的に見えるようにする潜水照準オプションを加える。
 Ballistic Missile Description,範囲内の標的を探し、追加のMOABおよぼ後期ダメージを与える。
@@ -826,7 +826,7 @@ Buccaneer-Destroyer Description,スーパー素早い攻撃！
 Buccaneer-Cannon Ship Description,パワフルな爆弾を発射するパワフルな大砲を追加する。
 Buccaneer-Merchantman Description,各ラウンドで自動的にキャッシュを作り出す。
 Buccaneer-Aircraft Carrier Description,ブルーンを機銃掃射する戦闘機団を発動し、MOAB級ブルーンにミサイルを発射する。
-Buccaneer-Monkey Pirates Description,船に2台の大砲と、もっとダメージを与える大砲攻撃を追加する。MOABテイクダウン能力：MOAB級ブルーンにもりを投げつけて倒す。
+Buccaneer-Monkey Pirates Description,船に2台の大砲が追加され、攻撃で与えるダメージが増加する。MOABテイクダウンアビリティ：MOAB級ブルーンにモリを投げて倒す。
 Buccaneer-Favored Trades Description,より高速攻撃を行い、ラウンドごとにたくさんのお金を生成する。半径内のモンキーの販売価値が上がる。
 Buccaneer-Carrier Flagship Description,追加ダメージを与える。船の上方の甲板にモンキーを配置でき、全ての水ベースのモンキーとモンキーエースの攻撃速度をアップする。
 Buccaneer-Pirate Lord Description,全ての攻撃速度が大幅に上がり、一度に3つの四爪錨を撃ち、MOAB級ブルーンを倒すと、それぞれから追加のキャッシュを略奪する。
@@ -874,11 +874,11 @@ Shockwave Description,爆発衝撃波が命中時にブルーンをマヒさせ�
 Heavy Shells Description,頑丈な炸裂弾が陶器、鉛、そして全ての強化ブルーンに対し追加ダメージを与える。黒ブルーンを割ることもできる。
 Signal Flare Description,閃光で割られたカモフラージュブルーンが、永久にカモフラージュを失う。
 The Big One Description,破滅的な爆発がブルーンを7層分割り、バーニースタッフのダメージをさらに増やす。
-Artillery Battery Description,砲撃能力：わずかに広いエリアで急速発射攻撃を発動する。主攻撃がとても高速の3バレルにアップグレードされる。
+Artillery Battery Description,爆撃アビリティ：やや広めのエリアに速射攻撃を行う。メイン攻撃はBADとボスブルーンにより大きなダメージを与え、銃身が3つにアップグレードされてとても攻撃がものすごく速くなる。
 Shattering Shells Description,散らばる殻は、最大のブルーン以外のすべての特別なブルーンの特性を取り除きます。
 The Biggest One Description,巨大な地域でブルーンを深い層まで爆破するほか、バーニースタッフの強力なダメージをもたらす。
-Pop and Awe Description,割って恐べし能力：スクリーン全体に爆発し、数秒間、すべてのブルーンを割って固定する。
-Blooncineration Description,とても熱いバーニースタッフが、ショットごとにブルーンを5層分溶かしてくれる。MOAB級のブルーンも燃やして追加ダメージを与え、DDT迷彩を取り除く。
+Pop and Awe Description,ポップと畏怖アビリティ：画面全体に爆発の雨を降らせし、すべてのブルーンにダメージを与え、数秒間動けなくする。すべての集中砲火はBADとボスブルーンにより大きなダメージを与える。メイン攻撃はスタンしたブルーンに追加のボーナスダメージを与える。
+Blooncineration Description,超ホットなウサギのぬいぐるみがショットごとにブルーンを5層分溶かし、MOAB級ブルーンも燃やして追加ダメージを与える。
 ,
 Focused Firing Description,ダートリング砲の精度が上がる。
 Advanced Targeting Description,ダートリング砲手が迷彩ブルーンを打てるようになる。
@@ -918,7 +918,7 @@ Super Range Description,スーパーモンキーには、スーパーレンジ�
 Knockback Description,命中するごとにブルーンを後退、そして遅延させる。
 Plasma Blasts Description,プラズマは触れるもの全てを蒸発させる。
 Epic Range Description,壮大なものを入手できるのに、なぜスーパー級で妥協するの？
-Ultravision Description,スーパーモンキーが少し遠くまで射撃できるようになり、カモフラージュブルーンも見えるようにする。
+Ultravision Description,スーパーモンキーの射撃が少し遠くまで届くようになる。また、カモフラージュブルーンが見えるようになり、与えられるダメージも増加する。
 Sun Avatar Description,太陽の核からの力をチャネリング。
 Robo Monkey Description,スーパーモンキーの半分、イコール、死のキラーロボットの半分。一度に二丁の銃を撃ち、クリティカルにできる。
 Dark Knight Description,ダークブレードはノックバックと貫通を大きくして、MOAB級ブルーンに追加ダメージを与える。近くのロケーションに移動するダークシフト能力を得る。
@@ -951,7 +951,7 @@ Acid Pool Description,付近にブルーンがない場合は、錬金術師は�
 Acidic Mixture Dip Description,鉛のブルーンを破裂させ、セラミックとMOAB級ブルーンに追加ダメージを与えるのに役に立つポーションを、近くのモンキーに投げ与える。数回の攻撃の後、消滅する。
 Perishing Potions Description,攻撃ポーションがMOAB級ブルーンにより大きなダメージを与え、小さめのブルーンの強化を除去する。醸造酒や刺激剤もを強化する。
 Alchemist Faster Throwing Description,ポーションを投げ、より早く攻撃する。
-Berserker Brew Description,この特製醸造品は、モンキーに追加ダメージ、距離、そして攻撃速度を与える。長持ちする。
+Berserker Brew Description,近くのモンキーに特製のお酒を投げる。ダメージ、範囲、攻撃速度がアップする。
 Unstable Concoction Description,MOAB級ブルーンの表面を爆破材で覆い、割れると大きな爆破を引き起こす。
 Lead to Gold Description,鉛のブルーンを金に替える！特別な溶液が鉛のブルーンに追加ダメージを与えて、1発で破壊してキャッシュを生み出す。
 Stronger Stimulant Description,強めのバーサーカーの醸造酒で、標的にもっとパワフルな効果をもたらす。さらに長持ち。
@@ -1870,7 +1870,7 @@ RapidRazorsDescription,回転剃刀がもっと速くブルーンを割るよう
 BudgetBattery,予算集中砲火
 BudgetBatteryDescription,大砲集中砲火のコストが600下がる。
 PaintStripper,ペンキ剥離剤
-PaintStripperDescription,迫撃砲の強烈な炸裂弾が、DDTブルーンのカモフラージュを取り去る。
+PaintStripperDescription,迫撃砲の強烈な炸裂弾が、DDTブルーンの強化を取り除く。
 CheaperMaiming,お買い得マイム
 CheaperMaimingDescription,マイムMOABのコストが1000下がる。
 ChargedChinooks,チャージ済みチヌーク
@@ -2639,17 +2639,17 @@ Adora Level 5 Description,聖なる稲妻がより多くのブルーンを貫通
 Adora Level 6 Description,一度に3個の聖なる稲妻を発射する。
 Adora Level 7 Description,血の犠牲：ターゲットしたタワーを犠牲にすることで、アドラに大量のXPが与えられるほか、短い間、攻撃範囲と発砲率がブーストされる。
 Adora Level 8 Description,一度に4個の聖なる稲妻を発射する。
-Adora Level 9 Description,攻撃範囲が拡大する。
+Adora Level 9 Description,攻撃範囲が広がり、強化ブルーンへのダメージが増加する。
 Adora Level 10 Description,光の玉：ブルーンを攻撃するパワフルなエネルギー玉を召喚する。
 Adora Level 11 Description,アドラの攻撃速度がアップ。
 Adora Level 12 Description,一度に5個の聖なる稲妻を発射する。
-Adora Level 13 Description,聖なる稲妻がさらに多くのブルーンを貫通する
+Adora Level 13 Description,聖なる稲妻がより多くのブルーンを貫く。強化ブルーンへのダメージが増加する。
 Adora Level 14 Description,一度に6個の聖なる稲妻を発射する。
 Adora Level 15 Description,聖なる稲妻が貫通するブルーンの層が一層増え、光の玉が与えるダメージが大きくなる。
 Adora Level 16 Description,長い光の尾が、もっと致命的になる。
 Adora Level 17 Description,アドラの攻撃速度がさらにアップ。
 Adora Level 18 Description,一度に8個の聖なる稲妻を発射する。
-Adora Level 19 Description,攻撃範囲が拡大する。
+Adora Level 19 Description,攻撃範囲が広くなる。強化ブルーンへのダメージが増加する。
 Adora Level 20 Description,光の玉が大幅に改善され、発射率、射程、犠牲からのバフの持続時間が増加する。
 Carved,ハロウィン風彫刻
 BloodyPuddles,うざい泥沼
@@ -2701,7 +2701,7 @@ WolfpackQuincySkinName,オオカミの群れクインシー
 WolfpackQuincySkinDescription,ハンターたちが皆強く、そして群れはさらに強かったいにしえの野生の時代の名残、その名もクインシー、クインシーの先祖。
 Infernal,地獄的
 DownloadButton,ダウンロード
-DownloadDescription,追加ファイルをダウンロード中です。Wi‐Fiを推奨します。データサイズは{0}MB
+DownloadDescription,プレイする前に、アップデートしたファイルが必要です。WiFiを推奨します。データサイズ {0}MB
 ViewCollectionButton,コレクションを見る
 ViewInventoryButton,インベントリを見る
 CollectionDescription,インスタモンキーは使用後もコレクションに表示される。
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,[I]で範囲内にダークシフト
 DarkChampionDarkshift,[I]で任意の有効な場所にダークシフト
 SmallTowersMode,スモールモンキータワー
 BigTowersMode,ビッグモンキータワー
-UpdatePopupTitle,アップデート32！
-UpdatePopupDescription,対戦テリトリーのエピックアップデート！\n• 超ビッグな新イベント：対戦テリトリー - 他のチームからタイルを奪ってランキングを制しよう！\n• チーム！友達を集めて最強のチームを作り、対戦テリトリーを制覇しよう\n• 新パラゴン：マスタービルダー\n• 新ヒーロースキン：ヴォイドラ\n• 新中級マップ：採石場\n• トロフィーストアのアイテム、QOLの改善、バランス調整など、盛りだくさんの内容です！
+UpdatePopupTitle,アップデート33！
+UpdatePopupDescription,大型コンテンツアップデート！\n• 素晴らしいゴリアテのドゥームシップ、モンキーエースパラゴンが登場！\n• 中級マップの覆われた庭園でブルーンを割る力を養おう！コミュニティマップのコンテスト優勝者、SuperPsouさんによるデザインです。\n• 新しい不気味な上級マップ、ミッドナイトマンションの廊下で心霊体験？\n• 他にもトロフィーストアのアイテム、QOLの向上、バランス調整など盛りだくさん！
 ResetDailyChest,日替わり宝箱をリセット
 JukeboxName,ジュークボックス
 EnableFunction,有効化
@@ -4416,11 +4416,11 @@ GameUIProfileAvatar59Description,彼の目がハートになってるのが分�
 GameUIProfileAvatar60Name,ストライカ・ージョーンズのアバター
 GameUIProfileAvatar60ShortName,ストライカ・ージョーンズのアバター
 GameUIProfileAvatar60Description,ストライカー・ジョーンズが出勤！お気に入りのショルダーローンチモンキーからの挨拶で、君の勝利への心構えを見せつけよう。
-GameUIProfileBanner13Name,到着バナー
-GameUIProfileBanner13ShortName,到着プロフィールバナー
+GameUIProfileBanner13Name,到着プロフィールバナー
+GameUIProfileBanner13ShortName,到着バナー
 GameUIProfileBanner13Description,バナー入選者betapotata作
-GameUIProfileBanner14Name,水面下バナー
-GameUIProfileBanner14ShortName,水面下プロフィールバナー
+GameUIProfileBanner14Name,水面下プロフィールバナー
+GameUIProfileBanner14ShortName,水面下バナー
 GameUIProfileBanner14Description,バナー入選者Cyliia作
 GameUIMusicTrackMusicSunshineFiestaMixName,ジュークボックス：サンシャインセレナーデ‐フィエスタミックス
 GameUIMusicTrackMusicSunshineFiestaMixShortName,サンシャイン‐フィエスタ
@@ -4591,7 +4591,7 @@ TeamBannersTitle,バナー
 TeamGeneralTitle,一般
 TeamSettingPublicTitle,公開
 TeamSettingPrivateTitle,非公開
-TeamSettingClosedTitle,クローズド
+TeamSettingClosedTitle,招待限定
 TeamJoin,参加
 TeamApply,申請
 RecentWin,最近の勝利：
@@ -4603,8 +4603,8 @@ Tile,タイル：{0}
 RelicTile,レリックタイル
 BannerTile,バナータイル
 BonusCTPoints,ボーナスCTポイント！
-DailyRelics,日替わりレリック
-HeldRelics,保持されたレリック
+DailyRelics,デイリーパワーとイベントレリック
+HeldRelics,制圧したレリック
 Tickets,チケット：
 PurchaseTickets,チケット購入
 MoreTicketsIn,チケット追加まで：
@@ -4731,7 +4731,7 @@ RelicExtraEmpoweredDescription,ヒーローが3レベル上がった状態でゲ
 RelicBoxOfChocolatesDescription,ライフを100多く持った状態で毎回のゲームを開始する
 RelicBoxOfMonkeyDescription,無償のモンキーを1匹持った状態で毎回のゲームを開始し、これにより、変更前の初期配置の費用が多くても$500になる
 RelicMarchingBootsDescription,カウント制限のあるゲームで、ロードアウトの各タワーの最大カウントが+1、または1ゲームごとのカウント上限が+4される
-RelicHeroBoostDescription,"ヒーローが毎回のゲームで10%早くXPを獲得する"
+RelicHeroBoostDescription,ヒーローが毎回のゲームで15%早くXPを獲得する
 RelicBiggerBloonSabotageDescription,MOAB級ブルーンが全てが、ライフ-15%、スピード-5%の状態で出現するようになる。
 RelicRoundingUpDescription,ラウンドが終了するたびに、追加で20ドルを獲得する
 RelicManaBulwarkDescription,最大で50ライフ分のライフを吸収するシールドを張る（レギュラータイルの「マナシールド」と重複可能）
@@ -4745,11 +4745,11 @@ RelicRoyalTreatmentDescription,すべての攻撃が紫ブルーンを割れる�
 RelicHardBakedDescription,すべての攻撃が陶器ブルーンに与えるダメージ+1
 RelicFortifriedDescription,すべての攻撃が強化ブルーンに与えるダメージ+1
 RelicMoabClashDescription,すべての攻撃がMOAB級ブルーンに与えるダメージ+3
-RelicCamoFloggedDescription,すべての攻撃がカモフラージュブルーンに与えるダメージ+1
+RelicCamoFloggedDescription,すべての攻撃がカモフラージュブルーンに与えるダメージ+3
 RelicBrokenHeartDescription,すべての攻撃が再生ブルーン に与えるダメージ+1
-RelicGoingTheDistanceDescription,全モンキーの射程+10%
+RelicGoingTheDistanceDescription,全モンキーの射程+20%
 RelicHeartlessDescription,再生ブルーンの再生ペース-25%
-RelicFlintTipsDescription,シャープな投射物がダメージを与えたすべてのブルーンに火の点を追加する（2秒ごとに1ダメージ、計4秒間）
+RelicFlintTipsDescription,シャープな投射物がダメージを与えたすべてのブルーンに火の点を追加する（2.5秒ごとに1ダメージ、計5秒間）
 RelicAbilitizedDescription,すべてのモンキーが発動させた全アビリティのクールダウン-10%
 RelicAirAndSeaDescription,エース、ヘリ、バッカニア、潜水艦の設置とアップグレードにかかるコスト-10%、リロードが+5%改善
 RelicElDoradoDescription,勝利したゲームの報酬として得られるMonkey Moneyとチームトロフィーの全てが+25%（最小+1）
@@ -4758,7 +4758,7 @@ RelicMonkeyShieldMark2Description,制圧してから2時間の間、タイルが
 RelicMonkeyShieldMark3Description,制圧してから3時間の間、タイルが相手チームに攻撃されなくなる。スコアが更新されると、タイマーがもとに戻る。
 RelicPsiVisionDescription,マップ上のすべてのタイルの詳細を確認する
 RelicOpenSeasonDescription,マップ上の任意のタイルを攻撃する
-RelicCamoTrapDescription,パワーアップ「カモフラージュトラップ」を1ゲームにつき2回使えるようになる
+RelicCamoTrapDescription,ゲームごとにカモフラージュのトラップのパワーアップを1回使用できる
 RelicThriveDescription,パワーアップ「スライブ」を1ゲームにつき2回使えるようになる
 RelicSuperMonkeyStormDescription,パワーアップ「SMS」を1ゲームにつき2回使えるようになる
 RelicMonkeyBoostDescription,モンキーブーストを1ゲームにつき3回使えるようになる
@@ -4795,7 +4795,7 @@ TeamBrowserTitle,チームブラウザ
 TeamBrowserSearchField,チーム名を入力…
 TeamBrowserSearchHideFull,満員のチームを非表示
 TeamBrowserSearchHidePrivate,非公開チームを非表示
-TeamBrowserSearchHideClosed,クローズドチームを非表示
+TeamBrowserSearchHideClosed,招待限定のチームを非表示にする
 TeamEditApplyAll,すべて適用
 TeamScore,スコア：{0}
 TeamRemoveMember,本当にこのメンバーを除外してよろしいですか？
@@ -4824,7 +4824,7 @@ TeamMateSetScore,チームメイトが新スコアを記録しました！
 AnotherTeamSetScore,別のチームが新スコアを記録しました！
 FriendScreenErrorTeamInviteAlreadyMember,このプレイヤーはすでにチームにいます
 TotalTeamScore,チームスコア
-CTRulesInfo,対戦テリトリーへようこそ！チームと力を合わせてタイルを制圧し、ランキングの上位に入って立派な報酬をゲットしましょう！\n\n• 制圧チケット(CT)はタイルを制圧する場合しか使えません。CTは24時間ごとにリフレッシュされます。\n• 未使用の制圧チケットはチケットのプールに移動し、翌日に他のチームメンバーが使えるようになります。\n• 制圧すると、タイルスコアは少しずつ減っていき、24時間後に中立状態になります。\n• タイルを制圧するとCTポイントを獲得し、また、タイルを1時間保持するたびにポイントを獲得できます。CTポイントで個人とチームのランキングの順位が決まるので、できるだけたくさんのタイルを制圧しましょう！\n• バナータイルは難易度が高いタイルで、もっとたくさんのCTポイントが得られます。\n• レリックタイルを制圧すると、チーム全員が他のタイルの制圧に役立つ強力なレリック知識を利用できるようになります。\n• タイルの進行状況は20ラウンドごとに保存されます。なお、進捗データは一度に1つしか保存できません。\n• チームトロフィーストアで気に入ったレリックに投票し、ゲーム開始前のページでバトルに持ち込む特定のレリックを選びましょう。
+CTRulesInfo,領土争いへようこそ！チームと力を合わせ、タイルを奪い、リーダーボードのトップに登りつめ、バチボコすごい報酬をゲットしよう！\n\n• 制圧チケットは、タイルを制圧した場合にのみ使えます。24時間ごとにリフレッシュされます。\n• 未使用の制圧チケットはチケットのプールに移り、次の日に他のチームメンバーが使えるようになります。チームチケットは個人のリーダーボードの順位には影響しません。\n• 制圧されると、タイルが最終的に中立になるまで、タイルのスコアは時間の経過とともに少しずつ現象していきます。\n• タイルを制圧するとCTポイントを獲得し、タイルを保持していると1時間ごとにさらに加算されていきます。CTポイントでリーダーボードの順位（個人とチームの両方）が決まるので、できるだけ頻繁にタイルを制圧しましょう！\n• バナータイルは硬いタイルですが、より多くのCTポイントを獲得できます。\n• レリックタイルにより、タイルを制圧する際に役立つ強力なレリック知識の恩恵がチーム全員に行き渡ります。\n• タイルの進行状況は20ラウンドごとに保存されます。また、進捗に関するセーブデータは一度に1つしか保存できません。
 TeamTrophyStoreRulesInfo,こちらはチームトロフィーストアです。ここではアンロックされたCTレリックへの投票や、デイリーパワー、イベントレリック、チームフレアに出資できます。\n• CTイベントの期間中はデイリーパワーを毎日アンロックできます。出資するとその日が終わるまでチーム全体で使えます。\n• イベントレリックはCTイベントの期間中ずっと使用可能になり、出資するとイベントが終わるまで使えます。レリックタイルでアンロックできるレリックとは別物です。\n• レリックタイルを制圧し、このイベントでアンロックされたお気に入りのレリック知識に投票しましょう。上位7つのレリックのうち4つを選んで最終ロードアウトに組み込めます。\n• チームフレアはチーム全体で出資します。一度出資されると、恒久的にアンロックされて全員が使えますが、チームを抜けた場合は持ち出せません。
 TeamsBanner1Name,スペースモンキーのバナー
 TeamsBanner2Name,ヒーローチームアップのバナー
@@ -4915,22 +4915,22 @@ BasePropSatelliteShortName,移動式衛星通信車
 BasePropTortoiseShortName,部族のカメ
 BasePropBattleMonkeyShortName,バトルモンキー
 BuildingPropBattleTowerShortName,ベースタワーの建物
-BuildingPropWizardTowerDescription,この不思議なベースに出資したチームには、魔法の冒険が待っている。
-BuildingPropLighthouseDescription,こうこうと輝くこのメインベースで、チームの道を明るく照らそう。
-FlyingPropPhoenixDescription,あれは魔法使いモンキーでは？誰もがそう思っているが、こう考えたことはあるだろうか。すべての魔法使いモンキーは、生まれ変わりを待っているフェニックスかもしれないと。
-FlyingPropMiniAceDescription,このかわいらしいミニエースをチームに加え、モンキーエースに空を見張ってもらおう。
-WaterPropKrakenDescription,クラーケンを放て！このびっくりするほどキュートな大型深海生物で波を制覇せよ。
-WaterPropMiniSubDescription,潜望鏡を上げろ！ミニ潜水艦で辺りを偵察だ。
-BasePropKingDescription,ようこそ、モンキーシ…ではなく、新登場の対戦テリトリーへ！この土地は誰のものになってもおかしくありません。おまけにブルーンだらけ！ガンガン割って、チームの土地を確保しよう。
-BasePropLighthouseKeeperDescription,この賢い年よりモンキーは、昼間は灯台の世話をして、夜になると海を行く船を見守っている。
-BasePropCrashedMoabDescription,この残骸の役立つ技術については、一流の科学者モンキーたちが洗いざらい調べ終わっている。今はブルーンたちへの警告として無残な姿をさらしているだけ。
-BasePropTrainingDummyDescription,モンキー博士が太鼓判を押した、100%再利用可能な訓練用ダミー。ダーツモンキーたちの訓練に。
-BasePropCampfireDescription,肌寒い夜はキャンプファイヤーに当たって暖を取ろう。対戦テリトリーの恐怖体験や怪談を語り合うのにもぴったり。
-BasePropTotemDescription,見るからに恐ろしげなこの部族のトーテムで縄張りを守ろう。
-BasePropSatelliteDescription,この移動式衛星通信車で、情報を宇宙から直接ビーム照射。あとは出発の合図だけ！
-BasePropTortoiseDescription,部族の親戚がいるかどうかは聞かないであげよう。特にカメ以外の！
-BasePropBattleMonkeyDescription,対戦テリトリーモンキー、準備は万全！
-BuildingPropBattleTowerDescription,対戦テリトリーの冒険に乗り出すのなら、たしかな基地が必要だ。
+BuildingPropWizardTowerDescription,この不思議なベースに出資したチームには、魔法の冒険が待っている。[主要建物スロット]
+BuildingPropLighthouseDescription,こうこうと輝くこのメインベースで、チームの道を明るく照らそう。[主要建物スロット]
+FlyingPropPhoenixDescription,あれは魔法使いモンキーでは？誰もがそう思っているが、こう考えたことはあるだろうか。すべての魔法使いモンキーは、生まれ変わりを待っているフェニックスかもしれないと。[空気スロット]
+FlyingPropMiniAceDescription,このかわいらしいミニエースをチームに加え、モンキーエースに空を見張ってもらおう。[空気スロット]
+WaterPropKrakenDescription,クラーケンを放て！このびっくりするほどキュートな大型深海生物で波を制覇せよ。[水スロット]
+WaterPropMiniSubDescription,潜望鏡を上げろ！ミニ潜水艦で辺りを偵察だ。[水スロット]
+BasePropKingDescription,ようこそ、モンキーシ…ではなく、新登場の対戦テリトリーへ！この土地は誰のものになってもおかしくありません。おまけにブルーンだらけ！ガンガン割って、チームの土地を確保しよう。[島スロット]
+BasePropLighthouseKeeperDescription,この賢い年よりモンキーは、昼間は灯台の世話をして、夜になると海を行く船を見守っている。[島スロット]
+BasePropCrashedMoabDescription,この残骸の役立つ技術については、一流の科学者モンキーたちが洗いざらい調べ終わっている。今はブルーンたちへの警告として無残な姿をさらしているだけ。[島スロット]
+BasePropTrainingDummyDescription,モンキー博士が太鼓判を押した、100%再利用可能な訓練用ダミー。ダーツモンキーたちの訓練に。[島スロット]
+BasePropCampfireDescription,肌寒い夜はキャンプファイヤーに当たって暖を取ろう。対戦テリトリーの恐怖体験や怪談を語り合うのにもぴったり。[島スロット]
+BasePropTotemDescription,見るからに恐ろしげなこの部族のトーテムで縄張りを守ろう。[島スロット]
+BasePropSatelliteDescription,この移動式衛星通信車で、情報を宇宙から直接ビーム照射。あとは出発の合図だけ！[島スロット]
+BasePropTortoiseDescription,部族の親戚がいるかどうかは聞かないであげよう。特にカメ以外の！[島スロット]
+BasePropBattleMonkeyDescription,対戦テリトリーモンキー、準備は万全！[島スロット]
+BuildingPropBattleTowerDescription,対戦テリトリーの冒険に乗り出すのなら、たしかな基地が必要だ。[主要建物スロット]
 Neutral,中立
 TilesCaptured,制圧したタイル：
 CTPointsEarnt,獲得したCTポイント：
@@ -4981,16 +4981,143 @@ RewardsTop40,トップ40
 RewardsTop60,トップ60
 RewardsTopX,トップ{0}
 Rank5th,5位
-Rank6th,6日
-TeamName,チームの名前
+Rank6th,6位
+TeamName,チーム名
 CTPoints,CTポイント
-Contribute,助ける
-ContributeTrophies,トロフィーを寄付する
-ColorblindEnabled,色覚異常モードが有効になっています！
-ColorblindDisabled,色覚異常モードが無効
+Contribute,カンパする
+ContributeTrophies,トロフィーをカンパする
+ColorblindEnabled,色覚障害モードを有効化しました！
+ColorblindDisabled,色覚障害モードを無効化しました
 Local,ローカル
-KickPending,保留中の削除
-SentryParagonGreen,グリーン セントリー パラゴン
-SentryParagonRed,レッド セントリー パラゴン
-SentryParagonBlue,ブルーセントリーパラゴン
+KickPending,追放手続き中
+SentryParagonGreen,緑の見張り番パラゴン
+SentryParagonRed,赤の見張り番パラゴン
+SentryParagonBlue,青の見張り番パラゴン
 TeamManagement,チーム管理
+ERR_FEATURE_TEMPORARILY_UNAVAILABLE,アカウントにフラグが立てられているため、この機能は使えません。詳しくは、https://ninja.kiwi/ffgpd7 をご覧ください。
+PlayerWillBeRemoved,現在のCTイベントが終了すると、プレイヤーはチームから削除されます
+Epic login,Epicアカウントにログイン中…許可を確認しています
+FriendScreenErrorTeamInviteMaxInvitesSent,送った招待が上限に達したので、また後でお試しください
+CantJoinTeamFromSameCT,前回と同じCTインスタンスのチームには参加できません
+RemovedFromTeam,チームから削除されました。別のチームに参加して、再度お試しください
+TileNoLongerAccessible,そのタイルには、もうアクセスできません。CTをリフレッシュして、再度お試しください
+CTTilesHeld,所持したタイル
+CTPointsProjected,予想
+ConfirmCancelRequest,リクエストをキャンセルします。よろしいですか？
+CouchCoop,カウチ協力プレイ
+TeamTicketUsed,使用したチームチケット
+PersonalTicketUsed,使用した個人チケット
+TeamScreenCodeHidden,チームコード非表示
+ERR_ANOTHER_REQUEST_PENDING,別のリクエストがすでに保留中です
+QuickJoinSearchForTeam,参加するチームを探しています…
+QuickJoinJoiningTeam,チームに参加中…
+QuickJoinCancel,キャンセル中…
+MidnightMansion,ミッドナイトマンション
+CoveredGarden,覆われた庭園
+MonkeyAce Paragon,ゴリアテのドゥームシップ
+MonkeyAce Paragon Description,空飛ぶ闇の影がブルーンに滅びをもたらす。
+CreateOrJoinTeamLeaveFirst,すでにチームに所属しています。
+TeamMsgBannerTileLost,{0}があなたのバナータイルを制圧した。今すぐ取り戻そう！
+CTPlayerPopupNoData,CTを入力してこのデータを読み込む
+HeroesJoanOfArcAdoraPetDragonName,ジャンヌ・ダルクのドラゴンペット
+HeroesJoanOfArcAdoraPetDragonShortName,ジャンヌ・ダルクのドラゴンペット
+HeroesJoanOfArcAdoraPetDragonDescription,このゴールデンドラゴンのベビーを味方につければ毎回のゲームがどれだけ楽しくなるか、聖人でなくてもわかります。ジャンヌ・ダルクのアドラのみ
+TowerPetMonkeyAceDragonflyName,エースモンキーのトンボペット
+TowerPetMonkeyAceDragonflyShortName,エースのトンボペット
+TowerPetMonkeyAceDragonflyDescription,エースモンキーの軽快なペットのトンボが滑走路をブンブン飛び回って、エースの勝利の帰還に備えます!
+BloonsDDTSkinSpiderName,クモのDDT
+BloonsDDTSkinSpiderShortName,クモのDDT
+BloonsDDTSkinSpiderDescription,DDTをトラックに沿って小走りしているクモのように見せる。ほら、ゲームオーバーだ！期間限定のコレクターアイテム！
+CoopEmoteAnimationPsighName,テレパシーため息のエモート
+CoopEmoteAnimationPsighShortName,テレパシーため息
+CoopEmoteAnimationPsighDescription,このテレパシーため息は、がっかり、イライラ、諦めの微妙な組み合わせをテレパシーで伝えます。見えてます、プレイヤー3。
+GameUIProfileBanner17Name,グランドマスター忍者のプロフィールバナー
+GameUIProfileBanner17ShortName,グランドマスター忍者のバナー
+GameUIProfileBanner17Description,バナー入選者LordTeddingtonの作品
+GameUIProfileBanner18Name,エンジニアフォームのプロフィールバナー
+GameUIProfileBanner18ShortName,エンジニアフォームのバナー
+GameUIProfileBanner18Description,バナー入選者DREAD_LEADの作品
+GameUIPowerSkinGlueTrapHoneyTrapName,カスタムパワー - 蜜蜂のグルートラップ
+GameUIPowerSkinGlueTrapHoneyTrapShortName,蜜蜂のトラップ
+GameUIPowerSkinGlueTrapHoneyTrapDescription,蜂がたかればブルーンも速度が下がる！
+GameUIPowerSkinBananaFarmerBananaCostumeName,カスタムパワー - バナナ農家のバナナコスチューム
+GameUIPowerSkinBananaFarmerBananaCostumeShortName,バナナ農家のコスチューム
+GameUIPowerSkinBananaFarmerBananaCostumeDescription,バナナが多すぎるなんてことある？バナナ農家に言わせれば「そんなバナナ！」。バナナ農家のバナナコスチュームを手に入れて、バナナの栽培をもう少しバナナっぽくしましょう。
+GameUIProfileAvatar63Name,カスタムアバター - 叫び
+GameUIProfileAvatar63ShortName,叫びのアバター
+GameUIProfileAvatar63Description,狂気のモンキーにしか描けなかった。期間限定のコレクターアイテム！
+GameUIProfileBanner19Name,パッチワークのプロフィールバナー
+GameUIProfileBanner19ShortName,パッチワークのバナー
+GameUIProfileBanner19Description,ココアのマグカップを持って、パッチワークのキルトの下に寄り添い…または、この居心地の良いバナーを装備しよう。
+GameUIProfileBanner20Name,太陽光線のプロフィールバナー
+GameUIProfileBanner20ShortName,太陽光線のバナー
+GameUIProfileBanner20Description,この日当たりのよいバナーで、あなたの輝かしい戦略の才能をさらに誇示しましょう。
+GameUIProfileBanner21Name,スターバーストのプロフィールバナー
+GameUIProfileBanner21ShortName,スターバーストのバナー
+GameUIProfileBanner21Description,星は遠く離れたガスの球体で、非常に巨大なために、その巨大な重力が中心部の奥深くで核融合を引き起こしていると信じている人がいます。私たちが知っているのは、それらがきれいで、きらめいているということだけです.
+GameUIProfileBanner22Name,呪われた廊下のプロフィールバナー
+GameUIProfileBanner22ShortName,呪われた廊下のバナー
+GameUIProfileBanner22Description,呪われた廊下のプロフィールバナーでプロフィールを恐怖に陥れましょう。ハロウィーンを慈しむ、または記念するための邪悪なスクラッチと拷問された肖像画。期間限定のコレクターアイテム！
+GameUIProfileAvatar64Name,カスタムアバター - モンキーの脳
+GameUIProfileAvatar64ShortName,モンキーの脳のアバター
+GameUIProfileAvatar64Description,ぼろぼろの包帯に包まれたしかばねが、おいしい脳に手を伸ばしています！期間限定のコレクターアイテム！
+TeamsBanner7Name,ペット狂いのバナー
+TeamsBanner7ShortName,ペット狂いのバナー
+TeamsBanner7Description,気まぐれなペットのパーティーです！このバナーを装備して、Bloons TD 6 のペットを祝いましょう！
+TeamsBanner8Name,領土争いのバナー
+TeamsBanner8ShortName,領土争いのバナー
+TeamsBanner8Description,このバナーを装備して、六角形のタイルを制圧するというあなたの約束を示してください。赤対青がこれほど映えたことはありません。
+TeamsEmblemIcon13Name,カンフーキウイのアイコン
+TeamsEmblemIcon13ShortName,カンフーキウイのアイコン
+TeamsEmblemIcon13Description,みんな大好き、飛べない鳥の飛び蹴りで対戦相手を驚かせましょう。
+TeamsEmblemIcon14Name,すべてを見る目のアイコン
+TeamsEmblemIcon14ShortName,すべてを見る目のアイコン
+TeamsEmblemIcon14Description,このチームアイコンを装備すれば、対戦相手はすべての動きを疑います。
+TeamsEmblemFrame10Name,忍者の巻物のフレーム
+TeamsEmblemFrame10ShortName,忍者の巻物のフレーム
+TeamsEmblemFrame10Description,忍者の古代芸術へのチームの献身を示すフレーム。
+TeamsEmblemFrame11Name,認知のフレーム
+TeamsEmblemFrame11ShortName,認知のフレーム
+TeamsEmblemFrame11Description,認知のフレームを使って、チームの優れたブルーン割りの知識を伝えましょう。
+BasePropPirateCrewMonkeyName,海賊船員
+BasePropPirateCrewMonkeyShortName,海賊船員
+BasePropPirateCrewMonkeyDescription,ヤー！この悪党をあなたの領土争いの基地に迎え入れれば、相手チームはしっぽと帆を丸めて向転換するでしょう。 [島スロット]
+BasePropTelescopeName,屈折望遠鏡
+BasePropTelescopeShortName,屈折望遠鏡
+BasePropTelescopeDescription,宇宙の驚異を目の当たりにするか、敵チームに君が勝利への道をスパイしたと思わせるだけか。[島スロット]
+BuildingPropCastleName,強化した城の建物
+BuildingPropCastleShortName,強化した城の建物
+BuildingPropCastleDescription,あなたの島を支配し、基地にある壮大な中世の装飾品で、他のチームに忠誠を誓わせましょう。 [主要建物スロット]
+WaterPropMiniPirateBoatName,ミニ海賊船
+WaterPropMiniPirateBoatShortName,ミニ海賊船
+WaterPropMiniPirateBoatDescription,他のチームがあなたがタイルを奪うのを見ている間に、この強力な小型船を使って、あなたが彼らの宝物を盗んでいることを知らせましょう。 [水スロット]
+FlyingPropMoonRabbitName,月のウサギ
+FlyingPropMoonRabbitShortName,月のウサギ
+FlyingPropMoonRabbitDescription,領土争いは制圧することがすべ。この愛らしい月のウサギは、みんなの想像力をかき立てます。 [空気スロット]
+Deselect,選択解除
+CTDailyTitle,デイリーボーナス
+CTDailySubtitle,今日のプレイヤーチケット
+CTDailyDescription,プレイヤーチケットを使用してタイルを制圧した場合
+CTDailyTrophies,デイリーボーナストロフィー
+TileRecap,タイル再制圧
+PlusCTPoints,+{0}CTポイント
+CTRulesInfoSubtitle,領土争いへようこそ！チームと力を合わせ、タイルを奪い、リーダーボードのトップに登りつめ、バチボコすごい報酬をゲットしよう！
+CTRulesInfoSectionOne,• 制圧チケットは、タイルを制圧した場合にのみ使えます。24時間ごとにリフレッシュされます。
+CTRulesInfoSectionTwo,• 未使用の制圧チケットはチケットのプールに移り、次の日に他のチームメンバーが使えるようになります。チームチケットは個人のリーダーボードの順位には影響しません。
+CTRulesInfoSectionThree,• 制圧されると、タイルが最終的に中立になるまで、タイルのスコアは時間の経過とともに少しずつ現象していきます。
+CTRulesInfoSectionFour,• タイルを制圧するとCTポイントを獲得し、タイルを保持していると1時間ごとにさらに加算されていきます。CTポイントでリーダーボードの順位（個人とチームの両方）が決まるので、できるだけ頻繁にタイルを制圧しましょう！\n
+CTRulesInfoSectionFive,• バナータイルは硬いタイルですが、より多くのCTポイントを獲得できます。\n
+CTRulesInfoSectionSix,• レリックタイルにより、タイルを制圧する際に役立つ強力なレリック知識の恩恵がチーム全員に行き渡ります。\n
+CTRulesInfoSectionSeven,• タイルの進行状況は20ラウンドごとに保存されます。また、進捗に関するセーブデータは一度に1つしか保存できません。
+TeamTrophyStoreRulesInfoSubtitle,これはチームトロフィーストアです。アンロックされたCTレリックを選択し、デイリーパワー、イベントレリック、チームフレアに資金を提供できます。
+TeamTrophyStoreRulesInfoSectionOne,• デイリーパワーはCTイベント中は毎日アンロックできます。資金を拠出すると、その日はチーム全員が使用できます。
+TeamTrophyStoreRulesInfoSectionTwo,• イベントレリックはCTイベントの期間中ずっと利用でき、資金を拠出するとイベント終了まで使用できます。レリックタイルでアンロックしたレリックとは別物です。
+TeamTrophyStoreRulesInfoSectionThree,• レリックタイルを制圧し、お気に入りのレリック知識を4つまで選択して、このイベントで使用しましょう。入れ替えはいつでも可能です。
+TeamTrophyStoreRulesInfoSectionFour,• チームフレアはチーム全員で資金を拠出するもので、全額拠出されるとアンロックされてチーム全員がずっと使えます。チームを抜けたプレイヤーはチームフレアを使えなくなります。
+PlaySocialCaps,ソーシャルでプレイ
+SelectCapturedRelics,制圧したレリックを4つまで選択
+NextBonusIn,次のボーナスまで：
+MemberCount,メンバー数
+Min,最小
+PrimeGamingText,Prime Gaming ギフトを受け取りましょう!
+GetNow,Get Now

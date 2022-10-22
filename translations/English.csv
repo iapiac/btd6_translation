@@ -150,7 +150,7 @@ Gwendolin Level 1 Description,Blasts Bloons with fire from her pyro gun.
 Gwendolin Level 2 Description,Slightly increased popping power per shot.
 Gwendolin Level 3 Description,"Cocktail of Fire: Hurls a flask of flammable liquid, burning Bloons that pass through the fire."
 Gwendolin Level 4 Description,Heat it up - Every few seconds creates a powerful blast wave of fire that pops Bloons and adds fire to nearby Monkeys’ attacks.
-Gwendolin Level 5 Description,Increased popping power.
+Gwendolin Level 5 Description,"Increased popping power. 10% improved attack speed and radius for Ring of Fire, Signal Flare and Dragon's Breath."
 Gwendolin Level 6 Description,Attacks cause a burn effect on target Bloon.
 Gwendolin Level 7 Description,"Heat it up has increased radius, Cocktail of Fire is more effective."
 Gwendolin Level 8 Description,Shoots 2 blasts of fire per shot.
@@ -163,7 +163,7 @@ Gwendolin Level 14 Description,Cocktail of Fire does extra damage and sets MOAB 
 Gwendolin Level 15 Description,Increased attack speed.
 Gwendolin Level 16 Description,Firestorm has increased duration and does more damage. Purple Bloons are no longer immune to Gwendolin's attacks.
 Gwendolin Level 17 Description,"Heat it up empowers affected Monkeys to pop 1 extra layer, and do +2 damage to Lead Bloons."
-Gwendolin Level 18 Description,Increased attack speed.
+Gwendolin Level 18 Description,"Increased attack speed. 20% improved attack speed and radius for Ring of Fire, Signal Flare and Dragon's Breath."
 Gwendolin Level 19 Description,Shoots 3 blasts of fire per shot.
 Gwendolin Level 20 Description,Firestorm does hugely increased damage.
 ,
@@ -232,11 +232,11 @@ ObynGreenfoot Level 20 Description,Wall of Trees can hold a lot more Bloons.
 ,
 Ezili Level 1 Description,Ezili curses Bloons with dark voodoo power.
 Ezili Level 2 Description,Increased attack range.
-Ezili Level 3 Description,Heartstopper: Prevents any Regrow from happening for 6 seconds.
+Ezili Level 3 Description,"Heartstopper: slows Bloons, allows Purple popping and prevents any regrow from happening for 10 seconds."
 Ezili Level 4 Description,Ezili's main attack now curses multiple Bloons.
 Ezili Level 5 Description,Increased attack speed.
 Ezili Level 6 Description,Damage over time lasts longer and damages faster.
-Ezili Level 7 Description,"Sacrificial Totem: A totem that gives Camo detection, extra pierce, attack range, attack speed, and projectile speed to nearby Monkeys. Drains 10 lives."
+Ezili Level 7 Description,"Sacrificial Totem: A totem that gives Camo detection, extra pierce, attack range, attack speed, and projectile speed to nearby Monkeys, especially Wizard Monkeys. Drains 10 lives."
 Ezili Level 8 Description,Ezili's attack does far more damage to MOAB-Class Bloons.
 Ezili Level 9 Description,"Ezili's attack strips off Camo, Regrow and Fortified properties from non-MOAB class Bloons."
 Ezili Level 10 Description,"MOAB Hex: places a curse on a MOAB-Class Bloon, it takes damage every second until annihilated."
@@ -282,8 +282,8 @@ Rallying Roar Ability Description,All nearby Monkeys can pop +1 layer for a shor
 Big Squeeze Ability Description,"Grabs a MOAB, BFB, DDT (if visible), or ZOMG and crushes it to bits over 5 seconds."
 Brambles Ability Description,Creates a spiked bush on the track that can pop 50 Bloons.
 Wall of Trees Ability Description,"Summons a wall of trees across the track that destroy all Bloons that enter. When full, the trees burst into money."
-Heartstopper Ability Description,Prevents any Regrow from happening for 6 seconds.
-Sacrificial Totem Ability Description,"A totem that gives Camo detection, extra pierce, attack range, attack speed, and projectile speed to nearby Monkeys. Drains 10 lives."
+Heartstopper Ability Description,Allows Purple popping and prevents any Regrow from happening for 10 seconds.
+Sacrificial Totem Ability Description,"A totem that gives Camo detection, extra pierce, attack range, attack speed, and projectile speed to nearby Monkeys, especially Wizard Monkeys. Drains 10 lives."
 MOAB Hex Ability Description,"Places a curse on a MOAB-Class Bloon, it takes damage every second until annihilated."
 ,
 //Hero Misc,
@@ -694,7 +694,7 @@ Long Range Darts Description,Makes the Dart Monkey shoot further than normal.
 Razor Sharp Shots Description,Can pop 2 more Bloons per shot.
 Very Quick Shots Description,Shoots 33% faster!
 Enhanced Eyesight Description,Shoots even further and can detect Camo Bloons.
-Spike-o-pult Description,"Converts the Dart Monkey into a Spike-o-pult that hurls a large spiked ball instead of darts. Good range, but slower attack speed. Each ball can pop lots of Bloons and rebounds off obstacles."
+Spike-o-pult Description,Converts the Dart Monkey into a slower attacking Spike-o-pult that hurls large spiked balls. Each ball can pop lots of Bloons and rebounds off obstacles.
 Triple Shot Description,Throws 3 darts at a time instead of 1.
 Crossbow Description,Uses a long range Crossbow that can pop 3 layers of Bloon for every hit.
 Juggernaut Description,Hurls a giant spiked ball that pops lead and excels at crushing Ceramic Bloons.
@@ -756,7 +756,7 @@ Permafrost Description,Bloons move slowly even after thawing out.
 Enhanced Freeze Description,Attacks faster and freezes for longer.
 Larger Radius Description,Larger freeze area.
 Metal Freeze Description,Can freeze and pop Lead and Camo Bloons.
-Deep Freeze Description,Freezes through 2 layers of Bloon.
+Deep Freeze Description,Freezes an extra layer and freeze lasts longer.
 Re-Freeze Description,Can re-freeze Bloons that are already frozen.
 Ice Shards Description,Razor sharp shards fly out when Frozen Bloons pop.
 Arctic Wind Description,Greatly increases pierce & gains a super cold aura that slows Bloons and freezes water nearby.
@@ -798,13 +798,13 @@ Supply Drop Description,Supply Drop Ability: drops a crate full of cash. Regular
 Full Auto Rifle Description,Fully automatic weapon with incredible popping power.
 Cripple MOAB Description,Crippled MOABs are immobilized for longer and take extra damage from all other attacks.
 Elite Sniper Description,Supply drop gives much more cash. Grants Elite targeting prio and faster reload to all snipers.
-Elite Defender Description,A lost life gives this Sniper 4x attack speed for a short time in retaliation. Also attacks faster the further the Bloons are along the track. Deals more damage to MOAB-class Bloons.
+Elite Defender Description,Fires super fast and even faster the further the Bloons are along the track. Gains 4x attack speed briefly on losing lives. Deals more damage to MOAB-class Bloons.
 ,
 Longer Range Description,Increases attack range.
 Barbed Darts Description,Sub's darts can pop an additional 3 Bloons.
 Twin Guns Description,Added twin gun doubles attack speed. Enhances Ballistic Missile and Bloontonium Reactor.
 Advanced Intel Description,Allows long range targeting of Bloons in radius of your other towers.
-Heat-tipped Darts Description,Heat tipped darts allow popping of Frozen and Lead Bloons.
+Heat-tipped Darts Description,Heat tipped darts allow the Monkey Sub to pop Frozen and Lead Bloons.
 Airburst Darts Description,Airburst darts split into 3 on impact for massive popping power. Further enhances Bloontonium Reactor.
 Submerge and Support Description,Adds Submerge targeting option that permanently reveals Camo Bloons in its radius but does not attack while submerged.
 Ballistic Missile Description,Missile seeks target within range and does extra MOAB and Ceramic damage.
@@ -826,7 +826,7 @@ Buccaneer-Destroyer Description,Attacks super duper fast!
 Buccaneer-Cannon Ship Description,Adds a powerful cannon that shoots out powerful bombs.
 Buccaneer-Merchantman Description,Generates cash each round automatically.
 Buccaneer-Aircraft Carrier Description,Launches waves of fighter planes that strafe their targets and fire missiles at MOAB class Bloons.
-Buccaneer-Monkey Pirates Description,Adds 2 cannons to the ship and cannon attacks do more damage. MOAB Takedown Ability: harpoons a MOAB class Bloon and brings it down.
+Buccaneer-Monkey Pirates Description,Adds 2 cannons to the ship and attacks do more damage. MOAB Takedown Ability: harpoons a MOAB class Bloon and brings it down.
 Buccaneer-Favored Trades Description,Attacks faster and generates lots of money per round. Monkeys in radius have increased sell value.
 Buccaneer-Carrier Flagship Description,Does extra damage. Can place other Monkeys on the upper decks of the ship and increases attack speed of all water based Monkeys and Monkey Aces.
 Buccaneer-Pirate Lord Description,"Greatly increased attack speed for all attacks and can shoot 3 grappling hooks at once, plundering extra cash from each MOAB-class Bloon taken down."
@@ -861,7 +861,7 @@ Apache Dartship Description,Adds a large missile array and powerful machine guns
 Support Chinook Description,"Abilities: Drops lives and cash crates, or can pick up and redeploy most Monkey types."
 Comanche Defense Description,Automatically calls in mini Comanches when they're most needed.
 Apache Prime Description,The Apache Prime leaves most Bloons wishing they'd never been inflated.
-Special Poperations Description,Deploys a powerful special Monkey Marine with machine gun.
+Special Poperations Description,Deploys a powerful special Monkey Marine with a machine gun.
 Comanche Commander Description,Upgraded weapons. Also automatically calls in 3 more Comanches. Permanently.
 ,
 Bigger Blast Description,Bigger shells deliver a bigger blast radius.
@@ -874,11 +874,11 @@ Shockwave Description,"Blast shockwave stuns Bloons at impact, pops bloons in a 
 Heavy Shells Description,"Heavy shells do extra damage to Ceramic, Lead, all Fortified, and all stunned Bloons. Can also pop black Bloons."
 Signal Flare Description,Camo Bloons popped by flares lose their camouflage permanently.
 The Big One Description,"Devastating explosions pop 7 layers of Bloon, plus increases Burny Stuff damage further."
-Artillery Battery Description,Bombardment Ability: Unleashes a rapid fire attack in a slightly wider area. Main attack upgrades to 3 barrels for incredibly fast attacks.
+Artillery Battery Description,Bombardment Ability: Unleashes a rapid fire attack in a slightly wider area. Main attack does more damage to BADs and Boss Bloons and upgrades to 3 barrels for incredibly fast attacks.
 Shattering Shells Description,Shattering shells strip all special Bloon properties off all but the biggest bloons.
 The Biggest One Description,"Blasts deeply through Bloons and layers over a huge area, plus powerful Burny Stuff damage."
-Pop and Awe Description,"Pop and Awe Ability: rains explosions over the whole screen, damaging and immobilizing all Bloons for a few seconds. Main attack gains additional bonus damage to stunned Bloons."
-Blooncineration Description,"Superhot burny stuff melts through 5 layers of Bloon each shot, burns MOAB-Class Bloons for extra damage, and strips DDT camo."
+Pop and Awe Description,"Pop and Awe Ability: rains explosions over the whole screen, damaging and immobilizing all Bloons for a few seconds. All Artillery Batteries do more damage to BADs and Boss Bloons. Main attack gains additional bonus damage to stunned Bloons."
+Blooncineration Description,"Superhot burny stuff melts through 5 layers of Bloon each shot, burns MOAB-Class Bloons for extra damage."
 ,
 Focused Firing Description,Increases accuracy of the Dartling Gun.
 Advanced Targeting Description,Allows Dartling Gunner to hit Camo Bloons.
@@ -918,7 +918,7 @@ Super Range Description,Super Monkeys need Super Range.
 Knockback Description,Bloons get pushed backwards or slowed after each hit.
 Plasma Blasts Description,Plasma vaporizes almost everything it touches.
 Epic Range Description,Why settle for super when you can have EPIC?
-Ultravision Description,Enables Super Monkey to shoot slightly further and to see Camo Bloons.
+Ultravision Description,"Enables Super Monkey to shoot slightly further, see and do more damage to Camo Bloons."
 Sun Avatar Description,Channels power from the core of the Sun.
 Robo Monkey Description,"Half Super Monkey, half killer robot of death. Shoots from 2 guns at once and can crit!"
 Dark Knight Description,Dark blades increase knockback and pierce and deal extra damage to MOAB-class Bloons. Gains Darkshift ability to shift to a nearby location.
@@ -951,7 +951,7 @@ Acid Pool Description,If no Bloons are nearby Alchemist can drench nearby track 
 Acidic Mixture Dip Description,Throws a helpful potion at nearby Monkeys that allows them to pop Lead Bloons and do extra damage to Ceramic and MOAB-class Bloons. Wears off after several attacks.
 Perishing Potions Description,Attack potions deal more damage to MOAB-class Bloons and strip Fortified off smaller Bloons. Also strengthens Brews and Stimulants.
 Alchemist Faster Throwing Description,Throws potions and attacks faster.
-Berserker Brew Description,"Special brew gives Monkeys extra damage, range, and attack speed. Lasts longer."
+Berserker Brew Description,"Throws special brew to nearby Monkeys giving them extra damage, range and attack speed."
 Unstable Concoction Description,Coats MOAB-Class in an explosive substance that causes a large explosion when they are popped.
 Lead to Gold Description,"Converts Lead Bloons to GOLD! Special solvents do extra damage to Lead Bloons, destroying them in one shot and generating cash."
 Stronger Stimulant Description,Extra strong berserker brew has even more powerful effect on the target. Lasts even longer.
@@ -1127,7 +1127,7 @@ Ground Zero Ability Description,Increases effectiveness of bomb drops. Ground Ze
 Tsar Bomba Ability Description,"A very, very large bomb. Someone put a stop to this craziness!"
 Support Chinook Redeploy Ability Description,Can pick up and redeploy most Monkey types.
 Support Chinook Supplies Ability Description,Drops lives and cash crates.
-Special Poperations Ability Description,Deploys a powerful special Monkey Marine with machine gun.
+Special Poperations Ability Description,Deploys a powerful special Monkey Marine with a machine gun.
 Pop and Awe Ability Description,"Rains explosions over the whole screen, popping and immobilizing all Bloons for a few seconds."
 Rocket Storm Ability Description,Sends a powerful storm of rockets in all directions.
 Mauler Storm Ability Description,Each missile does extreme damage to MOAB-Class Bloons.
@@ -1870,7 +1870,7 @@ RapidRazorsDescription,Razor Rotors pop Bloons faster.
 BudgetBattery,Budget Battery
 BudgetBatteryDescription,Artillery Battery cost reduced by 600.
 PaintStripper,Paint Stripper
-PaintStripperDescription,Mortar shattering shells removes Camo from DDT Bloons.
+PaintStripperDescription,Mortar shattering shells removes Fortification from DDT Bloons.
 CheaperMaiming,Cheaper Maiming
 CheaperMaimingDescription,Maim MOAB cost reduced by 1000.
 ChargedChinooks,Charged Chinooks
@@ -2638,17 +2638,17 @@ Adora Level 5 Description,Divine bolts pierce through more Bloons
 Adora Level 6 Description,Shoots 3 Divine Bolts at a time.
 Adora Level 7 Description,Blood Sacrifice: Sacrifice a targeted Tower to grant Adora large amounts of XP and boost her attack range and rate of fire for a short time.
 Adora Level 8 Description,Shoots 4 Divine Bolts at a time.
-Adora Level 9 Description,Increased attack range.
+Adora Level 9 Description,Increased attack range and increased damage to fortified Bloons.
 Adora Level 10 Description,Ball of Light: Brings forth a powerful ball of energy to strike down the Bloons.
 Adora Level 11 Description,Adora increases attack speed.
 Adora Level 12 Description,Shoots 5 Divine Bolts at a time.
-Adora Level 13 Description,Divine Bolts pierce through even more Bloons.
+Adora Level 13 Description,Divine Bolts pierce through even more Bloons. Increased damage to fortified Bloons.
 Adora Level 14 Description,Shoots 6 Divine Bolts at a time.
 Adora Level 15 Description,"Divine Bolts burn through an extra Bloon layer, plus Ball of Light deals more damage."
 Adora Level 16 Description,Long Arm of Light becomes even more deadly.
 Adora Level 17 Description,Adora increases attack speed even more.
 Adora Level 18 Description,Shoots 8 Divine Bolts at a time.
-Adora Level 19 Description,Increased attack range.
+Adora Level 19 Description,Increased attack range. Increased damage to fortified Bloons.
 Adora Level 20 Description,"Ball of Light is greatly improved, plus increased rate of fire, range, and duration buffs from Sacrifices."
 Carved,Carved
 BloodyPuddles,Bloody Puddles
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I] to Darkshift within range
 DarkChampionDarkshift,[I] to Darkshift to any valid location
 SmallTowersMode,Small Monkey Towers
 BigTowersMode,Big Monkey Towers
-UpdatePopupTitle,Update 32!
-UpdatePopupDescription,"Epic Contested Territories Update!\n• Huge new event: Contested Territories - capture Tiles from other Teams to rule the leaderboard!\n • Teams! Grab your friends and form an unstoppable Team to conquer the Contested Territory\n• New paragon: Master Builder\n• New hero skin: Voidora\n• New intermediate map: Quarry\n• Trophy store items, quality of life improvements, balance changes and much more!"
+UpdatePopupTitle,Update 33!
+UpdatePopupDescription,"Big Content Update!\n• Unleash the awesome Goliath Doomship, Monkey Ace Paragon!\n• Cultivate some  Bloon popping power on the intermediate map, Covered Garden! Design by community map competition winner SuperPsou.\n• Haunt the halls of the spooky new advanced map, Midnight Mansion!\n• Trophy store items, quality of life improvements, balance changes and much more!"
 ResetDailyChest,Reset Daily Chest
 JukeboxName,Jukebox
 EnableFunction,Enable
@@ -4363,7 +4363,7 @@ Jar of Pickles description,"Try these pickles on one of your Monkey Towers and i
 Rare Quincy action figure name,Rare Quincy Action Figure
 Rare Quincy action figure description,"Limited edition, mint condition original Quincy, Son of Quincy action figure! This is only going to go up in value so buy it now!"
 See invisibility potion name,See Invisibility Potion
-See invisibility potion description,Whatever Monkey you gift with this extremely eficacious elixir will be able to see Camo Bloons with ease! Effects will wear off.
+See invisibility potion description,Whatever Monkey you gift with this extremely efficacious elixir will be able to see Camo Bloons with ease! Effects will wear off.
 Tube of amaz-o-glue name,Tube of Amaz-o-Glue
 Tube of amaz-o-glue description,Truly amazing! Apply a tube of this modern marvel anywhere on the track and watch the next bunch of Bloons slow right down. Lasts 4 rounds or until used up.
 Sharpening stone name,Sharpening Stone
@@ -4413,11 +4413,11 @@ GameUIProfileAvatar59Description,You can see the love in his eyes. Now you just 
 GameUIProfileAvatar60Name,Striker Jones Avatar
 GameUIProfileAvatar60ShortName,Striker Jones Avatar
 GameUIProfileAvatar60Description,Striker Jones reporting for duty! Show your readiness to win with salutations from your favorite shoulder launching Monkey.
-GameUIProfileBanner13Name,Arrival Banner
-GameUIProfileBanner13ShortName,Arrival Profile Banner
+GameUIProfileBanner13Name,Arrival Profile Banner
+GameUIProfileBanner13ShortName,Arrival Banner
 GameUIProfileBanner13Description,Banner winner by betapotata
-GameUIProfileBanner14Name,Beneath the Waters Banner
-GameUIProfileBanner14ShortName,Beneath the Waters Profile Banner
+GameUIProfileBanner14Name,Beneath the Waters Profile Banner
+GameUIProfileBanner14ShortName,Beneath the Waters Banner
 GameUIProfileBanner14Description,Banner winner by Cyliia
 GameUIMusicTrackMusicSunshineFiestaMixName,Jukebox: Sunshine Serenade - Fiesta Remix
 GameUIMusicTrackMusicSunshineFiestaMixShortName,Sunshine - Fiesta
@@ -4492,7 +4492,7 @@ Jar of Pickles description level 11,"Try these pickles on one of your Monkey Tow
 Creepy idol description level 12,Place this spooky looking idol near the track to scare some Bloons (even MOABs!) back where they came from.
 Shooty turret description level 13,"A permanent, hand-crafted dart shooting turret. Upgraded! Fires faster and does more damage."
 Stack of old nails description level 13,Yes it's just a very large stack of old nails but put them anywhere on the track and they'll handily pop those stray Bloons.
-See invisibility potion description level 14,Whatever Monkey you gift with this extremely eficacious elixir will be able to see Camo Bloons with ease! Effects will wear off. Now gives increased range and lasts even longer!
+See invisibility potion description level 14,Whatever Monkey you gift with this extremely efficacious elixir will be able to see Camo Bloons with ease! Effects will wear off. Now gives increased range and lasts even longer!
 Sharpening stone description level 15,"Sharpen those darts, friend! Apply this to your darts and blades and they'll be sharper and do more damage than ever before."
 Blade trap description level 15,Place this on the track and watch the first Bloons to touch it get shredded by the great whirling blades! Newer more powerful model!
 Stack of old nails description level 16,Yes it's just a GIANT NAIL MINE but put it anywhere on the track and it'll handily pop those stray Bloons.
@@ -4501,7 +4501,7 @@ Gerrys fire hot sauce description level 16,2.8 million Bloonville units. Whoever
 Tube of amaz-o-glue description level 17,Truly amazing! Apply a tube of this modern marvel anywhere on the track and watch the next bunch of Bloons and even MOABs slow right down.
 Genie bottle description level 18,"Summon a Genie Monkey from this brilliant gold bottle but beware, it won't last forever! (no wishes included with purchase). Extra attack and more damage to MOABs now included."
 Creepy idol description level 18,Place this spooky looking idol near the track to scare some Bloons back where they came from. Mystical Shroud upgrade unlocked!
-See invisibility potion description level 19,Whatever Monkey you gift with this extremely eficacious elixir will be able to see Camo Bloons with ease and do more damage to them! Effects will wear off.
+See invisibility potion description level 19,Whatever Monkey you gift with this extremely efficacious elixir will be able to see Camo Bloons with ease and do more damage to them! Effects will wear off.
 FriendScreenSureUnBlock,Are you sure you want to unblock this user?
 None,None
 Knowledge Requirement Monkey Money,Not enough Monkey Money. Buy more?
@@ -4587,7 +4587,7 @@ TeamBannersTitle,Banners
 TeamGeneralTitle,General
 TeamSettingPublicTitle,Public
 TeamSettingPrivateTitle,Private
-TeamSettingClosedTitle,Closed
+TeamSettingClosedTitle,Invite Only
 TeamJoin,Join
 TeamApply,Apply
 RecentWin,Recent Win:
@@ -4599,8 +4599,8 @@ Tile,Tile: {0}
 RelicTile,Relic Tile
 BannerTile,Banner Tile
 BonusCTPoints,Bonus CT Points!
-DailyRelics,Daily Relics
-HeldRelics,Select Relics
+DailyRelics,Daily Power and Event Relics
+HeldRelics,Captured Relics
 Tickets,Tickets:
 PurchaseTickets,Purchase Ticket
 MoreTicketsIn,More Tickets In:
@@ -4727,7 +4727,7 @@ RelicExtraEmpoweredDescription,Your hero starts a game with 3 extra levels (stac
 RelicBoxOfChocolatesDescription,Start each game with 100 extra lives
 RelicBoxOfMonkeyDescription,Start each game with one free Monkey costing $500 or less for unmodified initial placement
 RelicMarchingBootsDescription,"In restricted count games, gives players +1 max count of each tower in their loadout or +4 total max count per game"
-RelicHeroBoostDescription,Heroes earn XP 10% faster in each game
+RelicHeroBoostDescription,Heroes earn XP 15% faster in each game
 RelicBiggerBloonSabotageDescription,All MOAB-class Bloons spawn with 15% less health and move at 95% speed
 RelicRoundingUpDescription,Earn +$20 at the end of every round
 RelicManaBulwarkDescription,Creates a shield that absorbs up to 50 lives (stacks with Mana Shield on Regular Tiles)
@@ -4741,11 +4741,11 @@ RelicRoyalTreatmentDescription,All attacks can pop purple Bloons
 RelicHardBakedDescription,All attacks do +1 damage to Ceramic Bloons
 RelicFortifriedDescription,All attacks do +1 damage to Fortified Bloons
 RelicMoabClashDescription,All attacks do +3 damage to MOAB-class Bloons
-RelicCamoFloggedDescription,All attacks do +1 damage to camo Bloons
+RelicCamoFloggedDescription,All attacks do +3 damage to camo Bloons
 RelicBrokenHeartDescription,All attacks do +1 damage to regrow Bloons
-RelicGoingTheDistanceDescription,All Monkeys gain +10% range
+RelicGoingTheDistanceDescription,All Monkeys gain +20% range
 RelicHeartlessDescription,Regrow Bloons regeneration rate reduced 25%
-RelicFlintTipsDescription,Sharp projectiles add fire dot to all Bloons they damage (1 damage every 2s for 4s total)
+RelicFlintTipsDescription,Sharp projectiles add fire dot to all Bloons they damage (1 damage every 2.5s for 5s total)
 RelicAbilitizedDescription,All Activated Ability cooldowns for all Monkeys reduced 10%
 RelicAirAndSeaDescription,"Ace, Heli, Buccaneer and Sub have placement and upgrade costs reduced 10%, and reload improved by 5%"
 RelicElDoradoDescription,All Monkey Money and Team Trophy rewards from game victories are increased by 25% (minimum +1)
@@ -4754,7 +4754,7 @@ RelicMonkeyShieldMark2Description,"For 2 hours after capture, Tile cannot be att
 RelicMonkeyShieldMark3Description,"For 3 hours after capture, Tile cannot be attacked by opposing Teams. Improved score will re-engage."
 RelicPsiVisionDescription,See full details for all Tiles on the map
 RelicOpenSeasonDescription,Attack any Tile on the map
-RelicCamoTrapDescription,Grants the use of 2 Camo Trap Powerups per game
+RelicCamoTrapDescription,Grants the use of 1 Camo Trap Powerup per game
 RelicThriveDescription,Grants the use of 2 Thrive Powerups per game
 RelicSuperMonkeyStormDescription,Grants the use of 2 SMS per game
 RelicMonkeyBoostDescription,Grants the use of 3 Monkey Boosts per game
@@ -4791,7 +4791,7 @@ TeamBrowserTitle,Team Browser
 TeamBrowserSearchField,Enter Team Name...
 TeamBrowserSearchHideFull,Hide Full Teams
 TeamBrowserSearchHidePrivate,Hide Private Teams
-TeamBrowserSearchHideClosed,Hide Closed Teams
+TeamBrowserSearchHideClosed,Hide Invite Only Teams
 TeamEditApplyAll,Apply All
 TeamScore,Score: {0}
 TeamRemoveMember,Are you sure you want to remove this member?
@@ -4820,7 +4820,7 @@ TeamMateSetScore,Teammate set a new score to beat!
 AnotherTeamSetScore,Another team set a new score to beat!
 FriendScreenErrorTeamInviteAlreadyMember,This player is already in your Team
 TotalTeamScore,Team Score
-CTRulesInfo,"Welcome to Contested Territories! Work together with your Team, capture Tiles, come out on top of the leaderboards and earn great rewards!\n\n• Capture Tickets are only used if you capture a Tile. They refresh every 24 hours.\n• Unused Capture Tickets will go into a pool of Tickets that can be used by other Team members the following day.\n• Once captured, Tile scores will slowly degrade over time, until the Tile becomes neutral after 24 hours.\n• CT Points are earned when capturing a Tile and every hour that you continue to hold a Tile. CT Points decide your personal and Team placing on the leaderboard, so grab Tiles as often as you can!\n• Banner Tiles are harder Tiles that give lots more CT Points.\n• Relic Tiles give your team access to powerful Relic Knowledges that will in turn help you when capturing Tiles.\n• Tile progress is saved every 20 rounds and you can only have one in-progress save at a time.\n• Vote for which Relics you like the most in the Team Trophy store and then choose which specific Relics you'll take into battle on the pre-game page."
+CTRulesInfo,"Welcome to Contested Territories! Work together with your Team, capture Tiles, come out on top of the leaderboards and earn great rewards!\n\n• Capture Tickets are only used if you capture a Tile. They refresh every 24 hours.\n• Unused Capture Tickets will go into a pool of Tickets that can be used by other Team members the following day. Team tickets do not contribute to personal leaderboard placing.\n• Once captured, Tile scores will slowly degrade over time, until the Tile eventually becomes neutral.\n• CT Points are earned when capturing a Tile and every hour that you continue to hold a Tile. CT Points decide your personal and Team placing on the leaderboard, so grab Tiles as often as you can!\n• Banner Tiles are harder Tiles that give lots more CT Points.\n• Relic Tiles give your team access to powerful Relic Knowledges that will in turn help you when capturing Tiles.\n• Tile progress is saved every 20 rounds and you can only have one in-progress save at a time."
 TeamTrophyStoreRulesInfo,"This is the Team Trophy Store, where you can vote for unlocked CT Relics, fund Daily Powers, Event Relics and Team Flair.\n• Daily Powers are available to unlock each day during the CT event and once funded can be used by the whole Team for that day.\n• Event Relics become available throughout the CT event and once funded are useable for the rest of that event. They are separate from Relics unlocked via Relic Tiles.\n• Capture Relic Tiles and then vote for your favorite Relic Knowledges unlocked this event. The top 7 Relics will be available to choose from in your final loadout of 4 Relics.\n• Team Flair is funded by the entire Team and once funded is permanently unlocked for your Team. Players leaving the Team do not take Team Flair with them."
 TeamsBanner1Name,Monkeys In Space Banner
 TeamsBanner2Name,Hero Team Up Banner
@@ -4990,3 +4990,130 @@ SentryParagonGreen,Green Sentry Paragon
 SentryParagonRed,Red Sentry Paragon
 SentryParagonBlue,Blue Sentry Paragon
 TeamManagement,Team Management
+ERR_FEATURE_TEMPORARILY_UNAVAILABLE,"This feature is unavailable because your account has been flagged. For more info, visit https://ninja.kiwi/ffgpd7"
+PlayerWillBeRemoved,Player will be removed from the Team when the current CT event ends
+Epic login,"Logging in to Epic account, checking permissions"
+FriendScreenErrorTeamInviteMaxInvitesSent,"Maximum number of invites sent, please try again later"
+CantJoinTeamFromSameCT,Can't join a Team from the same CT instance as you were last in
+RemovedFromTeam,You have been removed from your team. Please join another team and try again
+TileNoLongerAccessible,That tile is no longer accessible. Please refresh CT and try again
+CTTilesHeld,Tiles Held
+CTPointsProjected,Projected
+ConfirmCancelRequest,Are you sure you want to cancel your request?
+CouchCoop,Couch Co-op
+TeamTicketUsed,Team Ticket Used
+PersonalTicketUsed,Personal Ticket Used
+TeamScreenCodeHidden,Team Code Hidden
+ERR_ANOTHER_REQUEST_PENDING,Another request already pending
+QuickJoinSearchForTeam,Searching for a team to join...
+QuickJoinJoiningTeam,Joining team...
+QuickJoinCancel,Canceling...
+MidnightMansion,Midnight Mansion
+CoveredGarden,Covered Garden
+MonkeyAce Paragon,Goliath Doomship
+MonkeyAce Paragon Description,A flying shadow of darkness spells Bloon obliteration.
+CreateOrJoinTeamLeaveFirst,You are already in a Team.
+TeamMsgBannerTileLost,One of your Banner Tiles was captured by {0}. Reclaim it now!
+CTPlayerPopupNoData,Enter CT to load this data
+HeroesJoanOfArcAdoraPetDragonName,Joan of Arc Dragon Pet
+HeroesJoanOfArcAdoraPetDragonShortName,Joan of Arc Dragon Pet
+HeroesJoanOfArcAdoraPetDragonDescription,You don't have to be a saint to see how much more fun each game will be with this baby Golden Dragon at your side. Joan of Arc Adora only
+TowerPetMonkeyAceDragonflyName,Monkey Ace Dragonfly Pet
+TowerPetMonkeyAceDragonflyShortName,Ace Dragonfly Pet
+TowerPetMonkeyAceDragonflyDescription,The Monkey Ace's nimble pet dragonfly buzzes the runway to keep it ready for the Ace's victorious return!
+BloonsDDTSkinSpiderName,Spider DDT
+BloonsDDTSkinSpiderShortName,Spider DDT
+BloonsDDTSkinSpiderDescription,Make the DDT look like a spider scuttling along the track. Now you see it ... now it's Game Over! Limited Time Collector's Item!
+CoopEmoteAnimationPsighName,Psigh Emote
+CoopEmoteAnimationPsighShortName,Psigh
+CoopEmoteAnimationPsighDescription,"This Psigh will telepathically convey that subtle combination of disappointment, annoyance, and resignation. We see you Player 3."
+GameUIProfileBanner17Name,Grand Master Ninja Profile Banner
+GameUIProfileBanner17ShortName,Grand Master Ninja Banner
+GameUIProfileBanner17Description,Banner winner by LordTeddington
+GameUIProfileBanner18Name,Engineer Foam Profile Banner
+GameUIProfileBanner18ShortName,Engineer Foam Banner
+GameUIProfileBanner18Description,Banner winner by DREAD_LEAD
+GameUIPowerSkinGlueTrapHoneyTrapName,Custom Power - Honey Bee Glue Trap
+GameUIPowerSkinGlueTrapHoneyTrapShortName,Honey Bee Trap
+GameUIPowerSkinGlueTrapHoneyTrapDescription,Even a Bloon slows down when it's covered in bees!
+GameUIPowerSkinBananaFarmerBananaCostumeName,Custom Power - Banana Farmer Banana Costume
+GameUIPowerSkinBananaFarmerBananaCostumeShortName,Banana Farmer Costume
+GameUIPowerSkinBananaFarmerBananaCostumeDescription,"Is there such a thing as too much banana? ""Shucks, no!"" says the Banana Farmer. Get the Banana Farmer banana costume to make banana farming just that little bit more bananana."
+GameUIProfileAvatar63Name,Custom Avatar - The Scream
+GameUIProfileAvatar63ShortName,The Scream Avatar
+GameUIProfileAvatar63Description,Could only have been painted by a madmonkey. Limited Time Collector's Item!
+GameUIProfileBanner19Name,Patchwork Profile Banner
+GameUIProfileBanner19ShortName,Patchwork Banner
+GameUIProfileBanner19Description,Snuggle up under a patchwork quilt with a mug of cocoa... Or just equip this cozy banner.
+GameUIProfileBanner20Name,Sun Rays Profile Banner
+GameUIProfileBanner20ShortName,Sun Rays Banner
+GameUIProfileBanner20Description,Show off your shining strategic brilliance even further with this sunny banner.
+GameUIProfileBanner21Name,Star Burst Profile Banner
+GameUIProfileBanner21ShortName,Star Burst Banner
+GameUIProfileBanner21Description,Some believe that stars are distant balls of gas so massive that their immense gravity powers nuclear fusion deep in their cores. All we know is that they're pretty and they twinkle.
+GameUIProfileBanner22Name,Haunted Hallway Profile Banner
+GameUIProfileBanner22ShortName,Haunted Hallway Banner
+GameUIProfileBanner22Description,Terror-fy your profile with the Haunted Hallway Profile Banner. Sinister scratchings and tortured portraits to commiserate or commemorate Halloween. Limited Time Collector's Item!
+GameUIProfileAvatar64Name,Custom Avatar - Monkey Brains
+GameUIProfileAvatar64ShortName,Monkey Brains Avatar
+GameUIProfileAvatar64Description,"A decrepit figure wrapped in fraying bandages, reaching for some tasty BRAINS!!! Limited Time Collector's Item!"
+TeamsBanner7Name,Pet Frenzy Banner
+TeamsBanner7ShortName,Pet Frenzy Banner
+TeamsBanner7Description,It's a whimsical pet party! Equip this banner to celebrate the pets of Bloons TD 6!
+TeamsBanner8Name,Contested Territory Banner
+TeamsBanner8ShortName,Contested Territory Banner
+TeamsBanner8Description,Equip this banner to show your commitment to capturing hexagonal tiles. Red vs Blue never looked so good.
+TeamsEmblemIcon13Name,Kung Fu Kiwi Icon
+TeamsEmblemIcon13ShortName,Kung Fu Kiwi Icon
+TeamsEmblemIcon13Description,Surprise your opponents with a flying kick from your favorite flightless bird.
+TeamsEmblemIcon14Name,All-Seeing Eye Icon
+TeamsEmblemIcon14ShortName,All-Seeing Eye Icon
+TeamsEmblemIcon14Description,Equip this team icon and your opponents will doubt every move they make.
+TeamsEmblemFrame10Name,Ninja Scroll Frame
+TeamsEmblemFrame10ShortName,Ninja Scroll Frame
+TeamsEmblemFrame10Description,A frame to show your teams dedication to the ancient art of the Ninja.
+TeamsEmblemFrame11Name,Cognition Frame
+TeamsEmblemFrame11ShortName,Cognition Frame
+TeamsEmblemFrame11Description,Convey your Team's superior Bloon popping knowledge with the Cognition Frame.
+BasePropPirateCrewMonkeyName,Pirate Crew
+BasePropPirateCrewMonkeyShortName,Pirate Crew
+BasePropPirateCrewMonkeyDescription,Yar! Welcome this scalliwag to your Contested Territory base and the other Teams will turn about with their sails between their legs. [Island Slot]
+BasePropTelescopeName,Refracting Telescope
+BasePropTelescopeShortName,Refracting Telescope
+BasePropTelescopeDescription,Behold the wonders of the universe or just make the opposing Teams think you've spied your way to victory. [Island Slot]
+BuildingPropCastleName,Fortified Castle Building
+BuildingPropCastleShortName,Fortified Castle Building
+BuildingPropCastleDescription,Lord over your island and make other Teams pledge fealty with this magnificent medieval centerpiece for your base. [Main Building Slot]
+WaterPropMiniPirateBoatName,Mini Pirate Boat
+WaterPropMiniPirateBoatShortName,Mini Pirate Boat
+WaterPropMiniPirateBoatDescription,"While the other Teams are watching you take their tiles, use this mighty mini ship to let them know you're stealing their treasure. [Water Slot]"
+FlyingPropMoonRabbitName,Moon Rabbit
+FlyingPropMoonRabbitShortName,Moon Rabbit
+FlyingPropMoonRabbitDescription,"Contested Territories is all about capturing, and this adorable Moon Rabbit will capture everyone's imagination.  [Air Slot]"
+Deselect,Deselect
+CTDailyTitle,Daily Bonus
+CTDailySubtitle,Today's Player Tickets
+CTDailyDescription,When a Player Ticket is used to capture a Tile
+CTDailyTrophies,Daily Bonus Trophies
+TileRecap,Tile Recap
+PlusCTPoints, +{0} CT Points
+CTRulesInfoSubtitle,"Welcome to Contested Territories! Work together with your Team, capture Tiles, come out on top of the leaderboards and earn great rewards!"
+CTRulesInfoSectionOne,• Capture Tickets are only used if you capture a Tile. They refresh every 24 hours.
+CTRulesInfoSectionTwo,• Unused Capture Tickets will go into a pool of Tickets that can be used by other Team members the following day. Team tickets do not contribute to personal leaderboard placing.
+CTRulesInfoSectionThree,"• Once captured, Tile scores will slowly degrade over time, until the Tile eventually becomes neutral."
+CTRulesInfoSectionFour,"• CT Points are earned when capturing a Tile and every hour that you continue to hold a Tile. CT Points decide your personal and Team placing on the leaderboard, so grab Tiles as often as you can!"
+CTRulesInfoSectionFive,• Banner Tiles are harder Tiles that give lots more CT Points.
+CTRulesInfoSectionSix,• Relic Tiles give your team access to powerful Relic Knowledges that will in turn help you when capturing Tiles.
+CTRulesInfoSectionSeven,• Tile progress is saved every 20 rounds and you can only have one in-progress save at a time.
+TeamTrophyStoreRulesInfoSubtitle,"This is the Team Trophy Store, where you can choose unlocked CT Relics and fund Daily Powers, Event Relics and Team Flair."
+TeamTrophyStoreRulesInfoSectionOne,• Daily Powers are available to unlock each day during the CT event and once funded can be used by the whole Team for that day.
+TeamTrophyStoreRulesInfoSectionTwo,• Event Relics become available throughout the CT event and once funded are useable for the rest of that event. They are separate from Relics unlocked via Relic Tiles.
+TeamTrophyStoreRulesInfoSectionThree,• Capture Relic Tiles and then choose up to 4 of your favorite Relic Knowledges to use this event. You can swap them out at any time.
+TeamTrophyStoreRulesInfoSectionFour,• Team Flair is funded by the entire Team and once funded is permanently unlocked for your Team. Players leaving the Team do not take Team Flair with them.
+PlaySocialCaps,PLAY SOCIAL
+SelectCapturedRelics,Select up to 4 Captured Relics
+NextBonusIn,Next Bonus in:
+MemberCount,Member Count
+Min,Min
+PrimeGamingText,Claim your Prime Gaming drop
+GetNow,Get Now

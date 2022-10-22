@@ -150,7 +150,7 @@ Gwendolin Level 1 Description,可使用她的噴火槍打爆氣球。
 Gwendolin Level 2 Description,稍微增加每次射擊的擊破力。
 Gwendolin Level 3 Description,火焰雞尾酒：投擲一瓶易燃液體，燒掉穿過火的氣球。
 Gwendolin Level 4 Description,燒起來 - 每隔幾秒鐘就會產生強大的火力衝擊波，可擊破氣球並給周圍的 Monkeysâ€™攻擊增加火攻。
-Gwendolin Level 5 Description,增加擊破力。
+Gwendolin Level 5 Description,擊破力增加。火環、信號彈和龍之吐息的攻擊速度和攻擊範圍增加10%。
 Gwendolin Level 6 Description,攻擊對目標氣球有燃燒效果。
 Gwendolin Level 7 Description,燒起來攻擊範圍增大，火焰鷄尾酒傷害增加。
 Gwendolin Level 8 Description,每次射擊射出2顆燃燒彈。
@@ -163,7 +163,7 @@ Gwendolin Level 14 Description,火焰雞尾酒造成額外傷害，並使MOAB級
 Gwendolin Level 15 Description,攻速提升。
 Gwendolin Level 16 Description,烈焰暴的持續時間延長，並且可以造成更高傷害。紫氣球不再對Gwendolin的攻擊免疫。
 Gwendolin Level 17 Description,燒起來，使受影響的猴子可額外擊破1層，並對鉛氣球造成的傷害+2。
-Gwendolin Level 18 Description,攻速提升。
+Gwendolin Level 18 Description,攻擊速度加快。火環、信號彈和龍之吐息的攻擊速度和攻擊範圍增加20%。
 Gwendolin Level 19 Description,每次射擊射出3顆燃燒彈。
 Gwendolin Level 20 Description,烈焰爆會造成巨大的傷害。
 ,
@@ -232,11 +232,11 @@ ObynGreenfoot Level 20 Description,樹牆現可阻止更多的氣球。
 ,
 Ezili Level 1 Description,Ezili使用巫毒力量詛咒氣球。
 Ezili Level 2 Description,攻擊範圍增大。
-Ezili Level 3 Description,心跳終止：6秒內防止重生髮生。
+Ezili Level 3 Description,心跳终止：減緩氣球移動速度，允許擊破紫氣球，並防止任何氣球再生，效果持續10秒。
 Ezili Level 4 Description,Ezili的主要攻擊現在可詛咒多個氣球。
 Ezili Level 5 Description,攻速提升。
 Ezili Level 6 Description,持續傷害持續時間更長，傷害更快。
-Ezili Level 7 Description,獻祭圖騰:一種圖騰，可給周圍的猴子提供偽裝偵測、額外穿透力、攻擊範圍、攻擊速度和射彈速度。吸掉10條性命。
+Ezili Level 7 Description,獻祭圖騰：一種圖騰，可給周圍的猴子（尤其是巫師猴）提供偽裝偵測、額外的穿透力、攻擊範圍、攻擊速度和射彈速度。吸取10點生命。
 Ezili Level 8 Description,Ezili的攻擊對MOAB級氣球產生更多傷害。
 Ezili Level 9 Description,Ezili 的攻擊去除了非 MOAB 級氣球的偽裝、重生與強化屬性。
 Ezili Level 10 Description,MOAB詛咒：對MOAB級氣球實施詛咒，在被摧毀之前每秒都造成傷害。
@@ -282,8 +282,8 @@ Rallying Roar Ability Description,短時間內使附近所有猴子的爆破力+
 Big Squeeze Ability Description,抓取MOAB、BFB、DDT（如果可見）或ZOMG，並在5秒內將其壓碎。
 Brambles Ability Description,在路徑上生成尖刺灌木，可擊破 20 個氣球。
 Wall of Trees Ability Description,在路徑上召喚一堵破壞入侵氣球的樹木牆。結滿的時候，樹木綻放出金錢。
-Heartstopper Ability Description,避免在 6 秒鐘內再生。
-Sacrificial Totem Ability Description,向周圍的猴子提供偽裝探測功能、額外刺穿效果、提高攻擊範圍、攻擊速度以及射擊速度。消耗 10 條命。
+Heartstopper Ability Description,允許擊破紫氣球，並防止任何氣球再生，效果持續10秒。
+Sacrificial Totem Ability Description,一種圖騰，可給周圍的猴子（尤其是巫師猴）提供偽裝偵測、額外的穿透力、攻擊範圍、攻擊速度和射彈速度。吸取10點生命。
 MOAB Hex Ability Description,向 MOAB 級氣球添加詛咒，每秒都發出傷害，直到最後被消滅。
 ,
 //Hero Misc,
@@ -694,7 +694,7 @@ Long Range Darts Description,讓飛鏢猴子的射擊距離更遠。
 Razor Sharp Shots Description,每次射擊可額外擊破2個氣球。
 Very Quick Shots Description,射擊速度增加33%！
 Enhanced Eyesight Description,射得還要更遠，還可檢測到偽裝氣球。
-Spike-o-pult Description,將飛鏢猴子轉換為針刺投石機，不再投擲飛鏢，而是大刺球。射程不錯，但射速較低。每球都能擊破大量的氣球。
+Spike-o-pult Description,將飛鏢猴子轉換為針刺投石機，不再投擲飛鏢，而是大刺球。每球都能擊破大量的氣球，並且碰到障礙物會彈回來。
 Triple Shot Description,一次扔3支飛鏢，而不是1支。
 Crossbow Description,使用長射程弩車，每次攻擊擊破三層氣球。
 Juggernaut Description,投擲巨大刺球，能擊破鉛氣球，對陶瓷氣球極具破壞力。
@@ -756,7 +756,7 @@ Permafrost Description,氣球解凍後仍然移動緩慢。
 Enhanced Freeze Description,攻擊速度更快，凍結時間更長。
 Larger Radius Description,更大凍結區域。
 Metal Freeze Description,可以凍結和擊破鉛氣球和僞裝氣球。
-Deep Freeze Description,可凍結2層氣球。
+Deep Freeze Description,凍結額外一層氣球且凍結時間更長。
 Re-Freeze Description,可對已經凍結的氣球再次凍結。
 Ice Shards Description,凍結氣球爆掉時飛出剃刀尖銳碎片。
 Arctic Wind Description,大幅增加穿透力，並獲得超冷光環，可使靠近的氣球減速和凍結附近的水面。
@@ -798,13 +798,13 @@ Supply Drop Description,搖錢樹技能：掉下一個裝滿現金的寶箱。�
 Full Auto Rifle Description,全自動武器，具備難以置信的擊破力。
 Cripple MOAB Description,被致殘的MOAB氣球被困住的時間更長，且其他類打擊對它有額外的傷害。
 Elite Sniper Description,空投補給帶來了更多的現金。為所有狙擊手賦予精英目標神諭及快速裝填屬性。
-Elite Defender Description,失去生命可以使狙擊手短時間内獲得4倍的攻擊速度進行報復，并且可以對MOAB級氣球造成更多傷害。
+Elite Defender Description,氣球沿著路徑移動得越遠，攻擊速度就也越快。失去生命可以使狙擊手獲得4倍攻速。對MOAB級氣球造成更多傷害。
 ,
 Longer Range Description,增加攻擊範圍。
 Barbed Darts Description,潛艇的飛鏢可額外擊破3個氣球。
 Twin Guns Description,添加雙槍時攻擊速度翻倍。增強彈道導彈和氣球反應堆。
 Advanced Intel Description,允許遠程瞄準在其他塔的半徑範圍之內的氣球。
-Heat-tipped Darts Description,熱尖飛鏢可擊破凍結及鉛氣球。
+Heat-tipped Darts Description,炙熱且鋒利的飛鏢可擊破凍結氣球和鉛氣球。
 Airburst Darts Description,空爆飛鏢在接觸時分成3個，可獲得巨大的擊破力。進一步增強氣球反應堆。
 Submerge and Support Description,增加潛入鎖定目標選項，可在其半徑內永久顯示偽裝氣球，但無法在潛入時進行攻擊。
 Ballistic Missile Description,飛彈可在範圍內追蹤目標，並對MOAB氣球和陶瓷氣球有額外傷害。
@@ -826,7 +826,7 @@ Buccaneer-Destroyer Description,進攻速度超超快！
 Buccaneer-Cannon Ship Description,增加強大的大砲，可射出強大的炸彈。
 Buccaneer-Merchantman Description,每回合自動生成現金。
 Buccaneer-Aircraft Carrier Description,啟動一波波的戰鬥機掃射氣球，對MOAB級氣球發射飛彈。
-Buccaneer-Monkey Pirates Description,為戰船增加2門大炮，並且大炮攻擊可造成更高傷害。MOAB追擊技能：追擊MOAB級氣球，將它擊毀。
+Buccaneer-Monkey Pirates Description,為戰船增加2門大砲，並且大砲攻擊可造成更高傷害。MOAB追擊技能：追擊MOAB級氣球，將它擊毀。
 Buccaneer-Favored Trades Description,攻擊速度加快，每回合的收入增加。作用範圍內猴子的售價增加。
 Buccaneer-Carrier Flagship Description,造成額外傷害。可將其他猴子放置在船的上層甲板，增加所有水面猴子王牌猴子的攻擊速度。
 Buccaneer-Pirate Lord Description,大幅加快所有攻擊的速度，一次可射出3個抓鉤，每用它們擊落一艘MOAB級氣球，可掉落額外現金。
@@ -874,11 +874,11 @@ Shockwave Description,爆炸衝擊波可將接觸到的氣球擊暈，擊破很�
 Heavy Shells Description,重型砲彈可對陶瓷氣球，鉛氣球和所有強化氣球造成額外傷害，還可擊破黑氣球。
 Signal Flare Description,被信號彈擊破的偽裝氣球永久失去偽裝。
 The Big One Description,毀滅性爆炸可擊破7層氣球，並使燃燒造成的傷害進一步增加
-Artillery Battery Description,火砲台升級為3個砲管，以超乎想像的速度攻擊。
+Artillery Battery Description,砲擊技能：對較大範圍内的目標發動快速砲擊。主攻擊可對BAD級和頭目級氣球造成更高傷害。火砲台升級為3個砲管，以超乎想像的速度攻擊。
 Shattering Shells Description,粉碎砲彈將去除氣球的所有特性，但是最大的氣球除外。
 The Biggest One Description,爆炸衝擊可擊破大片範圍內的氣球及氣球層，並造大量燃燒傷害。
-Pop and Awe Description,爆炸並畏怯技能：爆炸如雨點覆蓋整個螢幕，擊破並困住所有氣球，持續幾秒。
-Blooncineration Description,每次射擊超熱刺釘可以熔化5層氣球，點燃MOAB級氣球造成往外傷害，消除DDT偽裝。
+Pop and Awe Description,爆炸並畏怯技能：爆炸如雨點覆蓋整個螢幕，擊破並困住所有氣球，持續幾秒。所有火砲臺可對BAD級和頭目級氣球造成更高傷害。主攻擊可對被擊暈的氣球造成額外傷害。
+Blooncineration Description,每次射擊超熱刺釘可以熔化5層氣球，點燃MOAB級氣球造成往外傷害。
 ,
 Focused Firing Description,提高了飛鏢槍的精度。
 Advanced Targeting Description,使飛鏢槍手能夠命中偽裝氣球。
@@ -918,7 +918,7 @@ Super Range Description,超猴需要超級射程。
 Knockback Description,每次打擊，氣球都被向後推，且速度減慢。
 Plasma Blasts Description,電漿可將幾乎所有觸及到的東西汽化。
 Epic Range Description,如果你能用上史詩級，還要什麼超級？
-Ultravision Description,使超猴的射程稍遠，並可看見偽裝氣球。
+Ultravision Description,使超猴的射程略微增加，能夠偵測僞裝氣球，並對它們造成更高傷害。
 Sun Avatar Description,可利用日核的能量。
 Robo Monkey Description,半超猴，半殺手死亡機器人。同時使用2把槍射擊！
 Dark Knight Description,暗刃可增加擊退和穿透力，对MOAB級氣球造成額外傷害。獲得黑暗轉移技能，可轉移至附近的一個位置。
@@ -951,7 +951,7 @@ Acid Pool Description,如果煉金術士附近沒有氣球在附近，則用酸�
 Acidic Mixture Dip Description,向附近的猴子扔出增益藥劑，使它們能擊破鉛氣球，並對陶瓷氣球和MOAB級氣球造成額外傷害，會在幾次攻擊後失效。
 Perishing Potions Description,攻擊藥水對MOAB級氣球輸出更多傷害，去除小氣球的加強屬性。還可以強化釀造和興奮劑的效果。
 Alchemist Faster Throwing Description,投擲藥水，攻擊速度加快。
-Berserker Brew Description,特別釀造可給猴子增加額外攻擊力，攻擊範圍和攻擊速度。持續較長時間。
+Berserker Brew Description,向附近的猴子投擲特殊啤酒，使它們的攻擊範圍、攻擊速度和造成的傷害增加
 Unstable Concoction Description,將MOAB級氣球塗上爆炸物質，使它們在被擊破時造成巨大爆炸。
 Lead to Gold Description,将鉛氣球轉換成金幣！特殊溶劑可對鉛氣球造成額外傷害，一擊就能摧毀它們，並生成現金。
 Stronger Stimulant Description,超强釀造對目標還有更强大的效果。持續更長時間。
@@ -1870,7 +1870,7 @@ RapidRazorsDescription,剃刀轉子可以更快地擊破氣球。
 BudgetBattery,廉價砲臺
 BudgetBatteryDescription,火砲臺花費減少600。
 PaintStripper,油漆剝離器
-PaintStripperDescription,迫擊砲彈片可以去除DDT氣球的偽裝。
+PaintStripperDescription,迫擊砲彈片可以去除DDT氣球的強化。
 CheaperMaiming,廉價致殘
 CheaperMaimingDescription,致殘MOAB的花費減少1000。
 ChargedChinooks,充能奇努克
@@ -2638,17 +2638,17 @@ Adora Level 5 Description,神聖閃電能夠擊破更多氣球。
 Adora Level 6 Description,每次發射3個神聖閃電。
 Adora Level 7 Description,血祭：犧牲一個目標塔，使安多拉獲得大量經驗值，並在短時間內擴大她的攻擊範圍和加快她的攻擊速度。
 Adora Level 8 Description,每次發射4個神聖閃電。
-Adora Level 9 Description,攻擊範圍增大。
+Adora Level 9 Description,攻擊範圍增加，並且可對強化氣球造成更高傷害。
 Adora Level 10 Description,光球：發出一個能量球，擊倒氣球。
 Adora Level 11 Description,安多拉的攻擊速度增加。
 Adora Level 12 Description,每次發射5個神聖閃電。
-Adora Level 13 Description,神聖閃電能夠擊破更多氣球。
+Adora Level 13 Description,神聖閃電能夠穿透更多氣球。可對強化氣球造成更高傷害。
 Adora Level 14 Description,每次發射6個神聖閃電。
 Adora Level 15 Description,神聖閃電能夠額外燒毀一層氣球。
 Adora Level 16 Description,光之長臂變得更加致命。
 Adora Level 17 Description,安多拉的攻擊速度進一步增加。
 Adora Level 18 Description,每次發射8個神聖閃電。
-Adora Level 19 Description,攻擊範圍增大。
+Adora Level 19 Description,攻擊範圍增加。可對強化氣球造成更高傷害。
 Adora Level 20 Description,光球大幅度提升。
 Carved,鬼臉南瓜
 BloodyPuddles,血腥水坑
@@ -2700,7 +2700,7 @@ WolfpackQuincySkinName,Wolfpack Quincy
 WolfpackQuincySkinDescription,在久遠的狂野歲月裡，所有的獵人都很強壯，隊伍也更強大，那個人就是Quincy，Quincy一族的祖先。
 Infernal,無間地獄
 DownloadButton,下載
-DownloadDescription,正在下載額外文檔。建議使用Wi-fi。資料大小{0}MB
+DownloadDescription,需要先更新文件才能繼續遊戲。建議使用Wi-fi連接。資料大小{0}MB
 ViewCollectionButton,查看收藏
 ViewInventoryButton,查看庫存
 CollectionDescription,即時猴子在您的收藏中一直可見，即使在使用之後。
@@ -2751,8 +2751,8 @@ DarkKnightDarkshift,[I]黑暗轉移至範圍內
 DarkChampionDarkshift,[I]黑暗轉移至任何有效位置
 SmallTowersMode,小猴子塔
 BigTowersMode,大猴子塔
-UpdatePopupTitle,更新 32！
-UpdatePopupDescription,史詩級爭議領土更新！\n•全新大型活動：爭議領土 - 從其他戰隊手中奪取地塊，稱霸排行榜！\n •戰隊！找上好友，組成勢不可擋的戰隊，征服爭議領土\n•新的巔峰：建造大師\n•新的英雄皮膚：Voidora\n•新的中級地圖：採石場\n•獎盃商店物品，生活素質改進、平衡性修改等！
+UpdatePopupTitle,更新 33！
+UpdatePopupDescription,海量内容更新！\n• 推出令人敬畏的巨人末日飛船，王牌猴子巔峰！\n• 玩家可以在中級地圖 - 隱蔽的花園 - 修鍊擊破力！由社群地圖比賽獲勝者SuperPsou設計。\n• 新的高級地圖 - 午夜豪宅 - 陰森恐怖，走廊上鬼影重重！\n• 獎盃商店物品：生活素質改進、平衡性修改等！
 ResetDailyChest,重設每日寶箱
 JukeboxName,自動唱機
 EnableFunction,啟用
@@ -4413,11 +4413,11 @@ GameUIProfileAvatar59Description,你可以從他的雙眼中感受到愛意。�
 GameUIProfileAvatar60Name,攻擊者Jones化身
 GameUIProfileAvatar60ShortName,攻擊者Jones化身
 GameUIProfileAvatar60Description,攻擊者Jones前來報到！用你最喜歡的肩部發射猴子來表達必勝的信念。
-GameUIProfileBanner13Name,新來者橫幅
-GameUIProfileBanner13ShortName,新來者個人檔案橫幅
+GameUIProfileBanner13Name,新來者個人檔案橫幅
+GameUIProfileBanner13ShortName,新來者橫幅
 GameUIProfileBanner13Description,橫幅獲勝者betapotata
-GameUIProfileBanner14Name,水下世界橫幅
-GameUIProfileBanner14ShortName,水下世界個人檔案橫幅
+GameUIProfileBanner14Name,水下世界個人檔案橫幅
+GameUIProfileBanner14ShortName,水下世界橫幅
 GameUIProfileBanner14Description,橫幅獲勝者Cyliia
 GameUIMusicTrackMusicSunshineFiestaMixName,自動唱機：陽光小夜曲 - 狂歡節混音
 GameUIMusicTrackMusicSunshineFiestaMixShortName,陽光小夜曲 - 狂歡節
@@ -4588,7 +4588,7 @@ TeamBannersTitle,橫幅
 TeamGeneralTitle,一般
 TeamSettingPublicTitle,公開
 TeamSettingPrivateTitle,私人
-TeamSettingClosedTitle,已關閉
+TeamSettingClosedTitle,僅限邀請
 TeamJoin,加入
 TeamApply,套用
 RecentWin,最近獲勝：
@@ -4600,8 +4600,8 @@ Tile,地塊：{0}
 RelicTile,聖物地塊
 BannerTile,橫幅地塊
 BonusCTPoints,獎勵CT點數！
-DailyRelics,每日聖物
-HeldRelics,擁有聖物
+DailyRelics,每日力量和活動聖物
+HeldRelics,占領的聖物
 Tickets,票券：
 PurchaseTickets,購買票券
 MoreTicketsIn,票券刷新時間：
@@ -4728,7 +4728,7 @@ RelicExtraEmpoweredDescription,遊戲開始時英雄的等級額外增加3級（
 RelicBoxOfChocolatesDescription,每局遊戲開始時獲得額外100點生命
 RelicBoxOfMonkeyDescription,每局遊戲開始時免費獲得一隻花費不超過$500的猴子，進行未經修改的初始放置
 RelicMarchingBootsDescription,在數量受限的遊戲中，使玩家武裝中的每種防禦塔最大數量+1，或每局遊戲最大總數+4
-RelicHeroBoostDescription,英雄在每局遊戲中獲取的經驗值增加10%
+RelicHeroBoostDescription,英雄在每局遊戲中獲取的經驗值增加15%
 RelicBiggerBloonSabotageDescription,所有生成的MOAB氣球，生命值減少15%，移動速度將為95%
 RelicRoundingUpDescription,每回合結束時獲得$20
 RelicManaBulwarkDescription,創造一個最多可吸收50點生命的護盾（可與普通地塊上的法力護盾疊加）
@@ -4742,11 +4742,11 @@ RelicRoyalTreatmentDescription,所有攻擊可擊破紫氣球
 RelicHardBakedDescription,所有攻擊對陶瓷氣球造成的傷害+1
 RelicFortifriedDescription,所有攻擊對強化氣球造成的傷害+1
 RelicMoabClashDescription,所有攻擊對MOAB級氣球造成的傷害+3
-RelicCamoFloggedDescription,所有攻擊對偽裝氣球造成的傷害+1
+RelicCamoFloggedDescription,所有攻擊對偽裝氣球造成的傷害+3
 RelicBrokenHeartDescription,所有攻擊對重生氣球造成的傷害+1
-RelicGoingTheDistanceDescription,所有猴子的攻擊範圍增加10%
+RelicGoingTheDistanceDescription,所有猴子的攻擊範圍增加20%
 RelicHeartlessDescription,重生氣球的再生速度減慢25%
-RelicFlintTipsDescription,銳利射彈對氣球造成傷害時可對它們附加火焰周期性傷害（每2秒造成1點傷害，持續4秒）
+RelicFlintTipsDescription,銳利射彈對氣球造成傷害時可對它們附加火焰周期性傷害（每2.5秒造成1點傷害，持續5秒）
 RelicAbilitizedDescription,所有猴子的激活技能的冷卻時間減少10%
 RelicAirAndSeaDescription,王牌猴子、直升機猴子、海盜猴子和猴子潛艇的放置和升級花費減少10%，並且裝彈速度加快5%
 RelicElDoradoDescription,通過遊戲勝利獲得的猴幣和戰隊獎盃獎勵增加25%（最少+1）
@@ -4755,7 +4755,7 @@ RelicMonkeyShieldMark2Description,奪取後2小時內，地塊無法被敵方戰
 RelicMonkeyShieldMark3Description,奪取後3小時內，地塊無法被敵方戰隊攻擊。強化分數將再次生效。
 RelicPsiVisionDescription,查看地圖上所有地塊的詳情
 RelicOpenSeasonDescription,攻擊地圖上任意地塊
-RelicCamoTrapDescription,每局遊戲可以使用2次偽裝陷阱強化道具
+RelicCamoTrapDescription,每局遊戲可以使用一次僞裝陷阱強化道具
 RelicThriveDescription,每局遊戲可以使用2次茁壯成長強化道具
 RelicSuperMonkeyStormDescription,每局遊戲可以使用2次超猴風暴
 RelicMonkeyBoostDescription,每局遊戲可以使用3次猴子助力
@@ -4792,7 +4792,7 @@ TeamBrowserTitle,戰隊瀏覽器
 TeamBrowserSearchField,輸入戰隊名稱
 TeamBrowserSearchHideFull,隱藏整個戰隊
 TeamBrowserSearchHidePrivate,隱藏私人戰隊
-TeamBrowserSearchHideClosed,隱藏已關閉戰隊
+TeamBrowserSearchHideClosed,隱藏僅限邀請戰隊
 TeamEditApplyAll,全部套用
 TeamScore,分數：{0}
 TeamRemoveMember,你確定要移除此成員嗎？
@@ -4821,7 +4821,7 @@ TeamMateSetScore,戰隊成員設定了新的目標分數！
 AnotherTeamSetScore,另一個戰隊設定了新的目標分數！
 FriendScreenErrorTeamInviteAlreadyMember,此玩家已在你的戰隊中
 TotalTeamScore,戰隊分數
-CTRulesInfo,歡迎來到爭議領土！與戰隊成員通力協作，奪取地塊、稱霸排行榜，獲取豐厚獎勵！\n\n•只有在你奪取地塊時才使用奪取票券。每24小時刷新一張。\n•沒有使用的票券會使用票券池，其他戰隊成員可以在第二天使用它們。\n•奪取地塊後，地塊分數會逐漸降低，直到地塊在24小時後恢復中立狀態。\n•奪取地塊和每佔領地塊一小時都可以獲得CT點數。CT點數將決定你個人及戰隊在排行榜上的排名，因此儘可能多地奪取地塊吧！\n•橫幅地塊的奪取難度更高，可以提供更多CT點數。\n•聖物地塊可能讓你的戰隊使用強大的聖物知識，可以在奪取地塊時為你提供幫助。\n•系統每20回合儲存一次地塊進度，你一次只能儲存一個地塊的進度。\n•你可以在戰隊獎盃商店中為自己最喜歡的聖物投票，然後在戰前準備頁面選擇你要帶入戰鬥的聖物。
+CTRulesInfo,歡迎來到爭議領土！與戰隊成員通力協作，奪取地塊、稱霸排行榜，獲取豐厚獎勵！\n\n•只有在你奪取地塊時才使用奪取票券。每24小時刷新一張。\n•沒有使用的票券會進入票券池，其他戰隊成員可以在第二天使用它們。戰隊票券不會影響個人排行榜的排名。\n•奪取地塊後，地塊分數會逐漸降低，直到地塊最終恢復中立狀態。\n•奪取地塊和每佔領地塊一小時都可以獲得CT點數。CT點數將決定你個人及戰隊在排行榜上的排名，因此儘可能多地奪取地塊吧！\n•橫幅地塊的奪取難度更高，可以提供更多CT點數。\n•聖物地塊可能讓你的戰隊使用強大的聖物知識，可以在奪取地塊時為你提供幫助。\n•系統每20回合儲存一次地塊進度，你一次只能儲存一個地塊的進度。
 TeamTrophyStoreRulesInfo,這裡是戰鬥獎盃商店，你可以在這裡為已解鎖的CT聖物投票，資助每日力量、活動聖物和戰隊天賦。\n•每日力量會在每天的CT活動中解鎖，一旦資助，整個戰隊當天都可以使用。\n•活動聖物在CT活動期間一直可用，一旦資助，活動餘下時間都可以使用。它們與通過聖物地塊解鎖的聖物不一樣。\n•奪取聖物地塊，然後為此活動中你最喜歡的已解鎖聖物知識投票。你可以在最終武裝中從前7種聖物中選出4種。\n•戰隊天賦需要整個戰隊資助，一旦完成就對你的戰隊永久解鎖。玩家離開戰隊後將失去戰隊天賦。
 TeamsBanner1Name,太空中的猴子橫幅
 TeamsBanner2Name,英雄聯手橫幅
@@ -4912,22 +4912,22 @@ BasePropSatelliteShortName,移動衛星車
 BasePropTortoiseShortName,部落龜
 BasePropBattleMonkeyShortName,戰鬥猴子
 BuildingPropBattleTowerShortName,基地塔建築
-BuildingPropWizardTowerDescription,能夠資助此魔法基地的戰隊將展開魔法冒險。
-BuildingPropLighthouseDescription,這座燈火通明的主基地將為整個戰隊照亮前路。
-FlyingPropPhoenixDescription,每個人都想知道這裡是不是有一隻巫師猴子，但有誰想過巫師猴只不過在等待涅槃重生的不死鳥？
-FlyingPropMiniAceDescription,用這隻可愛的王牌猴子為你的戰隊守護上空。
-WaterPropKrakenDescription,放出海怪！用這隻異常可愛的海底巨型生物統治這片水域。
-WaterPropMiniSubDescription,潛望鏡升起！派出迷你潛艇偵測這片區域。
-BasePropKingDescription,歡迎來到我們新的猴子…我是說爭議領土！氣球在這片土地橫行肆虐！率領你的戰隊擊破它們，確保這裡的安全。
-BasePropLighthouseKeeperDescription,這位年長且充滿智慧的猴子負責看護這座燈塔，他總是在夜晚瞭望過往的船隻。
-BasePropCrashedMoabDescription,一隊精銳猴子科學家為尋找有用的科技已對此殘骸進行了徹底搜索，現在之所以將它放置在那裡，是為了警告其他氣球。
-BasePropTrainingDummyDescription,用100%可重複使用的訓練假人使你的飛鏢猴保持警覺狀態！
-BasePropCampfireDescription,在寒冷的夜晚為你的戰隊保暖，或者給營火周圍的成員講關於爭議領土的恐怖故事。
-BasePropTotemDescription,用這種駭人的部落圖騰來保護你的邊境。
-BasePropSatelliteDescription,這輛移動衛星車準備出發，能直接從天空傳送資訊！
-BasePropTortoiseDescription,別問他是否有部落親戚，尤其是烏龜！
-BasePropBattleMonkeyDescription,爭議領土猴子，準備就緒！
-BuildingPropBattleTowerDescription,任何進入爭議領土的戰隊都需要一座堅固的基地。
+BuildingPropWizardTowerDescription,能夠資助此魔法基地的戰隊將展開魔法冒險。[主建築欄]
+BuildingPropLighthouseDescription,這座燈火通明的主基地將為整個戰隊照亮前路。[主建築欄]
+FlyingPropPhoenixDescription,每個人都想知道這裡是不是有一隻巫師猴子，但有誰想過巫師猴只不過在等待涅槃重生的不死鳥？[天空欄]
+FlyingPropMiniAceDescription,用這隻可愛的王牌猴子為你的戰隊守護上空。[天空欄]
+WaterPropKrakenDescription,放出海怪！用這隻異常可愛的海底巨型生物統治這片水域。[水域欄]
+WaterPropMiniSubDescription,潛望鏡升起！派出迷你潛艇偵測這片區域。[水域欄]
+BasePropKingDescription,歡迎來到我們新的猴子…我是說爭議領土！氣球在這片土地橫行肆虐！率領你的戰隊擊破它們，確保這裡的安全。[島嶼欄]
+BasePropLighthouseKeeperDescription,這位年長且充滿智慧的猴子負責看護這座燈塔，他總是在夜晚瞭望過往的船隻。[島嶼欄]
+BasePropCrashedMoabDescription,一隊精銳猴子科學家為尋找有用的科技已對此殘骸進行了徹底搜索，現在之所以將它放置在那裡，是為了警告其他氣球。[島嶼欄]
+BasePropTrainingDummyDescription,用100%可重複使用的訓練假人使你的飛鏢猴保持警覺狀態！[島嶼欄]
+BasePropCampfireDescription,在寒冷的夜晚為你的戰隊保暖，或者給營火周圍的成員講關於爭議領土的恐怖故事。[島嶼欄]
+BasePropTotemDescription,用這種駭人的部落圖騰來保護你的邊境。[島嶼欄]
+BasePropSatelliteDescription,這輛移動衛星車準備出發，能直接從天空傳送資訊！[島嶼欄]
+BasePropTortoiseDescription,別問他是否有部落親戚，尤其是烏龜！[島嶼欄]
+BasePropBattleMonkeyDescription,爭議領土猴子，準備就緒！[島嶼欄]
+BuildingPropBattleTowerDescription,任何進入爭議領土的戰隊都需要一座堅固的基地。[主建築欄]
 Neutral,中立
 TilesCaptured,已奪取的地塊：
 CTPointsEarnt,已獲取的CT點數：
@@ -4972,22 +4972,149 @@ Now,立即
 Players,玩家
 LocalRewards,本地獎勵
 GlobalRewards,全球獎勵
-RewardsTop10,前10名
-RewardsTop20,前20名
-RewardsTop40,前40名
-RewardsTop60,前60名
-RewardsTopX,前{0}名
-Rank5th,第 5 名
-Rank6th,6日
-TeamName,隊名
-CTPoints,CT 點
+RewardsTop10,前10
+RewardsTop20,前20
+RewardsTop40,前40
+RewardsTop60,前60
+RewardsTopX,前{0}
+Rank5th,第5
+Rank6th,第6
+TeamName,戰隊名稱
+CTPoints,CT點數
 Contribute,貢獻
-ContributeTrophies,貢獻獎杯
-ColorblindEnabled,啟用色盲模式！
-ColorblindDisabled,色盲模式已禁用
-Local,當地的
-KickPending,待刪除
-SentryParagonGreen,綠色哨兵典範
-SentryParagonRed,紅色哨兵典範
-SentryParagonBlue,藍色哨兵典範
-TeamManagement,團隊管理
+ContributeTrophies,貢獻獎盃
+ColorblindEnabled,色盲模式已啟用！
+ColorblindDisabled,色盲模式已停用！
+Local,本地
+KickPending,踢出待定
+SentryParagonGreen,綠色哨兵巔峰
+SentryParagonRed,紅色哨兵巔峰
+SentryParagonBlue,藍色哨兵巔峰
+TeamManagement,戰隊管理
+ERR_FEATURE_TEMPORARILY_UNAVAILABLE,你的賬戶已被標幟，因此該功能無法使用。更多資訊，請瀏覽https://ninja.kiwi/ffgpd7
+PlayerWillBeRemoved,當前CT活動結束後，系統會將玩家移除戰隊
+Epic login,正在登入Epic賬戶，正在檢查權限
+FriendScreenErrorTeamInviteMaxInvitesSent,發出邀請的已達最大數量，請稍後再試
+CantJoinTeamFromSameCT,無法通過你上次所在的相同CT實例加入一個戰隊
+RemovedFromTeam,你已被移除戰隊。請加入其他戰隊，然後重試
+TileNoLongerAccessible,此地塊不再可用。請刷新CT，然後重試
+CTTilesHeld,佔領的地塊
+CTPointsProjected,預計點數
+ConfirmCancelRequest,你是否確定要取消你的要求？
+CouchCoop,同螢幕組隊模式
+TeamTicketUsed,已使用戰隊票券
+PersonalTicketUsed,已使用個人票券
+TeamScreenCodeHidden,已隱藏戰隊代碼
+ERR_ANOTHER_REQUEST_PENDING,另一個要求已擱置
+QuickJoinSearchForTeam,正在搜索戰隊以加入…
+QuickJoinJoiningTeam,正在加入戰隊…
+QuickJoinCancel,正在取消…
+MidnightMansion,午夜豪宅
+CoveredGarden,隱蔽的花園
+MonkeyAce Paragon,巨人末日飛船
+MonkeyAce Paragon Description,一個飛舞的黑影招致氣球毀滅。
+CreateOrJoinTeamLeaveFirst,你已在戰隊中。
+TeamMsgBannerTileLost,你的一個橫幅地塊被{0}奪取了。現在把它奪回來吧！
+CTPlayerPopupNoData,進入CT以載入此資料
+HeroesJoanOfArcAdoraPetDragonName,聖女貞德金龍寵物
+HeroesJoanOfArcAdoraPetDragonShortName,聖女貞德金龍寵物
+HeroesJoanOfArcAdoraPetDragonDescription,無需成為聖女，你就能感受到這隻金龍寶寶伴飛你左右的樂趣。僅限聖女貞德
+TowerPetMonkeyAceDragonflyName,王牌猴子蜻蜓寵物
+TowerPetMonkeyAceDragonflyShortName,王牌猴子蜻蜓寵物
+TowerPetMonkeyAceDragonflyDescription,靈巧的蜻蜓寵物在跑道上迫不及待地準備迎接凱旋而歸的王牌猴子！
+BloonsDDTSkinSpiderName,蜘蛛DDT
+BloonsDDTSkinSpiderShortName,蜘蛛DDT
+BloonsDDTSkinSpiderDescription,使DDT氣球像蜘蛛一樣沿著路徑倉皇而逃。現在你明白了…遊戲結束了！限時收藏家物品！
+CoopEmoteAnimationPsighName,靈能術士嘆氣表情
+CoopEmoteAnimationPsighShortName,靈能術士嘆氣
+CoopEmoteAnimationPsighDescription,這個靈能術士嘆氣表情會通過心靈感應傳達失望、惱怒和無奈。我們看見你了，3號玩家。
+GameUIProfileBanner17Name,大師忍者個人檔案橫幅
+GameUIProfileBanner17ShortName,大師忍者橫幅
+GameUIProfileBanner17Description,橫幅獲勝者：LordTeddington
+GameUIProfileBanner18Name,工程師泡沫個人檔案橫幅
+GameUIProfileBanner18ShortName,工程師泡沫橫幅
+GameUIProfileBanner18Description,橫幅獲勝者：DREAD_LEAD
+GameUIPowerSkinGlueTrapHoneyTrapName,自訂力量 - 蜜蜂粘膠陷阱
+GameUIPowerSkinGlueTrapHoneyTrapShortName,蜜蜂粘膠陷阱
+GameUIPowerSkinGlueTrapHoneyTrapDescription,要是被蜂蜜包裹住，即使是氣球，移動速度也會變慢！
+GameUIPowerSkinBananaFarmerBananaCostumeName,自訂力量 - 蕉農香蕉服裝
+GameUIPowerSkinBananaFarmerBananaCostumeShortName,香蕉農場服裝
+GameUIPowerSkinBananaFarmerBananaCostumeDescription,是不是香蕉太多了？「哎，不是！」蕉農說道。穿上蕉農香蕉服裝，讓這裡的香蕉看起來更多一點。
+GameUIProfileAvatar63Name,自訂化身 - 呐喊
+GameUIProfileAvatar63ShortName,呐喊化身
+GameUIProfileAvatar63Description,這幅畫只可能是出自一隻瘋猴子的筆下。限時收藏家物品！
+GameUIProfileBanner19Name,拼貼風個人檔案橫幅
+GameUIProfileBanner19ShortName,拼貼風橫幅
+GameUIProfileBanner19Description,依偎在一床拼貼風被子下，配上一杯熱可可…或者只是裝備這張愜意的橫幅。
+GameUIProfileBanner20Name,太陽光個人檔案橫幅
+GameUIProfileBanner20ShortName,太陽光橫幅
+GameUIProfileBanner20Description,裝備這個陽光橫幅，更好地展示你閃耀的光輝。
+GameUIProfileBanner21Name,星爆個人檔案橫幅
+GameUIProfileBanner21ShortName,星爆橫幅
+GameUIProfileBanner21Description,有人認為星星是遙遠的巨大氣團，在巨大引力的作用下，它們內核深處進行著核聚變。我們只知道它們很美麗，而且閃爍著光芒。
+GameUIProfileBanner22Name,鬧鬼門廊個人檔案橫幅
+GameUIProfileBanner22ShortName,鬧鬼門廊橫幅
+GameUIProfileBanner22Description,裝備這個鬧鬼門廊個人檔案橫幅，營造恐怖氛圍。邪惡的抓痕和扭曲的人像都是為了憐憫或紀念萬聖節。限時收藏家物品！
+GameUIProfileAvatar64Name,自定義化身 - 猴腦
+GameUIProfileAvatar64ShortName,猴腦化身
+GameUIProfileAvatar64Description,磨損的繃帶里包裹著一個破舊的人偶，正在尋找美味的大腦！！！限時收藏家物品！
+TeamsBanner7Name,寵物狂熱橫幅
+TeamsBanner7ShortName,寵物狂熱橫幅
+TeamsBanner7Description,這是一場天馬行空的寵物派對！裝備此橫幅，讚美BTD6中的寵物們！
+TeamsBanner8Name,爭議領土橫幅
+TeamsBanner8ShortName,爭議領土橫幅
+TeamsBanner8Description,裝備此橫幅，展現你奪取六邊形地塊的承諾。紅藍對決值得期待。
+TeamsEmblemIcon13Name,功夫奇異鳥圖標
+TeamsEmblemIcon13ShortName,功夫奇異鳥圖標
+TeamsEmblemIcon13Description,使出你最喜歡的不會飛的鳥的成名絕技飛踢，讓對手大吃一驚。
+TeamsEmblemIcon14Name,全能之眼圖標
+TeamsEmblemIcon14ShortName,全能之眼圖標
+TeamsEmblemIcon14Description,裝備此戰隊圖標，你的對手會對自己的一舉一動心生疑慮。
+TeamsEmblemFrame10Name,忍者捲軸地圖框
+TeamsEmblemFrame10ShortName,忍者捲軸地圖框
+TeamsEmblemFrame10Description,這個地圖框表示你的戰隊熱衷於古老的忍術。
+TeamsEmblemFrame11Name,認知力地圖框
+TeamsEmblemFrame11ShortName,認知力地圖框
+TeamsEmblemFrame11Description,用認知力地圖框表現出你的戰隊在擊破氣球方面高人一等的認知。
+BasePropPirateCrewMonkeyName,海盜船員
+BasePropPirateCrewMonkeyShortName,海盜船員
+BasePropPirateCrewMonkeyDescription,歡迎這個無賴來到你的爭議領土基地，而其他戰隊將夾著尾巴逃走。[島嶼欄]
+BasePropTelescopeName,折射望遠鏡
+BasePropTelescopeShortName,折射望遠鏡
+BasePropTelescopeDescription,目睹世間奇事，或者讓對手認為你已經悄悄發現了取勝之道。[島嶼欄]
+BuildingPropCastleName,強化城堡建築
+BuildingPropCastleShortName,強化城堡建築
+BuildingPropCastleDescription,統治你的島嶼，讓其他戰隊使用這個華麗的中世紀中央擺飾宣誓效忠你的基地。[主建築欄]
+WaterPropMiniPirateBoatName,迷你海盜船
+WaterPropMiniPirateBoatShortName,迷你海盜船
+WaterPropMiniPirateBoatDescription,當其他戰隊正目睹你奪取他們的地塊時，用這艘強力迷你海盜船讓他們知道你正偷走他們的財寶。[水域欄]
+FlyingPropMoonRabbitName,月兔
+FlyingPropMoonRabbitShortName,月兔
+FlyingPropMoonRabbitDescription,爭議領土關乎奪取，這隻可愛的月兔將占據每個人的想像力。[天空欄]
+Deselect,取消選取
+CTDailyTitle,每日獎勵
+CTDailySubtitle,今日玩家票券
+CTDailyDescription,玩家票券可用來佔領地塊
+CTDailyTrophies,每日獎勵獎盃
+TileRecap,地塊回顧
+PlusCTPoints,+{0} CT點
+CTRulesInfoSubtitle,歡迎來到爭議領土！與戰隊成員通力協作，奪取地塊、稱霸排行榜，獲取豐厚獎勵！
+CTRulesInfoSectionOne,只有在你奪取地塊時才使用奪取票券。每24小時刷新一張。
+CTRulesInfoSectionTwo,沒有使用的票券會進入票券池，其他戰隊成員可以在第二天使用它們。戰隊票券不會影響個人排行榜的排名。
+CTRulesInfoSectionThree,奪取地塊後，地塊分數會逐漸降低，直到地塊最終恢復中立狀態。
+CTRulesInfoSectionFour,奪取地塊和每佔領地塊一小時都可以獲得CT點數。CT點數將決定你個人及戰隊在排行榜上的排名，因此儘可能多地奪取地塊吧！
+CTRulesInfoSectionFive,橫幅地塊的奪取難度更高，可以提供更多CT點數。
+CTRulesInfoSectionSix,聖物地塊可能讓你的戰隊使用強大的聖物知識，可以在奪取地塊時為你提供幫助。
+CTRulesInfoSectionSeven,系統每20回合儲存一次地塊進度，你一次只能儲存一個地塊的進度。
+TeamTrophyStoreRulesInfoSubtitle,這裡是戰鬥獎盃商店，你可以在這裡選擇已解鎖的CT聖物，資助每日力量、活動聖物和戰隊天賦。
+TeamTrophyStoreRulesInfoSectionOne,每日力量會在每天的CT活動中解鎖，一旦資助，整個戰隊當天都可以使用。
+TeamTrophyStoreRulesInfoSectionTwo,活動聖物在CT活動期間一直可用，一旦資助，活動餘下時間都可以使用。它們與通過聖物地塊解鎖的聖物不一樣。
+TeamTrophyStoreRulesInfoSectionThree,奪取聖物地塊，然後選出最多4種你最喜歡的聖物知識以在此活動中使用。你可以隨時切換它們。
+TeamTrophyStoreRulesInfoSectionFour,戰隊天賦需要整個戰隊資助，一旦完成就對你的戰隊永久解鎖。玩家離開戰隊後將失去戰隊天賦。
+PlaySocialCaps,進行多人遊戲
+SelectCapturedRelics,選擇最多4種已奪取的聖物
+NextBonusIn,下次個獎勵刷新時間：
+MemberCount,成員數
+Min,最低限度
+PrimeGamingText,領取您的 Prime Gaming 禮物！
+GetNow,Get Now

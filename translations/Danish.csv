@@ -150,7 +150,7 @@ Gwendolin Level 1 Description,Brænder Bloons med ild fra sin pyro-pistol.
 Gwendolin Level 2 Description,Let øget springkraft pr. skud.
 Gwendolin Level 3 Description,"Ild-cocktail: kaster en flaske med brandfarlig væske, der brænder forbipasserende bloons."
 Gwendolin Level 4 Description,"Sæt varme på - med sekunders mellemrum genereres der en kraftfuld trykbølge af ild, som springer bloons og tilføjer ild til Monkey-angreb i nærheden."
-Gwendolin Level 5 Description,Øget springkraft.
+Gwendolin Level 5 Description,"Øget springkraft. 10% mere angrebshastighed og radius for Ildring, Signalblus og Drageånde."
 Gwendolin Level 6 Description,Angreb der brænder bloons.
 Gwendolin Level 7 Description,"Sæt varme på får øget radius, Ild-cocktail er mere effektiv."
 Gwendolin Level 8 Description,Affyrer 2 ildskud pr. skud.
@@ -163,7 +163,7 @@ Gwendolin Level 14 Description,Ild-cocktail gør ekstra skade og sætter ild i M
 Gwendolin Level 15 Description,Øget angrebshastighed.
 Gwendolin Level 16 Description,Ildstorm varer i længere tid og gør mere skade. Lilla bloons er ikke længere immune overfor Gwendolins angreb.
 Gwendolin Level 17 Description,Sæt varme på gør at berørte aber kan springe 1 ekstra lag og gøre +2 skade på bly-bloons.
-Gwendolin Level 18 Description,Øget angrebshastighed.
+Gwendolin Level 18 Description,"Øget angrebshastighed. 20% mere angrebshastighed og radius for Ildring, Signalblus og Drageånde."
 Gwendolin Level 19 Description,Affyrer 3 ildskud pr. skud.
 Gwendolin Level 20 Description,Ildstorm gør kraftigt øget skade.
 ,
@@ -232,11 +232,11 @@ ObynGreenfoot Level 20 Description,Træmur kan holde mange flere bloons.
 ,
 Ezili Level 1 Description,Ezili forbander bloons med sort voodoo-magi.
 Ezili Level 2 Description,Øget angrebsrækkevidde.
-Ezili Level 3 Description,Hjertestopper: forhindrer al regenerering af lag i 6 sekunder.
+Ezili Level 3 Description,"Hjertestandser: sinker bloons, giver evnen til at springe lilla bloons og forhindrer bloons i at regenerere I 10 sekunder."
 Ezili Level 4 Description,Ezilis hovedangreb kan nu forhekse flere bloons.
 Ezili Level 5 Description,Øget angrebshastighed.
 Ezili Level 6 Description,Skade over tid varer længere og skader hurtigere.
-Ezili Level 7 Description,"Offertotem: et totem som giver aber i nærheden mulighed for at se camo-bloons og giver dem ekstra springkraft, angrebsrækkevidde, angrebshastighed og øget projektilhastighed. Dræner 10 liv."
+Ezili Level 7 Description,"Offertotem: et totem som giver aber i nærheden evnen for at se camo-bloons, ekstra springkraft, angrebsrækkevidde, angrebshastighed og øget projektilhastighed. Dræner 10 liv."
 Ezili Level 8 Description,Ezilis angreb gør meget mere skade mod MOAB-klasse-bloons.  
 Ezili Level 9 Description,"Ezilis angreb fjerner camo, regenerering og forstærkninger fra ikke-MOAB Bloons."
 Ezili Level 10 Description,"MOAB-forbandelse: lægger en forbandelse på en MOAB-klasse-bloon, der så tager skade hvert sekund, indtil den springer."
@@ -282,8 +282,8 @@ Rallying Roar Ability Description,Alle aber i nærheden kan springe +1 lag i en 
 Big Squeeze Ability Description,"Griber fast i en MOAB, BFB, DDT (hvis synlig), eller ZOMG og knuser den i småstykker i løbet af 5 sekunder."
 Brambles Ability Description,"Skaber en tornebusk på vejen, som kan springe 50 bloons."
 Wall of Trees Ability Description,"Hidkalder en mur af træer på tværs af vejen, som smadrer alle bloons, der svæver ind. Når de er fyldt, brister træerne i en regn af penge."
-Heartstopper Ability Description,Forhindrer regenerering i 6 sekunder.
-Sacrificial Totem Ability Description,"Et totem, der giver alle aber i nærheden mulighed for at opdager camo, samt ekstra springkraft, angrebsrækkevidde og -hastighed og projektilhastighed. Dræner 10 liv."
+Heartstopper Ability Description,Giver evnen til at springe lilla bloons og forhindrer regenerering i 10 sekunder.
+Sacrificial Totem Ability Description,"Et totem, der giver alle aber i nærheden mulighed for at se camo, samt ekstra springkraft, angrebsrækkevidde og -hastighed og projektilhastighed, især til Troldmandsaber. Dræner 10 liv."
 MOAB Hex Ability Description,"Lægger en forbandelse på en MOAB-klasse-bloon, så den tager skade hvert sekundt, indtil den springer."
 ,
 //Hero Misc,
@@ -694,7 +694,7 @@ Long Range Darts Description,Får dart-aben til at skyde længere end normalt.
 Razor Sharp Shots Description,Kan springe 2 ekstra bloons pr. skud.
 Very Quick Shots Description,Skyder 33 % hurtigere!
 Enhanced Eyesight Description,Skyder endnu længere og kan se camo-bloons.
-Spike-o-pult Description,"Laver dart-aben om til en Søm-o-pult, der kaster store sømkugler i stedet for dartpile. God rækkevidde, men langsommere angrebshastighed. Hver kugle kan springe masser af bloons og preller af forhindringer."
+Spike-o-pult Description,"Laver dart-aben om til en langsommere Søm-o-pult, der kaster store sømkugler. Hver kugle kan springe masser af bloons og preller af forhindringer."
 Triple Shot Description,Kaster 3 dartpile på én gang i stedet for 1.
 Crossbow Description,"Bruger en langtrækkende armbrøst, som kan springe 3 bloons-lag for hver træfning."
 Juggernaut Description,Kaster en gigantisk pigget kugle som springer bly og er fortræffelig til at knuse keramiske bloons.
@@ -757,7 +757,7 @@ Permafrost Description,"Bloons bevæger sig langsomt, selv efter de tør op."
 Enhanced Freeze Description,Angriber hurtigere og fryser længere.
 Larger Radius Description,Større fryserækkevidde.
 Metal Freeze Description,Kan fryse og springe bly- og camo-bloons.
-Deep Freeze Description,Fryser gennem 2 bloons-lag.
+Deep Freeze Description,"Fryser igennem et ekstra lag, og varer længere."
 Re-Freeze Description,"Kan genfryse bloons, der allerede er frosne."
 Ice Shards Description,"Knivskarpe isskår flyver til alle sider, når frosne bloons springer."
 Arctic Wind Description,Øger springkraften kraftigt og giver en super-kold aura som sinker bloons og fryser al vand i nærheden.
@@ -799,7 +799,7 @@ Supply Drop Description,Forsyningsnedkastningsevne: kaster en kasse fuld af peng
 Full Auto Rifle Description,Fuldautomatisk våben med utrolig springkraft.
 Cripple MOAB Description,Skadede MOAB-bloons immobiliseres i længere tid og tager ekstra skade fra andre angreb.
 Elite Sniper Description,Forsyningsnedkastning giver flere penge. Giver alle snigskytter Elite-målsøgningsprioritet og hurtigere genopladning.
-Elite Defender Description,Et mistet liv giver kortvarigt denne snigskytte 4x angrebshastighed til at hævne sig. Angrebshastigheden bliver øget jo længere bloons'ene når hen ad banen. Gør mere skade på MOAB-klasse bloons.
+Elite Defender Description, Angrebshastigheden bliver øget jo længere bloons'ene når hen ad banen. Et mistet liv giver kortvarigt 4x angrebshastighed. Gør mere skade på MOAB-klasse bloons.
 ,
 Longer Range Description,Øger angrebsrækkevidde.
 Barbed Darts Description,Ubådens dartpile kan springe yderligere 3 bloons.
@@ -875,11 +875,11 @@ Shockwave Description,"Trykbølge lammer bloons, springer bloons over et større
 Heavy Shells Description,"Tunge granater gør ekstra skade mod keramiske bloons, bly-bloons og forstærkede og lammede bloons. Kan også springe sorte bloons."
 Signal Flare Description,"Camo-bloons, der springes af signalblus, mister permanent deres kamuflage."
 The Big One Description,"Altødelæggende eksplosioner som springer 7 bloons-lag, og øger skaden af Brændende Sager."
-Artillery Battery Description,Bombardement-evne: udløser et hurtigt skytsangreb over et lidt bredere område. Hovedangrebet opgraderes til 3 løb som muliggør utrolig hurtige angreb
+Artillery Battery Description,"Bombardement-evne: udløser et hurtigt skytsangreb over et lidt bredere område. Hovedangrebet gør mere skade på BADs og Boss-bloons, og en opgradering til 3 løb muliggør utroligt hurtige angreb."
 Shattering Shells Description,Ødelæggende granater fjerner alle særlige egenskaber fra selv de største bloons.
 The Biggest One Description,"Gennemtrænger bloon-lag over et enormt område, plus skade fra Brændende Sager."
-Pop and Awe Description,"Spring og Bring-evne: Dækker hele skærmen med eksplosioner, som springer og immobiliserer alle bloons i et par sekunder."
-Blooncineration Description,"Superhedt brændende snask som smelter igennem 5 bloons-lag for hvert skud, brænder MOAB-klasse bloons for ekstra skade, og fjerner DDT camo."
+Pop and Awe Description,"Spring og Bring-evne: Dækker hele skærmen med eksplosioner, som springer og immobiliserer alle bloons i et par sekunder. Alle bombardement batterier gør mere skade på BADs og Boss-bloons. Hovedangrebet gør ekstra skade på lammede bloons."
+Blooncineration Description,"Superhedt brændende snask som smelter igennem 5 bloons-lag for hvert skud, brænder MOAB-klasse bloons for ekstra skade."
 ,
 Focused Firing Description,Øger Dartling-geværets præcision.
 Advanced Targeting Description,Gør at dartlinger kan ramme camo-bloons
@@ -919,7 +919,7 @@ Super Range Description,Superaber har brug for super rækkevidde.
 Knockback Description,Bloons skubbes bagud eller sænkes efter hver træfning.
 Plasma Blasts Description,"Plasma får alt, den rører ved, til at fordampe."
 Epic Range Description,"Hvorfor nøjes med super, når du kan få EPISK?"
-Ultravision Description,Gør Superabe i stand til at skyde lidt længere og se camo-bloons.
+Ultravision Description,Gør Superabe i stand til at skyde lidt længere og se camo-bloons og gøre mere skade på dem.
 Sun Avatar Description,Kanaliserer kraft fra solens kerne.
 Robo Monkey Description,"Halv superabe, halv dræberdødsrobot. Affyrer skud fra 2 geværer samtidigt og kan affyre kritiske skud!"
 Dark Knight Description,Sorte klinger med øget tilbageslag og springkraft og som gør ekstra skade mod MOAB-klasse-bloons. Får mørke-skifte evnen til at flytte til et nærliggende sted.
@@ -952,7 +952,7 @@ Acid Pool Description,"Hvis der ingen bloons er i nærheden, kan alkymisten hæl
 Acidic Mixture Dip Description,"Kaster en eliksir mod aber, der gør, at de kan springe bly-bloons, og gøre ekstra skade mod keramiske bloons og MOAB-klasse-bloons. Varer kun midlertidigt."
 Perishing Potions Description,Angrebs-eliksirer gør mere skade på MOAB-klasse bloons og fjerner forstærkningen på mindre bloons. Forstærker også eliksirer og stimulanter.
 Alchemist Faster Throwing Description,Affyrer eliksirer og angriber hurtigere
-Berserker Brew Description,"Særlig bryg som giver aber ekstra skade, rækkevidde og angrebshastighed. Varer længere."
+Berserker Brew Description,"Kaster en særlig bryg til aber i nærheden som giver dem ekstra skade, rækkevidde og angrebshastighed."
 Unstable Concoction Description,"Dækker MOAB-klasse-bloons i et eksplosiv stof, der eksploderer kraftigt når de springer."
 Lead to Gold Description,"Forvandler bly-bloons om til GULD! Særlige opløsningsmidler gør ekstra skade på bly-bloons, destruerer dem med et skud, og genererer penge."
 Stronger Stimulant Description,Ekstra stærk beserkerbryg har endnu større effekt.. Varer endnu længere.
@@ -1871,7 +1871,7 @@ RapidRazorsDescription,Knivskarpe rotorer springer bloons hurtigere.
 BudgetBattery,Budgetbatteri
 BudgetBatteryDescription,Artilleribatteris pris reduceret med 600.
 PaintStripper,Malerrens
-PaintStripperDescription,Ødelæggende granater fra morterer fjerner kamuflagen fra DDT-bloons.
+PaintStripperDescription,Ødelæggende granater fra morterer fjerner forstærkningen fra DDT-bloons.
 CheaperMaiming,Discount-kvæst
 CheaperMaimingDescription,Kvæst MOABs pris reduceret med 1000.
 ChargedChinooks,Startklare støttehelikoptere
@@ -2639,17 +2639,17 @@ Adora Level 5 Description,Guddommelige tordenkiler springer flere bloons.
 Adora Level 6 Description,Affyrer 3 guddommelige tordenkiler ad gangen.
 Adora Level 7 Description,Blodoffer: Du kan ofre et udvalgt tårn for at give Adora store mængder XP og øge hendes angrebs-rækkevidde og skudhastighed i  kort tid.
 Adora Level 8 Description,Affyrer 4 Guddommelige tordenkiler ad gangen.
-Adora Level 9 Description,Øget angrebsrækkevidde.
+Adora Level 9 Description,Øget angrebsrækkevidde og mere skade på forstærkede bloons.
 Adora Level 10 Description,Kuglelyn: Frembringer en kraftig energikugle som destruerer bloons.
 Adora Level 11 Description,Adora øger sin angrebshastighed.
 Adora Level 12 Description,Affyrer 5 guddommelige tordenkiler ad gangen.
-Adora Level 13 Description,Guddommelige tordenkiler springer endnu flere bloons.
+Adora Level 13 Description,Guddommelige tordenkiler springer endnu flere bloons. Gør mere skade på forstærkede bloons.
 Adora Level 14 Description,Affyrer 6 guddommelige tordenkiler ad gangen.
 Adora Level 15 Description,Guddommelige tordenkiler brænder igennem et ekstra bloon-lag
 Adora Level 16 Description,Lysets Lange Arm bliver endnu mere dødbringende
 Adora Level 17 Description,Adora øger sin angrebshastighed endnu mere.
 Adora Level 18 Description,Affyrer 8 guddommelige tordenkiler ad gangen.
-Adora Level 19 Description,Øget angrebsrækkevidde.
+Adora Level 19 Description,Øget angrebsrækkevidde. Øget skade på forstærkede bloons.
 Adora Level 20 Description,"Kuglelyn er stærkt forbedret, plus øget skudhastighed, rækkevidde og varighed af Tempeloffer-bonusser."
 Carved,Udskåret
 BloodyPuddles,Prøvelser i pytvis
@@ -2701,7 +2701,7 @@ WolfpackQuincySkinName,Ulvekobbel-Quincy
 WolfpackQuincySkinDescription,"Fra dengang i gamle dage, hvor alle jægere var stærke og koblet var endnu stærkere, her er Quincy, Quincys forfader."
 Infernal,Djævelsk
 DownloadButton,Download
-DownloadDescription,Downloader extra filer. Wi-fi er anbefalet. Data størrelse {0}MB
+DownloadDescription,"Du må opdatere dine filer, før du kan spille. WiFi anbefales. Filstørrelse {0}MB"
 ViewCollectionButton,Se samlingen
 ViewInventoryButton,Se lagerlisten
 CollectionDescription,Insta'aber forbliver synlige i din samling selv efter de er brugt.
@@ -2752,8 +2752,8 @@ DarkKnightDarkshift,[I] for at Mørke-skifte indenfor rækkevidde
 DarkChampionDarkshift,[I] for at Mørke-skifte til ethvert gyldigt sted
 SmallTowersMode,Små abetårne
 BigTowersMode,Store abetårne
-UpdatePopupTitle,Opdatering 32!
-UpdatePopupDescription,"Episk Omstridt territorie opdatering!\n• Stor ny begivenhed: Omstridt territorie - overtag fliser fra andre hold for at styre førertavlen!\n • Hold! Gå sammen med dine venner og skab et uovervindeligt hold for at erobre det Omstridte territorie\n• Nyt mønster: Bygmester\n• Nyt helteskin: Voidora\n• Ny mellemsvær bane: Stenbrud\n• Trofæforretningsemner, livskvalitets forbedringer, balanceændringer og meget mere!"
+UpdatePopupTitle,Opdatering 33!
+UpdatePopupDescription,"Stor indholdsopdatering!\n• Det frygtindgydende Goliat-Dødsskib, Abe-es mønster!\n• Dyrk noget bloon-springende kraft på den mellemsvære Prydhave-bane! Designet af vinderen af Community-bane konkurrencen, SuperPsou.\n• Hjemsøg gangene i den uhyggelige nye svære bane, Midnatsgyser!\n• Trofæ-forretningsemner, livskvalitets forbedringer, balance-ændringer, og meget mere!"
 ResetDailyChest,Geninstil den daglige belønning
 JukeboxName,Jukebox
 EnableFunction,Tillad
@@ -4415,11 +4415,11 @@ GameUIProfileAvatar59Description,"Du kan se kærligheden i hans øjne. Nu må du
 GameUIProfileAvatar60Name,Angriber-Jones avatar
 GameUIProfileAvatar60ShortName,Angriber-Jones avatar
 GameUIProfileAvatar60Description,"Angriber-Jones klar til tjeneste! Vis, at du er klar til at sejre med lykønskninger fra din yndlings raketstyrs-abe."
-GameUIProfileBanner13Name,Ankomst-banner
-GameUIProfileBanner13ShortName,Ankomst profil-banner
+GameUIProfileBanner13Name,Ankomst profil-banner
+GameUIProfileBanner13ShortName,Ankomst-banner
 GameUIProfileBanner13Description,Vinderbanner af betapotata
-GameUIProfileBanner14Name,Under vandene banner
-GameUIProfileBanner14ShortName,Under vandene profil-banner
+GameUIProfileBanner14Name,Under vandene profil-banner
+GameUIProfileBanner14ShortName,Under vandene banner
 GameUIProfileBanner14Description,Vinderbanner af Cyliia
 GameUIMusicTrackMusicSunshineFiestaMixName,Jukebox: Solskins-serenade - Fiesta Remix
 GameUIMusicTrackMusicSunshineFiestaMixShortName,Solskin - Fiesta
@@ -4590,7 +4590,7 @@ TeamBannersTitle,Bannere
 TeamGeneralTitle,Generelt
 TeamSettingPublicTitle,Offentligt
 TeamSettingPrivateTitle,Privat
-TeamSettingClosedTitle,Lukket
+TeamSettingClosedTitle,Kun for inviterede
 TeamJoin,Tilmeld dig
 TeamApply,Ansøg
 RecentWin,Nye sejre:
@@ -4602,8 +4602,8 @@ Tile,Flise: {0}
 RelicTile,Relikvie-flise
 BannerTile,Banner-flise
 BonusCTPoints,Bonus OT points!
-DailyRelics,Daglige relikvier
-HeldRelics,Erobrede relikvier
+DailyRelics,"Daglige kræfter-, og relikvie-begivenheder"
+HeldRelics,Erhvervede relikvier
 Tickets,Billetter:
 PurchaseTickets,Køb billet
 MoreTicketsIn,Flere billetter om:
@@ -4730,7 +4730,7 @@ RelicExtraEmpoweredDescription,Din helt starter hvert spil med 3 ekstra niveauer
 RelicBoxOfChocolatesDescription,Start hvert spil med 100 ekstra liv
 RelicBoxOfMonkeyDescription,Start hvert spil med en gratis abe til $500 eller mindre for umodificeret startplacering
 RelicMarchingBootsDescription,I begrænsede spil får spillerne +1 maksimum antal tårne og +4 maksimum antal pr. spil
-RelicHeroBoostDescription,Helte optjener XP 10% hurtigere I hvert spil
+RelicHeroBoostDescription,Helte optjener XP 15% hurtigere I hvert spil
 RelicBiggerBloonSabotageDescription,Alle MOAB-klasse bloons starter med 15%  mindre helbred og bevæger sig med 95% fart
 RelicRoundingUpDescription,Tjen +$20 efter hver runde
 RelicManaBulwarkDescription,Skaber et skjold som absorberer op til 50 liv (kan sammenlægges med Mana-mur på normale fliser)
@@ -4744,11 +4744,11 @@ RelicRoyalTreatmentDescription,Alle angreb kan springe lilla bloons
 RelicHardBakedDescription,Alle angreb gør +1 skade på keramik bloons
 RelicFortifriedDescription,Alle angreb gør +1 skade på forstærkede bloons
 RelicMoabClashDescription,Alle angreb gør +1 skade på MOAB-klasse bloons
-RelicCamoFloggedDescription,Alle angreb gør +1 skade på camo-bloons
+RelicCamoFloggedDescription,Alle angreb gør +3 skade på camo-bloons
 RelicBrokenHeartDescription,Alle angreb gør +1 skade på regenererende bloons
-RelicGoingTheDistanceDescription,Alle aber får +10% rækkevidde
+RelicGoingTheDistanceDescription,Alle aber får +20% rækkevidde
 RelicHeartlessDescription,Regen-bloons regenereringsrate reduceret med 25%
-RelicFlintTipsDescription,Skarpe projektiler tilføjer alle beskadigede bloons en ild-prik (1 skade for hvert 2. sekund eller i alt 4 sekunder)
+RelicFlintTipsDescription,"Skarpe projektiler tilføjer alle beskadigede bloons en ild-prik (1 skade for hvert 2,5 sekund eller i alt 5 sekunder)"
 RelicAbilitizedDescription,Alle aktiverede evne-nedkølingstider for alle aber reduceret med 10%
 RelicAirAndSeaDescription,"Flyver-es, Heli, Pirat og Ubåd får en 10% reduktion i placerings- og opgraderings omkostninger, og 5% genopladnings forøgelse"
 RelicElDoradoDescription,Alle abepenge og holdtrofæ belønninger fra spilsejre øges med 25% (minimum +1)
@@ -4757,7 +4757,7 @@ RelicMonkeyShieldMark2Description,I 2 timer efter erobring kan en flise ikke ang
 RelicMonkeyShieldMark3Description,I 3 timer efter erobring kan en flise ikke angribes af modstanderholdene. Forbedret score starter på ny.
 RelicPsiVisionDescription,Læs alle detaljer om fliserne på kortet
 RelicOpenSeasonDescription,Angreb hvilken som helst flise på banen
-RelicCamoTrapDescription,Giver 2 camo-fælde powerups pr spil
+RelicCamoTrapDescription,Giver 1 Camo-fælde powerup pr. Spil
 RelicThriveDescription,Giver 2 trivsels-powerups pr spil
 RelicSuperMonkeyStormDescription,Giver 2 SMS pr spil
 RelicMonkeyBoostDescription,Giver 3 abe-boosts pr spil
@@ -4794,7 +4794,7 @@ TeamBrowserTitle,Hold-browser
 TeamBrowserSearchField,Indtast holdnavn…
 TeamBrowserSearchHideFull,Gem besatte hold
 TeamBrowserSearchHidePrivate,Gem private hold
-TeamBrowserSearchHideClosed,Gem skjulte hold
+TeamBrowserSearchHideClosed,"Skjul hold, som kun er for inviterede"
 TeamEditApplyAll,Accepter alle
 TeamScore,Score: {0}
 TeamRemoveMember,"Er du sikker på, du vil fjerne dette holdmedlem?"
@@ -4823,7 +4823,7 @@ TeamMateSetScore,Din holdkammerat har sat et nyt score-mål!
 AnotherTeamSetScore,Et andet hold har sat et nyt score-mål!
 FriendScreenErrorTeamInviteAlreadyMember,Spilleren er allerede på dit hold
 TotalTeamScore,Hold-score
-CTRulesInfo,"Velkommen til Omstridt territorie! Arbejd sammen med dit hold for at erobre fliser, komme øverst på førertavlen og vinde seje præmier!\n\n• Erobrings-billetter bruges kun, hvis du erobrer en flise. De fornyes hver 24 timer.\n• Ubrugte erobrings-billetter kommer i en pulje som kan bruges af andre holdmedlemmer dagen efter.\n• Efter erobring vil flise-værdien langsomt formindskes over tid, indtil flisen bliver neutral igen efter 24 timer.\n• OT point tjenes ved at erobre en flise, og for hver time den holdes. OT point bestemmer din og dit holds placering på førertavlen, så snup de fliser så ofte, du kan!\n• Banner-fliser er sværere fliser som giver mange flere OT point.\n• Relikvie-fliser giver dit hold adgang til kraftfulde Relikvie-kundskaber som vil hjælpe jer indtage flere fliser.\n• Flise-fremskridt gemmes hver 20. runde, og du må kun have et gemt spil i gang ad gangen.\n• Stem på dine yndlings relikvier i Hold trofæ-forretningen og vælg så, hvilke relikvier du vil tage med dig i kamp på før-kamps siden."
+CTRulesInfo,"Velkommen til Omstridt territorie! Arbejd sammen med dit hold for at erobre fliser, komme øverst på førertavlen og vinde seje præmier!\n\n• Erobrings-billetter bruges kun, hvis du erobrer en flise. De fornyes hver 24 timer.\n• Ubrugte erobrings-billetter kommer i en pulje som kan bruges af andre holdmedlemmer dagen efter.\n• Efter erobring vil flise-scoren langsomt formindskes over tid, indtil flisen bliver neutral igen.\n• OT point tjenes ved at erobre en flise, og for hver time den holdes. OT point bestemmer din og dit holds placering på førertavlen, så snup de fliser så ofte, du kan!\n• Banner-fliser er sværere fliser som giver mange flere OT point.\n• Relikvie-fliser giver dit hold adgang til kraftfulde Relikvie-kundskaber, som kan hjælpe jer indtage flere fliser.\n• Flise-fremskridt gemmes hver 20. runde, og du må kun have et gemt spil i gang ad gangen."
 TeamTrophyStoreRulesInfo,"Her er hold trofæ-butikken, hvor du kan stemme for oplåste OT-relikvier, finansiere daglige kræfter, Begivenhedsrelikvier og Hold-flair.\n• Daglige kræfter kan låses op for ved OT begivenheden og kan bruges af holdet en hel dag når de først er finansierede.\n• Begivenheds-relikvier er tilgængelige i hele OT-begivenheden og kan bruges under hele begivenheden, når de først er finansierede. De er ikke forbundne med relikvier oplåst igennem relikvie-fliser.\n• Indtag relikvie-fliser og  stem for, hvilke relikvie-kundskaber, som bliver låst op for i begivenheden. De top 7 relikvier vil være tilgængelige når du udvælger din loadout på 4 relikvier.\n• Hold-flair finansieres af hele holdet og er permanent låst op for hele holdet, når det først er finansieret. Spillere som forlader holdet kan ikke tage deres Hold-flair med sig."
 TeamsBanner1Name,Rumaber-banner
 TeamsBanner2Name,Forenede helte-banner
@@ -4914,22 +4914,22 @@ BasePropSatelliteShortName,Mobilsatellit-vogn
 BasePropTortoiseShortName,Stamme-skildpadde
 BasePropBattleMonkeyShortName,Kamp-abe
 BuildingPropBattleTowerShortName,Basetårns-bygning
-BuildingPropWizardTowerDescription,"Der venter et magisk eventyr, for det hold, som kan finansiere denne mystiske base."
-BuildingPropLighthouseDescription,Oplys vejen for hele holdet med denne skinnende hovedbase.
-FlyingPropPhoenixDescription,"Alle undrer sig over, om det er en Troldmandsabe, men har I overvejet, om alle troldmandsaber ikke bare er Fugl Fønix, som venter på at blive genfødt?"
-FlyingPropMiniAceDescription,Lad abe-esset overvåge himlen i form af dette nuttede mini-es.
-WaterPropKrakenDescription,Slip Kraken løs! Hersk over verdenshavene med dette  overraskende nuttede kæmpe søuhyre.
-WaterPropMiniSubDescription,Op med periskopet! Sonder terrænet med mini-ubåden.
-BasePropKingDescription,"Velkommen til Omstridt territorie! Jorden er ubeboet og fyldt med bloons! Spring dem, og hjælp dit hold erobre banen."
-BasePropLighthouseKeeperDescription,"En vis gammel abe passer fyrtårnet, og er altid på udkig efter skibe som passerer i nattens mørke"
-BasePropCrashedMoabDescription,Et hold elite abe-videnskabsfolk har allerede undersøgt vraget for nyttig teknologi  så nu ligger det bare til skræk og advarsel for de andre bloons.
-BasePropTrainingDummyDescription,Hold dine dartaber på dupperne med dr. Abes genbrugelige træningsdukke!
-BasePropCampfireDescription,Hold varmen på en kølig nat og fortæl røverhistorier om Omstridt territorie ved lejrbålet.
-BasePropTotemDescription,Forsvar din grænse med et frygtindgydende Stamme-totem.
-BasePropSatelliteDescription,"Send data ned direkte fra rummet med denne mobile satellit-vogn, klar til at rulle!"
-BasePropTortoiseDescription,"Spørg ham endelig ikke, om han har stamme-slægtninge, især ikke skildpadder!"
-BasePropBattleMonkeyDescription,"Omstridt territorie-abe, klar til tjeneste!"
-BuildingPropBattleTowerDescription,En udflugt til Omstridt territorie kræver en solid base.
+BuildingPropWizardTowerDescription,"Der venter et magisk eventyr, for det hold, som kan finansiere denne mystiske base. [Hovedbygning indstikslot]"
+BuildingPropLighthouseDescription,Oplys vejen for hele holdet med denne skinnende hovedbase. [Hovedbygning indstikslot]
+FlyingPropPhoenixDescription,"Alle undrer sig over, om det er en Troldmandsabe, men har I overvejet, om alle troldmandsaber ikke bare er Fugl Fønix, som venter på at blive genfødt? [Luft indstikslot]"
+FlyingPropMiniAceDescription,Lad abe-esset overvåge himlen i form af dette nuttede mini-es. [Luft indstikslot]
+WaterPropKrakenDescription,Slip Kraken løs! Hersk over verdenshavene med dette  overraskende nuttede kæmpe søuhyre. [Vand indstikslot]
+WaterPropMiniSubDescription,Op med periskopet! Sonder terrænet med mini-ubåden. [Vand indstikslot]
+BasePropKingDescription,"Velkommen til Omstridt territorie! Jorden er ubeboet og fyldt med bloons! Spring dem, og hjælp dit hold erobre banen. [Ø indstikslot]"
+BasePropLighthouseKeeperDescription,"En vis gammel abe passer fyrtårnet, og er altid på udkig efter skibe som passerer i nattens mørke. [Ø indstikslot]"
+BasePropCrashedMoabDescription,Et hold elite abe-videnskabsfolk har allerede undersøgt vraget for nyttig teknologi  så nu ligger det bare til skræk og advarsel for de andre bloons. [Ø indstikslot]
+BasePropTrainingDummyDescription,Hold dine dartaber på dupperne med dr. Abes genbrugelige træningsdukke! [Ø indstikslot]
+BasePropCampfireDescription,Hold varmen på en kølig nat og fortæl røverhistorier om Omstridt territorie ved lejrbålet. [Ø indstikslot]
+BasePropTotemDescription,Forsvar din grænse med et frygtindgydende Stamme-totem. [Ø indstikslot]
+BasePropSatelliteDescription,"Send data ned direkte fra rummet med denne mobile satellit-vogn, klar til at rulle! [Ø indstikslot]"
+BasePropTortoiseDescription,"Spørg ham endelig ikke, om han har stamme-slægtninge, især ikke skildpadder! [Ø indstikslot]"
+BasePropBattleMonkeyDescription,"Omstridt territorie-abe, klar til tjeneste! [Ø indstikslot]"
+BuildingPropBattleTowerDescription,En udflugt til Omstridt territorie kræver en solid base. [Hovedbygning indstikslot]
 Neutral,Neutral
 TilesCaptured,Erobrede fliser:
 CTPointsEarnt,OT Points optjent:
@@ -4981,15 +4981,142 @@ RewardsTop60,Top 60
 RewardsTopX,Top {0}
 Rank5th,5
 Rank6th,6
-TeamName,Hold navn
-CTPoints,CT-punkter
-Contribute,Bidrage
+TeamName,Holdnavn
+CTPoints,OT Point
+Contribute,Bidrag
 ContributeTrophies,Bidrag med trofæer
-ColorblindEnabled,Farveblind tilstand aktiveret!
-ColorblindDisabled,Farveblind tilstand deaktiveret
-Local,Lokale
-KickPending,Afventer fjernelse
-SentryParagonGreen,Green Sentry Paragon
-SentryParagonRed,Red Sentry Paragon
-SentryParagonBlue,Blue Sentry Paragon
-TeamManagement,Teamledelse
+ColorblindEnabled,Farveblind-mode aktiveret!
+ColorblindDisabled,Farveblind-mode deaktiveret
+Local,Lokal
+KickPending,Fjernelse under behandling
+SentryParagonGreen,Grøn vagtpost-mønster
+SentryParagonRed,Rød vagtpost-mønster
+SentryParagonBlue,Blå vagtpost-mønster
+TeamManagement,Holdledelse
+ERR_FEATURE_TEMPORARILY_UNAVAILABLE,"Indholdet er ikke tilgængeligt, fordi din konto er blevet markeret. For flere detaljer, gå ind på https://ninja.kiwi/ffgpd7"
+PlayerWillBeRemoved,"Spilleren vil blive fjernet fra holdet, når den nuværende OT begivenhed er afsluttet"
+Epic login,"Logger ind på Epic-konto, tjekker tilladelser"
+FriendScreenErrorTeamInviteMaxInvitesSent,"Maksimum antal invitationer sendt, prøv igen senere"
+CantJoinTeamFromSameCT,Du kan ikke tilmelde dig et hold i den samme OT begivenhed som du sidst deltog i
+RemovedFromTeam,Du er blevet fjernet fra dit hold. Meld dig til et andet hold og prøv igen
+TileNoLongerAccessible,Flisen er ikke længere tilgængelig. Prøv at opdater OT og prøv igen
+CTTilesHeld,Antal fliser i besiddelse
+CTPointsProjected,Projiceret
+ConfirmCancelRequest,"Er du sikker på, du vil annullere din anmodning?", at du vil annullere din anmodning?
+CouchCoop,Sofa Co-op
+TeamTicketUsed,Hold-billet indløst
+PersonalTicketUsed,Personlig billet indløst
+TeamScreenCodeHidden,Hold-koden er skjult
+ERR_ANOTHER_REQUEST_PENDING,En anden anmodning er under behandling
+QuickJoinSearchForTeam,Søger efter hold…
+QuickJoinJoiningTeam,Tilslutter til holdet...
+QuickJoinCancel,Afviser...
+MidnightMansion,Midnats-gyser
+CoveredGarden,Prydhave
+MonkeyAce Paragon,Goliat Dødsskib
+MonkeyAce Paragon Description,"En mørk, flyvende skygge  varsler ilde for bloons'ene."
+CreateOrJoinTeamLeaveFirst,Du er allerede tilmeldt et hold
+TeamMsgBannerTileLost,En af dine Banner-fliser blev erobret af {0}. 
+CTPlayerPopupNoData,Gå ind i OT for at loade data
+HeroesJoanOfArcAdoraPetDragonName,Jeanne d'Arc Drage-kæledyr
+HeroesJoanOfArcAdoraPetDragonShortName,Jeanne d'Arc Drage-kæledyr
+HeroesJoanOfArcAdoraPetDragonDescription,"Man behøver ikke være en helgen for at se, hvor sjovt, det ville være med en baby gulddrage ved sin side. Kun for Jeanne d'Arc Adora."
+TowerPetMonkeyAceDragonflyName,Abes-es Guldsmede-kæledyr
+TowerPetMonkeyAceDragonflyShortName,Es Guldsmede-kæledyr
+TowerPetMonkeyAceDragonflyDescription,Abe-essets adrætte guldsmede-kæledyr holder landingsbanen klar til Essets sejrrige hjemkomst!
+BloonsDDTSkinSpiderName,Edderkop DDT
+BloonsDDTSkinSpiderShortName,Edderkop DDT
+BloonsDDTSkinSpiderDescription,Får en DDT til at ligne en kriblende edderkop. 
+CoopEmoteAnimationPsighName,Psuk Emote
+CoopEmoteAnimationPsighShortName,"Psuk kan via telepati fremkalde følelser af skuffelse, irritation og opgivelse. Du narrer os ikke, Spiller 3."
+CoopEmoteAnimationPsighDescription,"Psuk kan via telepati fremkalde følelser af skuffelse, irritation og opgivelse. Du narrer os ikke, Spiller 3."
+GameUIProfileBanner17Name,Mesterninja profilbanner
+GameUIProfileBanner17ShortName,Mesterninja Banner
+GameUIProfileBanner17Description,Bannervinder af LordTeddington
+GameUIProfileBanner18Name,Ingeniør Skum profil-banner
+GameUIProfileBanner18ShortName,Ingeniør Skum banner
+GameUIProfileBanner18Description,Bannervinder af DREAD_LEAD
+GameUIPowerSkinGlueTrapHoneyTrapName,Custom kraft - Honning limfælde
+GameUIPowerSkinGlueTrapHoneyTrapShortName,Honning limfælde
+GameUIPowerSkinGlueTrapHoneyTrapDescription,"Selv en bloon må sagte farten, når den er omsværmet af bier!"
+GameUIPowerSkinBananaFarmerBananaCostumeName,Custom kraft - Bananfarmer banan-kostume
+GameUIPowerSkinBananaFarmerBananaCostumeShortName,Bananfarmer kostume
+GameUIPowerSkinBananaFarmerBananaCostumeDescription,"Er der noget der hedder for meget banan? ""Nej, for pokker!"" siger Bananfarmeren. Få Bananfarmer-banankostumet for at gøre bananavlen lidt mere banansk."
+GameUIProfileAvatar63Name,Custom avatar - Skriget
+GameUIProfileAvatar63ShortName,Skriget avatar
+GameUIProfileAvatar63Description,"Kun en abegalning kunne have malet det. Samlerobjekt, kan fås i begrænset tid!"
+GameUIProfileBanner19Name,Kludetæppe profil-banner
+GameUIProfileBanner19ShortName,Kludetæppe-banner
+GameUIProfileBanner19Description,Du kan gemme dig under tæppet og drikke varm kakao… Eller bare brug det som banner.
+GameUIProfileBanner20Name,Solstråle profil-banner
+GameUIProfileBanner20ShortName,Solstråle-banner
+GameUIProfileBanner20Description,Vis din strålende begavelse frem med et flot solbanner.
+GameUIProfileBanner21Name,Stjerneskud profil-banner
+GameUIProfileBanner21ShortName,Stjerneskud-banner
+GameUIProfileBanner21Description,"Nogle mennesker tror, at stjerner er fjerne gas-kugler som er så store, at deres tyngdekraft forårsager  kernefusion dybt I deres indre. Vi synes bare de er flotte, og at de glimter."
+GameUIProfileBanner22Name,Hjemsøgt entre profil-banner
+GameUIProfileBanner22ShortName,Hjemsøgt entre banner
+GameUIProfileBanner22Description,"Gør din profil lidt gusten med Hjemsøgt entre profil-banneret. Mystiske skrabelyde og uhyggelige portrætter  for at hædre Halloween. Samler objekt, kan fås i begrænset tid!"
+GameUIProfileAvatar64Name,Custom avatar - Abehjerner
+GameUIProfileAvatar64ShortName,Abehjerne-avatar
+GameUIProfileAvatar64Description,"En usselt udseende skikkelse viklet ind i gamle bandager på jagt efter HJERNER! Samlerobjekt, kan fås i begrænset tid!"
+TeamsBanner7Name,Kæledyrs-eksplosion banner
+TeamsBanner7ShortName,Kæledyrs-eksplosion banner
+TeamsBanner7Description,En spøjs kæledyrs-fest! Brug banneret for at fejre alle kæledyrene I Bloons TD 6!
+TeamsBanner8Name,Omstridt territorie banner
+TeamsBanner8ShortName,Omstridt territorie banner
+TeamsBanner8Description,Brug dette holdikon for at få jeres modstandere til at 
+TeamsEmblemIcon13Name,Kung Fu Kiwi Ikon
+TeamsEmblemIcon13ShortName,Kung Fu Kiwi Ikon
+TeamsEmblemIcon13Description,Overrask dine modstandere med et flyvende spark fra din yndlings uflyvedygtige fugl.
+TeamsEmblemIcon14Name,Altseende øje ikon
+TeamsEmblemIcon14ShortName,Altseende øje ikon
+TeamsEmblemIcon14Description,Brug dette holdikon for at få jeres modstandere til at betvivle alle deres beslutninger.
+TeamsEmblemFrame10Name,Ninja-rulle ramme
+TeamsEmblemFrame10ShortName,Ninja-rulle ramme
+TeamsEmblemFrame10Description,En ramme som udtrykker jeres holds dyrkelse af Ninjaens ældgamle kunst.
+TeamsEmblemFrame11Name,(For)Standhjul ramme
+TeamsEmblemFrame11ShortName,(For)Standhjul ramme
+TeamsEmblemFrame11Description,Giv udtryk for jeres holds overlegne bloonspringnings-evner med (For)Standhjul-rammen.
+BasePropPirateCrewMonkeyName,Pirater
+BasePropPirateCrewMonkeyShortName,Pirater
+BasePropPirateCrewMonkeyDescription,Splitte min bramsejl! Med denne søulk på jeres Omstridt territorie base vil de andre hold liste afsted med storsejlet mellem benene. [Ø-indstikslot]
+BasePropTelescopeName,Teleskop
+BasePropTelescopeShortName,Teleskop
+BasePropTelescopeDescription,"Se universets vidundere eller bare få de andre hold til at tro, at I har skuet jer vej til sejren. [Ø-indstikslot]"
+BuildingPropCastleName,Forstærket slotbygning
+BuildingPropCastleShortName,Forstærket slotbygning
+BuildingPropCastleDescription,"Vis, at du er øens hersker og få de andre hold til at sværge dig troskab med dette pragtfulde middelalderlige kunstværk. [Hovedbygning indstikslot]"
+WaterPropMiniPirateBoatName,Mini piratskib
+WaterPropMiniPirateBoatShortName,Mini piratskib
+WaterPropMiniPirateBoatDescription,"Mens de andre hold ser jer overtage deres fliser, brug dette mægtige miniskib for at vise dem, at I er kommet for at stjæle deres skat. [Vand-indstikslot]"
+FlyingPropMoonRabbitName,Månekanin
+FlyingPropMoonRabbitShortName,Månekanin
+FlyingPropMoonRabbitDescription,"Omstridt territorie handler om erobring, og denne nuttede månekanin vil erobre alles opmærksomhed. [Luft-indstikslot]"
+Deselect,Fravælg
+CTDailyTitle,Daglig bonus
+CTDailySubtitle,Dagens spillerbilletter
+CTDailyDescription,Når en spillerbillet bruges til at erobre en flise
+CTDailyTrophies,Daglige bonustrofæer
+TileRecap,Flise-resume
+PlusCTPoints,+{0} OT Point
+CTRulesInfoSubtitle,"Velkommen til Omstridt territorie! Arbejd sammen med dit hold for at erobre fliser, komme øverst på førertavlen og vinde seje præmier!"
+CTRulesInfoSectionOne,"• Erobrings-billetter bruges kun, hvis du erobrer en flise. De fornyes hver 24 timer."
+CTRulesInfoSectionTwo,•Ubrugte erobrings-billetter kommer i en pulje som kan bruges af andre holdmedlemmer dagen efter. Holdbilletter bidrager ikke til personlige førertavle-stillinger.
+CTRulesInfoSectionThree,"Efter erobring vil flise-scoren langsomt formindskes over tid, indtil flisen bliver neutral igen."
+CTRulesInfoSectionFour,"• OT point tjenes ved at erobre en flise, og for hver time den holdes. OT point bestemmer din og dit holds placering på førertavlen, så snup de fliser så ofte, du kan!"
+CTRulesInfoSectionFive,• Banner-fliser er sværere fliser som giver mange flere OT point.
+CTRulesInfoSectionSix,"• Relikvie-fliser giver dit hold adgang til kraftfulde Relikvie-kundskaber, som kan hjælpe jer indtage flere fliser."
+CTRulesInfoSectionSeven,"• Flise-fremskridt gemmes hver 20. runde, og du må kun have et gemt spil i gang ad gangen."
+TeamTrophyStoreRulesInfoSubtitle,"Her er Holdtrofæ-butikken, hvor du kan stemme vælge oplåste OT-relikvier, finansiere Daglige kræfter, Begivenhedsrelikvier og Hold-flair."
+TeamTrophyStoreRulesInfoSectionOne,• Daglige kræfter kan låses op for ved OT begivenheden og kan bruges af holdet en hel dag når de først er finansierede.
+TeamTrophyStoreRulesInfoSectionTwo,"• Begivenheds-relikvier er tilgængelige i hele OT-begivenheden og kan bruges under hele begivenheden, når de først er finansierede. De er ikke forbundne med relikvier oplåst igennem relikvie-fliser."
+TeamTrophyStoreRulesInfoSectionThree,"• Indtag relikvie-fliser og vælg op til 4 af dine yndlings relikvie-kundskaber til brug I begivenheden. DU kan skifte dem ud, når du vil."
+TeamTrophyStoreRulesInfoSectionFour,"Hold-flair finansieres af hele holdet og er permanent låst op for hele holdet, når det først er finansieret. Spillere som forlader holdet kan ikke tage deres Hold-flair med sig."
+PlaySocialCaps,SPIL SOCIAL
+SelectCapturedRelics,Vælg op til 4 erobrede relikvier
+NextBonusIn,Næste bonus om:
+MemberCount,Medlemsantal
+Min,Minimum
+PrimeGamingText,Få din Prime Gaming-gave!
+GetNow,Get Now
