@@ -101,7 +101,7 @@ Quincy Level 15 Description,Seri Atış 4 kat saldırı hızına ulaşır ve gec
 Quincy Level 16 Description,Daha yüksek saldırı hızı.
 Quincy Level 17 Description,Oklar %25 daha uzun menzile sahip olur. Her 2. vuruşta patlayan oklar fırlatır.
 Quincy Level 18 Description,Quincy daha hızlı saldırır ve Ok Fırtınası gecikme süresi azalır ve %50 daha fazla ok fırlatır.
-Quincy Level 19 Description,Her ok çok daha fazla patlatma gücü kazanır.
+Quincy Level 19 Description,Tek seferde 3 ok fırlatır ve her ok çok daha fazla patlatma gücü kazanır.
 Quincy Level 20 Description,"Quincy çok daha hızlı saldırır. Ok Fırtınası, ok başına daha fazla hasar verir ve çok daha fazla ok fırlatır."
 ,
 StrikerJones Level 1 Description,"Vurucu Jones, Bloon’ları patlatmak için güçlü bir bazuka kullanır."
@@ -697,10 +697,10 @@ Enhanced Eyesight Description,Çok daha uzağa atış yapabilir ve Kamuflajlıla
 Spike-o-pult Description,"Okçu Maymunu, büyük çivili toplar fırlatan, daha yavaş saldıran bir Çivili Top Mancınığına dönüştürür. Her bir top birçok Bloon patlatır ve engellerden seker."
 Triple Shot Description,"Tek seferde 1 değil, 3 ok fırlatır."
 Crossbow Description,Her vuruşta Bloon’ların 3 katmanını patlatabilen uzun menzilli bir Arbalet kullanır.
-Juggernaut Description,Kurşun olanları patlatan ve Seramik Bloon’ları parçalamada usta olan dev bir çivili top fırlatır.
+Juggernaut Description,"Kurşun olanları patlatan, Seramik ve Güçlendirilmiş Bloon’ları parçalamada usta olan dev bir çivili top fırlatır."
 Super Monkey Fan Club Description,"Süper Maymun Hayran Kulübü Yeteneği: Kendisiyle birlikte, yakındaki en fazla 10 Okçu Maymunu 15 saniye boyunca Süper Maymunlara dönüştürür. Normal saldırı hızı da artırıldı."
 Sharp Shooter Description,"Keskin Nişancı daha hızlı saldırır ve her birkaç atışta bir, çok daha fazla hasar veren güçlü Kritik Atışlar gerçekleştirir."
-Ultra-Juggernaut Description,"Dev çivili top, çok daha yıkıcı bir güce sahip 6 Ezici Güç topuna ayrılır."
+Ultra-Juggernaut Description,"Dev çivili top, Seramik ve Güçlendirilmiş Bloon’lara karşı çok daha yıkıcı bir güce sahip 6 Ezici Güç topuna ayrılır."
 Plasma Monkey Fan Club Description,Bu kulübün elit üyesi olmak Okçu Maymunlara çok daha fazla güç kazandırır!
 Crossbow Master Description,Arbalet Ustası gerçekten hızlı atış yapar ve birçok Bloon türünü kolayca yok eder.
 ,
@@ -756,11 +756,11 @@ Permafrost Description,Bloon’lar buzları çözüldükten sonra bile yavaş ha
 Enhanced Freeze Description,Saldırılar daha hızlıdır ve daha uzun sürer.
 Larger Radius Description,Daha geniş dondurma alanı.
 Metal Freeze Description,Kurşun ve Kamuflajlı Bloon’ları dondurabilir ve patlatabilir.
-Deep Freeze Description,Ekstra bir katmanı dondurur ve donma daha uzun sürer.
+Deep Freeze Description,"Delmeyi artırır, ekstra bir katmanı dondurur ve donma eylemi daha uzun sürer."
 Re-Freeze Description,Zaten donuk olan Bloon’ları tekrar dondurabilir.
 Ice Shards Description,Donmuş Bloon’lar patlarken jilet gibi keskin parçalar fırlar.
 Arctic Wind Description,Delmeyi büyük oranda artırır ve Bloon’ları yavaşlatıp yakındaki suyu donduran bir süper soğuk aura kazanır.
-Cryo Cannon Description,Bloon’lara daha uzun menzilli dondurucu bombalar atar.
+Cryo Cannon Description,Daha uzun menzile sahip küçük buz bombalarını seri şekilde fırlatır.
 Embrittlement Description,"MOAB Sınıfı Bloon’ları vurabilir. Vurulan tüm Bloon’lar kırılganlaşır, donukken ekstra hasar alırlar ve Kamuflajlı özelliklerini kaybederler."
 Snowstorm Description,"Kar Fırtınası Yeteneği: Ekrandaki tüm normal Bloon’ları, Beyaz, Zebra ve Kamuflajlıları dondurur ve MOAB Sınıfı Bloon’ları yavaşlatır."
 Icicles Description,Donmuş Bloon’lar onlara dokunan Bloon’ları patlatabilen keskin sarkıtlar oluşturur.
@@ -774,10 +774,10 @@ Stickier Glue Description,Yapışkan etkisinin çok daha uzun sürmesini sağlar
 Corrosive Glue Description,"Yapışkanlı Bloon’ların birkaç saniyede bir, bir katmanı patlar."
 Glue Splatter Description,Atış başına 6 Bloon’a kadar yapışkan sıçratır.
 Stronger Glue Description,Bloon’ları çok daha fazla yavaşlatır.
-Bloon Dissolver Description,Keskin solventler her saniye iki katmanı eritir.
+Bloon Dissolver Description,Atış başına ek bir Bloon yapıştırabilir ve solventler her saniye iki katmanı eritir.
 Glue Hose Description,Yapışkanı 3 kat hızlı fırlatır!
 MOAB Glue Description,Gelişmiş yapışkan formül MOAB Sınıfı Bloon’lara yapışmasını sağlar.
-Bloon Liquefier Description,Atış başına ek bir Bloon yapışabilir ve saniyede bir 10 patlatma sağlayan sıvılaştırıcı bileşikler uygulayabilir.
+Bloon Liquefier Description,Saniyede 10 patlatma sağlayan sıvılaştırıcı bileşikler uygular.
 Glue Strike Description,"Yapışkanlı Vuruş Yeteneği: Ekrandaki tüm Bloon’lara yapışır, bu da Bloon’ların tüm kaynaklardan daha fazla hasar almalarına neden olur ve bu bir süre devam eder."
 Relentless Glue Description,Yapışkanlanan patlak Bloon’lar parkurda bir yapışkan topağı bırakır.
 The Bloon Solver Description,Bloon’lar sorun mu yaratıyor? İşte çözüm.
@@ -875,10 +875,10 @@ Heavy Shells Description,"Ağır mermiler Seramik, Kurşun, tüm Güçlendirilmi
 Signal Flare Description,Alevlerin patlattığı Kamuflajlı Bloon’lar kamuflajlarını kalıcı olarak kaybeder.
 The Big One Description,Yıkıcı patlamaların her biri Bloon’ların 7 katmanını patlatır ve Yanıcı Madde hasarını daha da artırır.
 Artillery Battery Description,"Bombardıman Yeteneği: Biraz daha geniş bir alanda seri atış saldırısı gönderir. Ana saldırı, BAD’lere ve Patron Bloon’lara daha fazla hasar verir ve inanılmaz hızlı saldırılar için 3 namluya yükselir."
-Shattering Shells Description,"Ezici mermiler, en büyük bloon’lar hariç tüm özel bloon özelliklerini çıkarır."
+Shattering Shells Description,"Ezici mermiler, en büyük bloon’lar hariç özel bloon özelliklerini çıkarır ve ekstra hasar için MOAB Sınıfı Bloon’ları yakar."
 The Biggest One Description,Geniş bir alanda Bloon’ları ve katmanlarını derinlemesine patlatır ve güçlü Yanıcı Madde hasarı verir.
 Pop and Awe Description,"Korkut Patlat yeteneği: Tüm ekrana patlamalar yağdırır, birkaç saniyeliğine tüm Bloon’lara hasar verir ve hareketsizleştirir. Topçu Bataryaları BAD’lere ve Patron Bloon’lara daha fazla hasar verir. Ana saldırı sersemletilmiş Bloon’lara karşı ek bonus hasarı kazandırır."
-Blooncineration Description,"Süper sıcak yakıcı malzeme, her atışta Bloon’un 5 katmanını eritir, ekstra hasar için MOAB Sınıfı Bloon’ları yakar."
+Blooncineration Description,"Süper sıcak yakıcı malzeme, her atışta Bloon’un 5 katmanını eritir ve toplu hasarla MOAB Sınıfı Bloon’ları kül eder."
 ,
 Focused Firing Description,Ok Silahının isabetini artırır.
 Advanced Targeting Description,Ok Nişancısının Kamuflajlı Bloon’ları vurmasını sağlar.
@@ -909,7 +909,7 @@ Shimmer Description,Yakındaki tüm Kamuflajlı bloon’ların yerini belirli ar
 Arcane Spike Description,"Daha hızlı sihir atışı, birçok Bloon türüne büyük hasar verir."
 Summon Phoenix Description,Anka Kuşunu Çağırma yeteneği: Güçlü anka kuşu 20 saniye boyunca Bloon’lara hasar verir.
 Necromancer: Unpopped Army Description,Bloon’ları yok etmek için yakın zamanda patlatılan düşmanları yardımcı olarak canlandırır.
-Archmage Description,Büyü ustalığında gerçek bir uzman.
+Archmage Description,Büyü ustalığında gerçek bir uzman. Daha hızlı saldırır ve MOAB Sınıfı Bloon’lara daha fazla hasar verir.
 Wizard Lord Phoenix Description,Sihir Lordu alevin ustası olur ve kısa süreliğine süper güçlü bir Lav Anka Kuşuna dönüşür.
 Soulbind Description,"Düşmanı yok etmek için çok daha güçlü Bloon yardımcılar canlandırır ve diğer tüm Büyücüleri geliştirir, o da hayatını kurtarabilir…"
 ,
@@ -971,7 +971,7 @@ Druid of the Storm Description,Kuvvetli rüzgâr Bloon’ları çıkıştan uza�
 Druid of the Jungle Description,Bloon’ları teker teker engellemek ve çarpmak için yerden bir üzüm asması çağırır geride ölümcül bir diken yığını bırakır.
 Druid of Wrath Description,Tur sırasında Medyum Bloon’lara saldırdığı sürece saldırı hızı artar.
 Ball Lightning Description,Ek yıldırımlar fırlatan güçlü yıldırım topları oluşturur ve Bloon’ları dondurabilir.
-Jungle's Bounty Description,Ormanın Hediyesi Yeteneği: Her kullanımda ve ayrıca Medyumun yanındaki her Muz Çiftliği için ekstra nakit oluşturur. Asma yapraklarıyla tek seferde iki Bloon da yakalayabilir.
+Jungle's Bounty Description,Ormanın Hediyesi Yeteneği: Her kullanımda ve ayrıca Medyumun yanındaki her Muz Çiftliği için ekstra nakit sağlar. Bloon’ları yakalamak için iki üzüm asması çağırır ve diken yığınları ekstra delme gücüne sahiptir.
 Poplust Description,Yarıçaptaki tüm Medyumlar için saldırı hızını ve delmeyi artırır. Herhangi bir tek Medyumda 5 kez istiflenebilir.
 Superstorm Description,Süper Fırtına tüm Bloon türlerini ağır hasar vererek patlatır ve onları çıkışın uzağına uçurur.
 Spirit of the Forest Description,Yol boyunca seramiklere kalıcı ve bonus hasar veren dikenli asma yaprakları büyütür. Ormanın Ruhuna en yakın asma yaprakları daha fazla hasar verir. Etkinleştirilmiş yetenek can ve daha fazla nakit sağlar.
@@ -1660,11 +1660,11 @@ btd6_herobooster Description,Mevcut oyununda seçili kahraman bu oyunun sonuna k
 btd6_powersattackpack,Güç Saldırı Paketi
 btd6_powersattackpack Description,Maymun Güçlerine odaklı {0} savaş çeşidi.
 btd6_instatowerspack,Anlık Maymun Paketi
-btd6_instatowerspack Description,"5 maymun atıcı, oyun içi nakit olmadan yerleştirilmeye hazır! 2 tane 1. Kademe, 2 tane 2. Kademe ve 1 tane 3. Kademe içerir"
+btd6_instatowerspack Description,"5 maymun atıcı, oyun içi nakit olmadan yerleştirilmeye hazır! 2 tane 1. Kademe, 2 tane 2. Kademe ve 1 tane 3. Kademe içerir. Her bir kademedeki maymunların çıkma şansı eşittir."
 btd6_tier3instatowerspack,3. Kademe Anlık Maymunlar Paketi
-btd6_tier3instatowerspack Description,"10 tane 3. Kademe Anlık maymun atıcı, oyun içi nakit olmadan yerleştirilmeye hazır!"
+btd6_tier3instatowerspack Description,"10 tane 3. Kademe Anlık maymun atıcı, oyun içi nakit olmadan yerleştirilmeye hazır! Her Maymunun çıkma şansı eşittir."
 btd6_tier4instatowerspack,4. Kademe Anlık Maymunlar Paketi
-btd6_tier4instatowerspack Description,"10 tane 4. Kademe Anlık maymun atıcı, oyun içi nakit olmadan yerleştirilmeye hazır!"
+btd6_tier4instatowerspack Description,"10 tane 4. Kademe Anlık maymun atıcı, oyun içi nakit olmadan yerleştirilmeye hazır! Her Maymunun çıkma şansı eşittir."
 btd6_needmoremonkeymoneyprompt,Yeterli Maymun Parası yok! Daha fazla almak ister misin?
 ,
 ,
@@ -1678,11 +1678,11 @@ btd6_extramonkeymoney Description,Özel Teklif! Çok düşük bir fiyata {0} May
 btd6_powerspandamonium,Güçler Curcunası
 btd6_powerspandamonium Description,Güçlerimiz birleşince! Tek bir pakette edinebileceğin en iyi {0} Maymun Gücü.
 btd6_instatowersmegabooster,Anlık Maymunlar Mega Desteği
-btd6_instatowersmegabooster Description,"Bu mega pakette 5 tane 2. Kademe, 12 tane 3. Kademe ve 3 tane 4. Kademe anlık maymun atıcı, oyun içi nakit olmadan yerleştirilmeye hazır!"
+btd6_instatowersmegabooster Description,"Bu mega pakette 5 tane 2. Kademe, 12 tane 3. Kademe ve 3 tane 4. Kademe anlık maymun atıcı, oyun içi nakit olmadan yerleştirilmeye hazır! Her bir kademedeki maymunların düşme şansı eşittir."
 btd6_megamonkeycompendiumpack,Mega Maymun Özet Paket
-btd6_megamonkeycompendiumpack Description,"Muhteşem özelliklerle dolu büyük bir paket! 25.000 Maymun Parası, 100 saldırı Gücü, 30 tane 3. Kademe Anlık maymun atıcı, 15 tane 4. Kademe Anlık maymun atıcı, 5 tane 5. Kademe Anlık maymun atıcı ve Bilgi açıldı (30. Derece, 5 Bonus Maymun Bilgisi Puanı)!"
+btd6_megamonkeycompendiumpack Description,"Muhteşem özelliklerle dolu büyük bir paket! 25.000 Maymun Parası, 100 saldırı Gücü, 30 tane 3. Kademe Anlık maymun atıcı, 15 tane 4. Kademe Anlık maymun atıcı, 5 tane 5. Kademe Anlık maymun atıcı ve Bilgi açıldı (30. Derece, 5 Bonus Maymun Bilgisi Puanı)! Her bir kademedeki maymunların düşme şansı eşittir."
 btd6_tier5instatowerpack,5. Kademe Anlık Maymunlar Paketi
-btd6_tier5instatowerpack Description,"10 tane 5. Kademe maymun atıcı, oyun içi nakit olmadan yerleştirilmeye hazır!"
+btd6_tier5instatowerpack Description,"10 tane 5. Kademe maymun atıcı, oyun içi nakit olmadan yerleştirilmeye hazır! Her Maymunun çıkma şansı eşittir."
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,Bir Yığın Maymun Parası İndirimi
@@ -2042,6 +2042,8 @@ Swedish,İsveççe
 Turkish,Türkçe
 Korean,Korece
 Japanese,Japonca
+Polish,Lehçe
+Monkelish,Maymunca
 ,
 Backup,Yedek
 Profile,Hesap
@@ -2461,11 +2463,11 @@ EditorLockedShareButtonDescription,Görevini paylaşmak için test modunda zafer
 ConflictScreenChoose,Kaydedilmiş bir oyun seç
 ConflictThisDevice,Bu cihaz
 ConflictCloud,Bulutta
-ConflictTimeHours,{0} saat önce kaydedildi
 ConflictUseButton,Kullan
 ConflictNoData,Veri yok
-ConflictTimeMinutes,{0} dakika önce kaydedildi
 ConflictTimeSeconds,{0} saniye önce kaydedildi
+ConflictTimeMinutes,{0} dakika önce kaydedildi
+ConflictTimeHours,{0} saat önce kaydedildi
 ConflictTimeDays,{0} gün önce kaydedildi
 FasterMoabs,Moab Hızı Artırıldı
 SlowerMoabs,Moab Hızı Azaltıldı
@@ -2751,8 +2753,8 @@ DarkKnightDarkshift,Menzilde Karanlık Kayması için [I]
 DarkChampionDarkshift,Herhangi bir geçerli konuma Karanlık Kayması için [I]
 SmallTowersMode,Küçük Maymun Atıcılar
 BigTowersMode,Büyük Maymun Atıcılar
-UpdatePopupTitle,33’yı Güncelle!
-UpdatePopupDescription,"Büyük İçerik Güncellemesi!\n• Devasa Kıyamet Gemisini, Pilot Maymun Gözcüyü serbest bırak!\n• Orta seviye harita, Kapalı Bahçe’de biraz Bloon patlatma gücü kazan! Tasarım: Topluluk haritası yarışması galibi, SuperPsou.\n• Ürkütücü, yepyeni zor seviye harita, Gece Yarısı Malikânesi’nin koridorlarını ziyaret et!\n• Ganimet mağazası eşyaları, yaşam kalitesi iyileştirmeleri, denge değişiklikleri ve çok daha fazlası!"
+UpdatePopupTitle,34. Güncelleme!
+UpdatePopupDescription,"Mega Mutlu Yıllar Güncellemesi!\n• Zırhlı Zebella, Korkutanbloon’un muhteşem dirençlerine ve dayanıklılıklarına karşı savaş!\n• Yeni Acemi haritası, Bir İki Üç’teki atıcı güçlendirici yerleşimleri keşfet!\n• Yeni Yüzbaşı Churchill dış görünümü, Kızaklı Churchill ile Bloon’ları neşeyle katlet!\n• Ganimet Mağazası eşyaları, yaşam kalitesi iyileştirmeleri, denge değişiklikleri ve çok daha fazlası!\n• Ninja Kiwi ekibi olarak muhteşem bir Yeni Yıl için en iyi dileklerimizi sunar ve mutlu yıllar dileriz!"
 ResetDailyChest,Günlük Sandığı Sıfırla
 JukeboxName,Müzik Kutusu
 EnableFunction,Etkinleştir
@@ -4144,7 +4146,7 @@ MonkeyBuccaneer Paragon,Donanma Kumandanı
 MonkeyBuccaneer Paragon Description,Deniz yüzdürmek için gelmiş geçmiş en harika şey.
 HeroesPsiPetBisonName,Psi Bizon Evcil Hayvan
 HeroesPsiPetBisonShortName,Psi Bizon Evcil Hayvan
-HeroesPsiPetBisonDescription,Psi’nin çok ama çok sevimli bulduğu çift toynaklı türün emsal niteliğindeki numunesi. Yalnızca Orijinal Psi ,)
+HeroesPsiPetBisonDescription,Psi’nin çok ama çok sevimli bulduğu çift toynaklı türün emsal niteliğindeki numunesi. Yalnızca Orijinal Psi 
 TowerPropMonkeyVillageAustralianFlagName,Maymun Köyü Avustralya Bayrağı
 TowerPropMonkeyVillageAustralianFlagShortName,Avustralya Köyü Bayrağı
 TowerPropMonkeyVillageAustralianFlagDescription,"Avustralyalı, Avustralyalı, Avustralyalı, Selam, Selam, Selam! Bu Maymun Köyü bayrağı tüm yükseltmeleri gösterir"
@@ -4723,17 +4725,17 @@ RelicMilitaryMonkeys,Askeri Maymunlar
 RelicMagicMonkeys,Sihirli Maymunlar
 RelicSupportSimians,Maymunlara Destek
 RelicMonkeyTycoon,Maymun Kodaman
-RelicStartingStashDescription,Her oyuna ekstra 300 nakit ile başla (Normal Karolarda Daha Fazla Nakit ile katlanır)
+RelicStartingStashDescription,Her oyuna ekstra 250 nakit ile başla (Normal Karolarda Daha Fazla Nakit ile katlanır)
 RelicExtraEmpoweredDescription,Kahramanın bir oyuna 3 ekstra seviye ile başlar (Normal Karolarda Yetkili Kahramanlar ile katlanır)
 RelicBoxOfChocolatesDescription,Her oyuna 100 ekstra can ile başla
-RelicBoxOfMonkeyDescription,Her oyuna maliyeti 500 dolar veya değiştirilmemiş başlangıç yerleştirmesi için bu değerin altında olan bir ücretsiz Maymun ile başla
+RelicBoxOfMonkeyDescription,Her oyuna maliyeti 400 dolar veya değiştirilmemiş başlangıç yerleştirmesi için bu değerin altında olan bir ücretsiz Maymun ile başla
 RelicMarchingBootsDescription,"Kısıtlanmış sayılı oyunlarda, oyunculara mühimmatları için her atıcıdan +1 maks. veya oyun başına +4 toplam maks sayı verilir "
 RelicHeroBoostDescription,Kahramanlar her oyunda %15 daha hızlı XP kazanır
 RelicBiggerBloonSabotageDescription,Tüm MOAB Sınıfı Bloon’lar %15 daha az sağlıkla canlanır ve %95 hızla hareket eder
 RelicRoundingUpDescription,Her turun sonunda +20 dolar kazan
 RelicManaBulwarkDescription,50 cana kadar emen özel bir kalkan oluşturur (Normal Karolarda Mana Kalkanı ile katlanır)
-RelicRegenerationDescription,"Söz konusu turda hiç can kaybedilmemişse her oyunun başlangıç can değerine kadar, tur başına 10 can geri yükler"
-RelicRestorationDescription,"Söz konusu turda hiç can kaybedilmemişse +200 artırılmış başlangıç can değerine kadar, tur başına 20 can geri yükler"
+RelicRegenerationDescription,"Söz konusu turda hiç can kaybedilmemişse her oyunun başlangıç can değerine kadar, tur başına 20 can geri yükler"
+RelicRestorationDescription,"Söz konusu turda hiç can kaybedilmemişse +200 artırılmış başlangıç can değerine kadar, tur başına 10 can geri yükler"
 RelicDurableShotsDescription,Tüm fırlatıcıların +%25 yaşam süresi vardır
 RelicAlchemistTouchDescription,Tüm saldırılar kurşun Bloon'ları patlatabilir
 RelicDeepHeatDescription,Tüm saldırılar beyaz Bloon'ları patlatabilir
@@ -4741,14 +4743,14 @@ RelicSharpsplosionDescription,Tüm saldırılar siyah Bloon'ları patlatabilir
 RelicRoyalTreatmentDescription,Tüm saldırılar mor Bloon'ları patlatabilir
 RelicHardBakedDescription,Tüm saldırılar Seramik Bloon’lara +1 hasar verir
 RelicFortifriedDescription,Tüm saldırılar Güçlendirilmiş Bloon’lara +1 hasar verir
-RelicMoabClashDescription,Tüm saldırılar MOAB Sınıfı Bloon’lara +3 hasar verir
+RelicMoabClashDescription,Tüm saldırılar MOAB Sınıfı Bloon’lara +2 hasar verir
 RelicCamoFloggedDescription,Tüm saldırılar kamuflajlı Bloon’lara +3 hasar verir
 RelicBrokenHeartDescription,Tüm saldırılar yeniden şişen Bloon’lara +1 hasar verir
 RelicGoingTheDistanceDescription,Tüm Maymunlar +%20 menzil kazanır
-RelicHeartlessDescription,Yeniden Şişen Bloon’ların yeniden doğma oranı %25 azalır
+RelicHeartlessDescription,Yeniden Şişen Bloon’ların yeniden doğma oranı %50 azalır
 RelicFlintTipsDescription,"Keskin fırlatıcılar hasar verdikleri tüm Bloon’lara ateş noktası eklerler (her 2,5 için 1 hasar toplamda 5 için)"
 RelicAbilitizedDescription,Bütün Maymunların etkinleştirilmiş tüm yetenek gecikme süreleri %10 azalır
-RelicAirAndSeaDescription,"Pilot, Helikopter Pilotu, Korsan ve Denizaltı yerleştirme ve yükseltme maliyetleri %10 azalır ve yükleme %5 gelişir"
+RelicAirAndSeaDescription,"Pilot, Helikopter Pilotu, Korsan ve Denizaltı yerleştirme ve yükseltme maliyetleri %5 azalır ve yükleme %5 gelişir"
 RelicElDoradoDescription,Oyun zaferlerinden gelen tüm Maymun Parası ve Takım Ganimet ödülleri %25 artar (minimum +1)
 RelicMonkeyShieldDescription,"Ele geçirmeden 1 saat sonra, Karoya karşı Takımlar saldıramaz. Düzeltilmiş skor yeniden değerlendirilecek."
 RelicMonkeyShieldMark2Description,"Ele geçirmeden 2 saat sonra, Karoya karşı Takımlar saldıramaz. Düzeltilmiş skor yeniden değerlendirilecek."
@@ -4763,11 +4765,11 @@ RelicRoadSpikesDescription,Oyun başına 10 yığın Yol Çivisi kazandırır
 RelicMoabMineDescription,Oyun başına 1 MOAB Mayını Güçlendirmesi kullanımı kazandırır
 RelicGlueTrapDescription,Oyun başına 2 Yapışkan Tuzağı Güçlendirmesi kullanımı kazandırır
 RelicTechbotDescription,Oyun başına 1 Tech Bot Güçlendirmesi kullanımı kazandırır
-RelicPrimaryPrimatesDescription,Tüm Birincil Maymunların maliyetini %10 azaltır
-RelicMilitaryMonkeysDescription,Tüm Askeri Maymunların maliyetini %10 azaltır
-RelicMagicMonkeysDescription,Tüm Sihirli Maymunların maliyetini %10 azaltır
+RelicPrimaryPrimatesDescription,Tüm Birincil Maymunların maliyetini %8 azaltır
+RelicMilitaryMonkeysDescription,Tüm Askeri Maymunların maliyetini %8 azaltır
+RelicMagicMonkeysDescription,Tüm Sihirli Maymunların maliyetini %8 azaltır
 RelicSupportSimiansDescription,Tüm Destek Maymunların maliyetini %10 azaltır
-RelicMonkeyTycoonDescription,Mühimmatındaki tüm Maymun Atıcılardan +1 al. Taban fiyatları %5 azaldı
+RelicMonkeyTycoonDescription,Mühimmatındaki tüm Maymun Atıcılardan +1 al. Taban fiyatları %4 azaldı
 InviteToTeam,Takıma Davet Et
 TeamLeave,Takımdan Ayrıl
 Requests,Talepler
@@ -5069,15 +5071,15 @@ TeamsEmblemIcon13ShortName,Kung Fu Kiwi Simgesi
 TeamsEmblemIcon13Description,"En sevdiğin, uçmayan kuştan gelen bir uçan tekme ile rakiplerini şaşırt."
 TeamsEmblemIcon14Name,Her Şeyi Gören Göz Simgesi
 TeamsEmblemIcon14ShortName,Her Şeyi Gören Göz Simgesi
-TeamsEmblemIcon14Description,"Bu takım simgesini donan ki, rakiplerin attıkları her adımdan tereddüt etsin."
-TeamsEmblemFrame10Name,Ninja Kaydırma Çerçevesi
-TeamsEmblemFrame10ShortName,Ninja Kaydırma Çerçevesi
+TeamsEmblemIcon14Description,"Bu Takım simgesini kullan ki, rakiplerin attıkları her adımdan tereddüt etsin."
+TeamsEmblemFrame10Name,Ninja Parşömen Çerçevesi
+TeamsEmblemFrame10ShortName,Ninja Parşömen Çerçevesi
 TeamsEmblemFrame10Description,"Takımının, kadim Ninja sanatına olan bağlılığını gösterecek bir çerçeve."
 TeamsEmblemFrame11Name,Bilgi Çerçevesi
 TeamsEmblemFrame11ShortName,Bilgi Çerçevesi
 TeamsEmblemFrame11Description,"Bilgi Çerçevesi sayesinde, Takımının üstün Bloon patlatma bilgisini aktar."
-BasePropPirateCrewMonkeyName,Korsan Mürettebatı
-BasePropPirateCrewMonkeyShortName,Korsan Mürettebatı
+BasePropPirateCrewMonkeyName,Korsan Mürettebatı Maymunu
+BasePropPirateCrewMonkeyShortName,Korsan Mürettebatı Maymunu
 BasePropPirateCrewMonkeyDescription,Vaayy! Çekişmeli Bölgeler merkezine hoş geldin kerata ve diğer Takımların ayakları birbirine dolanacak. [Ada Yuvası]
 BasePropTelescopeName,Kırılmalı Teleskop
 BasePropTelescopeShortName,Kırılmalı Teleskop
@@ -5115,6 +5117,261 @@ PlaySocialCaps,SOSYAL OYNA
 SelectCapturedRelics,En fazla 4 Ele Geçirilmiş Yadigâr seç
 NextBonusIn,Sonraki Bonusa kalan süre:
 MemberCount,Üye Sayısı
-Min,Asgari
-PrimeGamingText,Prime Gaming hediyenizi talep edin!
-GetNow,Get Now
+Min,Min
+Back,Geri
+Purchase Monkey Money,Maymun Parası Satın Al
+Player Profile,Oyuncu Profili
+Toggle Info,Bilgiyi Değiştir
+Store Info,Mağaza Bilgisi
+Toggle mode,Modu Değiştir
+Toggle jukebox enabled,Müzik kutusunu değiştirme etkin
+Play / Pause,Oynat / Duraklat
+Move up,Yukarı hamle
+Move down,Aşağı hamle
+Buy Monkey Knowledge,Maymun Bilgisi Al
+Search,Ara
+Google Play,Google Play
+Remove mode,Modu kaldır
+Add mode,Modu ekle
+Toggle ranked mode,Sıralamalı modu aç
+Info,Bilgi
+Switch to MonkeyName,Adlandırılmış Maymunlara Geç
+Rename monkey,Maymunu yeniden adlandır
+Switch to Medals,Madalyalara Geç
+Switch to Settings,Ayarlara Geç
+Refresh,Yenile
+First Page,İlk Sayfa
+Prev Page,Önceki Sayfa
+Next Page,Sonraki Sayfa
+Last Page,Son Sayfa
+Reset,Sıfırla
++,+
+-,-
+Show/Hide panel,Paneli Göster/Gizle
+Toggle Loop Track,Döngü Parkuruna Geç
+Previous Track,Önceki Parkur
+Next Track,Sonraki Parkur
+Info mode,Bilgi Modu
+Hero mode,Kahraman Modu
+Skin mode,Dış Görünüm Modu
+Prev mode,Önceki Mod
+Next mode,Sonraki Mod
+Disconnect controller,Kumandanın bağlantısını kes
+Clear all monkeys,Tüm maymunları temizle
+Clear all powers,Tüm güçleri temizle
+Mute,Sessiz
+Place Second Tower Console,Bir Okçu Maymun daha yerleştir ve ardından Oynamak için [dpad_up] düğmesine bas
+Finished Round One Console,"Bu kolaydı, değil mi? Sonraki turu başlatmak için [dpad_up] düğmesine bas"
+Speed x1,Hız x1
+Speed x3,Hız x3
+CouchBuildZoneMessage,Geçerli bölgendeki maymun atıcıları oluştur
+Insta Monkeys,Anlık Maymunlar
+Controller.Title,Kontroller
+Controller.DPadUp,Turu gönder / hızlı ileri
+Controller.DPadDown,Yarış turunu gönder
+Controller.DPadLeft,Atanmamış
+Controller.DPadRight,Atanmamış
+Controller.LeftAnalog,Serbest imleç
+Controller.LeftAnalogButton,Hızlı yerleştirme
+Controller.RightAnalog,Kaydır
+Controller.RightAnalogButton,Paneli Göster/Gizle
+Controller.Menu,Atanmamış
+Controller.Start,Duraklat
+Controller.LeftShoulder,Önceki sekme
+Controller.RightShoulder,Sonraki sekme
+Controller.LeftTrigger,"Kesin yerleştirme, yetenek kısayol tuşları"
+Controller.RightTrigger,Yetenek kısayol tuşları
+Controller.NorthButton,Atanmamış
+Controller.SouthButton,Onayla
+Controller.EastButton,İptal
+Controller.WestButton,Atanmamış
+Toggle tab,Sekmeyi Değiştir
+Refresh data,Verileri yenile
+Prev tab,Önceki sekme
+Next tab,Sonraki sekme
+Controller.Ready,Hazır
+Friends,Arkadaşlar
+MinimumRounds,Minimum Tur Sayısı
+MaximumRounds,Maksimum Tur Sayısı
+Max Monkeys,Maks. Maymun
+Toggle add / remove,Ekle / kaldır düğmesi
+Toggle select / edit,Seç / düzenle düğmesi
+Camo,Kamuflajlı
+Couch Co-op,Yerel İş Birliği
+Gift,Hediye
+Emote,Emoji
+Set Target,Hedefi Belirle
+Return to groups,Gruplara Dön
+TT_FollowCursor,İmleci Takip Et
+Toggle Map Dividers,Harita Pergellerini Değiştir
+Send,Gönder
+Upgrade,Yükselt
+NextUpgrade,Sonraki Yükseltme
+CurrentUpgrade,Mevcut Yükseltme
+HeroBoosterLocked,Kilitli
+PrimeGamingText,Prime Gaming düşürmesini al
+GetNow,Şimdi Al
+,
+DarkDungeons,Karanlık Zindanlar
+OneTwoTree,Bir İki Üç
+BeastHandler,Canavar Terbiyecisi
+BeastHandlers,Canavar Terbiyecileri
+BeastHandler Description,"Karadaki, sudaki ve havadaki tehlikeli canavarları eğitebilir. Birden fazla terbiyeci birlikte çalışarak, daha fazla canavar oluşturmak yerine, var olan canavarların gücünü artırır."
+BeastHandler Short Description,Maymunu Destekle
+Piranha,Pirana
+Microraptor,Mikro Gaspçı
+Gyrfalcon,Ak Sungur
+Barracuda,İskarmoz
+Adasaurus,Ada Kertenkelesi
+Horned Owl,Amerika Puhusu
+Great White,Beyaz Köpek Balığı
+Velociraptor,Hızlı Gaspçı
+Golden Eagle,Kaya Kartalı
+Orca,Katil Balina
+Tyrannosaurus Rex,Tiranozor
+Giant Condor,And Kondoru
+Megalodon,Megalodon
+Giganotosaurus,Giganotozor
+Pouakai,Yaşlı Obur
+Piranha Description,Küçük ama yürekli bir minik balığı sudan çıkıp Bloon’lara doğru atlaması için yönet.
+Microraptor Description,Keskin pençeli minik dinozoru yönet. Bu yükseltme sayesinde onu daha fazla Canavar Terbiyecisi ile büyüt.
+Gyrfalcon Description,"Pençeleriyle Bloon’ları yakalayıp hareket ettirebilen bir soylu, küçük avcı kuşu yönet."
+Barracuda Description,İskarmozun jilet gibi keskin dişleri Bloon’ların birden fazla katmanını patlatabilir. Pirana yükseltmeleriyle birlikte en az 1 Canavar Terbiyecisi daha gerektirir. Maks. 4 katkı sağlayan Canavar Terbiyecisi
+Adasaurus Description,"Ada Kertenkelesinin keskin dişleri, kısa menzilde yüksek hasar verir. Mikro Gaspçı yükseltmeleriyle birlikte en az 1 Canavar Terbiyecisi daha gerektirir. Maks. 4 katkı sağlayan Canavar Terbiyecisi"
+Horned Owl Description,"Amerika Puhusu, Kurşun ve Seramik Bloon’ları yakalayıp patlatacak kadar güçlüdür ve Kamuflajlı Bloon’ları fark edebilecek keskin gözlere sahiptir."
+Great White Description,"Beyaz Köpek Balığı, Kurşun Bloon’lar dahil, Bloon’ları çenesiyle ezer, gerekirse onları suya geri sürükler. İskarmoz yükseltmeleriyle birlikte en az 2 Canavar Terbiyecisi daha gerektirir. Maks. 4 katkı sağlayan Canavar Terbiyecisi"
+Velociraptor Description,"Hızlı Gaspçı, Bloon’ları şiddetli bir hızla böler ve çiğner. Ada Kertenkelesi yükseltmeleriyle birlikte en az 2 Canavar Terbiyecisi daha gerektirir. Maks. 4 katkı sağlayan Canavar Terbiyecisi"
+Golden Eagle Description,"Tek seferde çok sayıda Bloon’u yakalama ustasıdır. Kaya Kartalı o kadar büyüktür ki, Amerika Puhusu yükseltmeleriyle birlikte en az 2 Canavar Terbiyecisi daha gerektirir. Maks. 4 katkı sağlayan Canavar Terbiyecisi"
+Orca Description,"Dev Katil Balinanın büyük ağzı, neredeyse en büyük Bloon’ları yakalayıp derinliklere sürükleyebilir. Beyaz Köpek Balığı yükseltmeleriyle birlikte en az 3 Canavar Terbiyecisi daha gerektirir. Maks. 4 katkı sağlayan Canavar Terbiyecisi"
+Tyrannosaurus Rex Description,Tiranozorun devasa çenesi ve keskin dişleri her ısırıkta ağır hasar verir. Hızlı Gaspçı yükseltmeleriyle birlikte en az 3 Canavar Terbiyecisi daha gerektirir. Maks. 4 katkı sağlayan Canavar Terbiyecisi. Tiranozor Ezmesi yeteneği: Geniş bir alanda ZOMG Bloon’lara kadar sersemletir.
+Giant Condor Description,"Korkutucu And Kondoru, dev pençeleriyle MOAB Sınıfı Bloon’ları yakalayabilir. Kaya Kartalı yükseltmeleriyle birlikte en az 3 Canavar Terbiyecisi daha gerektirir. Maks. 4 katkı sağlayan Canavar Terbiyecisi"
+Megalodon Description,"Bloon tatmayı seven, gerçek devasa köpek balığı, Katil Balina yükseltmeleriyle birlikte en az 4 Canavar Terbiyecisi daha gerektirir. Maks. 8 katkı sağlayan Canavar Terbiyecisi"
+Giganotosaurus Description,"Hepsinin arasında en büyük ve en acımasız dinozor olan Giganotozor, neredeyse tüm Bloon’ları kolaylıkla parçalar. Tiranozor yükseltmeleriyle birlikte en az 4 Canavar Terbiyecisi daha gerektirir. Maks. 8 katkı sağlayan Canavar Terbiyecisi. Yetenek, ZOMG Bloon’lara kadar her yerde daha uzun süre sersemletme gücü sağlar."
+Pouakai Description,"Efsanevi Yaşlı Obur, öyle büyük bir kuştur ki, neredeyse her boyutta ve her miktarda Bloon’u yakalayabilir, taşıyabilir ve yok edebilir. And Kondoru yükseltmeleriyle birlikte en az 4 Canavar Terbiyecisi daha gerektirir. Maks. 8 katkı sağlayan Canavar Terbiyecisi"
+T Rex Stomp Ability,Tiranozor Ezmesi
+T Rex Stomp Ability Description,Geniş bir alanda ZOMG Bloon’lara kadar sersemletir.
+Giganotosaurus Stomp Ability,Giganotozor Ezmesi
+Giganotosaurus Stomp Ability Description,ZOMG Bloon’lara kadar her yerde daha uzun süre sersemletme gücü sağlar.
+Move,Hamle Yap
+NeedsBeastHandlers,Gerektirdiği Canavar
+NeedsWater,Su Gerekir
+NeedsTrack,Parkur Gerekir
+Dreadbloon,Korkutanbloon
+DreadbloonTagLine,Karanlık Diyarın Derinliklerinden...
+DreadbloonTagLine2,Zırhlı Zebella!
+DreadbloonInfoPanelDescription,"\n• Korkutanbloon, Kurşun özelliklerine sahiptir ve gelen hasarın tamamını 1 azaltır.\n• Her bir kafatasına ulaşıldığında, Korkutanbloon, bir Seramik Zırh Kabuk oluşturur ve parkurun başlangıcında Korkutankaya Bloon’lar canlanmaya başlar.\n• Korkutanbloon ortaya çıktığında, Birincil atıcılara karşı dayanıklıdır. Her bir kafatasında, bu dayanıklılık farklı atıcı türlerine göre değişiklik gösterir: Askeri, Sihirli, Destek.\n• Korkutankaya Bloon’lar ve Seramik Zırh Kabuk da bu dayanıklılıklara sahiptir.\n• Korkutankaya Bloon’lar Güçlü bir yanıta sahiptir; atıcılarının neyi hedeflediğine dikkat et!"
+DreadbloonPrimaryImmunity,Dayanıklılık: Birincil
+DreadbloonMilitaryImmunity,Dayanıklılık: Askeri
+DreadbloonMagicImmunity,Dayanıklılık: Sihir
+DreadbloonSupportImmunity,Dayanıklılık: Destek
+Resist,Direnç
+Immune,Dayanıklılık
+SleighCaptainChurchillSkinName,Kızaklı Churchill Dış Görünümü
+SleighCaptainChurchillSkinDescription,Her seferinde bir hediye paketine sarılı bombayla Bloon’ları Yılbaşı coşkusuyla katletmek.
+SleighCaptainChurchillSkinNameFull,Kızaklı Churchill
+GameUIProfileBanner23Name,Yılbaşı Kutlamaları Profil Afişi
+GameUIProfileBanner23ShortName,Yılbaşı Kutlamaları Afişi
+GameUIProfileBanner23Description,"Bu karlı, eğlenceli afişle bu kış ya da tüm yıl, yeni yılın getirdiği şenliği kutla. Sınırlı Süreli Koleksiyoncu Eşyası!"
+GameUIProfileBanner24Name,Bumerang Yıldız Bıçaklar Profil Afişi
+GameUIProfileBanner24ShortName,Bumerang Yıldız Bıçaklar Afişi
+GameUIProfileBanner24Description,"ReconScoutTeemo, Afiş galibi"
+GameUIProfileBanner25Name,Glifler Profil Afişi
+GameUIProfileBanner25ShortName,Glifler Afişi
+GameUIProfileBanner25Description,"PvtMagnuS, Afiş galibi"
+GameUIProfileAvatar65Name,Özel Avatar - Yılbaşı Çelengi
+GameUIProfileAvatar65ShortName,Yılbaşı Çelengi Avatarı
+GameUIProfileAvatar65Description,Bu Yılbaşı Çelengi Avatarı ile etrafına iyi şans ve neşe dağıt. Sınırlı Süreli Koleksiyoncu Eşyası!
+GameUIProfileAvatar66Name,Özel Avatar - Gazabın Avatarı
+GameUIProfileAvatar66ShortName,Gazabın Avatarının Avatarı
+GameUIProfileAvatar66Description,"Nihayet! Rotaya dönmem ne kadar sürdü?! Muz aşkına, Avatar benim adımda!"
+GameUIProfileAvatar67Name,Özel Avatar - Mutlu Yıllar
+GameUIProfileAvatar67ShortName,Mutlu Yıllar Avatarı
+GameUIProfileAvatar67Description,"Etiennes’in Yılbaşı için başka bir dron alma heyecanı herkesin kalbini mutlulukla dolduracak. Sınırlı Süreli Koleksiyoncu Eşyası!"
+GameUIProfileAvatar68Name,Özel Avatar - Mutlak Sıfır
+GameUIProfileAvatar68ShortName,Mutlak Sıfır Avatarı
+GameUIProfileAvatar68Description,Harika görünmek önemliyse bu Buz Maymunu avatarı ile bunu yapmaman mümkün değil.
+CoopEmoteAnimationSleighbellsName,Kar ve Çıngırak Animasyonu
+CoopEmoteAnimationSleighbellsShortName,Çıngıraklar
+CoopEmoteAnimationSleighbellsDescription,"Bu tam ekran emojinin kış harikalar diyarını kap ve Oyuncu 1, 2 ve 4’e neşe dağıt! Sınırlı Süreli Koleksiyoncu Eşyası!"
+TowerProjectileBananaFarmPresentsName,Muz Çiftliği Hediye Muzlar
+TowerProjectileBananaFarmPresentsShortName,Muz Çiftliği Hediyeleri
+TowerProjectileBananaFarmPresentsDescription,Hediyeleri çoğaltan Muz Çiftliğinden daha iyi ne olabilir ki! Hediyelerde neler var? Tabi ki muzlar! Sınırlı Süreli Koleksiyoncu Eşyası!
+TowerProjectileDartMonkeySnowballsName,Okçu Maymun Kartopu Fırlatıcısı
+TowerProjectileDartMonkeySnowballsShortName,Okçu Maymun Kartopları
+TowerProjectileDartMonkeySnowballsDescription,Ormanda nasıl bu kadar iyi büyüdüklerinden emin değiliz ama bu fırlatıcı değiştirmesini dene ve Okçu Maymunların kar topu savaşlarını neden kazandıklarını öğren. Sınırlı Süreli Koleksiyoncu Eşyası!
+TowerProjectileTackShooterIciclesName,Çivi Fırlatıcı Sarkıtlar ve Kar Tanesi Fırlatıcısı
+TowerProjectileTackShooterIciclesShortName,Çivi Fırlatıcı Sarkıtlar
+TowerProjectileTackShooterIciclesDescription,Çivi Fırlatıcı ve Buz Maymunu kombosunu sevdiysen çiviler sarkıtlara ve bıçaklar kar tanelerine dönüştüğünde çok daha fazla parladığını göreceksin. Sınırlı Süreli Koleksiyoncu Eşyası!
+TowerProjectileNinjaMonkeySnowflakesName,Ninja Maymun Kar Tanesi Fırlatıcısı
+TowerProjectileNinjaMonkeySnowflakesShortName,Ninja Maymun Kar Taneleri
+TowerProjectileNinjaMonkeySnowflakesDescription,Lezzetli kar tanesi\nNinja elinden hızla fırlatılır\nSimetrik kesim\n\nSınırlı Süreli Koleksiyoncu Eşyası!
+BuildingPropChristmasTreeName,Yılbaşı Ağacı Binası
+BuildingPropChristmasTreeShortName,Yılbaşı Ağacı Binası
+BuildingPropChristmasTreeDescription,Üssün bir ağaca dönüştürülsün mü? Maymunlar nerede yaşayacak? Bekle... Neyse.\nBu Yılbaşı Ağacı üssüyle takımını şenlik havasına sok. [Ana Bina Yuvası]
+BasePropCosyBeanbagMonkeyName,Sevimli Armut Koltuk Maymun
+BasePropCosyBeanbagMonkeyShortName,Sevimli Armut Koltuk Maymun
+BasePropCosyBeanbagMonkeyDescription,Armut Koltuk. Muhteşem dinlenme sembolü. Dinlendirici bir maymun içerir! [Ada Yuvası]
+TeamsBanner9Name,Lezzetli Kar Tanesi Afişi
+TeamsBanner9ShortName,Lezzetli Kar Tanesi Afişi
+TeamsBanner9Description,Bir kar tanesinin basit karmaşıklığı mükemmelliktir; tıpkı takımın gibi.
+TeamsBanner10Name,Kızarmış Muz Afişi
+TeamsBanner10ShortName,Kızarmış Muz Afişi
+TeamsBanner10Description,Kamp ateşinde kızartılmış muzla takımını heyecanlandır!
+TeamsEmblemFrame12Name,Bloon Çerçevesi
+TeamsEmblemFrame12ShortName,Bloon Çerçevesi
+TeamsEmblemFrame12Description,Bu acımasız Bloon çerçevesi ile Takımını herkesin düşmanı yap.
+TeamsEmblemFrame13Name,Askeri Çerçeve
+TeamsEmblemFrame13ShortName,Askeri Çerçeve
+TeamsEmblemFrame13Description,"Hevesli bir Takım, düzen ve disiplin olmadan hiçbir şeydir."
+TeamsEmblemIcon15Name,Taç Simgesi
+TeamsEmblemIcon15ShortName,Taç Simgesi
+TeamsEmblemIcon15Description,Takımının ok tahtında yerini almasına destek ol.
+TeamsEmblemIcon16Name,Uzaylı Simgesi
+TeamsEmblemIcon16ShortName,Uzaylı Simgesi
+TeamsEmblemIcon16Description,"Bu simge, Takımın bu dünyadan değilmiş gibi muhteşem olduğunda!"
+Achievement 146 Name,Yan Görev
+Achievement 146 Description,Bir görevi tamamla
+Achievement 147 Name,Kuvvetlendirme
+Achievement 147 Description,Maymunlarında tek seferde 75 güçlendirme etkin olsun
+Achievement 148 Name,Dünya Ligi Eğitimi
+Achievement 148 Description,150.000 Canavar Terbiyecisi XP’si kazan
+CompleteQuestMessage,Görevi Tamamla
+QuestUnlocksAtLevelXMessage,Görev Açılır:<br>{0}. Seviye
+QuestComplete,Görev Tamamlandı!
+BeastHandlerQuestName,Epik Canavar Görevi
+BeastHandlerQuestReward,Canavar Terbiyecisi + Daha Fazlasının Kilidini Aç!
+BeastHandlerQuest1Name,Toprağın Yolu
+BeastHandlerQuest1Description,Taş Ocağındaki ölümcül dinozorları eğit
+BeastHandlerQuest1Victory,Tebrikler! Toprağın Yolunu tamamladın!
+BeastHandlerQuest2Name,Suyun Yolu
+BeastHandlerQuest2Description,Baharat Adalarında acımasız balıklar yetiştir
+BeastHandlerQuest2Victory,Tebrikler! Suyun Yolunu tamamladın!
+BeastHandlerQuest3Name,Havanın Yolu
+BeastHandlerQuest3Description,Çatlakta yumurtadan güçlü kuşlar çıkar
+BeastHandlerQuest3Victory,Tebrikler! Havanın Yolunu tamamladın!
+DialogBeastHandlerQuest1UI1,Canavar Terbiyecileri yıllar önce epik canavarları bulma Görevi için köyü terk etti ve neredeyse artık kalmadılar!
+DialogBeastHandlerQuest1UI2,Görevlerini tamamlamalarına yardım edebilirsen geri dönüp Bloon’lara karşı savaşımızda bize katılacaklar!
+DialogBeastHandlerQuest1InGame1,Canavar Terbiyecileri gizemli bir yumurtayla ilgili hikâyeler duydular ve ilk epik canavarı evcilleştirdiler!
+DialogBeastHandlerQuest1InGame2,Bu yırtıcı kuşlar hakkındaki her şeyi öğrenmelerine yardım et!
+DialogBeastHandlerQuest2UI1,"İnanılmaz! Canavar Terbiyecileri, tehlikeli canavarlarla sanki evcil hayvanlarmış gibi çalışırlar. Onları nasıl birleştirip güçlendireceklerini birlikte çalışarak anladılar."
+DialogBeastHandlerQuest2UI2,Biyolojiden anlamam fakat kombinasyonlar kesinlikle çok daha güçlü. Canavar Terbiyecilerini bir başka yumurtaya yönlendirdiler.
+DialogBeastHandlerQuest2UI3,Ne bulduklarını görmek için sabırsızlanıyorum!
+DialogBeastHandlerQuest3UI1,"Sudaki Bloon’larla savaşmaya yardım etmesi ve 3. Yumurta gibi, saklı su hazinelerini bulması için böyle korkutucu su canavarlarını eğitmek çok yararlı."
+DialogBeastHandlerQuest3UI2,"Canavar Terbiyecilerinin üçüncü canavarı evcilleştirmelerine yardım ettikten sonra, takıma katılabilirsin!"
+,
+RemoveProviderFromAccount,Bu sağlayıcıyı hesabından kaldırmak istediğinden emin misin? <br><br><b>Sağlayıcının hesaptan kaldırılması 3 saate kadar sürebilir</b>
+ProviderRemovedText,Sağlayıcı kaldırıldı.<br><br>Bu sayfa kısa süre içinde kapatılacak
+AdditionalAccountLinks,Ek Hesap Bağlantıları
+LoginWithAmazon,Amazon ile oturum aç
+LinkingCodeButton,Bağlantı kodu al
+LinkingCodeMessage,Lütfen diğer cihazında oyunu aç ve istendiğinde aşağıdaki kodu gir. Bu kod 10 dakika boyunca geçerlidir.
+Rate Expires In,Değerlendirmenin Sona Ereceği Zaman:
+Rate,Değerlendirme
+CoopGameSyncFailed,Oyun ayarları eşitlenemedi. Lütfen yeni bir oyun dene.
+iCloudTitle,iCloud
+iCloudDisabled,iCloud Devre Dışı
+iCloudEnabled,iCloud Etkin
+DialogBeastHandlerQuest1InGameTowerUpgrade1,"Vay canına, o canavar o kadar güçlü ki, onu kontrol altında tutmak için İKİ Canavar İşleyicisi gerekiyor!"
+Buffed,Güçlendi
+Assisting,yardımcı
+Select Point On Track,Yolda bir nokta seçin

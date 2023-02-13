@@ -101,7 +101,7 @@ Quincy Level 15 Description,"Schnellschuss verfügt über die vierfache Angriffs
 Quincy Level 16 Description,Noch mehr erhöhte Angriffsgeschwindigkeit
 Quincy Level 17 Description,Pfeile halten 25 % länger. Feuert explodierende Pfeile bei jedem zweiten Schuss.
 Quincy Level 18 Description,Quincy greift schneller an und Pfeilsturm hat eine verkürzte Abkühlphase und 50 % mehr Pfeile.
-Quincy Level 19 Description,Jeder Pfeil verfügt über noch mehr Kraft zum Platzen lassen.
+Quincy Level 19 Description,Schießt drei Pfeile auf einmal und jeder Pfeil schlägt noch mehr durch.
 Quincy Level 20 Description,Quincy greift noch schneller an. Pfeilsturm teilt noch mehr Schaden pro Pfeil aus und feuert noch mehr Pfeile ab.
 ,
 StrikerJones Level 1 Description,"Striker Jones feuert eine starke Bazooka ab, die die Bloons explodieren lässt."
@@ -697,10 +697,10 @@ Enhanced Eyesight Description,Schießt sogar noch weiter und kann Tarnung aufdec
 Spike-o-pult Description,"Verwandelt den Wurfpfeilaffen in ein langsamer angreifendes Nagelkatapult, das große Nagelbälle wirft. Jeder Ball kann eine Menge Bloons platzen lassen und prallt von Hindernissen ab."
 Triple Shot Description,Wirft 3 Pfeile auf einmal statt nur 1.
 Crossbow Description,"Verwendet eine Langstrecken-Armbrust, die bei jedem Treffer 3 Schichten Bloons platzen lassen kann."
-Juggernaut Description,Schleudert riesige Stachelkugel die Blei zum Platzen bringt und Keramik-Bloons besonders gut zerstört.
+Juggernaut Description,"Schleudert riesige Stachelkugel, die Blei zum Platzen bringt und Keramik- und verstärkte Bloons besonders gut zerstört."
 Super Monkey Fan Club Description,Superaffen-Fanclub-Fähigkeiten: Verwandelt sich selbst und bis zu 10 Pfeilaffen für 15 Sekunden in Superaffen. Normale Angriffsgeschwindigkeit wird auch erhöht.
 Sharp Shooter Description,"Der Scharfschütze greift schneller an und verursacht alle paar Schüsse mächtige kritische Treffer, die eine Menge mehr Schaden verursachen."
-Ultra-Juggernaut Description,"Riesige Nagelbälle teilen sich zweimal in 6 Molochbälle, wodurch sie über noch mehr Zerstörungskraft verfügen."
+Ultra-Juggernaut Description,"Riesige Nagelbälle teilen sich zweimal in 6 Molochbälle, wodurch sie gegen Keramik- und verstärkte Bloons über noch mehr Zerstörungskraft verfügen."
 Plasma Monkey Fan Club Description,Die Elitemitgliedschaft in diesem Club verleiht den Wurfpfeilaffen noch mehr Kraft!
 Crossbow Master Description,Der Armbrust-Meister schießt wirklich schnell und vernichtet mit Leichtigkeit die meisten Bloons.
 ,
@@ -756,11 +756,11 @@ Permafrost Description,Bloons bewegen sich auch nach dem Auftauen noch langsam.
 Enhanced Freeze Description,Angriffe sind schneller und frieren länger ein.
 Larger Radius Description,Größerer Einfrierbereich.
 Metal Freeze Description,Kann Blei- und Tarn-Bloons einfrieren und platzen lassen.
-Deep Freeze Description,Friert durch eine Extraschicht und die Gefrierfunktion hält länger an.
+Deep Freeze Description,"Erhöht die Durchschlagskraft, friert durch eine Extraschicht und die Gefrierfunktion hält länger an."
 Re-Freeze Description,"Kann Bloons nochmals einfrieren, die schon gefroren sind."
 Ice Shards Description,"Messerscharfe Scherben fliegen durch die Gegend, wenn Eis-Bloons platzen."
 Arctic Wind Description,"Erhöht massiv die Durchschlagskraft und erhält eine superkalte Aura, die Bloons verlangsamt und Wasser in der Nähe gefrieren lässt."
-Cryo Cannon Description,Verschießt Gefrierbomben auf Bombe mit großer Reichweite.
+Cryo Cannon Description,Verschießt rapide kleinere Gefrierbomben mit größerer Reichweite.
 Embrittlement Description,"Kann Bloons der MOAB-Klasse treffen. Alle getroffenen Bloons werden brüchig, erleiden Extraschaden solange sie gefroren sind und verlieren Tarneigenschaften."
 Snowstorm Description,"Schneesturm-Fähigkeit: Friert alle normalen Bloons auf dem Bildschirm ein, friert für kurze Zeit Weiße, Zebra- und Tarn-Bloons ein und verlangsamt MOAB-Bloons."
 Icicles Description,"Eis-Bloons wachsen scharfe Eiszapfen, die Bloons platzen lassen, welche sie berühren."
@@ -774,10 +774,10 @@ Stickier Glue Description,Verlängert den Klebeeffekt um ein Vielfaches.
 Corrosive Glue Description,Bei verklebten Bloons platzt alle paar Sekunden eine Schicht.
 Glue Splatter Description,Verteilt pro Schuss Klebstoff über bis zu 6 Bloons.
 Stronger Glue Description,Verlangsamt Bloons noch mehr.
-Bloon Dissolver Description,Extremlösemittel verschmelzen zwei Schichten pro Sekunde.
+Bloon Dissolver Description,Kann einen zusätzlichen Bloon pro Schuss verkleben und Lösungsmittel verschmelzen zwei Schichten pro Sekunde.
 Glue Hose Description,Schießt den Klebstoff 3-mal so schnell!
 MOAB Glue Description,"Verbesserte Klebstoffformel, die es ermöglicht, sich an Bloons der MOAB-Klasse anzuheften."
-Bloon Liquefier Description,"Kann einen zusätzlichen Bloon pro Schuss verkleben und wendet Verflüssigungskomponenten an, die 10 pro Sekunde platzen lassen."
+Bloon Liquefier Description,"Wendet Verflüssigungskomponenten an, die 10 Bloons pro Sekunde platzen lassen."
 Glue Strike Description,"Klebstoffangriff-Fähigkeit: Verklebt alle Bloons auf dem Bildschirm, die dadurch während der Wirkungsdauer mehr Schaden durch alle Quellen erleiden."
 Relentless Glue Description,"Geplatzte Bloons, die verklebt wurden, hinterlassen einen Tropfen Klebstoff auf der Strecke."
 The Bloon Solver Description,Bloonprobleme? Wir haben die Lösung.
@@ -875,10 +875,10 @@ Heavy Shells Description,Schwere Granaten verursachen Extraschaden bei Keramik-B
 Signal Flare Description,"Tarn-Bloons, die von Leuchtgeschossen zum Platzen gebracht wurden, verlieren dauerhaft ihre Tarnung."
 The Big One Description,"Vernichtende Explosionen lassen jeweils 7 Bloonschichten platzen, plus noch mehr erhöhter Schaden durch Heißes Zeug."
 Artillery Battery Description,Bombardierungsfähigkeit: Löst einen Schnellfeuerangriff in einem etwas breiteren Bereich aus. Hauptangriff richtet mehr Schaden an BADs und Boss-Bloons an und hat ein Upgrade auf 3 Läufe für unglaublich schnelle Angriffe.
-Shattering Shells Description,"Schmetter-Granaten vernichten alle Bloon-Spezialeigenschaften, mit Ausnahme der größten Bloons."
+Shattering Shells Description,"Schmetter-Granaten vernichten alle Bloon-Spezialeigenschaften, mit Ausnahme der größten Bloons, und verbrennen Bloons der MOAB-Klasse für zusätzlichen Schaden."
 The Biggest One Description,"Explosion zerfetzt Bloons und Schichten in einem riesigen Bereich, plus mächtiger Schaden durch Heißes Zeug."
 Pop and Awe Description,"Platz-Methode-Fähigkeit: Lässt Explosionen über den ganzen Bildschirm regnen, während ein paar Sekunden lang alle Bloons platzen und bewegungsunfähig sind. Alle Artillerie-Batterien richten mehr Schaden an BADs und Boss-Bloons an. Der Hauptangriff erhält zusätzlichen Schadensbonus für betäubte Bloons."
-Blooncineration Description,Superheißes Zeug schmilzt sich bei jedem Schuss durch 5 Bloonschichten und verbrennt Bloons der MOAB-Klasse mit Extraschaden.
+Blooncineration Description,Superheißes Zeug schmilzt sich bei jedem Schuss durch 5 Bloonschichten und verbrennt Bloons der MOAB-Klasse mit massivem Schaden.
 ,
 Focused Firing Description,Höhere Zielgenauigkeit beim Pfeilschussgewehr.
 Advanced Targeting Description,Ermöglicht Pfeilschussschütze Tarn-Bloons zu treffen.
@@ -909,7 +909,7 @@ Shimmer Description,"Erhält einen Angriff mit schwarzer Magie, der dauerhaft de
 Arcane Spike Description,Schneller-Feuern-Zauber richtet bei den meisten Bloon-Arten riesigen Schaden an.
 Summon Phoenix Description,Phönix-herbeirufen-Fähigkeit: Der mächtige Phönix richtet 20 Sekunden lang verheerende Schäden unter den Bloons an.
 Necromancer: Unpopped Army Description,Reanimiere kürzlich geplatzte Feinde als Diener zum Zerstören der Bloons.
-Archmage Description,Ein wahrer Meister zauberhafter Hexerei.
+Archmage Description,Ein wahrer Meister zauberhafter Hexerei. Greift schneller an und fügt Bloons der MOAB-Klasse mehr Schaden zu.
 Wizard Lord Phoenix Description,Der Zauberer wird zum Meister der Flamme und verwandelt sich für kurze Zeit zu einem superstarken Lava-Phönix.
 Soulbind Description,"Reanimiere noch stärkere Bloon-Diener, um den Gegner zu vernichten und alle anderen Nekromanten zu stärken."
 ,
@@ -971,7 +971,7 @@ Druid of the Storm Description,Windböen pusten die Bloons von der Strecke und v
 Druid of the Jungle Description,"Ruft eine Schlingpflanze aus dem Boden, die einen Bloon nach dem anderen fesselt und vernichtet und einen tödlichen Dornenhaufen hinterlässt."
 Druid of Wrath Description,"Gewinnt an Angriffsgeschwindigkeit während der Runde, solange der Druide Bloons angreift."
 Ball Lightning Description,"Erzeugt mächtige Blitzkugeln, die weitere Blitzschläge aussenden und Bloons einfrieren können."
-Jungle's Bounty Description,"Dschungelbeute-Fähigkeit: Erzeugt bei jedem Einsatz Geld, plus Extrageld pro Bananenfarm in der Nähe des Druiden. Kann auch zwei Bloons gleichzeitig mit Schlingpflanzen packen."
+Jungle's Bounty Description,"Dschungelbeute-Fähigkeit: Erzeugt bei jedem Einsatz Geld, plus Extrageld pro Bananenfarm in der Nähe des Druiden. Kann auch zwei Bloons gleichzeitig mit Schlingpflanzen packen und Dornenhaufen pieksen noch mehr."
 Poplust Description,Verbessert Angriffsgeschwindigkeit und Durchschlagskraft für andere Druiden im Umkreis. Kann bis zu 5-mal auf einem einzelnen Druiden angehäuft werden.
 Superstorm Description,Supersturm fügt allen Bloon-Arten schweren Schaden zu und bläst sie vom Ausgang weg.
 Spirit of the Forest Description,"Lässt Dornenranken am Weg entlang wachsen, die konstanten Schaden verursachen sowie zusätzlichen Schaden an Keramiken. Ranken in der Nähe des Waldgeistes fügen mehr Schaden zu. Wenn die Fähigkeit aktiviert ist, werden Leben und mehr Geld generiert."
@@ -1660,11 +1660,11 @@ btd6_herobooster Description,Der in deinem aktuellen Spiel gewählte Held wird b
 btd6_powersattackpack,Kräfte-Angriffspaket
 btd6_powersattackpack Description,Eine Auswahl von {0} kampfbezogenen Affenkräften.
 btd6_instatowerspack,Insta-Affenpaket
-btd6_instatowerspack Description,"5 Affentürme, bereit zum Platzieren, ohne Geld zu kosten! Enthält 2 auf Stufe 1, 2 auf Stufe 2 und 1 auf Stufe 3."
+btd6_instatowerspack Description,"5 Affentürme, bereit zum Platzieren, ohne Geld zu kosten! Enthält 2 auf Stufe 1, 2 auf Stufe 2 und 1 auf Stufe 3. Bei Affen in jeder Stufe besteht die gleiche Chance, gezogen zu werden."
 btd6_tier3instatowerspack,Stufe-3-Insta-Affenpaket
-btd6_tier3instatowerspack Description,"10 Affentürme auf Stufe 3, bereit zum Platzieren, ohne Geld zu kosten!"
+btd6_tier3instatowerspack Description,"10 Insta-Affentürme auf Stufe 3, bereit zum Platzieren, ohne Geld zu kosten! Bei jedem Affen besteht die gleiche Chance, gezogen zu werden."
 btd6_tier4instatowerspack,Stufe-4-Insta-Affenpaket
-btd6_tier4instatowerspack Description,"10 Affentürme auf Stufe 4, bereit zum Platzieren, ohne Geld zu kosten!"
+btd6_tier4instatowerspack Description,"10 Insta-Affentürme auf Stufe 4, bereit zum Platzieren, ohne Geld zu kosten! Bei jedem Affen besteht die gleiche Chance, gezogen zu werden."
 btd6_needmoremonkeymoneyprompt,Nicht genug Affengeld! Mehr kaufen?
 ,
 ,
@@ -1678,11 +1678,11 @@ btd6_extramonkeymoney Description,Sonderangebot! {0} Affengeld zu einem äußers
 btd6_powerspandamonium,Kräfte-Pandamonium
 btd6_powerspandamonium Description,"Mit unseren kombinierten Kräften! {0} der besten Affenkräfte, die man bekommen kann, in einem Paket."
 btd6_instatowersmegabooster,Insta-Affen-Mega-Boost
-btd6_instatowersmegabooster Description,"Dieses Megapaket enthält 5 Insta-Affentürme auf Stufe 2, 12 auf Stufe 3 und 3 auf Stufe 4, bereit zum Platzieren, ohne Geld zu kosten!"
+btd6_instatowersmegabooster Description,"Dieses Megapaket enthält 5 Insta-Affentürme auf Stufe 2, 12 auf Stufe 3 und 3 auf Stufe 4, bereit zum Platzieren, ohne Geld zu kosten! Bei Affen in jeder Stufe besteht die gleiche Chance, gezogen zu werden."
 btd6_megamonkeycompendiumpack,Mega-Affen-Kompendium-Paket
-btd6_megamonkeycompendiumpack Description,"Ein riesiges Paket voll fantastischer Goodies! Schaltet 25.000 Affengeld, 100 Angriffskräfte, 30 Insta-Affentürme auf Stufe 3, 15 Insta-Affentürme auf Stufe 4, 5 Insta-Affentürme auf Stufe 5 und Wissen frei (Rang 30, 5 Bonus-Affenwissenspunkte)!"
+btd6_megamonkeycompendiumpack Description,"Ein riesiges Paket voll fantastischer Goodies! Schaltet 25.000 Affengeld, 100 Angriffskräfte, 30 Insta-Affentürme auf Stufe 3, 15 Insta-Affentürme auf Stufe 4, 5 Insta-Affentürme auf Stufe 5 und Wissen frei (Rang 30, 5 Bonus-Affenwissenspunkte)! Bei Affen in jeder Stufe besteht die gleiche Chance, gezogen zu werden."
 btd6_tier5instatowerpack,Stufe 5 Insta-Affenpaket
-btd6_tier5instatowerpack Description,"10 Affentürme auf Stufe 5, bereit zum Platzieren, ohne Geld zu kosten!"
+btd6_tier5instatowerpack Description,"10 Affentürme auf Stufe 5, bereit zum Platzieren, ohne Geld zu kosten! Bei jedem Affen besteht die gleiche Chance, gezogen zu werden."
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,Angebot – ein Haufen Affengeld
@@ -2042,6 +2042,8 @@ Swedish,Schwedisch
 Turkish,Türkisch
 Korean,Koreanisch
 Japanese,Japanisch
+Polish,Polieren
+Monkelish,Affenartig
 ,
 Backup,Backup
 Profile,Konto
@@ -2462,11 +2464,11 @@ EditorLockedShareButtonDescription,"Um deine Herausforderung teilen zu können, 
 ConflictScreenChoose,Wähle ein gespeichertes Spiel
 ConflictThisDevice,Auf diesem Gerät
 ConflictCloud,In der Cloud
-ConflictTimeHours,Vor {0} Stunde(n) gespeichert
 ConflictUseButton,Verwenden
 ConflictNoData,Keine Daten
-ConflictTimeMinutes,Vor {0} Minute(n) gespeichert
 ConflictTimeSeconds,Vor {0} Sekunde(n) gespeichert
+ConflictTimeMinutes,Vor {0} Minute(n) gespeichert
+ConflictTimeHours,Vor {0} Stunde(n) gespeichert
 ConflictTimeDays,Vor {0} Tag(en) gespeichert
 FasterMoabs,MOAB-Geschwindigkeit erhöht
 SlowerMoabs,MOAB-Geschwindigkeit gesenkt
@@ -2752,8 +2754,8 @@ DarkKnightDarkshift,"[I], um Dunkelsprung in Reichweite zu machen"
 DarkChampionDarkshift,"[I], um Dunkelsprung zu einem gültigen Ort zu machen"
 SmallTowersMode,Kleine Affentürme
 BigTowersMode,Große Affentürme
-UpdatePopupTitle,Update 33!
-UpdatePopupDescription,"Großes Inhaltsupdate!\n• Entfessele das prachtvolle Goliath-Schicksalsschiff, den Affenfliegerass-Champion!\n• Kultiviere ein bisschen Kraft zum Platzenlassen der Bloons auf der Karte für Zwischenstüfler, dem Überdachten Garten! Das Design stammt von SuperPsou, Gewinner des Community-Kartenwettbewerbs.\n• Irre durch die Hallen der gruseligen neuen Karte für Fortgeschrittene, dem Spukhaus!\n• Gegenstände im Trophäen-Shop, Verbesserungen an der Lebensqualität, Änderungen an der Balance und vieles andere mehr!"
+UpdatePopupTitle,Update 34!
+UpdatePopupDescription,"Großes Weihnachts-Update!\n• Kämpfe gegen die ehrfurchteinflößenden Widerstände und Immunitäten des gepanzerten Behemoths, Terrorbloon!\n•Entdecke die turm-verstärkenden Platzierungen auf der neuen Anfängerkarte, Eins Zwei Baum!\n• Lass die Bloons festlich platzen mit der neuen Captain Churchill-Skin, Schlitten Churchill\n• Gegenstände für den Trophäenshop, Verbesserungen für die Lebensqualität, Balance-Änderungen und vieles mehr!\n• Frohe Weihnachten und alles Gute für ein wunderbares neues Jahr, von uns allen bei Ninja Kiwi!"
 ResetDailyChest,Tägliche Truhe zurücksetzen
 JukeboxName,Musikbox
 EnableFunction,Aktivieren
@@ -4724,17 +4726,17 @@ RelicMilitaryMonkeys,Militäraffen
 RelicMagicMonkeys,Zauberaffen
 RelicSupportSimians,Unterstützeraffen
 RelicMonkeyTycoon,Affentycoon
-RelicStartingStashDescription,Starte jedes Spiel mit einem extra Vorrat von 300 Geld (kombinierbar mit „Mehr Geld“ auf normalen Kacheln)
+RelicStartingStashDescription,Starte jedes Spiel mit einem extra Vorrat von 250 Geld (kombinierbar mit „Mehr Geld“ auf normalen Kacheln)
 RelicExtraEmpoweredDescription,Dein Held startet im Spiel mit 3 Extralevels (kombinierbar mit „Ermächtigte Helden“ auf normalen Kacheln)
 RelicBoxOfChocolatesDescription,Starte jedes Spiel mit 100 Extraleben
-RelicBoxOfMonkeyDescription,"Starte jedes Spiel mit einem Gratis-Affen, der $500 oder weniger kosten würde für nicht modifizierte erste Platzierung"
+RelicBoxOfMonkeyDescription,"Starte jedes Spiel mit einem Gratis-Affen, der $400 oder weniger kosten würde für nicht modifizierte erste Platzierung."
 RelicMarchingBootsDescription,In Spielen mit eingeschränkter Anzahl bietet es dem Spieler +1 maximale Zahl von jedem Turm oder +4 maximale Zahl je Spiel
 RelicHeroBoostDescription,Helden verdienen XP 15 % schneller in jedem Spiel.
 RelicBiggerBloonSabotageDescription,Alle Bloons der MOAB-Klasse erscheinen mit 15 % weniger Gesundheit und bewegen sich mit 95 % Geschwindigkeit.
 RelicRoundingUpDescription,Verdiene am Ende der Runde +20 $
 RelicManaBulwarkDescription,"Erzeugt einen Schild, der bis zu 50 Leben absorbiert (kombinierbar mit Mana-Schild bei normalen Kacheln)"
-RelicRegenerationDescription,"Stelle je Runde 10 Leben wieder her, bis zur Ausgangsmenge der Leben im Spiel, wenn in dieser Runde keine Leben verloren wurden."
-RelicRestorationDescription,"Stelle je Runde 20 Leben wieder her, bis zu einer erhöhten Ausgangsmenge der Leben von +200, wenn in dieser Runde keine Leben verloren wurden."
+RelicRegenerationDescription,"Stelle je Runde 20 Leben wieder her, bis zur Ausgangsmenge der Leben im Spiel, wenn in dieser Runde keine Leben verloren wurden."
+RelicRestorationDescription,"Stelle je Runde 10 Leben wieder her, bis zu einer erhöhten Ausgangsmenge der Leben von +200, wenn in dieser Runde keine Leben verloren wurden."
 RelicDurableShotsDescription,Alle Projektile haben eine Lebensdauer von +25 %
 RelicAlchemistTouchDescription,Alle Angriffe können Blei-Bloons platzen lassen
 RelicDeepHeatDescription,Alle Angriffe können Weiße Bloons platzen lassen
@@ -4742,14 +4744,14 @@ RelicSharpsplosionDescription,Alle Angriffe können Schwarze Bloons platzen lass
 RelicRoyalTreatmentDescription,Alle Angriffe können Violette Bloons platzen lassen
 RelicHardBakedDescription,Alle Angriffe fügen Keramik-Bloons +1 Schaden zu
 RelicFortifriedDescription,Alle Angriffe fügen Wehrbloons +1 Schaden zu
-RelicMoabClashDescription,Alle Angriffe fügen Bloons der MOAB-Klasse +1 Schaden zu
+RelicMoabClashDescription,Alle Angriffe fügen Bloons der MOAB-Klasse +2 Schaden zu.
 RelicCamoFloggedDescription,Alle Angriffe fügen Tarn-Bloons +3 Schaden zu
 RelicBrokenHeartDescription,Alle Angriffe fügen runderneuerten Bloons +1 Schaden zu
 RelicGoingTheDistanceDescription,Alle Affen erhalten +20 % Reichweite
-RelicHeartlessDescription,Die Regenerationsrate von runderneuerten Bloons ist um 25 % reduziert
+RelicHeartlessDescription,Die Regenerationsrate von runderneuerten Bloons ist um 50 % reduziert.
 RelicFlintTipsDescription,"Scharfe Projektile fügen allen Bloons, die sie treffen, einen Feuerpunkt zu (1 Schaden alle 2,5s für insgesamt 5s)"
 RelicAbilitizedDescription,Alle aktiven Fähigkeitsabkühlraten bei allen Affen sind um 10 % reduziert
-RelicAirAndSeaDescription,"Fliegerass, Hubschrauber, Freibeuter und U-Boot haben um 10 % reduzierte Platzierungs- und Upgrade-Kosten, und das Nachladen ist um 5 % verbessert "
+RelicAirAndSeaDescription,"Fliegerass, Hubschrauber, Freibeuter und U-Boot haben um 5 % reduzierte Platzierungs- und Upgrade-Kosten, und das Nachladen ist um 5 % verbessert "
 RelicElDoradoDescription,Alle Affengelder und Team-Trophäenbelohnungen für Siege sind um 25 % erhöht (mindestens +1)
 RelicMonkeyShieldDescription,Bis zu 1 Stunde nach der Eroberung kann die Kachel vom gegnerischen Team nicht angegriffen werden. Verbesserte Punktzahl setzt den Timer wieder auf 1 Stunde.
 RelicMonkeyShieldMark2Description,Bis zu 2 Stunden nach der Eroberung kann die Kachel vom gegnerischen Team nicht angegriffen werden. Verbesserte Punktzahl setzt den Timer wieder auf 2 Stunden.
@@ -4764,11 +4766,11 @@ RelicRoadSpikesDescription,Gewährt Einsatz von 10 Nagelsperren je Spiel
 RelicMoabMineDescription,Gewährt Einsatz von 1 MOAB-Mine-Power-Up je Spiel
 RelicGlueTrapDescription,Gewährt Einsatz von 2 Klebefallen-Power-Ups je Spiel
 RelicTechbotDescription,Gewährt Einsatz von 1 Tech-Bot-Power-Up je Spiel
-RelicPrimaryPrimatesDescription,Reduziert die Kosten für alle Primäraffen um 10 %
-RelicMilitaryMonkeysDescription,Reduziert die Kosten für alle Militäraffen um 10 %
-RelicMagicMonkeysDescription,Reduziert die Kosten für alle Zauberaffen um 10 %
+RelicPrimaryPrimatesDescription,Reduziert die Kosten für alle Primäraffen um 8 %
+RelicMilitaryMonkeysDescription,Reduziert die Kosten für alle Militäraffen um 8 %
+RelicMagicMonkeysDescription,Reduziert die Kosten für alle Zauberaffen um 8 %
 RelicSupportSimiansDescription,Reduziert die Kosten für alle Unterstützeraffen um 10 %
-RelicMonkeyTycoonDescription,Erhalte +1 von allen Affentürmen in deiner Verladung und ihre Basiskosten sind um 5 % reduziert
+RelicMonkeyTycoonDescription,Erhalte +1 von allen Affentürmen in deiner Verladung und ihre Basiskosten sind um 4 % reduziert
 InviteToTeam,Ins Team einladen
 TeamLeave,Team verlassen
 Requests,Anfragen
@@ -5007,14 +5009,14 @@ TeamTicketUsed,Teamticket verwendet
 PersonalTicketUsed,Persönliches Ticket verwendet
 TeamScreenCodeHidden,Teamcode verborgen
 ERR_ANOTHER_REQUEST_PENDING,Es ist bereits eine andere Anfrage ausstehend
-QuickJoinSearchForTeam,Suche nach einem Team zum Beitreten…, dem ich beitreten kann...
+QuickJoinSearchForTeam,Suche nach einem Team zum Beitreten…
 QuickJoinJoiningTeam,Beitreten zum Team…
 QuickJoinCancel,Abbrechen…
 MidnightMansion,Spukhaus
 CoveredGarden,Überdachter Garten
 MonkeyAce Paragon,Goliath-Schicksalsschiff
 MonkeyAce Paragon Description,Ein fliegender Schatten der Dunkelheit verspricht die Auslöschung der Bloons.
-CreateOrJoinTeamLeaveFirst,Du bist bereits Mitglied eines Teams., um diese Daten zu laden
+CreateOrJoinTeamLeaveFirst,Du bist bereits Mitglied eines Teams.
 TeamMsgBannerTileLost,Eine deiner Banner-Kacheln wurde von {0} erobert. Hole sie dir jetzt zurück!
 CTPlayerPopupNoData,"Gib UG ein, um diese Daten zu laden"
 HeroesJoanOfArcAdoraPetDragonName,Jeanne d'Arc-Drachentier
@@ -5065,20 +5067,20 @@ TeamsBanner7Description,"Es ist eine fipsige Tier-Party! Rüste dieses Banner au
 TeamsBanner8Name,Umkämpftes Gebiet-Banner
 TeamsBanner8ShortName,Umkämpftes Gebiet-Banner
 TeamsBanner8Description,"Rüste dieses Banner aus, um dein Engagement für das Erobern achteckiger Kacheln zu zeigen. Rot gegen Blau sah noch nie so gut aus."
-TeamsEmblemIcon13Name,Kung-Fu-Kiwi-Symbol
-TeamsEmblemIcon13ShortName,Kung-Fu-Kiwi-Symbol
-TeamsEmblemIcon13Description,Überrasche deine Gegner mit einem Luft-Tritt deines liebsten flügellosen Vogels.
-TeamsEmblemIcon14Name,Alles-sehendes-Auge-Symbol
-TeamsEmblemIcon14ShortName,Alles-sehendes-Auge-Symbol
-TeamsEmblemIcon14Description,"Rüste dieses Team-Symbol aus und deine Gegner werden jeden Zug, den sie machen, anzweifeln."
-TeamsEmblemFrame10Name,Ninja-Rollen-Rahmen
-TeamsEmblemFrame10ShortName,Ninja-Rollen-Rahmen
-TeamsEmblemFrame10Description,"Ein Rahmen, um die Passion deines Teams für die antike Kunst der Ninja zu zeigen."
-TeamsEmblemFrame11Name,Erkenntnisrahmen
-TeamsEmblemFrame11ShortName,Erkenntnisrahmen
-TeamsEmblemFrame11Description,Präsentiere das hochwertige Wissen deines Teams für das Platzenlassen von Bloons mit dem Erkenntnisrahmen.
-BasePropPirateCrewMonkeyName,Piraten-Mannschaft
-BasePropPirateCrewMonkeyShortName,Piraten-Mannschaft
+TeamsEmblemIcon13Name,Kung Fu Kiwi-Symbol
+TeamsEmblemIcon13ShortName,Kung Fu Kiwi-Symbol
+TeamsEmblemIcon13Description,Überrasche deine Gegner mit einem fliegenden Tritt von deinem fluglosen Lieblingsvogel.
+TeamsEmblemIcon14Name,Allsehendes Auge-Symbol
+TeamsEmblemIcon14ShortName,Allsehendes Auge-Symbol
+TeamsEmblemIcon14Description,"Rüste dieses Team-Symbol aus, und deine Gegner werden alle ihre Züge anzweifeln."
+TeamsEmblemFrame10Name,Ninja-Rolle-Rahmen
+TeamsEmblemFrame10ShortName,Ninja-Rolle-Rahmen
+TeamsEmblemFrame10Description,"Ein Rahmen, um zu zeigen, dass sich dein Team der uralten Ninja-Kunst widmet."
+TeamsEmblemFrame11Name,Anerkennungsrahmen
+TeamsEmblemFrame11ShortName,Anerkennungsrahmen
+TeamsEmblemFrame11Description,Zeige mit diesem Anerkennungsrahmen das überragende Bloon-Platz-Wissen deines Teams
+BasePropPirateCrewMonkeyName,Piraten-Mannschaft-Affe
+BasePropPirateCrewMonkeyShortName,Piraten-Mannschaft-Affe
 BasePropPirateCrewMonkeyDescription,Ha! Heiße diesen Schlingel in der Basis deines Umkämpften Gebiets willkommen und die anderen Teams drehen mit dem Segel zwischen den Beinen wieder um. [Insel-Slot]
 BasePropTelescopeName,Brechungsteleskop
 BasePropTelescopeShortName,Brechungsteleskop
@@ -5116,6 +5118,262 @@ PlaySocialCaps,IN SOZIALEN NETZWERKEN SPIELEN
 SelectCapturedRelics,Wähle bis zu 4 eroberte Relikte aus
 NextBonusIn,Nächster Bonus in:
 MemberCount,Mitgliederzahl
-Min,Minimum
-PrimeGamingText,Fordern Sie Ihr Prime Gaming-Geschenk an!
-GetNow,Get Now
+Min,Min.
+Back,Zurück
+Purchase Monkey Money,Affengeld kaufen
+Player Profile,Spielerprofil
+Toggle Info,Infos umschalten
+Store Info,Shop-Infos
+Toggle mode,Umschaltmodus
+Toggle jukebox enabled,Jukebox umschalten aktiviert
+Play / Pause,Spielen / Pausieren
+Move up,Nach oben
+Move down,Nach unten
+Buy Monkey Knowledge,Affenwissen kaufen
+Search,Suchen
+Google Play,Google Play
+Remove mode,Modus entfernen
+Add mode,Modus hinzufügen
+Toggle ranked mode,Rangstufenmodus ein-/ausschalten
+Info,Infos
+Switch to MonkeyName,Zu benannten Affen wechseln
+Rename monkey,Affe umbenennen
+Switch to Medals,Zu Medaillen wechseln
+Switch to Settings,Zu Einstellungen wechseln
+Refresh,Aktualisieren
+First Page,Erste Seite
+Prev Page,Vorh. Seite
+Next Page,Nächste Seite
+Last Page,Letzte Seite
+Reset,Zurücksetzen
++,+
+-,-
+Show/Hide panel,Feld anzeigen/ausblenden
+Toggle Loop Track,Loop-Strecke ein-/ausschalten
+Previous Track,Vorh. Strecke
+Next Track,Nächste Strecke
+Info mode,Info-Modus
+Hero mode,Heldenmodus
+Skin mode,Skin-Modus
+Prev mode,Vorh. Modus
+Next mode,Nächster Modus
+Disconnect controller,Controller trennen
+Clear all monkeys,Alle Affen löschen
+Clear all powers,Alle Kräfte löschen
+Mute,Stumm schalten
+Place Second Tower Console,"Einen weiteren Pfeilaffen platzieren und dann [dpad_up] drücken, um zu spielen."
+Finished Round One Console,"Das war doch einfach, oder? Drücke [dpad_up], um die nächste Runde zu starten."
+Speed x1,Geschwindigkeit x1
+Speed x3,Geschwindigkeit x3
+CouchBuildZoneMessage,Baue deine Affentürme in deinem gültigen Gebiet
+Insta Monkeys,Insta-Affen
+Controller.Title,Steuerungen
+Controller.DPadUp,Runde senden / Schnellvorlauf
+Controller.DPadDown,Rennrunde senden
+Controller.DPadLeft,Nicht zugeordnet
+Controller.DPadRight,Nicht zugeordnet
+Controller.LeftAnalog,Freier Cursor
+Controller.LeftAnalogButton,Schnellplatzierung
+Controller.RightAnalog,Scrollen
+Controller.RightAnalogButton,Menü anzeigen/ausblenden
+Controller.Menu,Nicht zugeordnet
+Controller.Start,Pausieren
+Controller.LeftShoulder,Vorh. Reiter
+Controller.RightShoulder,Nächster Reiter
+Controller.LeftTrigger,"Präzise Platzierung, Fähigkeits-Hotkeys"
+Controller.RightTrigger,Fähigkeits-Hotkeys
+Controller.NorthButton,Nicht zugeordnet
+Controller.SouthButton,Bestätigen
+Controller.EastButton,Abbrechen
+Controller.WestButton,Nicht zugeordnet
+Toggle tab,Reiter umschalten
+Refresh data,Daten aktualisieren
+Prev tab,Vorh. Reiter
+Next tab,Nächster Reiter
+Controller.Ready,Bereit
+Friends,Freunde
+MinimumRounds,Runden-Mindestzahl
+MaximumRounds,Runden-Höchstzahl
+Max Monkeys,Max. Affen
+Toggle add / remove,Umschalten hinzufügen / entfernen
+Toggle select / edit,Umschalten auswählen / bearbeiten
+Camo,Tarnung
+Couch Co-op,Sofa-Koop
+Gift,Geschenk
+Emote,Emoji
+Set Target,Ziel einstellen
+Return to groups,Zurück zu Gruppen
+TT_FollowCursor,Cursor folgen
+Toggle Map Dividers,Kartentrenner umschalten
+Send,Senden
+Upgrade,Upgrade
+NextUpgrade,Nächstes Upgrade
+CurrentUpgrade,Aktuelles Upgrade
+HeroBoosterLocked,Gesperrt
+PrimeGamingText,Löse deinen Prime Gaming-Drop ein
+GetNow,Jetzt holen
+,
+DarkDungeons,Düstere Dungeons
+OneTwoTree,"Eins, zwei, Baum"
+BeastHandler,Biestzähmer
+BeastHandlers,Biestzähmer
+BeastHandler Description,"Können gefährliche Biester an Land, im Wasser und in der Luft trainieren. Anstelle mehr Biester zu erstellen, arbeiten mehrere Zähmer zusammen, um die Kraft der vorhandenen Bestien zu erhöhen."
+BeastHandler Short Description,Unterstützeraffe
+Piranha,Piranha
+Microraptor,Mikroraptor
+Gyrfalcon,Jagdfalke
+Barracuda,Barrakuda
+Adasaurus,Adasaurier
+Horned Owl,Uhu
+Great White,Weißer Hai
+Velociraptor,Velociraptor
+Golden Eagle,Steinadler
+Orca,Orca
+Tyrannosaurus Rex,Tyrannosaurus Rex
+Giant Condor,Riesenkondor
+Megalodon,Megalodon
+Giganotosaurus,Gigantosaurier
+Pouakai,Pouakai
+Piranha Description,"Steure einen kleinen, aber munteren Fisch, der aus dem Wasser auf die Bloons springt."
+Microraptor Description,Steuere einen kleinen Dinosaurier mit scharfen Krallen. Lass ihn in diesem Upgrade mit mehr Biestzähmern größer werden.
+Gyrfalcon Description,"Steuere diesen edlen kleinen Greifvogel, der Bloons in seinen Krallen schnappen und wegtragen kann."
+Barracuda Description,Die messerscharfen Zähne des Barrakuda können mehrere Lagen Bloon platzen lassen. Erfordert mindestens einen Biestzähmer mit Piranha-Upgrades. Max. 4 beitragende Biestzähmer.
+Adasaurus Description,Die scharfen Zähne des Adasaurier fügen in der Nähe großen Schaden zu. Erfordert mindestens 1 anderen Biestzähmer mit Mikroraptor-Upgrades. Max. 4 beitragende Biestzähmer.
+Horned Owl Description,"Der Uhu ist stark genug, um Blei- und Keramik-Bloons platzen zu lassen und kann mit seinen scharfen Augen Tarn-Bloons erkennen."
+Great White Description,Der weiße Hai kann zwischen seinen Zähnen selbst Blei-Bloons zermalmen und sie bei Bedarf zurück ins Wasser zerren. Erfordert mindestens zwei weitere Biestzähmer mit Barrakuda-Upgrades. Max. 4 beitragende Biestzähmer.
+Velociraptor Description,Der Velociraptor zerfetzt Bloons mit rasender Geschwindigkeit. Erfordert mindestens zwei weitere Biestzähmer mit Adasaurier-Upgrade. Max. 4 beitragende Biestzähmer.
+Golden Eagle Description,"Kann mehrere Bloons gleichzeitig schnappen. Der Steinadler ist so groß, dass er mindestens zwei andere Biestzähmer mit Uhu-Upgrades braucht. Max. 4 beitragende Biestzähmer."
+Orca Description,Das riesige Maul des mächtigen Orka kann abgesehen von den allergrößten Bloons fast alle in die Tiefe ziehen. Erfordert mindestens 3 andere Biestzähmer mit Weißer Hai-Upgrades. Max. 4 beitragende Biestzähmer.
+Tyrannosaurus Rex Description,Die riesigen Kiefer und scharfen Zähne des Tyrannosaurus Rex fügen mit jedem Biss enormen Schaden zu. Erfordert mindestens 3 andere Biestzähmer mit Velociraptor-Upgrades. Max. 4 beitragende Biestzähmer. T-Rex-Stampffähigkeit: Betäubt bis zu ZOMG-Bloons in einem weiten Umkreis.
+Giant Condor Description,Die enormen Krallen des furchterregenden Riesenkondors können Bloons der MOAB-Klasse aufgreifen. Erfordert mindestens 3 andere Biestzähmer mit Steinadler-Upgrades. Max. 4 beitragende Biestzähmer.
+Megalodon Description,"Ein wahrhaft kolossaler Hai mit einem Geschmack an Bloons, der mindestens 4 andere Biestzähmer mit Steinadler-Upgrades erfordert. Max. 4 beitragende Biestzähmer."
+Giganotosaurus Description,"Der größte, wildeste aller Dinosaurier. Der Gigantosaurier kann fast alle Bloons im Nu zerfetzen. Max. 8 beitragende Biestzähmer. Fähigkeit betäubt überall länger bis zu ZOMG-Bloons."
+Pouakai Description,"Der legendäre Pouakai, ein Vogel, der so groß ist, dass er fast beliebig viele Bloons fast aller Größen ergreifen, wegschleppen und zerstören kann. Erfordert mindestens 4 andere Biestzähmer mit Riesenkondor-Upgrades. Max. 8 beitragende Biestzähmer."
+T Rex Stomp Ability,T-Rex-Stampfen
+T Rex Stomp Ability Description,Betäubt bis zu ZOMG-Bloons in einem weiten Umkreis
+Giganotosaurus Stomp Ability,Gigantosaurier-Stampfen
+Giganotosaurus Stomp Ability Description,Betäubt überall länger bis zu ZOMG-Bloons
+Move,Bewegen
+NeedsBeastHandlers,Erfordert Bestie
+NeedsWater,Braucht Wasser
+NeedsTrack,Braucht Strecke
+Dreadbloon,Terrorbloon
+DreadbloonTagLine,Aus den Tiefen in der dunklen Erde …
+DreadbloonTagLine2,der gepanzerte Behemoth!
+DreadbloonInfoPanelDescription,"\n• Terrorbloon hat Bleieigenschaften und reduziert allen eingehenden Schaden um 1.\n• Wenn jeder Schädel erreicht wird, wird der Terrorbloon mit einem Keramik-Panzer ummantelt, und Terrorbloons fangen an, zu Beginn der Strecke zu spawnen.\n• Wenn Terrorbloons erscheint, ist er gegen Primärtürme immun: Militär, Zauber, Unterstützer.\n• Terrorbloons und der Keramik-Panzer verfügen ebenfalls über diese Immunitäten.\n• Terrorbloons haben starkes Verspotten, also Vorsicht, worauf diese Türme zielen!"
+DreadbloonPrimaryImmunity,Immun gegen: Primär
+DreadbloonMilitaryImmunity,Immun gegen: Militär
+DreadbloonMagicImmunity,Immun gegen: Magie
+DreadbloonSupportImmunity,Immun gegen: Unterstützer
+Resist,Widerstehen
+Immune,Immun
+SleighCaptainChurchillSkinName,Schlitten Churchill-Skin
+SleighCaptainChurchillSkinDescription,"Bloons mit Weihnachtsstimmung erledigen, eine als Geschenk verpackte Bombe nach der anderen."
+SleighCaptainChurchillSkinNameFull,Schlitten Churchill
+GameUIProfileBanner23Name,Profil-Banner Frohe Weihnachten
+GameUIProfileBanner23ShortName,Banner Frohe Weihnachten
+GameUIProfileBanner23Description,Mit diesem lustigen Frostbanner kommt Winterspaß ins ganze Jahr. Sammlergegenstand für begrenzte Zeit!
+GameUIProfileBanner24Name,Profil-Banner Bumerang-Gleven
+GameUIProfileBanner24ShortName,Banner Bumerang-Gleven
+GameUIProfileBanner24Description,Banner-Gewinner von ReconScoutTeemo
+GameUIProfileBanner25Name,Profilbanner Glyphs
+GameUIProfileBanner25ShortName,Banner Glyphs
+GameUIProfileBanner25Description,Bannergewinner von PvtMagnuS
+GameUIProfileAvatar65Name,Personalisierter Avatar - Weihnachtskranz
+GameUIProfileAvatar65ShortName,Weihnachtskranz-Avatar
+GameUIProfileAvatar65Description,Verbreite mit diesem Weihnachtskranz-Avatar Glück und gute Laune. Sammlergegenstand für begrenzte Zeit!
+GameUIProfileAvatar66Name,Eigener Avatar - Avatar des Zorns
+GameUIProfileAvatar66ShortName,Avatar des Avatars des Zorns
+GameUIProfileAvatar66Description,"Endlich! Wie lange hat es gedauert, mich in den Umlauf zu bringen?! Mein Name ist Avatar, Bananen noch mal!"
+GameUIProfileAvatar67Name,Eigener Avatar - Frohe Weihnachten
+GameUIProfileAvatar67ShortName,Avatar Frohe Weihnachten
+GameUIProfileAvatar67Description,"Etiennes Freude, noch eine Drohne zu Weihnachten zu bekommen, erweicht alle Herzen."
+GameUIProfileAvatar68Name,Sammlergegenstand für begrenzte Zeit!
+GameUIProfileAvatar68ShortName,Absolut Null-Avatar
+GameUIProfileAvatar68Description,"Wenn cool aussehen zählt, kann man mit diesem Eisaffen-Avatar nicht daneben liegen."
+CoopEmoteAnimationSleighbellsName,Animation mit Schnee und Schlittenglöckchen
+CoopEmoteAnimationSleighbellsShortName,Schlittenglöckchen
+CoopEmoteAnimationSleighbellsDescription,"Hol dir dieses Vollbildschirm-Emoji mit einem Winterwunderland und mache Spieler 1, 2 oder 4 eine Freude! Sammlergegenstand für begrenzte Zeit!"
+TowerProjectileBananaFarmPresentsName,Die Bananenfarm präsentiert Bananen
+TowerProjectileBananaFarmPresentsShortName,Die Bananenfarm präsentiert
+TowerProjectileBananaFarmPresentsDescription,"Nichts besser als die Bananenfarm, um Geschenke sprießen zu lassen! Was wohl in den Geschenken steckt? Bananen natürlich! Sammlergegenstand für begrenzte Zeit!"
+TowerProjectileDartMonkeySnowballsName,Schneeballgeschosse des Pfeilaffen
+TowerProjectileDartMonkeySnowballsShortName,Schneebälle des Pfeilaffen
+TowerProjectileDartMonkeySnowballsDescription,"Wir sind uns nicht ganz sicher, wie sie im Dschungel so gut heranwachsen konnten, aber tausche doch mal die Geschosse aus, dann siehst du, warum der Pfeilaffe jede Schneeballschlacht gewinnt. Sammlergegenstand für begrenzte Zeit!"
+TowerProjectileTackShooterIciclesName,Eiszapfen- und Schneeflocken-Geschosse für Reißnagelwerfer
+TowerProjectileTackShooterIciclesShortName,Eiszapfen für Reißnagelwerfer
+TowerProjectileTackShooterIciclesDescription,"Wenn du den Reißnagelwerfer kombiniert mit dem Eisaffen magst, glitzert es noch mehr, wenn die Reißnägel aus Eiszapfen und die Klingen aus Schneeflocken bestehen. Sammlergegenstand für begrenzte Zeit!"
+TowerProjectileNinjaMonkeySnowflakesName,Schneeflockengeschosse für Ninja-Affen
+TowerProjectileNinjaMonkeySnowflakesShortName,Schneeflocken für Ninja-Affen
+TowerProjectileNinjaMonkeySnowflakesDescription,Zarte Schneeflocke\nAus Ninja-Hand geschleudert\nSymmetrischer Schnitt\n\nSammlergegenstand für begrenzte Zeit!
+BuildingPropChristmasTreeName,Weihnachtsbaum-Gebäude
+BuildingPropChristmasTreeShortName,Weihnachtsbaum-Gebäude
+BuildingPropChristmasTreeDescription,"Möchtest du deine Basis in einen Baum verwanden?! Wo werden denn dann die Affen wohnen? Moment mal … ach, egal.\nMit dieser Weihnachtsbaumbasis kommt dein Team in die festliche Stimmung [Hauptgebäude-Slot]"
+BasePropCosyBeanbagMonkeyName,Kuscheliger Sitzsack-Affe
+BasePropCosyBeanbagMonkeyShortName,Kuscheliger Sitzsack-Affe
+BasePropCosyBeanbagMonkeyDescription,Der Sitzsack. Das ultimative Symbol der Entspannung. Mit entspanntem Affen! [Insel-Slot]
+TeamsBanner9Name,Zarter Schneeflocken-Banner
+TeamsBanner9ShortName,Zarter Schneeflocken-Banner
+TeamsBanner9Description,"Die schlichte Komplexität einer Schneeflocke ist Perfektion, wie dein Team."
+TeamsBanner10Name,Gegrillte Bananen-Banner
+TeamsBanner10ShortName,Gegrillte Bananen-Banner
+TeamsBanner10Description,Mit auf dem Lagerfeuer gegrillten Bananen wird deinem Team das Wasser im Mund zusammenlaufen.
+TeamsEmblemFrame12Name,Bloon-Rahmen
+TeamsEmblemFrame12ShortName,Bloon-Rahmen
+TeamsEmblemFrame12Description,Mit diesem unerbittlichen Bloon-Rahmen wird dein Team zum Gegner von allen anderen.
+TeamsEmblemFrame13Name,Militär-Rahmen
+TeamsEmblemFrame13ShortName,Militär-Rahmen
+TeamsEmblemFrame13Description,Ohne Struktur und Disziplin ist ein enthusiastisches Team nichts.
+TeamsEmblemIcon15Name,Kronen-Symbol
+TeamsEmblemIcon15ShortName,Kronen-Symbol
+TeamsEmblemIcon15Description,Fördert den Anspruch deines Team auf den Pfeil-Thron.
+TeamsEmblemIcon16Name,Alien-Symbol
+TeamsEmblemIcon16ShortName,Alien-Symbol
+TeamsEmblemIcon16Description,"Das Symbol zeigt an, dass dein Team einfach himmlisch ist!"
+Achievement 146 Name,Neben-Quest
+Achievement 146 Description,Eine Quest abschließen
+Achievement 147 Name,Belebung
+Achievement 147 Description,Habe 75 Buffs auf einmal an deinen Affen aktiv
+Achievement 148 Name,Weltliga-Training
+Achievement 148 Description,Erreiche 150.000 Biestzähmer-EP
+CompleteQuestMessage,Quest abschließen
+QuestUnlocksAtLevelXMessage,Quest schaltet <br>Level {0} frei
+QuestComplete,Quest abgeschlossen!
+BeastHandlerQuestName,Epische Biest-Quest
+BeastHandlerQuestReward,Den Biestzähmer freischalten + mehr!
+BeastHandlerQuest1Name,Der Weg der Erde
+BeastHandlerQuest1Description,Trainiere tödliche Dinosaurier an der Beute
+BeastHandlerQuest1Victory,Herzlichen Glückwunsch! Du hast den Weg der Erde abgeschlossen!
+BeastHandlerQuest2Name,Der Weg des Wassers
+BeastHandlerQuest2Description,Züchte wilde Fische auf den Gewürzinseln
+BeastHandlerQuest2Victory,Herzlichen Glückwunsch! Du hast den Weg des Wassers abgeschlossen!
+BeastHandlerQuest3Name,Der Weg der Luft
+BeastHandlerQuest3Description,Lasse mächtige Vögel auf Cracked ausschlüpfen
+BeastHandlerQuest3Victory,Herzlichen Glückwunsch! Du hast den Weg der Luft abgeschlossen!
+DialogBeastHandlerQuest1UI1,"Die Biestzähmer haben vor Jahren das Dorf verlassen und sich auf eine Quest begeben, um epische Biester zu finden, und sie sind fast fertig!"
+DialogBeastHandlerQuest1UI2,"Wenn du ihnen helfen kannst, ihre Quest abzuschließen, werden sie zurückkehren und mit uns gegen die Bloons kämpfen!"
+DialogBeastHandlerQuest1InGame1,"Die Biestzähmer haben Geschichten von einem geheimnisvollen Ei gehört und ihr erstes episches Biest gezähmt!
+"
+DialogBeastHandlerQuest1InGame2,"Hilf ihnen, alles über diese gefräßige Greifvögel zu lernen!"
+DialogBeastHandlerQuest2UI1,"Unglaublich! Die Biestzähmer arbeiten mit diesen wilden Bestien, als wären sie Haustiere. Und sie haben herausgefunden, wie sie zusammenarbeiten, um sie zu kombinieren und zu stärken."
+DialogBeastHandlerQuest2UI2,"Ich verstehe die Biologie zwar nicht, aber die Kombinationen sind auf alle Fälle stärker. Sie haben die Biestzähmer zu einem weiteren Ei geführt."
+DialogBeastHandlerQuest2UI3,"Ich kann es kaum erwarten, herauszufinden, was sie gefunden haben!"
+DialogBeastHandlerQuest3UI1,"So gerissen, so furchterregende Wasserbestien darin zu trainieren, die Bloons auf dem Wasser zu finden und versteckte Wasserschätze zu finden, wie das dritte Ei."
+DialogBeastHandlerQuest3UI2,"Wenn du den Biestzähmern geholfen hast, das dritte Biest zu zähmen, werden sie dem Team beitreten können!"
+,
+RemoveProviderFromAccount,"Bist du sicher, dass du diesen Anbieter von deinem Konto entfernen möchtest? <br><br><b>Es kann bis zu drei Stunden dauern, bis der Anbieter vom Konto entfernt ist.</b>"
+ProviderRemovedText,Anbieter entfernt.<br><br>Diese Seite wird in Kürze geschlossen.
+AdditionalAccountLinks,Zusätzliche Kontolinks
+LoginWithAmazon,Mit Amazon anmelden
+LinkingCodeButton,Einen Link-Code erhalten
+LinkingCodeMessage,Bitte öffne das Spiel auf deinem anderen Gerät und gib bei Anfrage den folgenden Code ein. Der Code ist 10 Minuten lang gültig.
+Rate Expires In,Bewerten läuft ab in
+Rate,Bewerten
+CoopGameSyncFailed,Konnte Spieleinstellungen nicht synchronisieren. Versuche es bitte mit einem neuen Spiel.
+iCloudTitle,iCloud
+iCloudDisabled,iCloud deaktiviert
+iCloudEnabled,iCloud aktiviert
+DialogBeastHandlerQuest1InGameTowerUpgrade1,Wow, dieses Biest ist so stark, dass es ZWEI Beast Handlers braucht, um es unter Kontrolle zu halten!
+Buffed,Gestärkt
+Assisting,Assistenz
+Select Point On Track,Wählen Sie einen Punkt auf dem Pfad aus

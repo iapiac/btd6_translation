@@ -101,7 +101,7 @@ Quincy Level 15 Description,急速ショットの攻撃速度が4倍になり、
 Quincy Level 16 Description,攻撃速度がさらに増加。
 Quincy Level 17 Description,弓矢の持続時間が25％延長。2発ごとに爆破する矢を撃つ。
 Quincy Level 18 Description,クインシーがより素早く攻撃し、矢の嵐のクールダウン時間が短縮され、矢の数が50％増える。
-Quincy Level 19 Description,弓ごとの破裂パワーがさらに強くなる。
+Quincy Level 19 Description,"一度に3本の矢を放ち、それぞれの矢は破裂パワーがさらに強くなる。"
 Quincy Level 20 Description,クインシー攻撃はさらに速くなる。 矢の嵐の、弓ごとの破壊力と弓の数が増加し、さらに矢を撃つ。
 ,
 StrikerJones Level 1 Description,ストライカー・ジョーンズ強力なバズーカでブルーンを爆破する。
@@ -700,7 +700,7 @@ Crossbow Description,命中するたびにブルーンを3層分割れる、長�
 Juggernaut Description,鉛と陶器ブルーンの粉砕に効果的な、巨大なスパイク付きボールを投げつける。
 Super Monkey Fan Club Description,スーパーモンキーファンクラブ能力：付近の10頭までのダートモンキーを、15秒間スーパーモンキーにする。通常攻撃速度もアップする。
 Sharp Shooter Description,シャープシューターは、より大きなダメージを与えるパワフルなクリティカルショットを数秒ごとに発する。
-Ultra-Juggernaut Description,巨大スパイクボールが2回にわたり、もっと大きな破壊力を持つ6個のジャガーノートに分裂する。
+Ultra-Juggernaut Description,巨大スパイクボールが2回にわたり、もっと大きな破壊力を持つ6個のジャガーノートになり分裂し、陶器と強化ブルーンに対してさらに破壊力が上昇する。
 Plasma Monkey Fan Club Description,このクラブのエリート会員券があると、ダーツモンキーがもっとパワーアップ！
 Crossbow Master Description,クロスボウ・エキスパートの発射スピードはとても速く、ほとんどの種類のブルーンをたやすく破壊する。
 ,
@@ -756,11 +756,11 @@ Permafrost Description,解凍後もブルーンの動きを遅らせる。
 Enhanced Freeze Description,高速攻撃を行い、凍結時間も長くなる。
 Larger Radius Description,凍結エリアが広くなる。
 Metal Freeze Description,鉛とカモフラージュブルーンを凍結して割れる。
-Deep Freeze Description,もう1層余計に凍らせ、フリーズの持続時間を延ばす。
+Deep Freeze Description,貫通力が増加し、もう1層余計に凍らせ、フリーズの持続時間を延ばす。
 Re-Freeze Description,既に凍結しているブルーンを、再凍結できる。
 Ice Shards Description,凍結ブルーンが割れると剃刀のように鋭い破片が飛び散る。
 Arctic Wind Description,貫通度を大きく上げて、近寄るブルーンの動きを遅らせるとても冷たいオーラを取得する。
-Cryo Cannon Description,もっと遠距離のブルーンめがけて、凍結ボムを発射。
+Cryo Cannon Description,もっと遠距離のブルーンめがけて、小型凍結ボムを素早く発射。
 Embrittlement Description,MOAB級ブルーンに命中できる。命中した全てのブルーンはもろくなり、凍結中に追加のダメージを受け、カモフラージュ性を失う。
 Snowstorm Description,雪嵐の能力：画面上の全てのブルーンを凍結させる。白、ゼブラ、カモフラージュ、MOAB級は短時間凍結させる。
 Icicles Description,凍結したブルーンは、鋭いつららを作り、触れたブルーンを割ることができる。
@@ -774,10 +774,10 @@ Stickier Glue Description,グルーの効果がより長く持続する。
 Corrosive Glue Description,迷彩ブルーンや打つと砕けるブルーンを検知し、凍らせている間に追加ダメージを与え、迷彩特性を無効にする。
 Glue Splatter Description,一度に最大6個のブルーンにグルーをまき散らす。
 Stronger Glue Description,ブルーンをもっと遅らせる。
-Bloon Dissolver Description,究極の溶剤は1秒に1層ずつ溶かす。
+Bloon Dissolver Description,究極の溶剤は1つの追加のブルーンを接着でき、溶剤は毎秒2つの層を溶かす。
 Glue Hose Description,グルーを三倍速で発射！
 MOAB Glue Description,改良調合で、MOAB級ブルーンにくっつけるようになった。
-Bloon Liquefier Description,ショットごとにもうひとつずつブルーンをのり付けして、毎秒10個弾ける液化化合物をこすり付ける。
+Bloon Liquefier Description,毎秒10個弾ける液化化合物を塗布する。
 Glue Strike Description,グルー攻撃能力：画面の全てのブルーンをのり付けして、より多くの全てのダメージを受けるようにする。
 Relentless Glue Description,のり付けされて割れたブルーンが、トラック上にグルーの塊を残していく。
 The Bloon Solver Description,ブルーンが問題だって？ここに解決法があるよ。
@@ -875,10 +875,10 @@ Heavy Shells Description,頑丈な炸裂弾が陶器、鉛、そして全ての�
 Signal Flare Description,閃光で割られたカモフラージュブルーンが、永久にカモフラージュを失う。
 The Big One Description,破滅的な爆発がブルーンを7層分割り、バーニースタッフのダメージをさらに増やす。
 Artillery Battery Description,爆撃アビリティ：やや広めのエリアに速射攻撃を行う。メイン攻撃はBADとボスブルーンにより大きなダメージを与え、銃身が3つにアップグレードされてとても攻撃がものすごく速くなる。
-Shattering Shells Description,散らばる殻は、最大のブルーン以外のすべての特別なブルーンの特性を取り除きます。
+Shattering Shells Description,散らばる殻は、最大のブルーン以外のすべての特別なブルーンの特性を消去、MOAB級ブルーンを燃やして追加のダメージを与える。
 The Biggest One Description,巨大な地域でブルーンを深い層まで爆破するほか、バーニースタッフの強力なダメージをもたらす。
 Pop and Awe Description,ポップと畏怖アビリティ：画面全体に爆発の雨を降らせし、すべてのブルーンにダメージを与え、数秒間動けなくする。すべての集中砲火はBADとボスブルーンにより大きなダメージを与える。メイン攻撃はスタンしたブルーンに追加のボーナスダメージを与える。
-Blooncineration Description,超ホットなウサギのぬいぐるみがショットごとにブルーンを5層分溶かし、MOAB級ブルーンも燃やして追加ダメージを与える。
+Blooncineration Description,超ホットなウサギのぬいぐるみがショットごとにブルーンを5層のブルーンを溶かし、MOAB級ブルーンも燃やして追加ダメージを与える。
 ,
 Focused Firing Description,ダートリング砲の精度が上がる。
 Advanced Targeting Description,ダートリング砲手が迷彩ブルーンを打てるようになる。
@@ -909,7 +909,8 @@ Shimmer Description,付近のカモフラージュブルーンの場所が時々
 Arcane Spike Description,より高速な発射魔法が、ほとんどの種類のブルーンに巨大ダメージを与える。
 Summon Phoenix Description,フェニックス召喚能力：パワフルなフェニックスが20秒間ブルーンに大惨事をもたらす。
 Necromancer: Unpopped Army Description,最近割った敵を生き返らせ、召使いとしてブルーンを破壊させる。
-Archmage Description,魔法の魔術学の真の導師。
+Archmage Description,"魔法の魔術学の真の導師。
+魔法使いの真のマスター。 MOAB級のブルーンに対して、より速く攻撃し、より多くのダメージを与える。"
 Wizard Lord Phoenix Description,魔王使いの王が炎の達人となり、短時間の間、パワフルな溶岩フェニックスに変化する。
 Soulbind Description,さらにもっとパワフルなブルーン召使いを生き返らせて敵を消し、ほかの全てのネクロマンサーを強化させる。
 ,
@@ -971,7 +972,7 @@ Druid of the Storm Description,突風がトラック上に吹き、ブルーン�
 Druid of the Jungle Description,地面からツルを呼び出して、ブルーンを一度に1つずつ絡ませて押しつぶし、致命的なとげの山を残す。
 Druid of Wrath Description,ドルイドがブルーンを攻撃している間は、ラウンド中に攻撃速度がアップする。
 Ball Lightning Description,追加の稲妻を発射する光の球を作り、ブルーンを凍結する。 
-Jungle's Bounty Description,ジャングルのめぐみ能力：使うたびに現金を生成するほか、ドルイドの近くのバナナ農園がそれぞれ追加キャッシュを作り出す。ツルで2個のブルーンを一度につかむこともできる。
+Jungle's Bounty Description,ジャングルのめぐみアビリティ：使うたびに現金を生成するほか、ドルイドの近くのバナナ農園がそれぞれ追加キャッシュを作り出す。ツルで2個のブルーンを一度につかむこともでき、とげの山には貫通力がある。
 Poplust Description,半径内の他のドルイドの貫通と攻撃速度をアップさせる。任意のドルイド一体につき、5回まで効果を重ねることができる。
 Superstorm Description,スーパーストームは全種類のブルーンに莫大なダメージを与え、出口から遠ざける。
 Spirit of the Forest Description,常にダメージを与えるほか、陶器にボーナスダメージを加えるトゲのつるを道沿いに生やす。森の精霊に最も近いつるは、より多くのダメージを与える。有効化された能力は、ライフとお金を生成する。
@@ -1660,11 +1661,11 @@ btd6_herobooster Description,現在のゲームで選択したヒーローが、
 btd6_powersattackpack,パワーの攻撃セット
 btd6_powersattackpack Description,{0}戦に焦点を当てたモンキーパワーの各種取り合わせ。
 btd6_instatowerspack,インスタモンキーセット
-btd6_instatowerspack Description,ゲーム内キャッシュなしで配置可能なインスタモンキータワーが5基！1段階が2基、2段階が2基、そして3段階が1基。
+btd6_instatowerspack Description,ゲーム内キャッシュなしで配置可能なインスタモンキータワーが5基！1段階が2基、2段階が2基、そして3段階が1基。各ティアのモンキーを引く確率は同じ。
 btd6_tier3instatowerspack,3段階のインスタモンキーセット
-btd6_tier3instatowerspack Description,ゲーム内キャッシュなしで配置可能な、3段階のインスタモンキータワーが10基！
+btd6_tier3instatowerspack Description,ゲーム内キャッシュなしで配置可能な、3段階のインスタモンキータワーが10基！各モンキーを引く確率は同じ。
 btd6_tier4instatowerspack,4段階のインスタモンキーセット
-btd6_tier4instatowerspack Description,ゲーム内キャッシュなしで配置可能な、4段階のインスタモンキータワーが10基！
+btd6_tier4instatowerspack Description,ゲーム内キャッシュなしで配置可能な、4段階のインスタモンキータワーが10基！各モンキーを引く確率は同じ。
 btd6_needmoremonkeymoneyprompt,Monkey Moneyが足りません！もっと購入しますか？
 ,
 ,
@@ -1678,11 +1679,11 @@ btd6_extramonkeymoney Description,特別オファー！{0} Monkey Moneyをお手
 btd6_powerspandamonium,パワーのパンダモニウム
 btd6_powerspandamonium Description,我々のパワーを合わせよう！最高のモンキーパワーの{0}が、一つのセットから入手できます。
 btd6_instatowersmegabooster,インスタモンキー・メガブースター
-btd6_instatowersmegabooster Description,このメガパックには、ゲーム内キャッシュなしで配置できるインスタモンキータワーの2段階が5基、3段階が12基、そして4段階が3基入っている。
+btd6_instatowersmegabooster Description,このメガパックには、ゲーム内キャッシュなしで配置できるインスタモンキータワーの2段階が5基、3段階が12基、そして4段階が3基入っている。各ティアのモンキーを引く確率は同じ。
 btd6_megamonkeycompendiumpack,メガモンキーのビッグセット
-btd6_megamonkeycompendiumpack Description,"素晴らしいグッズで一杯の巨大なセット！Monkey Moneyが25,000、攻撃パワーが100、3段階のインスタモンキータワーが30基、4段階のインスタモンキータワーが15基、5段階のインスタモンキータワーが5基、そして知識をアンロック（ランク30、5ボーナスMKポイント）！"
+btd6_megamonkeycompendiumpack Description,"素晴らしいグッズでいっぱいの巨大なセット！モンキーマネーが25,000、攻撃パワーが100、3段階のインスタモンキータワーが30基、4段階のインスタモンキータワーが15基、5段階のインスタモンキータワーが5基、そして知識をアンロック（ランク30、5ボーナスMKポイント）！各ティアのモンキーを引く確率は同じ。"
 btd6_tier5instatowerpack,5段階のインスタモンキーパック
-btd6_tier5instatowerpack Description,ゲーム内キャッシュ無しで配置できる、5段階モンキータワーが10基！
+btd6_tier5instatowerpack Description,ゲーム内キャッシュなしで配置できる、5段階モンキータワーが10基！各モンキーを引く確率は同じ。
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,山積みのMonkey Moneyセール
@@ -2042,6 +2043,8 @@ Swedish,スウェーデン語
 Turkish,トルコ語
 Korean,韓国語
 Japanese,日本語
+Polish,ポーランド語
+Monkelish,モンキー語
 ,
 Backup,バックアップ
 Profile,アカウント
@@ -2462,11 +2465,11 @@ EditorLockedShareButtonDescription,チャレンジを保存するには、テス
 ConflictScreenChoose,保存したゲームを選択
 ConflictThisDevice,このデバイス
 ConflictCloud,クラウド上
-ConflictTimeHours,{0}時間前に保存
 ConflictUseButton,使う
 ConflictNoData,データなし
-ConflictTimeMinutes,{0}分前に保存
 ConflictTimeSeconds,{0}秒前に保存
+ConflictTimeMinutes,{0}分前に保存
+ConflictTimeHours,{0}時間前に保存
 ConflictTimeDays,{0}日前に保存
 FasterMoabs,MOABスピード増強
 SlowerMoabs,MOABスピード減少
@@ -2752,8 +2755,8 @@ DarkKnightDarkshift,[I]で範囲内にダークシフト
 DarkChampionDarkshift,[I]で任意の有効な場所にダークシフト
 SmallTowersMode,スモールモンキータワー
 BigTowersMode,ビッグモンキータワー
-UpdatePopupTitle,アップデート33！
-UpdatePopupDescription,大型コンテンツアップデート！\n• 素晴らしいゴリアテのドゥームシップ、モンキーエースパラゴンが登場！\n• 中級マップの覆われた庭園でブルーンを割る力を養おう！コミュニティマップのコンテスト優勝者、SuperPsouさんによるデザインです。\n• 新しい不気味な上級マップ、ミッドナイトマンションの廊下で心霊体験？\n• 他にもトロフィーストアのアイテム、QOLの向上、バランス調整など盛りだくさん！
+UpdatePopupTitle,アップデート34！
+UpdatePopupDescription,大型ホリデーアップデート！\n• 装甲ベヒモス、ドレッドブルーンの恐るべき抵抗力と耐性力に立ち向かおう！\n• 新しい初級マップ、ワン ツー ツリーでタワーを強化する配置を発見しよう！\n• 新しいキャプテン チャーチル、スキン、チャーチルのそりでお祝い気分ブルーンを倒そう！\n• トロフィーストア アイテム、生活の質の向上、バランスの変更などなど!\n• Ninja Kiwi一同、楽しい休日と素晴らしい新年をお祈りしています！
 ResetDailyChest,日替わり宝箱をリセット
 JukeboxName,ジュークボックス
 EnableFunction,有効化
@@ -4146,7 +4149,7 @@ MonkeyBuccaneer Paragon,海の提督
 MonkeyBuccaneer Paragon Description,水に浮かぶ史上最高のもの。
 HeroesPsiPetBisonName,サイバイソンペット
 HeroesPsiPetBisonShortName,サイバイソンペット
-HeroesPsiPetBisonDescription,偶蹄目有蹄類の典型的な標本で、サイはたまたま超愛らしい。 元のサイのみ,）
+HeroesPsiPetBisonDescription,偶蹄目有蹄類の典型的な標本で、サイはたまたま超愛らしい。 元のサイのみ
 TowerPropMonkeyVillageAustralianFlagName,モンキービレッジのオーストラリア国旗
 TowerPropMonkeyVillageAustralianFlagShortName,ビレッジのオーストラリア国旗
 TowerPropMonkeyVillageAustralianFlagDescription,オージーオージーオージー、オイオイオイ！このモンキービレッジの旗は、すべてのアップグレードで表示されます
@@ -4564,8 +4567,7 @@ LoggedInAs,この名前でログイン：
 EpicAccountId,EpicアカウントID：
 NeedHelp,ヘルプが必要ですか？
 ContactSupport,サポートに連絡
-DeleteAccountText,"アカウントを削除すると、クラウド上に進捗とデータを全て失うことになります。
-削除するには、ボックス内にユーザーID（下記に表示）を入力してください。アカウントが消去されるまで、48～72時間かかることがあります。"
+DeleteAccountText,アカウントを削除すると、クラウド上に進捗とデータを全て失うことになります。
 EnterUserId,ここにユーザーIDを入力してください
 GetAllButton,すべてゲット
 GetAllConfirmation,Monkey Moneyを消費して、取得可能なすべてのヒーローとスキンを取得するか確認してください！
@@ -4726,17 +4728,17 @@ RelicMilitaryMonkeys,ミリタリーモンキー
 RelicMagicMonkeys,マジックモンキー
 RelicSupportSimians,サポートシミアン
 RelicMonkeyTycoon,モンキータイクーン
-RelicStartingStashDescription,300キャッシュ多く持った状態で毎回のゲームを開始する（レギュラータイルの「もっとキャッシュ」と重複可能）
+RelicStartingStashDescription,250キャッシュ多く持った状態で毎回ゲームを開始できる（レギュラータイルの「もっとキャッシュ」と重複可能）
 RelicExtraEmpoweredDescription,ヒーローが3レベル上がった状態でゲームを開始する（レギュラータイルの「権威のヒーロー」と重複可能）
 RelicBoxOfChocolatesDescription,ライフを100多く持った状態で毎回のゲームを開始する
-RelicBoxOfMonkeyDescription,無償のモンキーを1匹持った状態で毎回のゲームを開始し、これにより、変更前の初期配置の費用が多くても$500になる
+RelicBoxOfMonkeyDescription,無償のモンキーが1匹出現した状態で毎回のゲームを開始し、これにより、変更前の初期配置のコストが最大$400になる
 RelicMarchingBootsDescription,カウント制限のあるゲームで、ロードアウトの各タワーの最大カウントが+1、または1ゲームごとのカウント上限が+4される
 RelicHeroBoostDescription,ヒーローが毎回のゲームで15%早くXPを獲得する
 RelicBiggerBloonSabotageDescription,MOAB級ブルーンが全てが、ライフ-15%、スピード-5%の状態で出現するようになる。
 RelicRoundingUpDescription,ラウンドが終了するたびに、追加で20ドルを獲得する
 RelicManaBulwarkDescription,最大で50ライフ分のライフを吸収するシールドを張る（レギュラータイルの「マナシールド」と重複可能）
-RelicRegenerationDescription,そのラウンドでライフを失わなかった場合、毎回のゲーム開始時のライフを上限として、ラウンドごとに10ライフ回復する
-RelicRestorationDescription,そのラウンドでライフを失わなかった場合、開始時のライフ+200を上限として、ラウンドごとに20ライフ回復する
+RelicRegenerationDescription,そのラウンドでライフを失わなかった場合、毎回のゲーム開始時のライフを上限として、ラウンドごとに20ライフ回復する
+RelicRestorationDescription,そのラウンドでライフを失わなかった場合、開始時のライフ+200を上限として、ラウンドごとに10ライフ回復する
 RelicDurableShotsDescription,すべての投射物のライフスパンが+25%
 RelicAlchemistTouchDescription,すべての攻撃が鉛ブルーンを割れるようになる
 RelicDeepHeatDescription,すべての攻撃が白ブルーンを割れるようになる
@@ -4744,14 +4746,14 @@ RelicSharpsplosionDescription,すべての攻撃が黒ブルーンを割れる�
 RelicRoyalTreatmentDescription,すべての攻撃が紫ブルーンを割れるようになる
 RelicHardBakedDescription,すべての攻撃が陶器ブルーンに与えるダメージ+1
 RelicFortifriedDescription,すべての攻撃が強化ブルーンに与えるダメージ+1
-RelicMoabClashDescription,すべての攻撃がMOAB級ブルーンに与えるダメージ+3
+RelicMoabClashDescription,すべての攻撃がMOAB級ブルーンに与えるダメージ+2
 RelicCamoFloggedDescription,すべての攻撃がカモフラージュブルーンに与えるダメージ+3
 RelicBrokenHeartDescription,すべての攻撃が再生ブルーン に与えるダメージ+1
 RelicGoingTheDistanceDescription,全モンキーの射程+20%
-RelicHeartlessDescription,再生ブルーンの再生ペース-25%
+RelicHeartlessDescription,再生ブルーンの再生ペース-50%
 RelicFlintTipsDescription,シャープな投射物がダメージを与えたすべてのブルーンに火の点を追加する（2.5秒ごとに1ダメージ、計5秒間）
 RelicAbilitizedDescription,すべてのモンキーが発動させた全アビリティのクールダウン-10%
-RelicAirAndSeaDescription,エース、ヘリ、バッカニア、潜水艦の設置とアップグレードにかかるコスト-10%、リロードが+5%改善
+RelicAirAndSeaDescription,エース、ヘリ、バッカニア、潜水艦の設置とアップグレードにかかるコスト-5%、リロードが+5%改善
 RelicElDoradoDescription,勝利したゲームの報酬として得られるMonkey Moneyとチームトロフィーの全てが+25%（最小+1）
 RelicMonkeyShieldDescription,制圧してから1時間の間、タイルが相手チームに攻撃されなくなる。スコアが更新されると、タイマーがもとに戻る。
 RelicMonkeyShieldMark2Description,制圧してから2時間の間、タイルが相手チームに攻撃されなくなる。スコアが更新されると、タイマーがもとに戻る。
@@ -4766,11 +4768,11 @@ RelicRoadSpikesDescription,「路上スパイク」を1ゲームにつき10ス�
 RelicMoabMineDescription,パワーアップ「MOAB地雷」を1ゲームにつき1回使えるようになる
 RelicGlueTrapDescription,パワーアップ「接着剤トラップ」を1ゲームにつき2回使えるようになる
 RelicTechbotDescription,パワーアップ「テックボット」を1ゲームにつき1回使えるようになる
-RelicPrimaryPrimatesDescription,すべてのメインモンキーのコストを10%減らす
-RelicMilitaryMonkeysDescription,すべての軍人モンキーのコストを10%減らす
-RelicMagicMonkeysDescription,すべてのマジックモンキーのコストを10%減らす
+RelicPrimaryPrimatesDescription,すべてのメインモンキーのコストを8%減らす
+RelicMilitaryMonkeysDescription,すべての軍人モンキーのコストを8%減らす
+RelicMagicMonkeysDescription,すべてのマジックモンキーのコストを8%減らす
 RelicSupportSimiansDescription,すべてのサポートモンキーのコストを10%減らす
-RelicMonkeyTycoonDescription,ロードアウトのモンキータワー全種が1つ追加され、その基本価格が5%安くなる
+RelicMonkeyTycoonDescription,ロードアウトのモンキータワー全種が1つ追加され、その基本価格が4%安くなる
 InviteToTeam,チームに招待
 TeamLeave,チームを脱退
 Requests,リクエスト
@@ -5067,20 +5069,20 @@ TeamsBanner7Description,気まぐれなペットのパーティーです！こ�
 TeamsBanner8Name,領土争いのバナー
 TeamsBanner8ShortName,領土争いのバナー
 TeamsBanner8Description,このバナーを装備して、六角形のタイルを制圧するというあなたの約束を示してください。赤対青がこれほど映えたことはありません。
-TeamsEmblemIcon13Name,カンフーキウイのアイコン
-TeamsEmblemIcon13ShortName,カンフーキウイのアイコン
-TeamsEmblemIcon13Description,みんな大好き、飛べない鳥の飛び蹴りで対戦相手を驚かせましょう。
-TeamsEmblemIcon14Name,すべてを見る目のアイコン
-TeamsEmblemIcon14ShortName,すべてを見る目のアイコン
-TeamsEmblemIcon14Description,このチームアイコンを装備すれば、対戦相手はすべての動きを疑います。
-TeamsEmblemFrame10Name,忍者の巻物のフレーム
-TeamsEmblemFrame10ShortName,忍者の巻物のフレーム
+TeamsEmblemIcon13Name,カンフーキウィアイコン
+TeamsEmblemIcon13ShortName,カンフーキウィアイコン
+TeamsEmblemIcon13Description,お気に入りの飛べない鳥の飛び蹴りで、対戦相手を驚かせましょう。
+TeamsEmblemIcon14Name,すべてを見通す目のアイコン
+TeamsEmblemIcon14ShortName,すべてを見通す目のアイコン
+TeamsEmblemIcon14Description,このチームアイコンを装備すれば、対戦相手は自分のすべての動きを疑います。
+TeamsEmblemFrame10Name,忍者の巻物フレーム
+TeamsEmblemFrame10ShortName,忍者の巻物フレーム
 TeamsEmblemFrame10Description,忍者の古代芸術へのチームの献身を示すフレーム。
-TeamsEmblemFrame11Name,認知のフレーム
-TeamsEmblemFrame11ShortName,認知のフレーム
-TeamsEmblemFrame11Description,認知のフレームを使って、チームの優れたブルーン割りの知識を伝えましょう。
-BasePropPirateCrewMonkeyName,海賊船員
-BasePropPirateCrewMonkeyShortName,海賊船員
+TeamsEmblemFrame11Name,認知フレーム
+TeamsEmblemFrame11ShortName,認知フレーム
+TeamsEmblemFrame11Description,認知フレームを使って、チームの優れたブルーン割り知識を伝えましょう。
+BasePropPirateCrewMonkeyName,海賊船員モンキー
+BasePropPirateCrewMonkeyShortName,海賊船員モンキー
 BasePropPirateCrewMonkeyDescription,ヤー！この悪党をあなたの領土争いの基地に迎え入れれば、相手チームはしっぽと帆を丸めて向転換するでしょう。 [島スロット]
 BasePropTelescopeName,屈折望遠鏡
 BasePropTelescopeShortName,屈折望遠鏡
@@ -5118,6 +5120,261 @@ PlaySocialCaps,ソーシャルでプレイ
 SelectCapturedRelics,制圧したレリックを4つまで選択
 NextBonusIn,次のボーナスまで：
 MemberCount,メンバー数
-Min,最小
-PrimeGamingText,Prime Gaming ギフトを受け取りましょう!
-GetNow,Get Now
+Min,分
+Back,戻る
+Purchase Monkey Money,モンキーマネーを購入する
+Player Profile,プレイヤープロフィール
+Toggle Info,トグル情報
+Store Info,ストア情報
+Toggle mode,モードの切り替え
+Toggle jukebox enabled,ジュークボックスを有効に切り替え
+Play / Pause,再生/一時停止
+Move up,上に移動
+Move down,下に移動
+Buy Monkey Knowledge,モンキー・ナレッジを購入する
+Search,探す
+Google Play,Google Play
+Remove mode,削除モード
+Add mode,追加モード
+Toggle ranked mode,ランクモードを切り替える
+Info,情報
+Switch to MonkeyName,名のあるモンキーに切り替える
+Rename monkey,モンキーの名前を変更
+Switch to Medals,メダルに切り替え
+Switch to Settings,設定に切り替え
+Refresh,リフレッシュ
+First Page,最初のページ
+Prev Page,前のページ
+Next Page,次のページ
+Last Page,最後のページ
+Reset,リセット
++,+
+-,-
+Show/Hide panel,パネルの表示/非表示
+Toggle Loop Track,ループトラックの切り替え
+Previous Track,前のトラック
+Next Track,次のトラック
+Info mode,情報モード
+Hero mode,ヒーローモード
+Skin mode,スキンモード
+Prev mode,前のモード
+Next mode,次のモード
+Disconnect controller,コントローラを切断
+Clear all monkeys,すべて解除
+Clear all powers,すべてのパワーをクリア
+Mute,ミュート
+Place Second Tower Console,別のダーツ モンキーを配置し、[dpad_up] を押してプレイします
+Finished Round One Console,簡単でしたよね？ [dpad_up] を押して次のラウンドを開始します
+Speed x1,スピード×1
+Speed x3,スピード×3
+CouchBuildZoneMessage,有効なエリアにモンキー タワーを建てる
+Insta Monkeys,インスタモンキーズ
+Controller.Title,コントロール
+Controller.DPadUp,ラウンド送信/早送り
+Controller.DPadDown,レースラウンドを送る
+Controller.DPadLeft,割り当てられていない
+Controller.DPadRight,割り当てられていない
+Controller.LeftAnalog,フリーカーソル
+Controller.LeftAnalogButton,クイック配置
+Controller.RightAnalog,スクロール
+Controller.RightAnalogButton,パネルの表示/非表示
+Controller.Menu,割り当てられていない
+Controller.Start,一時停止
+Controller.LeftShoulder,前のタブ
+Controller.RightShoulder,次のタブ
+Controller.LeftTrigger,正確な配置、アビリティのホットキー
+Controller.RightTrigger,アビリティのホットキー
+Controller.NorthButton,割り当てられていない
+Controller.SouthButton,確認
+Controller.EastButton,キャンセル
+Controller.WestButton,割り当てられていない
+Toggle tab,タブを切り替え
+Refresh data,データを更新する
+Prev tab,前のタブ
+Next tab,次のタブ
+Controller.Ready,準備
+Friends,友達
+MinimumRounds,最小ラウンド
+MaximumRounds,最大ラウンド
+Max Monkeys,マックス・モンキーズ
+Toggle add / remove,追加/削除の切り替え
+Toggle select / edit,選択/編集の切り替え
+Camo,カモフラージュ　
+Couch Co-op,カウチ協力
+Gift,ギフト
+Emote,エモート
+Set Target,目標を設定
+Return to groups,グループに戻る
+TT_FollowCursor,カーソルをたどる
+Toggle Map Dividers,地図の仕切りを切り替え
+Send,送信
+Upgrade,アップグレード
+NextUpgrade,次のアップグレード
+CurrentUpgrade,現在のアップグレード
+HeroBoosterLocked,ロックされた
+PrimeGamingText,Prime Gamingドロップを請求する
+GetNow,今すぐ入手
+,
+DarkDungeons,ダークダンジョン
+OneTwoTree,ワンツーツリー
+BeastHandler,ビーストハンドラー
+BeastHandlers,ビーストハンドラー
+BeastHandler Description,陸、水、空で危険な獣を訓練することができます。 より多くのビーストを作る代わりに、複数のハンドラーが協力して既存のハンドラーのパワーを高めます。
+BeastHandler Short Description,サポートモンキー
+Piranha,ピラニア
+Microraptor,ミクロラプトル
+Gyrfalcon,シロハヤブサ
+Barracuda,バラクーダ
+Adasaurus,アダサウルス
+Horned Owl,ミミズク
+Great White,グレートホワイト
+Velociraptor,ヴェロキラプトル
+Golden Eagle,ゴールデンイーグル
+Orca,シャチ
+Tyrannosaurus Rex,ティラノサウルス　レックス
+Giant Condor,ジャイアントコンドル
+Megalodon,メガロドン
+Giganotosaurus,ギガノトサウルス
+Pouakai,ポウアカイ
+Piranha Description,小さくても元気な小さな魚に指令を与え、ブルーンに水から飛び降りさせます。
+Microraptor Description,鋭い爪の小さな恐竜に指令を与えてください。このアップグレードでビーストハンドラーを増やして成長させましょう。
+Gyrfalcon Description,爪でブルーンをつかんで動かすことができる高貴な猛禽類に指令を与えてください。
+Barracuda Description,バラクーダのかみそりのように鋭い歯は、ブルーンを何層にも割ることができます。ピラニアのアップグレードを備えたビーストハンドラーが少なくとも 1 人必要です。ビーストハンドラーの補助は最大4 人まで
+Adasaurus Description,アダサウルスの鋭い歯は近距離で高いダメージを与えます。ミクロラプトルをアップグレードしたビーストハンドラーが少なくとも 1 人必要です。ビーストハンドラーの補助は最大4人まで
+Horned Owl Description,ミミズクは、鉛ブルーンと陶器ブルーンを掴んで割るほど強く、迷彩ブルーンを検出できる鋭い目を持っています。
+Great White Description,ホオジロザメは、必要に応じてブルーンを押しつぶし、必要に応じてブルーンを水に引きずり戻します。バラクーダをアップグレードしたビーストハンドラーが 2 つ以上必要です。ビーストハンドラーの補助は最大4 人まで
+Velociraptor Description,ヴェロキラプトルは猛烈なスピードでブルーンを切り刻み、むさぼり食う。アダサウルスをアップグレードしたビーストハンドラーが少なくとも2人必要です。ビーストハンドラーの補助は最大4人まで
+Golden Eagle Description,一度に大量のブルーンを掴むエキスパート。ゴールデン イーグルは非常に大きいため、ワシミミズクのアップグレードを備えたビーストハンドラーが少なくとも2人必要です。ビーストハンドラーの補助は最大4 人まで
+Orca Description,強力なオルカの巨大な口は、非常に大きなブルーンを除いてすべてをつかみ、深みに引きずり込むことができます。グレート ホワイト アップグレードを備えたビーストハンドラーが少なくとも3人必要です。ビーストハンドラーの補助は最大4 人まで
+Tyrannosaurus Rex Description,ティラノサウルス・レックスの巨大な顎と鋭い歯は、噛むたびに大きなダメージを与えます。ヴェロキラプトルをアップグレードしたビーストハンドラーが少なくとも3人必要です。ビーストハンドラーの補助は最大4 人まで。 Tレックス ストンプ能力: 広範囲の ZOMGブルーンまでマヒさせます。
+Giant Condor Description,恐ろしいジャイアントコンドルの巨大な爪は、MOAB級のブルーンを拾うことができます。ゴールデンイーグルをアップグレードしたビーストハンドラーが少なくとも3人必要です。ビーストハンドラーの補助は最大4人まで
+Megalodon Description,ブルーンが好きな真に巨大なサメで、オルカのアップグレードが必要なビーストハンドラーが少なくとも４人必要です。ビーストハンドラーの補助は最大８人まで
+Giganotosaurus Description,すべての中で最大かつ最も獰猛な恐竜であるギガノトサウルスは、ほぼすべてのブルーンを簡単に細断することができます。ティラノサウルスレックスをアップグレードしたビーストハンドラーが最低４人必要です。ビーストハンドラーの補助は最大８人まで。 ZOMGブルーン をマヒさせる能力が、より長くどこにでもあります。
+Pouakai Description,伝説のポウカイは、非常に大きな鳥で、ほぼすべてのサイズのブルーンを拾い上げ、運び去り、破壊することができます。ジャイアントコンドルのアップグレードを備えたビーストハンドラーが少なくとも４人必要です。ビーストハンドラーの補助は最大８人まで
+T Rex Stomp Ability,Tレックスの足音
+T Rex Stomp Ability Description,広範囲のZOMGブルーンまでマヒさせます。
+Giganotosaurus Stomp Ability,ギガノトサウルスの足音
+Giganotosaurus Stomp Ability Description,どこでもZOMGブルーンをより長くマヒさせます。
+Move,動く
+NeedsBeastHandlers,ビーストが必要
+NeedsWater,水が必要
+NeedsTrack,トラックが必要
+Dreadbloon,ドレッドブルーン
+DreadbloonTagLine,暗い地球の奥深くから...
+DreadbloonTagLine2,武装ベヒーモス！
+DreadbloonInfoPanelDescription,ドレッドブルーンには鉛の特性があり、受けるすべてのダメージを 1 減らします。 各頭蓋骨に到達すると、ドレッドブルーンは陶器武装炸裂弾を成長させ、ドレッドロックブルーンがトラックの開始時にスポーンし始めます。ドレッドブルーンが出現すると、プライマリタワーの影響を受けなくなります。 各頭蓋骨で、この耐性は異なるタワー タイプに変化します: 軍事、魔法、支援。ドレッドロックブルーンと陶器武装炸裂弾にもこれらの耐性があります。ドレッドロックブルーンには強力な挑発があります。タワーのターゲットに注意してください！
+DreadbloonPrimaryImmunity,耐性: プライマリ
+DreadbloonMilitaryImmunity,耐性: 軍隊
+DreadbloonMagicImmunity,耐性: 魔法
+DreadbloonSupportImmunity,耐性: サポート
+Resist,抵抗
+Immune,免疫
+SleighCaptainChurchillSkinName,チャーチルのそりスキン
+SleighCaptainChurchillSkinDescription,クリスマスの歓声でブルーンを倒し、一度に 1 つのギフト包装された爆弾を。
+SleighCaptainChurchillSkinNameFull,チャーチルのそり
+GameUIProfileBanner23Name,季節の挨拶プロフィールバナー
+GameUIProfileBanner23ShortName,季節の挨拶バナー
+GameUIProfileBanner23Description,この冬または一年中、この凍るような楽しいバナーで休日の遊びを祝いましょう。期間限定コレクターズアイテム！
+GameUIProfileBanner24Name,ブーメラン剣　プロフィールバナー
+GameUIProfileBanner24ShortName,ブーメラン剣の旗
+GameUIProfileBanner24Description,ReconScoutTeemoのバナー勝者
+GameUIProfileBanner25Name,グリフ プロフィールバナー
+GameUIProfileBanner25ShortName,グリフ バナー
+GameUIProfileBanner25Description,PvtMagnuSのバナー勝者
+GameUIProfileAvatar65Name,カスタムアバター - クリスマスリース
+GameUIProfileAvatar65ShortName,クリスマスリースアバター
+GameUIProfileAvatar65Description,このクリスマスリースのアバターで、幸運と歓声をみんなと分かち合いましょう！期間限定コレクターズアイテム！　
+GameUIProfileAvatar66Name,カスタムアバター - 怒りのアバター
+GameUIProfileAvatar66ShortName,怒りのアバター
+GameUIProfileAvatar66Description,ついに！私をローテーションに入れるのにどれくらいかかったのか?!バナナの繁栄に、アバターは私の名前です！
+GameUIProfileAvatar67Name,カスタムアバター - ハッピーホリデー
+GameUIProfileAvatar67ShortName,ハッピー ホリデー アバター
+GameUIProfileAvatar67Description,「クリスマスに別のドローンを手に入れたエティエンヌの興奮は、誰の心も喜びで満たすでしょう。期間限定コレクターズアイテム！」
+GameUIProfileAvatar68Name,カスタムアバター - 絶対零度
+GameUIProfileAvatar68ShortName,絶対零度アバター
+GameUIProfileAvatar68Description,かっこよく見えることが重要なら、このアイスモンキーのアバターで間違いありません。
+CoopEmoteAnimationSleighbellsName,雪とそりの鐘のアニメーション
+CoopEmoteAnimationSleighbellsShortName,そりの鈴
+CoopEmoteAnimationSleighbellsDescription,この冬のワンダーランドの全画面エモートを手に入れて、プレイヤー 1、2、または 4を応援しよう！期間限定コレクターズアイテム！
+TowerProjectileBananaFarmPresentsName,バナナ農園のプレゼント バナナ
+TowerProjectileBananaFarmPresentsShortName,バナナ農園のプレゼント
+TowerProjectileBananaFarmPresentsDescription,プレゼントを育てるバナナファームに勝るものはありません！プレゼントの中身は？もちろんバナナ！期間限定コレクターズアイテム！
+TowerProjectileDartMonkeySnowballsName,ダーツモンキー雪玉投射物
+TowerProjectileDartMonkeySnowballsShortName,ダーツモンキー雪玉
+TowerProjectileDartMonkeySnowballsDescription,どのようにしてジャングルで育ったのかわかりませんが、この投射物交換を試して、ダーツモンキーが常に雪合戦で勝つ理由とは？期間限定コレクターズアイテム！
+TowerProjectileTackShooterIciclesName,びょうシューターのつららと雪の結晶の投射物
+TowerProjectileTackShooterIciclesShortName,びょうシューターのつらら
+TowerProjectileTackShooterIciclesDescription,びょうシューターとアイスモンキーの組み合わせが好きなら、びょうがつららで刃が雪の結晶のとき、さらに輝きます。期間限定コレクターズアイテム！
+TowerProjectileNinjaMonkeySnowflakesName,忍者モンキーの雪の結晶投射物
+TowerProjectileNinjaMonkeySnowflakesShortName,忍者モンキーの雪の結晶
+TowerProjectileNinjaMonkeySnowflakesDescription,繊細な雪の結晶\n忍者の手から投げられる\n対称的に切り落とす\n期間限定のコレクターズ アイテム！
+BuildingPropChristmasTreeName,クリスマスツリーの建物
+BuildingPropChristmasTreeShortName,クリスマスツリーの建物
+BuildingPropChristmasTreeDescription,拠点をツリーに変える!? モンキーはどこに住むの？ 待って…何でもない。\\nこのクリスマスツリーの拠点でチームをお祝いムードにしましょう。 【本館スロット】
+BasePropCosyBeanbagMonkeyName,居心地の良いビーンバックモンキー
+BasePropCosyBeanbagMonkeyShortName,居心地の良いビーンバックモンキー
+BasePropCosyBeanbagMonkeyDescription,ビーンバック。 リラクゼーションの究極のシンボル。 リラックスモンキー付き！ 【島のスロット】
+TeamsBanner9Name,繊細な雪の結晶バナー
+TeamsBanner9ShortName,繊細な雪の結晶バナー
+TeamsBanner9Description,チームと同じように、雪の結晶のシンプルな複雑さが完璧です。
+TeamsBanner10Name,ローストバナナバナー
+TeamsBanner10ShortName,ローストバナナバナー
+TeamsBanner10Description,キャンプファイヤーで焼いたバナナでチームに意欲を持たせましょう！
+TeamsEmblemFrame12Name,ブルーンフレーム
+TeamsEmblemFrame12ShortName,ブルーンフレーム
+TeamsEmblemFrame12Description,この無慈悲なブルーンフレームでチームをみんなの敵にしましょう。
+TeamsEmblemFrame13Name,軍人フレーム
+TeamsEmblemFrame13ShortName,軍人フレーム
+TeamsEmblemFrame13Description,熱狂的なチームには、構造と規律がなければ意味がありません。
+TeamsEmblemIcon15Name,王冠のアイコン
+TeamsEmblemIcon15ShortName,王冠のアイコン
+TeamsEmblemIcon15Description,ダーツ王座へのチームの主張をサポート。
+TeamsEmblemIcon16Name,エイリアンのアイコン
+TeamsEmblemIcon16ShortName,エイリアンのアイコン
+TeamsEmblemIcon16Description,あなたのチームがこの世界外にいるときのアイコン！
+Achievement 146 Name,サイドクエスト
+Achievement 146 Description,クエストを完了する
+Achievement 147 Name,活性化
+Achievement 147 Description,モンキーに一度に 75 個のバフを有効にする
+Achievement 148 Name,ワールドリーグのトレーニング
+Achievement 148 Description,"150,000 ビーストハンドラーXPを獲得する"
+CompleteQuestMessage,クエストを完了
+QuestUnlocksAtLevelXMessage,クエストのロック解除<br>レベル{0}
+QuestComplete,クエスト完了！
+BeastHandlerQuestName,エピックビーストクエスト
+BeastHandlerQuestReward,ビーストハンドラーとその他色々をロック解除！
+BeastHandlerQuest1Name,地球の道
+BeastHandlerQuest1Description,採石場で恐ろしい恐竜を訓練する
+BeastHandlerQuest1Victory,おめでとう！地球の道を完了しました！
+BeastHandlerQuest2Name,水の道
+BeastHandlerQuest2Description,スパイス諸島で獰猛な魚を繁殖させる
+BeastHandlerQuest2Victory,おめでとう！水の道をクリアしました！
+BeastHandlerQuest3Name,空気の道
+BeastHandlerQuest3Description,割れ目で強力な鳥を孵化させる
+BeastHandlerQuest3Victory,おめでとう！ 空気の道をクリアしました！
+DialogBeastHandlerQuest1UI1,ビーストハンドラーは何年も前に壮大なビーストを見つけるためのクエストで村を去りました。
+DialogBeastHandlerQuest1UI2,彼らがクエストを完了するのを手伝うことができれば、戻ってきてブルーンとの戦いに参加するでしょう!
+DialogBeastHandlerQuest1InGame1,ビーストハンドラーは謎の卵の話を聞き、最初の壮大なビーストを手なずけました!
+DialogBeastHandlerQuest1InGame2,これらの貪欲な猛禽類について、知っておくべきことをすべて学ぶお手伝いをしてください！
+DialogBeastHandlerQuest2UI1,すばらしい！ビーストハンドラーは、凶悪な獣をペットのように扱います。そして、協力して組み合わせて強化する方法を考え出しました。
+DialogBeastHandlerQuest2UI2,生態はわかりませんが、組み合わせは間違いなく強力です。彼らはビーストハンドラーを別の卵に導きました。
+DialogBeastHandlerQuest2UI3,発見したものを見るのが待ちきれません！
+DialogBeastHandlerQuest3UI1,このような恐ろしい水の獣を訓練して、水上でブルーンと戦うのを助け、3個目の卵のような水の秘宝を見つけるのはとても困難です。
+DialogBeastHandlerQuest3UI2,ビーストハンドラーが3番目のビーストを飼いならすのを手伝うと、ビーストハンドラーがチームに参加できるようになります。
+,
+RemoveProviderFromAccount,アカウントからこのプロバイダを削除してもよろしいですか? <br><br><b>プロバイダーがアカウントから削除されるまで、最大3時間かかる場合があります</b>
+ProviderRemovedText,プロバイダーが削除されました。<br><br>このページはまもなく閉じます
+AdditionalAccountLinks,追加のアカウントリンク
+LoginWithAmazon,Amazonでログイン
+LinkingCodeButton,リンクコードを取得する
+LinkingCodeMessage,他のデバイスでゲームを開き、プロンプトが表示されたら次のコードを入力してください。 このコードは 10 分間有効です。
+Rate Expires In,レートの有効期限は
+Rate,評価
+CoopGameSyncFailed,ゲーム設定の同期に失敗しました。 新しいゲームをお試しください。
+iCloudTitle,iCloud
+iCloudDisabled,iCloudが無効
+iCloudEnabled,iCloudが有効
+DialogBeastHandlerQuest1InGameTowerUpgrade1,うわー、その野獣はとても強いので、制御下に置くには 2 人のビースト ハンドラーが必要です!
+Buffed,強化されました
+Assisting,アシスト
+Select Point On Track,パス上のポイントを選択

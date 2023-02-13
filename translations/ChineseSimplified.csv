@@ -101,7 +101,7 @@ Quincy Level 15 Description,快速射击变为4倍速攻击，冷却时间缩短
 Quincy Level 16 Description,攻击速度进一步增加。
 Quincy Level 17 Description,箭矢存在时间延长25％。每2次射击可射出爆炸箭矢。
 Quincy Level 18 Description,昆西的攻击速度加快，并且箭矢风暴冷却时间缩短，箭矢数量增加50％。
-Quincy Level 19 Description,每支箭矢都会获得更高的击破力。
+Quincy Level 19 Description,同时射出3支箭，每支箭矢都会获得更高的击破力。
 Quincy Level 20 Description,昆西的攻击速度进一步加快。箭矢风暴每支箭造成的伤害增加，并且射出更多箭矢。
 ,
 StrikerJones Level 1 Description,先锋琼斯发射威力巨大的巴祖卡火箭筒炸毁气球。
@@ -697,10 +697,10 @@ Enhanced Eyesight Description,射程更远，可探测到迷彩气球。
 Spike-o-pult Description,使飞镖猴变成一个刺钉球投石机，投飞镖换作投钉子球。每一个球可以击破大量气球，并且碰到障碍物会弹回来。
 Triple Shot Description,一次投掷3个飞镖，而非之前的1个。
 Crossbow Description,使用远程十字弩，每次射击可击破3层气球。
-Juggernaut Description,猛掷出巨型刺钉球，可击破铅气球，擅长击碎陶瓷气球。
+Juggernaut Description,猛掷出巨型刺钉球，可击破铅气球，擅长击碎陶瓷气球和强化气球。
 Super Monkey Fan Club Description,超猴侠粉丝会技能：最多可将附近包括自身在内的10个飞镖猴转换成超级猴，持续15秒。普通攻击速度也会增加。
 Sharp Shooter Description,犀利射手几秒内就能暴击射，造成危害更大。
-Ultra-Juggernaut Description,巨大的刺钉球分裂成6个刺钉球球，造成更大的破坏力。
+Ultra-Juggernaut Description,巨大的刺钉球经过两次分裂，变成6个刺钉球，可对陶瓷气球和强化气球造成更大伤害。
 Plasma Monkey Fan Club Description,入会这家俱乐部可让飞镖猴获得更强大的力量！
 Crossbow Master Description,十字弩神射手的射速非常快，很容易击破大部分的气球。
 ,
@@ -756,11 +756,11 @@ Permafrost Description,即使解冻后，气球也只能缓慢移动。
 Enhanced Freeze Description,攻击速度更快，冻结时间更长。
 Larger Radius Description,更大的冻结面积。
 Metal Freeze Description,可以冻结并击破迷彩气球和铅气球。
-Deep Freeze Description,冻结额外一层气球且冻结时间更长。
+Deep Freeze Description,穿透力增加，冻结额外一层气球且冻结时间更长。
 Re-Freeze Description,可再次冻结已经冻结的气球。
 Ice Shards Description,当被冻结的气球爆裂时，会飞出锋利的碎片。
 Arctic Wind Description,大大提高穿透力，并获得超级寒冷的光环，可减速靠近它的气球并冻结附近的水流。
-Cryo Cannon Description,在更远的范围外向气球发射冰冻炸弹。
+Cryo Cannon Description,向更远处的气球快速发射较小的冰冻炸弹。
 Embrittlement Description,可击中MOAB级气球。所有被击中的气球都会变脆弱，被冰冻且承受额外伤害，并且失去伪装。
 Snowstorm Description,暴风雪技能：冻结屏幕上所有的普通气球，短暂冻结白气球、斑马气球和迷彩气球，并减速MOAB级气球。
 Icicles Description,冻结的气球生长尖锐的冰柱，可以击破接触它们的气球。
@@ -774,10 +774,10 @@ Stickier Glue Description,使胶水效果持续更长时间。
 Corrosive Glue Description,每隔几秒钟，被粘住的气球被击破一层。
 Glue Splatter Description,每次发射最多可喷溅6个气球。
 Stronger Glue Description,使气球移速更慢。
-Bloon Dissolver Description,强力溶剂每秒钟溶化两层气球。
+Bloon Dissolver Description,每次发射可额外粘住一个气球，溶剂每秒溶化两层气球。
 Glue Hose Description,以3倍速度发射胶水！
 MOAB Glue Description,改进后的胶水配方可使其粘住MOAB级气球。
-Bloon Liquefier Description,每次发射可以多粘住一个气球，并释放液态化合物，每秒造成10次击破。
+Bloon Liquefier Description,释放液态化合物，每秒造成10次击破。
 Glue Strike Description,胶水打击技能：粘住屏幕上的所有气球，效果持续期间放大其受到的所有伤害
 Relentless Glue Description,被粘住并击破的气球会在路径上留下一团胶水。
 The Bloon Solver Description,搞不定气球？这是解决方案。
@@ -875,10 +875,10 @@ Heavy Shells Description,重炮弹对陶瓷气球、铅气球、所有强化气�
 Signal Flare Description,被照明弹击中的迷彩气球永久失去伪装。
 The Big One Description,强烈爆炸可击破7层气球，同时增加燃烧物伤害。
 Artillery Battery Description,炮轰技能：对较大范围内的目标发动快速炮击。主攻击可对BAD和Boss级气球造成更高伤害。炮台可升级至3个炮筒，从而大幅加快攻击速度。
-Shattering Shells Description,被碎甲弹击中的气球将失去所有特殊属性，最大的气球除外。
+Shattering Shells Description,除了最大的气球以外，被碎甲弹击中的气球将失去所有特殊属性，并可点燃MOAB级气球，对其造成额外伤害。
 The Biggest One Description,炮弹击破大片区域内的多层气球，同时增加燃烧物伤害。
 Pop and Awe Description,击破震慑技能：对整个屏幕的气球狂轰滥炸，击破所有气球造成伤害，并使它们失去移动能力，效果持续数秒。所有炮台可对BAD级和Boss级气球造成更高伤害。主攻击可对被击晕的气球造成额外伤害。
-Blooncineration Description,超热燃烧每次攻击可烧穿5层气球，燃烧MOAB级气球且造成额外伤害。
+Blooncineration Description,超热燃烧每次攻击可烧穿5层气球，并点燃MOAB级气球造成大量伤害。
 ,
 Focused Firing Description,提高飞镖枪的精度。
 Advanced Targeting Description,允许飞镖枪手击中迷彩气球。
@@ -909,7 +909,7 @@ Shimmer Description,获得黑暗魔法攻击，周期性永久显示附近所有
 Arcane Spike Description,魔法攻击速度加快，对大多数类型气球造成海量伤害。
 Summon Phoenix Description,召唤凤凰技能：强大的凤凰会对气球造成20秒的浩劫。
 Necromancer: Unpopped Army Description,复活最近被击破的气球，利用其攻击气球。
-Archmage Description,真正的魔法大师。
+Archmage Description,真正的魔法大师。攻击速度更快，并且可对MOAB级气球造成更高伤害。
 Wizard Lord Phoenix Description,高阶法师变身火焰大师，短时间内变成超强大的熔岩凤凰。
 Soulbind Description,复活更强大的气球，利用它们消灭敌人，并增强所有其他死灵法师。
 ,
@@ -971,7 +971,7 @@ Druid of the Storm Description,几阵风将气球从出口处吹开。
 Druid of the Jungle Description,召唤藤蔓缠绕并一次碾碎一个气球，留下一堆致命的荆棘。
 Druid of Wrath Description,只要德鲁伊在攻击气球，攻击速度每回合都会变快。
 Ball Lightning Description,制造强大的闪电球，射出额外的闪电球并可以冻结气球。
-Jungle's Bounty Description,丛林赏金技能：每次使用可生成现金，并且德鲁伊附近的每座香蕉农场都会生成额外现金。葡萄藤可同时缠住两个气球。
+Jungle's Bounty Description,丛林赏金技能：每次使用可生成现金，并且德鲁伊附近的每座香蕉农场都会生成额外现金。召唤两根葡萄藤缠住气球，并且荆棘桩可获得额外穿透力。
 Poplust Description,强化作用范围内德鲁伊的攻击速度和穿透。每个德鲁伊身上的增益效果可最多叠加5次。
 Superstorm Description,超级风暴对所有类型的气球造成巨大伤害，并将它们从出口处吹开。
 Spirit of the Forest Description,在路径上种植刺藤，造成持续伤害，对陶瓷气球造成额外伤害，技能激活后可恢复生命和生成现金。
@@ -1660,11 +1660,11 @@ btd6_herobooster Description,在当前游戏中选择的英雄达到{0}级，直
 btd6_powersattackpack,力量攻击包
 btd6_powersattackpack Description,一套应对{0}战斗的猴子力量。
 btd6_instatowerspack,Insta猴子包
-btd6_instatowerspack Description,5个猴子防御塔，无需游戏内使用现金即可部署！包含2个1阶、2个2阶和1个3阶防御塔。
+btd6_instatowerspack Description,5个猴子防御塔，无需游戏内使用现金即可部署！包含2个1阶、2个2阶和1个3阶防御塔。抽到每一阶猴子的几率相同。
 btd6_tier3instatowerspack,3阶Insta猴子包
-btd6_tier3instatowerspack Description,10个3阶Insta猴子塔，无需游戏内使用现金即可部署！
+btd6_tier3instatowerspack Description,10个3阶Insta猴子塔，无需游戏内使用现金即可部署！抽到每一个猴子的几率相同。
 btd6_tier4instatowerspack,4阶Insta猴子包
-btd6_tier4instatowerspack Description,10个4阶Insta猴子塔，无需游戏内使用现金即可部署！
+btd6_tier4instatowerspack Description,10个4阶Insta猴子塔，无需游戏内使用现金即可部署！吸引每一个猴子的几率相同。
 btd6_needmoremonkeymoneyprompt,猴币不足！想要购买更多？
 ,
 ,
@@ -1678,11 +1678,11 @@ btd6_extramonkeymoney Description,特惠！极低价格购买{0}猴币。
 btd6_powerspandamonium,力量帕拉美奇
 btd6_powerspandamonium Description,结合我们的力量！一包涵盖最好的{0}种猴子力量。
 btd6_instatowersmegabooster,Insta猴子巨型助推器
-btd6_instatowersmegabooster Description,这个超级套装包含5个2阶、12个3阶和3个4阶insta猴子塔，无需游戏内使用现金即可部署！
+btd6_instatowersmegabooster Description,这个超级套装包含5个2阶、12个3阶和3个4阶insta猴子塔，无需游戏内使用现金即可部署！抽到每一阶猴子的几率相同。
 btd6_megamonkeycompendiumpack,巨型猴子合集包
-btd6_megamonkeycompendiumpack Description,"一大包的好东西！25,000个猴币，100攻击力量，30个3阶Insta猴子塔，15个4阶Insta猴子塔，5个5阶Insta猴子塔，以及解锁知识（等级30、5个奖励猴子知识点）！"
+btd6_megamonkeycompendiumpack Description,"一大包的好东西！25,000个猴币，100攻击力量，30个3阶Insta猴子塔，15个4阶Insta猴子塔，5个5阶Insta猴子塔，以及解锁知识（等级30、5个奖励猴子知识点）！抽到每一阶猴子的几率相同。"
 btd6_tier5instatowerpack,5阶Insta猴子包
-btd6_tier5instatowerpack Description,10个5阶Insta猴子塔，无需游戏内使用现金即可部署！
+btd6_tier5instatowerpack Description,10个5阶Insta猴子塔，无需游戏内使用现金即可部署！抽到每一阶猴子的几率相同。
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,一堆猴币特卖
@@ -2042,6 +2042,8 @@ Swedish,瑞典语
 Turkish,土耳其语
 Korean,朝鲜语
 Japanese,日语
+Polish,波兰语
+Monkelish,猴语
 ,
 Backup,备份
 Profile,账号
@@ -2461,11 +2463,11 @@ EditorLockedShareButtonDescription,要分享你的挑战，你必须先在测试
 ConflictScreenChoose,选择一个保存的游戏
 ConflictThisDevice,此设备
 ConflictCloud,云端
-ConflictTimeHours,{0}小时前保存
 ConflictUseButton,使用
 ConflictNoData,无数据
-ConflictTimeMinutes,{0}分钟前保存
 ConflictTimeSeconds,{0}秒前保存
+ConflictTimeMinutes,{0}分钟前保存
+ConflictTimeHours,{0}小时前保存
 ConflictTimeDays,{0}天前保存
 FasterMoabs,MOAB级气球速度加快
 SlowerMoabs,MOAB级气球速度减慢
@@ -2751,8 +2753,8 @@ DarkKnightDarkshift,按[I]在范围内进行黑暗漂移
 DarkChampionDarkshift,按[I]黑暗漂移至任何有效位置
 SmallTowersMode,小猴子塔
 BigTowersMode,大猴子塔
-UpdatePopupTitle,更新 33！
-UpdatePopupDescription,海量内容更新！\n• 推出令人敬畏的巨人末日飞船，皇家飞行员巅峰！\n• 玩家可以在中级地图 - 隐蔽的花园 - 修炼击破力！由社区地图比赛获胜者SuperPsou设计。\n• 新的高级地图 - 午夜豪宅 - 阴森恐怖，走廊上鬼影重重！\n• 奖杯商店物品，生活质量改进、平衡性修改等！
+UpdatePopupTitle,更新 34！
+UpdatePopupDescription,海量节日更新！\n• 对抗拥有出色的抗性和伤害免疫特性的装甲巨兽，恐怖气球！\n• 在新的新手地图 - 一二三 - 探索放置防御塔获得的增益。\n• 使用新的上尉丘吉尔皮肤 - 雪橇丘吉尔，在节日氛围的烘托下消灭气球！\n• 奖杯商店物品、生活质量改进、平衡性修改等！\n• Ninja Kiwi 全体人员祝各位玩家节日愉快，新年快乐！
 ResetDailyChest,重置每日奖励
 JukeboxName,点唱机
 EnableFunction,启用
@@ -4724,17 +4726,17 @@ RelicMilitaryMonkeys,军事猴子
 RelicMagicMonkeys,魔法猴子
 RelicSupportSimians,辅助猴子
 RelicMonkeyTycoon,猴子大亨
-RelicStartingStashDescription,每局游戏开始时额外获得300现金（与普通地块上的更多现金叠加）
+RelicStartingStashDescription,每局游戏开始时额外获得250现金（与普通地块上的更多现金叠加）
 RelicExtraEmpoweredDescription,游戏开始时英雄的等级额外增加3级（与普通地块上的授权英雄叠加）
 RelicBoxOfChocolatesDescription,每场游戏开始时获得100点额外生命
-RelicBoxOfMonkeyDescription,每局游戏开始时免费获得一只花费不超过$500的猴子，初始放置未经修改
+RelicBoxOfMonkeyDescription,每局游戏开始时免费获得一只花费不超过$400的猴子，初始放置未经修改
 RelicMarchingBootsDescription,在数量受限的游戏中，使玩家兵种中的每种防御塔最大数量+1，或每局游戏最大总数+4
 RelicHeroBoostDescription,英雄在每局游戏中获得XP的速度提高15%
 RelicBiggerBloonSabotageDescription,所有生成的MOAB气球，生命值减少15%，移动速度降为95%
 RelicRoundingUpDescription,每回合结束时赚取+$20
 RelicManaBulwarkDescription,制造一个可以吸收多达50点生命的护盾（与普通地块上的法力护盾叠加）
-RelicRegenerationDescription,每回合恢复10点生命，如果该回合没有失去生命，则最高恢复到每场比赛的初始生命值
-RelicRestorationDescription,每回合恢复20点生命，如果该回合没有失去损失，则恢复到的初始生命值为+200
+RelicRegenerationDescription,每回合恢复20点生命，如果该回合没有失去生命，则最高恢复到每场比赛的初始生命值
+RelicRestorationDescription,每回合恢复10点生命，如果该回合没有失去损失，则恢复到的初始生命值为+200
 RelicDurableShotsDescription,所有射弹的存在时间+25%
 RelicAlchemistTouchDescription,所有的攻击都可以击破铅制气球
 RelicDeepHeatDescription,所有的攻击都可以击破白色气球
@@ -4742,14 +4744,14 @@ RelicSharpsplosionDescription,所有的攻击都可以击破黑色气球
 RelicRoyalTreatmentDescription,所有的攻击都可以击破紫色气球
 RelicHardBakedDescription,所有攻击对陶瓷气球造成的伤害+1
 RelicFortifriedDescription,所有攻击对强化气球造成的伤害+1
-RelicMoabClashDescription,所有攻击对MOAB级气球造成的伤害+3
+RelicMoabClashDescription,所有攻击对MOAB级气球造成的伤害+2
 RelicCamoFloggedDescription,所有攻击对迷彩气球造成的伤害+3
 RelicBrokenHeartDescription,所有攻击对重生气球造成的伤害+1
 RelicGoingTheDistanceDescription,所有猴子攻击范围+20%
-RelicHeartlessDescription,重生气球的重生率降低25%。
+RelicHeartlessDescription,重生气球的重生率降低50%。
 RelicFlintTipsDescription,刃器对命中的所有气球附加周期性火焰伤害（每2.5秒造成1点伤害，持续5秒）
 RelicAbilitizedDescription,所有猴子的所有激活能力的冷却时间缩短10%。
-RelicAirAndSeaDescription,皇家飞行员、直升机飞行员、海盗猴和潜艇的放置和升级花费降低10%，装填速度提高5%。
+RelicAirAndSeaDescription,皇家飞行员、直升机飞行员、海盗猴和潜艇的放置和升级花费降低5%，装填速度提高5%。
 RelicElDoradoDescription,所有猴币和战队奖杯奖励增加25%（最低+1）。
 RelicMonkeyShieldDescription,夺取后的1小时内，地块无法被对方战队攻击。提高的分数将恢复。
 RelicMonkeyShieldMark2Description,夺取后的2小时内，地块无法被对方战队攻击。提高的分数将恢复。
@@ -4764,11 +4766,11 @@ RelicRoadSpikesDescription,每场比赛可获得10堆道路钉子
 RelicMoabMineDescription,每场比赛可使用1个MOAB地雷道具
 RelicGlueTrapDescription,每场比赛可使用2个胶水陷阱道具
 RelicTechbotDescription,每场比赛可使用1个科技机器人道具
-RelicPrimaryPrimatesDescription,所有初级猴子的花费降低10%
-RelicMilitaryMonkeysDescription,所有军事猴子的花费降低10%
-RelicMagicMonkeysDescription,所有魔法猴子的花费降低10%
+RelicPrimaryPrimatesDescription,所有初级猴子的花费降低8%
+RelicMilitaryMonkeysDescription,所有军事猴子的花费降低8%
+RelicMagicMonkeysDescription,所有魔法猴子的花费降低8%
 RelicSupportSimiansDescription,所有辅助猴子的花费降低10%
-RelicMonkeyTycoonDescription,装备库中的猴塔上限+1，基本价格降低5%
+RelicMonkeyTycoonDescription,装备库中的猴塔上限+1，基本价格降低4%
 InviteToTeam,邀请加入战队
 TeamLeave,离开战队
 Requests,请求
@@ -5065,9 +5067,9 @@ TeamsBanner7Description,这是一场天马行空的宠物聚会！装备此横�
 TeamsBanner8Name,争议领地横幅
 TeamsBanner8ShortName,争议领地横幅
 TeamsBanner8Description,装备此横幅，展现你夺取六边形地块的承诺。红蓝对决值得期待。
-TeamsEmblemIcon13Name,功夫奇异鸟图标
-TeamsEmblemIcon13ShortName,功夫奇异鸟图标
-TeamsEmblemIcon13Description,使出你最喜欢的不会飞的鸟的成名绝技飞踢，让对手大吃一惊。
+TeamsEmblemIcon13Name,功夫几维鸟图标
+TeamsEmblemIcon13ShortName,功夫几维鸟图标
+TeamsEmblemIcon13Description,使出你最喜欢的不会飞的小鸟的成名绝技飞踢，打敌人个措手不及。
 TeamsEmblemIcon14Name,全能之眼图标
 TeamsEmblemIcon14ShortName,全能之眼图标
 TeamsEmblemIcon14Description,装备此战队图标，你的对手会对自己的一举一动心生疑虑。
@@ -5077,8 +5079,8 @@ TeamsEmblemFrame10Description,这个地图框表示你的战队热衷于古老�
 TeamsEmblemFrame11Name,认知力地图框
 TeamsEmblemFrame11ShortName,认知力地图框
 TeamsEmblemFrame11Description,用认知力地图框表现出你的战队在击破气球方面高人一等的认知。
-BasePropPirateCrewMonkeyName,海盗船员
-BasePropPirateCrewMonkeyShortName,海盗船员
+BasePropPirateCrewMonkeyName,海盗船员猴
+BasePropPirateCrewMonkeyShortName,海盗船员猴
 BasePropPirateCrewMonkeyDescription,欢迎这个无赖来到你的争议领地基地，而其他战队将夹着尾巴逃走。[岛屿栏]
 BasePropTelescopeName,折射望远镜
 BasePropTelescopeShortName,折射望远镜
@@ -5115,7 +5117,262 @@ TeamTrophyStoreRulesInfoSectionFour,战队天赋需要整个战队资助，一�
 PlaySocialCaps,进行多人游戏
 SelectCapturedRelics,选择最多4种已夺取的圣物
 NextBonusIn,下次个奖励刷新时间：
-MemberCount,成员数
-Min,最低限度
-PrimeGamingText,领取您的 Prime Gaming 礼物！
-GetNow,Get Now
+MemberCount,成员数量
+Min,最少
+Back,返回
+Purchase Monkey Money,购买猴币
+Player Profile,玩家档案
+Toggle Info,切换信息
+Store Info,商店信息
+Toggle mode,切换模式
+Toggle jukebox enabled,切换已启用点唱机
+Play / Pause,播放/暂停
+Move up,上移
+Move down,下移
+Buy Monkey Knowledge,购买猴子知识
+Search,搜索
+Google Play,Google Play
+Remove mode,移除模式
+Add mode,添加模式
+Toggle ranked mode,切换排名模式
+Info,信息
+Switch to MonkeyName,切换至已命名的猴子
+Rename monkey,重命名猴子
+Switch to Medals,切换至奖牌
+Switch to Settings,切换至设置
+Refresh,刷新
+First Page,第一页
+Prev Page,上一页
+Next Page,下一页
+Last Page,最后一页
+Reset,重置
++,+
+-,-
+Show/Hide panel,显示/隐藏面板
+Toggle Loop Track,切换单曲循环
+Previous Track,上一首
+Next Track,下一首
+Info mode,信息模式
+Hero mode,英雄模式
+Skin mode,皮肤模式
+Prev mode,上一个模式
+Next mode,下一个模式
+Disconnect controller,断开连接控制器
+Clear all monkeys,清除所有猴子
+Clear all powers,清除所有力量
+Mute,静音
+Place Second Tower Console,放置另一个飞镖猴，然后按[dpad_up]开始游戏
+Finished Round One Console,很简单，对吧？按[dpad_up]开始下一回合
+Speed x1,1倍速
+Speed x3,3倍速
+CouchBuildZoneMessage,在有效区域中建造你自己的猴子塔
+Insta Monkeys,Insta猴子
+Controller.Title,控制
+Controller.DPadUp,发送回合/快进
+Controller.DPadDown,发送竞速回合
+Controller.DPadLeft,未分配
+Controller.DPadRight,未分配
+Controller.LeftAnalog,自由光标
+Controller.LeftAnalogButton,快速放置
+Controller.RightAnalog,滚动
+Controller.RightAnalogButton,显示/隐藏面板
+Controller.Menu,未分配
+Controller.Start,暂停
+Controller.LeftShoulder,上一个选项卡
+Controller.RightShoulder,下一个选项卡
+Controller.LeftTrigger,精准放置、技能热键
+Controller.RightTrigger,技能热键
+Controller.NorthButton,未分配
+Controller.SouthButton,确认
+Controller.EastButton,取消
+Controller.WestButton,未分配
+Toggle tab,切换选项卡
+Refresh data,刷新数据
+Prev tab,上一个选项卡
+Next tab,下一个选项卡
+Controller.Ready,准备就绪
+Friends,好友
+MinimumRounds,最小回合数
+MaximumRounds,最大回合数
+Max Monkeys,最大猴子数量
+Toggle add / remove,切换添加/移除
+Toggle select / edit,切换选择/编辑
+Camo,迷彩
+Couch Co-op,休闲组队
+Gift,礼物
+Emote,表情
+Set Target,设置目标
+Return to groups,返回群组
+TT_FollowCursor,跟随光标
+Toggle Map Dividers,切换地图分隔线
+Send,发送
+Upgrade,升级
+NextUpgrade,下一次升级
+CurrentUpgrade,当前升级
+HeroBoosterLocked,锁定
+PrimeGamingText,领取您的 Prime Gaming 会员每月奖励
+GetNow,立即获取
+,
+DarkDungeons,黑暗地下城
+OneTwoTree,一二三
+BeastHandler,野兽之主
+BeastHandlers,野兽之主
+BeastHandler Description,可以训练陆地、水中和天空的危险野兽。多个野兽之主可以携手增强现有野兽的能力，而不是造出更多野兽。
+BeastHandler Short Description,支援猴子
+Piranha,食人鱼
+Microraptor,小盗龙
+Gyrfalcon,矛隼
+Barracuda,梭子鱼
+Adasaurus,恶灵龙
+Horned Owl,角鸮
+Great White,大白鲨
+Velociraptor,迅猛龙
+Golden Eagle,金雕
+Orca,逆戟鲸
+Tyrannosaurus Rex,霸王龙
+Giant Condor,巨型秃鹫
+Megalodon,巨齿鲨
+Giganotosaurus,南方巨兽龙
+Pouakai,食人鸟
+Piranha Description,命令一只身形小巧但精力充沛的小鱼从气球附近的水中跃出。
+Microraptor Description,命令一只长有利爪的小恐龙。此升级需要多个野兽之主。
+Gyrfalcon Description,命令一只高贵的小型猛禽用它的爪子抓住和移动气球。
+Barracuda Description,梭子鱼锋利的牙齿可以击破多层气球。食人鱼升级需要至少1个野兽之主。最多可从4个野兽之主获益
+Adasaurus Description,恶灵龙锋利的牙齿可以在近距离范围内造成大量伤害。小盗龙升级需要至少1个野兽之主。最多可从4个野兽之主获益
+Horned Owl Description,角鸮强壮有力足以抓住和击破铅气球和陶瓷气球，并且目光锐利，可以侦测迷彩气球。
+Great White Description,大白鲨会压碎气球，包括用它的下颚压碎铅气球，如有需要把气球拖回水中。梭子鱼升级至少需要另外2个野兽之主。最多可从4个野兽之主获益
+Velociraptor Description,迅猛龙能以迅雷不及掩耳之势抓碎和咬碎气球。恶灵龙升级至少需要另外2个野兽之主。最多可从4个野兽之主获益
+Golden Eagle Description,擅于一次抓住大量气球。金雕个头很大，角鸮升级至少需要另外2个野兽之主。最多可从4个野兽之主获益
+Orca Description,强大的逆戟鲸长着一张血盆大口，可抓住所有大型气球并将它们拖入深渊。大白鲨升级至少需要另外3个野兽之主。最多可从4个野兽之主获益
+Tyrannosaurus Rex Description,霸王龙有着巨大的下颚和锋利的牙齿，每一次撕咬都可造成巨量伤害。迅猛龙升级至少需要另外3个野兽之主。最多可从4个野兽之主获益。霸王龙践踏技能：可击晕广阔范围内最高ZOMG级的气球。
+Giant Condor Description,巨型秃鹫长着两只巨大的爪子，可抓住MOAB级气球。金雕升级至少需要另外3个野兽之主。最多可从4个野兽之主获益
+Megalodon Description,这种鲨鱼是真正的庞然大物，能够大量气球。逆戟鲸升级至少需要另外4个野兽之主。最多可从8个野兽之主获益
+Giganotosaurus Description,这是体型最大、性情最凶残的恐龙。南方巨兽龙不费吹灰之力就能撕碎任何气球。霸王龙升级至少需要另外4个野兽之主。最多可从8个野兽之主获益。能够击晕范围内最高ZOMG级的气球，并且效果持续时间更长。
+Pouakai Description,传说中的食人鸟体型巨大，可抓住、拖走并摧毁任何尺寸、任何数量的气球。巨型秃鹫升级至少需要另外4个野兽之主。最多可从8个野兽之主获益
+T Rex Stomp Ability,霸王龙践踏
+T Rex Stomp Ability Description,击晕广阔范围内最高ZOMG级的气球。
+Giganotosaurus Stomp Ability,南方巨兽龙践踏
+Giganotosaurus Stomp Ability Description,击晕范围内最高ZOMG级的气球，并且效果持续时间更长。
+Move,移动
+NeedsBeastHandlers,需求野兽
+NeedsWater,需要水
+NeedsTrack,需要路径
+Dreadbloon,恐怖气球
+DreadbloonTagLine,来自黑暗世界的深处…
+DreadbloonTagLine2,装甲巨兽
+DreadbloonInfoPanelDescription,\n• 恐怖气球具有铅气球的属性，可将受到的所有伤害减少1点。\n• 生命条上每出现一个头骨，恐怖气球就会获得一层陶瓷装甲外壳，并且开始在路径的初段生成恐怖岩气球。\n• 恐怖气球出现时，它不会受到初级防御塔造成的伤害。每出现一个头骨，此伤害免疫会变成另一种防御塔：军事、魔法、支援。\n• 恐怖岩气球和陶瓷装甲外壳也具有这些免疫属性。\n• 恐怖岩气球具有强大的嘲讽技能，防御塔在瞄准时可要当心了！
+DreadbloonPrimaryImmunity,免疫：初级
+DreadbloonMilitaryImmunity,免疫：军事
+DreadbloonMagicImmunity,免疫：魔法
+DreadbloonSupportImmunity,免疫：支援
+Resist,抵抗
+Immune,免疫
+SleighCaptainChurchillSkinName,雪橇丘吉尔皮肤
+SleighCaptainChurchillSkinDescription,可带着圣诞节的氛围消灭气球，一次可射出一个礼品包装炸弹。
+SleighCaptainChurchillSkinNameFull,雪橇丘吉尔
+GameUIProfileBanner23Name,节日问候档案横幅
+GameUIProfileBanner23ShortName,节日问候横幅
+GameUIProfileBanner23Description,用这个冰霜趣味横幅庆祝这个冬天或全年好玩的节日。这是限时出售的道具哦！
+GameUIProfileBanner24Name,回旋镖利刃档案横幅
+GameUIProfileBanner24ShortName,回旋镖利刃横幅
+GameUIProfileBanner24Description,横幅获胜者ReconScoutTeemo
+GameUIProfileBanner25Name,象形文字档案横幅
+GameUIProfileBanner25ShortName,象形文字横幅
+GameUIProfileBanner25Description,横幅获胜者PvtMagnuS
+GameUIProfileAvatar65Name,自定义化身 - 圣诞花环
+GameUIProfileAvatar65ShortName,圣诞花环化身
+GameUIProfileAvatar65Description,用这个圣诞花环化身传递好运和鼓励每一个人。这是限时出售的道具哦！
+GameUIProfileAvatar66Name,自定义化身 - 愤怒化身
+GameUIProfileAvatar66ShortName,愤怒化身化身
+GameUIProfileAvatar66Description,终于！轮到我了？！化身以我之名，为了香蕉！
+GameUIProfileAvatar67Name,自定义化身 - 节日快乐
+GameUIProfileAvatar67ShortName,节日快乐化身
+GameUIProfileAvatar67Description,要是能在圣诞节获得另一架无人机，埃蒂安会兴奋不已，任何人看到都会由衷地感到高兴。这是限时出售的道具哦！
+GameUIProfileAvatar68Name,自定义化身 - 绝对零度
+GameUIProfileAvatar68ShortName,绝对零度化身
+GameUIProfileAvatar68Description,如果看重的是很酷的外表，那使用这个冰猴化身一定不会错。
+CoopEmoteAnimationSleighbellsName,白雪和雪橇铃铛动画
+CoopEmoteAnimationSleighbellsShortName,雪橇铃铛
+CoopEmoteAnimationSleighbellsDescription,获取这个冬日仙境全屏表情，向玩家1、2或4传递欢声笑语！这是限时出售的道具哦！
+TowerProjectileBananaFarmPresentsName,香蕉农场礼物香蕉
+TowerProjectileBananaFarmPresentsShortName,香蕉农场礼物
+TowerProjectileBananaFarmPresentsDescription,没什么比能长出礼物的香蕉农场更棒了！里面是什么礼物？当然是香蕉了！这是限时出售的道具哦！
+TowerProjectileDartMonkeySnowballsName,飞镖猴雪球射弹
+TowerProjectileDartMonkeySnowballsShortName,飞镖猴雪球
+TowerProjectileDartMonkeySnowballsDescription,我们不知道它们是怎么在丛林里形成的，不过试着更换这种射弹就知道飞镖猴总在打雪仗中获胜的原因了。这是限时出售的道具哦！
+TowerProjectileTackShooterIciclesName,图钉塔冰柱和雪花射弹
+TowerProjectileTackShooterIciclesShortName,图钉塔冰柱
+TowerProjectileTackShooterIciclesDescription,如果你喜欢图钉塔和冰猴的组合，那图钉换成冰柱，利刃换成雪花，你一定会更喜欢。这是限时出售的道具哦！
+TowerProjectileNinjaMonkeySnowflakesName,忍者猴雪花射弹
+TowerProjectileNinjaMonkeySnowflakesShortName,忍者猴雪花
+TowerProjectileNinjaMonkeySnowflakesDescription,精美的雪花\n快速从忍者猴的手中掷出\n切割对称\n这是限时出售的道具哦！
+BuildingPropChristmasTreeName,圣诞树建筑
+BuildingPropChristmasTreeShortName,圣诞树建筑
+BuildingPropChristmasTreeDescription,要将基地换成树吗？猴子们住在哪里？等等…算了。\n用这个圣诞树基地为你的战队增加节日氛围。[主建筑栏]
+BasePropCosyBeanbagMonkeyName,舒适的懒人沙发猴
+BasePropCosyBeanbagMonkeyShortName,舒适的懒人沙发猴
+BasePropCosyBeanbagMonkeyDescription,懒人沙发。放松的最终象征。包括一只悠闲的猴子！[岛屿栏]
+TeamsBanner9Name,精美雪花横幅
+TeamsBanner9ShortName,精美雪花横幅
+TeamsBanner9Description,雪花单纯的复杂性堪称完美，就像你的战队。
+TeamsBanner10Name,烤香蕉横幅
+TeamsBanner10ShortName,烤香蕉横幅
+TeamsBanner10Description,为你的战队令人垂涎三尺的营火烤香蕉！
+TeamsEmblemFrame12Name,气球地图框
+TeamsEmblemFrame12ShortName,气球地图框
+TeamsEmblemFrame12Description,使用这个残酷无情的气球地图框，使你的战队成为公敌。
+TeamsEmblemFrame13Name,军事地图框
+TeamsEmblemFrame13ShortName,军事地图框
+TeamsEmblemFrame13Description,缺少组织性和纪律性，再积极的战队也一无是处。
+TeamsEmblemIcon15Name,皇冠图标
+TeamsEmblemIcon15ShortName,皇冠图标
+TeamsEmblemIcon15Description,支持你的战队登上飞镖王座。
+TeamsEmblemIcon16Name,外星人图标
+TeamsEmblemIcon16ShortName,外星人图标
+TeamsEmblemIcon16Description,你的战队离开地球时使用的图标！
+Achievement 146 Name,支线任务
+Achievement 146 Description,完成一个任务
+Achievement 147 Name,精神充沛
+Achievement 147 Description,同时为你的猴子激活75种增益
+Achievement 148 Name,世界联盟训练
+Achievement 148 Description,获得150000点野兽之主经验值
+CompleteQuestMessage,完成任务
+QuestUnlocksAtLevelXMessage,<br>{0}级时解锁任务
+QuestComplete,任务完成！
+BeastHandlerQuestName,史诗野兽任务
+BeastHandlerQuestReward,解锁野兽之主及更多！
+BeastHandlerQuest1Name,地球之道
+BeastHandlerQuest1Description,在采石场训练凶狠的恐龙
+BeastHandlerQuest1Victory,祝贺你！你完成了地球之道！
+BeastHandlerQuest2Name,水之道
+BeastHandlerQuest2Description,在香料群岛繁育凶猛的鱼
+BeastHandlerQuest2Victory,祝贺你！你完成了水之道！
+BeastHandlerQuest3Name,天空之道
+BeastHandlerQuest3Description,在龟裂之地孵化强大的猛禽
+BeastHandlerQuest3Victory,祝贺你！你完成了天空之道！
+DialogBeastHandlerQuest1UI1,野兽之主几年前离开村子去寻找史诗野兽，他们就快成功了！
+DialogBeastHandlerQuest1UI2,如果你能帮助他们完成任务，他们回来后会加入我们共同对抗气球！
+DialogBeastHandlerQuest1InGame1,野兽之主听过神秘蛋的传说，并且已将它们驯化成了自己的第一只史诗野兽！
+DialogBeastHandlerQuest1InGame2,帮助他们了解这些饥饿的猛禽！
+DialogBeastHandlerQuest2UI1,太棒了！那些凶狠的野兽就像野兽之主的宠物一样。而且，他们还弄明白了如何携手组合和强化它们。
+DialogBeastHandlerQuest2UI2,虽然我不懂生物学，但强强联合一定会更强大。它们已经引导野兽之主去找另一个蛋。
+DialogBeastHandlerQuest2UI3,我迫不及待地想知道他们找到了什么！
+DialogBeastHandlerQuest3UI1,他们非常善于训练野兽，这些凶猛的水兽经过驯化后可在水中帮助他们同气球作战，寻找水下隐藏的宝藏，比如第三颗蛋。
+DialogBeastHandlerQuest3UI2,在你帮助野兽之主驯化第三只野兽后，他们就会加入你的队伍！
+,
+RemoveProviderFromAccount,是否确定要将该供应商从你的账户中移除？<br><br><b>将供应商从账户中移除最多需要3个小时。</b>
+ProviderRemovedText,供应商已移除。<br><br>该页面即将关闭
+AdditionalAccountLinks,其他账户账户链接
+LoginWithAmazon,使用亚马逊账户登录
+LinkingCodeButton,获取链接代码
+LinkingCodeMessage,请在您的设备上打开游戏，然后根据系统提示输入下面的代码。该代码将在10分钟后失效。
+Rate Expires In,距离评分过期还有：
+Rate,评分
+CoopGameSyncFailed,未能同步游戏设置。请尝试开始一个新游戏。
+iCloudTitle,iCloud
+iCloudDisabled,iCloud 已禁用
+iCloudEnabled,iCloud 已启用
+DialogBeastHandlerQuest1InGameTowerUpgrade1,"哇，那只野兽好强，需要两个御兽师才能控制住它！"
+Buffed,强化
+Assisting,协助
+Select Point On Track,选择轨道上的一个点

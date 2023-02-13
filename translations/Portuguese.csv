@@ -101,7 +101,7 @@ Quincy Level 15 Description,O disparo rápido se torna x4 e a recarga é reduzid
 Quincy Level 16 Description,Mais velocidade de ataque aumentada.
 Quincy Level 17 Description,Flechas duram 25% mais. Dispara flechas explosivas a cada 2 tiros.
 Quincy Level 18 Description,Quincy ataca mais rápido e a recarga da Tempestade de Flechas é reduzida e tem 50% mais flechas.
-Quincy Level 19 Description,Cada flecha tem ainda mais poder de estouro.
+Quincy Level 19 Description,Dispara 3 flechas de uma vez e o poder de estouro aumenta a cada flecha.
 Quincy Level 20 Description,Quincy ataca ainda mais rápido. Tempestade de Flechas causa mais dano por flecha e dispara ainda mais flechas.
 ,
 StrikerJones Level 1 Description,Striker Jones dispara uma poderosa bazuca que explode os Bloons.
@@ -697,10 +697,10 @@ Enhanced Eyesight Description,Dispara ainda mais longe e detecta Camuflagem.
 Spike-o-pult Description,Converte o Macaco Dardo numa Catapulta de Espinhos mais lenta que lança grandes bolas espinhadas. Cada bola pode estourar muitos Bloons e quica em obstáculos.
 Triple Shot Description,Dispara 3 dardos de uma vez ao invés de um.
 Crossbow Description,Usa uma Besta de longo alcance que pode estourar 3 camadas de Bloon a cada acerto.
-Juggernaut Description,Lança uma bola de espinhos gigante que estoura chumbo é ótima pra destruir cerâmica.
+Juggernaut Description,Lança uma bola de espinhos gigante que estoura chumbo é ótima pra destruir Bloons de Cerâmica e Fortificados.
 Super Monkey Fan Club Description,"Habilidade do Fã Clube do Supermacaco: Converte até 10 Macacos Dardos, incluindo a si próprio, em Supermacacos por 15 segundos. A velocidade do ataque básico também aumenta."
 Sharp Shooter Description,O Atirador Afiado dispara mais rápido e lança poderosos Disparos Críticos a cada poucos disparos que causam muito mais dano.
-Ultra-Juggernaut Description,Bola de espinhos gigantesca que se divide duas vezes em 6 bolas Jamanta para ainda mais poder destrutivo.
+Ultra-Juggernaut Description,Bola de espinhos gigantesca que se divide duas vezes em 6 bolas Jamanta para ainda mais poder destrutivo contra Bloons de Cerâmica e Fortificados.
 Plasma Monkey Fan Club Description,A assinatura de elite desse clube dá aos Macacos Dardos ainda mais poder!
 Crossbow Master Description,O Mestre da Besta dispara bem rápido e devasta a maior parte dos tipos de Bloons facilmente.
 ,
@@ -756,11 +756,11 @@ Permafrost Description,Bloons se movem lentamente após derretimento.
 Enhanced Freeze Description,Ataca mais rápido e congela por mais tempo.
 Larger Radius Description,Maior área de congelamento.
 Metal Freeze Description,Pode congelar e estourar Bloons de Chumbo e Camuflados.
-Deep Freeze Description,Congela uma cada extra e o congelamento dura mais tempo.
+Deep Freeze Description,"Aumenta a perfuração, congela uma cada extra e o congelamento dura mais tempo."
 Re-Freeze Description,Pode recongelar Bloons já congelados.
 Ice Shards Description,Fragmentos afiados voam quando Bloons congelados estouram.
 Arctic Wind Description,Aumenta muito a perfuração e ganha uma aura superfria que desacelera Bloons e congela águas próximas.
-Cryo Cannon Description,Dispara bombas congelantes a Bloons em longa distância.
+Cryo Cannon Description,Dispara rapidamente bombas congelantes menores com um alcance maior.
 Embrittlement Description,"Pode atingir Bloons classe MOAB. Todos os Bloons atingidos se tornam frágeis, recebem dano extra quando congelados e perdem as propriedades de camuflagem."
 Snowstorm Description,"Habilidade Nevasca: Congela todos os Bloons comuns na tela, congela brevemente Bloons Brancos, Zebra e Camuflados, e desacelera classe MOAB."
 Icicles Description,Bloons congelados criam fragmentos de gelo que podem estourar Bloons que tocam neles.
@@ -774,10 +774,10 @@ Stickier Glue Description,Faz o efeito cola durar muito mais.
 Corrosive Glue Description,Bloons colados estouram uma camada a cada poucos segundos.
 Glue Splatter Description,Espalha cola por até 6 Bloons por disparo.
 Stronger Glue Description,Deixa Bloons ainda mais lentos.
-Bloon Dissolver Description,Solventes extremos derretem duas camadas a cada segundo.
+Bloon Dissolver Description,Pode colar um Bloon adicional por disparo e os solventes derretem duas camadas a cada segundo.
 Glue Hose Description,Dispara cola 3x mais rápido!
 MOAB Glue Description,Fórmula colante melhorada permite que se grude a Bloons Classe MOAB.
-Bloon Liquefier Description,Pode grudar um Bloon adicional por disparo e aplica componentes de derretimento que causam 10 estouros por segundo.
+Bloon Liquefier Description,Aplica componentes de derretimento que causam 10 estouros por segundo.
 Glue Strike Description,"Habilidade Ataque Colante: Gruda todos os Bloons na tela, fazendo com que eles recebam mais dano de todas as fontes enquanto durar."
 Relentless Glue Description,Bloons estourados que estavam colados deixam uma bolha de cola na pista.
 The Bloon Solver Description,Os Bloons são um problema? Aqui está a solução.
@@ -875,10 +875,10 @@ Heavy Shells Description,"Cápsulas pesadas causam mais danos a Bloons de Cerâm
 Signal Flare Description,Bloons Camuflados estourados por sinalizadores perdem a camuflagem permanentemente.
 The Big One Description,"Explosões devastadoras estouram 7 camadas de Bloons cada, além de um aumento maior no dano de Parada Queimante."
 Artillery Battery Description,"Habilidade Bombardeio: libera um ataque de disparo rápido em uma área um pouco maior. O ataque principal causa mais dano em Bloons BAD e chefes, e melhora para 3 barris, causando ataques incrivelmente rápidos."
-Shattering Shells Description,"Cápsulas destrutivas removem todas as propriedades de bloons especiais, com exceção dos maiores bloons."
+Shattering Shells Description,"Cápsulas destrutivas removem todas as propriedades de Bloons especiais, com exceção dos maiores Bloons, e queimam Bloons classe MOAB, causando dano extra."
 The Biggest One Description,"Estoura profundamente Bloons e camadas em uma área enorme, mais um poderoso dano de Parada Queimante."
 Pop and Awe Description,"Habilidade Estouro Fascinante: Chove explosões sobre toda a tela, danificando e imobilizando todos os Bloons por alguns segundos. Todas as Baterias de Artilharia causam mais dano em Bloons BAD e chefes. O ataque principal causa dano extra a Bloons atordoados."
-Blooncineration Description,Coisa superquente derrete 5 camadas de Bloon em cada disparo e queima Bloons classe MOAB causando dano extra.
+Blooncineration Description,Parada Queimante superquente derrete 5 camadas de Bloon em cada disparo e incinera Bloons classe MOAB causando muito dano.
 ,
 Focused Firing Description,Aumenta a precisão da Arma de Dardos.
 Advanced Targeting Description,Permite ao Atirador de Dardos atingir Bloons Camuflados.
@@ -909,7 +909,7 @@ Shimmer Description,Ganha uma magia obscura que periodicamente revela a localiza
 Arcane Spike Description,Magia de disparo mais rápido causa dano enorme na maioria dos tipos de Bloons.
 Summon Phoenix Description,Habilidade Invocar Fênix: Uma poderosa fênix causa destruição Bloon por 20 segundos.
 Necromancer: Unpopped Army Description,Reanima inimigos estourados recentemente como serventes para destruir os Bloons.
-Archmage Description,Um verdadeiro mestre das artes mágicas.
+Archmage Description,Um verdadeiro mestre das artes mágicas. Ataca mais rápido e causa mais dano em Bloons classe MOAB.
 Wizard Lord Phoenix Description,"O Lorde Mago torna-se um mestre das chamas, transformando-se numa superpoderosa Fênix de Lava por um curto período de tempo."
 Soulbind Description,Reanima servos Bloons ainda mais poderosos para obliterar os inimigos e melhora todos os outros Necromantes.
 ,
@@ -971,7 +971,7 @@ Druid of the Storm Description,Rajadas de vento afastam Bloons da saída.
 Druid of the Jungle Description,"Invoca vinhas do chão para enredar e esmagar Bloons, um de cada vez, deixando para trás uma pilha de espinhos mortal."
 Druid of Wrath Description,Ganha velocidade de ataque durante a rodada enquanto o Druida estiver atacando Bloons.
 Ball Lightning Description,Cria poderosas bolas de raios que disparam raios adicionais e pode congelar Bloons.
-Jungle's Bounty Description,Habilidade Dom da Selva: Gera dinheiro a cada uso e dinheiro extra por Fazenda de Bananas perto do Druida. Também pode pegar dois Bloons com vinhas de uma vez.
+Jungle's Bounty Description,Habilidade Dom da Selva: gera dinheiro a cada uso e dinheiro extra por Fazenda de Bananas perto do Druida. Chama duas vinhas que pegam Bloons e pilhas de espinhos causam perfuração extra.
 Poplust Description,Aumenta a velocidade de ataque e perfuração dos outros Druidas no raio. Pode acumular com até 5 vezes em um único Druida.
 Superstorm Description,A Supertempestade estoura todos os tipos de Bloon com dano massivo e os afasta da saída.
 Spirit of the Forest Description,Cresce vinhas espinhadas pelo caminho que causam dano constante e dano extra a Cerâmica. Vinhas mais perto do Espírito da Floresta causam mais dano. Habilidade ativável gera vidas e mais dinheiro.
@@ -1660,11 +1660,11 @@ btd6_herobooster Description,O herói selecionado no seu jogo atual se torna ní
 btd6_powersattackpack,Pacote de Poderes de Ataque
 btd6_powersattackpack Description,Uma variedade de {0} Poderes de Macaco voltados para a batalha.
 btd6_instatowerspack,Pacote Insta de Macaco
-btd6_instatowerspack Description,"5 torres de macaco, prontas para por no jogo de graça! Contém 2 Nível 1, 2 Nível 2 e 1 Nível 3"
+btd6_instatowerspack Description,"5 torres de macaco, prontas para por no jogo de graça! Contém 2 nível 1, 2 nível 2 e 1 nível 3. Macacos dentro de cada nível têm a mesma chance de serem sorteados."
 btd6_tier3instatowerspack,Pacote Insta de Macaco Nível 3
-btd6_tier3instatowerspack Description,10 torres de macaco Insta nível 3 prontas para por no jogo de graça!
+btd6_tier3instatowerspack Description,10 torres de Macaco Insta nível 3 prontas para por no jogo de graça! A chance de sortear cada macaco é a mesma.
 btd6_tier4instatowerspack,Pacote Insta de Macaco Nível 4
-btd6_tier4instatowerspack Description,10 torres de macaco Insta nível 4 prontas para por no jogo de graça!
+btd6_tier4instatowerspack Description,10 torres de Macaco Insta nível 4 prontas para por no jogo de graça! A chance de sortear cada macaco é a mesma.
 btd6_needmoremonkeymoneyprompt,Sem Dinheiro de Macaco suficiente! Comprar mais?
 ,
 ,
@@ -1678,11 +1678,11 @@ btd6_extramonkeymoney Description,Oferta especial! {0} de Dinheiro de Macaco por
 btd6_powerspandamonium,Pandemônio de Poderes
 btd6_powerspandamonium Description,Com nossos poderes combinados! {0} dos melhores Poderes de Macaco que você pode receber em apenas um pacote!
 btd6_instatowersmegabooster,Mega Impulso Macacos Insta
-btd6_instatowersmegabooster Description,"Esse megapacote contém 5 Torres Insta Nível 2, 12 Nível 3 e 3 Nível 4, prontas para por em jogo de graça!"
+btd6_instatowersmegabooster Description,"Esse megapacote contém 5 torres de Macaco Insta nível 2, 12 nível 3 e 3 nível 4, prontas para por em jogo de graça! Macacos dentro de cada nível têm a mesma chance de serem sorteados."
 btd6_megamonkeycompendiumpack,Pacote Compêndio Mega Macaco
-btd6_megamonkeycompendiumpack Description,"Um imenso pacote cheio de coisas maravilhosas! 25.000 em Dinheiro de Macaco, 100 poderes de ataque, 30 torres de macaco insta nível 3, 15 nível 4, 5 nível 5 e Conhecimento Liberado (Nível 30, 5 Pontos CM Bônus)!"
+btd6_megamonkeycompendiumpack Description,"Um imenso pacote cheio de coisas maravilhosas! 25.000 em Dinheiro de Macaco, 100 poderes de ataque, 30 torres de Macaco Insta nível 3, 15 nível 4, 5 nível 5 e Conhecimento Liberado (nível 30, 5 Pontos CM Bônus)! Macacos dentro de cada nível têm a mesma chance de serem sorteados."
 btd6_tier5instatowerpack,Pacote Insta de Macaco Nível 5
-btd6_tier5instatowerpack Description,"10 torres de macaco nível 5, prontas para colocar em jogo de graça!"
+btd6_tier5instatowerpack Description,10 torres de macaco nível 5 prontas para por no jogo de graça! A chance de sortear cada macaco é a mesma.
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,Oferta de Pilha de Dinheiro de Macaco
@@ -2042,6 +2042,8 @@ Swedish,Sueco
 Turkish,Turco
 Korean,Coreano
 Japanese,Japonês
+Polish,Polonês
+Monkelish,Macaquês
 ,
 Backup,Backup
 Profile,Conta
@@ -2461,11 +2463,11 @@ EditorLockedShareButtonDescription,"Para compartilhar seu desafio, você deve pr
 ConflictScreenChoose,Escolha um jogo salvo
 ConflictThisDevice,Este dispositivo
 ConflictCloud,Na nuvem
-ConflictTimeHours,Salvo {0} horas atrás
 ConflictUseButton,Usar
 ConflictNoData,Sem dados
-ConflictTimeMinutes,Salvo {0} minutos atrás
 ConflictTimeSeconds,Salvo {0} segundos atrás
+ConflictTimeMinutes,Salvo {0} minutos atrás
+ConflictTimeHours,Salvo {0} horas atrás
 ConflictTimeDays,Salvo {0} dias atrás
 FasterMoabs,Velocidade dos MOAB aumentada
 SlowerMoabs,Velocidade dos MOAB reduzida
@@ -2751,8 +2753,8 @@ DarkKnightDarkshift,[I] para usar Teleporte Sombrio no alcance
 DarkChampionDarkshift,[I] para usar Teleporte Sombrio para qualquer local válido
 SmallTowersMode,Torres Macacos Pequenos
 BigTowersMode,Torres Macacos Grandes
-UpdatePopupTitle,Atualização 33!
-UpdatePopupDescription,"Grande atualização de conteúdo!\n• Libere o incrível Sombrioplano Golias, a Excelência do Macaco Ás!\n• Cultive um pouco de poder estourador de Bloons no mapa intermediário, Jardim Coberto! Criado pelo vencedor da competição de mapas da comunidade SuperPsou.\n• Assombre os salões do assustador novo mapa avançado, Mansão da Meia-Noite!\n• Itens da loja de Troféus, melhorias de qualidade de vida, mudanças de equilíbrio e muito mais!"
+UpdatePopupTitle,Atualização 34!
+UpdatePopupDescription,"Grande atualização de fim de ano!\n• Lute contra as incríveis resistências e imunidades da monstruosidade blindada, Dreadbloon!\n• Descubra as posições que beneficiam suas torres no novo mapa Iniciante, Um Dois Três!\n• Elimine os Bloons no clima das festas com o novo visual do Capitão Churchill, Churchill de Trenó!\n• Itens da loja de troféus, melhorias de qualidade de vida, mudanças de equilíbrio e muito mais!\n• A Ninja Kiwi deseja a todos um feliz Natal e que vocês tenham um incrível Ano Novo!"
 ResetDailyChest,Zerar Baú Diário
 JukeboxName,Jukebox
 EnableFunction,Habilitar
@@ -4553,16 +4555,15 @@ ConfirmAgeInfo,"Para continuar, confirme sua idade atual. Você precisa fazer lo
 AgeQuestion,Você tem {0} anos ou mais?
 AgeYes,"Sim, eu tenho {0} anos ou mais."
 AgeNo,"Não, eu tenho menos de {0} anos."
-PersonalAccountInfo,"Você pode criar uma conta pessoal sem usar nenhuma informação pessoalmente identificável.
-Ao escolher ""Eu concordo"", seu responsável ou guardião avaliou a Política de Privacidade e os Termos de Serviço da Ninja Kiwi com você, e concorda com a Política de Privacidade e Termos de Serviço, e com nossa capacidade de armazenar suas informações de jogo e de conta não identificáveis pessoalmente em nosso serviço, o que inclui o uso de nossos servidores localizados nos EUA."
+PersonalAccountInfo,"Você deve criar uma conta pessoal sem usar qualquer informação pessoalmente identificável.
+Ao escolher ""Eu concordo"", seu responsável ou guardião avaliou a Política de Privacidade e os Termos de Serviço da Ninja Kiwi com você, e concorda com a Política de Privacidade e Termos de Serviço, e com nossa capacidade de armazenar suas informações de jogo e de conta não identificável pessoalmente em nosso serviço, o que inclui o uso de servidores localizados nos EUA."
 AgreeCreateAccount,"Eu concordo, criar uma conta"
 NormalAccountInfo,"Ao continuar, você concorda com a Política de Privacidade e os Termos de Serviço, e com nossa capacidade de armazenar suas informações de jogo e de conta em nosso serviço, o que inclui o uso de nossos servidores localizados nos EUA."
 LoggedInAs,Logado como:
 EpicAccountId,ID da Conta Epic:
 NeedHelp,Precisa de ajuda?
 ContactSupport,Falar com o suporte
-DeleteAccountText,"Apagar sua conta significa perder acesso a todos os dados e progresso salvos na nuvem.
-Insira seu ID de usuário (como visto abaixo) na caixa para apagar sua conta. Pode demorar de 48 a 72 horas para sua conta ser removida."
+DeleteAccountText,Apagar sua conta significa perder acesso a todos os dados e progresso salvos na nuvem.
 EnterUserId,Insira o ID de usuário aqui
 GetAllButton,Pegar tudo
 GetAllConfirmation,Confirme que você deseja gastar seu Dinheiro de Macaco para obter todos os heróis e visuais disponíveis!
@@ -4723,17 +4724,17 @@ RelicMilitaryMonkeys,Macacos Militares
 RelicMagicMonkeys,Macacos Mágicos
 RelicSupportSimians,Símios de Suporte
 RelicMonkeyTycoon,Macaco Magnata
-RelicStartingStashDescription,Comece cada partida com 300 de dinheiro extra (acumula com Mais Dinheiro em Espaços Comuns).
+RelicStartingStashDescription,Comece cada partida com 250 de dinheiro extra (acumula com Mais Dinheiro em Espaços Comuns).
 RelicExtraEmpoweredDescription,Seu herói começa o jogo com 3 níveis extras (acumula com Heróis Empoderados em Espaços Comuns).
 RelicBoxOfChocolatesDescription,Comece cada partida com 100 vidas extras.
-RelicBoxOfMonkeyDescription,Comece cada partida com um macaco grátis no valor de $500 ou menos para posicionamento inicial não modificado.
+RelicBoxOfMonkeyDescription,Comece cada partida com um macaco grátis no valor de $400 ou menos para posicionamento inicial não modificado.
 RelicMarchingBootsDescription,"Em partidas de contagem restrita, dá aos jogadores +1 de contagem máxima para cada torre em seu arsenal, ou +4 de contagem máxima total por partida."
 RelicHeroBoostDescription,Heróis ganham XP 15% mais rápido em cada partida.
 RelicBiggerBloonSabotageDescription,Todos os Bloons classe MOAB surgem com 15% menos vida e se movem em 95% da velocidade.
 RelicRoundingUpDescription,Ganhe +$20 ao final de cada rodada.
 RelicManaBulwarkDescription,Cria um escudo que absorve até 50 vidas (acumula com Escudo de Mana em Espaços Comuns).
-RelicRegenerationDescription,"Restaura 10 vidas por rodada até o número de vidas inicial de cada partida, caso nenhuma vida tenha sido perdida naquela rodada."
-RelicRestorationDescription,"Restaura 20 vidas por rodada até um número de vidas inicial de +200, caso nenhuma vida tenha sido perdida naquela rodada."
+RelicRegenerationDescription,"Restaura 20 vidas por rodada até o número de vidas inicial de cada partida, caso nenhuma vida tenha sido perdida naquela rodada."
+RelicRestorationDescription,"Restaura 10 vidas por rodada até um número de vidas inicial de +200, caso nenhuma vida tenha sido perdida naquela rodada."
 RelicDurableShotsDescription,Todos os projéteis duram +25%.
 RelicAlchemistTouchDescription,Todos os ataques podem estourar Bloons de Chumbo.
 RelicDeepHeatDescription,Todos os ataques podem estourar Bloons Brancos.
@@ -4741,14 +4742,14 @@ RelicSharpsplosionDescription,Todos os ataques podem estourar Bloons Pretos.
 RelicRoyalTreatmentDescription,Todos os ataques podem estourar Bloons Roxos.
 RelicHardBakedDescription,Todos os ataques causam +1 de dano em Bloons de Cerâmica.
 RelicFortifriedDescription,Todos os ataques causam +1 de dano em Bloons Fortificados.
-RelicMoabClashDescription,Todos os ataques causam +3 de dano em Bloons classe MOAB.
+RelicMoabClashDescription,Todos os ataques causam +2 de dano em Bloons classe MOAB.
 RelicCamoFloggedDescription,Todos os ataques causam +3 de dano em Bloons Camuflados.
 RelicBrokenHeartDescription,Todos os ataques causam +1 de dano em Bloons Regeneradores.
 RelicGoingTheDistanceDescription,Todos os macacos ganham alcance +20%.
-RelicHeartlessDescription,A velocidade de regeneração dos Bloons Regeneradores é reduzida em 25%.
+RelicHeartlessDescription,A velocidade de regeneração dos Bloons Regeneradores é reduzida em 50%.
 RelicFlintTipsDescription,"Projéteis afiados adicionam fogo a todos os Bloons que danificam (1 de dano a cada 2,5 s por um total de 5 s)."
 RelicAbilitizedDescription,Todas as recargas de habilidade ativas de todos os macacos reduzidas em 10%.
-RelicAirAndSeaDescription,"Ás, Helicóptero, Bucaneiro e Submarino têm custos de posicionamento e melhoria reduzidos em 10% e recarga melhorada em 5%."
+RelicAirAndSeaDescription,"Ás, Helicóptero, Bucaneiro e Submarino têm custos de posicionamento e melhoria reduzidos em 5% e recarga melhorada em 5%."
 RelicElDoradoDescription,Todas as recompensas de Dinheiro de Macaco e Troféus de Equipe por vitórias em partidas aumenta em 25% (mínimo +1).
 RelicMonkeyShieldDescription,"Por 1 hora após a captura, o espaço não pode ser atacado por equipes adversárias. Pontuação melhorada irá reiniciar."
 RelicMonkeyShieldMark2Description,"Por 2 horas após a captura, o espaço não pode ser atacado por equipes adversárias. Pontuação melhorada irá reiniciar."
@@ -4763,11 +4764,11 @@ RelicRoadSpikesDescription,Concede 10 instâncias de Espinhos por partida.
 RelicMoabMineDescription,Concede o uso de 1 poder Mina MOAB por partida.
 RelicGlueTrapDescription,Concede o uso de 2 poderes Armadilha de Cola por partida.
 RelicTechbotDescription,Concede o uso de 1 poder Bot Tecnológico por partida.
-RelicPrimaryPrimatesDescription,Reduz o custo de todos os macacos primários em 10%.
-RelicMilitaryMonkeysDescription,Reduz o custo de todos os macacos militares em 10%.
-RelicMagicMonkeysDescription,Reduz o custo de todos os macacos mágicos em 10%.
+RelicPrimaryPrimatesDescription,Reduz o custo de todos os macacos primários em 8%.
+RelicMilitaryMonkeysDescription,Reduz o custo de todos os macacos militares em 8%.
+RelicMagicMonkeysDescription,Reduz o custo de todos os macacos mágicos em 8%.
 RelicSupportSimiansDescription,Reduz o custo de todos os macacos de apoio em 10%.
-RelicMonkeyTycoonDescription,Ganha +1 de todas as torres de macaco no seu arsenal e seu custo base é reduzido em 5%.
+RelicMonkeyTycoonDescription,Ganha +1 de todas as torres de macaco no seu arsenal e seu custo base é reduzido em 4%.
 InviteToTeam,Convidar para a equipe
 TeamLeave,Sair da equipe
 Requests,Solicitações
@@ -5069,15 +5070,15 @@ TeamsEmblemIcon13ShortName,Ícone Kiwi Kung Fu
 TeamsEmblemIcon13Description,Surpreenda seus oponentes com uma voadora do seu pássaro terrestre preferido.
 TeamsEmblemIcon14Name,Ícone do Olho que Tudo Vê
 TeamsEmblemIcon14ShortName,Ícone do Olho que Tudo Vê
-TeamsEmblemIcon14Description,Equipe este ícone de equipe e seus oponentes desconfiaram de cada movimento que fizerem.
+TeamsEmblemIcon14Description,Equipe este ícone de equipe e seus oponentes desconfiarão de cada movimento que fizerem.
 TeamsEmblemFrame10Name,Moldura Pergaminho Ninja
 TeamsEmblemFrame10ShortName,Moldura Pergaminho Ninja
 TeamsEmblemFrame10Description,Uma moldura para mostrar a dedicação da sua equipe à antiga arte dos ninjas.
 TeamsEmblemFrame11Name,Moldura de Maquinação
 TeamsEmblemFrame11ShortName,Moldura de Maquinação
 TeamsEmblemFrame11Description,Mostre o conhecimento em estourar Bloons superior da sua equipe com a Moldura de Maquinação.
-BasePropPirateCrewMonkeyName,Tripulação Pirata
-BasePropPirateCrewMonkeyShortName,Tripulação Pirata
+BasePropPirateCrewMonkeyName,Macaco da Tripulação Pirata
+BasePropPirateCrewMonkeyShortName,Macaco da Tripulação Pirata
 BasePropPirateCrewMonkeyDescription,Yar! Receba esse marujo na sua base do Território Contestado e as outras equipes vão dar meia-volta com a vela entre as pernas. [Espaço de ilha]
 BasePropTelescopeName,Telescópio Refrator
 BasePropTelescopeShortName,Telescópio Refrator
@@ -5114,7 +5115,262 @@ TeamTrophyStoreRulesInfoSectionFour,"• Estilo da Equipe é pago pela equipe in
 PlaySocialCaps,JOGO SOCIAL
 SelectCapturedRelics,Escolha até 4 relíquias capturadas
 NextBonusIn,Próximo bônus em:
-MemberCount,Contagem de membro
-Min,Mínimo
-PrimeGamingText,Reivindique seu presente Prime Gaming!
-GetNow,Get Now
+MemberCount,Total de membros
+Min,Mín
+Back,Voltar
+Purchase Monkey Money,Comprar Dinheiro de Macaco
+Player Profile,Perfil de jogador
+Toggle Info,Exibir informações
+Store Info,Informações da loja
+Toggle mode,Alternar modo
+Toggle jukebox enabled,Ativar jukebox habilitada
+Play / Pause,Iniciar/Pausar
+Move up,Mover para cima
+Move down,Mover para baixo
+Buy Monkey Knowledge,Comprar Conhecimento Símio
+Search,Busca
+Google Play,Google Play
+Remove mode,Remover modo
+Add mode,Adicionar modo
+Toggle ranked mode,Ativar modo ranqueado
+Info,Informações
+Switch to MonkeyName,Mudar para Macacos com Nome
+Rename monkey,Renomear macaco
+Switch to Medals,Mudar para Medalhas
+Switch to Settings,Mudar para Configurações
+Refresh,Recarregar
+First Page,Primeira página
+Prev Page,Página anterior
+Next Page,Próxima página
+Last Page,Última página
+Reset,Reiniciar
++,+
+-,-
+Show/Hide panel,Exibir/Ocultar painel
+Toggle Loop Track,Ativar Pista em Loop
+Previous Track,Pista anterior
+Next Track,Próxima pista
+Info mode,Modo de informações
+Hero mode,Modo de herói
+Skin mode,Modo de visual
+Prev mode,Modo anterior
+Next mode,Próximo modo
+Disconnect controller,Desconectar controle
+Clear all monkeys,Limpar todos os macacos
+Clear all powers,Limpar todos os poderes
+Mute,Silenciar
+Place Second Tower Console,Coloque outro Macaco Dardo e aperte [dpad_up] para jogar
+Finished Round One Console,"Foi fácil, não? Aperte [dpad_up] para começar a próxima rodada"
+Speed x1,Velocidade x1
+Speed x3,Velocidade x3
+CouchBuildZoneMessage,Construa sua torres de macaco na área válida
+Insta Monkeys,Macacos Insta
+Controller.Title,Controles
+Controller.DPadUp,Iniciar rodada/Acelerar
+Controller.DPadDown,Iniciar rodada de corrida
+Controller.DPadLeft,Não designado
+Controller.DPadRight,Não designado
+Controller.LeftAnalog,Cursor livre
+Controller.LeftAnalogButton,Posicionamento rápido
+Controller.RightAnalog,Rolar
+Controller.RightAnalogButton,Exibir/Ocultar painel
+Controller.Menu,Não designado
+Controller.Start,Pausa
+Controller.LeftShoulder,Aba anterior
+Controller.RightShoulder,Próxima aba
+Controller.LeftTrigger,"Posicionamento preciso, atalhos de habilidade"
+Controller.RightTrigger,Atalhos de habilidade
+Controller.NorthButton,Não designado
+Controller.SouthButton,Confirmar
+Controller.EastButton,Cancelar
+Controller.WestButton,Não designado
+Toggle tab,Alternar aba
+Refresh data,Recarregar dados
+Prev tab,Aba anterior
+Next tab,Próxima aba
+Controller.Ready,Pronto
+Friends,Amigos
+MinimumRounds,Mínimo de rodadas
+MaximumRounds,Máximo de rodadas
+Max Monkeys,Máximo de macacos
+Toggle add / remove,Alternar adicionar/remover
+Toggle select / edit,Alternar selecionar/editar
+Camo,Camuflagem
+Couch Co-op,Cooperativo local
+Gift,Presente
+Emote,Reação
+Set Target,Definir alvo
+Return to groups,Voltar para grupos
+TT_FollowCursor,Seguir o cursor
+Toggle Map Dividers,Ativar divisores de mapa
+Send,Enviar
+Upgrade,Melhoria
+NextUpgrade,Próxima melhoria
+CurrentUpgrade,Melhoria atual
+HeroBoosterLocked,Bloqueado
+PrimeGamingText,Colete seus itens do Prime Gaming
+GetNow,Pegue agora
+,
+DarkDungeons,Masmorras Sombrias
+OneTwoTree,Um Dois Três
+BeastHandler,Domador de Feras
+BeastHandlers,Domadores de Feras
+BeastHandler Description,"Pode treinar feras perigosas em terra, água e ar. Em vez de criar mais feras, vários domadores trabalham juntos para aumentar o poder das existentes."
+BeastHandler Short Description,Macaco de Suporte
+Piranha,Piranha
+Microraptor,Microraptor
+Gyrfalcon,Falcão-Gerifalte
+Barracuda,Barracuda
+Adasaurus,Adassauro
+Horned Owl,Corujão
+Great White,Tubarão-Branco
+Velociraptor,Velociraptor
+Golden Eagle,Águia-Real
+Orca,Orca
+Tyrannosaurus Rex,Tiranossauro Rex
+Giant Condor,Condor-Gigante
+Megalodon,Megalodon
+Giganotosaurus,Gigantossauro
+Pouakai,Pouakai
+Piranha Description,"Comande um pequeno, porém agitado peixinho que salta da água e ataca os Bloons."
+Microraptor Description,Comande um dinossaurinho de garras afiadas. Faça ele crescer com mais Domadores de Feras com esta melhoria.
+Gyrfalcon Description,Comande uma nobre pequena ave de rapina que pode pegar e mover Bloons com suas garras.
+Barracuda Description,Os dentes afiados da barracuda podem estourar múltiplas camadas de Bloons. Requer pelo menos 1 outro Domador de Feras com a melhoria Piranha. Máximo de 4 Domadores de Feras contribuindo.
+Adasaurus Description,Os dentes afiados do Adassauro causam muito dano em curta distância. Requer pelo menos 1 outro Domador de Feras com a melhoria Microraptor. Máximo de 4 Domadores de Feras contribuindo.
+Horned Owl Description,"O Corujão é forte o suficiente para pegar e estourar Bloons de Chumbo e Cerâmica, e tem olhos afiados que podem detectar Bloons Camuflados."
+Great White Description,"O Tubarão-Branco destrói os Bloons, incluindo Bloons de Chumbo, com suas presas, arrastando-os para a água se necessário. Requer pelo menos 2 outros Domadores de Feras com a melhoria Barracuda. Máximo de 4 Domadores de Feras contribuindo."
+Velociraptor Description,O Velociraptor corta e mastiga Bloons com uma velocidade incrível. Requer pelo menos 2 outros Domadores de Feras com a melhoria Adassauro. Máximo de 4 Domadores de Feras contribuindo.
+Golden Eagle Description,Experiente em pegar grandes quantidades de Bloons de uma vez. A Águia-Real é tão grande que requer pelo menos 2 outros Domadores de Feras com a melhoria Corujão. Máximo de 4 Domadores de Feras contribuindo.
+Orca Description,A imensa boca da poderosa Orca pode pegar e arrastar todos menos os maiores Bloons para as profundezas. Requer pelo menos 3 outros Domadores de Feras com a melhoria Tubarão-Branco. Máximo de 4 Domadores de Feras contribuindo.
+Tyrannosaurus Rex Description,A imensa mandíbula e dentes afiados do Tiranossauro Rex causam muito dano com cada mordida. Requer pelo menos 3 outros Domadores de Feras com a melhoria Velociraptor. Máximo de 4 Domadores de Feras contribuindo. Habilidade Pisão do T-Rex: atordoa Bloons até ZOMG em uma grande área.
+Giant Condor Description,As grandes garras do temível Condor-Gigante podem pegar Bloons classe MOAB. Requer pelo menos 3 outros Domadores de Feras com a melhoria Águia-Real. Máximo de 4 Domadores de Feras contribuindo.
+Megalodon Description,"Um tubarão realmente colossal com interesse em se alimentar de Bloons, que requer pelo menos 4 outros Domadores de Feras com a melhoria Orca. Máximo de 8 Domadores de Feras contribuindo."
+Giganotosaurus Description,"O maior e mais feroz dinossauro de todos, o Giganotossauro pode dilacerar praticamente qualquer Bloon com facilidade. Requer pelo menos 4 outros Domadores de Feras com a melhoria Tiranossauro Rex. Máximo de 8 Domadores de Feras contribuindo. A habilidade atordoa Bloons até ZOMG em qualquer lugar por mais tempo."
+Pouakai Description,"A lendária ave Pouakai, um pássaro tão grande que pode pegar, carregar e destruir quase qualquer quantidade de Bloons de quase qualquer tamanho. Requer pelo menos 4 outros Domadores de Feras com a melhoria Condor-Gigante. Máximo de 8 Domadores de Feras contribuindo."
+T Rex Stomp Ability,Pisão do T-Rex
+T Rex Stomp Ability Description,Atordoa Bloons até ZOMG em uma grande área.
+Giganotosaurus Stomp Ability,Pisão do Giganotossauro
+Giganotosaurus Stomp Ability Description,Atordoa Bloons até ZOMG em qualquer lugar por mais tempo.
+Move,Mover
+NeedsBeastHandlers,Requer fera
+NeedsWater,Requer água
+NeedsTrack,Requer pista
+Dreadbloon,Dreadbloon
+DreadbloonTagLine,Das profundezas da terra sombria...
+DreadbloonTagLine2,a monstruosidade blindada!
+DreadbloonInfoPanelDescription,"\n• Dreadbloon tem propriedades de Chumbo e reduz todo dano recebido em 1.\n• Quando cada caveira é alcançada, o Dreadbloon gera uma armadura de cerâmica e Bloons Dreadrock começarão a surgir no início da pista.\n• Quando o Dreadbloon aparece, ele é imune a torres primárias. A cada caveira, essa imunidade muda para um tipo diferente de torre: militar, mágicos, suporte.\n• Bloons Dreadrock e a armadura de cerâmica também têm essas imunidades.\n• Bloons Dreadrock têm uma provocação forte. Tome cuidado com onde suas torres miram!"
+DreadbloonPrimaryImmunity,Imune a: primários
+DreadbloonMilitaryImmunity,Imune a: militares
+DreadbloonMagicImmunity,Imune a: mágicos
+DreadbloonSupportImmunity,Imune a: suporte
+Resist,Resistência
+Immune,Imune
+SleighCaptainChurchillSkinName,Visual do Churchill de Trenó
+SleighCaptainChurchillSkinDescription,Destruindo Bloons com o espírito do Natal. Um presente explosivo por vez.
+SleighCaptainChurchillSkinNameFull,Churchill de Trenó
+GameUIProfileBanner23Name,Bandeira de Perfil Brincadeira na Neve
+GameUIProfileBanner23ShortName,Bandeira Brincadeira na Neve
+GameUIProfileBanner23Description,Comemore a diversão do fim de ano agora ou no ano inteiro com essa divertida bandeira gelada. Item de colecionador por tempo limitado!
+GameUIProfileBanner24Name,Bandeira de Perfil Lâminas Bumerangue
+GameUIProfileBanner24ShortName,Bandeira Lâminas Bumerangue
+GameUIProfileBanner24Description,Bandeira vencedora por ReconScoutTeemo
+GameUIProfileBanner25Name,Bandeira de Perfil Glifos
+GameUIProfileBanner25ShortName,Bandeira Glifos
+GameUIProfileBanner25Description,Bandeira vencedora por PvtMagnuS
+GameUIProfileAvatar65Name,Avatar Personalizado - Guirlanda de Natal
+GameUIProfileAvatar65ShortName,Avatar Guirlanda de Natal
+GameUIProfileAvatar65Description,"Espalhe sorte e alegria para todos com esse avatar Guirlanda de Natal. Item de colecionador por tempo limitado!"
+GameUIProfileAvatar66Name,Avatar Personalizado - Avatar da Fúria
+GameUIProfileAvatar66ShortName,Avatar da Fúria
+GameUIProfileAvatar66Description,"Finalmente! Quanto tempo levou pra me colocar nisso aqui?! Avatar está no meu nome, pelo amor das bananas!"
+GameUIProfileAvatar67Name,Avatar Personalizado - Boas Festas
+GameUIProfileAvatar67ShortName,Avatar Boas Festas
+GameUIProfileAvatar67Description,"A empolgação do Etienne em ganhar outro drone de Natal encheria o coração de qualquer um de alegria. Item de colecionador por tempo limitado!"
+GameUIProfileAvatar68Name,Avatar Personalizado - Zero Absoluto
+GameUIProfileAvatar68ShortName,Avatar Zero Absoluto
+GameUIProfileAvatar68Description,"Se demonstrar frieza é importante, então não tem como errar com esse avatar do Macaco de Gelo."
+CoopEmoteAnimationSleighbellsName,Animação Neve e Sinos
+CoopEmoteAnimationSleighbellsShortName,Sinos
+CoopEmoteAnimationSleighbellsDescription,"Pegue essa reação de tela inteira de Natal maravilhosa e espalhe a alegria para o jogador 1, 2 ou 4! Item de colecionador por tempo limitado!"
+TowerProjectileBananaFarmPresentsName,Bananas de Presente na Fazenda de Bananas
+TowerProjectileBananaFarmPresentsShortName,Presentes na Fazenda de Bananas
+TowerProjectileBananaFarmPresentsDescription,"Nada melhor que Fazendas de Bananas que dão presentes! O que tem nos presentes? Bananas, é claro! Item de colecionador por tempo limitado!"
+TowerProjectileDartMonkeySnowballsName,Projétil Bolas de Neve do Macaco Dardo
+TowerProjectileDartMonkeySnowballsShortName,Bolas de Neve do Macaco Dardo
+TowerProjectileDartMonkeySnowballsDescription,"Não sabemos bem como ficaram tão bons crescendo na selva, mas tente usar esse projétil e veja porque os Macacos Dardos sempre vencem as batalhas de bola de neve. Item de colecionador por tempo limitado!"
+TowerProjectileTackShooterIciclesName,Projétil Sincelos e Flocos de Neve do Cospe Tachinha
+TowerProjectileTackShooterIciclesShortName,Sincelos do Cospe Tachinha
+TowerProjectileTackShooterIciclesDescription,"Se você adora o combo Cospe Tachinha e Macaco de Gelo, ele vai brilhar ainda mais quando as tachinhas forem sincelos e as lâminas forem flocos de neve. Item de colecionador por tempo limitado!"
+TowerProjectileNinjaMonkeySnowflakesName,Projétil Flocos de Neve do Macaco Ninja
+TowerProjectileNinjaMonkeySnowflakesShortName,Flocos de Neve do Macaco Ninja
+TowerProjectileNinjaMonkeySnowflakesDescription,Floco de neve delicado\nJogado pelo ninja\nSimetria cortante\n\nItem de colecionador por tempo limitado!
+BuildingPropChristmasTreeName,Construção Árvore de Natal
+BuildingPropChristmasTreeShortName,Construção Árvore de Natal
+BuildingPropChristmasTreeDescription,Mudar sua base pra uma árvore?! Onde os macacos vão morar? Espera... Deixa pra lá.\nDeixe sua equipe no clima das festas com essa base de árvore de Natal. [Espaço de construção principal]
+BasePropCosyBeanbagMonkeyName,Macaco Pufe Aconchegante
+BasePropCosyBeanbagMonkeyShortName,Macaco Pufe Aconchegante
+BasePropCosyBeanbagMonkeyDescription,O pufe. O símbolo máximo do relaxamento. Inclui um macaco relaxando! [Espaço de ilha]
+TeamsBanner9Name,Bandeira Floco de Neve Delicado
+TeamsBanner9ShortName,Bandeira Floco de Neve Delicado
+TeamsBanner9Description,"A complexidade simples de um floco de neve é perfeita, assim como sua equipe."
+TeamsBanner10Name,Bandeira Banana Assada
+TeamsBanner10ShortName,Bandeira Banana Assada
+TeamsBanner10Description,Deixa sua equipe salivando com bananas assadas na fogueira!
+TeamsEmblemFrame12Name,Moldura de Bloon
+TeamsEmblemFrame12ShortName,Moldura de Bloon
+TeamsEmblemFrame12Description,Transforme sua equipe nos inimigos de todos com essa moldura impiedosa de Bloon.
+TeamsEmblemFrame13Name,Moldura Militar
+TeamsEmblemFrame13ShortName,Moldura Militar
+TeamsEmblemFrame13Description,Uma equipe entusiasmada não é nada sem estrutura e disciplina.
+TeamsEmblemIcon15Name,Ícone de Coroa
+TeamsEmblemIcon15ShortName,Ícone de Coroa
+TeamsEmblemIcon15Description,Ajude sua equipe a reclamar o trono de dardos.
+TeamsEmblemIcon16Name,Ícone de Alienígena
+TeamsEmblemIcon16ShortName,Ícone de Alienígena
+TeamsEmblemIcon16Description,Um ícone para quando sua equipe é de outro mundo!
+Achievement 146 Name,Missão Paralela
+Achievement 146 Description,Conclua uma missão.
+Achievement 147 Name,Revigoramento
+Achievement 147 Description,Tenha 75 vantagens ativas em seus macacos de uma vez.
+Achievement 148 Name,Treinamento da Liga Mundial
+Achievement 148 Description,Obtenha 150.000 XP com o Domador de Feras.
+CompleteQuestMessage,Conclua a missão
+QuestUnlocksAtLevelXMessage,Missão libera<br>Nível {0}
+QuestComplete,Missão concluída!
+BeastHandlerQuestName,Missão da Fera Épica
+BeastHandlerQuestReward,Libere o Domador de Feras e mais!
+BeastHandlerQuest1Name,Caminho da Terra
+BeastHandlerQuest1Description,Treine dinossauros mortais na Pedreira.
+BeastHandlerQuest1Victory,Parabéns! Você concluiu o Caminho da Terra!
+BeastHandlerQuest2Name,Caminho da Água
+BeastHandlerQuest2Description,Crie peixes ferozes nas Ilhas das Especiarias.
+BeastHandlerQuest2Victory,Parabéns! Você concluiu o Caminho da Água!
+BeastHandlerQuest3Name,Caminho do Ar
+BeastHandlerQuest3Description,Choque poderosas aves em Partido.
+BeastHandlerQuest3Victory,Parabéns! Você concluiu o Caminho do Ar!
+DialogBeastHandlerQuest1UI1,Os Domadores de Feras deixaram a vila alguns anos atrás em uma missão para encontrar feras épicas e eles quase conseguiram!
+DialogBeastHandlerQuest1UI2,"Se você puder ajudá-los a concluir a missão, eles vão voltar e se juntar a nós em nossa batalha contra os Bloons!"
+DialogBeastHandlerQuest1InGame1,Os Domadores de Feras ouviram histórias sobre um ovo misterioso e domaram sua primeira fera épica!
+DialogBeastHandlerQuest1InGame2,Ajude-os a descobrir tudo sobre essas feras terríveis!
+DialogBeastHandlerQuest2UI1,Incrível! Os Domadores de Feras trabalham com feras terríveis como se fossem bichinhos de estimação. E eles descobriram como combinar e fortalecê-las trabalhando juntos.
+DialogBeastHandlerQuest2UI2,"Não entendo da biologia, mas as combinações são certamente mais poderosas. Elas levaram os Domadores de Feras a outro ovo."
+DialogBeastHandlerQuest2UI3,Mal posso esperar pra ver o que encontraram!
+DialogBeastHandlerQuest3UI1,"Tão engenhosos para treinar feras aquáticas tão terríveis para ajudar a enfrentar os Bloons na água, e encontrar tesouros ocultos na água, como o terceiro ovo."
+DialogBeastHandlerQuest3UI2,"Depois que você ajudar os Domadores de Feras a domar a terceira fera, eles poderão entrar na equipe!"
+,
+RemoveProviderFromAccount,Tem certeza que quer remover esse provedor da sua conta? <br><br><b>Pode levar até 3 horas para o provedor ser removido da conta.</b>
+ProviderRemovedText,Provedor removido.<br><br>Essa página será fechada em breve.
+AdditionalAccountLinks,Conexões de conta adicionais
+LoginWithAmazon,Entre com a Amazon
+LinkingCodeButton,Obtenha um código de ligação
+LinkingCodeMessage,Abra o jogo no seu outro dispositivo e insira o seguinte código quando solicitado. Este código é válido por 10 minutos.
+Rate Expires In,Ganho expira em
+Rate,Ganho
+CoopGameSyncFailed,Falha ao sincronizar configurações do jogo. Tente um jogo novo.
+iCloudTitle,iCloud
+iCloudDisabled,iCloud desabilitada
+iCloudEnabled,iCloud habilitada
+DialogBeastHandlerQuest1InGameTowerUpgrade1,"Nossa, aquela fera é tão forte que são necessários DOIS manipuladores de feras para mantê-la sob controle!"
+Buffed,Fortalecido
+Assisting,auxiliando
+Select Point On Track,Selecionar ponto na trilha

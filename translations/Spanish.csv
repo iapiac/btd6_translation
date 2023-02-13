@@ -101,7 +101,7 @@ Quincy Level 15 Description,La velocidad de ataque del tiro rápido se cuadrupli
 Quincy Level 16 Description,Velocidad de ataque aumentada aún más.
 Quincy Level 17 Description,Las flechas duran un 25 % más. Dispara flechas explosivas cada 2º tiro.
 Quincy Level 18 Description,"Quincy ataca mas rápido, y la Tormenta de Flechas tarda menos en recuperarse y tiene un 50 % más de flechas."
-Quincy Level 19 Description,Cada flecha recibe más potencia reventadora.
+Quincy Level 19 Description,Dispara 3 flechas a la vez y cada una recibe más potencia reventadora.
 Quincy Level 20 Description,Quincy ataca aún más rápido. Tormenta de flechas hace más daño por flecha y dispara más.
 ,
 StrikerJones Level 1 Description,Striker Jones dispara una bazuca potente para reventar a los bloons.
@@ -697,10 +697,10 @@ Enhanced Eyesight Description,Dispara aún más lejos y puede detectar camufloon
 Spike-o-pult Description,Convierte al mono dardero en una clavopulta que ataca más lento y lanza bolas claveteadas grandes en vez de dardos. Cada bola revienta muchos bloons y rebota en los obstáculos.
 Triple Shot Description,Lanza 3 dardos al mismo tiempo en vez de 1.
 Crossbow Description,Usa una ballesta de largo alcance capaz de reventar 3 capas de bloons en cada impacto.
-Juggernaut Description,Lanza una bola claveteada gigante que revienta bloons emplomados y es ideal para destruir bloons cerámicos.
+Juggernaut Description,Lanza una bola claveteada gigante que revienta bloons emplomados y es ideal para destruir bloons cerámicos y fortificados.
 Super Monkey Fan Club Description,Habilidad del club de fans del supermono: convierte a hasta 10 monos darderos incluido él mismo en supermonos durante 15 segundos. También aumenta la velocidad de ataque regular.
 Sharp Shooter Description,El tirador afilado ejecuta ataca más rápido y ejecuta críticos que hacen mucho más daño cada varios disparos.
-Ultra-Juggernaut Description,La bola claveteada gigante se divide dos veces y forma 6 bolas leviatanes que tienen aún más poder destructivo.
+Ultra-Juggernaut Description,La bola claveteada gigante se divide dos veces y forma 6 bolas leviatanes que tienen aún más poder destructivo contra bloons cerámicos y fortificados.
 Plasma Monkey Fan Club Description,Una membresía de élite de este club otorga aún más potencia a los monos darderos.
 Crossbow Master Description,El amo ballestero dispara muy rápido y aniquila a la mayoría de tipos de bloons con facilidad.
 ,
@@ -756,11 +756,11 @@ Permafrost Description,Los bloons se mueven más despacio incluso después de de
 Enhanced Freeze Description,Ataca más rápido y congela por más tiempo.
 Larger Radius Description,Área de congelamiento mayor.
 Metal Freeze Description,Puede congelar y reventar bloons emplomados y camuflados.
-Deep Freeze Description,Convela una capa más y el congelamiento dura más.
+Deep Freeze Description,"Aumenta la perforación, congela una capa más y el congelamiento dura más."
 Re-Freeze Description,Puede volver a congelar bloons que ya están congelados.
 Ice Shards Description,"Cuando los bloons congelados revientan, despiden esquirlas afiladísimas."
 Arctic Wind Description,Aumenta mucho la perforación y gana un aura superfría que desacelera a los bloons y congela el agua cercana.
-Cryo Cannon Description,Dispara bombas congelantes a los bloons con un alcance mayor.
+Cryo Cannon Description,Dispara bombas congelantes más pequeñas a los bloons y tiene más alcance.
 Embrittlement Description,"Ataca a los bloons clase MOAB y todos los bloons golpeados se vuelven frágiles, reciben daño extra cuando están congelados y pierden el camuflaje."
 Snowstorm Description,"Habilidad Tormenta de nieve: congela a todos los bloons en pantalla, congela durante un tiempo corto a los blancos, cebras y camufloons y desacelera a los clase MOAB."
 Icicles Description,A los bloons congelados les salen estalactitas que revientan a los bloons que los tocan.
@@ -774,10 +774,10 @@ Stickier Glue Description,Hace que el efecto del pegamento dure mucho más.
 Corrosive Glue Description,A los bloons con pegamento se les revienta una capa cada unos pocos segundos.
 Glue Splatter Description,Puede salpicar pegamento hasta 6 bloons por tiro.
 Stronger Glue Description,Desacelera a los bloons aún más.
-Bloon Dissolver Description,Los solventes de gran potencia funden dos capas por segundo.
+Bloon Dissolver Description,Puede pegar un bloon más por disparo y los solventes funden dos capas por segundo.
 Glue Hose Description,Dispara pegamento el triple de rápido.
 MOAB Glue Description,Una fórmula de pegamento mejorada le permite pegarse a los bloons clase MOAB.
-Bloon Liquefier Description,Pega un bloon más por tiro y aplica compuestos licuadores que causan 10 estallidos cada segundo.
+Bloon Liquefier Description,Aplica compuestos licuadores que causan 10 estallidos por segundo.
 Glue Strike Description,Habilidad Ataque pegajoso: pega a todos los bloons en pantalla y hace que reciban más daño de todos los ataques mientras dura.
 Relentless Glue Description,Revienta a los bloons que estaban pegados y deja una mancha de pegamento en el camino.
 The Bloon Solver Description,¿Los bloons son un problema? Esta es la solución.
@@ -875,10 +875,10 @@ Heavy Shells Description,"Los proyectiles pesados hacen más daño a los bloons 
 Signal Flare Description,Los camufloons reventados por bengalas pierden su camuflaje para siempre.
 The Big One Description,Cada explosión devastadora revienta 7 capas de bloons y aumenta más el daño de Cosa quemadora.
 Artillery Battery Description,Habilidad Bombardeo: activa un ataque de fuego rápido en un área un poco mayor. El ataque principal hace más daño a BAD y bloons jefes y se mejora a 3 cañones para lanzar disparos muy rápidos.
-Shattering Shells Description,Los proyectiles devastadores les quitan las propiedades especiales a todos los bloons excepto los más grandes.
+Shattering Shells Description,Los proyectiles devastadores quitan las propiedades especiales a todos los bloons excepto los más grandes y queman a los clase MOAB para causar más daño.
 The Biggest One Description,Destruye a los bloons y las capas en un área enorme y Cosa quemadora causa mucho daño.
 Pop and Awe Description,"Habilidad Dominio total: suelta explosiones sobre toda la pantalla, que revientan e inmovilizan a todos los bloons durante unos segundos. Las piezas de artillería hacen más daño a los BAD y bloons jefes. El ataque principal gana más daño a bloons aturdidos."
-Blooncineration Description,La sustancia superardiente derrite 5 capas de bloon en cada disparo y quema a los bloons clase MOAB para hacerles daño adicional.
+Blooncineration Description,La sustancia superardiente derrite 5 capas de bloon en cada disparo e incinera a los bloons clase MOAB para hacerles mucho daño.
 ,
 Focused Firing Description,Aumenta la precisión de la pistola dardera.
 Advanced Targeting Description,Permite que el pistolero movedizo alcance a los bloons camuflados.
@@ -909,7 +909,7 @@ Shimmer Description,Gana un ataque de magia oscura que revela la ubicación de t
 Arcane Spike Description,Magia de disparo más rápido hace un daño enorme a casi todos los tipos de Bloons.
 Summon Phoenix Description,Habilidad Invocación de fénix: el poderoso fénix hace estragos entre los bloons durante 20 segundos.
 Necromancer: Unpopped Army Description,"Reanima a los enemigos reventados hace poco, que se vuelven sirvientes destructores de bloons."
-Archmage Description,Un verdadero amo de la hechicería mágica.
+Archmage Description,Un verdadero amo de la hechicería mágica. Ataca más rápido y causa más daño a los bloons clase MOAB.
 Wizard Lord Phoenix Description,El amo hechicero se vuelve un amo de las llamas y se convierte en un fénix de lava superpoderoso por poco tiempo.
 Soulbind Description,Reanima Bloons sirvientes aún más poderosos para despedazar al enemigo y mejora a todos los otros Nigromantes.
 ,
@@ -971,7 +971,7 @@ Druid of the Storm Description,La ráfagas de viento vuelan a los bloons del cam
 Druid of the Jungle Description,Hace crecer unas enredaderas que atrapan y aplastan a los bloons uno a la vez. Deja una pila de espinas letales.
 Druid of Wrath Description,Gana velocidad de ataque durante la ronda siempre que el druida esté atacando a bloons.
 Ball Lightning Description,Crea bolas de rayo poderosas que disparan rayos adicionales y congelan a los bloons.
-Jungle's Bounty Description,Habilidad La abundancia de la selva: genera dinero adicional por cada bananal cerca del druida. También puede atrapar a dos bloons con enredaderas a la vez.
+Jungle's Bounty Description,Habilidad La abundancia de la selva: genera dinero cada vez que se usa y suma dinero adicional por cada bananal cerca del druida. Invoca a dos enredaderas que atrapan a los bloons y las espinas tienen más perforación.
 Poplust Description,Potencia la velocidad de ataque y perforación de otros druidas en su radio. Puede acumularse hasta 5 veces en un mismo druida.
 Superstorm Description,"La Supertormenta impacta en todos los tipos de bloon, hace un daño enorme y los aleja de la salida."
 Spirit of the Forest Description,Hace crecer unas enredaderas espinosas en el camino que causan daño constante y daño adicional a los bloons cerámicos. Las más cercanas al espíritu del bosque hacen más daño. La habilidad activada genera vidas y más dinero.
@@ -1660,11 +1660,11 @@ btd6_herobooster Description,El héroe seleccionado en la partida actual se adqu
 btd6_powersattackpack,Paquete de poderes de ataque
 btd6_powersattackpack Description,Un surtido de {0} poderes moneriles pensados para la batalla.
 btd6_instatowerspack,Paquete instamonos
-btd6_instatowerspack Description,"5 torres de monos listas para colocarse sin costo de dinero del juego. Contiene 2 de grado 1, 2 de grado 2 y 1 de grado 3."
+btd6_instatowerspack Description,"5 torres de monos listas para colocarse sin costo de dinero del juego. Contiene 2 de grado 1, 2 de grado 2 y 1 de grado 3. Los monos dentro de cada grado tienen la misma probabilidad de aparición."
 btd6_tier3instatowerspack,Paquete instamonos de grado 3
-btd6_tier3instatowerspack Description,10 torres de monos de grado 3 instantáneas y listas para colocarse sin costo de dinero del juego.
+btd6_tier3instatowerspack Description,10 torres de instamonos de grado 3 listas para colocarse sin costo de dinero del juego. La probabilidad de aparición de cada mono es la misma.
 btd6_tier4instatowerspack,Paquete instamonos de grado 4
-btd6_tier4instatowerspack Description,10 torres de monos de grado 4 instantáneas y listas para colocarse sin costo de dinero del juego.
+btd6_tier4instatowerspack Description,10 torres de instamonos de grado 4 y listas para colocarse sin costo de dinero del juego. La probabilidad de aparición de cada mono es la misma.
 btd6_needmoremonkeymoneyprompt,No hay mónares suficientes. ¿Comprar más?
 ,
 ,
@@ -1678,11 +1678,11 @@ btd6_extramonkeymoney Description,¡Oferta especial! {0} mónares a precios muy 
 btd6_powerspandamonium,Pandemonio de poderes
 btd6_powerspandamonium Description,¡Con nuestros poderes combinados! {0} de los mejores poderes moneriles que puedes tener en un solo paquete.
 btd6_instatowersmegabooster,Megapotenciador de instamonos
-btd6_instatowersmegabooster Description,"Este megapaquete contiene todas estas torres de monos instantáneas: 5 de grado 2, 12 de grado 3 y 3 de grado 4, listas para colocarse sin costo de dinero del juego."
+btd6_instatowersmegabooster Description,"Este megapaquete contiene todas estas torres de instamonos: 5 de grado 2, 12 de grado 3 y 3 de grado 4, listas para colocarse sin costo de dinero del juego. Los monos dentro de cada grado tienen la misma probabilidad de aparición."
 btd6_megamonkeycompendiumpack,Megapaquete compendio moneril
-btd6_megamonkeycompendiumpack Description,"Un paquete enorme lleno de cosas increíbles. 25 000 mónares, 100 poderes de ataque, 30 torres de monos instantáneas de grado 3, 15 torres de monos instantáneas de grado 4, 5 torres de monos instantáneas de grado 5 y conocimiento desbloqueado (rango 30, 5 "
+btd6_megamonkeycompendiumpack Description,"Un paquete enorme lleno de cosas increíbles. 25 000 mónares, 100 poderes de ataque, 30 torres de monos instantáneas de grado 3, 15 torres de monos instantáneas de grado 4, 5 torres de monos instantáneas de grado 5 y conocimiento desbloqueado (rango 30, 5 puntos adicionales de conocimiento moneril). Los monos dentro de cada grado tienen la misma probabilidad de aparición."
 btd6_tier5instatowerpack,Paquete instamonos de grado 5
-btd6_tier5instatowerpack Description,10 torres de monos de grado 5 listas para colocarse sin costo de dinero del juego.
+btd6_tier5instatowerpack Description,10 torres de monos de grado 5 listas para colocarse sin costo de dinero del juego. La probabilidad de aparición de cada mono es la misma.
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,Oferta de pila de mónares
@@ -2042,6 +2042,8 @@ Swedish,Sueco
 Turkish,Turco
 Korean,Coreano
 Japanese,Japonés
+Polish,Polaco
+Monkelish,Monesco
 ,
 Backup,Respaldo
 Profile,Cuenta
@@ -2461,11 +2463,11 @@ EditorLockedShareButtonDescription,"Para compartir el desafío, debes demostrar 
 ConflictScreenChoose,Elige una partida guardada
 ConflictThisDevice,Este dispositivo
 ConflictCloud,En la nube
-ConflictTimeHours,Se guardó hace {0} horas
 ConflictUseButton,Usar
 ConflictNoData,No hay datos
-ConflictTimeMinutes,Se guardó hace {0} minutos
 ConflictTimeSeconds,Se guardó hace {0} segundos
+ConflictTimeMinutes,Se guardó hace {0} minutos
+ConflictTimeHours,Se guardó hace {0} horas
 ConflictTimeDays,Se guardó hace {0} días
 FasterMoabs,Aumentó la velocidad de los MOAB
 SlowerMoabs,Disminuyó la velocidad de los MOAB
@@ -2751,8 +2753,8 @@ DarkKnightDarkshift,[I] para usar Desvío oscuro dentro del alcance
 DarkChampionDarkshift,[I] para usar Desvío oscuro a cualquier ubicación válida
 SmallTowersMode,Torres moneriles pequeñas
 BigTowersMode,Torres moneriles grandes
-UpdatePopupTitle,¡Actualización 33!
-UpdatePopupDescription,"¡Gran actualización de contenido!\n• Desata al increíble artillero Goliat, ejemplar del mono as\n• Cultiva un poco de potencia reventadora en el mapa intermedio Jardín cubierto diseñado por SuperPsou, que ganó la competencia de mapas de la comunidad.\n• Merodea por las salas del nuevo mapa avanzado Mansión de medianoche\n• ¡Objetos de la tienda de trofeos, mejoras de calidad, cambios de equilibrio y mucho más!"
+UpdatePopupTitle,¡Actualización 34!
+UpdatePopupDescription,"¡Gran actualización para las fiestas!\n• Lucha contra las resistencias e inmunidades impresionantes del leviatán blindado, el bloon acorazado.\n• Descubre las colocaciones para potenciar las torres en el mapa nuevo para principiantes Uno, dos, tres.\n• Elimina bloons con espíritu festivo gracias al aspecto nuevo Churchill con trineo.\n• Objetos de la tienda de trofeos, mejoras de calidad, cambios de equilibrio y mucho más.\n• ¡Felices fiestas y los mejores deseos de Año Nuevo de todo el equipo de Ninja Kiwi!"
 ResetDailyChest,Restablecer cofre diario
 JukeboxName,Rocola
 EnableFunction,Habilitar
@@ -4144,7 +4146,7 @@ MonkeyBuccaneer Paragon,Navarca de los mares
 MonkeyBuccaneer Paragon Description,Lo más impresionante que alguna vez surcó las aguas.
 HeroesPsiPetBisonName,Mascota bisonte de Psi
 HeroesPsiPetBisonShortName,Mascota bisonte de Psi
-HeroesPsiPetBisonDescription,Un espécimen ejemplar de la familia de los ungulados que Psi adora. Solo Psi original ,)
+HeroesPsiPetBisonDescription,Un espécimen ejemplar de la familia de los ungulados que Psi adora. Solo Psi original 
 TowerPropMonkeyVillageAustralianFlagName,Bandera de Australia para la monoaldea
 TowerPropMonkeyVillageAustralianFlagShortName,Bandera de Australia
 TowerPropMonkeyVillageAustralianFlagDescription,"¡Vamos, Australia! ¡Oi, oi, oi! Esta bandera para la monoaldea aparece en todas las actualizaciones."
@@ -4484,7 +4486,7 @@ GenieBottle,Botella de genio
 ParagonPowerTotem,Tótem de poder modelo
 FriendScreenErrorRequestFailed,Solicitud de amistad fallida
 FriendScreenErrorInvalidCode,Código de amigo no válido
-FriendScreenErrorBlocked,Disculpa, el jugador que intentas agregar bloqueó las solicitudes de amistad.
+FriendScreenErrorBlocked,"Disculpa, el jugador que intentas agregar bloqueó las solicitudes de amistad."
 FriendScreenErrorAlreadySent,Ya enviaste una solicitud de amistad a este jugador.
 FriendScreenErrorTooManyFriends,Alcanzaste el límite máximo de amigos. Puedes hacer lugar quitando a un amigo existente o cancelando una solicitud de amistad que hayas hecho.
 MapEditor,Editor de mapas
@@ -4554,15 +4556,14 @@ AgeQuestion,¿Tienes {0} años o más?
 AgeYes,"Sí, tengo {0} años o más."
 AgeNo,"No, tengo menos de {0}."
 PersonalAccountInfo,"Puedes crear una cuenta personal sin usar información que permita identificarte.
-Cuando eliges Acepto, significa que tu madre, padre o tutor revisó la política de privacidad y los términos de servicio de Ninja Kiwi contigo y que los acepta junto con nuestra capacidad de almacenar tu información de juego y de cuenta (que no permite identificarte). Los datos se almacenan mediante nuestro servicio, que incluye el uso de servidores ubicados en EE. UU."
+Cuando elige Acepto, tu padre o tutor indica que revisó la política de privacidad y los términos de servicio de Ninja Kiwi contigo y que los acepta, además de que acepta que almacenemos tus partidas e información que no permite la identificación personal en nuestro servicio, que incluye el uso de servidores localizados en EE. UU."
 AgreeCreateAccount,"Acepto, crear una cuenta"
 NormalAccountInfo,"Si continúas, aceptas la política de privacidad y los términos de servicio de Ninja Kiwi junto con nuestra capacidad de almacenar tu información de juego y de cuenta mediante nuestro servicio, que incluye el uso de servidores ubicados en EE. UU."
 LoggedInAs,Iniciaste sesión como:
 EpicAccountId,ID de cuenta de Epic:
 NeedHelp,¿Necesitas ayuda?
 ContactSupport,Hablar con soporte técnico
-DeleteAccountText,"Si eliminas la cuenta, perderás acceso al progreso y los datos en la nube.
-Escribe tu ID de usuario (como aparece abajo) en el cuadro para eliminar la cuenta. El proceso puede demorar de 48 a 72 horas."
+DeleteAccountText,"Si eliminas la cuenta, perderás acceso al progreso y los datos en la nube."
 EnterUserId,Escribe la ID de usuario aquí
 GetAllButton,Obtener todo
 GetAllConfirmation,¡Confirma que quieres gastar tus Mónares para obtener todos los héroes y aspectos disponibles!
@@ -4723,17 +4724,17 @@ RelicMilitaryMonkeys,Monos militares
 RelicMagicMonkeys,Monos mágicos
 RelicSupportSimians,Refuerzo primate
 RelicMonkeyTycoon,Mono magnate
-RelicStartingStashDescription,Comienza cada partida con 300 de dinero extra (se apila con Más dinero en casillas normales)
+RelicStartingStashDescription,Comienza cada partida con 250 de dinero adicional (se apila con Más dinero en casillas normales)
 RelicExtraEmpoweredDescription,Tu héroe comienza una partida con 3 niveles extra (se apila con Héroes empoderados en casillas normales)
 RelicBoxOfChocolatesDescription,Comienza cada partida con 100 vidas extra
-RelicBoxOfMonkeyDescription,Comienza cada partida con un mono gratis que cueste $500 o menos para una ubicación inicial no modificada
+RelicBoxOfMonkeyDescription,Comienza cada partida con un mono gratis que cueste $400 o menos para una ubicación inicial no modificada
 RelicMarchingBootsDescription,"En partidas de conteo restringidas, da a los jugadores +1 máx. conteo de cada torre en su armamento o +4 máx. conteo total por partida"
 RelicHeroBoostDescription,Los héroes ganan PE un 15 % más rápido en cada partida
 RelicBiggerBloonSabotageDescription,Todos los bloons clase MOAB se generan con un 15 % menos de salud y se mueven al 95 % de velocidad
 RelicRoundingUpDescription,Gana +$20 al final de cada ronda
 RelicManaBulwarkDescription,Crea un escudo especial que absorbe hasta 50 vidas (se apila con Escudo de maná en casillas normales)
-RelicRegenerationDescription,Restaura 10 vidas por ronda hasta el valor de vidas inicial de cada partida si no se perdieron vidas en esa ronda
-RelicRestorationDescription,Restaura 20 vidas por ronda hasta un valor de vidas inicial incrementado de +200 si no se perdieron vidas en esa ronda
+RelicRegenerationDescription,Restaura 20 vidas por ronda hasta el valor de vidas inicial de cada partida si no se perdieron vidas en esa ronda
+RelicRestorationDescription,Restaura 10 vidas por ronda hasta un valor de vidas inicial incrementado de +200 si no se perdieron vidas en esa ronda
 RelicDurableShotsDescription,Todos los proyectiles tienen un promedio de vida de +25 %
 RelicAlchemistTouchDescription,Todos los ataques revientan bloons emplomados
 RelicDeepHeatDescription,Todos los ataques revientan bloons blancos
@@ -4741,14 +4742,14 @@ RelicSharpsplosionDescription,Todos los ataques revientan bloons negros
 RelicRoyalTreatmentDescription,Todos los ataques revientan bloons violetas
 RelicHardBakedDescription,Todos los ataques hacen +1 de daño a bloons cerámicos
 RelicFortifriedDescription,Todos los ataques hacen +1 de daño a bloons fortificados
-RelicMoabClashDescription,Todos los ataques hacen +3 de daño a bloons clase MOAB
+RelicMoabClashDescription,Todos los ataques hacen +2 de daño a bloons clase MOAB
 RelicCamoFloggedDescription,Todos los ataques hacen +3 de daño a camufloons
 RelicBrokenHeartDescription,Todos los ataques hacen +1 de daño a bloons regenerativos
 RelicGoingTheDistanceDescription,Todos los monos ganan +20 % de alcance
-RelicHeartlessDescription,La tasa de regeneración de los bloons regenerativos se reduce en un 25 %
+RelicHeartlessDescription,La tasa de regeneración de los bloons regenerativos se reduce en un 50 %
 RelicFlintTipsDescription,"Los proyectiles filosos agregan un toque de fuego a todos los bloons que dañan (1 daño cada 2,5 seg. durante 5 seg. en total)"
 RelicAbilitizedDescription,Los tiempos de recuperación de todas las habilidades activadas se reducen en un 10 %
-RelicAirAndSeaDescription,"As, heli, bucanero y sub tienen una reducción en los costos de colocación y mejora de un 10 % y una mejora en la recarga de un 5 %"
+RelicAirAndSeaDescription,"As, heli, bucanero y sub tienen una reducción en los costos de colocación y mejora de un 5 % y una mejora en la recarga de un 5 %"
 RelicElDoradoDescription,Todos los Mónares y las recompensas de trofeos de equipo de las victorias de partidas aumentan en un 25 % (mínimo +1)
 RelicMonkeyShieldDescription,"Durante 1 hora tras su captura, la casilla no puede ser atacada por equipos oponentes. La puntuación mejorada se reactiva."
 RelicMonkeyShieldMark2Description,"Durante 2 horas tras su captura, la casilla no puede ser atacada por equipos oponentes. La puntuación mejorada se reactiva."
@@ -4763,11 +4764,11 @@ RelicRoadSpikesDescription,Otorga 10 apilamientos de abrojos por partida
 RelicMoabMineDescription,Otorga el uso de 1 potenciador Mina de MOAB por partida
 RelicGlueTrapDescription,Otorga el uso de 2 potenciadores Pegatrampa por partida
 RelicTechbotDescription,Otorga el uso de 1 potenciador Tecnobot por partida
-RelicPrimaryPrimatesDescription,Reduce el costo de todos los monos primarios en un 10 %
-RelicMilitaryMonkeysDescription,Reduce el costo de todos los monos militares en un 10 %
-RelicMagicMonkeysDescription,Reduce el costo de todos los monos mágicos en un 10 %
+RelicPrimaryPrimatesDescription,Reduce el costo de todos los monos primarios en un 8 %
+RelicMilitaryMonkeysDescription,Reduce el costo de todos los monos militares en un 8 %
+RelicMagicMonkeysDescription,Reduce el costo de todos los monos mágicos en un 8 %
 RelicSupportSimiansDescription,Reduce el costo de todos los monos de refuerzo en un 10 %
-RelicMonkeyTycoonDescription,Obtienes +1 en todas las torres de monos de tu arsenal y su precio de base se reduce en un 5 %.
+RelicMonkeyTycoonDescription,Obtienes +1 en todas las torres de monos de tu arsenal y su precio de base se reduce en un 4 %.
 InviteToTeam,Invitar al equipo
 TeamLeave,Abandonar equipo
 Requests,Solicitudes
@@ -4801,7 +4802,7 @@ TeamDemoteMember,¿Confirmas que quieres degradar a este miembro?
 TeamErrorShowPop,Error de equipo
 TeamOwnershipTransferTitle,Transferencia de propiedad de equipo
 TeamOwnershipTransferFailed,No se pudo transferir la propiedad al jugador nuevo
-TeamOwnershipTransferWarning,¿Confirmas que quieres transferir la propiedad del equipo a este miembro? ¡Esto no se puede deshacer!
+TeamOwnershipTransferWarning,¿Confirmas que quieres transferir la propiedad del equipo a este miembro? Esta acción no se puede deshacer.
 TeamLeaveConfirm,¿Confirmas que quieres abandonar el equipo?
 TeamDisbandConfirm,¿Confirmas que quieres desbandar el equipo?
 TeamOwnershipLeavingWarning,Transfiere la propiedad del equipo a otro miembro antes de irte
@@ -4991,7 +4992,7 @@ SentryParagonGreen,Modelo de centinela verde
 SentryParagonRed,Modelo de centinela rojo
 SentryParagonBlue,Modelo de centinela azul
 TeamManagement,Gestión de equipos
-ERR_FEATURE_TEMPORARILY_UNAVAILABLE,"Función no disponible porque tienes la cuenta marcada. Para saber más, visite https://ninja.kiwi/ffgpd7"
+ERR_FEATURE_TEMPORARILY_UNAVAILABLE,"Función no disponible porque tienes la cuenta marcada. Para saber más, visita https://ninja.kiwi/ffgpd7"
 PlayerWillBeRemoved,El jugador será retirado del equipo cuando el evento TD actual termine
 Epic login,"Iniciando sesión en cuenta de Epic, verificando permisos, revisa si hay una solicitud de permiso en tu explorador"
 FriendScreenErrorTeamInviteMaxInvitesSent,"Número máximo de invitaciones alcanzado, vuelve a intentarlo más tarde"
@@ -5076,8 +5077,8 @@ TeamsEmblemFrame10Description,Marco que demuestra la dedicación de tu equipo al
 TeamsEmblemFrame11Name,Marco cognitivo
 TeamsEmblemFrame11ShortName,Marco cognitivo
 TeamsEmblemFrame11Description,Demuestra el conocimiento superior para reventar bloons que tiene tu equipo.
-BasePropPirateCrewMonkeyName,Tripulación pirata
-BasePropPirateCrewMonkeyShortName,Tripulación pirata
+BasePropPirateCrewMonkeyName,Mono de tripulación pirata
+BasePropPirateCrewMonkeyShortName,Mono de tripulación pirata
 BasePropPirateCrewMonkeyDescription,¡Arrr! Dale la bienvenida a este botarate a la base del territorio en disputa y los otros equipos huirán con la vela entre las piernas. [Ranura de isla]
 BasePropTelescopeName,Telescopio refractante
 BasePropTelescopeShortName,Telescopio refractante
@@ -5114,7 +5115,262 @@ TeamTrophyStoreRulesInfoSectionFour,• Todo el equipo financia el detalle de eq
 PlaySocialCaps,JUEGO SOCIAL
 SelectCapturedRelics,Selecciona hasta 4 reliquias capturadas
 NextBonusIn,Bonificación siguiente en:
-MemberCount,cuenta de miembro
-Min,Mínimo
-PrimeGamingText,¡Reclama tu regalo de Prime Gaming!
-GetNow,Get Now
+MemberCount,Conteo de miembros
+Min,Mín.
+Back,Atrás
+Purchase Monkey Money,Comprar mónares
+Player Profile,Perfil de jugador
+Toggle Info,Activar información
+Store Info,Información de tienda
+Toggle mode,Activar modo
+Toggle jukebox enabled,Rocola activada
+Play / Pause,Jugar/pausa
+Move up,Mover hacia arriba
+Move down,Mover hacia abajo
+Buy Monkey Knowledge,Comprar conocimiento moneril
+Search,Buscar
+Google Play,Google Play
+Remove mode,Quitar modo
+Add mode,Agregar modo
+Toggle ranked mode,Activar modo clasificado
+Info,Información
+Switch to MonkeyName,Cambiar a monos con nombre
+Rename monkey,Renombrar mono
+Switch to Medals,Cambiar a medallas
+Switch to Settings,Cambiar a configuración
+Refresh,Recargar
+First Page,Primera página
+Prev Page,Página anterior
+Next Page,Página siguiente
+Last Page,Última página
+Reset,Restablecer
++,+
+-,-
+Show/Hide panel,Mostrar/ocultar panel
+Toggle Loop Track,Activar pista en bucle
+Previous Track,Pista anterior
+Next Track,Pista siguiente
+Info mode,Modo de información
+Hero mode,Modo heroico
+Skin mode,Modo de aspecto
+Prev mode,Modo anterior
+Next mode,Modo siguiente
+Disconnect controller,Desconectar controlador
+Clear all monkeys,Borrar todos los monos
+Clear all powers,Borrar todos los poderes
+Mute,Silenciar
+Place Second Tower Console,Coloca otro mono dardero y pulsa [dpad_up] para jugar.
+Finished Round One Console,"Fácil, ¿no? Pulsa [dpad_up] para empezar la ronda siguiente."
+Speed x1,Velocidad x 1
+Speed x3,Velocidad x 3
+CouchBuildZoneMessage,Construye las torres de monos en el área válida.
+Insta Monkeys,Instamonos
+Controller.Title,Controles
+Controller.DPadUp,Enviar ronda/avance rápido
+Controller.DPadDown,Enviar ronda de carrera
+Controller.DPadLeft,Sin asignar
+Controller.DPadRight,Sin asignar
+Controller.LeftAnalog,Cursor gratis
+Controller.LeftAnalogButton,Colocación rápida
+Controller.RightAnalog,Desplazar
+Controller.RightAnalogButton,Mostrar/ocultar panel
+Controller.Menu,Sin asignar
+Controller.Start,Pausa
+Controller.LeftShoulder,Pestaña anterior
+Controller.RightShoulder,Pestaña siguiente
+Controller.LeftTrigger,"Colocación rápida, atajos de habilidad"
+Controller.RightTrigger,Atajos de habilidades
+Controller.NorthButton,Sin asignar
+Controller.SouthButton,Confirmar
+Controller.EastButton,Cancelar
+Controller.WestButton,Sin asignar
+Toggle tab,Activar pestaña
+Refresh data,Recargar datos
+Prev tab,Pestaña anterior
+Next tab,Pestaña siguiente
+Controller.Ready,Listo
+Friends,Amigos
+MinimumRounds,Mínimo de rondas
+MaximumRounds,Máximo de rondas
+Max Monkeys,Máx. de monos
+Toggle add / remove,Activar agregar/quitar
+Toggle select / edit,Activar seleccionar/editar
+Camo,Camuflaje
+Couch Co-op,Cooperativa de sofá
+Gift,Regalo
+Emote,Emote
+Set Target,Establecer objetivo
+Return to groups,Regresar a grupos
+TT_FollowCursor,Seguir cursor
+Toggle Map Dividers,Activar divisores de mapa
+Send,Enviar
+Upgrade,Mejorar
+NextUpgrade,Mejora siguiente
+CurrentUpgrade,Mejora actual
+HeroBoosterLocked,Bloqueado
+PrimeGamingText,Recibe la entrega de Prime Gaming
+GetNow,Obtener ahora
+,
+DarkDungeons,Calabozos oscuros
+OneTwoTree,"Uno, dos, tres"
+BeastHandler,Domador
+BeastHandlers,Domadores
+BeastHandler Description,"Entrenan bestias peligrosas de tierra, agua y aire. En lugar de crear más bestias, varios domadores trabajan juntos para aumentar el poder de las existentes."
+BeastHandler Short Description,Mono de refuerzo
+Piranha,Piraña
+Microraptor,Microrraptor
+Gyrfalcon,Gerifalte
+Barracuda,Barracuda
+Adasaurus,Adasaurio
+Horned Owl,Búho americano
+Great White,Tiburón blanco
+Velociraptor,Velocirraptor
+Golden Eagle,Águila real
+Orca,Orca
+Tyrannosaurus Rex,Tiranosaurio rex
+Giant Condor,Cóndor gigante
+Megalodon,Megalodón
+Giganotosaurus,Gigantosaurio
+Pouakai,Pouakai
+Piranha Description,Controla a un pez pequeño y feroz que salta contra los bloons desde el agua.
+Microraptor Description,Controla a un dinosaurio pequeño de garras afiladas. Poténcialo con más domadores que tengan esta mejora.
+Gyrfalcon Description,Controla a un ave de rapiña noble que atrapa a los bloons con las garras y los mueve.
+Barracuda Description,Los dientes afilados de la barracuda revientan varias capas de bloons. Requiere al menos 1 domador más con mejoras de piraña. Máx. de 4 domadores en colaboración.
+Adasaurus Description,Los dientes afilados del adasaurio causan mucho daño a corto alcance. Requiere al menos 1 domador más con mejoras de microrraptor. Máx. de 4 domadores en colaboración.
+Horned Owl Description,Ave fuerte capaz de atrapar y reventar bloons emplomados y cerámicos. También tiene una vista ejemplar que detecta camufloons.
+Great White Description,"Esta criatura usa las mandíbulas para destruir a los bloons, incluidos los emplomados, y los arrastra de nuevo al agua si es necesario. Requiere al menos 2 domadores más con mejoras de barracuda. Máx. de 4 domadores en colaboración."
+Velociraptor Description,Esta criatura corta y muerde a los bloons a velocidad abrumadora. Requiere al menos 2 domadores más con mejoras de adasaurio. Máx. de 4 domadores en colaboración.
+Golden Eagle Description,Ideal para atrapar grandes cantidades de bloons de una sola vez. El águila real es tan grande que requiere al menos 2 domadores más con mejoras de búho americano. Máx. de 4 domadores en colaboración.
+Orca Description,La boca enorme de la poderosa orca puede atrapar a todos los bloons excepto los más grandes y arrastrarlos a las profundidades. Requiere al menos 3 domadores más con mejoras de tiburón blanco. Máx. de 4 domadores en colaboración.
+Tyrannosaurus Rex Description,La quijada enorme y los dientes afilados del tiranosaurio rex hacen muchísimo daño en cada mordida. Requiere al menos 3 domadores más con mejoras de velocirraptor. Máx. de 4 domadores en colaboración. Habilidad Pisotón de t-rex: aturde a los bloons clase ZOMG en un área grande.
+Giant Condor Description,Los espolones enormes del cóndor gigante pueden atrapar bloons clase MOAB. Requiere al menos 3 domador más con mejoras de águila real. Máx. de 4 domadores en colaboración.
+Megalodon Description,Tiburón colosal que devora a los bloons. Requiere al menos 4 domadores más con mejoras de orca. Máx. de 8 domadores en colaboración.
+Giganotosaurus Description,Es el dinosaurio más grande y feroz de todos y destroza a casi cualquier bloon en un instante. Requiere al menos 4 domadores más con mejoras de tiranosaurio rex. Máx. de 8 domadores en colaboración. La habilidad aturde hasta bloons clase ZOMG en todas partes durante más tiempo.
+Pouakai Description,"Ave legendaria y enorme que puede atrapar, llevar y destruir casi cualquier cantidad de bloons de casi cualquier tamaño Requiere al menos 4 domadores más con mejoras de cóndor gigante. Máx. de 8 domadores en colaboración."
+T Rex Stomp Ability,Pisotón de t-rex
+T Rex Stomp Ability Description,Aturde a los bloons hasta clase ZOMG en un área grande.
+Giganotosaurus Stomp Ability,Pisotón de gigantosaurio
+Giganotosaurus Stomp Ability Description,Aturde a los bloons hasta clase ZOMG en todas partes durante más tiempo.
+Move,Mover
+NeedsBeastHandlers,Requiere bestia
+NeedsWater,Necesita agua
+NeedsTrack,Necesita camino
+Dreadbloon,Bloon acorazado
+DreadbloonTagLine,Desde lo profundo de la tierra oscura...
+DreadbloonTagLine2,¡Llega el leviatán blindado!
+DreadbloonInfoPanelDescription,"\n• El bloon acorazado tiene propiedades de emplomado y disminuye en 1 todo el daño recibido.\n• Cuando se alcanza cada calavera, el bloon acorazado crea un blindaje cerámico y se generan bloons rocosos al inicio del camino.\n• El bloon acorazado es inmune a las torres primarias cuando aparece. Con cada calavera, la inmunidad cambia a un tipo de torre diferente: militar, mágica y refuerzo.\n• Los bloons acorazados y el blindaje cerámico también tienen estas inmunidades.\n• Los bloons acorazados tienen una provocación potente, ten cuidado con el objetivo de las torres."
+DreadbloonPrimaryImmunity,Inmune a: primarias
+DreadbloonMilitaryImmunity,Inmune a: militares
+DreadbloonMagicImmunity,Inmune a: mágicas
+DreadbloonSupportImmunity,Inmune a: refuerzo
+Resist,Resiste
+Immune,Inmune
+SleighCaptainChurchillSkinName,Aspecto de Churchill con trineo
+SleighCaptainChurchillSkinDescription,Elimina bloons con espíritu navideño y bombas envueltas para regalo.
+SleighCaptainChurchillSkinNameFull,Churchill con trineo
+GameUIProfileBanner23Name,Banderola de perfil de felices fiestas
+GameUIProfileBanner23ShortName,Banderola de felices fiestas
+GameUIProfileBanner23Description,Celebra el espíritu de las fiestas este fin de año o todo el tiempo con esta banderola nevada y divertida. Objeto para coleccionistas por tiempo limitado.
+GameUIProfileBanner24Name,Banderola de perfil de cuchillas búmeran
+GameUIProfileBanner24ShortName,Banderola de cuchillas búmeran
+GameUIProfileBanner24Description,Banderola ganadora de ReconScoutTeemo
+GameUIProfileBanner25Name,Banderola de perfil de glifos
+GameUIProfileBanner25ShortName,Banderola de glifos
+GameUIProfileBanner25Description,Banderola ganadora de PvtMagnuS
+GameUIProfileAvatar65Name,Avatar personalizado: arreglo navideño
+GameUIProfileAvatar65ShortName,Avatar de arreglo navideño
+GameUIProfileAvatar65Description,"Reparte buena suerte y alegría para todos con este avatar de arreglo navideño. Objeto para coleccionistas por tiempo limitado."
+GameUIProfileAvatar66Name,Avatar personalizado: furia
+GameUIProfileAvatar66ShortName,Avatar de furia
+GameUIProfileAvatar66Description,"¡Al fin! ¿Cuánto tardaron en dejarme entrar? ¡Soy el avatar que faltaba, por todas las bananas del mundo!"
+GameUIProfileAvatar67Name,Avatar personalizado: felices fiestas
+GameUIProfileAvatar67ShortName,Avatar de felices fiestas
+GameUIProfileAvatar67Description,"La emoción de Etienne porque recibe otro dron para Navidad alegra el corazón de cualquiera. Objeto para coleccionistas por tiempo limitado."
+GameUIProfileAvatar68Name,Avatar personalizado: cero absoluto
+GameUIProfileAvatar68ShortName,Avatar de cero absoluto
+GameUIProfileAvatar68Description,"Si el buen aspecto es importante, no puedes equivocarte con este avatar de mono gélido."
+CoopEmoteAnimationSleighbellsName,Animación de nieve y cascabeles
+CoopEmoteAnimationSleighbellsShortName,Cascabeles
+CoopEmoteAnimationSleighbellsDescription,"Consigue esta maravilla invernal: un emote de toda la pantalla para alegrar al jugador 1, 2 o 4. Objeto para coleccionistas por tiempo limitado."
+TowerProjectileBananaFarmPresentsName,Regalos bananeros del bananal
+TowerProjectileBananaFarmPresentsShortName,Regalos del bananal
+TowerProjectileBananaFarmPresentsDescription,"Nada mejor que bananales que producen regalos. ¿Qué contienen? Bananas, claro. Objeto para coleccionistas por tiempo limitado."
+TowerProjectileDartMonkeySnowballsName,Proyectiles bolas de nieve del mono dardero
+TowerProjectileDartMonkeySnowballsShortName,Bolas de nieve del mono dardero
+TowerProjectileDartMonkeySnowballsDescription,"No sabemos cómo aprendió tanto de esto sic creció en la selva, pero prueba estos proyectiles y verás que los monos darderos siempre ganan las peleas de bolas de nieve. Objeto para coleccionistas por tiempo limitado."
+TowerProjectileTackShooterIciclesName,Proyectiles de carámbanos y nieve de tiratachuelas
+TowerProjectileTackShooterIciclesShortName,Carámbanos de tiratachuelas
+TowerProjectileTackShooterIciclesDescription,"Si te gusta combinar tiratachuelas con el mono gélido, te encantará que las tachuelas sean carámbanos y las cuchillas sean copos de nieve. Objeto para coleccionistas por tiempo limitado."
+TowerProjectileNinjaMonkeySnowflakesName,Proyectil de nieve de mono ninja
+TowerProjectileNinjaMonkeySnowflakesShortName,Nieve de mono ninja
+TowerProjectileNinjaMonkeySnowflakesDescription,Nieve brillante\nEn mano de un ninja\nLa simetría\n\nObjeto para coleccionistas por tiempo limitado.
+BuildingPropChristmasTreeName,Edificación de árbol navideño
+BuildingPropChristmasTreeShortName,Edificación de árbol navideño
+BuildingPropChristmasTreeDescription,¿Cambiar la base por un árbol? ¿Adónde vivirán los monos? Momento... no importa.\nDale ánimo festivo al equipo con esta base arbórea. [Ranura de edificación principal]
+BasePropCosyBeanbagMonkeyName,Mono de puff cómodo
+BasePropCosyBeanbagMonkeyShortName,Mono de puff cómodo
+BasePropCosyBeanbagMonkeyDescription,"El sillón puff, símbolo máximo de la relajación. Incluye mono relajado. [Ranura de isla]"
+TeamsBanner9Name,Banderola de copo de nieve frágil
+TeamsBanner9ShortName,Banderola de copo de nieve frágil
+TeamsBanner9Description,La complejidad simple de un copo de nieve es perfecta como tu equipo.
+TeamsBanner10Name,Banderola de banana asada
+TeamsBanner10ShortName,Banderola de banana asada
+TeamsBanner10Description,Despierta el apetito del equipo con esta banana asada en la fogata.
+TeamsEmblemFrame12Name,Marco de bloons
+TeamsEmblemFrame12ShortName,Marco de bloons
+TeamsEmblemFrame12Description,Que tu equipo sea enemigo de todos con este marco cruel de bloons.
+TeamsEmblemFrame13Name,Marco militar
+TeamsEmblemFrame13ShortName,Marco militar
+TeamsEmblemFrame13Description,Un equipo entusiasta no es nada sin estructura y disciplina.
+TeamsEmblemIcon15Name,Ícono de corona
+TeamsEmblemIcon15ShortName,Ícono de corona
+TeamsEmblemIcon15Description,Apoya el ascenso de tu equipo al trono de dardos.
+TeamsEmblemIcon16Name,Ícono de alienígena
+TeamsEmblemIcon16ShortName,Ícono de alienígena
+TeamsEmblemIcon16Description,Para cuando el equipo es de otro mundo.
+Achievement 146 Name,Misión secundaria
+Achievement 146 Description,Completa una misión
+Achievement 147 Name,Tonificación
+Achievement 147 Description,Activa 75 beneficios a la vez para los monos
+Achievement 148 Name,Entrenamiento mundial
+Achievement 148 Description,Adquiere 150 000 PE de domador
+CompleteQuestMessage,Completa la misión
+QuestUnlocksAtLevelXMessage,La misión desbloquea<br>Nivel {0}
+QuestComplete,¡Misión completada!
+BeastHandlerQuestName,Misión de bestia épica
+BeastHandlerQuestReward,¡Desbloquea al domador y más!
+BeastHandlerQuest1Name,El camino de la tierra
+BeastHandlerQuest1Description,Entrena dinosaurios letales en la cantera
+BeastHandlerQuest1Victory,¡Felicitaciones! Completaste El camino de la tierra.
+BeastHandlerQuest2Name,El camino del agua
+BeastHandlerQuest2Description,Cría peces feroces en las Islas de especias.
+BeastHandlerQuest2Victory,¡Felicitaciones! Completaste El camino del agua.
+BeastHandlerQuest3Name,El camino del aire
+BeastHandlerQuest3Description,Incuba aves poderosas en Rajado.
+BeastHandlerQuest3Victory,¡Felicitaciones! Completaste El camino del aire.
+DialogBeastHandlerQuest1UI1,Los domadores abandonaron la aldea hace años en una misión para buscar bestias épicas y ya casi terminaron.
+DialogBeastHandlerQuest1UI2,"Si los ayudas a completarla, volverán y nos ayudarán en la batalla contra los bloons."
+DialogBeastHandlerQuest1InGame1,Los domadores escucharon hablar de un huevo misterioso y domaron la primera bestia épica.
+DialogBeastHandlerQuest1InGame2,Ayúdalos a aprender todo lo que hay que saber de estos depredadores voraces.
+DialogBeastHandlerQuest2UI1,¡Genial! Los domadores trabajan con bestias crueles como si fueran mascotas. También descubrieron cómo combinarlas y fortalecerlas con trabajo en equipo.
+DialogBeastHandlerQuest2UI2,"No entiendo la biología, pero las combinaciones sin duda son más poderosas. Llevaron a los domadores hacia otro huevo."
+DialogBeastHandlerQuest2UI3,¡Quiero ver qué encontraron cuanto antes!
+DialogBeastHandlerQuest3UI1,Son muy hábiles. Entrenaron bestias acuáticas temibles para enfrentar a los bloons en el agua y encontrar tesoros como el 3º huevo.
+DialogBeastHandlerQuest3UI2,"Cuando ayudes a los domadores a controlar la tercera bestia, podrán unirse al equipo."
+,
+RemoveProviderFromAccount,¿Seguro que quieres quitar a este proveedor de la cuenta? <br><br><b>El proceso puede demorar hasta 3 horas</b>
+ProviderRemovedText,Proveedor eliminado.<br><br>Esta página se cerrará pronto.
+AdditionalAccountLinks,Vínculos de cuenta adicionales
+LoginWithAmazon,Iniciar sesión con Amazon
+LinkingCodeButton,Obtener un código de vinculación
+LinkingCodeMessage,Abre el juego en el otro dispositivo y escribe el código siguiente cuando se te pida. El código es válido durante 10 minutos.
+Rate Expires In,La calificación caduca en
+Rate,Calificar
+CoopGameSyncFailed,No se pudo sincronizar la configuración. Inténtalo en una partida nueva.
+iCloudTitle,iCloud
+iCloudDisabled,iCloud desactivada
+iCloudEnabled,iCloud activada
+DialogBeastHandlerQuest1InGameTowerUpgrade1,"¡Vaya, esa bestia es tan fuerte que se necesitan DOS adiestradores de bestias para mantenerla bajo control!"
+Buffed,Fortificado
+Assisting,Asistiendo
+Select Point On Track,Seleccione un punto en la pista

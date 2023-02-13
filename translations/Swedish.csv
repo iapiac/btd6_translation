@@ -101,7 +101,7 @@ Quincy Level 15 Description,Snabbeld får x4 attackhastighet och nedkylningen mi
 Quincy Level 16 Description,Ännu högre attackhastighet.
 Quincy Level 17 Description,Pilarna räcker 25 % längre. Skjuter en exploderande pil vartannat skott.
 Quincy Level 18 Description,Quincy attackerar snabbare och Pilstormen har minskad nedkylningstid och 50 % fler pilar.
-Quincy Level 19 Description,Varje pil får ännu högre smällkraft.
+Quincy Level 19 Description,få den till att växa 3 få den i taget och varje pil får ännu högre smällkraft.
 Quincy Level 20 Description,Quincy attackerar ännu snabbare. Pilstorm ökar skadan per pil och avfyrar ännu fler pilar.
 ,
 StrikerJones Level 1 Description,Striker Jones skjuter en kraftfull bazooka som spränger Bloons.
@@ -697,10 +697,10 @@ Enhanced Eyesight Description,Skjuter ännu längre och kan detektera Kamo-Bloon
 Spike-o-pult Description,Förvandlar Pilapan till en mera långsamt attackerande Spikapult som slungar stora spikbollar. Varje boll kan smälla en massa Bloons och studsar vidare från hinder.
 Triple Shot Description,Kastar 3 pilar åt gången istället för 1.
 Crossbow Description,Använder ett långdistansarmborst som kan smälla 3 Bloonlager för varje träff.
-Juggernaut Description,Slungar en enorm spikboll som smäller bly och är extra bra på att krossa Keramikbloons.
+Juggernaut Description,Slungar ett enormt spikklot som smäller Blybloons och är extra bra på att krossa Keramik- och Förstärkta Bloons.
 Super Monkey Fan Club Description,"Superapans fan club-förmåga: Förvandlar upp till 10 Pilapor, inklusive själva Stålapan, i närheten till Stålapor i 15 sekunder. Den normala attackhastigheten ökar också."
 Sharp Shooter Description,Prickskytten avfyrar snabbare och får iväg kraftfulla kritiska skott med några sekunders mellanrum som åsamkar mycket större skada.
-Ultra-Juggernaut Description,Gigantisk spikboll som delas två gånger i 6 Vidunderbollar för ännu större destruktiv kraft.
+Ultra-Juggernaut Description,Gigantiskt spikklot som delas två gånger i 6 Vidunderklot för ännu större destruktiv kraft mot Keramik- och Förstärkta Bloons.
 Plasma Monkey Fan Club Description,Elitmedlemskap i denna klubb ger Pilapan ännu större kraft!
 Crossbow Master Description,Armborstmästaren skjuter väldigt snabbt och förstör enkelt de flesta Bloontyper.
 ,
@@ -756,11 +756,11 @@ Permafrost Description,Bloons rör sig långsamt även efter de har tinat upp.
 Enhanced Freeze Description,Attackerar snabbare och fryser längre.
 Larger Radius Description,Större frysområde.
 Metal Freeze Description,Kan frysa och smälla Bly- och Kamobloons.
-Deep Freeze Description,Fryser ett extra lager och frysningen varar längre.
+Deep Freeze Description,"Ökar genomslagskraften, fryser ett extra lager och frysningen varar längre."
 Re-Freeze Description,Kan återfrysa Bloons som redan är frusna.
 Ice Shards Description,Rakbladsvassa skärvor flyger ut när frusna Bloons smäller.
 Arctic Wind Description,Ökar genomträngningsförmågan betydligt och förvärvar en superkall aura som saktar ner Bloons och fryser vatten i närheten.
-Cryo Cannon Description,Skjuter frysbomber mot Bloons med längre räckvidd.
+Cryo Cannon Description,Skjuter snabbt mindre frysbomber med längre räckvidd.
 Embrittlement Description,"Kan träffa Bloons i MOAB-klassen. Alla Bloons som träffas blir sköra, tar extra skada när de är frusna och förlorar sina kamoegenskaper."
 Snowstorm Description,"Snöstormförmåga: Fryser alla normala Bloons på skärmen och fryser Vita, Zebra och Kamo under en kort stund och gör Bloons i MOAB-klassen långsammare."
 Icicles Description,Frusna Bloons får vassa istappar som kan smälla Bloons som vidrör dem.
@@ -774,10 +774,10 @@ Stickier Glue Description,Får klistrets effekt att verka mycket längre.
 Corrosive Glue Description,Klistrade Bloons smäller ett lager varannan sekund.
 Glue Splatter Description,Stänker klister på upp till 6 Bloons per skott.
 Stronger Glue Description,Gör Bloons ännu långsammare.
-Bloon Dissolver Description,Extrema lösningsmedel smälter två lager per sekund.
+Bloon Dissolver Description,Kan klistra fast en extra Bloon per skott och lösningsmedlet smälter bort två lager varje sekund.
 Glue Hose Description,Skjuter klister 3 gånger så snabbt!
 MOAB Glue Description,Förbättrat klisterrecept får det att fastna på MOAB-klass-Bloons.
-Bloon Liquefier Description,Kan träffa en extra Bloon per skott med lim och applicerar förvätskande föreningar som utför 10 smällningar varje sekund.
+Bloon Liquefier Description,Sprider förvätskande föreningar som leder till 10 smällningar varje sekund.
 Glue Strike Description,Limattackförmåga: Täcker alla Bloons på skärmen med lim och orsakar att de tar mer skada från alla attacker så länge det varar.
 Relentless Glue Description,"Smällda Bloons som träffades av klister, lämnar kvar en klick klister på vägen."
 The Bloon Solver Description,Är Bloons ett problem? Här är lösningen.
@@ -875,10 +875,10 @@ Heavy Shells Description,"Tunga projektiler åsamkar extra skada på Keramik-, B
 Signal Flare Description,Kamo-Bloons som smälls med signalraketer förlorar sin kamoflering permanent.
 The Big One Description,"Förödande explosioner smäller 7 Bloonlager, samt ökar skadan för Brännstoff ytterligare."
 Artillery Battery Description,Bombardemangförmåga: Avlossar en snabb eldattack i ett något större område. Huvudattacken åsamkar mer skada på BAD:er och Bloonsbossar och uppgraderas till 3 eldrör för otroligt snabba attacker.
-Shattering Shells Description,Splittergranater spränger bort alla specialegenskaper från alla Bloons förutom de allra största.
+Shattering Shells Description,Splittergranater spränger bort alla specialegenskaper från alla Bloons förutom de allra största och bränner MOAB-klass-Bloons för extra skada.
 The Biggest One Description,"Spränger sig djupt genom Bloons och lager över ett stort område, samt kraftfull Brännstoffskada."
 Pop and Awe Description,"Smäll och beundra-förmåga: regnar explosioner över hela skärmen, skadar och gör Bloons orörliga under några sekunder. Alla artilleribatterier åsamkar mer skada på BAD:er och Bloonsbossar. Huvudattacken ger extra bonusskada på bedövade Bloons."
-Blooncineration Description,"Supervarm brinnande materia smälter igenom 5 Bloonlager för varje skott, bränner MOAB-klass-Bloons för extra skada."
+Blooncineration Description,Supervarm brinnande materia smälter igenom 5 Bloonlager för varje skott och bränner MOAB-klass-Bloons med enorm skada.
 ,
 Focused Firing Description,Ökar träffsäkerheten för Pilsprutan.
 Advanced Targeting Description,Gör det möjligt för Pilspruteskytten att träffa Kamo-Bloons.
@@ -909,7 +909,7 @@ Shimmer Description,Förvärvar en attack med mörk magi som periodvis avslöjar
 Arcane Spike Description,Snabbare avfyrningsmagi åsamkar stor skada på de flesta Bloonstyper.
 Summon Phoenix Description,Frammana Fenix-förmåga: Kraftfull fenix orsakar förödelse bland Bloons i 20 sekunder.
 Necromancer: Unpopped Army Description,Återuppväck nysmällda fiender som tjänare för att förstöra Bloons.
-Archmage Description,En verklig mästare av magiska trollkonster.
+Archmage Description,En verklig mästare på magiska trollkonster. Attackerar snabbare och åsamkar mer skada på MOAB-klass-Bloons.
 Wizard Lord Phoenix Description,Trollkarlsherren blir en eldmästare och förvandlas till en superkraftfull Lavafenix under en kort stund.
 Soulbind Description,Återuppväck ännu mäktigare Bloons-tjänare för att tillintetgöra fienden och förstärka alla andra Besvärjare.
 ,
@@ -971,7 +971,7 @@ Druid of the Storm Description,Vindstötar blåser bort Bloons från vägen och 
 Druid of the Jungle Description,Frammanar en vinranka från marken som trasslar in och krossar en Bloon i taget och efterlämnar en dödlig tagghög.
 Druid of Wrath Description,Får ökad attackhastighet under rundan så länge som Druiden attackerar Bloons.
 Ball Lightning Description,Skapar kraftfulla åskbollar som skjuter fler åskviggar och kan frysa Bloons.
-Jungle's Bounty Description,"Djungelskattförmåga: Genererar pengar vid varje användning, plus extra pengar per Bananplantage nära Druiden. Kan även fånga två Bloons med vinrankor samtidigt."
+Jungle's Bounty Description,"Djungelskattförmåga: Genererar pengar vid varje användning, plus extra pengar per Bananplantage nära Druiden. Kallar in två vinrankor som greppar Bloons och taggpilar har extra genomslag."
 Poplust Description,Ökar attackhastigheten och genomslagsförmågan för övriga Druider inom radien. Kan staplas upp till 5 gånger på valfri ensam Druid.
 Superstorm Description,Superstorm angriper alla Bloontyper och åsamkar massiv skada och blåser bort dem från utgången.
 Spirit of the Forest Description,Får taggiga vinrankor att växa fram längs med vägen som ger konstant skada och bonusskada mot Keramikbloons. Rankorna närmast Skogsanden ger högre skada. Aktiverad förmåga genererar liv och mera pengar.
@@ -1660,11 +1660,11 @@ btd6_herobooster Description,Hjälten som har valts i ditt pågående spel blir 
 btd6_powersattackpack,Kraftattackpaket
 btd6_powersattackpack Description,Ett urval med {0} stridsinriktade apkrafter.
 btd6_instatowerspack,Direktappaket
-btd6_instatowerspack Description,"5 aptorn, redo att placera ut helt gratis! Innehåller 2 nivå 1, 2 nivå 2 och 1 nivå 3"
+btd6_instatowerspack Description,"5 aptorn, redo att placera ut helt gratis! Innehåller 2 nivå 1, 2 nivå 2 och 1 nivå 3. Apor inom varje nivå har samma chans att dras."
 btd6_tier3instatowerspack,Direktappaket nivå 3
-btd6_tier3instatowerspack Description,"10 nivå 3-aptorn, redo att placera ut helt gratis!"
+btd6_tier3instatowerspack Description,"10 nivå 3-Instaaptorn, redo att placera ut helt gratis! Chansen att dra varje apa är lika stor."
 btd6_tier4instatowerspack,Direktappaket nivå 4
-btd6_tier4instatowerspack Description,"10 nivå 4-aptorn, redo att placera ut helt gratis!"
+btd6_tier4instatowerspack Description,"10 nivå 4-Instaaptorn, redo att placera ut helt gratis! Chansen att dra varje apa är lika stor."
 btd6_needmoremonkeymoneyprompt,Ej tillräckligt med appengar! Köp mer?
 ,
 ,
@@ -1678,11 +1678,11 @@ btd6_extramonkeymoney Description,Specialerbjudande! {0} appengar till ett väld
 btd6_powerspandamonium,Krafttumult
 btd6_powerspandamonium Description,Med kombinerade krafter! {0} av de bästa apkrafterna du kan få i ett enda paket.
 btd6_instatowersmegabooster,Apornas direktmegaeffekthöjare
-btd6_instatowersmegabooster Description,"Deta megapaket innehåller 5 nivå 2-, 12 nivå 3- och 3 nivå 4-aptorn, som är redo att placera ut helt gratis!"
+btd6_instatowersmegabooster Description,"Detta megapaket innehåller 5 nivå 2-, 12 nivå 3- och 3 nivå 4-Instaaptorn, som är redo att placera ut helt gratis! Apor inom varje nivå har samma chans att dras."
 btd6_megamonkeycompendiumpack,Apornas megakompendiumpaket
-btd6_megamonkeycompendiumpack Description,"Ett stort paket fullt av fantastiska godsaker! 25 000 appengar, 100 attackkrafter, 30 nivå 3-aptorn, 15 nivå 4-aptorn, 5 nivå 5-aptorn och upplåst kunskap (nivå 30, 5 bonus-AK-poäng)!"
+btd6_megamonkeycompendiumpack Description,"Ett stort paket med massor av godsaker! 25 000 appengar, 100 attackkrafter, 30 nivå 3-Instaaptorn, 15 nivå 4-Instaaptorn, 5 nivå 5-Instaaptorn och upplåst kunskap (nivå 30, 5 bonus-AK-poäng)! Apor inom varje nivå har samma chans att dras."
 btd6_tier5instatowerpack,Direktappaket nivå 5
-btd6_tier5instatowerpack Description,"10 nivå 5-aptorn, redo att placera ut helt gratis!"
+btd6_tier5instatowerpack Description,"10 nivå 5-aptorn, redo att placera ut helt gratis! Chansen att dra varje apa är lika stor."
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,Hög med Appengar-utförsäljning
@@ -2042,6 +2042,8 @@ Swedish,Svenska
 Turkish,Turkiska
 Korean,Koreanska
 Japanese,Japanska
+Polish,Polska
+Monkelish,Aplig
 ,
 Backup,Säkerhetskopia
 Profile,Konto
@@ -2461,11 +2463,11 @@ EditorLockedShareButtonDescription,För att dela din utmaning måste du bevisa a
 ConflictScreenChoose,Välj ett sparat spel
 ConflictThisDevice,Denna enhet
 ConflictCloud,I molnet
-ConflictTimeHours,Sparat för {0} timmar sedan
 ConflictUseButton,Användning
 ConflictNoData,Uppgifter saknas
-ConflictTimeMinutes,Sparat för {0} minuter sedan
 ConflictTimeSeconds,Sparat för {0} sekunder sedan
+ConflictTimeMinutes,Sparat för {0} minuter sedan
+ConflictTimeHours,Sparat för {0} timmar sedan
 ConflictTimeDays,Sparat för {0} dagar sedan
 FasterMoabs,Moab-hastighet ökad
 SlowerMoabs,Moab-hastighet minskad
@@ -2751,8 +2753,8 @@ DarkKnightDarkshift,[I] till Mörkskifte inom räckvidden
 DarkChampionDarkshift,[I] till Mörkskifte till valfri giltig plats
 SmallTowersMode,Små aptorn
 BigTowersMode,Stora aptorn
-UpdatePopupTitle,Uppdatering 33!
-UpdatePopupDescription,"Stor innehållsuppdatering!\n• Släpp lös det skräckinjagande Goliatdomedagsskeppet, Apess-paragonen!\n• Bygg upp en smula Bloonsmällande kraft på den medelsvåra banan Skyddad trädgård! Design av vinnaren av communityns bantävling SuperPsou.\n• Hemsök salarna på den nya läskiga avancerade banan Midnattsherrgård!\n• Trofébutikartiklar, förbättringar av livskvalitet, balansändringar och mycket mera!"
+UpdatePopupTitle,Uppdatering 34!
+UpdatePopupDescription,"Megajuluppdatering!\n• Kämpa mot den imponerande motståndskraften och immuniteten hos Bepansrade Behemoth, en Skräckbloon!\n• Upptäck de tornförstärkande utplaceringsplatserna på den nya nybörjarbanan Ett Två Träd!\n• Slakta Bloonsen med julstämning med vårt nya Kapten Churchill-skin, Släde-Churchill!\n• Trofébutikartiklar, livskvalitetsförbättringar, balansändringar och mycket mera!\n• God jul och gott nytt år önskar alla vi på Ninja Kiwi!"
 ResetDailyChest,Återställ daglig kista
 JukeboxName,Jukebox
 EnableFunction,Aktivera
@@ -4723,17 +4725,17 @@ RelicMilitaryMonkeys,Militärapor
 RelicMagicMonkeys,Magiska apor
 RelicSupportSimians,Stödapor
 RelicMonkeyTycoon,Apmagnat
-RelicStartingStashDescription,Börja varje spel med extra 300 pengar (kombineras med Mera Pengar på Vanliga Rutor)
+RelicStartingStashDescription,Börja varje spel med extra 250 pengar (kombineras med Mera Pengar på Vanliga Rutor)
 RelicExtraEmpoweredDescription,Din hjälte börjar spelet med 3 extra nivåer (kombineras med Hjältar med Befogenhet på Vanliga Rutor)
 RelicBoxOfChocolatesDescription,Börja varje spel med 100 extraliv
-RelicBoxOfMonkeyDescription,Börja varje spel med en gratis apa som kostar $500 eller mindre för omodifierad inledande utplacering
+RelicBoxOfMonkeyDescription,Börja varje spel med en gratis apa som kostar $400 eller mindre för omodifierad inledande utplacering
 RelicMarchingBootsDescription,I spel med begränsat antal ger det spelarna +1 maxantal för varje torn i deras laddning eller +4 totalt maxantal per spel
 RelicHeroBoostDescription,Hjältar tjänar XP 15 % snabbare i varje spel.
 RelicBiggerBloonSabotageDescription,Alla Bloons i MOAB-klassen återföds med 15 % mindre hälsa och rör sig med 95 % hastighet.
 RelicRoundingUpDescription,Tjäna +$20 vid slutet av varje runda
 RelicManaBulwarkDescription,Skapar en sköld som absorberar upp till 50 liv (kombineras med Manasköld på Vanliga Rutor)
-RelicRegenerationDescription,"Återställ 10 liv per runda upp till varje spels startlivvärde, om inga liv förloras under rundan i fråga"
-RelicRestorationDescription,"Återställ 20 liv per runda upp till ett ökat startlivvärde på +200, om inga liv förloras under rundan i fråga"
+RelicRegenerationDescription,"Återställ 20 liv per runda upp till varje spels startlivvärde, om inga liv förloras under rundan i fråga"
+RelicRestorationDescription,"Återställ 10 liv per runda upp till ett ökat startlivvärde på +200, om inga liv förloras under rundan i fråga"
 RelicDurableShotsDescription,Alla projektiler har +25 % livslängd
 RelicAlchemistTouchDescription,Alla attacker kan smälla Blybloons
 RelicDeepHeatDescription,Alla attacker kan smälla vita Bloons
@@ -4741,14 +4743,14 @@ RelicSharpsplosionDescription,Alla attacker kan smälla svarta Bloons
 RelicRoyalTreatmentDescription,Alla attacker kan smälla lila Bloons
 RelicHardBakedDescription,Alla attacker åsamkar +1 skada på Keramikbloons
 RelicFortifriedDescription,Alla attacker åsamkar +1 skada på Förstärka Bloons
-RelicMoabClashDescription,Alla attacker åsamkar +3 skada på Bloons i MOAB-klassen
+RelicMoabClashDescription,Alla attacker åsamkar +2 skada på Bloons i MOAB-klassen
 RelicCamoFloggedDescription,Alla attacker åsamkar +3 skada på Kamobloons
 RelicBrokenHeartDescription,Alla attacker åsamkar +1 skada på återväxande Bloons
 RelicGoingTheDistanceDescription,Alla apor får +20 % räckvidd
-RelicHeartlessDescription,Återväxttakten för återväxande Bloons minskar 25 %
+RelicHeartlessDescription,Återväxttakten för återväxande Bloons minskar med 50 %
 RelicFlintTipsDescription,"Vassa projektiler lägger till en eldpunkt till alla Bloons de skadar (1 skada var 2,5:e sekund i totalt 5 sekunder)"
 RelicAbilitizedDescription,All nedkylning av aktiverade förmågor för alla apor minskas med 10 %
-RelicAirAndSeaDescription,"Placerings- och uppgraderingskostnaderna för Ess, Helikopter, Pirat och Ubåt minskas 10 % och omladdning förbättras med 5 %"
+RelicAirAndSeaDescription,"Placerings- och uppgraderingskostnaderna för Ess, Helikopter, Pirat och Ubåt minskas med 5 % och omladdning förbättras med 5 %"
 RelicElDoradoDescription,Alla belöningar med appengar och teamtroféer från spelsegrar ökas med 25 % (+1 som minimum)
 RelicMonkeyShieldDescription,Under 1 timme efter erövrandet kan rutan inte attackeras av motståndarteam. Förbättrad poäng kommer att återaktiveras.
 RelicMonkeyShieldMark2Description,Under 2 timmar efter erövrandet kan rutan inte attackeras av motståndarteam. Förbättrad poäng kommer att återaktiveras.
@@ -4763,11 +4765,11 @@ RelicRoadSpikesDescription,Ger 10 högar med Vägspikar per spel
 RelicMoabMineDescription,Ger tillgång till användning av 1 effekthöjare för MOAB-mina per spel
 RelicGlueTrapDescription,Ger tillgång till användning av 2 effekthöjare för Klisterfälla per spel
 RelicTechbotDescription,Ger tillgång till användning av 1 effekthöjare för Techbot per spel
-RelicPrimaryPrimatesDescription,Minskar kostnaden för alla Primära Apor med 10 %
-RelicMilitaryMonkeysDescription,Minskar kostnaden för alla Militärapor med 10 %
-RelicMagicMonkeysDescription,Minskar kostnaden för alla Magiska Apor med 10 %
+RelicPrimaryPrimatesDescription,Minskar kostnaden för alla Primära Apor med 8 %
+RelicMilitaryMonkeysDescription,Minskar kostnaden för alla Militärapor med 8 %
+RelicMagicMonkeysDescription,Minskar kostnaden för alla Magiska Apor med 8 %
 RelicSupportSimiansDescription,Minskar kostnaden för alla Stödapor med 10 %
-RelicMonkeyTycoonDescription,Få +1 för alla Aptorn i din utplacering och deras grundpris minskas med 5 %
+RelicMonkeyTycoonDescription,Få +1 för alla Aptorn i din utplacering och deras grundpris minskas med 4 %
 InviteToTeam,Bjud in till team
 TeamLeave,Lämna team
 Requests,Förfrågningar
@@ -5066,18 +5068,18 @@ TeamsBanner8ShortName,Omtvistat territorium-banner
 TeamsBanner8Description,Använd denna banner för att visa ditt engagemang när det gäller att erövra sexkantiga rutor. Rött mot blått har aldrig sett bättre ut.
 TeamsEmblemIcon13Name,Kung Fu Kiwi-ikon
 TeamsEmblemIcon13ShortName,Kung Fu Kiwi-ikon
-TeamsEmblemIcon13Description,Överraska din motståndare med en hoppspark från din marklevande favoritfågel.
+TeamsEmblemIcon13Description,Överraska dina motståndare med en hoppspark från din marklevande favoritfågel.
 TeamsEmblemIcon14Name,Allseende ögat-ikon
 TeamsEmblemIcon14ShortName,Allseende ögat-ikon
-TeamsEmblemIcon14Description,Om du använder denna teamikon så kommer dina motståndare att vara osäkra på varje drag de gör.
-TeamsEmblemFrame10Name,Ninjaskrollram
-TeamsEmblemFrame10ShortName,Ninjaskrollram
-TeamsEmblemFrame10Description,En ram som visar ditt teams hängivenhet för den urgamla ninjakonsten.
+TeamsEmblemIcon14Description,Utnyttja denna team-ikon så kommer dina motståndare att tvivla på varje rörelse de gör.
+TeamsEmblemFrame10Name,Ninja-skriftrulle
+TeamsEmblemFrame10ShortName,Ninja-skriftrulle
+TeamsEmblemFrame10Description,En ram för att visa ditt teams hängivenhet för den urgamla ninjakonsten.
 TeamsEmblemFrame11Name,Kognitionsram
 TeamsEmblemFrame11ShortName,Kognitionsram
-TeamsEmblemFrame11Description,Förmedla ditt teams överlägsna Bloonsmällningskunskaper med kognitionsramen.
-BasePropPirateCrewMonkeyName,Sjörövarbesättning
-BasePropPirateCrewMonkeyShortName,Sjörövarbesättning
+TeamsEmblemFrame11Description,Förmedla ditt teams överlägsna Bloonsmällningskunskaper med Kognitionsramen.
+BasePropPirateCrewMonkeyName,Sjörövarbesättningsapa
+BasePropPirateCrewMonkeyShortName,Sjörövarbesättningsapa
 BasePropPirateCrewMonkeyDescription,Skepp ohoj! Välkomna det här salta sällskapet till din Omtvistat territorium-bas så kommer alla andra team att dra sig tillbaka med sina segel mellan benen. [Öplats]
 BasePropTelescopeName,Brytande teleskop
 BasePropTelescopeShortName,Brytande teleskop
@@ -5114,7 +5116,262 @@ TeamTrophyStoreRulesInfoSectionFour,• Teamstil finansieras av hela teamet och 
 PlaySocialCaps,SPELA SOCIALT
 SelectCapturedRelics,Välj upp till 4 erövrade reliker
 NextBonusIn,Nästa bonus om:
-MemberCount,medlemsantal
-Min,Minimum
-PrimeGamingText,Hämta din Prime Gaming-gåva!
-GetNow,Get Now
+MemberCount,Medlemsantal
+Min,Min
+Back,Tillbaka
+Purchase Monkey Money,Köp appengar
+Player Profile,Spelarprofil
+Toggle Info,Aktivera info
+Store Info,Lagra info
+Toggle mode,Aktivera läge
+Toggle jukebox enabled,Aktivera jukebox
+Play / Pause,Spela upp/pausa
+Move up,Flytta uppåt
+Move down,Flytta nedåt
+Buy Monkey Knowledge,Köp Apkunskap
+Search,Sök
+Google Play,Google Play
+Remove mode,Ta bort läge
+Add mode,Lägg till läge
+Toggle ranked mode,Aktivera rankat läge
+Info,Info
+Switch to MonkeyName,Växla till namngivna apor
+Rename monkey,Döp om apa
+Switch to Medals,Växla till Medaljer
+Switch to Settings,Växla till inställningar
+Refresh,Uppdatera
+First Page,Första sidan
+Prev Page,Föregående sida
+Next Page,Nästa sida
+Last Page,Sista sidan
+Reset,Återställ
++,+
+-,-
+Show/Hide panel,Visa/dölj panel
+Toggle Loop Track,Aktivera upprepning av ljudspår
+Previous Track,Föregående ljudspår
+Next Track,Nästa ljudspår
+Info mode,Infoläge
+Hero mode,Hjälteläge
+Skin mode,Skinläge
+Prev mode,Föregående läge
+Next mode,Nästa läge
+Disconnect controller,Koppla bort handkontroll
+Clear all monkeys,Rensa alla apor
+Clear all powers,Rensa alla krafter
+Mute,Tyst läge
+Place Second Tower Console,Placera ytterligare en Pilapa och tryck på [dpad_up] för att spela
+Finished Round One Console,"Det var enkelt, eller hur? Tryck på [dpad_up] för att börja nästa runda"
+Speed x1,Hastighet x1
+Speed x3,Hastighet x3
+CouchBuildZoneMessage,Bygg dina aptorn i ditt tillåtna område
+Insta Monkeys,Insta-apor
+Controller.Title,Kontroller
+Controller.DPadUp,Skicka runda/snabbt framåt
+Controller.DPadDown,Skicka lopprunda
+Controller.DPadLeft,Ej tilldelad
+Controller.DPadRight,Ej tilldelad
+Controller.LeftAnalog,Gratismarkör
+Controller.LeftAnalogButton,Snabbplacering
+Controller.RightAnalog,Skrolla
+Controller.RightAnalogButton,Visa/dölj panel
+Controller.Menu,Ej tilldelad
+Controller.Start,Pausa
+Controller.LeftShoulder,Föreg. flik
+Controller.RightShoulder,Nästa flik
+Controller.LeftTrigger,"Exakt utplacering, snabbvalstangenter för förmågor"
+Controller.RightTrigger,Snabbvalstangenter för förmågor
+Controller.NorthButton,Ej tilldelad
+Controller.SouthButton,Bekräfta
+Controller.EastButton,Avbryt
+Controller.WestButton,Ej tilldelad
+Toggle tab,Aktivera flik
+Refresh data,Uppdatera data
+Prev tab,Föreg. flik
+Next tab,Nästa flik
+Controller.Ready,Redo
+Friends,Vänner
+MinimumRounds,Minsta antal rundor
+MaximumRounds,Högsta antal rundor
+Max Monkeys,Max antal apor
+Toggle add / remove,Aktivera lägg till/ta bort
+Toggle select / edit,Aktivera välj/redigera
+Camo,Kamo
+Couch Co-op,Soffsamarbete
+Gift,Present
+Emote,Emote
+Set Target,Välj mål
+Return to groups,Återvänd till grupper
+TT_FollowCursor,Följ markör
+Toggle Map Dividers,Aktivera banuppdelare
+Send,Skicka
+Upgrade,Uppgradera
+NextUpgrade,Nästa uppgradering
+CurrentUpgrade,Nuvarande uppgradering
+HeroBoosterLocked,Låst
+PrimeGamingText,Utnyttja din utplacering för Bästa spelläge
+GetNow,Hämta nu
+,
+DarkDungeons,Mörka fängelsehålor
+OneTwoTree,En Två Träd
+BeastHandler,Besthanterare
+BeastHandlers,Besthanterare
+BeastHandler Description,"Kan träna farliga bestar på land, vatten och i luften. Istället för att skapa fler bestar samarbetar flera hanterare för att öka kraften hos de bestar som redan finns."
+BeastHandler Short Description,Stödapa
+Piranha,Piraya
+Microraptor,Mikroraptor
+Gyrfalcon,Jaktfalk
+Barracuda,Barracuda
+Adasaurus,Adasaurus
+Horned Owl,Hornuggla
+Great White,Vithaj
+Velociraptor,Velociraptor
+Golden Eagle,Kungsörn
+Orca,Späckhuggare
+Tyrannosaurus Rex,Tyrannosaurus Rex
+Giant Condor,Jättekondor
+Megalodon,Megalodon
+Giganotosaurus,Giganotosaurus
+Pouakai,Pouākai
+Piranha Description,Kommendera en liten men lättretlig fisk att hoppa upp från vattnet vid Bloonsen.
+Microraptor Description,Kommendera en liten dinosaur med vassa klor. Få den till att växa med fler Besthanterare med denna uppgradering.
+Gyrfalcon Description,Kommendera en ädel liten rovfågel som kan greppa och flytta Bloons med sina klor.
+Barracuda Description,Barracudans rakbladsvassa tänder kan smälla flera Bloonlager. Kräver minst 1 Besthanterare till med Pirayauppgraderingar. Max 4 bidragande Besthanterare
+Adasaurus Description,Adasaurusens vassa tänder åsamkar stor skada på kort distans. Kräver minst 1 Besthanterare till med Mikroraptoruppgraderingar. Max 4 bidragande Besthanterare
+Horned Owl Description,Hornugglan är tillräckligt stark för att greppa och smälla Bly- och Keramikbloons och har skarpa ögon som kan upptäcka Kamobloons.
+Great White Description,"Vithajen kan krossa Bloons, inklusive Blybloons, i sina käftar och dra dem tillbaka ner i vattnet om det behövs. Kräver minst ytterligare 2 Besthanterare med Barracuda-uppgraderingar. Max 4 bidragande Besthanterare"
+Velociraptor Description,Velociraptorn river och tuggar sönder Bloons med rasande hastighet. Kräver minst ytterligare 2 Besthanterare med Adasaurus-uppgraderingar. Max 4 bidragande Besthanterare
+Golden Eagle Description,Expert på att greppa ett stort antal Bloons samtidigt. Kungsörnen är så stor att den kräver minst 2 Besthanterare till med Hornuggla-uppgraderingar. Max 4 bidragande Besthanterare
+Orca Description,Den mäktiga späckhuggarens jättegap kan greppa och dra ner alla utom de allra största Bloonsen i djupet. Kräver minst 3 Besthanterare till med Vithaj-uppgraderingar. Max 4 bidragande Besthanterare
+Tyrannosaurus Rex Description,Tyrannosaurus Rex gigantiska käftar och vassa tänder åsamkar förödande skada med varje bett. Kräver minst ytterligare 3 Besthanterare med Velociraptor-uppgraderingar. Max 4 bidragande Besthanterare. T Rex-stampförmåga: Bedövar upp till ZOMG-bloons i ett stort område.
+Giant Condor Description,Den skräckinjagande Jättekondorens gigantiska klor kan plocka upp MOAB-klass-Bloons. Kräver minst 3 Besthanterare till med Kungsörn-uppgraderingar. Max 4 bidragande Besthanterare
+Megalodon Description,En verkligen kolossal haj med smak för Bloons som kräver minst 4 Besthanterare till med Späckhuggare-uppgraderingar. Max 8 bidragande Besthanterare
+Giganotosaurus Description,Den största och argaste dinosaurien. Giganotosaurus kan strimla sönder nästan alla Bloons omedelbart och med lätthet. Kräver minst ytterligare 4 Besthanterare med Tyrannosaurus Rex-uppgraderingar. Max 8 bidragande Besthanterare. Förmågan bedövar upp till ZOMG-bloons överallt under längre tid.
+Pouakai Description,"Legendariska Pouākai är en fågel som är så stor att den kan plocka upp, bära bort och förstöra ett nästan obegränsat antal Bloons av nästan obegränsad storlek. Kräver minst 4 Besthanterare till med Jättekondor-uppgraderingar. Max 8 bidragande Besthanterare"
+T Rex Stomp Ability,T Rex-stamp
+T Rex Stomp Ability Description,Bedövar upp till ZOMG-bloons i ett stort område.
+Giganotosaurus Stomp Ability,Giganotosaurus-stamp
+Giganotosaurus Stomp Ability Description,Bedövar upp till ZOMG-bloons överallt under längre tid.
+Move,Flytta
+NeedsBeastHandlers,Kräver Best
+NeedsWater,Behöver vatten
+NeedsTrack,Behöver väg
+Dreadbloon,Skräckbloon
+DreadbloonTagLine,Från den mörka jordens djup...
+DreadbloonTagLine2,Bepansrade Behemoth!
+DreadbloonInfoPanelDescription,"\n• Skräckbloonen har blyegenskaper och minskar all inkommande skada med 1.\n• När varje dödskalle har uppnåtts får Skräckbloonen ett keramikskal och Skräckstenbloons kommer att börja dyka upp vid banans början.\n• När Skräckbloonen dyker upp är den immun mot primära torn. Vid varje dödskalle ändras denna immunitet till en annan torntyp: Militär, Magi, Stöd.\n• Skräckstenbloons och keramikskalet har också dessa immuniteter.\n• Skräckstenbloons har en stark förmåga till hån, var försiktig med vad dina torn siktar på!"
+DreadbloonPrimaryImmunity,Immun mot: Primär
+DreadbloonMilitaryImmunity,Immun mot: Militär
+DreadbloonMagicImmunity,Immun mot: Magi
+DreadbloonSupportImmunity,Immun mot: Support
+Resist,Motstånd
+Immune,Immun-
+SleighCaptainChurchillSkinName,Släde-Churchill-skin
+SleighCaptainChurchillSkinDescription,"Förinta Bloons med julstämning, en julklappsinslagen bomb i taget."
+SleighCaptainChurchillSkinNameFull,Släde-Churchill
+GameUIProfileBanner23Name,Julkortsprofilbanner
+GameUIProfileBanner23ShortName,Julkortsbanner
+GameUIProfileBanner23Description,Fira julens lekfullhet i vinter eller året runt med denna frostigt roliga banner. Samlarföremål under begränsad tid!
+GameUIProfileBanner24Name,Bumerangglavprofilbanner
+GameUIProfileBanner24ShortName,Bumerangglavbanner
+GameUIProfileBanner24Description,Bannervinnare av ReconScoutTeemo
+GameUIProfileBanner25Name,Glyfprofilbanner
+GameUIProfileBanner25ShortName,Glyfbanner
+GameUIProfileBanner25Description,Bannervinnare av PvtMagnuS
+GameUIProfileAvatar65Name,Anpassad avatar – Julkrans
+GameUIProfileAvatar65ShortName,Julkransavatar
+GameUIProfileAvatar65Description,"Sprid glädje och lycka för alla med denna Julkransavatar. Samlarföremål under begränsad tid!"
+GameUIProfileAvatar66Name,Anpassad avatar – Vredens avatar
+GameUIProfileAvatar66ShortName,Vredens avatar
+GameUIProfileAvatar66Description,"Äntligen! Hur lång tid ska det behöva ta? Milda bananer, avatar ingår ju i mitt namn!"
+GameUIProfileAvatar67Name,Anpassad avatar – God Jul
+GameUIProfileAvatar67ShortName,God Jul-avatar
+GameUIProfileAvatar67Description,"Etiennes förväntan att få ytterligare en drönare i julklapp skulle fylla hjärtat med glädje hos vem som helst. Samlarföremål under begränsad tid!"
+GameUIProfileAvatar68Name,Anpassad avatar – Absoluta nollpunkten
+GameUIProfileAvatar68ShortName,Absoluta nollpunkten-avatar
+GameUIProfileAvatar68Description,"Om det är viktigt att se kylig ut, går det inte att misslyckas med denna Isapavatar."
+CoopEmoteAnimationSleighbellsName,Snö och bjällerklang-animering
+CoopEmoteAnimationSleighbellsShortName,Bjällror
+CoopEmoteAnimationSleighbellsDescription,"Skaffa den här helskärmsemoten med ett juligt vinterland och sprid julstämning hos spelare 1, 2 eller 4! Samlarföremål under begränsad tid!"
+TowerProjectileBananaFarmPresentsName,Bananodlingens julklappsbananer
+TowerProjectileBananaFarmPresentsShortName,Bananodlingsjulklappar
+TowerProjectileBananaFarmPresentsDescription,"Det finns inget bättre än bananodlingar som odlar julklappar! Vad som finns i julklapparna? Bananer, så klart! Samlarföremål under begränsad tid!"
+TowerProjectileDartMonkeySnowballsName,Pilapans snöbollsprojektil
+TowerProjectileDartMonkeySnowballsShortName,Pilapans snöbollar
+TowerProjectileDartMonkeySnowballsDescription,"Vi är inte säkra på hur de blev så bra när de växte upp i djungeln, men testa det här projektilbytet och se varför Pilapan alltid vinner när det handlar om snöbollskrig. Samlarföremål under begränsad tid!"
+TowerProjectileTackShooterIciclesName,Nubbskyttens istapps- och snöflingeprojektil
+TowerProjectileTackShooterIciclesShortName,Nubbskyttens istappar
+TowerProjectileTackShooterIciclesDescription,"Om du gillar kombinationen av Nubbskytten och Isapan, kommer det att glittra ännu mer när nubb blir till istappar och blad blir snöflingor. Samlarföremål under begränsad tid!"
+TowerProjectileNinjaMonkeySnowflakesName,Apninjans snöflingeprojektil
+TowerProjectileNinjaMonkeySnowflakesShortName,Apninjans snöflingor
+TowerProjectileNinjaMonkeySnowflakesDescription,Ömtålig snöflinga\nKastas snabbt från ninjas hand\nSymmetriskärning\n\nSamlarföremål under begränsad tid!
+BuildingPropChristmasTreeName,Julgransbyggnad
+BuildingPropChristmasTreeShortName,Julgransbyggnad
+BuildingPropChristmasTreeDescription,Förvandla din bas till en julgran!? Var ska aporna bo? Vänta lite... glöm det.\nSkapa lite julstämning i ditt team med denna julgransbas. [Huvudbyggnadsplats]
+BasePropCosyBeanbagMonkeyName,Mysig sittsäckapa
+BasePropCosyBeanbagMonkeyShortName,Mysig sittsäckapa
+BasePropCosyBeanbagMonkeyDescription,Sittsäcken. Den ultimata symbolen för avslappning. En avslappnad apa ingår! [Öplats]
+TeamsBanner9Name,Ömtålig snöflinga-banner
+TeamsBanner9ShortName,Ömtålig snöflinga-banner
+TeamsBanner9Description,"Den simpla komplexiteten hos en snöflinga är perfektion, precis som ditt team."
+TeamsBanner10Name,Grillad banan-banner
+TeamsBanner10ShortName,Grillad banan-banner
+TeamsBanner10Description,Få det att vattnas i munnen hos ditt team med lägereldsgrillad banan!
+TeamsEmblemFrame12Name,Bloonram
+TeamsEmblemFrame12ShortName,Bloonram
+TeamsEmblemFrame12Description,Gör ditt team till allas fiende med denna skoningslösa Bloonram.
+TeamsEmblemFrame13Name,Militärram
+TeamsEmblemFrame13ShortName,Militärram
+TeamsEmblemFrame13Description,Ett entusiastiskt team är ingenting utan struktur och disciplin.
+TeamsEmblemIcon15Name,Kronikon
+TeamsEmblemIcon15ShortName,Kronikon
+TeamsEmblemIcon15Description,Stöd ditt teams anspråk på piltronen.
+TeamsEmblemIcon16Name,Utomjordingsikon
+TeamsEmblemIcon16ShortName,Utomjordingsikon
+TeamsEmblemIcon16Description,En ikon för när ditt team inte är av denna världen!
+Achievement 146 Name,Sidouppdrag
+Achievement 146 Description,Slutför ett uppdrag
+Achievement 147 Name,Förstärkning
+Achievement 147 Description,Ha 75 effekthöjare aktiva för dina apor samtidigt
+Achievement 148 Name,Träning för Världsligan
+Achievement 148 Description,Samla ihop 150 000 Besthanterar-XP
+CompleteQuestMessage,Slutför uppdrag
+QuestUnlocksAtLevelXMessage,Uppdrag blir upplåst<br>Nivå {0}
+QuestComplete,Uppdrag slutfört!
+BeastHandlerQuestName,Episkt best-uppdrag
+BeastHandlerQuestReward,Lås upp Besthanteraren + mera!
+BeastHandlerQuest1Name,Jordens Väg
+BeastHandlerQuest1Description,Träna dödliga dinosaurier på Stenbrott
+BeastHandlerQuest1Victory,Gratulerar! Du har slutfört Jordens Väg!
+BeastHandlerQuest2Name,Vattnets Väg
+BeastHandlerQuest2Description,Odla vildsinta fiskar på Kryddöarna!
+BeastHandlerQuest2Victory,Gratulerar! Du har slutfört Vattnets Väg!
+BeastHandlerQuest3Name,Luftens Väg
+BeastHandlerQuest3Description,Kläck kraftfulla fåglar på Sprucken
+BeastHandlerQuest3Victory,Gratulerar! Du har slutfört Luftens Väg!
+DialogBeastHandlerQuest1UI1,Besthanterarna lämnade byn för flera år sedan i syfte att hitta episka bestar och de är nästan klara!
+DialogBeastHandlerQuest1UI2,Om du kan hjälpa dem att slutföra sitt uppdrag kommer de att komma tillbaka och förena sig med oss i vår kamp mot Bloonsen!
+DialogBeastHandlerQuest1InGame1,Besthanterarna hörde berättelser om ett mystiskt ägg och har tämjt sin första episka best!
+DialogBeastHandlerQuest1InGame2,Hjälp dem att lära sig allt som finns att veta om dessa rovgiriga jägare!
+DialogBeastHandlerQuest2UI1,Fantastiskt! Besthanterarna arbetar med ilskna bestar som om de vore sällskapsdjur. Och de har listat ut hur de kan kombinera och göra dem starkare genom att samarbeta.
+DialogBeastHandlerQuest2UI2,"Jag förstår inte det biologiska, men kombinationer är definitivt mera kraftfulla. De har väglett Besthanterarna till ytterligare ett ägg."
+DialogBeastHandlerQuest2UI3,Jag är jättenyfiken på vad de har hittat!
+DialogBeastHandlerQuest3UI1,"Så krävande att träna så skräckinjagande vattenbestar för att hjälpa till att bekämpa Bloonsen på vattnet och hitta sjunkna skatter, som det tredje ägget."
+DialogBeastHandlerQuest3UI2,"Så snart som du har hjälpt Besthanterarna att tämja den tredje besten, kan de ansluta sig till teamet!"
+,
+RemoveProviderFromAccount,Är du säker på att du vill ta bort denna bidragsgivare från ditt konto? <br><br><b>Det kan ta upp till 3 timmar innan bidragsgivaren tas bort från kontot</b>
+ProviderRemovedText,Bidragsgivare borttagen.<br><br>Denna sida kommer att stängas inom kort
+AdditionalAccountLinks,Ytterligare kontolänkar
+LoginWithAmazon,Logga in med Amazon
+LinkingCodeButton,Skaffa en länkningskod
+LinkingCodeMessage,Var vänlig öppna spelet på din andra enhet och ange följande kod när du tillfrågas. Denna kod är giltig i 10 minuter.
+Rate Expires In,Priset upphör att gälla om
+Rate,Pris
+CoopGameSyncFailed,Synkroniseringen av spelinställningarna misslyckades. Var vänlig försök med ett nytt spel.
+iCloudTitle,iCloud
+iCloudDisabled,iCloud inaktiverat
+iCloudEnabled,iCloud aktiverat
+DialogBeastHandlerQuest1InGameTowerUpgrade1,"Wow, det odjuret är så starkt att det krävs TVÅ Odjurshanterare för att hålla det under kontroll!"
+Buffed,Förstärkt
+Assisting,Assistera
+Select Point On Track,Välj en punkt på banan

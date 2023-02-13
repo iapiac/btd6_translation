@@ -101,7 +101,7 @@ Quincy Level 15 Description,快速射擊變為x4攻擊速度，冷卻時間縮�
 Quincy Level 16 Description,攻速進一步提升。
 Quincy Level 17 Description,箭矢存在時間延長25％。每隔一次射擊就會射出爆炸箭矢。
 Quincy Level 18 Description,Quincy的擊速度加快，并且箭之暴減少冷卻時間，箭矢增加50%。
-Quincy Level 19 Description,每支箭都獲得還要更大的擊破力。
+Quincy Level 19 Description, 3 箭齊射，每支箭都獲得更大的擊破力。
 Quincy Level 20 Description,Quincy的擊速度进一步加快。箭之暴每箭傷害力增加，並且射出更多箭。
 ,
 StrikerJones Level 1 Description,先鋒瓊斯可發射強力巴祖卡火箭彈轟炸氣球。
@@ -697,10 +697,10 @@ Enhanced Eyesight Description,射得還要更遠，還可檢測到偽裝氣球�
 Spike-o-pult Description,將飛鏢猴子轉換為針刺投石機，不再投擲飛鏢，而是大刺球。每球都能擊破大量的氣球，並且碰到障礙物會彈回來。
 Triple Shot Description,一次扔3支飛鏢，而不是1支。
 Crossbow Description,使用長射程弩車，每次攻擊擊破三層氣球。
-Juggernaut Description,投擲巨大刺球，能擊破鉛氣球，對陶瓷氣球極具破壞力。
+Juggernaut Description,投擲巨大刺球，能擊破鉛氣球，對陶瓷氣球和強化氣球極具破壞力。
 Super Monkey Fan Club Description,超猴粉絲團技能：最多可將包括自己在內附近的 10 個飛鏢猴轉換成超級猴，持續 15 秒，並使普通攻擊速度加快。
 Sharp Shooter Description,尖銳射手每幾秒射出強大的暴擊，可造成大得多的傷害。
-Ultra-Juggernaut Description,巨大刺球兩次分裂，變成6個投石車球，造成還要更大的破壞力。
+Ultra-Juggernaut Description,巨大刺球經過兩次分裂，變成6個小刺釘球，對陶瓷和強化氣球具有更大的破壞力。
 Plasma Monkey Fan Club Description,粉絲團的精英會員身份，可以給飛鏢猴子還要更大的力量！
 Crossbow Master Description,弩車大師射擊速度超快，可輕鬆毀掉大多數類型的氣球。
 ,
@@ -756,11 +756,11 @@ Permafrost Description,氣球解凍後仍然移動緩慢。
 Enhanced Freeze Description,攻擊速度更快，凍結時間更長。
 Larger Radius Description,更大凍結區域。
 Metal Freeze Description,可以凍結和擊破鉛氣球和僞裝氣球。
-Deep Freeze Description,凍結額外一層氣球且凍結時間更長。
+Deep Freeze Description,穿透力增加，凍結額外一層氣球，且凍結持續時間更長。
 Re-Freeze Description,可對已經凍結的氣球再次凍結。
 Ice Shards Description,凍結氣球爆掉時飛出剃刀尖銳碎片。
 Arctic Wind Description,大幅增加穿透力，並獲得超冷光環，可使靠近的氣球減速和凍結附近的水面。
-Cryo Cannon Description,向氣球遠程射出凍結炸彈。
+Cryo Cannon Description,向更遠處的氣球快速發射較小的冰凍炸彈。
 Embrittlement Description,可擊中MOAB級氣球，所有被擊中的氣球會變得脆弱，被凍結時受到額外傷害，並永久失去偽裝特性。
 Snowstorm Description,暴風雪技能：凍結螢幕上包括白色氣球、斑馬條紋氣球、偽裝氣球在內的所有普通氣球，並使MOAB級氣球減速。
 Icicles Description,被凍結的氣球長出尖銳冰柱，可擊破接觸到的氣球。
@@ -774,10 +774,10 @@ Stickier Glue Description,使粘膠效果持續時間更長。
 Corrosive Glue Description,被粘膠粘住的氣球每秒破掉一層。
 Glue Splatter Description,一次射擊可將粘膠潑到6個氣球上。
 Stronger Glue Description,讓氣球的速度還要更慢。
-Bloon Dissolver Description,極端溶劑，每秒可溶化兩層。
+Bloon Dissolver Description,每次發射可以粘住一個額外氣球，溶劑每秒可溶化兩層氣球。
 Glue Hose Description,射擊粘膠的速度3x！
 MOAB Glue Description,改進粘膠配方，可粘住MOAB級氣球。
-Bloon Liquefier Description,每次射擊可粘住一個額外的氣球，並塗上每秒可擊破10個氣球的液化混合物。
+Bloon Liquefier Description,使用可每秒擊破 10 個氣球的液化混合物。
 Glue Strike Description,粘膠打擊技能：短時間內凍結螢幕上所有氣球，並使它們在效果持續時間內受到的所有傷害增加。
 Relentless Glue Description,擊破被粘住的氣球，並在路輕上留下一灘粘膠。
 The Bloon Solver Description,氣球問題？解決方法在這裏。
@@ -875,10 +875,10 @@ Heavy Shells Description,重型砲彈可對陶瓷氣球，鉛氣球和所有強�
 Signal Flare Description,被信號彈擊破的偽裝氣球永久失去偽裝。
 The Big One Description,毀滅性爆炸可擊破7層氣球，並使燃燒造成的傷害進一步增加
 Artillery Battery Description,砲擊技能：對較大範圍内的目標發動快速砲擊。主攻擊可對BAD級和頭目級氣球造成更高傷害。火砲台升級為3個砲管，以超乎想像的速度攻擊。
-Shattering Shells Description,粉碎砲彈將去除氣球的所有特性，但是最大的氣球除外。
+Shattering Shells Description,破碎的砲彈可以移除所有氣球的特殊屬性，並點燃 MOAB 級氣球以造成額外傷害，最大的氣球除外。
 The Biggest One Description,爆炸衝擊可擊破大片範圍內的氣球及氣球層，並造大量燃燒傷害。
 Pop and Awe Description,爆炸並畏怯技能：爆炸如雨點覆蓋整個螢幕，擊破並困住所有氣球，持續幾秒。所有火砲臺可對BAD級和頭目級氣球造成更高傷害。主攻擊可對被擊暈的氣球造成額外傷害。
-Blooncineration Description,每次射擊超熱刺釘可以熔化5層氣球，點燃MOAB級氣球造成往外傷害。
+Blooncineration Description,超熱燃燒每次射擊都會熔化5層氣球，並點燃MOAB級氣球，对其造成巨大傷害。
 ,
 Focused Firing Description,提高了飛鏢槍的精度。
 Advanced Targeting Description,使飛鏢槍手能夠命中偽裝氣球。
@@ -909,7 +909,7 @@ Shimmer Description,獲得黑魔法攻擊，可周期性地顯示附近所有偽
 Arcane Spike Description,魔法攻擊速度加快，對大多數類型氣球造成海量傷害。
 Summon Phoenix Description,召喚不死鳥技能：強大的不死鳥造成氣球在浩劫，持續20秒。
 Necromancer: Unpopped Army Description,復活最近被擊破的氣球，使它們成為僕人，幫助破壞氣球。
-Archmage Description,真正的魔法大師。
+Archmage Description,真正的魔法大師。 攻擊速度更快，對 MOAB 級氣球造成更高傷害。
 Wizard Lord Phoenix Description,大法師成為火焰大師，短時間內變成一隻超級強大的熔岩不死鳥。
 Soulbind Description,復活更強大的氣球僕人摧毀敵人，提升其他所有死靈法師的能力。
 ,
@@ -971,7 +971,7 @@ Druid of the Storm Description,一陣陣風從出口將氣球吹出路徑。
 Druid of the Jungle Description,從地面召喚葡萄藤，同時可纏住並砸碎一個氣球，並留下一堆致命荊棘。
 Druid of Wrath Description,本回合期間，只要督伊德正在擊破氣球，即增加攻擊速度。
 Ball Lightning Description,生成强大的閃電球，不僅可射出額外閃電箭，還可凍結氣球。
-Jungle's Bounty Description,叢林賞金技能：每次使用可生成現金，並且督伊德附近的每座香蕉農場都會生成額外現金。葡萄藤可同時纏住兩個氣球。
+Jungle's Bounty Description,叢林賞金技能：每次使用可生成現金，並且督伊德附近的每座香蕉農場都會生成額外現金。葡萄藤可同時纏住兩個氣球。 召喚兩根葡萄藤來纏住氣球，並且荆棘桩可獲得额外穿透力。
 Poplust Description,本回合期間，只要德魯伊正在擊破氣球，即增加攻擊速度。
 Superstorm Description,超級風暴造成所有種類的氣球巨大傷害，並將它們從出口處吹走。
 Spirit of the Forest Description,在路徑上種植刺藤，造成持續傷害，對陶瓷氣球造成額外傷害，技能激活後可恢復生命和生成現金。
@@ -1660,11 +1660,11 @@ btd6_herobooster Description,在你現在遊戲中選擇的英雄達到{0}級，
 btd6_powersattackpack,力量攻擊包
 btd6_powersattackpack Description,一套聚焦{0}戰鬥的猴子力量組合。
 btd6_instatowerspack,即時猴子包
-btd6_instatowerspack Description,5個猴子塔，已準備好放置，無需遊戲內現金！包含2個1階、2個2階和1個3階
+btd6_instatowerspack Description,5個猴子塔，無需遊戲內現金即可部署！包含2個1階塔、2個2階塔和1個3階塔。抽到每階猴子的機率相同。
 btd6_tier3instatowerspack,3階即時猴子包
-btd6_tier3instatowerspack Description,10個3階即時猴子塔，已準備好放置，無需遊戲內現金！
+btd6_tier3instatowerspack Description,10個3階即時猴子塔，無需遊戲內現金即可部署！ 抽到每階猴子的機率相同。
 btd6_tier4instatowerspack,4階即時猴子包
-btd6_tier4instatowerspack Description,10個4階即時猴子塔，已準備好放置，無需遊戲內現金！
+btd6_tier4instatowerspack Description,10個4階即時猴子塔，無需遊戲內現金即可部署！抽到每階猴子的機率相同。
 btd6_needmoremonkeymoneyprompt,猴幣不足！購買更多？
 ,
 ,
@@ -1678,11 +1678,11 @@ btd6_extramonkeymoney Description,特价！ {0}的猴幣，價格很低。
 btd6_powerspandamonium,能量熊貓素
 btd6_powerspandamonium Description,我們的力量組合！最好的猴子力量中的{0}個，一包全部囊括。
 btd6_instatowersmegabooster,即時猴子巨型推動器
-btd6_instatowersmegabooster Description,此巨型包含5個2階、12個3階、和3個4階的即時猴子塔，已準備好放置，無需遊戲內現金！
+btd6_instatowersmegabooster Description,此超大包含5個2階、12個3階和3個4階即時猴塔，無需遊戲內現金即可部署！抽到每階猴子的機率相同。
 btd6_megamonkeycompendiumpack,巨型猴子組合包
-btd6_megamonkeycompendiumpack Description,"滿滿地一大包好東西！25,000的猴幣，100個攻擊力量，30個3階即時猴塔，15個4階即時猴塔，5個5階即時猴塔，並有知識解鎖（等級30，5個獎勵猴子知識點）！"
+btd6_megamonkeycompendiumpack Description,"滿滿的一大包好東西！25,000個猴幣，100點攻擊力量，30個3階即時猴塔，15個4階即時猴塔，5個5階即時猴塔，並有知識解鎖（等級30，5個獎勵猴子知識點）！抽到每階猴子的機率相同。"
 btd6_tier5instatowerpack,5階即時猴子包
-btd6_tier5instatowerpack Description,10個5階猴子塔，已準備好放置，無需遊戲內現金！
+btd6_tier5instatowerpack Description,10個5階猴子塔，無需遊戲內現金即可部署！抽到每階猴子的機率相同。
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,一堆猴幣促銷
@@ -2042,6 +2042,8 @@ Swedish,瑞典語
 Turkish,土耳其語
 Korean,韓語
 Japanese,日語
+Polish,波蘭語
+Monkelish,猴語
 ,
 Backup,備份
 Profile,賬戶
@@ -2461,11 +2463,11 @@ EditorLockedShareButtonDescription,如果想分享您的挑戰，您必須在測
 ConflictScreenChoose,選擇一個已儲存的遊戲
 ConflictThisDevice,本裝置
 ConflictCloud,從雲存儲上
-ConflictTimeHours,{0} 小時前儲存
 ConflictUseButton,使用
 ConflictNoData,無數據
-ConflictTimeMinutes,{0} 分鐘前儲存
 ConflictTimeSeconds,{0} 秒前儲存
+ConflictTimeMinutes,{0} 分鐘前儲存
+ConflictTimeHours,{0} 小時前儲存
 ConflictTimeDays,{0} 天前儲存
 FasterMoabs,Moab速度
 SlowerMoabs,Moab速度
@@ -2751,8 +2753,8 @@ DarkKnightDarkshift,[I]黑暗轉移至範圍內
 DarkChampionDarkshift,[I]黑暗轉移至任何有效位置
 SmallTowersMode,小猴子塔
 BigTowersMode,大猴子塔
-UpdatePopupTitle,更新 33！
-UpdatePopupDescription,海量内容更新！\n• 推出令人敬畏的巨人末日飛船，王牌猴子巔峰！\n• 玩家可以在中級地圖 - 隱蔽的花園 - 修鍊擊破力！由社群地圖比賽獲勝者SuperPsou設計。\n• 新的高級地圖 - 午夜豪宅 - 陰森恐怖，走廊上鬼影重重！\n• 獎盃商店物品：生活素質改進、平衡性修改等！
+UpdatePopupTitle,更新 34！
+UpdatePopupDescription,超級節日更新！\n• 對抗裝甲巨獸恐怖氣球的強大抗性和傷害免疫特性！\n• 在新的初學者地圖「一兩棵樹」上，發現放置防禦塔的增益！\n• 用新的丘吉爾船長皮膚「丘吉爾雪橇」，以節日的氣氛擊破氣球！\n• 獎盃商店物品：生活素質改進、平衡性修改等！\n• Ninja Kiwi 全體人員祝大家節日快樂，致以美好的新年祝福！
 ResetDailyChest,重設每日寶箱
 JukeboxName,自動唱機
 EnableFunction,啟用
@@ -4723,17 +4725,17 @@ RelicMilitaryMonkeys,軍事猴子
 RelicMagicMonkeys,魔法猴子
 RelicSupportSimians,輔助猴子
 RelicMonkeyTycoon,猴子大亨
-RelicStartingStashDescription,每局遊戲開始時額外獲得300現金（可與普通地塊上的更多現金疊加）
+RelicStartingStashDescription,每局遊戲開始時額外獲得250現金（與在普通地塊上的更多現金疊加）
 RelicExtraEmpoweredDescription,遊戲開始時英雄的等級額外增加3級（可與普通地塊上的強化英雄效果疊加）
 RelicBoxOfChocolatesDescription,每局遊戲開始時獲得額外100點生命
-RelicBoxOfMonkeyDescription,每局遊戲開始時免費獲得一隻花費不超過$500的猴子，進行未經修改的初始放置
+RelicBoxOfMonkeyDescription,每局遊戲開始時免費獲得一隻花費不超過$400的猴子，進行未經修改的初始放置
 RelicMarchingBootsDescription,在數量受限的遊戲中，使玩家武裝中的每種防禦塔最大數量+1，或每局遊戲最大總數+4
 RelicHeroBoostDescription,英雄在每局遊戲中獲取的經驗值增加15%
 RelicBiggerBloonSabotageDescription,所有生成的MOAB氣球，生命值減少15%，移動速度將為95%
 RelicRoundingUpDescription,每回合結束時獲得$20
 RelicManaBulwarkDescription,創造一個最多可吸收50點生命的護盾（可與普通地塊上的法力護盾疊加）
-RelicRegenerationDescription,每回合恢復10點生命，如果當回合未損失生命，最高只能至每局遊戲開始時的生命值
-RelicRestorationDescription,每回合恢復20點生命，如果當回合未損失生命，最高只能至每局遊戲開始時的生命值+200
+RelicRegenerationDescription,每回合恢復20點生命，如果當回合未損失生命，最高只能至每局遊戲開始時的生命值
+RelicRestorationDescription,每回合恢復10點生命，如果當回合未損失生命，最高只能至每局遊戲開始時的生命值+200
 RelicDurableShotsDescription,所有射彈的存在時間+25%
 RelicAlchemistTouchDescription,所有攻擊可擊破鉛氣球
 RelicDeepHeatDescription,所有攻擊可擊破白氣球
@@ -4741,14 +4743,14 @@ RelicSharpsplosionDescription,所有攻擊可擊破黑氣球
 RelicRoyalTreatmentDescription,所有攻擊可擊破紫氣球
 RelicHardBakedDescription,所有攻擊對陶瓷氣球造成的傷害+1
 RelicFortifriedDescription,所有攻擊對強化氣球造成的傷害+1
-RelicMoabClashDescription,所有攻擊對MOAB級氣球造成的傷害+3
+RelicMoabClashDescription,所有攻擊對MOAB級氣球造成的傷害+2
 RelicCamoFloggedDescription,所有攻擊對偽裝氣球造成的傷害+3
 RelicBrokenHeartDescription,所有攻擊對重生氣球造成的傷害+1
 RelicGoingTheDistanceDescription,所有猴子的攻擊範圍增加20%
-RelicHeartlessDescription,重生氣球的再生速度減慢25%
+RelicHeartlessDescription,重生氣球的再生速度減慢50%
 RelicFlintTipsDescription,銳利射彈對氣球造成傷害時可對它們附加火焰周期性傷害（每2.5秒造成1點傷害，持續5秒）
 RelicAbilitizedDescription,所有猴子的激活技能的冷卻時間減少10%
-RelicAirAndSeaDescription,王牌猴子、直升機猴子、海盜猴子和猴子潛艇的放置和升級花費減少10%，並且裝彈速度加快5%
+RelicAirAndSeaDescription,王牌猴子、直升機猴子、海盜猴子和猴子潛艇的放置和升級花費減少5%，並且裝彈速度加快5%
 RelicElDoradoDescription,通過遊戲勝利獲得的猴幣和戰隊獎盃獎勵增加25%（最少+1）
 RelicMonkeyShieldDescription,奪取後1小時內，地塊無法被敵方戰隊攻擊。強化分數將再次生效。
 RelicMonkeyShieldMark2Description,奪取後2小時內，地塊無法被敵方戰隊攻擊。強化分數將再次生效。
@@ -4763,11 +4765,11 @@ RelicRoadSpikesDescription,每局遊戲獲得10堆道釘
 RelicMoabMineDescription,每局遊戲可以使用1次MOAB地雷強化道具
 RelicGlueTrapDescription,每局遊戲可以使用2次粘膠陷阱強化道具
 RelicTechbotDescription,每局遊戲可以使用1次科技機器人強化道具
-RelicPrimaryPrimatesDescription,所有初級猴子的花費減少10%
-RelicMilitaryMonkeysDescription,所有軍事猴子的花費減少10%
-RelicMagicMonkeysDescription,所有魔法猴子的花費減少10%
+RelicPrimaryPrimatesDescription,所有初級猴子的花費減少8%
+RelicMilitaryMonkeysDescription,所有軍事猴子的花費減少8%
+RelicMagicMonkeysDescription,所有魔法猴子的花費減少8%
 RelicSupportSimiansDescription,所有輔助猴子的花費減少10%
-RelicMonkeyTycoonDescription,武裝中的所有猴塔+1，並且它們的基礎價格減少5%
+RelicMonkeyTycoonDescription,武裝中的所有猴塔+1，並且它們的基礎價格減少4%
 InviteToTeam,邀請加入戰隊
 TeamLeave,離開戰隊
 Requests,請求
@@ -5067,11 +5069,11 @@ TeamsBanner8Description,裝備此橫幅，展現你奪取六邊形地塊的承�
 TeamsEmblemIcon13Name,功夫奇異鳥圖標
 TeamsEmblemIcon13ShortName,功夫奇異鳥圖標
 TeamsEmblemIcon13Description,使出你最喜歡的不會飛的鳥的成名絕技飛踢，讓對手大吃一驚。
-TeamsEmblemIcon14Name,全能之眼圖標
-TeamsEmblemIcon14ShortName,全能之眼圖標
+TeamsEmblemIcon14Name,全視之眼圖標
+TeamsEmblemIcon14ShortName,全視之眼圖標
 TeamsEmblemIcon14Description,裝備此戰隊圖標，你的對手會對自己的一舉一動心生疑慮。
-TeamsEmblemFrame10Name,忍者捲軸地圖框
-TeamsEmblemFrame10ShortName,忍者捲軸地圖框
+TeamsEmblemFrame10Name,忍者卷軸地圖框
+TeamsEmblemFrame10ShortName,忍者卷軸地圖框
 TeamsEmblemFrame10Description,這個地圖框表示你的戰隊熱衷於古老的忍術。
 TeamsEmblemFrame11Name,認知力地圖框
 TeamsEmblemFrame11ShortName,認知力地圖框
@@ -5114,7 +5116,262 @@ TeamTrophyStoreRulesInfoSectionFour,戰隊天賦需要整個戰隊資助，一�
 PlaySocialCaps,進行多人遊戲
 SelectCapturedRelics,選擇最多4種已奪取的聖物
 NextBonusIn,下次個獎勵刷新時間：
-MemberCount,成員數
-Min,最低限度
-PrimeGamingText,領取您的 Prime Gaming 禮物！
-GetNow,Get Now
+MemberCount,成員人數
+Min,最小回合數
+Back,後退
+Purchase Monkey Money,購買猴錢幣
+Player Profile,玩家個人檔案
+Toggle Info,切換資訊
+Store Info,店鋪資訊
+Toggle mode,切換模式
+Toggle jukebox enabled,啟用自動點唱機
+Play / Pause,播放/暫停
+Move up,上移
+Move down,下移
+Buy Monkey Knowledge,購買猴子知識
+Search,搜尋
+Google Play,Google Play
+Remove mode,移除模式
+Add mode,添加模式
+Toggle ranked mode,切換排名模式
+Info,資訊
+Switch to MonkeyName,切換到命名猴子
+Rename monkey,重命名猴子
+Switch to Medals,切換到獎牌
+Switch to Settings,切換到設定
+Refresh,刷新
+First Page,第一頁
+Prev Page,上一頁
+Next Page,下一頁
+Last Page,最後一頁
+Reset,重設
++,+
+-,-
+Show/Hide panel,顯示/隱藏面板
+Toggle Loop Track,切換循環軌道
+Previous Track,上一首曲目
+Next Track,下一首曲目
+Info mode,資訊模式
+Hero mode,英雄模式
+Skin mode,皮膚模式
+Prev mode,上一個模式
+Next mode,下一個模式
+Disconnect controller,斷開控制器
+Clear all monkeys,清除所有猴子
+Clear all powers,清除所有能力
+Mute,靜音
+Place Second Tower Console,放置另一個飛鏢猴，然後按 [dpad_up] 播放
+Finished Round One Console,那很容易吧？按 [dpad_up] 開始下一回合
+Speed x1,速度 x1
+Speed x3,速度 x3
+CouchBuildZoneMessage,在您的有效區域建造您的猴子防禦塔
+Insta Monkeys,即時猴子
+Controller.Title,控制
+Controller.DPadUp,發送回合/快進
+Controller.DPadDown,發送競賽回合
+Controller.DPadLeft,未分配
+Controller.DPadRight,未分配
+Controller.LeftAnalog,自由光標
+Controller.LeftAnalogButton,快速放置
+Controller.RightAnalog,滾動
+Controller.RightAnalogButton,顯示/隱藏面板
+Controller.Menu,未分配
+Controller.Start,暫停
+Controller.LeftShoulder,上一個標籤
+Controller.RightShoulder,下一個標籤
+Controller.LeftTrigger,精確放置，技能熱鍵
+Controller.RightTrigger,技能熱鍵
+Controller.NorthButton,未分配
+Controller.SouthButton,確認
+Controller.EastButton,取消
+Controller.WestButton,未分配
+Toggle tab,切換選項卡
+Refresh data,刷新數據
+Prev tab,上一個標籤
+Next tab,下一個標籤
+Controller.Ready,準備好
+Friends,朋友們
+MinimumRounds,最小回合數
+MaximumRounds,最大回合數
+Max Monkeys,馬克斯猴子
+Toggle add / remove,切換添加/刪除
+Toggle select / edit,切換選擇/編輯
+Camo,僞裝
+Couch Co-op,沙發合作社
+Gift,禮物
+Emote,表情
+Set Target,設定目標
+Return to groups,返回群組
+TT_FollowCursor,跟隨光標
+Toggle Map Dividers,切換地圖分隔線
+Send,發送
+Upgrade,升級
+NextUpgrade,下次升級
+CurrentUpgrade,當前升級
+HeroBoosterLocked,鎖定
+PrimeGamingText,領取您的 Prime Gaming 每月物品
+GetNow,立即獲取
+,
+DarkDungeons,黑暗地牢
+OneTwoTree,一二樹
+BeastHandler,野獸之主
+BeastHandlers,野獸之主
+BeastHandler Description,可以訓練陸地、水中和天空的危險野獸。多個野獸之主可以攜手增強現有野獸的能力，而不是造出更多野獸。
+BeastHandler Short Description,支援猴子
+Piranha,食人魚
+Microraptor,小盜龍
+Gyrfalcon,長尾隼
+Barracuda,梭魚
+Adasaurus,阿達龍
+Horned Owl,角鴞
+Great White,大白鯊
+Velociraptor,迅猛龍
+Golden Eagle,金雕
+Orca,逆戟鯨
+Tyrannosaurus Rex,霸王龍
+Giant Condor,巨神鷹
+Megalodon,巨齒鯊
+Giganotosaurus,巨獸龍
+Pouakai,食人鳥
+Piranha Description,命令一隻身形小巧但精力充沛的小魚從氣球附近的水中躍出。
+Microraptor Description,命令一隻長有利爪的小恐龍。此升級需要多個野獸之主。
+Gyrfalcon Description,命令一隻高貴的小型猛禽用它的爪子抓住和移動氣球。
+Barracuda Description,梭魚鋒利的牙齒可以擊破多層氣球。食人魚升級需要至少1個野獸之主。最多可從4個野獸之主獲益
+Adasaurus Description,阿達龍鋒利的牙齒可以在近距離範圍內造成大量傷害。小盜龍升級需要至少1個野獸之主。最多可從4個野獸之主獲益
+Horned Owl Description,角鴞強壯有力足以抓住和擊破鉛氣球和陶瓷氣球，並且目光銳利，可以偵測迷彩氣球。
+Great White Description,大白鯊會壓碎氣球，包括用它的下顎壓碎鉛氣球，如有需要把氣球拖回水中。梭魚升級至少需要另外2個野獸之主。最多可從4個野獸之主獲益
+Velociraptor Description,迅猛龍能以迅雷不及掩耳之勢抓碎和咬碎氣球。阿達龍升級至少需要另外2個野獸之主。最多可從4個野獸之主獲益
+Golden Eagle Description,擅於一次抓住大量氣球。金雕個頭很大，角鴞升級至少需要另外2個野獸之主。最多可從4個野獸之主獲益
+Orca Description,強大的逆戟鯨長著一張血盆大口，可抓住所有大型氣球並將它們拖入深淵。大白鯊升級至少需要另外3個野獸之主。最多可從4個野獸之主獲益
+Tyrannosaurus Rex Description,霸王龍有著巨大的下顎和鋒利的牙齒，每一次撕咬都可造成巨量傷害。迅猛龍升級至少需要另外3個野獸之主。最多可從4個野獸之主獲益。霸王龍踐踏技能：可擊暈廣闊範圍內最高ZOMG級的氣球。
+Giant Condor Description,巨型禿鷲長著兩隻巨大的爪子，可抓住MOAB級氣球。金雕升級至少需要另外3個野獸之主。最多可從4個野獸之主獲益
+Megalodon Description,這種鯊魚是真正的龐然大物，能夠大量氣球。逆戟鯨升級至少需要另外4個野獸之主。最多可從8個野獸之主獲益
+Giganotosaurus Description,這是體型最大、性情最兇殘的恐龍。巨獸龍不費吹灰之力就能撕碎任何氣球。霸王龍升級至少需要另外4個野獸之主。最多可從8個野獸之主獲益。能夠擊暈範圍內最高ZOMG級的氣球，並且效果持續時間更長。
+Pouakai Description,傳說中的食人鳥體型巨大，可抓住、拖走並摧毀任何尺寸、任何數量的氣球。巨型禿鷲至少需要另外4個野獸之主。最多可從8個野獸之主獲益
+T Rex Stomp Ability,霸王龍踐踏
+T Rex Stomp Ability Description,擊暈廣闊範圍內最高ZOMG級的氣球。
+Giganotosaurus Stomp Ability,南方巨獸龍踐踏
+Giganotosaurus Stomp Ability Description,擊暈範圍內最高ZOMG級的氣球，並且效果持續時間更長。
+Move,移動
+NeedsBeastHandlers,需要野獸
+NeedsWater,需要水
+NeedsTrack,需求跟踪
+Dreadbloon,恐怖氣球
+DreadbloonTagLine,來自黑暗世界深處...
+DreadbloonTagLine2,裝甲巨獸！
+DreadbloonInfoPanelDescription,\n• 恐怖氣球具有鉛氣球的屬性，可將受到的所有傷害減少1點。\n• 生命條上每出現一個頭骨，恐怖氣球就會獲得一層陶瓷裝甲外殼，並且開始在路徑的初段生成恐怖岩氣球。\n• 恐怖氣球出現時，它不會受到初級防禦塔造成的傷害。每出現一個頭骨，此傷害免疫會變成另一種防禦塔：軍事、魔法、支援。\n• 恐怖岩氣球和陶瓷裝甲外殼也具有這些免疫屬性。\n• 恐怖岩氣球具有強大的嘲諷技能，防禦塔在瞄準時可要當心了！
+DreadbloonPrimaryImmunity,免疫：初級
+DreadbloonMilitaryImmunity,免疫：軍事
+DreadbloonMagicImmunity,免疫：魔法
+DreadbloonSupportImmunity,免疫：支援
+Resist,抵抗
+Immune,免疫
+SleighCaptainChurchillSkinName,雪橇Churchill皮膚
+SleighCaptainChurchillSkinDescription,用聖誕節的歡呼殺死氣球，一次射出一個禮物包裝的炸彈。
+SleighCaptainChurchillSkinNameFull,雪橇Churchill
+GameUIProfileBanner23Name,節日問候個人檔案橫幅
+GameUIProfileBanner23ShortName,節日問候橫幅
+GameUIProfileBanner23Description,用這個冷冰冰的有趣橫幅慶祝今年冬天或全年節日的歡樂。限時收藏品！
+GameUIProfileBanner24Name,迴旋鏢戰刃個人檔案橫幅
+GameUIProfileBanner24ShortName,迴旋鏢戰刃橫幅
+GameUIProfileBanner24Description,橫幅獲勝者ReconScoutTeemo
+GameUIProfileBanner25Name,象形文字個人檔案橫幅
+GameUIProfileBanner25ShortName,象形文字橫幅
+GameUIProfileBanner25Description,橫幅獲勝者PvtMagnuS
+GameUIProfileAvatar65Name,自訂化身 - 聖誕花環
+GameUIProfileAvatar65ShortName,聖誕花環化身
+GameUIProfileAvatar65Description,用這個聖誕花環化身向所有人傳遞好運和歡呼。限時收藏品！
+GameUIProfileAvatar66Name,自訂化身 - 憤怒化身
+GameUIProfileAvatar66ShortName,憤怒化身的化身
+GameUIProfileAvatar66Description,終於！輪到我需要多長時間？！化身以我的名義，爲了香蕉！
+GameUIProfileAvatar67Name,自訂化身 - 節日快樂
+GameUIProfileAvatar67ShortName,節日快樂化身
+GameUIProfileAvatar67Description,Etiennes對在聖誕節獲得另一架無人機的興奮會讓任何人的心中充滿喜悅。限時收藏品！
+GameUIProfileAvatar68Name,自訂化身 - 絕對零度
+GameUIProfileAvatar68ShortName,絕對零化身
+GameUIProfileAvatar68Description,如果看起來很酷很重要，那麼這款冰猴化身絕對是你想要的。
+CoopEmoteAnimationSleighbellsName,雪和雪橇鈴鐺動畫
+CoopEmoteAnimationSleighbellsShortName,雪橇鈴鐺
+CoopEmoteAnimationSleighbellsDescription,獲取這個冬日仙境全屏表情，向玩家1、2或4傳遞歡聲笑語！限時收藏品！
+TowerProjectileBananaFarmPresentsName,香蕉農場禮物香蕉
+TowerProjectileBananaFarmPresentsShortName,香蕉農場禮物
+TowerProjectileBananaFarmPresentsDescription,沒有什麼比種植禮物的香蕉農場更好的了！裏面裡有什麼？當然是香蕉！限時收藏品！
+TowerProjectileDartMonkeySnowballsName,飛鏢猴雪球射彈
+TowerProjectileDartMonkeySnowballsShortName,飛鏢猴雪球
+TowerProjectileDartMonkeySnowballsDescription,我們不知道它們是怎麼在叢林里形成的，不過試著更換這種射彈就知道飛鏢猴總在打雪仗中獲勝的原因了。限時收藏品！
+TowerProjectileTackShooterIciclesName,釘子槍手冰柱和雪花射彈
+TowerProjectileTackShooterIciclesShortName,釘子槍手冰柱
+TowerProjectileTackShooterIciclesDescription,如果您喜歡釘子槍手和冰猴的組合，那麼把釘子換成冰柱，利刃換成雪花，你會更喜歡。限時收藏品！
+TowerProjectileNinjaMonkeySnowflakesName,忍者猴雪花射彈
+TowerProjectileNinjaMonkeySnowflakesShortName,忍者猴雪花
+TowerProjectileNinjaMonkeySnowflakesDescription,精美的雪花\n從忍者手中快速拋出\n切割對稱\n限時收藏品！
+BuildingPropChristmasTreeName,聖誕樹建築
+BuildingPropChristmasTreeShortName,聖誕樹建築
+BuildingPropChristmasTreeDescription,把你的基地變成一棵樹！？猴子會住在哪裡？等等……沒關係。\n這個聖誕樹基地讓你的戰隊充滿節日氣氛。 [主建築欄]
+BasePropCosyBeanbagMonkeyName,舒適的豆袋猴
+BasePropCosyBeanbagMonkeyShortName,舒適的豆袋猴
+BasePropCosyBeanbagMonkeyDescription,豆袋。放鬆的終極象徵。包括一隻悠閑的猴子！ [島嶼欄]
+TeamsBanner9Name,精美的雪花橫幅
+TeamsBanner9ShortName,精美的雪花橫幅
+TeamsBanner9Description,雪花單純的複雜性堪稱完美，就像你的戰隊。
+TeamsBanner10Name,烤香蕉橫幅
+TeamsBanner10ShortName,烤香蕉橫幅
+TeamsBanner10Description,篝火烤香蕉讓您的戰隊垂涎三尺！
+TeamsEmblemFrame12Name,氣球地圖框
+TeamsEmblemFrame12ShortName,氣球地圖框
+TeamsEmblemFrame12Description,使用這個殘酷無情的氣球地圖框，使你的戰隊成為公敵。
+TeamsEmblemFrame13Name,軍事地圖框
+TeamsEmblemFrame13ShortName,軍事地圖框
+TeamsEmblemFrame13Description,缺少組織性和紀律性，再積極的戰隊也一無是處。
+TeamsEmblemIcon15Name,皇冠圖標
+TeamsEmblemIcon15ShortName,皇冠圖標
+TeamsEmblemIcon15Description,支持你的戰隊登上飛鏢王座。
+TeamsEmblemIcon16Name,外星人圖標
+TeamsEmblemIcon16ShortName,外星人圖標
+TeamsEmblemIcon16Description,你的戰隊離開地球時使用的圖標！
+Achievement 146 Name,支線任務
+Achievement 146 Description,完成一個任務
+Achievement 147 Name,精神振奮
+Achievement 147 Description,同時在你的猴子身上激活 75 個增益
+Achievement 148 Name,世界聯賽訓練
+Achievement 148 Description,"獲得 150,000 點野獸之主經驗值"
+CompleteQuestMessage,完成任務
+QuestUnlocksAtLevelXMessage,<br>{0}級時解鎖任務
+QuestComplete,任務完成！
+BeastHandlerQuestName,史詩野獸任務
+BeastHandlerQuestReward,解鎖野獸之主及更多！
+BeastHandlerQuest1Name,地球之道
+BeastHandlerQuest1Description,在採石場訓練致命的恐龍
+BeastHandlerQuest1Victory,恭喜！你完成了地球之道！
+BeastHandlerQuest2Name,水之道
+BeastHandlerQuest2Description,在香料島嶼馴養兇猛的魚
+BeastHandlerQuest2Victory,恭喜！你完成了水之道！
+BeastHandlerQuest3Name,天空之道
+BeastHandlerQuest3Description,在龜裂之地孵化強大的猛禽
+BeastHandlerQuest3Victory,恭喜！你完成了天空之道！
+DialogBeastHandlerQuest1UI1,野獸之主幾年前離開村子去尋找史詩野獸，他們就快成功了！
+DialogBeastHandlerQuest1UI2,如果你能幫助他們完成任務，他們回來後會加入我們共同對抗氣球！
+DialogBeastHandlerQuest1InGame1,野獸之主聽過神秘蛋的傳說，並且已將它們馴化成了自己的第一隻史詩野獸！
+DialogBeastHandlerQuest1InGame2,幫助他們了解這些飢餓的猛禽！
+DialogBeastHandlerQuest2UI1,太棒了！那些兇狠的野獸就像野獸之主的寵物一樣。而且，他們還弄明白了如何攜手組合和強化它們。
+DialogBeastHandlerQuest2UI2,雖然我不懂生物學，但強強聯合一定會更強大。它們引導野獸之主去找另一個蛋。
+DialogBeastHandlerQuest2UI3,我迫不及待地想知道他們找到了什麼！
+DialogBeastHandlerQuest3UI1,他們非常善於訓練野獸，這些兇猛的水獸經過馴化後可在水中幫助他們同氣球作戰，尋找水下隱藏的寶藏，比如第三顆蛋。
+DialogBeastHandlerQuest3UI2,在你幫助野獸之主馴化第三隻野獸後，他們就會加入你的隊伍！
+,
+RemoveProviderFromAccount,是否確定要從您的賬戶中刪除此供應商？ <br><br><b>從賬戶中刪除供應商最多可能需要 3 小時</b>
+ProviderRemovedText,供應商已移除。<br><br>此頁面即將關閉
+AdditionalAccountLinks,其他賬戶連結
+LoginWithAmazon,使用亞馬遜賬戶登入
+LinkingCodeButton,獲取連結代碼
+LinkingCodeMessage,請在您的其他裝置上打開遊戲，並在出現提示輸入以下代碼。此代碼將在10分鐘后失效。
+Rate Expires In,評分到期時間：
+Rate,評分
+CoopGameSyncFailed,同步遊戲設定失敗。請嘗試開始新遊戲。
+iCloudTitle,iCloud
+iCloudDisabled,iCloud 已停用
+iCloudEnabled,iCloud 已啟用
+DialogBeastHandlerQuest1InGameTowerUpgrade1,"哇，那頭野獸好強，兩個馴獸師才把它控制住！"
+Buffed,強化
+Assisting,協助
+Select Point On Track,選擇軌道上的一個點

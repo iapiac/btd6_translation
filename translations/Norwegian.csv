@@ -101,7 +101,7 @@ Quincy Level 15 Description,Hurtigskudd får x4 angrepshastighet og nedkjølinge
 Quincy Level 16 Description,Enda mer økt angrepshastighet.
 Quincy Level 17 Description,Piler varer 25 % lenger. Skyter eksploderende piler hvert andre skudd.
 Quincy Level 18 Description,Quincy angriper raskere og Pilstorm har en redusert nedkjølingstid og inkluderer 50 % flere piler.
-Quincy Level 19 Description,Hver pil får enda mer poppekraft.
+Quincy Level 19 Description,"Skyter 3 piler om gangen, og hver pil får enda mer poppekraft."
 Quincy Level 20 Description,Quincy angriper enda raskere. Storm av piler påfører mer skade per pil og skyter flere piler.
 ,
 StrikerJones Level 1 Description,Striker Jones skyter en kraftig bazooka for å sprenge bloons.
@@ -697,10 +697,10 @@ Enhanced Eyesight Description,Skyter enda lengre og kan oppdage kamuflasje.
 Spike-o-pult Description,Konverterer Dart-apen til en langsomt angripende Pigg-o-pult som kaster en stor spikerkule. Hver kule kan poppe flere bloons og spretter av hinder.
 Triple Shot Description,Kaster 3 dartpiler om gangen istedenfor 1.
 Crossbow Description,Bruker en armbrøst med lang rekkevidde som kan poppe 3 lag med bloons for hvert treff.
-Juggernaut Description,Slynger en gigantisk spikerkule som popper bly og er utmerket til å knuse keramiske bloons.
+Juggernaut Description,Slynger en gigantisk spikerkule som popper bly og er utmerket til å knuse keramiske og forsterkede bloons.
 Super Monkey Fan Club Description,"Superape-fanklubb-evne: Konverterer opptil 10 dart-aper, inkludert seg selv, i nærheten om til Superaper i 15 sekunder. Vanlig angrepshastighet økes også."
 Sharp Shooter Description,"Skarpskyttere angriper raskere og får av og til inn kraftfulle kritiske skudd, som gjør masse skade."
-Ultra-Juggernaut Description,Gigantisk spikerkule splittes to ganger til 6 Juggernaut-baller for enda mer ødelggende skader.
+Ultra-Juggernaut Description,Gigantisk spikerkule deles to ganger til seks Juggernaut-baller for enda mer ødelggende skade mot keramiske og forsterkede bloons.
 Plasma Monkey Fan Club Description,Elite-medlemskap i denne klubben gir Dart-aper enda flere krefter!
 Crossbow Master Description,Armbrøstmester skyter veldig fort og ødelegger de fleste bloon-typer lett som en plett.
 ,
@@ -756,11 +756,11 @@ Permafrost Description,Bloonsene beveger seg sakte selv etter de har tint.
 Enhanced Freeze Description,Angriper raskere og fryser lengre.
 Larger Radius Description,Større fryseområde.
 Metal Freeze Description,Kan fryse og poppe blybloons og kamuflerte bloons.
-Deep Freeze Description,Fryser et ekstra lag og frysingen varer lengre.
+Deep Freeze Description,"Øker gjennomtrengning, fryser et ekstra lag og frysingen varer lengre."
 Re-Freeze Description,Kan fryse bloons som allerede er fryst.
 Ice Shards Description,Sylskarpe skår sprer seg når frosne bloon popper.
 Arctic Wind Description,Øker betydelig gjennomtrenging og får en superkald aura som sakker ned bloons og fryser vann i nærheten.
-Cryo Cannon Description,Skyter frosne bomber på bloons med lengre rekkevidde.
+Cryo Cannon Description,"Skyter kjapt mindre, frosne bomber med lengre rekkevidde."
 Embrittlement Description,"Kan treffe bloons av MOAB-klasse. Alle trufne bloons blir skjøre, påføres ekstra skade mens de er frosne og mister kamuflasjeegenskaper."
 Snowstorm Description,"Snøstorm-evne: Fryser alle vanlige bloons på skjermen, fryser i kort tid hvite og kamuflerte bloons og zebrabloons, og sakker ned bloons av MOAB-klasse."
 Icicles Description,Frosne bloons får store istagger som kan poppe bloons som kommer borti dem.
@@ -774,10 +774,10 @@ Stickier Glue Description,Gjør at limeffekten varer mye lengre.
 Corrosive Glue Description,Nedlimte bloons popper et lag omtrent hvert 3. sekund.
 Glue Splatter Description,Spruter lim på opptil 6 bloons per skudd.
 Stronger Glue Description,Sakker ned bloons enda mer.
-Bloon Dissolver Description,Ekstreme oppløsningsmidler smelter to lag hvert sekund.
+Bloon Dissolver Description,Kan lime én ekstra bloon per skudd og oppløsningsmidler smelter to lag hvert sekund.
 Glue Hose Description,Skyter lim 3x så fort!
 MOAB Glue Description,Forbedret limformel gjør at den kan lime seg på bloons av MOAB-klasse.
-Bloon Liquefier Description,Kan lime én ekstra bloon per skudd og bruker en flytende blanding som popper 10 ganger i sekundet.
+Bloon Liquefier Description,Bruker en flytende blanding som popper 10 ganger i sekundet.
 Glue Strike Description,"Limangrep-evne: Limer alle bloons på skjermen, som får dem til å påføres mer skade fra alle kilder, så lenge den varer."
 Relentless Glue Description,"Poppede bloons som ble limt, etterlater seg en limklump på banen."
 The Bloon Solver Description,Har bloons blitt et problem? Her er løsningen.
@@ -875,7 +875,7 @@ Heavy Shells Description,"Tunge patroner gjør ekstra skade på keramiske bloons
 Signal Flare Description,Kamuflerte bloons poppet av bluss mister kamuflasjen permanent.
 The Big One Description,"Ødeleggende eksplosjoner som popper 7 lag av bloons, i tillegg til å øke Brennstoff-skade enda mer."
 Artillery Battery Description,"Bombardement-evnen: Slipper løs en rask skuddveksling i et litt bredere område. Hovedangrepet påfører mer skade på BAD-er og sjefsbloons, og oppgraderes til 3 tønner for utrolig raske angrep."
-Shattering Shells Description,Knusende patroner som fjerner alle spesielle bloonegenskaper fra alle bortsett fra de største bloons.
+Shattering Shells Description,"Knusende patroner som fjerner alle spesielle bloonegenskaper fra alle bortsett fra de største bloonsene, og brenner bloons i MOAB-klasse for ekstra skade."
 The Biggest One Description,"Skyter dypt gjennom bloons og lag over et stort område, i tillegg til å utsondre mektig Brennstoff-skade."
 Pop and Awe Description,Popp og ærefrykt-evne: Spruter eksplosiver over hele skjermen og skader og immobiliserer alle bloons i et par sekunder. Alle artilleribatterier påfører mer skade på BAD-er og sjefsbloons. Hovedangrepet gir ytterligere bonusskade på lammede bloons.
 Blooncineration Description,Supervarme brennende saker smelter gjennom 5 lag med bloons for hvert skudd og brenner bloons i MOAB-klasse for ekstra skade.
@@ -909,7 +909,7 @@ Shimmer Description,Får et angrep med svart magi som periodevis avslører plass
 Arcane Spike Description,Raskere avfyringsmagi gir mer skade på de fleste bloon-typer.
 Summon Phoenix Description,Tilkall Føniks-evne: mektige Føniks bringer total ødeleggelse til bloons i 20 sekunder.
 Necromancer: Unpopped Army Description,Gjenoppliv nylig poppede fiender som tjenere for å ødelegge bloons.
-Archmage Description,En sann trolldommens mester.
+Archmage Description,En sann trolldommens mester. Angriper kjappere og påfører mer skade på bloons i MOAB-klasse.
 Wizard Lord Phoenix Description,Trollmannherren blir flammenes mester og forvandler ham til en supermektig Lavaføniks i en kort periode.
 Soulbind Description,Gjenanimer enda kraftigere bloontjenere for å utslette fienden og forbedre alle andre nekromaner.
 ,
@@ -971,7 +971,7 @@ Druid of the Storm Description,Vindkast blåser bloons av banen og bort fra utga
 Druid of the Jungle Description,"Får en ranke fra bakken til å vikle seg rundt og knuse bloons én etter én, og den etterlater seg en sti av dødelige torner."
 Druid of Wrath Description,Øker angrepshastighet i løpet av runden så lenge Druiden angriper bloons.
 Ball Lightning Description,Skaper kraftfulle lynkuler som skyter ytterligere lyn og kan fryser bloons.
-Jungle's Bounty Description,"Jungelens overflod-evne: Genererer penger hver gang den brukes, pluss ekstra penger per banangård i nærheten av druiden. Kan også gripe tak i to bloons med ranker om gangen."
+Jungle's Bounty Description,"Jungelens overflod-evne: Genererer penger hver gang den brukes, pluss ekstra penger per banangård i nærheten av druiden. Kan også gripe tak i to bloons med ranker, og torner har ekstra gjennomtrengning."
 Poplust Description,Øker angrepshastigheten og gjennomtrengningskraften til alle Druider innenfor radiusen. Kan stables opptil 5 ganger på én Druide.
 Superstorm Description,Superstorm sprenger alle bloon-typer for massiv skade og blåser dem vekk fra utgangen.
 Spirit of the Forest Description,Vokser torneranker langs veien som påfører konstant skade og bonusskade på keramikk. Rankene nærmest Skogens ånd gjør mer skade. Aktivert evne genererer liv og mer penger.
@@ -1660,11 +1660,11 @@ btd6_herobooster Description,Den utvalgte helten i ditt nåværende spill økes 
 btd6_powersattackpack,Kraftangrep-pakke
 btd6_powersattackpack Description,Et utvalg av {0} kampfokuserte apekrefter!
 btd6_instatowerspack,Hurtigape-pakke
-btd6_instatowerspack Description,"5 apetårn klare til å settes ut uten kostnad! Inneholder 2 nivå 1, 2 nivå 2, og 1 nivå 3"
+btd6_instatowerspack Description,"5 apetårn klare til å settes ut uten kostnad! Inneholder 2 nivå 1, 2 nivå 2, og 1 nivå 3. Aper på samme nivå har samme sjanse for å bli trukket."
 btd6_tier3instatowerspack,Nivå 3 Hurtigape-pakke
-btd6_tier3instatowerspack Description,"10 Hurtigape-tårn nivå 3, klare til å settes ut uten kostnad!"
+btd6_tier3instatowerspack Description,"10 Hurtigape-tårn på nivå 3, klare til å settes ut uten kostnad! Sjansen for å trekke hver ape er den samme."
 btd6_tier4instatowerspack,Nivå 4 Hurtigape-pakke
-btd6_tier4instatowerspack Description,"10 Hurtigape-tårn nivå 4, klare til å settes ut uten kostnad!"
+btd6_tier4instatowerspack Description,"10 Hurtigape-tårn på nivå 4, klare til å settes ut uten kostnad! Sjansen for å trekke hver ape er den samme."
 btd6_needmoremonkeymoneyprompt,Ikke nok apepenger! Kjøpe flere?
 ,
 ,
@@ -1678,11 +1678,11 @@ btd6_extramonkeymoney Description,Spesialtilbud! {0} apepenger til en veldig lit
 btd6_powerspandamonium,Kraftpandemonium
 btd6_powerspandamonium Description,Med våre kombinerte krefter! {0} av de beste apekreftene du kan få i én pakke.
 btd6_instatowersmegabooster,Hurtigape – megaøker
-btd6_instatowersmegabooster Description,"Denne megapakken inneholder 5 Hurtigape-tårn på nivå 2, 12 på nivå 3, og 3 på nivå 4, klare til å settes ut uten kostnad!"
+btd6_instatowersmegabooster Description,"Denne megapakken inneholder 5 Hurtigape-tårn på nivå 2, 12 på nivå 3, og 3 på nivå 4, klare til å settes ut uten kostnad! Aper på samme nivå har samme sjanse for å bli trukket."
 btd6_megamonkeycompendiumpack,Mega-ape – kompendiumpakke
-btd6_megamonkeycompendiumpack Description,"En svær pakke fylt med supre godbiter! 25 000 apepenger, 100 angrepskrefter, 30 Hurtigape-tårn på nivå 3, 15 Hurtigape-tårn på nivå 4, 5 Hurtigape-tårn på nivå 5 og Opplåst kunnskap (rang 30, 5 ekstra apekunnskapspoeng)!"
+btd6_megamonkeycompendiumpack Description,"En svær pakke fylt med supre godbiter! 25 000 apepenger, 100 angrepskrefter, 30 Hurtigape-tårn på nivå 3, 15 Hurtigape-tårn på nivå 4, 5 Hurtigape-tårn på nivå 5 og Opplåst kunnskap (rang 30, 5 ekstra apekunnskapspoeng)! Aper på hvert nivå har samme sjanse for å bli trukket."
 btd6_tier5instatowerpack,Nivå 5 Hurtigape-pakke
-btd6_tier5instatowerpack Description,"10 apetårn på nivå 5, klare til å settes ut uten kostnad!"
+btd6_tier5instatowerpack Description,"10 apetårn på nivå 5, klare til å settes ut uten kostnad! Sjansen for å trekke hver ape er den samme."
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,Bunke med apepenger – salg
@@ -2042,6 +2042,8 @@ Swedish,Svensk
 Turkish,Tyrkisk
 Korean,Koreansk
 Japanese,Japansk
+Polish,Polsk
+Monkelish,Apisk
 ,
 Backup,Sikkerhetskopiering
 Profile,Konto
@@ -2461,11 +2463,11 @@ EditorLockedShareButtonDescription,For å dele utfordringen må du bevise at det
 ConflictScreenChoose,Velg en lagringsfil
 ConflictThisDevice,Denne enheten
 ConflictCloud,I skyen
-ConflictTimeHours,Lagret for {0} timer siden
 ConflictUseButton,Bruk
 ConflictNoData,Ingen data
-ConflictTimeMinutes,Lagret for {0} minutter siden
 ConflictTimeSeconds,Lagret for {0} sekunder siden
+ConflictTimeMinutes,Lagret for {0} minutter siden
+ConflictTimeHours,Lagret for {0} timer siden
 ConflictTimeDays,Lagret for {0} dager siden
 FasterMoabs,MOAB-hastighet økt
 SlowerMoabs,MOAB-hastighet redusert
@@ -2751,8 +2753,8 @@ DarkKnightDarkshift,[I] for å Mørkehoppe innen rekkevidde
 DarkChampionDarkshift,[I] for å Mørkehoppe til et gyldig sted
 SmallTowersMode,Små apetårn
 BigTowersMode,Store apetårn
-UpdatePopupTitle,Oppdatering 33!
-UpdatePopupDescription,"Stor innholdsoppdatering!\n• Slipp løs det fantastiske Goliat-krigsskipet, Ape-ess-paragon!\n• Bruk bloon-poppekraft på Mellomnivå-kartet, Overbygd hage! Design av vinneren av fellesskapets kartkonkurranse, SuperPsou.\n• Hjemsøk gangene i det nifse, nye avanserte kartet, Nattsvart herskapshus!\n• Trofégjenstander i butikken, endringer, balansering og mye mer!"
+UpdatePopupTitle,Oppdatering 34!
+UpdatePopupDescription,"Megahøytid-oppdatering!\n• Kjemp mot det fantastiske forsvaret og motstandkraften til den pansrede behemoth, Fryktbloon!\n• Oppdag plasseringene av tårnøkningene på det nye nybegynnerkartet «Én, to, tre!»\n• Ta knekken på bloonsene og spre julestemning med det nye Kaptein Churchill-skinnet, Churchill på slede!\n• Trofégjenstander i butikken, endringer, balansering og mye mer!\n• Vi i Ninja Kiwi ønsker deg god jul og et riktig godt nyttår!"
 ResetDailyChest,Tilbakestill den Daglige kisten
 JukeboxName,Jukeboks
 EnableFunction,Aktiver
@@ -4554,15 +4556,14 @@ AgeQuestion,Er du {0} år eller eldre?
 AgeYes,"Ja, jeg er {0} år eller eldre."
 AgeNo,"Nei, jeg er under {0} år."
 PersonalAccountInfo,"Du kan opprette en personlig konto uten å bruke personopplysninger.
-Ved å velge «Jeg godtar» har din forelder eller verge gått gjennom Ninja Kiwis retningslinjer for personvern og tjenestevilkår med deg, og de godtar retningslinjene for personvern og tjenestevilkårene og vår evne til å lagre spillingen din og kontoinformasjon som ikke er personopplysninger på tjenesten vår, som inkluderer bruken av servere i USA."
+Ved å velge «Jeg samtykker», har forelderen eller vergen din lest gjennom Ninja Kiwi sine retningslinjer for personvern og tjenestevilkår med deg, og de samtykker til retningslinjene for personvern og tjenestevilkårene og muligheten vår for å lagre spilløktene dine og ikke-personlig identifiserbar kontoinformasjon i tjenesten vår som inkluderer bruken av servere i USA."
 AgreeCreateAccount,Jeg godtar – opprett en konto
 NormalAccountInfo,"Ved å fortsette godtar du Ninja Kiwis retningslinjer for personvern og tjenestevilkår og vår evne til å lagre spillingen din og kontoinformasjon på tjenesten vår, som inkluderer bruken av servere i USA."
 LoggedInAs,Logget inn som:
 EpicAccountId,Epic-konto-ID:
 NeedHelp,Trenger du hjelp?
 ContactSupport,Kontakt kundestøtten
-DeleteAccountText,"Hvis du sletter kontoen din mister du tilgang til all skyframdrift og alle data.
-Skriv inn bruker-ID-en din (som vist nedenfor) i feltet for å slette kontoen din. Det kan ta opptil 48–72 timer før kontoen fjernes."
+DeleteAccountText,Hvis du sletter kontoen din mister du tilgang til all skyframdrift og alle data.
 EnterUserId,Skriv inn bruker-ID-en din her
 GetAllButton,Skaff deg alle
 GetAllConfirmation,Bekreft at du ønsker å bruke apepengene dine på å sikre deg alle tilgjengelige helter og skins!
@@ -4723,17 +4724,17 @@ RelicMilitaryMonkeys,Militæraper
 RelicMagicMonkeys,Magiske aper
 RelicSupportSimians,Støtte-menneskeaper
 RelicMonkeyTycoon,Apefyrste
-RelicStartingStashDescription,Start hvert spill med 300 penger ekstra (kan stables med flere penger på vanlige fliser)
+RelicStartingStashDescription,Start hvert spill med 250 penger ekstra (kan stables med flere penger på vanlige fliser)
 RelicExtraEmpoweredDescription,Helten din starter et spill med 3 ekstra nivåer (kan stables med styrkede helter på vanlige fliser)
 RelicBoxOfChocolatesDescription,Start hvert spill med 100 ekstra liv
-RelicBoxOfMonkeyDescription,Start hvert spill med én gratis ape som koster 500 $ eller mindre for umodifisert førstegangs plassering.
+RelicBoxOfMonkeyDescription,Start hvert spill med én gratis ape som koster 400 $ eller mindre for umodifisert førstegangs plassering
 RelicMarchingBootsDescription,"I spill med begrensede antall får spillere maks +1 av hvert tårn i utvalget deres, eller totalt maks +4 per spill"
 RelicHeroBoostDescription,Helter får XP 15 % kjappere i hvert spill
 RelicBiggerBloonSabotageDescription,Alle bloons i MOAB-klasse lager nye bloons med 15 % mindre helse og beveger seg i en hastighet tilsvarende 95 %
 RelicRoundingUpDescription,Tjen +20 $ på slutten av hver runde
 RelicManaBulwarkDescription,Skaper et skjold som absorberer opptil 50 liv (kan stables med manaskjold på vanlige fliser)
-RelicRegenerationDescription,Gjenopprett 10 liv per runde opp til hvert spills startverdi for liv hvis du ikke mistet noen liv i runden
-RelicRestorationDescription,Gjenopprett 20 liv per runde opp til en økt startverdi for liv til en verdi av +200 hvis du ikke mistet noen liv i runden
+RelicRegenerationDescription,Gjenopprett 20 liv per runde opp til hvert spills startverdi for liv hvis du ikke mistet noen liv i runden
+RelicRestorationDescription,Gjenopprett 10 liv per runde opp til en økt startverdi for liv til en verdi av +200 hvis du ikke mistet noen liv i runden
 RelicDurableShotsDescription,Alle prosjektiler har levetid på +25 %
 RelicAlchemistTouchDescription,Alle angrep kan poppe blybloons
 RelicDeepHeatDescription,Alle angrep kan poppe hvite bloons
@@ -4741,14 +4742,14 @@ RelicSharpsplosionDescription,Alle angrep kan poppe svarte bloons
 RelicRoyalTreatmentDescription,Alle angrep kan poppe lilla bloons
 RelicHardBakedDescription,Alle angrep påfører +1 skade på keramiske bloons
 RelicFortifriedDescription,Alle angrep påfører +1 skade på forsterkede bloons
-RelicMoabClashDescription,Alle angrep påfører +3 skade på bloons i MOAB-klasse
+RelicMoabClashDescription,Alle angrep påfører +2 skade på bloons i MOAB-klasse
 RelicCamoFloggedDescription,Alle angrep påfører +3 skade på kamuflerte bloons
 RelicBrokenHeartDescription,Alle angrep påfører +1 skade på gjenvoksende bloons
 RelicGoingTheDistanceDescription,Alle aper får +20 % rekkevidde
-RelicHeartlessDescription,Regenereringsraten for gjenvoksende bloons reduseres med 25 %
+RelicHeartlessDescription,Regenereringsraten for gjenvoksende bloons reduseres med 50 %
 RelicFlintTipsDescription,"Skarpe prosjektiler tilføyer ildkuler på alle bloons de skader (1 skade hvert 2,5 sek i totalt 5 sek)"
 RelicAbilitizedDescription,Alle aktiverte evnenedkjølinger for alle aper reduseres med 10 %
-RelicAirAndSeaDescription,"Ess, Helikopter, Pirat og Ubåt får plasserings- og oppgraderingskostnadene redusert med 10 %, samt 5 % forbedret omlading"
+RelicAirAndSeaDescription,"Ess, Helikopter, Pirat og Ubåt får plasserings- og oppgraderingskostnadene redusert med 5 %, samt 5 % forbedret omlading"
 RelicElDoradoDescription,Alle apepenger og lagtrofé-belønninger fra spillseire økes med 25 % (minimum +1)
 RelicMonkeyShieldDescription,Flisen du har kapret kan ikke angripes av andre lag i løpet av den første timen. Forbedret poengsum vil tilbakestille tidtakeren.
 RelicMonkeyShieldMark2Description,Flisen du har kapret kan ikke angripes av andre lag i løpet av de første to timene. Forbedret poengsum vil tilbakestille tidtakeren.
@@ -4763,11 +4764,11 @@ RelicRoadSpikesDescription,Gir 10 hauger med veispikre per spill
 RelicMoabMineDescription,Gir bruk av 1 MOAB-mineøkning per spill
 RelicGlueTrapDescription,Gir bruk av 2 limfelle-kraftøkninger per spill
 RelicTechbotDescription,Gir bruk av 1  tekbot-kraftøkning per spill
-RelicPrimaryPrimatesDescription,Reduserer kostnaden for alle opprinnelige aper med 10 %
-RelicMilitaryMonkeysDescription,Reduserer kostnaden for alle militæraper med 10 %
-RelicMagicMonkeysDescription,Reduserer kostnaden for alle magiske aper med 10 %
+RelicPrimaryPrimatesDescription,Reduserer kostnaden for alle opprinnelige aper med 8 %
+RelicMilitaryMonkeysDescription,Reduserer kostnaden for alle militæraper med 8 %
+RelicMagicMonkeysDescription,Reduserer kostnaden for alle magiske aper med 8 %
 RelicSupportSimiansDescription,Reduserer kostnaden for alle støtteapper med 10 %
-RelicMonkeyTycoonDescription,"Få +1 av alle apetårn i utvalget ditt, og grunnprisen deres reduseres med 5 %"
+RelicMonkeyTycoonDescription,"Få +1 av alle apetårn i utvalget ditt, og grunnprisen deres reduseres med 4 %"
 InviteToTeam,Inviter til laget
 TeamLeave,Forlat laget
 Requests,Forespørsler
@@ -5066,18 +5067,18 @@ TeamsBanner8ShortName,Kapret territorium-banner
 TeamsBanner8Description,Utrust dette banneret for å vise hvor motivert du er til å fange sekskantede fliser. Røde versus blå har aldri vært finere.
 TeamsEmblemIcon13Name,Kung Fu-kiwi-ikon
 TeamsEmblemIcon13ShortName,Kung Fu-kiwi-ikon
-TeamsEmblemIcon13Description,Overrask motstanderne dine med et flyvende spark fra den bakkefaste favorittfuglen din.
+TeamsEmblemIcon13Description,Overrask motstanderne dine med et flyvende spark fra favorittfuglen din som ikke kan fly.
 TeamsEmblemIcon14Name,Altseende øye-ikon
 TeamsEmblemIcon14ShortName,Altseende øye-ikon
 TeamsEmblemIcon14Description,Utrust dette lagikonet for å få motstanderne dine til å tvile på ethvert trekk de gjør.
-TeamsEmblemFrame10Name,Ninjaskriftrull-ramme
-TeamsEmblemFrame10ShortName,Ninjaskriftrull-ramme
+TeamsEmblemFrame10Name,Ninjaskriftrulle-ramme
+TeamsEmblemFrame10ShortName,Ninjaskriftrulle-ramme
 TeamsEmblemFrame10Description,En ramme for å vise lagets dedikasjon til ninjaens eldgamle kunst.
 TeamsEmblemFrame11Name,Kunnskapsramme
 TeamsEmblemFrame11ShortName,Kunnskapsramme
 TeamsEmblemFrame11Description,Ta med deg lagets overlegne kunnskap om bloons-popping med kunnskapsrammen.
-BasePropPirateCrewMonkeyName,Piratmannskap
-BasePropPirateCrewMonkeyShortName,Piratmannskap
+BasePropPirateCrewMonkeyName,Piratmannskap-ape
+BasePropPirateCrewMonkeyShortName,Piratmannskap-ape
 BasePropPirateCrewMonkeyDescription,"Yar! Ønsk denne kjeltringen velkommen til Kapret territorium-basen din, og de andre lagene vil vende om med seilet mellom beina. [Island Slot]"
 BasePropTelescopeName,Refraksjonsmålingsteleskop
 BasePropTelescopeShortName,Refraksjonsmålingsteleskop
@@ -5115,6 +5116,261 @@ PlaySocialCaps,SPILL SOSIALT
 SelectCapturedRelics,Velg opptil 4 kaprede relikvier
 NextBonusIn,Neste bonus om:
 MemberCount,Antall medlemmer
-Min,Minimum
-PrimeGamingText,Få din Prime Gaming-gave!
-GetNow,Get Now
+Min,Min.
+Back,Tilbake
+Purchase Monkey Money,Kjøp apepenger
+Player Profile,Spillerprofil
+Toggle Info,Slå informasjon på/av
+Store Info,Butikkinfo
+Toggle mode,Slå av/på-modus
+Toggle jukebox enabled,Slå av/på jukeboks er aktivert
+Play / Pause,Spill av / sett på pause
+Move up,Flytt opp
+Move down,Flytt ned
+Buy Monkey Knowledge,Kjøp apekunnskap
+Search,Søk
+Google Play,Google Play
+Remove mode,Fjern modus
+Add mode,Legg til modus
+Toggle ranked mode,Slå på rangert modus
+Info,Info
+Switch to MonkeyName,Bytt til aper med navn
+Rename monkey,Gi ape nytt navn
+Switch to Medals,Bytt til Medaljer
+Switch to Settings,Bytt til Innstillinger
+Refresh,Oppdater
+First Page,Første side
+Prev Page,Forrige side
+Next Page,Neste side
+Last Page,Siste side
+Reset,Nullstill
++,+
+-,-
+Show/Hide panel,Vis/skjul panel
+Toggle Loop Track,Slå på gjenta lydspor
+Previous Track,Forrige lydspor
+Next Track,Neste lydspor
+Info mode,Infomodus
+Hero mode,Heltemodus
+Skin mode,Skin-modus
+Prev mode,Forrige modus
+Next mode,Neste modus
+Disconnect controller,Koble fra kontroller
+Clear all monkeys,Fjern alle aper
+Clear all powers,Fjern alle krefter
+Mute,Demp
+Place Second Tower Console,"Plasser en annen Dart-ape, og trykk deretter på [dpad_up] for å spille"
+Finished Round One Console,"Enkelt, ikke sant? Trykk på [dpad_up] for å starte neste runde"
+Speed x1,Hastighet x1
+Speed x3,Hastighet x3
+CouchBuildZoneMessage,Bygg apetårnene i det gyldige området ditt
+Insta Monkeys,Hurtig-aper
+Controller.Title,Kontroller
+Controller.DPadUp,Send runde / spol frem
+Controller.DPadDown,Send racerunde
+Controller.DPadLeft,Ikke tildelt
+Controller.DPadRight,Ikke tildelt
+Controller.LeftAnalog,Fri markør
+Controller.LeftAnalogButton,Hurtigplassering
+Controller.RightAnalog,Skroll
+Controller.RightAnalogButton,Vis/skjul panel
+Controller.Menu,Ikke tildelt
+Controller.Start,Sett på pause
+Controller.LeftShoulder,Forrige fane
+Controller.RightShoulder,Neste fane
+Controller.LeftTrigger,"Presis plassering, hurtigtaster for ferdigheter"
+Controller.RightTrigger,Hurtigtaster for ferdigheter
+Controller.NorthButton,Ikke tildelt
+Controller.SouthButton,Bekreft
+Controller.EastButton,Avbryt
+Controller.WestButton,Ikke tildelt
+Toggle tab,Veksle mellom faner
+Refresh data,Oppdater data
+Prev tab,Forrige fane
+Next tab,Neste fane
+Controller.Ready,Klar
+Friends,Venner
+MinimumRounds,Min. ant. runder
+MaximumRounds,Maks ant. runder
+Max Monkeys,Maks ant. aper
+Toggle add / remove,Slå på legg til / fjern
+Toggle select / edit,Slå på velg/rediger
+Camo,Kamuflasje
+Couch Co-op,Samarbeidsmodus
+Gift,Gave
+Emote,Emote
+Set Target,Angi mål
+Return to groups,Gå tilbake til grupper
+TT_FollowCursor,Følg markør
+Toggle Map Dividers,Slå på kartdelere
+Send,Send
+Upgrade,Oppgrader
+NextUpgrade,Neste oppgradering
+CurrentUpgrade,Nåværende oppgradering
+HeroBoosterLocked,Låst
+PrimeGamingText,Sikre deg en førsteklasses dropp i spillet
+GetNow,Hent nå
+,
+DarkDungeons,Mørke fangetårn
+OneTwoTree,"Én, to, tre"
+BeastHandler,Beistmestrer
+BeastHandlers,Beistmestrere
+BeastHandler Description,"Kan trene opp farlige beist på land, i vann og i luften. I stedet for å lage flere beist, samarbeider flere håndterere om å øke kraften til de som allerede finnes."
+BeastHandler Short Description,Støtteape
+Piranha,Piraja
+Microraptor,Mikroraptor
+Gyrfalcon,Jaktfalk
+Barracuda,Barrakuda
+Adasaurus,Adasaurus
+Horned Owl,Hubro
+Great White,Hvithai
+Velociraptor,Velociraptor
+Golden Eagle,Kongeørn
+Orca,Spekkhogger
+Tyrannosaurus Rex,Tyrannosaurus rex
+Giant Condor,Andeskondor
+Megalodon,Megalodon
+Giganotosaurus,Gigantosaurus
+Pouakai,PouÄkai
+Piranha Description,"Kommander en liten, men aggressiv fisk til å hoppe opp av vannet og på bloonsene."
+Microraptor Description,Kommander en liten dinosaur med skarpe klør. Få den til å vokse med flere Beisthåndterere med denne oppgraderingen.
+Gyrfalcon Description,Kommander en praktfull liten rovfugl som kan gripe tak i og flytte på bloons med klørne sine.
+Barracuda Description,Barrakudaens sylskarpe tenner kan poppe flere bloons-lag. Krever minst 1 annen Beisthåndterer med pirajaoppgraderinger. Maks 4 medvirkende Beisthåndtere
+Adasaurus Description,Adasaurus' skarpe tenner påfører stor skade med kort rekkevidde. Krever minst 1 annen Beisthåndterer med mikroraptor-oppgraderinger.
+Horned Owl Description,"Hubroen er sterk nok til å gripe tak i og poppe blybloons og keramiske bloons, og har et skarpt syn som kan få øye på kamuflasjebloons."
+Great White Description,"Hvithaien knuser bloons, deriblant blybloons, med kjeven sin og drar dem tilbake til vannet hvis nødvendig. Krever minst 2 andre Beisthåndterere med barrakuda-oppgraderinger. Maks 4 medvirkende Beisthåndterere"
+Velociraptor Description,Velociraptor flenger og biter tak i bloons i en voldsom hastighet. Maks 4 medvirkende Beisthåndterere
+Golden Eagle Description,"Kongeørnen, som er en ekspert i å gripe tak i et stort antall bloons om gangen, er så stor at den krever minst 2 andre Beisthåndterere samtidig. Maks 4 medvirkende Beisthåndtererer"
+Orca Description,Det store gapet til den mektige spekkhuggeren kan gripe tak i og dra alle unntatt de aller største bloonsene ned i havdypet. Krever minst 3 andre Beisthåndterere med hvithai-oppgraderinger. Maks 4 medvirkende Beisthåndtererer
+Tyrannosaurus Rex Description,Tyrannosaurus rex sin store kjeve og skarpe tenner påfører stor skade med hvert bitt. Krever minst 3 andre Beisthåndterere med velociraptor-oppgraderinger. Maks 4 medvirkende Beisthåndterere. Tyrannosaurus rex-trampeferdighet: Lammer opp til ZOMG-bloons i et vidstrakt område.
+Giant Condor Description,De store klørne til den fryktsomme Andeskondoren kan plukke opp bloons i MOAB-klasse. Krever minst 3 andre Beisthåndterere med kongeørn-oppgraderinger. Maks 4 medvirkende Beisthåndterere
+Megalodon Description,En virkelig kolossal hai med bloons på tann som krever minst 4 andre Beisthåndterere med spekkhogger-oppgraderinger. Maks 8 medvirkende Beisthåndterere
+Giganotosaurus Description,"Den største og heftigste dinosauren av dem alle, Gigantosaurus, kan enkelt rive i stykker nærmest enhver bloon. Krever minst 4 andre Beisthåndterere med tyrannosaurus rex-oppgraderinger. Lammer opp til ZOMG-bloons overalt i en lengre periode."
+Pouakai Description,"Den legendariske PouÄkai, en fugl som er så stor at den kan plukke opp, ta med seg og ødelegge nærmest ethvert antall bloons uansett størrelse. Krever minst 4 andre Beisthåndterere med Andeskondor-oppgraderinger. Maks 8 medvirkende Beisthåndterere"
+T Rex Stomp Ability,Tyrannosaurus rex-tramp
+T Rex Stomp Ability Description,Lammer opp til ZOMG-bloons i et vidstrakt område-
+Giganotosaurus Stomp Ability,Gigantosaurus-tramp
+Giganotosaurus Stomp Ability Description,Lammer opp til ZOMG-bloons overalt i en lengre periode.
+Move,Flytt
+NeedsBeastHandlers,Krever beistet
+NeedsWater,Trenger vann
+NeedsTrack,Trenger bane
+Dreadbloon,Fryktbloon
+DreadbloonTagLine,Fra dypt i jordens indre …
+DreadbloonTagLine2,den panserede behemoth!
+DreadbloonInfoPanelDescription,"\• Fryktbloon har blyegenskaper og reduserer all innkommende skade med 1.\• Når hver hodeskalle fylles opp, gror Fryktbloon et keramisk rustningsskjell, og Fryktrock-bloons vil begynne å lage nye på starten av banen.\• Når Fryktbloon vises, er den immun mot primærtårn. Ved hver hodeskalle endres denne immuniteten til en annen type tårn: Militær, Magi og Støtte.\• Fryktrock-bloons og det kermiske rustningskjellet har også disse immunitetene.\• Fryktrock-bloons har en sterk terging, så vær forsiktig med hva tårnene dine angriper!"
+DreadbloonPrimaryImmunity,Immun mot: 
+DreadbloonMilitaryImmunity,Immun mot: Militær
+DreadbloonMagicImmunity,Immun mot: Magi
+DreadbloonSupportImmunity,Immun mot: Støtte
+Resist,Motstandsdyktig mot
+Immune,Immun mot
+SleighCaptainChurchillSkinName,Churchill på slede-drakt
+SleighCaptainChurchillSkinDescription,"Tar kneppen på bloons med julestemning,  én gaveinnpakket bombe av gangen."
+SleighCaptainChurchillSkinNameFull,Churchill på slede
+GameUIProfileBanner23Name,En julehilsen-profilbanner
+GameUIProfileBanner23ShortName,En julehilsen-banner
+GameUIProfileBanner23Description,Feir julens lekenhet denne vinteren eller året rundt med dette frostbanneret. Tidsbegrenset samlergjenstand!
+GameUIProfileBanner24Name,Bumerangsverd-profilbanner
+GameUIProfileBanner24ShortName,Bumerangsverd-banner
+GameUIProfileBanner24Description,Bannervinner av ReconScoutTeemo
+GameUIProfileBanner25Name,Glyff-profilbanner
+GameUIProfileBanner25ShortName,Glyff-banner
+GameUIProfileBanner25Description,Bannervinner av PvtMagnuS
+GameUIProfileAvatar65Name,Tilpasset avatar – Julekrans
+GameUIProfileAvatar65ShortName,Julekrans-avatar
+GameUIProfileAvatar65Description,Spre flaks og jubel til alle med denne julekrans-avataren. Tidsbegrenset samlergjenstand!
+GameUIProfileAvatar66Name,Tilpasset avatar – Vredens avatar
+GameUIProfileAvatar66ShortName,Avataren Vredens avatar
+GameUIProfileAvatar66Description,"Endelig! Hvor lang tid tok det før det ble min tur?! Avatar er navnet mitt, for fandens banan!"
+GameUIProfileAvatar67Name,Tilpasset avatar – God jul
+GameUIProfileAvatar67ShortName,God jul-avatar
+GameUIProfileAvatar67Description,Etiennes begeistring over å få enda en drone til jul ville fylt alle og enhvers hjerte med glede.
+GameUIProfileAvatar68Name,Tilpasset avatar – Absolutt null
+GameUIProfileAvatar68ShortName,Absolutt null-avatar
+GameUIProfileAvatar68Description,"Hvis det er viktig å se kul ut, kan du umulig feile med denne Isape-avataren."
+CoopEmoteAnimationSleighbellsName,Snø og dombjeller-animasjon
+CoopEmoteAnimationSleighbellsShortName,Dombjeller
+CoopEmoteAnimationSleighbellsDescription,"Sikre dette vinterlige eventyrlandet til en fullskjermsemote og spre juleglede til spiller 1, 2 eller 4! Tidsbegrenset samlergjenstand!"
+TowerProjectileBananaFarmPresentsName,Banangård-banangaver
+TowerProjectileBananaFarmPresentsShortName,Banangård-gaver
+TowerProjectileBananaFarmPresentsDescription,Ingenting er bedre enn banangårder som produserer gaver! Hva er i gavene?
+TowerProjectileDartMonkeySnowballsName,Dartape-snøballer-prosjektil
+TowerProjectileDartMonkeySnowballsShortName,Dartape-snøballer
+TowerProjectileDartMonkeySnowballsDescription,"Vi skjønner ikke hvorfor de ble så gode i dette i og med at de vokste opp i jungelen, men prøv dette prosjektilbyttet og se hvorfor dart-aper alltid vinner i snøballkamper. Tidsbegrenset samlergjenstand!"
+TowerProjectileTackShooterIciclesName,Spikerskytter-istapper og snøfnugg-prosjektil
+TowerProjectileTackShooterIciclesShortName,Spikerskytter-istapper
+TowerProjectileTackShooterIciclesDescription,"Hvis du elsker kombinasjonen av spikerskytter og isape, vil den glitre enda mer når spikre er istapper og kniver er snøfnugg. Tidsbegrenset samlergjenstand!"
+TowerProjectileNinjaMonkeySnowflakesName,Ninjaape-snøfnugg-prosjektil
+TowerProjectileNinjaMonkeySnowflakesShortName,Ninjaape-snøfnugg
+TowerProjectileNinjaMonkeySnowflakesDescription,Fint snøfnugg\nKastes kjapt fra en ninjas hånd\nKutter symmetri\n\nTidsbegrenset samlergjenstand!
+BuildingPropChristmasTreeName,Juletre-bygning
+BuildingPropChristmasTreeShortName,Juletre-bygning
+BuildingPropChristmasTreeDescription,Endre basen til et tre?! Hvor skal apene bo? Vent … glem det.\nSkap julestemning i laget med denne juletre-basen. [Main Building Slot]
+BasePropCosyBeanbagMonkeyName,Koselig saccosekk-ape
+BasePropCosyBeanbagMonkeyShortName,Koselig saccosekk-ape
+BasePropCosyBeanbagMonkeyDescription,Saccosekken. Det ultimate symbolet på avslapning. Inkluderer en ape som slapper av! [øyfelt]
+TeamsBanner9Name,Fint snøfnugg-banner
+TeamsBanner9ShortName,Fint snøfnugg-banner
+TeamsBanner9Description,"Den enkle kompleksiteten til et snøfnugg er perfeksjon, akkurat som laget ditt."
+TeamsBanner10Name,Stekt banan-banner
+TeamsBanner10ShortName,Stekt banan-banner
+TeamsBanner10Description,Gi laget vann i munnen med banen stekt på leirbålet!
+TeamsEmblemFrame12Name,Bloon-ramme
+TeamsEmblemFrame12ShortName,Bloon-ramme
+TeamsEmblemFrame12Description,Gjør laget ditt til alles fiende med denne ubarmhjertige bloon-rammen.
+TeamsEmblemFrame13Name,Militærramme
+TeamsEmblemFrame13ShortName,Militærramme
+TeamsEmblemFrame13Description,Et entusiastisk lag er ingenting uten struktur og disiplin.
+TeamsEmblemIcon15Name,Krone-ikon
+TeamsEmblemIcon15ShortName,Krone-ikon
+TeamsEmblemIcon15Description,Støtt teamets jakt på darttronen.
+TeamsEmblemIcon16Name,Romvesen-ikon
+TeamsEmblemIcon16ShortName,Romvesen-ikon
+TeamsEmblemIcon16Description,Et ikon for når laget ditt er av en annen verden!
+Achievement 146 Name,Sideoppgrad
+Achievement 146 Description,Fullfør et oppdrag
+Achievement 147 Name,Styrking
+Achievement 147 Description,Ha 75 økninger aktive for apene dine på én gang
+Achievement 148 Name,Verdensliga-trening
+Achievement 148 Description,Sikre deg 150 000 Beisthåndterer-XP
+CompleteQuestMessage,Fullfør oppdrag
+QuestUnlocksAtLevelXMessage,Oppdrag låser opp<br>nivå {0}
+QuestComplete,Oppdrag fullført!
+BeastHandlerQuestName,Episk beist-oppdrag
+BeastHandlerQuestReward,Lås opp Beisthåndtereren + mer!
+BeastHandlerQuest1Name,Jordens vei
+BeastHandlerQuest1Description,Tren opp dødelige dinosaurer på Steinbruddet
+BeastHandlerQuest1Victory,Gratulerer! Du har fullført Jordens vei! 
+BeastHandlerQuest2Name,Vannets vei
+BeastHandlerQuest2Description,Avl opp blodtørstige fisker på Krydderøya
+BeastHandlerQuest2Victory,Gratulerer! Du har fullført Vannets vei!
+BeastHandlerQuest3Name,Luftens vei
+BeastHandlerQuest3Description,Klekk ut kraftfulle fugler på Sprukket
+BeastHandlerQuest3Victory,Gratulerer! Du har fullført Luftens vei!
+DialogBeastHandlerQuest1UI1,"Beisthåndtererne reiste fra landsbyen for mange år siden og dro ut på et oppdrag for å finne episke beist, og de er nesten ferdige!"
+DialogBeastHandlerQuest1UI2,Hvis du klarer å hjelpe dem med å fullføre oppdraget. Kommer de tilbake og blir med i kampen mot bloonsene!
+DialogBeastHandlerQuest1InGame1,Beisthåndtererne har hørt historier om et mystisk egg og har temmet sitt første episke beist!
+DialogBeastHandlerQuest1InGame2,Hjelp dem med å lære alt man trenger å vite om disse glupske rovfuglene!
+DialogBeastHandlerQuest2UI1,Herlig! Beisthåndtererne jobber med ville beist som om de var kjæledyr. Og de har funnet ut hvordan man kombinerer og styrker dem ved å samarbeide.
+DialogBeastHandlerQuest2UI2,"Jeg forstår ikke biologien, men kombinasjonene er utvilsomt mer kraftfulle. De har ledet Beisthåndtererne til et nytt egg."
+DialogBeastHandlerQuest2UI3,Jeg kan ikke vente med å se hva de har funnet!
+DialogBeastHandlerQuest3UI1,"Så listig å trene opp slike fryktsomme vannbeist for å hjelpe til med å bekjempe bloons på vannet og får å finne skjulte skatter i vannet, f.eks. det tredje egget."
+DialogBeastHandlerQuest3UI2,"Så snart du hjelper Beisthåndtererne med å temme det tredje beistet, vil de kunne bli med på laget!"
+,
+RemoveProviderFromAccount,Er du sikker på at du vil fjerne denne leverandøren fra kontoen? <br>br><b>Det kan ta opptil 3 timer før leverandøren fjernes fra kontoen</b>
+ProviderRemovedText,Leverandøren er fjernet.<br><br>Denne siden lukkes straks
+AdditionalAccountLinks,Ytterligere kontokoblinger
+LoginWithAmazon,Logg inn med Amazon
+LinkingCodeButton,Få tilsendt en koblingskode
+LinkingCodeMessage,Åpne spillet på de andre enhetene dine og oppgi følgende kode når du blir bedt om det. Koden er gyldig i 10 minutter.
+Rate Expires In,Prisen utløper om
+Rate,Pris
+CoopGameSyncFailed,Kunne ikke synkronisere spillinnstillingene. Prøv et nytt spill.
+iCloudTitle,iCoud
+iCloudDisabled,iCloud er deaktivert
+iCloudEnabled,iCloud er aktivert
+DialogBeastHandlerQuest1InGameTowerUpgrade1,"Wow, det beistet er så sterkt at det trengs TO Beast Handlers for å holde det under kontroll!"
+Buffed,Styrket
+Assisting,Assistere
+Select Point On Track,Velg et punkt på banen

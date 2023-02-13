@@ -102,7 +102,7 @@ Quincy Level 15 Description,Szybki strzał ma 4-krotnie większą prędkość at
 Quincy Level 16 Description,Jeszcze większa prędkość ataku.
 Quincy Level 17 Description,Strzały wytrzymują 25% dłużej. Co drugi strzał to eksplodująca strzała.
 Quincy Level 18 Description,"Quincy atakuje szybciej, a burza strzał ma skrócone odnowienie i o 50% więcej strzał."
-Quincy Level 19 Description,Każda strzała ma jeszcze większą siłę przekłucia.
+Quincy Level 19 Description,"Wystrzeliwuje 3 strzały, przy czym każda strzała ma coraz większą siłę przekłucia."
 Quincy Level 20 Description,Quincy atakuje jeszcze szybciej. Burza strzał zadaje więcej obrażeń na strzałę i wypuszcza jeszcze więcej strzał.
 ,
 StrikerJones Level 1 Description,Striker Jones strzela z potężnej bazuki i wysadza blony.
@@ -387,7 +387,7 @@ The Bloon Solver,Znikacz blonów
 Glue Storm,Burza kleju
 Super Glue,Superklej
 ,
-Full Metal Jacket,Full Metal Jacket
+Full Metal Jacket,Pocisk pełnopłaszczowy
 Night Vision Goggles,Noktowizor
 Fast Firing,Szybkie strzelanie
 Large Calibre,Wielki kaliber
@@ -396,10 +396,10 @@ Even Faster Firing,Jeszcze szybsze strzelanie
 Deadly Precision,Śmiertelna precyzja
 Bouncing Bullet,Odbita kula
 Semi-Automatic,Półautomat
-Maim MOAB,Okaleczyć MOAB-y
+Maim MOAB,Przyhamowanie MOAB-ów
 Supply Drop,Zrzut zaopatrzenia
 Full Auto Rifle,Karabin automatyczny
-Cripple MOAB,Zniszczyć MOAB-y
+Cripple MOAB,Paraliż MOAB-ów
 Elite Sniper,Strzelec wyborowy
 Elite Defender,Obrońca wyborowy
 ,
@@ -698,10 +698,10 @@ Enhanced Eyesight Description,Strzela jeszcze dalej i wykrywa kamuflażowe blony
 Spike-o-pult Description,"Zamienia małpkę z rzutkami w wolniej atakującą kolcopultę, która ciska wielkimi kolczastymi kulami. Każda kula przekłuwa wiele blonów i odbija się od przeszkód."
 Triple Shot Description,Rzuca 3 rzutki naraz zamiast 1.
 Crossbow Description,"Wykorzystuje kuszę dalekiego zasięgu, która może przekłuć 3 warstwy blonów za każdym razem."
-Juggernaut Description,"Ciska wielką kolczastą kulą, która przekłuwa ołów i doskonale miażdży ceramiczne blony."
+Juggernaut Description,"Ciska wielką kolczastą kulą, która przekłuwa ołów i doskonale miażdży ceramiczne i ufortyfikowane blony."
 Super Monkey Fan Club Description,"Umiejętność fanklub supermałpki: zamienia na 15 sekund do 10 najbliższych małpek z rzutkami, w tym siebie, w supermałpki. Regularna prędkość ataku również wzrasta."
 Sharp Shooter Description,"Celny strzelec atakuje szybciej i co kilka strzałów oddaje potężne strzały krytyczne, które zadają o wiele większe obrażenia."
-Ultra-Juggernaut Description,"Gigantyczna kolczasta kula dzieli się 2 razy na 6 kul z katapulty, by niszczyć jeszcze bardziej."
+Ultra-Juggernaut Description,"Gigantyczna kolczasta kula dzieli się 2 razy na 6 kul z katapulty, by niszczyć jeszcze lepiej ceramiczne i ufortyfikowane blony."
 Plasma Monkey Fan Club Description,Elitarne członkowstwo w tym klubie daje małpkom z rzutkami jeszcze więcej mocy!
 Crossbow Master Description,Mistrz kuszy strzela naprawdę szybko i niszczy z łatwością większość typów blonów.
 ,
@@ -757,11 +757,11 @@ Permafrost Description,"Blony poruszają się wolniej, nawet gdy się rozmrożą
 Enhanced Freeze Description,Atakuje szybciej i zamraża na dłużej.
 Larger Radius Description,Większy obszar zamrażania.
 Metal Freeze Description,Może zamrażać i przekłuwać blony ołowiane i kamuflażowe.
-Deep Freeze Description,Zamraża dodatkową warstwę na dłuższy czas.
+Deep Freeze Description,"Zwiększa przebicie, zamraża dodatkową warstwę na dłuższy czas."
 Re-Freeze Description,Może ponownie zamrozić już zamrożone blony.
 Ice Shards Description,"Ostre jak brzytwa odłamki rozbryzgują się, gdy pękają zamrożone blony."
 Arctic Wind Description,"Znacznie zwiększa przebicie i zyskuje super zimną aurę, która spowalnia blony oraz zamraża pobliskie zbiorniki wodne."
-Cryo Cannon Description,Strzela w blony zamrażającymi bombami z większym zasięgiem.
+Cryo Cannon Description,Gwałtownie strzela mniejszymi zamrażającymi bombami z większym zasięgiem.
 Embrittlement Description,"Może trafiać blony klasy MOAB. Wszystkie trafione blony stają się kruche, podczas zamrożenia ponoszą większe obrażenia i tracą kamuflaż."
 Snowstorm Description,"Umiejętność śnieżna burza: zamraża wszystkie zwyczajne blony na ekranie, na krótko zamraża blony białe, pasiaste i kamuflażowe oraz spowalnia klasę MOAB."
 Icicles Description,"Z zamrożonych blonów wyrastają sople, które mogą przekłuć blony ich dotykające."
@@ -775,10 +775,10 @@ Stickier Glue Description,Klej działa znacznie dłużej.
 Corrosive Glue Description,Sklejone blony tracą jedną warstwę co kilka sekund.
 Glue Splatter Description,Rozbryzguje klej nawet na 6 blonów na strzał.
 Stronger Glue Description,Jeszcze bardziej spowalnia blony.
-Bloon Dissolver Description,Ekstremalny rozpuszczalnik niszczy dwie warstwy co sekundę.
+Bloon Dissolver Description,"Może skleić jeden dodatkowy blon na strzał, a rozpuszczalniki topią dwie warstwy co sekundę."
 Glue Hose Description,Strzela klejem 3x szybciej!
 MOAB Glue Description,Poprawiony skład kleju pozwala mu przyczepiać się do blonów klasy MOAB.
-Bloon Liquefier Description,"Może skleić jednego dodatkowego blona na strzał i aplikuje rozpuszczalniki, które dodają 10 przekłuć na sekundę."
+Bloon Liquefier Description,"Aplikuje rozpuszczalniki, które dodają 10 przekłuć na sekundę."
 Glue Strike Description,"Umiejętność kleiste uderzenie: skleja wszystkie blony na ekranie, powodując na czas trwania większe obrażenia ze wszystkich źródeł."
 Relentless Glue Description,"Przekłute blony, które były zaklejone, pozostawiają na ścieżce lepkiego kleksa."
 The Bloon Solver Description,Blon stanowi problem? Rozpuszczalnik go rozwiąże.
@@ -876,10 +876,10 @@ Heavy Shells Description,"Ciężkie pociski zadają dodatkowe obrażenia ceramic
 Signal Flare Description,Kamuflażowe blony przekłute przez flary tracą na stałe kamuflaż.
 The Big One Description,Dewastujące eksplozje przekłuwają 7 warstw blonów i jeszcze bardziej zwiększają obrażenia od czegoś płonącego.
 Artillery Battery Description,"Umiejętność Bombardowanie: Uruchamia szybki ostrzał na nieznacznie większym obszarze. Główny atak zadaje większe obrażenia WSZ-om i blonom bossa oraz zostaje ulepszony do 3 luf, by atakować niezwykle szybko."
-Shattering Shells Description,"Druzgocące pociski zabierają blonom wszystkie specjalnie właściwości, poza największymi blonami."
+Shattering Shells Description,"Druzgocące pociski zabierają blonom wszystkie specjalnie właściwości, poza największymi blonami, i palą blony klasy MOAB, zadając dodatkowe obrażenia."
 The Biggest One Description,"Wybucha między blonami i pokrywa ogromny obszar, plus potężne obrażenia od czegoś płonącego."
 Pop and Awe Description,"Umiejętność Przekłucie i przerażenie: spuszcza deszcz eksplozji na całym ekranie, uszkadzając i unieruchamiając na kilka sekund wszystkie blony. Cała bateria artyleryjska zadaje większe obrażenia WSZ-om i blonom bossa. Główny atak zadaje dodatkowe bonusowe obrażenia ogłuszonym blonom."
-Blooncineration Description,"Coś superpłonącego stapia 5 warstw blonów za każdym strzałem, zadaje dodatkowe obrażenia blonom klasy MOAB."
+Blooncineration Description,"Coś superpłonącego stapia 5 warstw blonów za każdym strzałem, zadaje ogromne obrażenia blonom klasy MOAB."
 ,
 Focused Firing Description,Zwiększa celność armatki rzutkowej.
 Advanced Targeting Description,Pozwala strzelcowi rzutkowemu uderzać w kamuflażowe blony.
@@ -910,7 +910,7 @@ Shimmer Description,"Zyskuje atak czarnej magii, który okresowo trwale ukazuje 
 Arcane Spike Description,Szybsze magiczne strzały zadają ogromne obrażenia większości typom blonów.
 Summon Phoenix Description,Umiejętność wezwanie feniksa: potężny feniks sieje spustoszenie wśród blonów przez 20 sekund.
 Necromancer: Unpopped Army Description,"Reanimuj ostatnio przekłutych wrogów jako sługów, którzy zniszczą blony."
-Archmage Description,Prawdziwy mistrz sztuk magicznych.
+Archmage Description,Prawdziwy mistrz sztuk magicznych. Atakuje szybciej i zadaje większe obrażenia blonom klasy MOAB.
 Wizard Lord Phoenix Description,"Czarownik staje się mistrzem płomieni, zamieniając się w super potężnego Feniksa Lawy na krótki czas."
 Soulbind Description,Reanimuj jeszcze potężniejsze służebne blony unicestwiające wroga i wzmacniające innych nekromantów.
 ,
@@ -972,7 +972,7 @@ Druid of the Storm Description,Porywy wiatru zdmuchują blony ze ścieżki i odp
 Druid of the Jungle Description,"Przyzywa z ziemi pnącze, które oplata i miażdży blony po jednym naraz, pozostawiając za sobą stos śmiercionośnych cierni."
 Druid of Wrath Description,"Zyskuje w trakcie rundy większą prędkość ataku, tak długo, jak druid atakuje blony."
 Ball Lightning Description,"Tworzy potężne kule piorunów, które strzelają dodatkowymi piorunami i mogą zamrażać blony."
-Jungle's Bounty Description,Umiejętność nagroda dżungli: generuje gotówkę za każdym wykorzystaniem plus dodatkową gotówkę za każdą farmę bananów w pobliżu druida. Może też chwytać pnączem po dwa blony naraz.
+Jungle's Bounty Description,"Umiejętność Nagroda dżungli: Generuje gotówkę za każdym wykorzystaniem plus dodatkową gotówkę za każdą farmę bananów w pobliżu druida. Przyzywa pnącza, aby schwytać blony, a i stosy cierni mają dodatkowe przekłucie."
 Poplust Description,Doładowuje prędkość ataku i przebicie innym druidom w promieniu. Może sumować się 5 razy u każdego pojedynczego druida.
 Superstorm Description,Superburza uderza i zadaje duże obrażenia blonom wszystkich typów oraz odpycha je od wyjścia.
 Spirit of the Forest Description,"Hoduje wzdłuż ścieżki cierniste pnącza, które zadają ciągłe obrażenia oraz obrażenia dodatkowe ceramicznym blonom. Pnącza najbliższe ducha lasu zadają większe obrażenia. Aktywowana umiejętność generuje życia i więcej gotówki."
@@ -1661,11 +1661,11 @@ btd6_herobooster Description,Wybrany w danej grze bohater natychmiast wchodzi na
 btd6_powersattackpack,Pakiet mocy ofensywnych
 btd6_powersattackpack Description,Pakiet składający się z {0} różnych mocy skoncentrowanych na walce.
 btd6_instatowerspack,Pakiet natychmiastowych małpek
-btd6_instatowerspack Description,"5 małpich wież do postawienia bez wydawania kasy w grze! Zawiera 2 wieże z rzędu I, 2 z rzędu II i 1 z rzędu III. "
+btd6_instatowerspack Description,"5 małpich wież do postawienia bez wydawania kasy w grze! Zawiera 2 wieże z rzędu I, 2 z rzędu II i 1 z rzędu III. Małpki na każdym poziomie mają taką samą szansę na wylosowanie."
 btd6_tier3instatowerspack,Pakiet natychmiastowych małpek z rzędu III
-btd6_tier3instatowerspack Description,10 małpich wież z rzędu III do postawienia bez wydawania kasy w grze!
+btd6_tier3instatowerspack Description,10 małpich wież z rzędu III do postawienia bez wydawania kasy w grze! Szansa na wylosowanie każdej małpki jest taka sama.
 btd6_tier4instatowerspack,Pakiet natychmiastowych małpek z poziomu IV
-btd6_tier4instatowerspack Description,10 małpich wież z rzędu IV do postawienia bez wydawania kasy w grze!
+btd6_tier4instatowerspack Description,10 małpich wież z rzędu IV do postawienia bez wydawania kasy w grze! Szansa na wylosowanie każdej małpki jest taka sama.
 btd6_needmoremonkeymoneyprompt,Za mało małpiej kasy! Chcesz zakupić więcej?
 ,
 ,
@@ -1679,11 +1679,11 @@ btd6_extramonkeymoney Description,Oferta specjalna! {0} małpiej kasy w bardzo n
 btd6_powerspandamonium,Pandemonium mocy
 btd6_powerspandamonium Description,Połączmy wszystkie nasze moce! Oto {0} najlepszych małpich mocy dostępnych w jednym zestawie.
 btd6_instatowersmegabooster,Natychmiastowy megawzmacniacz małpek
-btd6_instatowersmegabooster Description,"Ten megapakiet zawiera następujące małpie wieże do postawienia bez wydawania kasy w grze: 5 natychmiastowych wież rzędu II, 12 rzędu III oraz 3 rzędu IV!"
+btd6_instatowersmegabooster Description,"Ten megapakiet zawiera następujące małpie wieże do postawienia bez wydawania kasy w grze: 5 natychmiastowych wież rzędu II, 12 rzędu III oraz 3 rzędu IV! Małpki na każdym poziomie mają taką samą szansę na wylosowanie."
 btd6_megamonkeycompendiumpack,Megapakiet kompendium małpek
-btd6_megamonkeycompendiumpack Description,"Ogromny pakiet, pełen absolutnie fantastycznych pozycji! 25 000 szt. małpiej kasy, 100 ofensywnych mocy, 30 natychmiastowych wież rzędu III, 15 rzędu IV, 5 rzędu V oraz odblokowanie całej wiedzy (poziom 30, 5 bonusowych punktów małpiej wiedzy)!"
+btd6_megamonkeycompendiumpack Description,"Ogromny pakiet, pełen absolutnie fantastycznych pozycji! 25 000 szt. małpiej kasy, 100 ofensywnych mocy, 30 natychmiastowych wież rzędu III, 15 rzędu IV, 5 rzędu V oraz odblokowanie całej wiedzy (poziom 30, 5 bonusowych punktów małpiej wiedzy)! Małpki na każdym poziomie mają taką samą szansę na wylosowanie."
 btd6_tier5instatowerpack,Pakiet natychmiastowych małpek z rzędu V
-btd6_tier5instatowerpack Description,10 małpich wież z rzędu V do postawienia bez wydawania kasy w grze!
+btd6_tier5instatowerpack Description,10 małpich wież z rzędu V do postawienia bez wydawania kasy w grze! Szansa na wylosowanie każdej małpki jest taka sama.
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,Wyprzedaż: Taczka małpiej kasy
@@ -2043,6 +2043,8 @@ Swedish,Szwedzki
 Turkish,Turecki
 Korean,Koreański
 Japanese,Japoński
+Polish,Polski
+Monkelish,Małpi
 ,
 Backup,Kopia zapasowa
 Profile,Konto
@@ -2752,8 +2754,8 @@ DarkKnightDarkshift,"[I], aby użyć zdolności skok mroku w obszarze działania
 DarkChampionDarkshift,"[I], aby użyć zdolności skok mroku do dowolnego prawidłowego miejsca"
 SmallTowersMode,Wieże małych małpek
 BigTowersMode,Wieże dużych małpek
-UpdatePopupTitle,Ulepszenie 33!
-UpdatePopupDescription,"Wielka aktualizacja treści!\n• Uwolnij niesamowitą Wielką Zagładę, mistrzowską małpkę pilota!\n• Ulepszaj moc blonów na mapie dla średnio zaawansowanych graczy Szklany Ogród! Projekt autorstwa SuperPsou, zwycięzcy konkursu społecznościowego na mapę.\n• Nawiedzaj korytarze nowej, upiornej mapy dla zaawansowanych, Nocny Dwór!\n•Trofea do zakupu w sklepie, wiele drobnych poprawek ułatwiających zabawę, zmiany w balansie i wiele innych zmian!"
+UpdatePopupTitle,Ulepszenie 34!
+UpdatePopupDescription,"Wielka świąteczna aktualizacja!\n•Walcz z niesamowitą obroną Opancerzonego Behemota, Dreadblona!\n• Odkryj miejsca wzmacniające wieże na nowej mapie dla początkujących, Drzewko Szczęścia!\n• Zabij blony w świątecznym nastroju dzięki nowej skórce Kapitana Churchilla, Jedzie Churchill!\n• Trofea do zakupu w sklepie, wiele drobnych poprawek ułatwiających zabawę, zmiany w balansie i wiele innych!\n• Wesołych Świąt i wszystkiego najlepszego w Nowym Roku, życzy cała ekipa Ninja Kiwi!"
 ResetDailyChest,Zresetuj dzienną skrzynię
 JukeboxName,Szafa grająca
 EnableFunction,Włącz
@@ -4554,8 +4556,8 @@ ConfirmAgeInfo,"Aby kontynuować, potwierdź swój obecny wiek. Musisz się zalo
 AgeQuestion,Czy masz ukończone {0} lat?
 AgeYes,"Tak, mam ukończone {0} lat."
 AgeNo,"Nie, nie mam ukończonych {0} lat."
-PersonalAccountInfo,"Konto osobiste można utworzyć bez wykorzystywania jakichkolwiek informacji umożliwiających identyfikację osoby.
-Wybierając „Zgadzam się”, Twój rodzic lub opiekun zapoznał się z polityką prywatności i warunkami korzystania z usługi Ninja Kiwi i wyraża na nie zgodę, a także na możliwość przechowywania informacji o rozgrywce i niemożliwych do zidentyfikowania danych o"
+PersonalAccountInfo,"Możesz utworzyć konto osobiste bez używania jakichkolwiek danych osobowych.
+Wybierając „Zgadzam się”, Twój rodzic lub opiekun zapoznał się z polityką prywatności i warunkami korzystania z usługi Ninja Kiwi i wyraża na nie zgodę, a także na możliwość przechowywania informacji o rozgrywce i niemożliwych do zidentyfikowania danych o koncie w naszym serwisie, co obejmuje korzystanie z serwerów znajdujących się na terenie USA."
 AgreeCreateAccount,Wyrażam zgodę i chcę założyć konto
 NormalAccountInfo,"Kontynuując, wyrażasz zgodę na politykę prywatności i warunki korzystania z usługi Ninja Kiwi oraz na możliwość przechowywania informacji o rozgrywce i koncie w naszym serwisie, co obejmuje korzystanie z serwerów znajdujących się na terenie USA."
 LoggedInAs,Zalogowano jako:
@@ -4724,17 +4726,17 @@ RelicMilitaryMonkeys,Wojskowe małpki
 RelicMagicMonkeys,Magiczne małpki
 RelicSupportSimians,Wspieraj małpokształtne
 RelicMonkeyTycoon,Małpi potentat
-RelicStartingStashDescription,Rozpocznij każdą grę z dodatkowymi 300 gotówki (sumuje się z gotówką na zwykłych polach)
+RelicStartingStashDescription,Rozpocznij każdą grę z dodatkowymi 250 gotówki (sumuje się z gotówką na zwykłych polach)
 RelicExtraEmpoweredDescription,Twój bohater rozpoczyna grę z 3 dodatkowymi poziomami (sumuje się ze wzmocnionymi bohaterami na zwykłych polach)
 RelicBoxOfChocolatesDescription,Rozpocznij każdą grę z 100 dodatkowymi życiami
-RelicBoxOfMonkeyDescription,"Rozpocznij każdą grę z jedną darmową małpką, która kosztuje 500 $ lub mniej za niezmodyfikowane początkowe umieszczenie"
+RelicBoxOfMonkeyDescription,"Rozpocznij każdą grę z jedną darmową małpką, która kosztuje 400$ lub mniej za niezmodyfikowane początkowe umieszczenie"
 RelicMarchingBootsDescription,W grach o ograniczonej liczbie daje graczom +1 maksymalną liczbę każdej wieży w ich wyposażeniu lub +4 całkowitą maksymalną liczbę na grę
 RelicHeroBoostDescription,Bohaterowie zdobywają PD o 15% szybciej w każdej grze
 RelicBiggerBloonSabotageDescription,Wszystkie blony klasy MOAB pojawiają się z 15% mniej zdrowia i poruszają się z 95% prędkością
 RelicRoundingUpDescription,Zdobądź +20 $ na koniec każdej rundy
 RelicManaBulwarkDescription,"Tworzy tarczę, która pochłania do 50 żyć (sumuje się z tarczą many na zwykłych polach)"
-RelicRegenerationDescription,"Przywróć 10 żyć na rundę do początkowej wartości żyć każdej gry, jeśli w tej rundzie nie stracono żadnego życia"
-RelicRestorationDescription,"Przywróć 20 żyć na rundę do zwiększonej początkowej wartości żyć +200, jeśli w tej rundzie nie stracono żadnego życia"
+RelicRegenerationDescription,"Przywróć 20 żyć na rundę do początkowej wartości żyć każdej gry, jeśli w tej rundzie nie stracono żadnego życia"
+RelicRestorationDescription,"Przywróć 10 żyć na rundę do zwiększonej początkowej wartości żyć +200, jeśli w tej rundzie nie stracono żadnego życia"
 RelicDurableShotsDescription,Wszystkie pociski mają +25% żywotności
 RelicAlchemistTouchDescription,Wszystkie ataki mogą przekłuć ołowiane blony
 RelicDeepHeatDescription,Wszystkie ataki mogą przekłuć białe blony
@@ -4742,14 +4744,14 @@ RelicSharpsplosionDescription,Wszystkie ataki mogą przekłuć czarne blony
 RelicRoyalTreatmentDescription,Wszystkie ataki mogą przekłuć fioletowe blony
 RelicHardBakedDescription,Wszyscy bohaterowie zadają +1 pkt obrażeń ceramicznym blonom
 RelicFortifriedDescription,Wszystkie ataki zadają +1 pkt obrażeń ufortyfikowanym blonom
-RelicMoabClashDescription,Wszystkie ataki zadają +3 pkt obrażeń blonom klasy MOAB
+RelicMoabClashDescription,Wszystkie ataki zadają +2 pkt obrażeń blonom klasy MOAB
 RelicCamoFloggedDescription,Wszyscy bohaterowie zadają +3 pkt obrażeń kamuflażowym blonom
 RelicBrokenHeartDescription,Wszystkie ataki zadają +1 pkt obrażeń odrastającym blonom
 RelicGoingTheDistanceDescription,Wszystkie małpki zdobywają +20% zasięgu
-RelicHeartlessDescription,Wskaźnik regeneracji odrastających blonów zmniejszono o 25%
+RelicHeartlessDescription,Wskaźnik regeneracji odrastających blonów zmniejszono o 50%
 RelicFlintTipsDescription,"Ostre pociski dodają ognistą kropkę do wszystkich blonów, które zadają (1 pkt obrażeń co 2,5 sek., łącznie 5 sek.)"
 RelicAbilitizedDescription,Czasy odnowienia wszystkich umiejętności aktywnych dla wszystkich małpek skrócono o 10%
-RelicAirAndSeaDescription,"Koszty umieszczenia i ulepszenia asa, pilota helikoptera, pirata i małpki podwodnej zmniejszono o 10%, a przeładowanie ulepszono o 5%"
+RelicAirAndSeaDescription,"Koszty umieszczenia i ulepszenia asa, pilota helikoptera, pirata i małpki podwodnej zmniejszono o 5%, a przeładowanie ulepszono o 5%"
 RelicElDoradoDescription,Wszystkie nagrody za małpią kasę i trofea drużynowe za zwycięstwa w grze zwiększono o 25% (minimum +1)
 RelicMonkeyShieldDescription,Przez 1 godz. po zdobyciu pole nie może być atakowane przez przeciwne drużyny. Lepszy wynik spowoduje ponowne zaangażowanie.
 RelicMonkeyShieldMark2Description,Przez 2 godz. po zdobyciu pole nie może być atakowane przez przeciwne drużyny. Lepszy wynik spowoduje ponowne zaangażowanie.
@@ -4764,11 +4766,11 @@ RelicRoadSpikesDescription,Zapewnia 10 stosów kolców drogowych na grę
 RelicMoabMineDescription,Daje możliwość użycia 1 wzmocnienia miny MOAB na grę
 RelicGlueTrapDescription,Daje możliwość użycia 2 wzmocnień klejącej pułapki na grę
 RelicTechbotDescription,Daje możliwość użycia 1 wzmocnienia Tech Bota na grę
-RelicPrimaryPrimatesDescription,Zmniejsza koszt wszystkich małpek podstawowych o 10%
-RelicMilitaryMonkeysDescription,Zmniejsza koszt wszystkich wojskowych małpek o 10%
-RelicMagicMonkeysDescription,Zmniejsza koszt wszystkich magicznych małpek o 10%
+RelicPrimaryPrimatesDescription,Zmniejsza koszt wszystkich małpek podstawowych o 8%
+RelicMilitaryMonkeysDescription,Zmniejsza koszt wszystkich wojskowych małpek o 8%
+RelicMagicMonkeysDescription,Zmniejsza koszt wszystkich magicznych małpek o 8%
 RelicSupportSimiansDescription,Zmniejsza koszt wszystkich małpek wsparcia o 10%
-RelicMonkeyTycoonDescription,"Zdobądź +1 do wszystkich małpich wież w swoim wyposażeniu, a ich cena podstawowa zostanie obniżona o 5%"
+RelicMonkeyTycoonDescription,"Zdobądź +1 do wszystkich małpich wież w swoim wyposażeniu, a ich cena podstawowa zostanie obniżona o 4%"
 InviteToTeam,Zaproś do drużyny
 TeamLeave,Opuść drużynę
 Requests,Prośby
@@ -5077,8 +5079,8 @@ TeamsEmblemFrame10Description,"Ramka, która pokaże drużynie twoje oddanie sta
 TeamsEmblemFrame11Name,Ramka Poznawanie
 TeamsEmblemFrame11ShortName,Ramka Poznawanie
 TeamsEmblemFrame11Description,Przekaż najlepszą wiedzę drużynie o przekłuwaniu blonów dzięki ramce Poznanie.
-BasePropPirateCrewMonkeyName,Załoga piratów
-BasePropPirateCrewMonkeyShortName,Załoga piratów
+BasePropPirateCrewMonkeyName,Małpka pirat
+BasePropPirateCrewMonkeyShortName,Małpka pirat
 BasePropPirateCrewMonkeyDescription,"Ahoj! Powitajcie tego nicponia w bazie na terytorium spornym, a inne drużyny zawrócą z żaglami między nogami. [Miejsce na wyspę]"
 BasePropTelescopeName,Teleskop załamujący
 BasePropTelescopeShortName,Teleskop załamujący
@@ -5115,8 +5117,262 @@ TeamTrophyStoreRulesInfoSectionFour,"• Talent drużynowy jest zdobywany przez 
 PlaySocialCaps,ZAGRAJ SPOŁECZNOŚCIOWE
 SelectCapturedRelics,Wybierz aż 4 przejęte relikty
 NextBonusIn,Kolejny bonus za:
-MemberCount,Liczba członków
-Min,Minimum
-PrimeGamingText,Odbierz swój prezent Prime Gaming!
-GetNow,Get Now
-
+MemberCount,Licznik członków
+Min,Min
+Back,Wstecz
+Purchase Monkey Money,Kup małpią kasa
+Player Profile,Profil gracza
+Toggle Info,Przełącz informacje
+Store Info,Informacje o sklepie
+Toggle mode,Przełącz tryb
+Toggle jukebox enabled,Włącz przełączenie szafy grającej
+Play / Pause,Odtwórz / Wstrzymaj
+Move up,W górę
+Move down,W dół
+Buy Monkey Knowledge,Kup małpią wiedzę
+Search,Szukaj
+Google Play,Google Play
+Remove mode,Usuń tryb
+Add mode,Dodaj tryb
+Toggle ranked mode,Przełącz tryb rankingowy
+Info,Informacje
+Switch to MonkeyName,Przejdź do nazwanych małpek
+Rename monkey,Zmień nazwę małpki
+Switch to Medals,Przejdź do medali
+Switch to Settings,Przejdź do ustawień
+Refresh,Odśwież
+First Page,Pierwsza strona
+Prev Page,Poprzednia strona
+Next Page,Następna strona
+Last Page,Ostatnia strona
+Reset,Resetuj
++,+
+-,-
+Show/Hide panel,Pokaż/ukryj panel
+Toggle Loop Track,Przełącz pętlę utworów
+Previous Track,Poprzedni utwór
+Next Track,Następny utwór
+Info mode,Tryb informacji
+Hero mode,Tryb bohaterów
+Skin mode,Tryb skórek
+Prev mode,Poprzedni tryb
+Next mode,Następny tryb
+Disconnect controller,Odłącz kontroler
+Clear all monkeys,Usuń wszystkie małpki
+Clear all powers,Usuń wszystkie moce
+Mute,Wycisz
+Place Second Tower Console,"Umieść małpkę z rzutkami, a następnie naciśnij [dpad_up], aby grać"
+Finished Round One Console,"Proste, prawda? Naciśnij [dpad_up], aby rozpocząć następną rundę"
+Speed x1,Prędkość 1x
+Speed x3,Prędkość 3x
+CouchBuildZoneMessage,Postaw swoją małpią wieżę w wybranym obszarze
+Insta Monkeys,Natychmiastowe małpki
+Controller.Title,Sterowanie
+Controller.DPadUp,Wyślij rundę / przewiń do przodu
+Controller.DPadDown,Wyślij rundę wyścigową
+Controller.DPadLeft,Nie przypisano
+Controller.DPadRight,Nie przypisano
+Controller.LeftAnalog,Wolny kursor
+Controller.LeftAnalogButton,Szybkie rozmieszczenie
+Controller.RightAnalog,Przewiń
+Controller.RightAnalogButton,Pokaż/ukryj panel
+Controller.Menu,Nie przypisano
+Controller.Start,Pauza
+Controller.LeftShoulder,Poprzednia karta
+Controller.RightShoulder,Kolejna karta
+Controller.LeftTrigger,"Precyzyjne rozmieszczenie, skróty klawiszowe umiejętności"
+Controller.RightTrigger,skróty klawiszowe umiejętności
+Controller.NorthButton,Nie przypisano
+Controller.SouthButton,Potwierdź
+Controller.EastButton,Anuluj
+Controller.WestButton,Nie przypisano
+Toggle tab,Przełącz kartę
+Refresh data,Odśwież dane
+Prev tab,Poprzednia karta
+Next tab,Kolejna karta
+Controller.Ready,Gotowe
+Friends,Znajomi
+MinimumRounds,Minimum rund
+MaximumRounds,Maksimum rund
+Max Monkeys,Maksimum małpek
+Toggle add / remove,Przełącz dodawanie/usuwanie
+Toggle select / edit,Przełącz wybór/edycję
+Camo,Kamuflaż
+Couch Co-op,Kanapowa kooperacja
+Gift,Prezent
+Emote,Emotka
+Set Target,Wybierz cel
+Return to groups,Wróć do grup
+TT_FollowCursor,Śledź kursor
+Toggle Map Dividers,Przełącz dzielniki mapy
+Send,Wyślij
+Upgrade,Ulepsz
+NextUpgrade,Kolejne ulepszenie
+CurrentUpgrade,Bieżące ulepszenie
+HeroBoosterLocked,Zablokowane
+PrimeGamingText,Odbierz nagrodę Prime Gaming
+GetNow,Odbierz teraz
+,
+DarkDungeons,Mroczne Lochy
+OneTwoTree,Drzewko Szczęścia
+BeastHandler,Pogromca Bestii
+BeastHandlers,Pogromcy Bestii
+BeastHandler Description,"Może tresować niebezpieczne bestie na lądzie, w wodzie i w powietrzu. Zamiast tworzyć więcej bestii wielu pogromców współpracuje ze sobą, aby zwiększyć moc tych istniejących."
+BeastHandler Short Description,Małpka obronna
+Piranha,Pirania
+Microraptor,Mikroraptor
+Gyrfalcon,Białozór
+Barracuda,Barrakuda
+Adasaurus,Adazaur
+Horned Owl,Puchacz wirginijski
+Great White,Żarłacz biały
+Velociraptor,Welociraptor
+Golden Eagle,Orzeł przedni
+Orca,Orka
+Tyrannosaurus Rex,Tyranozaur
+Giant Condor,Kondor wielki
+Megalodon,Megalodon
+Giganotosaurus,Giganotozaur
+Pouakai,Pouākai
+Piranha Description,"Trenuj małą, lecz zadziorną rybkę, aby atakowała blony z wody."
+Microraptor Description,Trenuj małego dinozaura o ostrych szponach. Ulepszaj z większą liczbą Pogromców Bestii dzięki temu ulepszeniu.
+Gyrfalcon Description,"Trenuj szlachetnego, małego ptaka drapieżnego, aby chwytał i przenosił blony swoimi szponami."
+Barracuda Description,Ostre jak brzytwa zęby barakudy mogą przebić wiele warstw blona. Wymaga co najmniej 1 innego Pogromcę Bestii z ulepszeniami piranii. Maks. 4 pomagających Pogromców Bestii
+Adasaurus Description,Ostre zęby adazaura zadają duże obrażenia na krótkim dystansie. Wymaga co najmniej 1 innego Pogromcę Bestii z ulepszeniami mikroraptora. Maks. 4 pomagających Pogromców Bestii
+Horned Owl Description,"Puchacz wirginijski jest wystarczająco silny, by chwytać i przekłuwać ołowiane i ceramiczne blony, a jego bystre oczy potrafią wykrywać kamuflaże."
+Great White Description,"Żarłacz biały zmiażdży blony, w tym ołowiane blony, w swoich szczękach, w razie potrzeby wciągając je z powrotem do wody. Wymaga co najmniej 2 innych Pogromców Bestii z ulepszeniami barrakudy. Maks. 4 pomagających Pogromców Bestii"
+Velociraptor Description,Welociraptor tnie i gryzie blony z zawrotną prędkością. Wymaga co najmniej 2 innych Pogromców Bestii z ulepszeniami adazaura. Maks. 4 pomagających Pogromców Bestii
+Golden Eagle Description,"Ekspert w chwytaniu dużej liczby blonów na raz. Orzeł przedni jest tak wielki, że wymaga co najmniej 2 innych Pogromców Bestii z ulepszeniami puchacza wirginijskiego. Maks. 4 pomagających Pogromców Bestii"
+Orca Description,Ogromna paszcza potężnej orki potrafi chwytać i wciągać w głębiny wszystkie blony oprócz największych. Wymaga co najmniej 3 innych Pogromców Bestii z ulepszeniami żarłacza białego. Maks. 4 pomagających Pogromców Bestii
+Tyrannosaurus Rex Description,Ogromna szczęka i ostre zęby tyranozaura zadają mnóstwo obrażeń przy każdym ugryzieniu. Wymaga co najmniej 3 innych Pogromców Bestii z ulepszeniami welociraptora. Maks. 4 pomagających Pogromców Bestii. Zdolność stąpania T-rexa: Ogłusza blony ZOMG na dużym obszarze.
+Giant Condor Description,Ogromne szpony przerażającego gigantycznego kondora mogą podnosić blony klasy MOAB. Wymaga co najmniej 3 innych Pogromców Bestii z ulepszeniami orła przedniego. Maks. 4 pomagających Pogromców Bestii
+Megalodon Description,"Kolosalnych rozmiarów rekin uwielbiający smak blonów, który wymaga co najmniej 4 innych Pogromców Bestii z ulepszeniami orki. Maks. 8 pomagających Pogromców Bestii"
+Giganotosaurus Description,"Największy i najbardziej zaciekły dinozaur ze wszystkich, giganotozaur, potrafi błyskawicznie z łatwością zniszczyć prawie każdego blona. Wymaga co najmniej 4 innych Pogromców Bestii z ulepszeniami tyranozaura. Maks. 8 pomagających Pogromców Bestii. Umiejętność ogłusza na dłużej blony ZOMG."
+Pouakai Description,"Legendarny ptak pouākai jest tak wielki, że potrafi podnieść, unieść i zniszczyć prawie dowolną liczbę blonów niemal dowolnej wielkości. Wymaga co najmniej 4 innych Pogromców Bestii z ulepszeniami kondora wielkiego. Maks. 8 pomagających Pogromców Bestii"
+T Rex Stomp Ability,Stąpanie T-rexa
+T Rex Stomp Ability Description,Ogłusza blony ZOMG na dużym obszarze.
+Giganotosaurus Stomp Ability,Stąpanie giganotozaura
+Giganotosaurus Stomp Ability Description,Ogłusza wszędzie na dłużej blony ZOMG.
+Move,Przesuń
+NeedsBeastHandlers,Wymaga bestii
+NeedsWater,Potrzebuje wody
+NeedsTrack,Potrzebuje lądu
+Dreadbloon,Dreadblon
+DreadbloonTagLine,Z głębi mrocznych czeluści...
+DreadbloonTagLine2,wydobywa się Opancerzony Behemoth!
+DreadbloonInfoPanelDescription,"\n• Dreadblon ma właściwości ołowiu i zmniejsza wszystkie nadchodzące obrażenia o 1.\n• Po dotarciu do każdej czaszki Dreadblon wytwarza ceramiczną skorupę pancerza, a na początku ścieżki zaczynają się pojawiać upiorne blony.\n• Gdy pojawia się Dreadblon, jest odporny na wieże podstawowe. Przy każdej czaszce ta odporność zmienia się na inny typ wieży: militarny, magiczny lub obronny.\n• Upiorne blony i ceramiczna powłoka pancerza również mają te odporności.\n• Upiorne blony potrafią drażnić się z tobą – uważaj, w co celują twoje wieże!"
+DreadbloonPrimaryImmunity,Odporność na: Podstawowe
+DreadbloonMilitaryImmunity,Odporność na: Militarne
+DreadbloonMagicImmunity,Odporność na: Magiczne
+DreadbloonSupportImmunity,Odporność na: Wsparcie
+Resist,Obrona
+Immune,Odporność
+SleighCaptainChurchillSkinName,Skórka Jedzie Churchill
+SleighCaptainChurchillSkinDescription,"Zabijanie blonów w świątecznej atmosferze, jedna bomba zapakowana na prezent na raz."
+SleighCaptainChurchillSkinNameFull,Jedzie Churchill
+GameUIProfileBanner23Name,Baner profilu Świąteczne życzenia
+GameUIProfileBanner23ShortName,Baner Świąteczne życzenia
+GameUIProfileBanner23Description,"Celebruj radosne święta tej zimy lub przez cały rok dzięki temu zabawnemu, mroźnemu banerowi. Ograniczony czasowo przedmiot kolekcjonerski!"
+GameUIProfileBanner24Name,Baner profilu Atakujące bumerangi
+GameUIProfileBanner24ShortName,Baner Atakujące bumerangi
+GameUIProfileBanner24Description,Zwycięski baner autorstwa ReconScoutTeemo
+GameUIProfileBanner25Name,Baner profilu Glify
+GameUIProfileBanner25ShortName,Baner Glify
+GameUIProfileBanner25Description,Zwycięski baner autorstwa PvtMagnuS
+GameUIProfileAvatar65Name,Niestandardowy awatar – świąteczny wieniec
+GameUIProfileAvatar65ShortName,Awatar Świąteczny wieniec
+GameUIProfileAvatar65Description,"Rozsiewaj szczęście i rozwesel wszystkich dzięki temu awatarowi Świąteczny wieniec. Ograniczony czasowo przedmiot kolekcjonerski!"
+GameUIProfileAvatar66Name,Niestandardowy awatar – Awatar gniewu
+GameUIProfileAvatar66ShortName,Awatar Awatar gniewu
+GameUIProfileAvatar66Description,"Wreszcie! Ile czasu zajęło wprawienie mnie w ruch?! Awatar ma moje imię, jak kocham banany!"
+GameUIProfileAvatar67Name,Niestandardowy awatar – Wesołych Świąt
+GameUIProfileAvatar67ShortName,Awatar Wesołych Świąt
+GameUIProfileAvatar67Description,"Podekscytowanie Etienne na myśl o zdobyciu kolejnego drona na Boże Narodzenie napełniłoby każde serce radością. Ograniczony czasowo przedmiot kolekcjonerski!"
+GameUIProfileAvatar68Name,Niestandardowy awatar – Zero bezwzględne
+GameUIProfileAvatar68ShortName,Awatar Zero bezwzględne
+GameUIProfileAvatar68Description,"Jeśli zależy ci, by wyglądać odlotowo, wybierz ten awatar lodowej małpki."
+CoopEmoteAnimationSleighbellsName,Animacja Śnieg i sanie
+CoopEmoteAnimationSleighbellsShortName,Sanie
+CoopEmoteAnimationSleighbellsDescription,"Zdobądź tę zimową krainę pełną emotek i rozwesel gracza 1, 2 lub 4! Ograniczony czasowo przedmiot kolekcjonerski!"
+TowerProjectileBananaFarmPresentsName,Banany w prezencie z bananowej farmy
+TowerProjectileBananaFarmPresentsShortName,Prezenty z bananowej farmy
+TowerProjectileBananaFarmPresentsDescription,"Nie ma nic lepszego niż bananowa farma, na której rosną prezenty! Co się w nich kryje? Jasne, że banany! Ograniczony czasowo przedmiot kolekcjonerski!"
+TowerProjectileDartMonkeySnowballsName,Pocisk śnieżkowy małpki z rzutkami
+TowerProjectileDartMonkeySnowballsShortName,Śnieżki małpki z rzutkami
+TowerProjectileDartMonkeySnowballsDescription,"Nie jesteśmy pewni, jak udało im się tak dobrze dorastać w dżungli, ale spróbuj tych pocisków i przekonaj się, dlaczego małpki z rzutkami zawsze wygrywają w bitwach na śnieżki. Ograniczony czasowo przedmiot kolekcjonerski!"
+TowerProjectileTackShooterIciclesName,Pocisk z sopli i płatków śniegu działa gwoździowego
+TowerProjectileTackShooterIciclesShortName,Sople działa gwoździowego
+TowerProjectileTackShooterIciclesDescription,"Jeśli podoba ci się kombinacja działa gwoździowego i lodowej małpki, będzie błyszczeć jeszcze bardziej, gdy pinezki zamienią się w sople lodu, a ostrza w płatki śniegu. Ograniczony czasowo przedmiot kolekcjonerski!"
+TowerProjectileNinjaMonkeySnowflakesName,Pocisk z płatków śniegu małpki ninja
+TowerProjectileNinjaMonkeySnowflakesShortName,Płatki śniegu małpki ninja
+TowerProjectileNinjaMonkeySnowflakesDescription,Delikatny płatek śniegu\nRzucony szybko z ręki ninja\nSymetria cięcia\n\nOgraniczony czasowo przedmiot kolekcjonerski!
+BuildingPropChristmasTreeName,Budynek świątecznej choinki
+BuildingPropChristmasTreeShortName,Budynek świątecznej choinki
+BuildingPropChristmasTreeDescription,A może by tak zmienić bazę na choinkę? Gdzie zamieszkają małpki? Czekaj... nieważne.\nWprowadź swoją drużynę w świąteczną atmosferę dzięki tej bazie w postaci świątecznej choinki. [Główne miejsce na budynek]
+BasePropCosyBeanbagMonkeyName,Małpka Przytulne siedzisko
+BasePropCosyBeanbagMonkeyShortName,Małpka Przytulne siedzisko
+BasePropCosyBeanbagMonkeyDescription,Siedzisko. Najbardziej wygodny fotel. Zawiera relaksującą małpkę! [Miejsce na wyspę]
+TeamsBanner9Name,Baner Delikatny płatek śniegu
+TeamsBanner9ShortName,Baner Delikatny płatek śniegu
+TeamsBanner9Description,"Prosta złożoność płatka śniegu jest perfekcyjna, tak jak twoja drużyna."
+TeamsBanner10Name,Baner Pieczony banan
+TeamsBanner10ShortName,Baner Pieczony banan
+TeamsBanner10Description,Niech twojej drużynie cieknie ślinka na widok pieczonego nad ogniem banana!
+TeamsEmblemFrame12Name,Ramka blonów
+TeamsEmblemFrame12ShortName,Ramka blonów
+TeamsEmblemFrame12Description,"Spraw, by twoja drużyna stała się wrogiem wszystkich dzięki tej bezlitosnej ramce blonów."
+TeamsEmblemFrame13Name,Ramka militarna
+TeamsEmblemFrame13ShortName,Ramka militarna
+TeamsEmblemFrame13Description,Entuzjastyczna drużyna jest nieskuteczna bez porządku i dyscypliny.
+TeamsEmblemIcon15Name,Ikona Korona
+TeamsEmblemIcon15ShortName,Ikona Korona
+TeamsEmblemIcon15Description,Poprzyj roszczenia swojej drużyny do tronu z rzutkami.
+TeamsEmblemIcon16Name,Ikona Kosmita
+TeamsEmblemIcon16ShortName,Ikona Kosmita
+TeamsEmblemIcon16Description,"Ikona, gdy twoja drużyna jest w innej galaktyce!"
+Achievement 146 Name,Zadanie poboczne
+Achievement 146 Description,Ukończ zadanie
+Achievement 147 Name,Ożywienie
+Achievement 147 Description,Posiadaj jednocześnie aktywnych 75 wzmocnień na swoich małpkach
+Achievement 148 Name,Trening ligi światowej
+Achievement 148 Description,Zdobądź 150 000 PD Pogromcy Bestii
+CompleteQuestMessage,Ukończ zadanie
+QuestUnlocksAtLevelXMessage,Zadanie odblokowuje<br>poz. {0}
+QuestComplete,Zadanie ukończone!
+BeastHandlerQuestName,Zadanie Epicka Bestia
+BeastHandlerQuestReward,Odblokuj Pogromcę Bestii i wiele więcej!
+BeastHandlerQuest1Name,Od Zarania Dziejów
+BeastHandlerQuest1Description,Trenuj śmiercionośne dinozaury w kamieniołomie
+BeastHandlerQuest1Victory,Gratulacje! Ukończono Od Zarania Dziejów!
+BeastHandlerQuest2Name,W Morskich Głębinach
+BeastHandlerQuest2Description,Hoduj dzikie ryby na Wyspach przypraw
+BeastHandlerQuest2Victory,Gratulacje! Ukończono W Morskich Głębinach!
+BeastHandlerQuest3Name,W Przestworzach
+BeastHandlerQuest3Description,Wylęgaj potężne ptaki na Przełamanej
+BeastHandlerQuest3Victory,Gratulacje! Ukończono W Przestworzach!
+DialogBeastHandlerQuest1UI1,Pogromcy Bestii opuścili wioskę wiele lat temu z misją odnalezienia epickich bestii i już prawie wykonali swoje zadanie!
+DialogBeastHandlerQuest1UI2,"Jeśli pomożesz im ukończyć zadanie, wrócą i dołączą do nas w walce z blonami!"
+DialogBeastHandlerQuest1InGame1,Pogromcy Bestii usłyszeli opowieści o tajemniczym jaju i oswoili swoją pierwszą epicką bestię!
+DialogBeastHandlerQuest1InGame2,Pomóż im poznać tajniki tych wygłodniałych ptaków drapieżnych!
+DialogBeastHandlerQuest2UI1,"Cudownie! Pogromcy Bestii pracują z okrutnymi bestiami, jakby były zwierzętami domowymi. I wymyślili, jak je połączyć i wzmocnić, pracując wspólnymi siłami."
+DialogBeastHandlerQuest2UI2,"Nie znam się na biologii, ale hybrydy są zdecydowanie potężniejsze. Pozwoliły bowiem Pogromcom Bestii dotrzeć do kolejnego jaja."
+DialogBeastHandlerQuest2UI3,"Ciekawe, co znaleźli!"
+DialogBeastHandlerQuest3UI1,"To wymaga niemałego sprytu, by wyszkolić tak przerażające wodne bestie, aby pomagały walczyć z blonami w wodzie i znajdowały ukryte wodne skarby, takie jak trzecie jajo."
+DialogBeastHandlerQuest3UI2,"Gdy pomożesz Pogromcom Bestii okiełznać trzecią bestię, będą mogli dołączyć do drużyny!"
+,
+RemoveProviderFromAccount,Czy na pewno chcesz usunąć tego dostawcę ze swojego konta? <br><br><b>Usunięcie dostawcy z konta może potrwać do 3 godzin</b>
+ProviderRemovedText,Usunięto dostawcę.<br><br>Ta strona zostanie wkrótce zamknięta
+AdditionalAccountLinks,Dodatkowe linki do konta
+LoginWithAmazon,Zaloguj się na konto Amazon
+LinkingCodeButton,Uzyskaj kod połączenia
+LinkingCodeMessage,Otwórz grę na innym urządzeniu i po wyświetleniu monitu wprowadź następujący kod. Kod jest ważny przez 10 minut.
+Rate Expires In,Wskaźnik wygasa za
+Rate,Wskaźnik
+CoopGameSyncFailed,Nieudana synchronizacja ustawień gry. Zagraj w nową grę.
+iCloudTitle,iCloud
+iCloudDisabled,Wyłączono iCloud
+iCloudEnabled,Włączono iCloud
+DialogBeastHandlerQuest1InGameTowerUpgrade1,"Wow, ta bestia jest tak silna, że potrzeba DWÓCH Opiekunów Bestii, aby ją opanować!"
+Buffed,Wzmocniony
+Assisting,Pomaganie
+Select Point On Track,Wybierz punkt na ścieżce

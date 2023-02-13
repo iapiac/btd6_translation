@@ -101,7 +101,7 @@ Quincy Level 15 Description,Colpo rapido diventa attacco dalla velocità quadrup
 Quincy Level 16 Description,Velocità d'attacco ulteriormente aumentata.
 Quincy Level 17 Description,Le frecce durano il 25% in più. Spara frecce esplosive ogni 2 colpi.
 Quincy Level 18 Description,Quincy attacca più velocemente e Tempesta di frecce ha un tempo di recupero ridotto e 50% frecce in più.
-Quincy Level 19 Description,Ogni freccia è in grado di far scoppiare più bloon.
+Quincy Level 19 Description,Spara 3 frecce alla volta e ogni freccia ha più potenza distruttiva.
 Quincy Level 20 Description,Quincy attacca ancora più velocemente. Tempesta di frecce infligge ancora più danni e lancia più frecce.
 ,
 StrikerJones Level 1 Description,Striker Jones si avvale di un potente bazooka per far scoppiare i bloon.
@@ -697,10 +697,10 @@ Enhanced Eyesight Description,È in grado di colpire ancora più lontano e di in
 Spike-o-pult Description,Converte la scimmia lancia freccette in una catapulta più lenta nell'attacco che lancia enormi sfere acuminate. Ogni sfera è capace di far scoppiare un bel po' di bloon e rimbalza sugli ostacoli.
 Triple Shot Description,Consente di lanciare 3 dardi alla volta anziché 1.
 Crossbow Description,"Usa la balestra a lungo raggio che,  con ogni colpo, può far scoppiare 3 strati di bloon."
-Juggernaut Description,Lancia una sfera acuminata gigante capace di far scoppiare i bloon di piombo e particolarmente adatta contro quelli di ceramica.
+Juggernaut Description,Lancia una sfera acuminata gigante capace di far scoppiare i bloon di piombo e particolarmente adatta contro i bloon fortificati e di ceramica.
 Super Monkey Fan Club Description,Abilità Fan club della super scimmia: trasforma fino a 10 Scimmie lancia freccette vicine (se stessa inclusa) in Super scimmie per 15 secondi. Aumenta anche la velocità d'attacco normale.
 Sharp Shooter Description,Tiratore scelto attacca più velocemente e dopo qualche colpo mette a segno potenti colpi critici che provocano molti più danni.
-Ultra-Juggernaut Description,La sfera acuminata gigante si divide in 6 sfere inarrestabili per una maggiore devastazione.
+Ultra-Juggernaut Description,La sfera acuminata gigante si divide due volte in 6 sfere colossali per una maggiore devastazione contro i bloon fortificati e di ceramica.
 Plasma Monkey Fan Club Description,L'appartenenza a questo club d'élite conferisce ancora più potere alle scimmie lancia freccette!
 Crossbow Master Description,Il Maestro della balestra è in grado di far fuoco molto rapidamente e i suoi colpi hanno effetto sulla maggior parte dei bloon.
 ,
@@ -756,11 +756,11 @@ Permafrost Description,I bloon si muovono lentamente anche dopo lo scongelamento
 Enhanced Freeze Description,Attacca più rapidamente e congela per un lasso di tempo maggiore.
 Larger Radius Description,Area congelata maxi.
 Metal Freeze Description,È in grado di congelare e far scoppiare bloon di piombo e mimetizzati.
-Deep Freeze Description,Congela uno strato extra e fa durare il congelamento più a lungo.
+Deep Freeze Description,"Aumenta la perforazione, congela uno strato extra e fa durare il congelamento più a lungo."
 Re-Freeze Description,È in grado di ricongelare bloon già congelati.
 Ice Shards Description,"Quando un bloon congelato scoppia, vengono espulse schegge affilate."
 Arctic Wind Description,Aumenta considerevolmente la perforazione e ottiene un'aura super gelata che rallenta i bloon e congela l'acqua nelle vicinanze.
-Cryo Cannon Description,Spara bombe congelanti contro i bloon coprendo una portata ancora maggiore.
+Cryo Cannon Description,Spara rapidamente bombe congelanti più piccole coprendo una portata ancora maggiore.
 Embrittlement Description,"Può colpire i bloon di classe MOAB. Tutti i bloon colpiti diventano fragili, subendo danni extra mentre sono congelati e perdendo tutte le proprietà mimetiche."
 Snowstorm Description,"Abilità Tempesta di neve: congela tutti i bloon normali sullo schermo e inoltre congela per un breve lasso di tempo i bloon bianchi, zebrati e mimetizzati. Rallenta invece i bloon di classe MOAB."
 Icicles Description,Dai bloon congelati spuntano ghiaccioli acuminati in grado di far scoppiare i bloon che vi entrano in contatto.
@@ -774,10 +774,10 @@ Stickier Glue Description,Prolunga l'effetto della colla.
 Corrosive Glue Description,Gli strati di bloon ricoperti di colla scoppiano ogni pochi secondi.
 Glue Splatter Description,Sparge la colla su 6 bloon con ogni colpo.
 Stronger Glue Description,Rallenta ancora di più i bloon.
-Bloon Dissolver Description,I solventi estremi sono in grado di sciogliere due strati al secondo.
+Bloon Dissolver Description,Può incollare un bloon aggiuntivo per colpo e i solventi sciolgono due strati al secondo.
 Glue Hose Description,Spara la colla 3 volte più rapidamente!
 MOAB Glue Description,"Grazie alla sua formula migliorata, la colla è in grado di attaccarsi ai bloon classe MOAB."
-Bloon Liquefier Description,Può incollare un bloon aggiuntivo per colpo e applica composti liquefacenti che causano 10 scoppi al secondo.
+Bloon Liquefier Description,Applica composti liquefacenti che causano 10 scoppi al secondo.
 Glue Strike Description,"Abilità Spargi colla: cosparge di colla tutti i bloon sullo schermo, facendogli subire più danni da tutte le fonti mentre l'abilità è attiva."
 Relentless Glue Description,I bloon scoppiati ricoperti di colla lasciano sul tracciato una chiazza di colla.
 The Bloon Solver Description,Hai problemi con i bloon? Eccoti la soluzione.
@@ -875,10 +875,10 @@ Heavy Shells Description,"Le granate pesanti provocano danno extra ai bloon di c
 Signal Flare Description,I bloon mimetizzati esplosi con i bengala perdono definitivamente la loro mimetizzazione.
 The Big One Description,"Esplosioni devastanti fanno scoppiare 7 strati di bloon, oltre ad aumentare ulteriormente i danni da materiale infiammabile."
 Artillery Battery Description,Abilità Bombardamento: scatena un attacco di fuoco rapido su un'area un po' più ampia. L'attacco principale infligge più danni ai BAD e ai boss dei bloon e passa a 3 canne per attacchi incredibilmente veloci.
-Shattering Shells Description,Le granate frantumatrici privano i bloon (tranne quelli di più grosse dimensioni) di tutte le proprietà speciali.
+Shattering Shells Description,Le granate frantumatrici privano i bloon (tranne quelli di più grosse dimensioni) di tutte le proprietà speciali e brucia i bloon di classe MOAB per infliggere ulteriori danni.
 The Biggest One Description,"Fa esplodere con forza i bloon e gli strati presenti in un'ampia area, oltre a infliggere gravi danni da materiale infiammabile."
 Pop and Awe Description,Abilità Scoppia e terrorizza: le esplosioni piovono su tutta la schermata facendo scoppiare e immobilizzando i bloon per pochi secondi. Tutte le batterie d'artiglieria infliggono più danni ai BAD e ai boss dei bloon. L'attacco principale ottiene danni bonus contro i bloon immobilizzati.
-Blooncineration Description,Il caldissimo inceneritore scioglie 5 strati di bloon a ogni colpo e brucia i bloon di classe MOAB per infliggere ulteriori danni.
+Blooncineration Description,Il caldissimo inceneritore scioglie 5 strati di bloon a ogni colpo e incenerisce i bloon di classe MOAB per infliggere danni ingenti.
 ,
 Focused Firing Description,Aumenta la precisione del mitra a freccette.
 Advanced Targeting Description,Consente alla torre spara freccette di colpire i bloon mimetizzati.
@@ -909,7 +909,7 @@ Shimmer Description,Ottiene un attacco di magia nera che rivela periodicamente l
 Arcane Spike Description,La magia a fuoco rapido infligge gravi danni alla maggior parte dei tipi di bloon.
 Summon Phoenix Description,Abilità Evoca la fenice: la potente fenice sparge distruzione tra i bloon per 20 secondi.
 Necromancer: Unpopped Army Description,Riporta in vita i bloon fatti scoppiare di recente per usarli come servi e distruggere altri bloon.
-Archmage Description,Un vero maestro della magia.
+Archmage Description,Un vero maestro della magia. Attacca più velocemente e infligge più danni ai bloon di classe MOAB.
 Wizard Lord Phoenix Description,Il mago supremo diventa maestro della fiamma e si trasforma per un breve lasso di tempo in una super potente fenice di lava.
 Soulbind Description,Riporta in vita bloon servi ancora più potenti per annientare il nemico.
 ,
@@ -971,7 +971,7 @@ Druid of the Storm Description,Raffiche di vento spazzano i bloon via dal tracci
 Druid of the Jungle Description,"Evoca un rampicante che germoglia dal suolo e avvolge stritolandolo un bloon per volta, lasciandosi dietro una pila di spine letali."
 Druid of Wrath Description,Conferisce velocità d'attacco durante il round fintantoché il druido continua ad attaccare bloon.
 Ball Lightning Description,Crea potenti fulmini globulari dai quali scaturiscono fulmini aggiuntivi e può congelare i bloon.
-Jungle's Bounty Description,"Abilità Dono della giungla: genera contante a ogni utilizzo, più contante extra per ciascun vivaio di banane accanto al druido. Può anche afferrare due bloon alla volta con i rampicanti."
+Jungle's Bounty Description,"Abilità Dono della giungla: genera contante a ogni utilizzo, più contante extra per ciascun vivaio di banane accanto al druido. Chiama due rampicanti per afferrare i bloon e le pile di spine ottengono perforazione extra."
 Poplust Description,Potenzia la velocità d'attacco e la perforazione di tutti i druidi nel suo raggio d'azione. È cumulabile con un massimo di 5 volte su un singolo druido.
 Superstorm Description,Super tempesta provoca danno grave a tutti i tipi di bloon e li allontana dall'uscita.
 Spirit of the Forest Description,"Fa crescere rampicanti spinati lungo il percorso, che infliggono danni costanti e danni bonus ai bloon di ceramica. I rampicanti più vicini allo spirito della foresta infliggono più danni. L'abilità attivata genera vite e più contante."
@@ -1660,11 +1660,11 @@ btd6_herobooster Description,L'eroe selezionato nella partita attualmente in cor
 btd6_powersattackpack,Pacchetto poteri d'attacco
 btd6_powersattackpack Description,Un pacchetto contenente {0} poteri scimmieschi pensati per il combattimento.
 btd6_instatowerspack,Pacchetto Insta-scimmia
-btd6_instatowerspack Description,"5 torri scimmia pronte da collocare a costo zero! Contiene le seguenti torri: 2 livello 1, 2 livello 2 e 1 livello 3"
+btd6_instatowerspack Description,"5 torri scimmiesche pronte da collocare a costo zero! Contiene le seguenti torri: 2 livello 1, 2 livello 2 e 1 livello 3. Le scimmie comprese in ogni livello hanno la stessa probabilità di essere estratte."
 btd6_tier3instatowerspack,Pacchetto Insta-scimmie livello 3
-btd6_tier3instatowerspack Description,10 torri Insta-scimmia livello 3 pronte da collocare a costo zero!
+btd6_tier3instatowerspack Description,10 Insta-torri scimmiesche livello 3 pronte da collocare a costo zero! La probabilità di estrarre ogni scimmia è la stessa.
 btd6_tier4instatowerspack,Pacchetto Insta-scimmie livello 4
-btd6_tier4instatowerspack Description,10 torri Insta-scimmia livello 4 pronte da collocare a costo zero!
+btd6_tier4instatowerspack Description,10 Insta-torri scimmiesche livello 4 pronte da collocare a costo zero! La probabilità di estrarre ogni scimmia è la stessa.
 btd6_needmoremonkeymoneyprompt,Denaro insufficiente! Desideri acquistarne dell'altro?
 ,
 ,
@@ -1678,11 +1678,11 @@ btd6_extramonkeymoney Description,Offerta speciale! Ottieni denaro pari a {0} a 
 btd6_powerspandamonium,Pandemonio di poteri
 btd6_powerspandamonium Description,Un pacchetto contenente {0} dei migliori poteri scimmieschi esistenti.
 btd6_instatowersmegabooster,Mega potenziatore Insta-scimmie
-btd6_instatowersmegabooster Description,"Questo mega pacchetto contiene le seguenti torri Insta-scimmia pronte da collocare a costo zero: 5 livello 2, 12 livello 3 e 3 livello 4."
+btd6_instatowersmegabooster Description,"Questo mega pacchetto contiene le seguenti Insta-torri scimmiesche pronte da collocare a costo zero: 5 livello 2, 12 livello 3 e 3 livello 4. Le scimmie comprese in ogni livello hanno la stessa probabilità di essere estratte."
 btd6_megamonkeycompendiumpack,Mega pacchetto compendio scimmiesco
-btd6_megamonkeycompendiumpack Description,"Un enorme pacchetto pieno di ogni ben di Dio! Denaro pari a 25.000, poteri offensivi pari a 100, 30 torri Insta-scimmia di livello 3, 15 torri Insta-scimmia di livello 4, 5 torri Insta-scimmia di livello 5 e sapienza sbloccata (rango 30, 5 punti sapienza "
+btd6_megamonkeycompendiumpack Description,"Un enorme pacchetto pieno di ogni ben di Dio! Denaro pari a 25.000, poteri offensivi pari a 100, 30 Insta-torri scimmiesche di livello 3, 15 Insta-torri scimmiesche di livello 4, 5 Insta-torri scimmiesche di livello 5 e sapienza sbloccata (grado 30, 5 punti sapienza)! Le scimmie comprese in ogni livello hanno la stessa probabilità di essere estratte."
 btd6_tier5instatowerpack,Pacchetto Insta-scimmie livello 5
-btd6_tier5instatowerpack Description,10 torri scimmia livello 5 pronte da collocare a costo zero!
+btd6_tier5instatowerpack Description,10 torri scimmiesche livello 5 pronte da collocare a costo zero! La probabilità di estrarre ogni scimmia è la stessa.
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,Offerta Pila di denaro
@@ -2042,6 +2042,8 @@ Swedish,Svedese
 Turkish,Turco
 Korean,Coreano
 Japanese,Giapponese
+Polish,Polacco
+Monkelish,Scimmiesco
 ,
 Backup,Backup
 Profile,Account
@@ -2461,11 +2463,11 @@ EditorLockedShareButtonDescription,Per condividere la tua sfida devi dimostrare 
 ConflictScreenChoose,Seleziona una partita salvata
 ConflictThisDevice,Questo dispositivo
 ConflictCloud,Sul cloud
-ConflictTimeHours,Salvata {0} ore fa
 ConflictUseButton,Usa
 ConflictNoData,Nessun dato
-ConflictTimeMinutes,Salvata {0} minuti fa
 ConflictTimeSeconds,Salvata {0} secondi fa
+ConflictTimeMinutes,Salvata {0} minuti fa
+ConflictTimeHours,Salvata {0} ore fa
 ConflictTimeDays,Salvata {0} giorni fa
 FasterMoabs,Velocità dei MOAB aumentata
 SlowerMoabs,Velocità dei MOAB diminuita
@@ -2751,8 +2753,8 @@ DarkKnightDarkshift,[I] per effettuare Passaggio oscuro nel raggio d'azione
 DarkChampionDarkshift,[I] per effettuare Passaggio oscuro in qualsiasi posizione valida
 SmallTowersMode,Torri scimmia piccola
 BigTowersMode,Torri scimmia grandi
-UpdatePopupTitle,Aggiornamento 33!
-UpdatePopupDescription,"Sostanzioso aggiornamento dei contenuti!\n• Scatena la fantastica Distruttrice alata di Golia, campione scimmia asso!\n•Coltiva la potenza distruttiva con la mappa di livello Intermedio Giardino coperto! Questa mappa è stata progettata da SuperPsou, che ha vinto la competizione.\n• Infesta le sale della nuova mappa avanzata, Palazzo di mezzanotte!\n•Oggetti nel Negozio trofei, miglioramenti all'interfaccia, ribilanciamenti e molto altro!"
+UpdatePopupTitle,Aggiornamento 34!
+UpdatePopupDescription,"Sostanzioso aggiornamento per le feste!\n• Affronta il fantastico il Gigante corazzato Orribloon, con tutte le sue resistenze e immunità!\n• Scopri le posizioni dei potenziamenti per le torri sulla nuova mappa livello principiante, Uno due tre!\n• Distruggi i bloon con spirito festivo grazie alla nuova skin Capitan Churchill, Slitta Churchill!\n• Oggetti nel Negozio trofei, miglioramenti all'interfaccia, ribilanciamenti e molto altro!\n• Buone feste e felice anno nuovo da tutti noi di Ninja Kiwi!"
 ResetDailyChest,Azzera cassa delle ricompense giornaliere
 JukeboxName,Jukebox
 EnableFunction,Attiva
@@ -4723,17 +4725,17 @@ RelicMilitaryMonkeys,Scimmie soldato
 RelicMagicMonkeys,Scimmie magiche
 RelicSupportSimians,Supporto scimmiesco
 RelicMonkeyTycoon,Magnate scimmiesco
-RelicStartingStashDescription,Inizia ogni partita con 300 di contante extra (si accumula con Contante in quantità sulle caselle normali)
+RelicStartingStashDescription,Inizia ogni partita con 250 di contante extra (si accumula con contante in quantità sulle caselle normali)
 RelicExtraEmpoweredDescription,Il tuo eroe inizia una partita con 3 livelli extra (si accumula con Eroi potenziati sulle caselle normali)
 RelicBoxOfChocolatesDescription,Inizia ogni partita con 100 vite extra
-RelicBoxOfMonkeyDescription,Inizia ogni partita con una scimmia gratis del costo di 500 $ o inferiore per un posizionamento iniziale non modificato
+RelicBoxOfMonkeyDescription,Inizia ogni partita con una scimmia gratis del costo di 400 $ o inferiore per un posizionamento iniziale non modificato
 RelicMarchingBootsDescription,"Nelle partite con conteggi soggetti a restrizioni, dà ai giocatori +1 di conteggio massimo di ciascuna torre nella loro dotazione o +4 di conteggio massimo a partita"
 RelicHeroBoostDescription,Gli eroi guadagnano PE il 15% più velocemente in ogni partita
 RelicBiggerBloonSabotageDescription,Tutti i bloon di classe MOAB si generano con il 15% in meno di PV e si muovono al 95% della velocità
 RelicRoundingUpDescription,Ottieni +20 $ al termine di ogni round
 RelicManaBulwarkDescription,Crea uno scudo che assorbe fino a 50 vite (si accumula con Scudo mana sulle caselle normali)
-RelicRegenerationDescription,Ripristina 10 vite per round fino al numero di vite iniziale di ogni partita se in questo round non hai perso vite
-RelicRestorationDescription,Ripristina 20 vite per round fino a un numero di vite iniziale aumentato di +200 se in questo round non hai perso vite
+RelicRegenerationDescription,Ripristina 20 vite per round fino al numero di vite iniziale di ogni partita se in questo round non hai perso vite
+RelicRestorationDescription,Ripristina 10 vite per round fino a un numero di vite iniziale aumentato di +200 se in questo round non hai perso vite
 RelicDurableShotsDescription,Tutti i proiettili hanno una durata di +25%
 RelicAlchemistTouchDescription,Tutti gli attacchi possono far scoppiare i bloon di piombo
 RelicDeepHeatDescription,Tutti gli attacchi possono far scoppiare i bloon bianchi
@@ -4741,14 +4743,14 @@ RelicSharpsplosionDescription,Tutti gli attacchi possono far scoppiare i bloon n
 RelicRoyalTreatmentDescription,Tutti gli attacchi possono far scoppiare i bloon viola
 RelicHardBakedDescription,Tutti gli attacchi infliggono +1 danno ai bloon di ceramica
 RelicFortifriedDescription,Tutti gli attacchi infliggono +1 danno ai bloon fortificati
-RelicMoabClashDescription,Tutti gli attacchi infliggono +3 danni ai bloon di classe MOAB
+RelicMoabClashDescription,Tutti gli attacchi infliggono +2 danni ai bloon di classe MOAB
 RelicCamoFloggedDescription,Tutti gli attacchi infliggono +3 danno ai bloon mimetizzati
 RelicBrokenHeartDescription,Tutti gli attacchi infliggono +1 danno ai bloon rigeneranti
 RelicGoingTheDistanceDescription,Tutte le scimmie ottengono +20% di portata
-RelicHeartlessDescription,Tasso di rigenerazione dei bloon rigeneranti ridotto del 25%
+RelicHeartlessDescription,Tasso di rigenerazione dei bloon rigeneranti ridotto del 50%
 RelicFlintTipsDescription,"I proiettili acuminati aggiungono un tocco infuocato ai bloon che danneggiano (1 danno ogni 2,5 sec per 5 sec totali)"
 RelicAbilitizedDescription,Tempi di recupero di tutte le abilità attivate ridotti del 10% per tutte le scimmie
-RelicAirAndSeaDescription,"Costi di posizionamento e di potenziamento delle scimmie asso, pilota di elicottero, bucaniere e sommergibile ridotti del 10% e caricamento migliorato del 5%"
+RelicAirAndSeaDescription,"Costi di posizionamento e di potenziamento delle scimmie asso, pilota di elicottero, bucaniere e sommergibile ridotti del 5% e caricamento migliorato del 5%"
 RelicElDoradoDescription,Tutto il denaro e le ricompense trofei squadra dalle partite vinte sono aumentati del 25% (minimo +1)
 RelicMonkeyShieldDescription,"Per 1 ora dopo la conquista, la casella non può essere attaccata dalle squadre avversarie. Se il punteggio migliora, la contesa riprenderà"
 RelicMonkeyShieldMark2Description,"Per 2 ore dopo la conquista, la casella non può essere attaccata dalle squadre avversarie. Se il punteggio migliora, la contesa riprenderà"
@@ -4763,11 +4765,11 @@ RelicRoadSpikesDescription,Concede 10 accumuli di Aculei da strada per partita
 RelicMoabMineDescription,Concede l'uso di 1 potenziamento Mina anti MOAB per partita
 RelicGlueTrapDescription,Concede l'uso di 2 potenziamenti Trappola alla colla per partita
 RelicTechbotDescription,Concede l'uso di 1 potenziamento Robot assistente per partita
-RelicPrimaryPrimatesDescription,Riduce il costo di tutte le scimmie primarie del 10%
-RelicMilitaryMonkeysDescription,Riduce il costo di tutte le scimmie soldato del 10%
-RelicMagicMonkeysDescription,Riduce il costo di tutte le scimmie magiche del 10%
+RelicPrimaryPrimatesDescription,Riduce il costo di tutte le scimmie primarie dell'8%
+RelicMilitaryMonkeysDescription,Riduce il costo di tutte le scimmie soldato dell'8%
+RelicMagicMonkeysDescription,Riduce il costo di tutte le scimmie magiche dell'8%
 RelicSupportSimiansDescription,Riduce il costo di tutte le scimmie supporto del 10%
-RelicMonkeyTycoonDescription,Ottieni +1 di tutte le torri scimmiesche nella tua dotazione e il loro prezzo base si riduce del 5%
+RelicMonkeyTycoonDescription,Ottieni +1 di tutte le torri scimmiesche nella tua dotazione e il loro prezzo base si riduce del 4%
 InviteToTeam,Invita nella squadra
 TeamLeave,Abbandona squadra
 Requests,Richieste
@@ -5076,8 +5078,8 @@ TeamsEmblemFrame10Description,Una cornice che mostra la devozione della tua squa
 TeamsEmblemFrame11Name,Cornice Cognizione
 TeamsEmblemFrame11ShortName,Cornice Cognizione
 TeamsEmblemFrame11Description,Trasmetti le conoscenze superiori della tua squadra in materia di esplosioni di bloon con la Cornice Cognizione.
-BasePropPirateCrewMonkeyName,Equipaggio pirata
-BasePropPirateCrewMonkeyShortName,Equipaggio pirata
+BasePropPirateCrewMonkeyName,Scimmia della ciurma pirata
+BasePropPirateCrewMonkeyShortName,Scimmia della ciurma pirata
 BasePropPirateCrewMonkeyDescription,Arr! Accogli questo furfante nella tua base del Territorio conteso e le altre squadre faranno dietro-front con le vele tra le gambe [Slot Isola].
 BasePropTelescopeName,Telescopio rifrattore
 BasePropTelescopeShortName,Telescopio rifrattore
@@ -5114,7 +5116,262 @@ TeamTrophyStoreRulesInfoSectionFour,"• L'attitudine della squadra è finanziat
 PlaySocialCaps,GIOCA SOCIAL
 SelectCapturedRelics,Seleziona fino a 4 reliquie conquistate
 NextBonusIn,Bonus successivo tra:
-MemberCount,Conte membro
-Min,Minimo
-PrimeGamingText,Richiedi il tuo regalo Prime Gaming!
-GetNow,Get Now
+MemberCount,Numero di membri
+Min,Min
+Back,Indietro
+Purchase Monkey Money,Acquista denaro
+Player Profile,Profilo giocatore
+Toggle Info,Attiva/disattiva informazioni
+Store Info,Informazioni sul Negozio
+Toggle mode,Attiva/disattiva modalità
+Toggle jukebox enabled,Attiva/disattiva jukebox
+Play / Pause,Gioca / In pausa
+Move up,Sposta in su
+Move down,Sposta in giù
+Buy Monkey Knowledge,Acquista sapienza scimmiesca
+Search,Ricerca
+Google Play,Google Play
+Remove mode,Rimuovi modalità
+Add mode,Aggiungi modalità
+Toggle ranked mode,Attiva/disattiva modalità classificata
+Info,Info
+Switch to MonkeyName,Passa a Scimmie battezzate
+Rename monkey,Ribattezza scimmia
+Switch to Medals,Passa a Medaglie
+Switch to Settings,Passa a Impostazioni
+Refresh,Aggiorna
+First Page,Prima pagina
+Prev Page,Pagina precedente
+Next Page,Pagina successiva
+Last Page,Ultima pagina
+Reset,Azzera
++,+
+-,-
+Show/Hide panel,Mostra/Nascondi pannello
+Toggle Loop Track,Attiva/disattiva ripetizione tracciato
+Previous Track,Tracciato precedente
+Next Track,Tracciato successivo
+Info mode,Modalità info
+Hero mode,Modalità eroe
+Skin mode,Modalità skin
+Prev mode,Modalità precedente
+Next mode,Modalità successiva
+Disconnect controller,Scollega controller
+Clear all monkeys,Elimina tutte le scimmie
+Clear all powers,Elimina tutti i poteri
+Mute,Muto
+Place Second Tower Console,Posiziona un'altra scimmia lancia freccette e premi [dpad_up] per giocare
+Finished Round One Console,"Facile, vero? Premi [dpad_up] per iniziare il prossimo round"
+Speed x1,Velocizza x1
+Speed x3,Velocizza x3
+CouchBuildZoneMessage,Costruisci le tue torri scimmiesche nella tua area valida
+Insta Monkeys,Insta-scimmie
+Controller.Title,Comandi
+Controller.DPadUp,Invia round / manda avanti
+Controller.DPadDown,Invia round gara
+Controller.DPadLeft,Non assegnato
+Controller.DPadRight,Non assegnato
+Controller.LeftAnalog,Cursore libero
+Controller.LeftAnalogButton,Posizionamento veloce
+Controller.RightAnalog,Scorri
+Controller.RightAnalogButton,Mostra/Nascondi pannello
+Controller.Menu,Non assegnato
+Controller.Start,In pausa
+Controller.LeftShoulder,Tab precedente
+Controller.RightShoulder,Tab successiva
+Controller.LeftTrigger,"Posizionamento preciso, tasti rapidi abilità"
+Controller.RightTrigger,Tasti rapidi abilità
+Controller.NorthButton,Non assegnato
+Controller.SouthButton,Conferma
+Controller.EastButton,Annulla
+Controller.WestButton,Non assegnato
+Toggle tab,Attiva/disattiva tab
+Refresh data,Aggiorna dati
+Prev tab,Tab precedente
+Next tab,Tab successiva
+Controller.Ready,Pronto
+Friends,Amici
+MinimumRounds,Round minimi
+MaximumRounds,Round massimi
+Max Monkeys,Scimmie massime
+Toggle add / remove,Attiva/disattiva aggiungi/rimuovi
+Toggle select / edit,Attiva/disattiva seleziona/modifica
+Camo,Mimetici
+Couch Co-op,Modalità cooperativa in locale
+Gift,Regalo
+Emote,Emote
+Set Target,Imposta bersaglio
+Return to groups,Ritorna ai gruppi
+TT_FollowCursor,Segui il cursore
+Toggle Map Dividers,Attiva/disattiva divisori mappe
+Send,Invia
+Upgrade,Potenziamento
+NextUpgrade,Potenziamento successivo
+CurrentUpgrade,Potenziamento attuale
+HeroBoosterLocked,Bloccato
+PrimeGamingText,Riscatta il tuo carico di Prime Gaming
+GetNow,Ottieni ora
+,
+DarkDungeons,Dungeon bui
+OneTwoTree,Uno due tre
+BeastHandler,Domatore
+BeastHandlers,Domatori
+BeastHandler Description,"Può addestrare bestie pericolose di terra, acqua e aria. Invece di creare più bestie, i domatori lavorano insieme per aumentare la potenza di quelle già esistenti."
+BeastHandler Short Description,Scimmia di supporto
+Piranha,Piranha
+Microraptor,Microraptor
+Gyrfalcon,Girifalco
+Barracuda,Barracuda
+Adasaurus,Adasaurus
+Horned Owl,Gufo della Virginia
+Great White,Squalo bianco
+Velociraptor,Velociraptor
+Golden Eagle,Aquila reale
+Orca,Orca
+Tyrannosaurus Rex,Tirannosauro
+Giant Condor,Condor delle Ande
+Megalodon,Megalodonte
+Giganotosaurus,Giganotosaurus
+Pouakai,Pouakai
+Piranha Description,Ordina a un pesce piccolo ma vivace di saltare dall'acqua contro i bloon.
+Microraptor Description,Comanda un piccolo dinosauro dagli artigli affilati. Crescilo insieme ad altri domatori con questo potenziamento.
+Gyrfalcon Description,Comanda un piccolo ma nobile rapace che può afferrare e spostare i bloon con i suoi artigli.
+Barracuda Description,I denti affilati come rasoi del barracuda possono far scoppiare diversi strati dei bloon. Richiede almeno 1 altro domatore con potenziamenti piranha. Max 4 domatori che contribuiscono.
+Adasaurus Description,I denti affilati dell'adasaurus infliggono molti danni a portata ravvicinata. Richiede almeno 1 altro domatore con potenziamenti microraptor. Max 4 domatori che contribuiscono.
+Horned Owl Description,Il gufo della Virginia è abbastanza forte da afferrare e far scoppiare i bloon di ceramica e di piombo. Con la sua vista acuta può individuare i bloon mimetizzati.
+Great White Description,"Lo squalo bianco distruggerà tra le sue zanne i bloon, compresi quelli di piombo, trascinandoli in acqua, se serve. Richiede almeno 2 altri domatori con potenziamenti barracuda. Max 4 domatori che contribuiscono."
+Velociraptor Description,Il velociraptor lacera e mastica i bloon a velocità incredibile. Richiede almeno 2 altri domatori con potenziamenti adasaurus. Max 4 domatori che contribuiscono.
+Golden Eagle Description,L'aquila reale è un'esperta nell'afferrare una gran quantità di bloon alla volta. È talmente grossa che richiede almeno 2 altri domatori con potenziamenti gufo della Virginia. Max 4 domatori che contribuiscono.
+Orca Description,"La bocca enorme della potente orca può afferrare e trascinare tutti bloon, a parte quelli più grandi, nelle profondità dell'oceano. Richiede almeno 3 altri domatori con potenziamenti squalo bianco. Max 4 domatori che contribuiscono."
+Tyrannosaurus Rex Description,Le fauci enormi e i denti affilati del tirannosauro infliggono danni ingenti con ogni morso. Richiede almeno 3 altri domatori con potenziamenti velociraptor. Max 4 domatori che contribuiscono. Abilità Carica del T-Rex: stordisce i bloon ZOMG in un'area vasta.
+Giant Condor Description,Gli artigli enormi del temibile condor delle Ande possono afferrare i bloon di classe MOAB. Richiede almeno 3 altri domatori con potenziamenti aquila reale. Max 4 domatori che contribuiscono.
+Megalodon Description,Uno squalo veramente gigante a cui piacciono i bloon che richiede almeno 4 altri domatori con potenziamenti orca. Max 8 domatori che contribuiscono.
+Giganotosaurus Description,"Il più grande e il più feroce di tutti i dinosauri, il giganotosaurus può lacerare immediatamente tutti i bloon con facilità. Richiede almeno 4 altri domatori con potenziamenti tirannosauro. Max 8 domatori che contribuiscono. L'abilità stordisce tutti i bloon ZOMG più a lungo."
+Pouakai Description,"Il leggendario pouakai è un uccello tanto grande che può afferrare, trasportare e distruggere quasi tutti i bloon di quasi tutte le dimensioni. Richiede almeno 4 altri domatori con potenziamenti condor delle Ande. Max 8 domatori che contribuiscono."
+T Rex Stomp Ability,Carica del T-Rex
+T Rex Stomp Ability Description,Stordisce i bloon ZOMG in un'area vasta.
+Giganotosaurus Stomp Ability,Carica del giganotosaurus
+Giganotosaurus Stomp Ability Description,Stordisce tutti i bloon ZOMG più a lungo.
+Move,Sposta
+NeedsBeastHandlers,Bestie richieste
+NeedsWater,Ha bisogno di acqua
+NeedsTrack,Ha bisogno di tracciato
+Dreadbloon,Orribloon
+DreadbloonTagLine,Dalle profondità della terra oscura...
+DreadbloonTagLine2,il gigante corazzato!
+DreadbloonInfoPanelDescription,"\nâ€¢L'Orribloon ha le proprietà del piombo e riduce tutti i danni subiti di 1.\nâ€¢ Ogni volta che si raggiunge un teschio, l'Orribloon si avvolge in un'armatura a guscio di ceramica e, all'inizio del tracciato, appaiono bloon orriroccia.\nâ€¢ Quando l'Orribloon appare, è immune alle torri primarie. A ogni teschio, varia l'immunità al tipo di torre: militare, magica, di supporto.\nâ€¢ I bloon orriroccia e l'armatura a guscio di ceramica hanno le stesse immunità.\nâ€¢ I bloon orriroccia hanno una forte provocazione, quindi fai attenzione a quali sono i bersagli delle tue torri!"
+DreadbloonPrimaryImmunity,Immune a: primaria
+DreadbloonMilitaryImmunity,Immune a: militare
+DreadbloonMagicImmunity,Immune a: magica
+DreadbloonSupportImmunity,Immune a: di supporto
+Resist,Resistenza
+Immune,Immune
+SleighCaptainChurchillSkinName,Skin Slitta Churchill
+SleighCaptainChurchillSkinDescription,"Distruggi i bloon con l'allegria tipica del Natale, una bomba impacchettata alla volta."
+SleighCaptainChurchillSkinNameFull,Slitta Churchill
+GameUIProfileBanner23Name,Banner profilo Auguri natalizi
+GameUIProfileBanner23ShortName,Banner Auguri natalizi
+GameUIProfileBanner23Description,"Questo inverno e tutto l'anno, celebra la vivacità delle feste con questo divertente banner innevato. Oggetto collezionabile per un periodo limitato!"
+GameUIProfileBanner24Name,Banner profilo Falcioni boomerang
+GameUIProfileBanner24ShortName,Banner Falcioni boomerang
+GameUIProfileBanner24Description,Banner vincitore di ReconScoutTeemo
+GameUIProfileBanner25Name,Banner profilo Glifi
+GameUIProfileBanner25ShortName,Banner Glifi
+GameUIProfileBanner25Description,Banner vincitore di PvtMagnuS
+GameUIProfileAvatar65Name,Avatar personalizzato - Ghirlanda natalizia
+GameUIProfileAvatar65ShortName,Avatar Ghirlanda natalizia
+GameUIProfileAvatar65Description,"Trasmetti a tutti l'allegria natalizia e un po' di fortuna con l'avatar Ghirlanda natalizia. Oggetto collezionabile per un periodo limitato!"
+GameUIProfileAvatar66Name,Avatar personalizzato - Avatar dell'ira
+GameUIProfileAvatar66ShortName,Avatar Avatar dell'ira
+GameUIProfileAvatar66Description,"Finalmente! Quanto c'è voluto per mettermi nella rotazione?! La parola avatar fa parte del mio nome, per tutte le banane!"
+GameUIProfileAvatar67Name,Avatar personalizzato - Buone feste
+GameUIProfileAvatar67ShortName,Avatar Buone feste
+GameUIProfileAvatar67Description,"L'entusiasmo di Etienne nel ricevere un altro drone per Natale riempirebbe di gioia il cuore di chiunque. Oggetto collezionabile per un periodo limitato!"
+GameUIProfileAvatar68Name,Avatar personalizzato - Zero assoluto
+GameUIProfileAvatar68ShortName,Avatar Zero assoluto
+GameUIProfileAvatar68Description,"Se avere un bell'aspetto è importante per te, con l'avatar Scimmia di ghiaccio non puoi sbagliare."
+CoopEmoteAnimationSleighbellsName,Animazione Neve e campanelle
+CoopEmoteAnimationSleighbellsShortName,Campanelle
+CoopEmoteAnimationSleighbellsDescription,"Ottieni questa fantastica emote a schermo intero a tema invernale e riempi di gioia il giocatore 1, 2 o 4! Oggetto collezionabile per un periodo limitato!"
+TowerProjectileBananaFarmPresentsName,Banana regalo del vivaio di banane
+TowerProjectileBananaFarmPresentsShortName,Regali del vivaio di banane
+TowerProjectileBananaFarmPresentsDescription,"Non c'è nulla di meglio dei vivai di banane in cui crescono regali! Cosa sono questi regali? Banane, ovviamente! Oggetto collezionabile per un periodo limitato!"
+TowerProjectileDartMonkeySnowballsName,Proiettile palle di neve della scimmia lancia freccette
+TowerProjectileDartMonkeySnowballsShortName,Palle di neve della scimmia lancia freccette
+TowerProjectileDartMonkeySnowballsDescription,"Non sappiamo come siano diventate tanto brave visto che sono cresciute in una giungla, ma prova a scambiare i proiettili e scopri perché le scimmie lancia freccette vincono sempre le battaglie di palle di neve. Oggetto collezionabile per un periodo limitato!"
+TowerProjectileTackShooterIciclesName,Ghiaccioli spara puntine e proiettile fiocchi di neve
+TowerProjectileTackShooterIciclesShortName,Ghiaccioli spara puntine
+TowerProjectileTackShooterIciclesDescription,"Se adori la combo spara puntine più scimmia di ghiaccio, tutto sarà ancora più luccicante quando le puntine diventeranno ghiaccioli e le lame si trasformeranno in fiocchi di neve. Oggetto collezionabile per un periodo limitato!"
+TowerProjectileNinjaMonkeySnowflakesName,Proiettile fiocchi di neve della scimmia ninja
+TowerProjectileNinjaMonkeySnowflakesShortName,Fiocchi di neve della scimmia ninja
+TowerProjectileNinjaMonkeySnowflakesDescription,Fiocchi leggeri\nLanciati da un ninja\nTagliano a fondo\n\nOggetto collezionabile per un periodo limitato!
+BuildingPropChristmasTreeName,Edificio albero di Natale
+BuildingPropChristmasTreeShortName,Edificio albero di Natale
+BuildingPropChristmasTreeDescription,Vuoi trasformare la tua base in un albero?! Dove vivranno tutte le scimmie? Aspetta... fa nulla.\nFai entrare la tua squadra in un'atmosfera festiva con questa base albero di Natale. [Slot Edificio principale]
+BasePropCosyBeanbagMonkeyName,Scimmia pouf comodo
+BasePropCosyBeanbagMonkeyShortName,Scimmia pouf comodo
+BasePropCosyBeanbagMonkeyDescription,"Il pouf, simbolo del relax supremo. Include una scimmia rilassata! [Slot Isola]"
+TeamsBanner9Name,Banner Fiocchi di neve delicati
+TeamsBanner9ShortName,Banner Fiocchi di neve delicati
+TeamsBanner9Description,"La semplice complessità di un fiocco di neve rappresenta la perfezione, proprio come la tua squadra."
+TeamsBanner10Name,Banner Banana arrostita
+TeamsBanner10ShortName,Banner Banana arrostita
+TeamsBanner10Description,Fai venire l'acquolina in bocca alla tua squadra con questa banana arrostita sul fuoco da campo!
+TeamsEmblemFrame12Name,Cornice Bloon
+TeamsEmblemFrame12ShortName,Cornice Bloon
+TeamsEmblemFrame12Description,Rendi la tua squadra nemica di tutti con questa Cornice Bloon senza pietà.
+TeamsEmblemFrame13Name,Cornice militare
+TeamsEmblemFrame13ShortName,Cornice militare
+TeamsEmblemFrame13Description,Una squadra entusiasta non è niente senza ordine e disciplina.
+TeamsEmblemIcon15Name,Icona corona
+TeamsEmblemIcon15ShortName,Icona corona
+TeamsEmblemIcon15Description,Supporta la rivendicazione del trono di freccette da parte della tua squadra.
+TeamsEmblemIcon16Name,Icona alieno
+TeamsEmblemIcon16ShortName,Icona alieno
+TeamsEmblemIcon16Description,Un'icona per quando la tua squadra è fuori dal mondo!
+Achievement 146 Name,Missione secondaria
+Achievement 146 Description,Completa una missione
+Achievement 147 Name,Invigorimento
+Achievement 147 Description,Devi avere 75 potenziamenti attivi sulle tue scimmie contemporaneamente
+Achievement 148 Name,Addestramento Lega mondiale
+Achievement 148 Description,Ottieni 150.000 PE domatore
+CompleteQuestMessage,Completa missione
+QuestUnlocksAtLevelXMessage,La missione sblocca<br>il livello {0}
+QuestComplete,Missione completata!
+BeastHandlerQuestName,Missione bestia epica
+BeastHandlerQuestReward,Sblocca il domatore + altro!
+BeastHandlerQuest1Name,La Via della Terra
+BeastHandlerQuest1Description,Addestra dinosauri letali in Cava.
+BeastHandlerQuest1Victory,Complimenti! Hai completato La Via della Terra!
+BeastHandlerQuest2Name,La Via dell'Acqua
+BeastHandlerQuest2Description,Accudisci pesci feroci in Isole delle spezie
+BeastHandlerQuest2Victory,Complimenti! Hai completato La Via dell'Acqua!
+BeastHandlerQuest3Name,La Via dell'Aria
+BeastHandlerQuest3Description,Fai schiudere le uova di uccelli potenti in Spaccatura
+BeastHandlerQuest3Victory,Complimenti! Hai completato La Via dell'Aria!
+DialogBeastHandlerQuest1UI1,I domatori hanno abbandonato il villaggio tempo fa per intraprendere la missione di trovare bestie epiche e ora ce l'hanno quasi fatta!
+DialogBeastHandlerQuest1UI2,"Se li aiuterai a completare la loro missione, torneranno e si uniranno a noi nella battaglia contro i bloon!"
+DialogBeastHandlerQuest1InGame1,I domatori hanno sentito parlare di un uovo misterioso e hanno domato la loro prima bestia epica!
+DialogBeastHandlerQuest1InGame2,Aiutali a imparare tutto quel che c'è da sapere su questi rapaci affamati!
+DialogBeastHandlerQuest2UI1,"Fantastico! I domatori addestrano le bestie feroci come se fossero animali da compagnia. E hanno scoperto che, lavorando assieme, possono renderle più forti e combinarle."
+DialogBeastHandlerQuest2UI2,"Non ne capisco niente di biologia, ma le combinazioni sono chiaramente più potenti. Hanno condotto i domatori verso un altro uovo."
+DialogBeastHandlerQuest2UI3,Non vedo l'ora di vedere cos'hanno scoperto!
+DialogBeastHandlerQuest3UI1,"È ingegnoso addestrare creature d'acqua pericolose per aiutarci a combattere i bloon sull'acqua e persino per trovare tesori nascosti, come il terzo uovo."
+DialogBeastHandlerQuest3UI2,I domatori potranno unirsi alla squadra dopo che li avrai aiutati a domare la terza bestia!
+,
+RemoveProviderFromAccount,Vuoi davvero rimuovere questo provider dal tuo account?<br><br><b>Ci possono volere fino a 3 ore per rimuovere il provider dall'account</b>
+ProviderRemovedText,Provider rimosso.<br><br>Questa pagina si chiuderà a breve
+AdditionalAccountLinks,Link account aggiuntivi
+LoginWithAmazon,Accedi con Amazon
+LinkingCodeButton,Ottieni un codice di collegamento
+LinkingCodeMessage,"Avvia il gioco sull'altro dispositivo e, quando ti verrà richiesto, immetti il seguente codice. Questo codice ha una validità di 10 minuti."
+Rate Expires In,La valuta scade tra
+Rate,Valuta
+CoopGameSyncFailed,Sincronizzazione delle impostazioni di gioco non riuscita. Prova a iniziare una nuova partita.
+iCloudTitle,iCloud
+iCloudDisabled,iCloud disabilitato
+iCloudEnabled,iCloud abilitato
+DialogBeastHandlerQuest1InGameTowerUpgrade1,"Wow, quella bestia è così forte che ci vogliono DUE Addestratori di Bestia per tenerla sotto controllo!"
+Buffed,Rafforzato
+Assisting,Assistere
+Select Point On Track,Seleziona un punto della pista

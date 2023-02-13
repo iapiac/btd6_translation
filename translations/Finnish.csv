@@ -101,7 +101,7 @@ Quincy Level 15 Description,Pikalaukaus saa 4x hyökkäysnopeuden ja palautumisa
 Quincy Level 16 Description,Vielä suurempi hyökkäysnopeus.
 Quincy Level 17 Description,Nuolet kestävät 25 % pidempään. Ampuu räjähtäviä nuolia joka toisella laukauksella.
 Quincy Level 18 Description,Quincy hyökkää nopeammin ja nuolimyrskyssä on lyhyempi palautumisaika ja 50 % enemmän nuolia.
-Quincy Level 19 Description,Kukin nuoli saa vieläkin enemmän poksautusvoimaa.
+Quincy Level 19 Description,"Ampuu 3 nuolta kerralla, ja kukin nuoli saa vieläkin enemmän poksautusvoimaa."
 Quincy Level 20 Description,Quincy hyökkää entistä nopeammin. Nuolimyrsky ampuu enemmän nuolia ja tekee enemmän vahinkoa nuolta kohden.
 ,
 StrikerJones Level 1 Description,Iskijä Jones räjäyttää blooneja tehokkaalla singolla.
@@ -697,10 +697,10 @@ Enhanced Eyesight Description,Ampuu entistä kauemmas ja tunnistaa maastokuvioin
 Spike-o-pult Description,"Muuttaa tikka-apinan hitaasti ampuvaksi piikkikatapultiksi, joka ampuu jättimäisiä piikkipalloja. Jokainen pallo pystyy poksauttamaan paljon blooneja ja kimpoilee esteistä."
 Triple Shot Description,Heittää 3 tikkaa kerrallaan yhden sijaan.
 Crossbow Description,Käyttää pitkäkantoista varsijousta joka voi poksauttaa bloonista 3 kerrosta kullakin osumalla.
-Juggernaut Description,Heittää valtavia piikkipalloja jotka poksauttavat lyijyjä ja loistavat keraamisten bloonien tuhoamisessa.
+Juggernaut Description,"Heittää valtavia piikkipalloja, jotka poksauttavat lyijyä ja loistavat keraamisten ja vahvistettujen bloonien tuhoamisessa."
 Super Monkey Fan Club Description,Superapinan faniklubi -kyky: Muuntaa jopa 10 läheistä Tikka-apinaa itsensä mukaan lukien Superapinaksi 15 sekunnin ajaksi. Myös tavallisten hyökkäysten nopeus on suurempi.
 Sharp Shooter Description,Tarkka-ampuja tulittaa nopeammin ja ampuu muutaman laukauksen välein voimakkaita kriittisiä laukauksia jotka tekevät huomattavasti enemmän vahinkoa.
-Ultra-Juggernaut Description,Giganttinen piikkipallo halkeaa kahdesti 6 juggernauttipalloksi entistä suurempaa tuhovoimaa varten.
+Ultra-Juggernaut Description,Giganttinen piikkipallo halkeaa kahdesti 6 juggernauttipalloksi entistä suurempaa tuhovoimaa varten keraamisia ja vahvistettuja blooneja vastaan.
 Plasma Monkey Fan Club Description,Tämän klubin eliittijäsenyys takaa Tikka-apinoille vieläkin enemmän tehoa!
 Crossbow Master Description,Varsijousimestari ampuu todella nopeasti ja tuhoaa useimpia bloonityyppejä helposti.
 ,
@@ -756,11 +756,11 @@ Permafrost Description,Bloonit liikkuvat hitaasti sulamisen jälkeenkin.
 Enhanced Freeze Description,Hyökkää nopeammin ja jäädyttää pidemmäksi ajaksi.
 Larger Radius Description,Suurempi jäädytysalue.
 Metal Freeze Description,Voi jäädyttää ja poksauttaa maastokuvioidut ja lyijybloonit.
-Deep Freeze Description,Jäädyttää ylimääräisen kerroksen ja kestää pidempään.
+Deep Freeze Description,"Lisää läpäisyvoimaa, jäädyttää ylimääräisen kerroksen ja jäädytys kestää pidempään."
 Re-Freeze Description,"Voi jäädyttää uudelleen bloonit, jotka ovat jo jäädytettyjä."
 Ice Shards Description,"Veitsenteräviä sirpaleita lentää, kun jäätyneet bloonit poksahtavat."
 Arctic Wind Description,"Lisää suuresti lävistystä ja saa superkylmän auran, joka hidastaa blooneja ja jäädyttää lähellä olevan veden."
-Cryo Cannon Description,Ampuu jäädytyspommeja blooneihin suuremmalla kantamalla.
+Cryo Cannon Description,Ampuu nopeasti pienempiä jääpommeja suuremmalla kantamalla.
 Embrittlement Description,"Voi osua MOAB-luokan blooneihin. Kaikista blooneista tulee hauraita, ne kärsivät enemmän vahinkoa jäädytyksen aikana ja menettävät maastokuvioinnin."
 Snowstorm Description,"Lumimyrsky-kyky: Jäädyttää kaikki tavalliset bloonit näytöllä ja jäähdyttää hetkeksi valkoiset, seeprakuvioidut ja maastokuvioidut bloonit ja hidastaa MOAB-luokkaa."
 Icicles Description,"Jäätyneet bloonit kasvattavat teräviä jääpuikkoja, jotka voivat poksauttaa niihin koskevia blooneja."
@@ -774,10 +774,10 @@ Stickier Glue Description,Tekee liimasta paljon pidempään kestävää.
 Corrosive Glue Description,Liimatuista blooneista poksahtaa yksi kerros muutaman sekunnin välein.
 Glue Splatter Description,Roiskii liimaa jopa 6 blooniin per laukaus.
 Stronger Glue Description,Hidastaa blooneja vieläkin enemmän.
-Bloon Dissolver Description,Tehokkaat liuottimet sulattavat kaksi kerrosta sekunnissa.
+Bloon Dissolver Description,"Voi liimata ylimääräisen bloonin jokaisella laukauksella, ja liuottimet sulattavat kaksi kerrosta sekunnissa."
 Glue Hose Description,Ampuu liimaa 3 kertaa nopeammin!
 MOAB Glue Description,Parannettu liiman kaava mahdollistaa sen tarttuvan MOAB-luokan blooneihin.
-Bloon Liquefier Description,"Voi liimata yhden ylimääräisen bloonin per laukaus ja käyttää nesteytysseosta, joka tekee 10 poksautusta joka sekunti."
+Bloon Liquefier Description,"Käyttää nesteytysseosta, joka tekee 10 poksautusta joka sekunti."
 Glue Strike Description,"Liimaisku-kyky: Liimaa kaikki bloonit näytölle, minkä aikana ne ottavat enemmän vahinkoa kaikista lähteistä."
 Relentless Glue Description,"Poksahtavat bloonit, jotka olivat liimattuja, jättävät liimaklönttejä reitille."
 The Bloon Solver Description,Ovatko bloonit ongelma? Tämä liuos on ratkaisu.
@@ -875,10 +875,10 @@ Heavy Shells Description,"Raskaat kranaatit tekevät lisävahinkoa keraamisille 
 Signal Flare Description,Valoammuksilla poksautetut maastokuvioidut bloonit menettävät maastokuvionsa pysyvästi.
 The Big One Description,"Tuhovoimaiset räjähdykset poksauttavat blooneista 7 pois kerrosta, ja palava aines tekee entistä enemmän vahinkoa."
 Artillery Battery Description,"Tehopommitus-kyky: Ampuu pikatulitusta hieman tavallista laajemmalla alueella. Päähyökkäys tekee BADeille ja pomoblooneille enemmän vahinkoa, päivittyy kolmipiippuiseksi."
-Shattering Shells Description,Murskaavat kranaatit vievät erikoisominaisuudet kaikilta paitsi suurimmilta blooneilta.
+Shattering Shells Description,"Murskaavat kranaatit vievät erikoisominaisuudet kaikilta paitsi suurimmilta blooneilta, ja polttavat MOAB-luokan blooneja lisävahingolla."
 The Biggest One Description,"Räjäyttää tehokkaasti bloonien ja kerrosten läpi valtavalla alueella, ja palava aines tekee suurta vahinkoa."
 Pop and Awe Description,Poksulamaannutus-kyky: Räjähdykset täyttävät koko ruudun vahingoittaen blooneja ja pysäyttäen ne muutaman sekunnin ajaksi. Kaikki tykistöpatterit tekevät BAD- ja pomoblooneille enemmän vahinkoa. Päähyökkäys tekee lisävahinkoa tyrmätyille blooneille.
-Blooncineration Description,"Superkuuma palava aines polttaa 5 bloonikerroksen läpi joka laukauksella, polttaa MOAB-luokan blooneja lisävahingolla ja vie DDT-maastokuvioinnin."
+Blooncineration Description,Superkuuma palava aines polttaa 5 bloonikerroksen läpi joka laukauksella ja polttaa MOAB-luokan blooneja lisävahingolla.
 ,
 Focused Firing Description,Lisää Konetikka-aseen tarkkuutta.
 Advanced Targeting Description,Tikka-ampuja voi osua maastokuvioituihin blooneihin.
@@ -909,7 +909,7 @@ Shimmer Description,"Saa musta magian hyökkäyksen, joka ajoittain paljastaa ka
 Arcane Spike Description,Nopeammin ammuttava taikuus tekee valtavaa vahinkoa useimmille bloonityypeille.
 Summon Phoenix Description,Feeniksin kutsu -kyky: Voimakas feeniks tekee tuhojaan blooneille 20 sekunnin ajan.
 Necromancer: Unpopped Army Description,Herättää henkiin äskettäin poksautetut viholliset palvelijoinaan bloonien tuhoamiseksi.
-Archmage Description,Todellinen maagisten velhoilujen mestari.
+Archmage Description,Todellinen maagisten velhoilujen mestari. Hyökkää nopeammin ja tekee lisävahinkoa MOAB-luokan blooneja vastaan.
 Wizard Lord Phoenix Description,"Velhoherrasta tulee tulen mestari, joka muuttuu hetkellisesti supertehokkaaksi laavafeenikseksi."
 Soulbind Description,Herättää henkiin vieläkin voimakkaampia bloonpalvelijoita vihollisten tuhoamiseksi ja tehostaa kaikkia muita Manaajia.
 ,
@@ -971,7 +971,7 @@ Druid of the Storm Description,Tuulenpyörre puhaltaa blooneja taaksepäin pois 
 Druid of the Jungle Description,"Kutsuu viiniköynnöksiä maasta kietoutumaan ja murskaamaan blooneja yksi kerrallaan, ja jälkeen jää tappavia piikkikasoja."
 Druid of Wrath Description,Lisää hyökkäysnopeutta kierroksen aikana niin pitkään kuin druidi hyökkää bloonien kimppuun.
 Ball Lightning Description,"Luo voimakkaita pallosalamoita, jotka ampuvat lisää salamoita ja jotka voivat jäädyttää blooneja."
-Jungle's Bounty Description,"Viidakon anteliaisuus -kyky: luo rahaa jokaisella käyttökerralla, plus lisärahaa jokaista druidin lähellä olevaa banaanifarmia kohden. Voi myös napata köynnöksellä kaksi bloonia kerrallaan."
+Jungle's Bounty Description,"Viidakon anteliaisuus -kyky: luo rahaa jokaisella käyttökerralla, plus lisärahaa jokaista druidin lähellä olevaa banaanifarmia kohden. Kutsuu kaksi köynnöstä, jotka nappaavat blooneja, ja piikkikasoilla on enemmän lävistystä."
 Poplust Description,Tehostaa muiden kantamalla olevien druidien hyökkäysnopeutta ja lävistystä. Voi kerääntyä enintään 5 kertaa kuhunkin yksittäiseen druidiin.
 Superstorm Description,Supermyrsky räjäyttää kaikille bloonityypeille massiivista vahinkoa ja paiskaa ne pois uloskäynnistä.
 Spirit of the Forest Description,"Kasvattaa polun varrelle piikkiköynnöksiä, jotka tekevät jatkuvasti vahinkoa. Tekevät bonusvahinkoa keraamisille blooneille. Metsän henkeä lähimpänä olevat köynnökset tekevät enemmän vahinkoa. Aktivoitava kyky tuottaa lisää elämiä ja rahaa."
@@ -1660,11 +1660,11 @@ btd6_herobooster Description,Nykyisessä pelissäsi valittu sankari nousee tasol
 btd6_powersattackpack,Voimien hyökkäyspaketti
 btd6_powersattackpack Description,{0} taisteluun tarkoitetun apinavoiman valikoima.
 btd6_instatowerspack,Välitön apinapakkaus
-btd6_instatowerspack Description,"5 apinatornia valmiina asetettavaksi käyttämättä pelirahaa! Sisältää 2 kpl tason 1, 2 kpl tason 2 ja 1 kpl tason 3 apinatornia."
+btd6_instatowerspack Description,"5 apinatornia valmiina asetettavaksi käyttämättä pelirahaa! Sisältää 2 kpl tason 1, 2 kpl tason 2 ja 1 kpl tason 3 apinatornia. Kunkin tason apinoilla on sama todennäköisyys."
 btd6_tier3instatowerspack,Tason 3 välitön apinapakkaus
-btd6_tier3instatowerspack Description,10 kpl tason 3 välitöntä apinatornia valmiina asetettavaksi käyttämättä pelirahaa!
+btd6_tier3instatowerspack Description,10 kpl tason 3 välitöntä apinatornia valmiina asetettavaksi käyttämättä pelirahaa! Kunkin apinan todennäköisyys on sama.
 btd6_tier4instatowerspack,Tason 4 välitön apinapakkaus
-btd6_tier4instatowerspack Description,10 kpl tason 4 välitöntä apinatornia valmiina asetettavaksi käyttämättä pelirahaa!
+btd6_tier4instatowerspack Description,10 kpl tason 4 välitöntä apinatornia valmiina asetettavaksi käyttämättä pelirahaa! Kunkin apinan todennäköisyys on sama.
 btd6_needmoremonkeymoneyprompt,Apinaraha ei riitä! Osta lisää?
 ,
 ,
@@ -1678,11 +1678,11 @@ btd6_extramonkeymoney Description,Erikoistarjous! {0} apinarahaa hyvin edullisel
 btd6_powerspandamonium,Valtuuksien pandamoniumi
 btd6_powerspandamonium Description,Yhdistetyt voimamme! {0} parasta saatavissa olevaa apinavoimaa yksittäisessä pakkauksessa.
 btd6_instatowersmegabooster,Välittömät apinoiden megatehostimet
-btd6_instatowersmegabooster Description,"Tämä megapakkaus sisältää 5 kpl tason 2, 12 kpl tason 3 ja 3 kpl tason 4 välitöntä apinatornia valmiina asetettavaksi käyttämättä pelirahaa!"
+btd6_instatowersmegabooster Description,"Tämä megapakkaus sisältää 5 kpl tason 2, 12 kpl tason 3 ja 3 kpl tason 4 välitöntä apinatornia valmiina asetettavaksi käyttämättä pelirahaa! Kunkin tason apinoilla on sama todennäköisyys."
 btd6_megamonkeycompendiumpack,Mega-apina-yhdistelmäpakkaus
-btd6_megamonkeycompendiumpack Description,"Valtava pakkaus täynnä uskomattomia hyödykkeitä! 25 000 apinarahaa, 100 hyökkäysvoimaa, 30 kpl tason 3 välitöntä apinatornia, 15 kpl tason 4 välitöntä apinatornia, 5 kpl tason 5 välitöntä apinatornia ja avattu tietämys (sijoitus 30, 5 apinatietämyspistett"
+btd6_megamonkeycompendiumpack Description,"Valtava pakkaus täynnä uskomattomia hyödykkeitä! 25 000 apinarahaa, 100 hyökkäysvoimaa, 30 kpl tason 3 välitöntä apinatornia, 15 kpl tason 4 välitöntä apinatornia, 5 kpl tason 5 välitöntä apinatornia ja avattu tietämys (sijoitus 30, 5 apinatietämyspistettä)! Kunkin tason apinoilla on sama todennäköisyys."
 btd6_tier5instatowerpack,Tason 5 välitön apinapakkaus
-btd6_tier5instatowerpack Description,10 kpl tason 5 apinatornia valmiina asetettavaksi käyttämättä pelirahaa!
+btd6_tier5instatowerpack Description,10 kpl tason 5 apinatornia valmiina asetettavaksi käyttämättä pelirahaa! Kunkin apinan todennäköisyys on sama.
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,Pino apinarahaa alennuksessa
@@ -2042,6 +2042,8 @@ Swedish,Ruotsi
 Turkish,Turkki
 Korean,Korea
 Japanese,Japani
+Polish,Puola
+Monkelish,Apinakieli
 ,
 Backup,Varmuuskopio
 Profile,Tili
@@ -2751,8 +2753,8 @@ DarkKnightDarkshift,[I] synkkäsiirtyäksesi alueella
 DarkChampionDarkshift,[I] synkkäsiirtyäksesi mihin tahansa kelvolliseen sijaintiin
 SmallTowersMode,Pienet apinatornit
 BigTowersMode,Suuret apinatornit
-UpdatePopupTitle,Päivitys 33!
-UpdatePopupDescription,"Jättimäinen sisältöpäivitys!\n• Päästä lentäjä-ässän mahtava esikuva, Tuomioalus Goljatti valloilleen!\n• Kylvä puhdasta tulivoimaa keskitason kartalla nimeltä Katettu puutarha! Kartan on suunnitellut yhteisön karttasuunnittelukilpailun voittaja SuperPsou.\n• Kummittele uuden kartan käytävillä: koe Keskiyön kartano!\n• Pokaalikaupan esineitä, parannuksia peliin, tasapainotusta ja paljon muuta!"
+UpdatePopupTitle,Päivitys 34!
+UpdatePopupDescription,"Jättimäinen joulupäivitys!\n• Taistele panssaroitua jättiä, Kauhubloonia vastaan!\n• Paljasta torneja tehostavia paikkoja uudessa aloittelijakartassa: Kaksi vanhaa puuta!\n• Tuhoa blooneja joulutunnelmissa uudella kapteeni Churchillin ulkoasulla: reki-Churchill.\n• Pokaalikaupan esineitä, parannuksia peliin, tasapainotusta ja paljon muuta!\n• Hauskaa joulua ja mahtavaa uutta vuotta toivottavat kaikki Ninja Kiwillä!"
 ResetDailyChest,Nollaa päivittäinen arkku
 JukeboxName,Jukeboksi
 EnableFunction,Ota käyttöön
@@ -4561,8 +4563,7 @@ LoggedInAs,Kirjautuneena:
 EpicAccountId,Epic-tilitunnus:
 NeedHelp,Tarvitsetko apua?
 ContactSupport,Ota yhteyttä tukeen
-DeleteAccountText,"Tilin poistaminen tarkoittaa, että menetät pääsyn pilviedistymiseesi ja -tietoihisi.
-Kirjoita käyttäjätunnuksesi (kuten osoitettu alla) ruutuun tilin poistamista varten. Tilisi poistamisessa voi kestää 48–72 tuntia."
+DeleteAccountText,"Tilin poistaminen tarkoittaa, että menetät pääsyn pilviedistymiseesi ja -tietoihisi."
 EnterUserId,Syötä käyttäjätunnus tähän
 GetAllButton,Hanki kaikki
 GetAllConfirmation,"Vahvista, että haluat ostaa apinarahalla kaikki mahdolliset sankarit ja ulkoasut!"
@@ -4723,17 +4724,17 @@ RelicMilitaryMonkeys,Sotilasapinat
 RelicMagicMonkeys,Maagiset apinat
 RelicSupportSimians,Tukiapinat
 RelicMonkeyTycoon,Apinapohatta
-RelicStartingStashDescription,Aloita peli 300 lisärahalla (pinoutuu kyvyn ”Lisää käteistä tavanomaisille ruuduille” kanssa)
+RelicStartingStashDescription,Aloita peli 250 lisärahalla (kasautuu kyvyn ”Lisää käteistä tavanomaisille ruuduille” kanssa)
 RelicExtraEmpoweredDescription,Sankarisi aloittaa pelin 3 lisätason voimin (pinoutuu kyvyn ”Sankarit vahvistuvat tavanomaisilla ruuduilla” kanssa)
 RelicBoxOfChocolatesDescription,Aloita kukin peli 100 lisäelämällä!
-RelicBoxOfMonkeyDescription,"Aloita kukin peli yhdellä ilmaisella, korkeintaan 500 $:n arvoisella apinalla (asettamisen perushinta)"
+RelicBoxOfMonkeyDescription,"Aloita kukin peli yhdellä ilmaisella, korkeintaan 400 $:n arvoisella apinalla (asettamisen perushinta)"
 RelicMarchingBootsDescription,Rajoitetuissa peleissä pelaajat saavat kussakin pelissä +1 jokaista valitsemaansa tornia tai +4 kokonaismaksimiin.
 RelicHeroBoostDescription,Sankarit ansaitsevat kussakin pelissä XP:tä 15 % nopeammin
 RelicBiggerBloonSabotageDescription,Kaikki MOAB-luokan bloonit syntyvät 15 % pienemmillä osumapisteillä ja liikkuvat 95 %:n nopeudella
 RelicRoundingUpDescription,Tienaa +20 $ kunkin kierroksen lopussa
 RelicManaBulwarkDescription,"Luo kilven, joka imee itseensä 50 elämää (pinoutuu kyvyn ”Manakilpi tavanomaisilla ruuduilla” kanssa)"
-RelicRegenerationDescription,"Palauttaa 10 elämää per kierros aloitusmäärään saakka, ellei elämiä menetetä kyseisellä kierroksella"
-RelicRestorationDescription,"Palauttaa 20 elämää per kierros maksimissaan +200:een saakka, jos elämiä ei menetetä kyseisellä kierroksella"
+RelicRegenerationDescription,"Palauttaa 20 elämää per kierros kunkin pelin aloitusmäärään saakka, ellei elämiä menetetä kyseisellä kierroksella"
+RelicRestorationDescription,"Palauttaa 10 elämää per kierros enintään 200 elämää aloitusmäärää suuremmaksi, ellei elämiä menetetä kyseisellä kierroksella"
 RelicDurableShotsDescription,Kaikki ammukset kestävät +25 % pidempään
 RelicAlchemistTouchDescription,Kaikki hyökkäykset voivat poksauttaa lyijyblooneja
 RelicDeepHeatDescription,Kaikki hyökkäykset voivat poksauttaa valkoisia blooneja
@@ -4741,11 +4742,11 @@ RelicSharpsplosionDescription,Kaikki hyökkäykset voivat poksauttaa mustia bloo
 RelicRoyalTreatmentDescription,Kaikki hyökkäykset voivat poksauttaa violetteja blooneja
 RelicHardBakedDescription,Kaikki hyökkäykset tekevät +1 vahinkoa keraamisille blooneille
 RelicFortifriedDescription,Kaikki hyökkäykset tekevät +1 vahinkoa vahvistetuille blooneille
-RelicMoabClashDescription,Kaikki hyökkäykset tekevät +3 vahinkoa MOAB-luokan blooneille
+RelicMoabClashDescription,Kaikki hyökkäykset tekevät +2 vahinkoa MOAB-luokan blooneille
 RelicCamoFloggedDescription,Kaikki hyökkäykset tekevät +3 vahinkoa maastokuvioiduille blooneille
 RelicBrokenHeartDescription,Kaikki hyökkäykset tekevät +1 vahinkoa uusiutuville blooneille
 RelicGoingTheDistanceDescription,Kaikki apinat saavat +20 % kantamaa
-RelicHeartlessDescription,Uusiutuvien bloonien uusiutumisnopeus on 25 % pienempi
+RelicHeartlessDescription,Uusiutuvien bloonien uusiutumisnopeus on 50 % pienempi
 RelicFlintTipsDescription,"Terävät ammukset tuottavat kaikille vahingoittamilleen blooneille hetken aikaa tulivahinkoa (1 vahinko 2,5 sekunnin ajaksi, maksimissaan 5 sekuntia)"
 RelicAbilitizedDescription,Kaikkien apinoiden aktivoitujen kykyjen palautumisaikaa on lyhennetty 10 %.
 RelicAirAndSeaDescription,"Lentäjä-ässän, kopterilentäjän, merirosvon ja sukellusveneen asettaminen ja päivittäminen maksaa 10 % vähemmän ja ne lataavat 5 % tehokkaammin"
@@ -4763,11 +4764,11 @@ RelicRoadSpikesDescription,Antaa jokaiseen peliin 10 pinoa tiepiikkejä
 RelicMoabMineDescription,Antaa jokaiseen peliin 1 MOAB-miinan
 RelicGlueTrapDescription,Antaa jokaiseen peliin 2 liima-ansaa
 RelicTechbotDescription,Antaa jokaiseen peliin 1 teknobotin
-RelicPrimaryPrimatesDescription,Pienentää kaikkien perusapinoiden hintaa 10 %
-RelicMilitaryMonkeysDescription,Pienentää kaikkien sotilasapinoiden hintaa 10 %
-RelicMagicMonkeysDescription,Pienentää kaikkien taika-apinoiden hintaa 10 %
+RelicPrimaryPrimatesDescription,Pienentää kaikkien perusapinoiden hintaa 8 %
+RelicMilitaryMonkeysDescription,Pienentää kaikkien sotilasapinoiden hintaa 8 %
+RelicMagicMonkeysDescription,Pienentää kaikkien taika-apinoiden hintaa 8 %
 RelicSupportSimiansDescription,Pienentää kaikkien tukiapinoiden hintaa 10 %
-RelicMonkeyTycoonDescription,"Saat valikoimaasi +1 apinatornia, ja ne ovat 5 % halvempia"
+RelicMonkeyTycoonDescription,"Saat valikoimaasi +1 kaikkia apinatorneja, ja niiden perushinta on 4 % halvempi"
 InviteToTeam,Kutsu ryhmään
 TeamLeave,Poistu ryhmästä
 Requests,Pyynnöt
@@ -4801,7 +4802,7 @@ TeamDemoteMember,Haluatko varmasti alentaa tämän pelaajan?
 TeamErrorShowPop,Ryhmävirhe
 TeamOwnershipTransferTitle,Ryhmän omistajan vaihto
 TeamOwnershipTransferFailed,Ryhmän omistajan vaihto epäonnistui
-TeamOwnershipTransferWarning,Haluatko varmasti siirtää ryhmän omistusoikeuden tälle pelaajalle? Tätä ei voi perua!
+TeamOwnershipTransferWarning,Haluatko varmasti siirtää ryhmän omistusoikeuden tälle jäsenelle? Tätä ei voi perua!
 TeamLeaveConfirm,Haluatko varmasti lähteä ryhmästä?
 TeamDisbandConfirm,Haluatko varmasti hajottaa ryhmän?
 TeamOwnershipLeavingWarning,Tee toisesta jäsenestä ryhmän omistaja ennen poistumista
@@ -5064,18 +5065,18 @@ TeamsBanner7Description,On hulvattomien lemmikkibileiden aika! Juhlista tämän 
 TeamsBanner8Name,Kilpaillut territoriot -banneri
 TeamsBanner8ShortName,Kilpaillut territoriot -banneri
 TeamsBanner8Description,"Näytä tämän bannerin avulla, että olet omistautunut heksojen valtaamiselle. Punainen vs. sininen ei ole koskaan näyttänyt yhtä hyvältä."
-TeamsEmblemIcon13Name,Kung-fu-kiivi-kuvake
-TeamsEmblemIcon13ShortName,Kung-fu-kiivi-kuvake
-TeamsEmblemIcon13Description,Yllätä vastustajasi lentokyvyttömän linnun potkulla!
-TeamsEmblemIcon14Name,Kaiken näkevä silmä -kuvake
-TeamsEmblemIcon14ShortName,Kaiken näkevä silmä -kuvake
-TeamsEmblemIcon14Description,"Jos otat tämän kuvakkeen käyttöön, vastustajasi epäilevät takuulla jokaista siirtoasi."
-TeamsEmblemFrame10Name,Ninjakäärö-kehys
-TeamsEmblemFrame10ShortName,Ninjakäärö-kehys
-TeamsEmblemFrame10Description,"Tämä kehys osoittaa, että ryhmäsi on omistautunut ninjojen muinaiselle taiteelle."
-TeamsEmblemFrame11Name,Kognitio-kehys
-TeamsEmblemFrame11ShortName,Kognitio-kehys
-TeamsEmblemFrame11Description,Osoita ryhmäsi ylivertainen poksauttelun tietotaito kognitio-kehyksellä.
+TeamsEmblemIcon13Name,Kung Fu Kiwi -kuvake
+TeamsEmblemIcon13ShortName,Kung Fu Kiwi -kuvake
+TeamsEmblemIcon13Description,Yllätä vastustajasi lentokyvyttömän suosikkilintusi hyppypotkulla.
+TeamsEmblemIcon14Name,Kaikki näkevä silmä -kuvake
+TeamsEmblemIcon14ShortName,Kaikki näkevä silmä -kuvake
+TeamsEmblemIcon14Description,"Ota tämä tiimikuvake käyttöön, niin vastustajasi epäilevät jokaista tekemäänsä liikettä."
+TeamsEmblemFrame10Name,Ninjakäärökehys
+TeamsEmblemFrame10ShortName,Ninjakäärökehys
+TeamsEmblemFrame10Description,"Kehys, joka näyttää tiimisi omistautumisen muinaisille ninjataidoille."
+TeamsEmblemFrame11Name,Älykehys
+TeamsEmblemFrame11ShortName,Älykehys
+TeamsEmblemFrame11Description,Osoita tiimisi ylivoimainen blooninpoksautustietämys älykehyksellä.
 BasePropPirateCrewMonkeyName,Merirosvomiehistö
 BasePropPirateCrewMonkeyShortName,Merirosvomiehistö
 BasePropPirateCrewMonkeyDescription,"Harr! Jos toivotat tämän ryökäleen Kilpailtujen territorioiden päämajaasi, muut ryhmät kääntävät purjeensa takuuvarmasti pakomatkalle. [paikka saarelle]"
@@ -5115,6 +5116,261 @@ PlaySocialCaps,PELAA SOSIAALISESTI
 SelectCapturedRelics,Valitse jopa neljän kaapatun reliikin väliltä
 NextBonusIn,Seuraavaan bonukseen:
 MemberCount,Jäsenmäärä
-Min,Minimi
-PrimeGamingText,Lunasta Prime Gaming -lahjasi!
-GetNow,Get Now
+Min,Min
+Back,Takaisin
+Purchase Monkey Money,Osta Apinarahaa
+Player Profile,Pelaajaprofiili
+Toggle Info,Kytke tiedot
+Store Info,Kaupan tiedot
+Toggle mode,Kytke tila
+Toggle jukebox enabled,Kytke jukeboksi käytössä
+Play / Pause,Toisto/tauko
+Move up,Liiku ylös
+Move down,Liiku alas
+Buy Monkey Knowledge,Osta apinatietämystä
+Search,Hae
+Google Play,Google Play
+Remove mode,Poista tila
+Add mode,Lisää tila
+Toggle ranked mode,Kytke ranked-tila
+Info,Tiedot
+Switch to MonkeyName,Vaihda nimettyihin apinoihin
+Rename monkey,Nimeä apina uudelleen
+Switch to Medals,Vaihda mitaleihin
+Switch to Settings,Vaihda asetuksiin
+Refresh,Päivitä
+First Page,Ensimmäinen sivu
+Prev Page,Edellinen sivu
+Next Page,Seuraava sivu
+Last Page,Viimeinen sivu
+Reset,Nollaa
++,+
+-,-
+Show/Hide panel,Näytä/piilota paneeli
+Toggle Loop Track,Kytke raitojen jatkuva toisto
+Previous Track,Edellinen raita
+Next Track,Seuraava raita
+Info mode,Infotila
+Hero mode,Sankaritila
+Skin mode,Ulkoasutila
+Prev mode,Edellinen-tila
+Next mode,Seuraava-tila
+Disconnect controller,Katkaise ohjaimen yhteys
+Clear all monkeys,Tyhjennä kaikki apinat
+Clear all powers,Tyhjennä kaikki voimat
+Mute,Mykistä
+Place Second Tower Console,"Aseta toinen Tikka-apina, pelaa sitten painamalla [dpad_up]"
+Finished Round One Console,Se oli helppoa vai mitä? Aloita seuraava kierros painamalla [dpad_up]
+Speed x1,Nopeus x1
+Speed x3,Nopeus x3
+CouchBuildZoneMessage,Rakenna apinatornisi hyväksytylle alueelle
+Insta Monkeys,Välittömät apinat
+Controller.Title,Ohjaus
+Controller.DPadUp,Lähetä kierros / pikakelaus
+Controller.DPadDown,Lähetä kisakierros
+Controller.DPadLeft,Ei määritetty
+Controller.DPadRight,Ei määritetty
+Controller.LeftAnalog,Vapaa kohdistin
+Controller.LeftAnalogButton,Pika-asetus
+Controller.RightAnalog,Käärö
+Controller.RightAnalogButton,Näytä/piilota paneeli
+Controller.Menu,Ei määritetty
+Controller.Start,Tauko
+Controller.LeftShoulder,Edellinen välilehti
+Controller.RightShoulder,Seuraava välilehti
+Controller.LeftTrigger,"Tarkka asettelu, kykyjen pikanäppäimet"
+Controller.RightTrigger,Kykyjen pikanäppäimet
+Controller.NorthButton,Ei määritetty
+Controller.SouthButton,Vahvista
+Controller.EastButton,Peruuta
+Controller.WestButton,Ei määritetty
+Toggle tab,Kytke välilehti
+Refresh data,Päivitä tiedot
+Prev tab,Edellinen välilehti
+Next tab,Seuraava välilehti
+Controller.Ready,Valmis
+Friends,Kaverit
+MinimumRounds,Kierrosten minimimäärä
+MaximumRounds,Kierrosten maksimimäärä
+Max Monkeys,Apinoiden maksimimäärä
+Toggle add / remove,Kytke lisää/poista
+Toggle select / edit,Kytke valitse/muokkaa
+Camo,Maastokuvioitu
+Couch Co-op,Sohvayhteistyö
+Gift,Lahja
+Emote,Emote
+Set Target,Aseta kohde
+Return to groups,Palaa ryhmiin
+TT_FollowCursor,Seuraa kohdistinta
+Toggle Map Dividers,Kytke kartan jakajat
+Send,Lähetä
+Upgrade,Päivitä
+NextUpgrade,Seuraava päivitys
+CurrentUpgrade,Nykyinen päivitys
+HeroBoosterLocked,Lukittu
+PrimeGamingText,Lunasta Prime Gaming -tavara
+GetNow,Hanki nyt
+,
+DarkDungeons,Synkät tyrmät
+OneTwoTree,Kaksi vanhaa puuta
+BeastHandler,Pedonkäsittelijä
+BeastHandlers,Pedonkäsittelijää
+BeastHandler Description,"Voi kouluttaa vaarallisia petoja maalla, vesillä ja ilmassa. Sen sijaan, että petoja tulisi enemmän, useat käsittelijät työskentelevät yhdessä ja kasvattavat aiempien voimaa."
+BeastHandler Short Description,Tukiapina
+Piranha,Piraija
+Microraptor,Microraptor
+Gyrfalcon,Tunturihaukka
+Barracuda,Barrakuda
+Adasaurus,Adasaurus
+Horned Owl,Huuhkaja
+Great White,Valkohai
+Velociraptor,Velociraptor
+Golden Eagle,Maakotka
+Orca,Miekkavalas
+Tyrannosaurus Rex,Tyrannosaurus rex
+Giant Condor,Jättikondori
+Megalodon,Megalodon
+Giganotosaurus,Giganotosaurus
+Pouakai,Haastinkotka
+Piranha Description,Komenna pientä mutta pippurista pikkukalaa hyppäämään vedestä bloonien kimppuun.
+Microraptor Description,Komenna teräväkyntistä pientä dinosaurusta. Kasvata sitä useammilla pedonkäsittelijöillä tämän päivityksen avulla.
+Gyrfalcon Description,"Komenna ylvästä pientä petolintua, joka voi napata ja siirtää blooneja kynsillään."
+Barracuda Description,Barrakudan veitsenterävät hampaat voivat poksauttaa useita bloonikerroksia. Vaatii vähintään 1 toisen pedonkäsittelijän piraijapäivityksillä. Enintään 4 osallistuvaa pedonkäsittelijää.
+Adasaurus Description,Adasauruksen terävät hampaat tekevät paljon vahinkoa lähietäisyydeltä. Vaatii vähintään 1 toisen pedonkäsittelijän microraptor-päivityksillä. Enintään 4 osallistuvaa pedonkäsittelijää.
+Horned Owl Description,"Huuhkaja on riittävän voimakas tarttumaan ja poksauttamaan keraamisia ja lyijyblooneja, ja tarkoilla silmillään se erottaa maastokuvioidut bloonit."
+Great White Description,"Valkohai murskaa leuoillaan blooneja, mukaan lukien lyijybloonit, ja vetää ne tarvittaessa veteen. Vaatii vähintään 2 muuta pedonkäsittelijää barrakudapäivityksillä. Enintään 4 osallistuvaa pedonkäsittelijää."
+Velociraptor Description,Velociraptor viiltää ja haukkaa blooneja säälimättömällä nopeudella. Vaatii vähintään 2 muuta pedonkäsittelijää velociraptor-päivityksillä. Enintään 4 osallistuvaa pedonkäsittelijää.
+Golden Eagle Description,"Tehokas tarttumaan useisiin blooneihin kerralla. Maakotka on niin iso, että se vaatii vähintään 2 muuta pedonkäsittelijää huuhkajapäivityksillä. Enintään 4 osallistuvaa pedonkäsittelijää."
+Orca Description,Mahtava miekkavalas voi valtavalla kidallaan napata ja vetää kaikki paitsi suurimmat bloonit syvyyksiin. Vaatii vähintään 3 muuta pedonkäsittelijää valkohaipäivityksillä. Enintään 4 osallistuvaa pedonkäsittelijää.
+Tyrannosaurus Rex Description,Tyrannosaurus rexin valtavat leuat ja terävät hampaat tekevät hirveästi vahinkoa joka puraisulla.  Vaatii vähintään 3 toisen pedonkäsittelijän velociraptor-päivityksillä. Enintään 4 osallistuvaa pedonkäsittelijää. T-rexin tallauskyky: tyrmää bloonit ZOMG-kokoon asti suurella alueella.
+Giant Condor Description,Jättikondorin valtavat kynnet voivat poimia MOAB-luokan blooneja. Vaatii vähintään 3 muuta pedonkäsittelijää maakotkapäivityksillä. Enintään 4 osallistuvaa pedonkäsittelijää.
+Megalodon Description,"Äärimmäisen kokoinen hai, jonka blooniherkuttelu vaatii vähintään 4 muuta pedonkäsittelijää miekkavalaspäivityksillä. Enintään 8 osallistuvaa pedonkäsittelijää."
+Giganotosaurus Description,"Kaikista suurin ja raivokkain dinosaurus, giganotosaurus, pystyy raatelemaan lähes minkä tahansa bloonin helposti ja välittömästi. Vaatii vähintään 4 muuta pedonkäsittelijää tyrannosaurus rex -päivityksillä. Enintään 8 osallistuvaa pedonkäsittelijää. Kyky tyrmää ZOMG-bloonit kaikkialla pidemmäksi aikaa."
+Pouakai Description,"Legendaarinen haastinkotka on niin suuri, että se voi poimia, kantaa mukaan ja tuhota melkein kuinka monta ja kuinka suurta bloonia tahansa. Vaatii vähintään 4 muuta pedonkäsittelijää jättikondoripäivityksillä. Enintään 8 osallistuvaa pedonkäsittelijää."
+T Rex Stomp Ability,T-rexin tallaus
+T Rex Stomp Ability Description,Tyrmää bloonit ZOMG-kokoon asti suurella alueella.
+Giganotosaurus Stomp Ability,Giganotosauruksen tallaus
+Giganotosaurus Stomp Ability Description,Tyrmää ZOMG-bloonit kaikkialla pidemmäksi aikaa.
+Move,Liiku
+NeedsBeastHandlers,Vaadíttu peto
+NeedsWater,Vaatii vettä
+NeedsTrack,Vaatii radan
+Dreadbloon,Kauhublooni
+DreadbloonTagLine,Syvältä synkän maan ytimestä...
+DreadbloonTagLine2,panssaroitu jätti!
+DreadbloonInfoPanelDescription,"\n• Kauhubloonilla on lyijybloonin ominaisuudet, ja kaikki vahinko tekee sille 1 vahingon vähemmän.\n• Aina kun pääkallo saavutetaan, Kauhublooni kasvattaa keraamisen panssarikuoren, ja pikkukauhublooneja alkaa syntyä radan alusta.\n• Kun Kauhublooni saapuu, se on immuuni perustorneille. Jokaisen pääkallon kohdalla tämä immuniteetti muuttuu eri tornityyppiin: sotilas, taika, tuki.\n• Myös pikkukauhublooneilla ja keraamisella panssarikuorella on nämä immuniteetit.\n• Pikkukauhublooneilla on voimakas pilkka, joten aseta torniesi kohdistus huolellisesti!"
+DreadbloonPrimaryImmunity,Immuniteetti: perustornit
+DreadbloonMilitaryImmunity,Immuniteetti: sotilastornit
+DreadbloonMagicImmunity,Immuniteetti: taikatornit
+DreadbloonSupportImmunity,Immuniteetti: tukitornit
+Resist,Vastustus
+Immune,Immuuni
+SleighCaptainChurchillSkinName,Reki-Churchill-ulkoasu
+SleighCaptainChurchillSkinDescription,"Bloonien tuhoamista ja joulumieltä, yksi paketoitu pommi kerrallaan."
+SleighCaptainChurchillSkinNameFull,Reki-Churchill
+GameUIProfileBanner23Name,Joulutervehdys-profiilibanneri
+GameUIProfileBanner23ShortName,Joulutervehdys-banneri
+GameUIProfileBanner23Description,Juhlista joulun leikkimielisyyttä tänä talvena tai ympäri vuoden tällä jäätävän hauskalla bannerilla. Rajoitetun ajan keräilijänimike!
+GameUIProfileBanner24Name,Bumerangiheittoterä-profiilibanneri
+GameUIProfileBanner24ShortName,Bumerangiheittoterä-banneri
+GameUIProfileBanner24Description,"Voittajabanneri, ReconScoutTeemo"
+GameUIProfileBanner25Name,Symbolit-profiilibanneri
+GameUIProfileBanner25ShortName,Symbolit-banneri
+GameUIProfileBanner25Description,"Voittajabanneri, PvtMagnuS"
+GameUIProfileAvatar65Name,Oma avatar – Joulukranssi
+GameUIProfileAvatar65ShortName,Joulukranssi-avatar
+GameUIProfileAvatar65Description,"Levitä hyvää mieltä ja onnea tällä joulukranssi-avatarilla. Rajoitetun ajan keräilijänimike!"
+GameUIProfileAvatar66Name,Oma avatar – Vihan avatar
+GameUIProfileAvatar66ShortName,Vihan avatar -avatar
+GameUIProfileAvatar66Description,"Vihdoinkin! Kauanko tässä kesti?! Avatar on nimessäni, banaani soikoon!"
+GameUIProfileAvatar67Name,Oma avatar – Hauskaa joulua
+GameUIProfileAvatar67ShortName,Hauskaa joulua -avatar
+GameUIProfileAvatar67Description,Etiennen ilo uuden droonin saamisesta joululahjaksi täyttäisi kenen tahansa sydämen ilosta. Rajoitetun ajan keräilijänimike!
+GameUIProfileAvatar68Name,Oma avatar – Absoluuttinen nollapiste
+GameUIProfileAvatar68ShortName,Absoluuttinen nollapiste -avatar
+GameUIProfileAvatar68Description,"Jos kylmältä näyttäminen on tärkeää, et voi mennä vikaan tällä jääapina-avatarilla."
+CoopEmoteAnimationSleighbellsName,Lunta ja kulkusia -animaatio
+CoopEmoteAnimationSleighbellsShortName,Kulkuset
+CoopEmoteAnimationSleighbellsDescription,"Nappaa tämä talven ihmemaan koko ruudun emote ja vie juhlamieltä pelaajalle 1, 2 tai 4! Rajoitetun ajan keräilijänimike!"
+TowerProjectileBananaFarmPresentsName,Banaanifarmin lahjabanaanit
+TowerProjectileBananaFarmPresentsShortName,Banaanifarmin lahja
+TowerProjectileBananaFarmPresentsDescription,"Mikään ei ole parempaa kuin banaanifarmi, joka kasvattaa lahjoja! Mitä paketeissa on? Tietysti banaaneja! Rajoitetun ajan keräilijänimike!"
+TowerProjectileDartMonkeySnowballsName,Tikka-apinan lumipalloammukset
+TowerProjectileDartMonkeySnowballsShortName,Tikka-apinan lumipallot
+TowerProjectileDartMonkeySnowballsDescription,"Emme tiedä miten he onnistuivat tässä viidakossa, mutta kokeile tätä ammusvaihtoa ja näet, miksi tikka-apinat voittavat aina lumisodassa. Rajoitetun ajan keräilijänimike!"
+TowerProjectileTackShooterIciclesName,Nasta-ampujan jääpuikko- ja lumihiutaleammukset
+TowerProjectileTackShooterIciclesShortName,Nasta-ampujan jääpuikot
+TowerProjectileTackShooterIciclesDescription,"Jos rakastat nasta-ampujan ja jääapinan yhdistelmää, se loistaa entistä paremmin kun nastat ovat jääpuikkoja ja terät lumihiutaleita. Rajoitetun ajan keräilijänimike!"
+TowerProjectileNinjaMonkeySnowflakesName,Ninja-apinan lumihiutaleammukset
+TowerProjectileNinjaMonkeySnowflakesShortName,Ninja-apinan lumihiutaleet
+TowerProjectileNinjaMonkeySnowflakesDescription,Lumihiutale\nLentää ninjan kädestä\nLeikkaa blooneja\n\nRajoitetun ajan keräilijänimike!
+BuildingPropChristmasTreeName,Joulukuusirakennus
+BuildingPropChristmasTreeShortName,Joulukuusirakennus
+BuildingPropChristmasTreeDescription,Muutatko tukikohtasi puuksi?! Missä apinat sitten elävät? Hetkinen... unohda..\nTuo tiimillesi joulumieltä joulukuusitukikohdalla. [Päärakennuspaikka]
+BasePropCosyBeanbagMonkeyName,Mukava säkkituoli -apina
+BasePropCosyBeanbagMonkeyShortName,Mukava säkkituoli -apina
+BasePropCosyBeanbagMonkeyDescription,Säkkituoli. Äärimmäisen rentoutumisen merkki. Mukana rentoutuva apina! [Saaripaikka]
+TeamsBanner9Name,Herkkä lumihiutale -banneri
+TeamsBanner9ShortName,Herkkä lumihiutale -banneri
+TeamsBanner9Description,"Lumihiutaleen yksinkertainen monimutkaisuus on täydellinen, samoin kuin tiimisi."
+TeamsBanner10Name,Paahdettu banaani -banneri
+TeamsBanner10ShortName,Paahdettu banaani -banneri
+TeamsBanner10Description,Hanki tiimillesi herkullinen nuotiolla paahdettu banaani!
+TeamsEmblemFrame12Name,Bloonikehys
+TeamsEmblemFrame12ShortName,Bloonikehys
+TeamsEmblemFrame12Description,Tee tiimistäsi kaikkien vihollinen tällä armottomalla bloonikehyksellä.
+TeamsEmblemFrame13Name,Sotilaskehys
+TeamsEmblemFrame13ShortName,Sotilaskehys
+TeamsEmblemFrame13Description,Innostunut tiimi ei ole mitään ilman rakennetta ja kuria.
+TeamsEmblemIcon15Name,Kruunukuvake
+TeamsEmblemIcon15ShortName,Kruunukuvake
+TeamsEmblemIcon15Description,Tue tiimisi vaadetta tikkatuoliin.
+TeamsEmblemIcon16Name,Alien-kuvake
+TeamsEmblemIcon16ShortName,Alien-kuvake
+TeamsEmblemIcon16Description,"Kuvake, kun tiimisi on kuin toisesta maailmasta!"
+Achievement 146 Name,Sivutehtävä
+Achievement 146 Description,Suorita tehtävä
+Achievement 147 Name,Virkistys
+Achievement 147 Description,Pidä 75 tehostetta aktiivisena apinoillasi kerralla
+Achievement 148 Name,Maailmanluokan treenausta
+Achievement 148 Description,Hanki 150 000 pedonkäsittelijän KP:tä
+CompleteQuestMessage,Suorita tehtävä
+QuestUnlocksAtLevelXMessage,Tehtävä avaa<br>tason {0}
+QuestComplete,Tehtävä suoritettu!
+BeastHandlerQuestName,Eeppinen petotehtävä
+BeastHandlerQuestReward,Avaa pedonkäsittelijä ja muuta!
+BeastHandlerQuest1Name,Maan polku
+BeastHandlerQuest1Description,Kouluta tappavia dinosauruksia Louhoksessa
+BeastHandlerQuest1Victory,Onnittelut! Suoritut Maan polun!
+BeastHandlerQuest2Name,Veden polku
+BeastHandlerQuest2Description,Kasvata raivokkaita kaloja Maustesaarilla
+BeastHandlerQuest2Victory,Onnittelut! Suoritut Veden polun!
+BeastHandlerQuest3Name,Ilman polku
+BeastHandlerQuest3Description,Kasvata voimakkaita lintuja Murtunut-kentässä
+BeastHandlerQuest3Victory,Onnittelut! Suoritut Ilman polun!
+DialogBeastHandlerQuest1UI1,"Pedonkäsittelijät lähtivät kylästä vuosia sitten etsimään eeppisiä petoja, ja he ovat lähes valmiita!"
+DialogBeastHandlerQuest1UI2,"Jos voit auttaa heitä suorittamaan tehtävänsä, he liittyvät mukaamme ja taistelevat blooneja vastaan!"
+DialogBeastHandlerQuest1InGame1,"Pedonkäsittelijät kuulivat tarinoita mystisestä munasta, ja he ovat kesyttäneet ensimmäisen eeppisen pedon!"
+DialogBeastHandlerQuest1InGame2,Auta heitä oppimaan kaikki mahdollinen näistä nälkäisistä pedoista!
+DialogBeastHandlerQuest2UI1,Upeaa! Pedonkäsittelijät toimivat raakojen petojen kanssa kuin ne olisivat lemmikkejä. Ja he ovat oppineet yhdistämään ja vahvistamaan niitä yhteistyöllä.
+DialogBeastHandlerQuest2UI2,"En ymmärrä biologiaa, mutta yhdistelmät ovat selvästi voimakkaampia. Ne ovat johtaneet pedonkäsittelijät uuden munan luo."
+DialogBeastHandlerQuest2UI3,"En malta odottaa, mitä he löysivät."
+DialogBeastHandlerQuest3UI1,"Ovelaa kasvattaa pelottavia vesipetoja, jotka auttavat taistelemaan blooneja vastaan vedessä ja löytämään vedestä piilotettuja aarteita, kuten 3. munan."
+DialogBeastHandlerQuest3UI2,"Kun autat pedonkäsittelijöitä kesyttämään kolmannen pedon, ne liittyvät tiimiin!"
+,
+RemoveProviderFromAccount,"Haluatko varmasti poistaa tämän toimittajan tililtäsi? <br><br><b>Voi kestää 3 tuntia, että toimittaja poistetaan tililtäsi</b>"
+ProviderRemovedText,Toimittaja poistettu.<br><br>Tämä sivu sulkeutuu pian
+AdditionalAccountLinks,Lisää tililinkkejä
+LoginWithAmazon,Kirjaudu Amazon-tilillä
+LinkingCodeButton,Hanki linkkikoodi
+LinkingCodeMessage,Avaa peli toisessa laitteessa ja syötä tämä koodi pyydettäessä. Tämä koodi on voimassa 10 minuuttia.
+Rate Expires In,Arvion päättymiseen
+Rate,Arvioi
+CoopGameSyncFailed,Peliasetusten synkronointi epäonnistui Kokeile uutta peliä.
+iCloudTitle,iCloud
+iCloudDisabled,iCloud pois käytöstä
+iCloudEnabled,iCloud käytössä
+DialogBeastHandlerQuest1InGameTowerUpgrade1,"Vau, tuo peto on niin vahva, että tarvitaan KAKSI pedonkäsittelijää pitämään se hallinnassa!"
+Buffed,vahvistaa
+Assisting,Avustaminen
+Select Point On Track,Valitse piste radalta

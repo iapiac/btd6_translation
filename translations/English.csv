@@ -101,7 +101,7 @@ Quincy Level 15 Description,Rapid Shot becomes x4 attack speed and cooldown is r
 Quincy Level 16 Description,More increased attack speed.
 Quincy Level 17 Description,Arrows last 25% longer. Fires exploding arrows every 2nd shot.
 Quincy Level 18 Description,Quincy attacks faster and Storm of Arrows has reduced cooldown and 50% more arrows.
-Quincy Level 19 Description,Each arrow gets even more popping power.
+Quincy Level 19 Description,"Shoots 3 arrows at a time, and each arrow gets even more popping power."
 Quincy Level 20 Description,Quincy attacks even faster. Storm of Arrows deals more damage per arrow and fires even more arrows.
 ,
 StrikerJones Level 1 Description,Striker Jones shoots a powerful bazooka to explode the Bloons.
@@ -697,10 +697,10 @@ Enhanced Eyesight Description,Shoots even further and can detect Camo Bloons.
 Spike-o-pult Description,Converts the Dart Monkey into a slower attacking Spike-o-pult that hurls large spiked balls. Each ball can pop lots of Bloons and rebounds off obstacles.
 Triple Shot Description,Throws 3 darts at a time instead of 1.
 Crossbow Description,Uses a long range Crossbow that can pop 3 layers of Bloon for every hit.
-Juggernaut Description,Hurls a giant spiked ball that pops lead and excels at crushing Ceramic Bloons.
+Juggernaut Description,Hurls a giant spiked ball that pops lead and excels at crushing Ceramic and Fortified Bloons.
 Super Monkey Fan Club Description,Super Monkey Fan Club Ability: Converts up to 10 nearby Dart Monkeys including himself into Super Monkeys for 15 seconds. Regular attack speed also increased.
 Sharp Shooter Description,Sharp Shooter attacks faster and does powerful Crit shots every few shots that do a lot more damage.
-Ultra-Juggernaut Description,Gigantic spiked ball splits twice into 6 Juggernaut balls for even more destructive power.
+Ultra-Juggernaut Description,Gigantic spiked ball splits twice into 6 Juggernaut balls for even more destructive power against Ceramic and Fortified Bloons.
 Plasma Monkey Fan Club Description,Elite membership of this club grants the Dart Monkeys even more power!
 Crossbow Master Description,Crossbow Master shoots really fast and devastates most Bloon types with ease.
 ,
@@ -756,11 +756,11 @@ Permafrost Description,Bloons move slowly even after thawing out.
 Enhanced Freeze Description,Attacks faster and freezes for longer.
 Larger Radius Description,Larger freeze area.
 Metal Freeze Description,Can freeze and pop Lead and Camo Bloons.
-Deep Freeze Description,Freezes an extra layer and freeze lasts longer.
+Deep Freeze Description,"Increases pierce, freezes an extra layer and freeze lasts longer."
 Re-Freeze Description,Can re-freeze Bloons that are already frozen.
 Ice Shards Description,Razor sharp shards fly out when Frozen Bloons pop.
 Arctic Wind Description,Greatly increases pierce & gains a super cold aura that slows Bloons and freezes water nearby.
-Cryo Cannon Description,Shoots freezing bombs at Bloons over longer range.
+Cryo Cannon Description,Rapidly shoots smaller ice bombs over longer range.
 Embrittlement Description,"Can hit MOAB class Bloons. All hit Bloons become brittle, take extra damage while frozen, and lose Camo properties."
 Snowstorm Description,"Snowstorm Ability: Freezes all regular Bloons on screen, briefly freezes White, Zebra, and Camo, and slows MOAB-class."
 Icicles Description,Frozen Bloons grow sharp icicles that can pop Bloons that touch them.
@@ -774,10 +774,10 @@ Stickier Glue Description,Makes glue effect last much longer.
 Corrosive Glue Description,Glued Bloons pop one layer every few seconds.
 Glue Splatter Description,Splatters glue across up to 6 Bloons per shot.
 Stronger Glue Description,Slows down Bloons even more.
-Bloon Dissolver Description,Extreme solvents melt two layers every second.
+Bloon Dissolver Description,Can glue one additional Bloon per shot and solvents melt two layers every second.
 Glue Hose Description,Shoots glue 3x as fast!
 MOAB Glue Description,Improved glue formula allows it to stick to MOAB-Class Bloons.
-Bloon Liquefier Description,Can glue one additional Bloon per shot and applies liquifying compounds that do 10 pops every second.
+Bloon Liquefier Description,Applies liquifying compounds that do 10 pops every second.
 Glue Strike Description,"Glue Strike Ability: Glues all Bloons on screen, causing them to take more damage from all sources while it lasts"
 Relentless Glue Description,Popped Bloons that were glued leave a blob of glue on the track.
 The Bloon Solver Description,Bloons a problem? Here's the solution.
@@ -875,10 +875,10 @@ Heavy Shells Description,"Heavy shells do extra damage to Ceramic, Lead, all For
 Signal Flare Description,Camo Bloons popped by flares lose their camouflage permanently.
 The Big One Description,"Devastating explosions pop 7 layers of Bloon, plus increases Burny Stuff damage further."
 Artillery Battery Description,Bombardment Ability: Unleashes a rapid fire attack in a slightly wider area. Main attack does more damage to BADs and Boss Bloons and upgrades to 3 barrels for incredibly fast attacks.
-Shattering Shells Description,Shattering shells strip all special Bloon properties off all but the biggest bloons.
+Shattering Shells Description,"Shattering shells strip special Bloon properties off all but the biggest bloons, and burns MOAB-class Bloons for extra damage."
 The Biggest One Description,"Blasts deeply through Bloons and layers over a huge area, plus powerful Burny Stuff damage."
 Pop and Awe Description,"Pop and Awe Ability: rains explosions over the whole screen, damaging and immobilizing all Bloons for a few seconds. All Artillery Batteries do more damage to BADs and Boss Bloons. Main attack gains additional bonus damage to stunned Bloons."
-Blooncineration Description,"Superhot burny stuff melts through 5 layers of Bloon each shot, burns MOAB-Class Bloons for extra damage."
+Blooncineration Description,"Superhot burny stuff melts through 5 layers of Bloon each shot, and incinerates MOAB-Class Bloons with massive damage."
 ,
 Focused Firing Description,Increases accuracy of the Dartling Gun.
 Advanced Targeting Description,Allows Dartling Gunner to hit Camo Bloons.
@@ -909,7 +909,7 @@ Shimmer Description,Gains a dark magic attack that periodically reveals location
 Arcane Spike Description,Faster firing magic does huge damage to most Bloon types.
 Summon Phoenix Description,Summon Phoenix ability: Powerful phoenix wreaks Bloon havoc for 20 seconds.
 Necromancer: Unpopped Army Description,Reanimate recently popped enemies as servants to destroy the Bloons.
-Archmage Description,A true master of magical wizardry.
+Archmage Description,A true master of magical wizardry. Attacks faster and does more damage to MOAB-class Bloons.
 Wizard Lord Phoenix Description,"Wizard Lord becomes a master of the flame, turning into a super powerful Lava Phoenix for a short time."
 Soulbind Description,Reanimate even more powerful Bloon servants to obliterate the enemy and enhances all other Necromancers.
 ,
@@ -971,7 +971,7 @@ Druid of the Storm Description,Gusts of wind blow Bloons off the track away from
 Druid of the Jungle Description,"Calls a vine from the ground to entangle and crush Bloons one at a time, leaving behind a deadly thorn pile."
 Druid of Wrath Description,Gains attack speed during the round as long as the Druid is attacking Bloons.
 Ball Lightning Description,Creates powerful balls of lightning that shoot additional lightning bolts and can freeze Bloons. 
-Jungle's Bounty Description,"Jungle's Bounty Ability: Generates cash each use, plus extra cash per Banana Farm near the Druid. Can also grab two Bloons with vines at once."
+Jungle's Bounty Description,"Jungle's Bounty Ability: Generates cash each use, plus extra cash per Banana Farm near the Druid. Calls in two vines to grab Bloons and thorn piles have extra pierce."
 Poplust Description,Boosts attack speed and pierce for other Druids in the radius. Can stack up to 5 times on any single Druid.
 Superstorm Description,Superstorm blasts all Bloon types for massive damage and blows them away from the exit.
 Spirit of the Forest Description,Grows thorned vines along the path that deal constant damage and bonus damage to ceramics. Vines nearest the Spirit of the Forest do more damage. Activated ability generates lives and more cash.
@@ -1660,11 +1660,11 @@ btd6_herobooster Description,Hero selected in your current game becomes Level {0
 btd6_powersattackpack,Powers Attack Pack
 btd6_powersattackpack Description,An assortment of {0} battle focused Monkey Powers.
 btd6_instatowerspack,Insta Monkey Pack
-btd6_instatowerspack Description,"5 monkey towers, ready to place for no in-game cash! Contains 2 Tier 1, 2 Tier 2, and 1 Tier 3"
+btd6_instatowerspack Description,"5 monkey towers, ready to place for no in-game cash! Contains 2 Tier 1, 2 Tier 2, and 1 Tier 3. Monkeys within each tier have the same chance of being drawn."
 btd6_tier3instatowerspack,Tier 3 Insta Monkeys Pack
-btd6_tier3instatowerspack Description,"10 Tier 3 Insta monkey towers, ready to place for no in-game cash!"
+btd6_tier3instatowerspack Description,"10 Tier 3 Insta monkey towers, ready to place for no in-game cash! Chance to draw each Monkey is the same."
 btd6_tier4instatowerspack,Tier 4 Insta Monkeys Pack
-btd6_tier4instatowerspack Description,"10 Tier 4 Insta monkey towers, ready to place for no in-game cash!"
+btd6_tier4instatowerspack Description,"10 Tier 4 Insta monkey towers, ready to place for no in-game cash! Chance to draw each Monkey is the same."
 btd6_needmoremonkeymoneyprompt,Not enough Monkey Money! Buy more?
 ,
 ,
@@ -1678,11 +1678,11 @@ btd6_extramonkeymoney Description,Special Offer! {0} Monkey Money at a very low 
 btd6_powerspandamonium,Powers Pandamonium
 btd6_powerspandamonium Description,With our powers combined! {0} of the best Monkey Powers you can get in a single pack.
 btd6_instatowersmegabooster,Insta Monkeys Mega Booster
-btd6_instatowersmegabooster Description,"This mega pack contains 5 Tier 2, 12 Tier 3, and 3 Tier 4 insta monkey towers, ready to place for no in-game cash!"
+btd6_instatowersmegabooster Description,"This mega pack contains 5 Tier 2, 12 Tier 3, and 3 Tier 4 insta monkey towers, ready to place for no in-game cash! Monkeys within each tier have the same chance of being drawn."
 btd6_megamonkeycompendiumpack,Mega Monkey Compendium Pack
-btd6_megamonkeycompendiumpack Description,"A huge pack full of awesome goodies! 25,000 Monkey Money, 100 attack Powers, 30 Tier 3 Insta monkey towers, 15 Tier 4 Insta monkey towers, 5 Tier 5 Insta monkey towers, and Knowledge Unlocked (Rank 30, 5 Bonus MK Points)!"
+btd6_megamonkeycompendiumpack Description,"A huge pack full of awesome goodies! 25,000 Monkey Money, 100 attack Powers, 30 Tier 3 Insta monkey towers, 15 Tier 4 Insta monkey towers, 5 Tier 5 Insta monkey towers, and Knowledge Unlocked (Rank 30, 5 Bonus MK Points)! Monkeys within each tier have the same chance of being drawn."
 btd6_tier5instatowerpack,Tier 5 Insta Monkeys Pack
-btd6_tier5instatowerpack Description,"10 Tier 5 monkey towers, ready to place for no in-game cash!"
+btd6_tier5instatowerpack Description,"10 Tier 5 monkey towers, ready to place for no in-game cash! Chance to draw each Monkey is the same."
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,Pile O Monkey Money Sale
@@ -2042,6 +2042,8 @@ Swedish,Swedish
 Turkish,Turkish
 Korean,Korean
 Japanese,Japanese
+Polish,Polish
+Monkelish,Monkelish
 ,
 Backup,Backup
 Profile,Account
@@ -2751,8 +2753,8 @@ DarkKnightDarkshift,[I] to Darkshift within range
 DarkChampionDarkshift,[I] to Darkshift to any valid location
 SmallTowersMode,Small Monkey Towers
 BigTowersMode,Big Monkey Towers
-UpdatePopupTitle,Update 33!
-UpdatePopupDescription,"Big Content Update!\n• Unleash the awesome Goliath Doomship, Monkey Ace Paragon!\n• Cultivate some  Bloon popping power on the intermediate map, Covered Garden! Design by community map competition winner SuperPsou.\n• Haunt the halls of the spooky new advanced map, Midnight Mansion!\n• Trophy store items, quality of life improvements, balance changes and much more!"
+UpdatePopupTitle,Update 34!
+UpdatePopupDescription,"Mega Holidays Update!\n• Battle against the awesome resistances and immunities of The Armored Behemoth, Dreadbloon!\n• Uncover the tower-buffing placements on the new Beginner map, One Two Tree!\n• Slay the Bloons in festive spirit with the new Captain Churchill skin, Sleigh Churchill!\n• Trophy store items, quality of life improvements, balance changes and much more!\n• Happy holidays and best wishes for a wonderful New Year, from all of us at Ninja Kiwi!"
 ResetDailyChest,Reset Daily Chest
 JukeboxName,Jukebox
 EnableFunction,Enable
@@ -4722,17 +4724,17 @@ RelicMilitaryMonkeys,Military Monkeys
 RelicMagicMonkeys,Magic Monkeys
 RelicSupportSimians,Support Simians
 RelicMonkeyTycoon,Monkey Tycoon
-RelicStartingStashDescription,Start each game with an extra 300 cash (stacks with More Cash on Regular Tiles)
+RelicStartingStashDescription,Start each game with an extra 250 cash (stacks with More Cash on Regular Tiles)
 RelicExtraEmpoweredDescription,Your hero starts a game with 3 extra levels (stacks with Empowered Heroes on Regular Tiles)
 RelicBoxOfChocolatesDescription,Start each game with 100 extra lives
-RelicBoxOfMonkeyDescription,Start each game with one free Monkey costing $500 or less for unmodified initial placement
+RelicBoxOfMonkeyDescription,Start each game with one free Monkey costing $400 or less for unmodified initial placement
 RelicMarchingBootsDescription,"In restricted count games, gives players +1 max count of each tower in their loadout or +4 total max count per game"
 RelicHeroBoostDescription,Heroes earn XP 15% faster in each game
 RelicBiggerBloonSabotageDescription,All MOAB-class Bloons spawn with 15% less health and move at 95% speed
 RelicRoundingUpDescription,Earn +$20 at the end of every round
 RelicManaBulwarkDescription,Creates a shield that absorbs up to 50 lives (stacks with Mana Shield on Regular Tiles)
-RelicRegenerationDescription,"Restore 10 lives per round up to each game’s starting lives value, if no lives lost that round"
-RelicRestorationDescription,"Restore 20 lives per round up to an increased starting lives value of +200, if no lives lost that round"
+RelicRegenerationDescription,"Restore 20 lives per round up to each game’s starting lives value, if no lives lost that round"
+RelicRestorationDescription,"Restore 10 lives per round up to an increased starting lives value of +200, if no lives lost that round"
 RelicDurableShotsDescription,All projectiles have +25% lifespan
 RelicAlchemistTouchDescription,All attacks can pop lead Bloons
 RelicDeepHeatDescription,All attacks can pop white Bloons
@@ -4740,14 +4742,14 @@ RelicSharpsplosionDescription,All attacks can pop black Bloons
 RelicRoyalTreatmentDescription,All attacks can pop purple Bloons
 RelicHardBakedDescription,All attacks do +1 damage to Ceramic Bloons
 RelicFortifriedDescription,All attacks do +1 damage to Fortified Bloons
-RelicMoabClashDescription,All attacks do +3 damage to MOAB-class Bloons
+RelicMoabClashDescription,All attacks do +2 damage to MOAB-class Bloons
 RelicCamoFloggedDescription,All attacks do +3 damage to camo Bloons
 RelicBrokenHeartDescription,All attacks do +1 damage to regrow Bloons
 RelicGoingTheDistanceDescription,All Monkeys gain +20% range
-RelicHeartlessDescription,Regrow Bloons regeneration rate reduced 25%
+RelicHeartlessDescription,Regrow Bloons regeneration rate reduced 50%
 RelicFlintTipsDescription,Sharp projectiles add fire dot to all Bloons they damage (1 damage every 2.5s for 5s total)
 RelicAbilitizedDescription,All Activated Ability cooldowns for all Monkeys reduced 10%
-RelicAirAndSeaDescription,"Ace, Heli, Buccaneer and Sub have placement and upgrade costs reduced 10%, and reload improved by 5%"
+RelicAirAndSeaDescription,"Ace, Heli, Buccaneer and Sub have placement and upgrade costs reduced 5%, and reload improved by 5%"
 RelicElDoradoDescription,All Monkey Money and Team Trophy rewards from game victories are increased by 25% (minimum +1)
 RelicMonkeyShieldDescription,"For 1 hour after capture, Tile cannot be attacked by opposing Teams. Improved score will re-engage."
 RelicMonkeyShieldMark2Description,"For 2 hours after capture, Tile cannot be attacked by opposing Teams. Improved score will re-engage."
@@ -4762,11 +4764,11 @@ RelicRoadSpikesDescription,Grants 10 stacks of Road Spikes per game
 RelicMoabMineDescription,Grants the use of 1 MOAB Mine Powerup per game
 RelicGlueTrapDescription,Grants the use of 2 Glue Trap Powerups per game
 RelicTechbotDescription,Grants the use of 1 Tech Bot Powerup per game
-RelicPrimaryPrimatesDescription,Reduces cost of all Primary Monkeys by 10%
-RelicMilitaryMonkeysDescription,Reduces cost of all Military Monkeys by 10%
-RelicMagicMonkeysDescription,Reduces cost of all Magic Monkeys by 10%
+RelicPrimaryPrimatesDescription,Reduces cost of all Primary Monkeys by 8%
+RelicMilitaryMonkeysDescription,Reduces cost of all Military Monkeys by 8%
+RelicMagicMonkeysDescription,Reduces cost of all Magic Monkeys by 8%
 RelicSupportSimiansDescription,Reduces cost of all Support Monkeys by 10%
-RelicMonkeyTycoonDescription,Get +1 of all Monkey Towers in your loadout and their base price is reduced by 5%
+RelicMonkeyTycoonDescription,Get +1 of all Monkey Towers in your loadout and their base price is reduced by 4%
 InviteToTeam,Invite to Team
 TeamLeave,Leave Team
 Requests,Requests
@@ -4800,7 +4802,7 @@ TeamDemoteMember,Are you sure you want to demote this member?
 TeamErrorShowPop,Team Error
 TeamOwnershipTransferTitle,Team Ownership Transfer
 TeamOwnershipTransferFailed,Failed to transfer ownership to new player
-TeamOwnershipTransferWarning,Are you sure you want to transfer Team ownership to this member. This is cannot be undone!
+TeamOwnershipTransferWarning,Are you sure you want to transfer Team ownership to this member? This cannot be undone!
 TeamLeaveConfirm,Are you sure you want to leave the Team?
 TeamDisbandConfirm,Are you sure you want to disband the Team?
 TeamOwnershipLeavingWarning,Transfer ownership of the Team to another member before leaving
@@ -5068,15 +5070,15 @@ TeamsEmblemIcon13ShortName,Kung Fu Kiwi Icon
 TeamsEmblemIcon13Description,Surprise your opponents with a flying kick from your favorite flightless bird.
 TeamsEmblemIcon14Name,All-Seeing Eye Icon
 TeamsEmblemIcon14ShortName,All-Seeing Eye Icon
-TeamsEmblemIcon14Description,Equip this team icon and your opponents will doubt every move they make.
+TeamsEmblemIcon14Description,Equip this Team icon and your opponents will doubt every move they make.
 TeamsEmblemFrame10Name,Ninja Scroll Frame
 TeamsEmblemFrame10ShortName,Ninja Scroll Frame
-TeamsEmblemFrame10Description,A frame to show your teams dedication to the ancient art of the Ninja.
+TeamsEmblemFrame10Description,A frame to show your Team's dedication to the ancient art of the Ninja.
 TeamsEmblemFrame11Name,Cognition Frame
 TeamsEmblemFrame11ShortName,Cognition Frame
 TeamsEmblemFrame11Description,Convey your Team's superior Bloon popping knowledge with the Cognition Frame.
-BasePropPirateCrewMonkeyName,Pirate Crew
-BasePropPirateCrewMonkeyShortName,Pirate Crew
+BasePropPirateCrewMonkeyName,Pirate Crew Monkey
+BasePropPirateCrewMonkeyShortName,Pirate Crew Monkey
 BasePropPirateCrewMonkeyDescription,Yar! Welcome this scalliwag to your Contested Territory base and the other Teams will turn about with their sails between their legs. [Island Slot]
 BasePropTelescopeName,Refracting Telescope
 BasePropTelescopeShortName,Refracting Telescope
@@ -5115,5 +5117,261 @@ SelectCapturedRelics,Select up to 4 Captured Relics
 NextBonusIn,Next Bonus in:
 MemberCount,Member Count
 Min,Min
+Back,Back
+Purchase Monkey Money,Purchase Monkey Money
+Player Profile,Player Profile
+Toggle Info,Toggle Info
+Store Info,Store Info
+Toggle mode,Toggle mode
+Toggle jukebox enabled,Toggle jukebox enabled
+Play / Pause,Play / Pause
+Move up,Move up
+Move down,Move down
+Buy Monkey Knowledge,Buy Monkey Knowledge
+Search,Search
+Google Play,Google Play
+Remove mode,Remove mode
+Add mode,Add mode
+Toggle ranked mode,Toggle ranked mode
+Info,Info
+Switch to MonkeyName,Switch to Named Monkeys
+Rename monkey,Rename monkey
+Switch to Medals,Switch to Medals
+Switch to Settings,Switch to Settings
+Refresh,Refresh
+First Page,First Page
+Prev Page,Prev Page
+Next Page,Next Page
+Last Page,Last Page
+Reset,Reset
++,+
+-,-
+Show/Hide panel,Show/Hide panel
+Toggle Loop Track,Toggle Loop Track
+Previous Track,Previous Track
+Next Track,Next Track
+Info mode,Info mode
+Hero mode,Hero mode
+Skin mode,Skin mode
+Prev mode,Prev mode
+Next mode,Next mode
+Disconnect controller,Disconnect controller
+Clear all monkeys,Clear all monkeys
+Clear all powers,Clear all powers
+Mute,Mute
+Place Second Tower Console,Place another Dart Monkey then press [dpad_up] to Play
+Finished Round One Console,That was easy right? Press [dpad_up] to start the next round
+Speed x1,Speed x1
+Speed x3,Speed x3
+CouchBuildZoneMessage,Build your monkey towers in your valid area
+Insta Monkeys,Insta Monkeys
+Controller.Title,Controls
+Controller.DPadUp,Send round / fast forward
+Controller.DPadDown,Send race round
+Controller.DPadLeft,Not assigned
+Controller.DPadRight,Not assigned
+Controller.LeftAnalog,Free cursor
+Controller.LeftAnalogButton,Quick placement
+Controller.RightAnalog,Scroll
+Controller.RightAnalogButton,Show/Hide panel
+Controller.Menu,Not assigned
+Controller.Start,Pause
+Controller.LeftShoulder,Prev tab
+Controller.RightShoulder,Next tab
+Controller.LeftTrigger,"Precise placement, ability hotkeys"
+Controller.RightTrigger,Ability hotkeys
+Controller.NorthButton,Not assigned
+Controller.SouthButton,Confirm
+Controller.EastButton,Cancel
+Controller.WestButton,Not assigned
+Toggle tab,Toggle tab
+Refresh data,Refresh data
+Prev tab,Prev tab
+Next tab,Next tab
+Controller.Ready,Ready
+Friends,Friends
+MinimumRounds,Minimum Rounds
+MaximumRounds,Maximum Rounds
+Max Monkeys,Max Monkeys
+Toggle add / remove,Toggle add / remove
+Toggle select / edit,Toggle select / edit
+Camo,Camo
+Couch Co-op,Couch Co-op
+Gift,Gift
+Emote,Emote
+Set Target,Set Target
+Return to groups,Return to groups
+TT_FollowCursor,Follow Cursor
+Toggle Map Dividers,Toggle Map Dividers
+Send,Send
+Upgrade,Upgrade
+NextUpgrade,Next Upgrade
+CurrentUpgrade,Current Upgrade
+HeroBoosterLocked,Locked
 PrimeGamingText,Claim your Prime Gaming drop
 GetNow,Get Now
+,
+DarkDungeons,Dark Dungeons
+OneTwoTree,One Two Tree
+BeastHandler,Beast Handler
+BeastHandlers,Beast Handlers
+BeastHandler Description,"Can train dangerous beasts on land, water and air. Instead of creating more beasts, multiple handlers work together to increase the power of the existing ones."
+BeastHandler Short Description,Support Monkey
+Piranha,Piranha
+Microraptor,Microraptor
+Gyrfalcon,Gyrfalcon
+Barracuda,Barracuda
+Adasaurus,Adasaurus
+Horned Owl,Horned Owl
+Great White,Great White
+Velociraptor,Velociraptor
+Golden Eagle,Golden Eagle
+Orca,Orca
+Tyrannosaurus Rex,Tyrannosaurus Rex
+Giant Condor,Giant Condor
+Megalodon,Megalodon
+Giganotosaurus,Giganotosaurus
+Pouakai,Pouākai
+Piranha Description,Command a small but feisty little fish to leap from the water at the Bloons.
+Microraptor Description,Command a sharp clawed little dinosaur. Grow it with more Beast Handlers with this upgrade.
+Gyrfalcon Description,Command a noble little bird of prey that can grab and move Bloons with its talons.
+Barracuda Description,The barracuda's razor sharp teeth can pop multiple layers of Bloon. Requires at least 1 other Beast Handler with Piranha upgrades. Max 4 contributing Beast Handlers
+Adasaurus Description,The sharp teeth of Adasaurus deal high short range damage. Requires at least 1 other Beast Handler with Microraptor upgrades. Max 4 contributing Beast Handlers
+Horned Owl Description,"The Horned Owl is strong enough to grab and pop Lead and Ceramic Bloons, and has keen eyes that can detect Camo Bloons."
+Great White Description,"The Great White will crush Bloons, including Lead Bloons in its jaws, dragging them back to the water if needed. Requires at least 2 other Beast Handlers with Barracuda upgrades. Max 4 contributing Beast Handlers"
+Velociraptor Description,Velociraptor slashes and chomps Bloons with vicious speed. Requires at least 2 other Beast Handlers with Adasaurus upgrades. Max 4 contributing Beast Handlers
+Golden Eagle Description,Expert at grabbing large numbers of Bloons at once. The Golden Eagle is so large it requires at least 2 other Beast Handlers with Horned Owl upgrades. Max 4 contributing Beast Handlers
+Orca Description,The mighty Orca's huge mouth can grab and drag all but the very largest Bloons into the depths. Requires at least 3 other Beast Handlers with Great White upgrades. Max 4 contributing Beast Handlers
+Tyrannosaurus Rex Description,The Tyrannosaurus Rex's huge jaw and sharp teeth deal a ton of damage with each bite. Requires at least 3 other Beast Handlers with Velociraptor upgrades. Max 4 contributing Beast Handlers. T Rex Stomp ability: Stuns up to ZOMG Bloons in a wide area.
+Giant Condor Description,The huge talons of the fearsome Giant Condor can pick up MOAB-Class Bloons. Requires at least 3 other Beast Handlers with Golden Eagle upgrades. Max 4 contributing Beast Handlers
+Megalodon Description,A truly colossal shark with a taste for Bloon that requires at least 4 other Beast Handlers with Orca upgrades. Max 8 contributing Beast Handlers
+Giganotosaurus Description,"The biggest and most fierce dinosaur of them all, Giganotosaurus can shred almost any Bloon instantly with ease. Requires at least 4 other Beast Handlers with Tyrannosaurus Rex upgrades. Max 8 contributing Beast Handlers. Ability stuns up to ZOMG Bloons everywhere for longer."
+Pouakai Description,"The legendary Pouākai, a bird so large that it can pick up, carry off and destroy almost any number of Bloons of almost any size. Requires at least 4 other Beast Handlers with Giant Condor upgrades. Max 8 contributing Beast Handlers"
+T Rex Stomp Ability,T Rex Stomp
+T Rex Stomp Ability Description,Stuns up to ZOMG Bloons in a wide area.
+Giganotosaurus Stomp Ability,Giganotosaurus Stomp
+Giganotosaurus Stomp Ability Description,Stuns up to ZOMG Bloons everywhere for longer.
+Move,Move
+NeedsBeastHandlers,Requires Beast
+NeedsWater,Needs Water
+NeedsTrack,Needs Track
+Dreadbloon,Dreadbloon
+DreadbloonTagLine,From Deep Within the Dark Earth...
+DreadbloonTagLine2,the Armored Behemoth!
+DreadbloonInfoPanelDescription,"•Dreadbloon has Lead properties and reduces all incoming damage by 1.\n• When each skull is reached, Dreadbloon grows a Ceramic Armor Shell and Dreadrock Bloons will begin spawning at the start of the track.\n• When Dreadbloon appears, it is immune to Primary towers. At each skull, this immunity changes to a different tower type: Military, Magic, Support.\n• Dreadrock Bloons and the Ceramic Armor Shell also have these immunities.\n• Dreadrock Bloons have a Strong taunt, be careful what your towers are targeting!"
+DreadbloonPrimaryImmunity,Immune To: Primary
+DreadbloonMilitaryImmunity,Immune To: Military
+DreadbloonMagicImmunity,Immune To: Magic
+DreadbloonSupportImmunity,Immune To: Support
+Resist,Resist
+Immune,Immune
+SleighCaptainChurchillSkinName,Sleigh Churchill Skin
+SleighCaptainChurchillSkinDescription,"Slaying Bloons with Christmas cheer, one gift wrapped bomb at a time."
+SleighCaptainChurchillSkinNameFull,Sleigh Churchill
+GameUIProfileBanner23Name,Seasons Greetings Profile Banner
+GameUIProfileBanner23ShortName,Seasons Greetings Banner
+GameUIProfileBanner23Description,Celebrate the playfulness of the holidays this winter or all year round with this frosty fun banner. Limited Time Collector's Item!
+GameUIProfileBanner24Name,Boomerang Glaives Profile Banner
+GameUIProfileBanner24ShortName,Boomerang Glaives Banner
+GameUIProfileBanner24Description,Banner winner by ReconScoutTeemo
+GameUIProfileBanner25Name,Glyphs Profile Banner
+GameUIProfileBanner25ShortName,Glyphs Banner
+GameUIProfileBanner25Description,Banner winner by PvtMagnuS
+GameUIProfileAvatar65Name,Custom Avatar - Christmas Wreath
+GameUIProfileAvatar65ShortName,Christmas Wreath Avatar
+GameUIProfileAvatar65Description,"Spread good luck and cheer to all with this Christmas Wreath avatar. Limited Time Collector's Item!"
+GameUIProfileAvatar66Name,Custom Avatar - Avatar of Wrath
+GameUIProfileAvatar66ShortName,Avatar of Wrath Avatar
+GameUIProfileAvatar66Description,"Finally! How long did it take to get me into rotation?! Avatar is in my name, for bananas sake!"
+GameUIProfileAvatar67Name,Custom Avatar - Happy Holidays
+GameUIProfileAvatar67ShortName,Happy Holidays Avatar
+GameUIProfileAvatar67Description,"Etiennes' excitement at getting another drone for Christmas would fill anyone's heart with joy. Limited Time Collector's Item!"
+GameUIProfileAvatar68Name,Custom Avatar - Absolute Zero
+GameUIProfileAvatar68ShortName,Absolute Zero Avatar
+GameUIProfileAvatar68Description,"If looking cool is important, you can't go wrong with this Ice Monkey avatar."
+CoopEmoteAnimationSleighbellsName,Snow and Sleighbells Animation
+CoopEmoteAnimationSleighbellsShortName,Sleighbells
+CoopEmoteAnimationSleighbellsDescription,"Grab this winter wonderland of a full screen emote and spread cheer to Player 1, 2 or 4! Limited Time Collector's Item!"
+TowerProjectileBananaFarmPresentsName,Banana Farm Present Bananas
+TowerProjectileBananaFarmPresentsShortName,Banana Farm Presents
+TowerProjectileBananaFarmPresentsDescription,Nothing better than Banana Farms that grow presents! What's in the presents? Bananas of course! Limited Time Collector's Item!
+TowerProjectileDartMonkeySnowballsName,Dart Monkey Snowballs Projectile
+TowerProjectileDartMonkeySnowballsShortName,Dart Monkey Snowballs
+TowerProjectileDartMonkeySnowballsDescription,"We're not sure how they got this good growing up in the jungle, but try this projectile swap and see why Dart Monkeys always win at snowball fights. Limited Time Collector's Item!"
+TowerProjectileTackShooterIciclesName,Tack Shooter Icicles and Snowflakes Projectile
+TowerProjectileTackShooterIciclesShortName,Tack Shooter Icicles
+TowerProjectileTackShooterIciclesDescription,"If you love that Tack Shooter plus Ice Monkey combo, it'll glisten even more when tacks are icicles and blades are snowflakes. Limited Time Collector's Item!"
+TowerProjectileNinjaMonkeySnowflakesName,Ninja Monkey Snowflakes Projectile
+TowerProjectileNinjaMonkeySnowflakesShortName,Ninja Monkey Snowflakes
+TowerProjectileNinjaMonkeySnowflakesDescription,Delicate snowflake\nThrown fast from a Ninjas hand\nCutting symmetry\n\nLimited Time Collector's Item!
+BuildingPropChristmasTreeName,Christmas Tree Building
+BuildingPropChristmasTreeShortName,Christmas Tree Building
+BuildingPropChristmasTreeDescription,Change your Base into a tree!? Where will the monkeys live? Wait... nevermind.\nGet your team in a festive mood with this Christmas Tree base. [Main Building Slot]
+BasePropCosyBeanbagMonkeyName,Cozy Beanbag Monkey
+BasePropCosyBeanbagMonkeyShortName,Cozy Beanbag Monkey
+BasePropCosyBeanbagMonkeyDescription,The Beanbag. Ultimate symbol of relaxation. Includes a relaxing monkey! [Island Slot]
+TeamsBanner9Name,Delicate Snowflake Banner
+TeamsBanner9ShortName,Delicate Snowflake Banner
+TeamsBanner9Description,"The simple complexity of a snowflake is perfection, just like your team."
+TeamsBanner10Name,Roast Banana Banner
+TeamsBanner10ShortName,Roast Banana Banner
+TeamsBanner10Description,Get your team salivating with campfire roasted banana!
+TeamsEmblemFrame12Name,Bloon Frame
+TeamsEmblemFrame12ShortName,Bloon Frame
+TeamsEmblemFrame12Description,Make your Team everyone's enemy with this pitiless Bloon frame.
+TeamsEmblemFrame13Name,Military Frame
+TeamsEmblemFrame13ShortName,Military Frame
+TeamsEmblemFrame13Description,An enthusiastic Team is nothing without structure and discipline.
+TeamsEmblemIcon15Name,Crown Icon
+TeamsEmblemIcon15ShortName,Crown Icon
+TeamsEmblemIcon15Description,Support your Team's claim to the dart throne.
+TeamsEmblemIcon16Name,Alien Icon
+TeamsEmblemIcon16ShortName,Alien Icon
+TeamsEmblemIcon16Description,An icon for when your Team is out of this world!
+Achievement 146 Name,Side Quest
+Achievement 146 Description,Complete a quest
+Achievement 147 Name,Invigoration
+Achievement 147 Description,Have 75 buffs active on your Monkeys at once
+Achievement 148 Name,World League Training
+Achievement 148 Description,"Acquire 150,000 Beast Handler XP"
+CompleteQuestMessage,Complete Quest
+QuestUnlocksAtLevelXMessage,Quest Unlocks<br>Level {0}
+QuestComplete,Quest Complete!
+BeastHandlerQuestName,Epic Beast Quest
+BeastHandlerQuestReward,Unlock the Beast Handler + More!
+BeastHandlerQuest1Name,The Way of Earth
+BeastHandlerQuest1Description,Train deadly dinosaurs on Quarry
+BeastHandlerQuest1Victory,Congratulations! You completed The Way of Earth!
+BeastHandlerQuest2Name,The Way of Water
+BeastHandlerQuest2Description,Breed ferocious fish on Spice Islands
+BeastHandlerQuest2Victory,Congratulations! You completed The Way of Water!
+BeastHandlerQuest3Name,The Way of Air
+BeastHandlerQuest3Description,Hatch powerful birds on Cracked
+BeastHandlerQuest3Victory,Congratulations! You completed The Way of Air!
+DialogBeastHandlerQuest1UI1,The Beast Handlers left the village years ago on a Quest to find epic beasts and they are almost finished!
+DialogBeastHandlerQuest1UI2,"If you can help them complete their Quest, they'll return and join us in our battle against the Bloons!"
+DialogBeastHandlerQuest1InGame1,The Beast Handlers heard tales of a mysterious egg and have tamed their first epic beast!
+DialogBeastHandlerQuest1InGame2,Help them learn everything there is to know about these ravenous raptors!
+DialogBeastHandlerQuest2UI1,Amazing! The Beast Handlers work with vicious beasts as if they were pets. And they figured out how to combine and strengthen them by working together.
+DialogBeastHandlerQuest2UI2,"I don't understand the biology, but combinations are definitely more powerful. They've led the Beast Handlers to another egg."
+DialogBeastHandlerQuest2UI3,I can't wait to see what they've found!
+DialogBeastHandlerQuest3UI1,"So crafty to train such fearsome water beasts to help fight the Bloons on water, and to find hidden watery treasures, like the 3rd egg."
+DialogBeastHandlerQuest3UI2,"Once you help the Beast Handlers tame the third beast, they'll be able to join the team!"
+,
+RemoveProviderFromAccount,Are you sure you want to remove this provider from your account? <br><br><b>It can take up to 3 hours for the provider to be removed from the account</b>
+ProviderRemovedText,Provider Removed.<br><br>This page will close shortly
+AdditionalAccountLinks,Additional Account Links
+LoginWithAmazon,Login With Amazon
+LinkingCodeButton,Get a linking code
+LinkingCodeMessage,Please open the game on your other device and enter the following code when prompted. This code is valid for 10 minutes.
+Rate Expires In,Rate Expires In
+Rate,Rate
+CoopGameSyncFailed,Failed syncing game settings. Please try a new game.
+iCloudTitle,iCloud
+iCloudDisabled,iCloud Disabled
+iCloudEnabled,iCloud Enabled
+,
+DialogBeastHandlerQuest1InGameTowerUpgrade1,"Wow, that beast is so strong, it's taking TWO Beast Handlers to keep it under control!"
+Buffed,BUFFED
+Assisting,Assisting
+Select Point On Track,Select Point On Track

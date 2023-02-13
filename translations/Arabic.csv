@@ -101,326 +101,326 @@ Quincy Level 15 Description,تزيد سرعة طلقات الهجوم 4 أضعا
 Quincy Level 16 Description,زيادة سرعة الهجوم.
 Quincy Level 17 Description,الأسهم تدوم أطول 25٪ من ذي قبل. يقوم بإطلاق سهام متفجرة كل طلقة ثانية.
 Quincy Level 18 Description,يقوم كوينسي بالهجوم بشكل أسرع ويحدث تباطؤ لسرعة عاصفة الأسهم وتزيد الأسهم بنسبة 50٪.
-Quincy Level 19 Description,يحصل كل سهم على قوة تفقيع أكبر.
-Quincy Level 20 Description,هجمات كوينسي أسرع من ذي قبل. يتسبب كل سهم من عاصفة الأسهم في إنزال مزيد من الأضرار ومن ثم إطلاق المزيد من الأسهم.
+Quincy Level 19 Description,"إطلاق 3 أسهم في كل مرة، حيث يحقق كل سهم قوة فرقعة أكبر."
+Quincy Level 20 Description,قذف كرة عملاقة ذات نتوءات معدنية مسننة والتي من شأنها فرقعة بالونات الرصاص والتفوق في سحق البالونات الخزفية (السيراميكية) والبالونات المحصنة.
 ,
-StrikerJones Level 1 Description,جونز المهاجم يقوم بإطلاق قذيفة بازوكا قوية لتفجير البالونات.
-StrikerJones Level 2 Description,زيادة نصف قطر الانفجار.
-StrikerJones Level 3 Description,قذيفة ارتجاجية: إطلاق قذيفة موجهة على أكبر بالون موجود على الشاشة، مما يصيبك بالذهول.
-StrikerJones Level 4 Description,تزيد سرعة جميع قاذفات القنابل وقرود مدفع الهاون الموجودين على الشاشة بمقدار 10٪.
-StrikerJones Level 5 Description,يتسبب في تقليل مقاومة البالونات السوداء للضرر المتفجرة من جميع القرود.
-StrikerJones Level 6 Description,يزداد معدل الفرقعة في نصف قطر الانفجار والفرقعات بسبب هجمات جونز العادية إلى حدٍ كبير.
-StrikerJones Level 7 Description,تفقيع طبقتين لكل طلقة وزيادة نصف قطر التفجير لدى قرود مدفع الهاون بنسبة 10٪.
-StrikerJones Level 8 Description,يزيد مدى قاذفات القنابل بالقرب من البطل عن 5٪ وقدرة الاختراق عن 25٪.
-StrikerJones Level 9 Description,زيادة سرعة الهجوم وقدرة قذيفة الارتجاج على الاختراق وإحداث الضرر والصعق.
-StrikerJones Level 10 Description,قيادة المدفعية: إعادة ضبط فترة التهدئة لجميع قاذفات القنابل وقرود مدفع الهاون.
-StrikerJones Level 11 Description,زيادة سرعة الهجوم.
-StrikerJones Level 12 Description,زيادة طفيفة في نطاق الهجوم وفرقعة طبقة إضافية.
-StrikerJones Level 13 Description,زيادة سرعة الهجوم.
-StrikerJones Level 14 Description,تؤثر القذيفة الارتجاجية على مساحة أكبر ولمدة أطول.
-StrikerJones Level 15 Description,تم تقليل تباطؤ القذيفة الارتجاجية إلى 11 ثانية.
-StrikerJones Level 16 Description,زيادة سرعة الهجوم.
-StrikerJones Level 17 Description,زيادة المدى وفرقعة 4 طبقات لكل طلقة.
-StrikerJones Level 18 Description,تزيد سرعة هجوم جميع قاذفات القنابل وقرود مدفع الهاون بنسبة 10٪.
-StrikerJones Level 19 Description,زيادة سرعة الهجوم وتعريض جميع البالونات السوداء للضرر الانفجار.
-StrikerJones Level 20 Description,تقوم قيادة المدفعية أيضًا بإنزال أضرار مضاعفة وتفقيع لكل طلقة لجميع قاذفي القنابل وقرود مدفع الهاون لمدة 10 ثوانٍ.
+StrikerJones Level 1 Description,تنقسم الكرة المسننة العملاقة مرتين إلى 6 كرات طاغوتية لمزيد من القوة التدميرية المضادة للبالونات الخزفية (السيراميكية) والبالونات المُحصنَة.
+StrikerJones Level 2 Description,العمل على زيادة القوة الخارقة وتجميد طبقة أخرى وتمديد فترة التجميد أكثر.
+StrikerJones Level 3 Description,إطلاق قنابل ثلجية أصغر حجمًا بسرعة أكبر وعلى مدى أطول.
+StrikerJones Level 4 Description,يتميز بالقدرة على الالتصاق ببالونة أخرى في كل ضربة حيث تعمل المذيبات على إذابة طبقتين كل ثانية.
+StrikerJones Level 5 Description,وضع مركبات إسالة تؤدي إلى حدوث 10 فرقعات كل ثانية.
+StrikerJones Level 6 Description,"تعمل قذائف الهاون المتشظية على تجريد البالونة من الميزات الخاصة باستثناء أكبر البالونات، وحرق البالونات من فئة منطاد ""موآب"" لإحداث مزيد من الأضرار."
+StrikerJones Level 7 Description,"تعمل الحشوات شديدة الاحتراق على الذوبان عبر البالونات المتكونة من 5 طبقات في كل ضربة، كما تحرق البالونات من فئة منطاد ""موآب"" مع أضرار جسيمة."
+StrikerJones Level 8 Description,"أحد السادة الحقيقيين للشعوذة السحرية، حيث يهاجم بشكل أسرع ويقوم بإلحاق أضرار أكبر بكثير على البالونات من فئة منطاد ""موآب""."
+StrikerJones Level 9 Description,"قدرة مكافأة الغابة: إدرار النقد لكل عملية استخدام، زائد النقود الإضافية لكل مزرعة موز بالقرب من الكاهن، حيث يستدعي كرومتين لجذب البالونات بالإضافة إلى أكوام الشوك التي تتميز بقدرة إضافية على الاختراق."
+StrikerJones Level 10 Description,"5 أبراج للقرود، جاهزة للتمركز بدون نقود داخل اللعبة! يحتوي على 2 في المستوى 1، و2 في المستوى 2، و1 في المستوى 3، حيث تحظى القرود في كل مستوى بالفرصة نفسها للسحب."
+StrikerJones Level 11 Description,"10 أبراج جاهزة للقرود من المستوى 3، جاهزة للتمركز بدون نقود داخل اللعبة! فرصة سحب كل قرد هي نفسها."
+StrikerJones Level 12 Description,"10 أبراج جاهزة للقرود من المستوى 4، جاهزة للتمركز بدون نقود داخل اللعبة! فرصة سحب كل قرد هي نفسها."
+StrikerJones Level 13 Description,تحتوي هذه الحزمة الضخمة على 5 أبراج جاهزة للقرود من المستوى 2 و12 برجًا جاهزة للقرود من المستوى 3 و3 أبراج جاهزة للقرود من المستوى 4 للتمركز بدون نقود داخل اللعبة! حيث تحظى القرود في كل مستوى بالفرصة نفسها للسحب.
+StrikerJones Level 14 Description,"حزمة ضخمة مليئة بالأشياء الجديدة الرائعة! 25000 من أموال القرود و100 من القوة الهجومية و30 برجًا جاهزًا من أبراج القرود من المستوى 3 و15 برجًا جاهزًا من أبراج القرود من المستوى 4 و5 أبراج قرود جاهزة من المستوى 5 ومعارف مفتوحة (الرتبة 30، 5 نقاط معرفية إضافية للقرود)! حيث تحظى القرود في كل مستوى بالفرصة نفسها لأن يتم سحبهم."
+StrikerJones Level 15 Description,"10 أبراج قرود جاهزة على المستوى 5، جاهزة للتمركز بدون نقود داخل اللعبة! فرصة سحب كل قرد هي نفسها."
+StrikerJones Level 16 Description,اللغة البولندية
+StrikerJones Level 17 Description,لغة القرود
+StrikerJones Level 18 Description,تحديث 34!
+StrikerJones Level 19 Description,"التحديث الأضخم للأعياد!\n""•"" تَحكم في الوحوش البرية والبحرية والجوية باستخدام البرج الجديد، ""بديل الوحش""!\n""•"" حارب ضد المقاومة الرهيبة وحصانات بهيموث المدرعة، البالون المخيف!\n""•"" واستكشف مواضع تلميع البرج على خريطة المبتدئ الجديدة، واحد، اثنان، ثلاثة!\n""•"" فجّر البالونات بروح احتفالية مع مظهر الكابتن تشرشل الجديد، الزلاجة تشرشل!\n""•"" عناصر متجر المكافآت، وتحسين جودة الحياة، وتغييرات التوازن وغير ذلك الكثير!\n""•"" عطلات سعيدة وأطيب الأمنيات بعام جديد رائع، منا جميعًا في نينجا كيواي!"
+StrikerJones Level 20 Description,"""يمكنك إنشاء حساب شخصي دون استخدام أي معلومات تعريف شخصية. عن طريق اختيار ""أوافق""، قام والدك أو ولي أمرك بمراجعة سياسة الخصوصية وشروط الخدمة الخاصة بشركة نينجا كيواي معك، وهم يوافقون على سياسة الخصوصية وشروط الخدمة، وقدرتنا على تخزين طريقة لعبك الخاصة ومعلومات الحساب غير الشخصية الموجودة في خدمتنا، والتي تشمل استخدام الخوادم الموجودة في الولايات المتحدة الأمريكية."
 ,
-CaptainChurchill Level 1 Description,يمكن أن تنفجر القنابل الخارقة التي يتم إطلاقها من الدبابة حتى 3 مرات.
-CaptainChurchill Level 2 Description,زيادة قوة الفرقعة لكل طلقة.
-CaptainChurchill Level 3 Description,قذائف خارقة للدروع: يمكن أن تؤدي الطلقات إلى فرقعة البالونات السوداء وإلحاق أضرار إضافية بالبالونات السيراميك. تزداد المدة الزمنية بارتفاع مستويات تشرشل.
-CaptainChurchill Level 4 Description,زيادة مدى الهجوم.
-CaptainChurchill Level 5 Description,إضافة هجوم سريع بالمدفع الرشاش على الدبابة.
-CaptainChurchill Level 6 Description,المناظير تتيح لتشرشل فرقعة البالونات المموهة.
-CaptainChurchill Level 7 Description,القذائف تتسبب في إحداث مزيد من الضرر بالإضافة إلى إمكانية الانفجار بمعدل 4 مرات بدلاً من 3.
-CaptainChurchill Level 8 Description,زيادة سرعة الهجوم.
-CaptainChurchill Level 9 Description,يمكن أن تنفجر القذائف 5 مرات.
-CaptainChurchill Level 10 Description,وابل موآب: يطلق وابلًا من القذائف يصل إلى 10 بالونات من الفئة موآب على الشاشة، ويُحدث أضرارًا جسيمة في كل مرة.
-CaptainChurchill Level 11 Description,زيادة قوة الفرقعة لكل قذيفة.
-CaptainChurchill Level 12 Description,تتعرض القذائف لضرر إضافي متزايد ويمكن أن تنفجر 6 مرات.
-CaptainChurchill Level 13 Description,قذائف خارقة للدروع تنفجر من شأنها فرقعة طبقتين من البالونات والتسبب في إحداث أضرارًا إضافية للسيراميك وما فوقه
-CaptainChurchill Level 14 Description,يمكن للمدفعين الرشاش والرئيسي فرقعة طبقة واحدة أخرى في كل طلقة.
-CaptainChurchill Level 15 Description,جميع الهجمات تتسبب في إحداث ضرر إضافي ضد البالونات المحصنة.
-CaptainChurchill Level 16 Description,زيادة سرعة الهجوم.
-CaptainChurchill Level 17 Description,تتسبب القذائف الخارقة للدروع في إحداث مزيد من الضرر.
-CaptainChurchill Level 18 Description,تعمل جميع القذائف على فرقعة طبقة إضافية من البالونات.
-CaptainChurchill Level 19 Description,يمكن أن تنفجر القذائف 7 مرات.
-CaptainChurchill Level 20 Description,تتسبب قذائف وابل موآب والمدفع الرئيسي في إحداث ضرر متزايد لكل ضربة.
+CaptainChurchill Level 1 Description,ابدأ كل لعبة بمبلغ 250 نقدي إضافي (تكدس مع المزيد من النقود بشكل متجانب منتظم)
+CaptainChurchill Level 2 Description,ابدأ كل لعبة بقرد مجاني واحد تكلفته 400 دولار أو أقل للوضع الأولي غير المعدل
+CaptainChurchill Level 3 Description,"استعادة 20 من الأرواح في كل جولة حتى قيمة الحياة الأولية لكل لعبة™، إذا لم تفقد أي أرواح في تلك الجولة"
+CaptainChurchill Level 4 Description,"استعادة 10 أرواح في كل جولة إلى قيمة عمرية أكبر تبدأ من +200، إذا لم تفقد أي أرواح في تلك الجولة"
+CaptainChurchill Level 5 Description,"تؤدي جميع الهجمات إلى حدوث ضرر مضاعف (2+) إلى بالونات من فئة منطاد ""موآب"""
+CaptainChurchill Level 6 Description,تم تخفيض معدل تجديد البالونات بنسبة 50%
+CaptainChurchill Level 7 Description,انخفضت تكاليف الوضع والترقية للقرود الخبيرة وطيار المروحية والقرصان والغواص بنسبة 5% وتحسنت إعادة التحميل بنسبة 5٪
+CaptainChurchill Level 8 Description,خفض تكلفة جميع القرود الرئيسية بنسبة 8%
+CaptainChurchill Level 9 Description,خفض تكلفة جميع القرود العسكرية بنسبة 8%
+CaptainChurchill Level 10 Description,خفض تكلفة جميع القرود السحرية بنسبة 8%
+CaptainChurchill Level 11 Description,احصل على +1 لجميع أبراج القرود في العتاد الخاص بك وسيتم تخفيض سعرها الأساسي بنسبة 4%
+CaptainChurchill Level 12 Description,هل أنت متأكد من أنك تريد نقل ملكية الفريق إلى هذا العضو؟ لا يمكن التراجع عن هذه الخطوة!
+CaptainChurchill Level 13 Description,أيقونة كونغ فو كيواي
+CaptainChurchill Level 14 Description,أيقونة كونغ فو كيواي
+CaptainChurchill Level 15 Description,فاجئ خصومك بركلة طائرة من طائرك المفضل العاجز عن التحليق.
+CaptainChurchill Level 16 Description,أيقونة العين التي ترى كل الأشياء
+CaptainChurchill Level 17 Description,أيقونة العين التي ترى كل الأشياء
+CaptainChurchill Level 18 Description,جهِّز أيقونة الفريق هذه وسوف يشك خصومك في كل حركة يقررون اتخاذها.
+CaptainChurchill Level 19 Description,إطار تمرير النينجا
+CaptainChurchill Level 20 Description,إطار تمرير النينجا
 ,
-Gwendolin Level 1 Description,تفجير البالونات بنيران بندقية بايرو.
-Gwendolin Level 2 Description,زيادة طفيفة في قوة الفرقعة لكل طلقة.
-Gwendolin Level 3 Description,كوكتيل النيران: إلقاء قارورة من سائل قابل للاشتعال، وحرق البالونات التي تمر عبر النيران.
-Gwendolin Level 4 Description,مزيد من السخونة - كل بضع ثوانٍ تُطلق موجة انفجار قوية من النيران التي تفرقع البالونات وتضيف نيران إلى هجمات القرود القريبة.
-Gwendolin Level 5 Description,زيادة قوة الفرقعة. زيادة سرعة الهجوم بنسبة 10% ونصف قطر حلقة النيران، وتوهج الإشارة ونفس التنين.
-Gwendolin Level 6 Description,تتسبب الهجمات في إحداث آثار حروق مترتبة على البالون المستهدف.
-Gwendolin Level 7 Description,المزيد من التسخين يؤدي إلى زيادة نصف قطر النيران، ومن ثم تزداد فعالية كوكتيل النيران.
-Gwendolin Level 8 Description,إطلاق اثنين من دوي انفجارات النيران في كل مرة.
-Gwendolin Level 9 Description,الضربة الأولية لكل انفجار تؤدي إلى فرقعة طبقة واحدة إضافية.
-Gwendolin Level 10 Description,العاصفة النارية: إضاءة الشاشة بالكامل، ومن ثم حرق جميع البالونات وبالتالي منح درجة حرارة التسخين لجميع القرود.
-Gwendolin Level 11 Description,زيادة مدى الهجوم.
-Gwendolin Level 12 Description,زيادة سرعة الهجوم.
-Gwendolin Level 13 Description,قوة فرقعة متزايدة إلى حدٍ كبير، بالإضافة إلى تحرك المقذوفات على نحو أسرع واستمرارها لفترة أطول.
-Gwendolin Level 14 Description,يتسبب كوكتيل النيران في إحداث ضرر إضافي وإشعال النيران في البالونات من فئة موآب.
-Gwendolin Level 15 Description,زيادة سرعة الهجوم.
-Gwendolin Level 16 Description,تؤدي العاصفة النارية إلى زيادة المدة الزمنية والتسبب في إحداث المزيد من الضرر. لم تعد البالونات الأرجوانية محصنة ضد هجمات جويندولين.
-Gwendolin Level 17 Description,يعمل التسخين على تمكين القرود المتضررة من تفجير طبقة إضافية واحدة، وإحداث ضرر أكثر بمرتين على البالونات المصنوعة من الرصاص.
-Gwendolin Level 18 Description,زيادة سرعة الهجوم. زيادة سرعة الهجوم بنسبة 20% ونصف قطر حلقة النيران، وتوهج الإشارة ونفس التنين.
-Gwendolin Level 19 Description,يقوم بإطلاق 3 انفجارات نيران في كل ضربة.
-Gwendolin Level 20 Description,تتسبب العاصفة النارية في إحداث أضرار متزايدة إلى حد كبير.
+Gwendolin Level 1 Description,إطار لإظهار تفاني فريقك في ممارسة فن النينجا القديم.
+Gwendolin Level 2 Description,إطار الإدراك المعرفي
+Gwendolin Level 3 Description,إطار الإدراك المعرفي
+Gwendolin Level 4 Description,يمكنك نقل المعرفة بشأن فرقعة البالونات الفائقة لفريقك الخاص عن طريق ظهور إطار الإدراك المعرفي.
+Gwendolin Level 5 Description,قرد طاقم القراصنة
+Gwendolin Level 6 Description,قرد طاقم القراصنة
+Gwendolin Level 7 Description,عدد الأعضاء
+Gwendolin Level 8 Description,الحد الأدنى
+Gwendolin Level 9 Description,رجوع
+Gwendolin Level 10 Description,شراء أموال القرود
+Gwendolin Level 11 Description,الملف الشخصي للاعب
+Gwendolin Level 12 Description,تبديل المعلومات
+Gwendolin Level 13 Description,معلومات المتجر
+Gwendolin Level 14 Description,وضع التبديل 
+Gwendolin Level 15 Description,تم تفعيل تبديل صندوق جوك
+Gwendolin Level 16 Description,تشغيل/ إيقاف مؤقت
+Gwendolin Level 17 Description,تحريك لأعلى
+Gwendolin Level 18 Description,تحريك لأسفل
+Gwendolin Level 19 Description,شراء معرفة القرود
+Gwendolin Level 20 Description,بحث
 ,
-Benjamin Level 1 Description,اختراقات بمبلغ 100 دولار في كل جولة.
-Benjamin Level 2 Description,تحقيق 150 دولارًا لكل جولة بدلاً من 100 دولار.
-Benjamin Level 3 Description,الاختراقات الحيوية: يقوم 4 من أقرب القرود بفرقعة طبقة إضافية في كل هجوم لمدة 6 ثوانٍ، حيث يتعذر على القرود المتضررة الهجوم لمدة ثانيتين بعد انتهاء الضرر.
-Benjamin Level 4 Description,القشط - اكسب أكثر من 1 دولار عن كل بالون جديد يتم إنتاجه.
-Benjamin Level 5 Description,الاختراق البنكي - اكسب أكثر من 5٪ من الدخل.
-Benjamin Level 6 Description,الأمن السيبراني - استعادة 5 نقاط حياة في نهاية كل جولة.
-Benjamin Level 7 Description,بالونات حصان طروادة - إرسال فيروس حصان طروادة كل بضع ثوانٍ إلى البالونات عشوائيًا. البالون المتضرر لا ينتج أي أطفال عند تدميره وينتج نقودًا إضافية لكل طبقة.
-Benjamin Level 8 Description,زيادة الدخل إلى 250 دولارًا لكل جولة.
-Benjamin Level 9 Description,زيادة الاختراق البنكي إلى 12٪
-Benjamin Level 10 Description,تمويل السيفون: خفض تصنيف معظم البالونات التي تم إنتاجها حديثًا بمقدار رتبة واحدة. يتضاعف النقد لكل فرقعة من البالونات المتضررة. الاستمرار 10 ثوان.
-Benjamin Level 11 Description,زيادة الدخل إلى 300 دولار لكل جولة.
-Benjamin Level 12 Description,زيادة الكشط إلى 2 دولار لكل بالون.
-Benjamin Level 13 Description,زيادة الاختراق الحيوي من الضرر الإضافي والتأثير على 6 قرود لمدة 8 ثوانٍ.
-Benjamin Level 14 Description,يضيف الأمن السيبراني 10 أرواح في كل جولة ويمكن أن يصل إلى 100 حياة في بداية الحياة.
-Benjamin Level 15 Description,زيادة الدخل إلى 500 دولار لكل جولة.
-Benjamin Level 16 Description,إرسال بالون حصان طروادة في كثير من الأحيان وكسب المزيد من الأموال.
-Benjamin Level 17 Description,زيادة الدخل إلى 800 دولار لكل جولة.
-Benjamin Level 18 Description,يمكن أن يؤثر بالون حصان طروادة على بالونات بي إف بي و دي دي تي.
-Benjamin Level 19 Description,استمرار الاختراق الحيوي مدة 9 ثوانٍ حيث تقوم القرود المتضررة بفرقعة 3 طبقات إضافية بدلاً من 2.
-Benjamin Level 20 Description,استمرار تمويل سيفون مدة 20 ثانية، أما النقد لكل فرقعة طبيعية فيكون ثلاث مرات للبالونات المتضررة.
+Benjamin Level 1 Description,متجر تطبيقات جوجل
+Benjamin Level 2 Description,وضع الإزالة
+Benjamin Level 3 Description,وضع الإضافة
+Benjamin Level 4 Description,تبديل الوضع المصنف
+Benjamin Level 5 Description,معلومات
+Benjamin Level 6 Description,التبديل إلى القرود المسماة
+Benjamin Level 7 Description,إعادة تسمية القرد
+Benjamin Level 8 Description,التبديل إلى الميداليات
+Benjamin Level 9 Description,التبديل إلى الإعدادات
+Benjamin Level 10 Description,تحديث
+Benjamin Level 11 Description,الصفحة الأولى
+Benjamin Level 12 Description,الصفحة السابقة
+Benjamin Level 13 Description,الصفحة التالية
+Benjamin Level 14 Description,آخر صفحة
+Benjamin Level 15 Description,إعادة تعيين
+Benjamin Level 16 Description,+
+Benjamin Level 17 Description,-
+Benjamin Level 18 Description,إظهار/ إخفاء اللوحة
+Benjamin Level 19 Description,تبديل المسار الحلقي
+Benjamin Level 20 Description,المسار السابق
 ,
-PatFusty Level 1 Description,بات يضرب البالونات في الأرض.
-PatFusty Level 2 Description,زيادة نطاق الهجوم الشديد.
-PatFusty Level 3 Description,هدير صاخب: يمكن لجميع القرود القريبة فرقعة أكثر من طبقة واحدة لفترة زمنية قصيرة.
-PatFusty Level 4 Description,زيادة سرعة الهجوم.
-PatFusty Level 5 Description,أحيانًا ما يقوم بصفعة قوية تدفع البالونات بعيدًا عن المخرج.
-PatFusty Level 6 Description,البالونات التي يضربها بات تتوقف مؤقتًا لفترة زمنية قصيرة.
-PatFusty Level 7 Description,زيادة قوة الفرقعة والضرر.
-PatFusty Level 8 Description,زيادة سرعة الهجوم.
-PatFusty Level 9 Description,زيادة مدى الهجوم.
-PatFusty Level 10 Description,"ضغط كبير: الإمساك بموآب أو ""بي إف بي"" أو ""دي دي تي"" (إذا كان مرئيًا) أو ""زد أو إم جي"" وسحقها إلى أجزاء صغيرة خلال 5 ثوانٍ."
-PatFusty Level 11 Description,الهجوم يؤدي إلى فرقعة المزيد من الطبقات.
-PatFusty Level 12 Description,زيادة سرعة الهجوم.
-PatFusty Level 13 Description,يعمل الهجوم على إيقاف البالونات مؤقتًا لفترة أطول ومن الممكن أن يوقف البالونات فئة موآب مؤقتًا لفترة وجيزة.
-PatFusty Level 14 Description,الهدير الصاخب يعمل على زيادة نصف القطر والمدة الزمنية ومن زيادة ضرر القرود المحتشدة.
-PatFusty Level 15 Description,يمكن أن يؤثر هجوم الصفعة على المزيد من البالونات.
-PatFusty Level 16 Description,زيادة مدى الهجوم والضرر الإضافي للبالونات السيراميكية.
-PatFusty Level 17 Description,زيادة سرعة الهجوم.
-PatFusty Level 18 Description,زيادة قوة الفرقعة.
-PatFusty Level 19 Description,الهجوم يؤدي إلى فرقعة المزيد من الطبقات.
-PatFusty Level 20 Description,يمكن للضغط الكبير الإمساك بعدة بالونات كبيرة في وقت واحد.
+PatFusty Level 1 Description,المسار التالي
+PatFusty Level 2 Description,وضع المعلومات
+PatFusty Level 3 Description,وضع البطل
+PatFusty Level 4 Description,وضع المظهر الخارجي
+PatFusty Level 5 Description,الوضع السابق
+PatFusty Level 6 Description,الوضع التالي
+PatFusty Level 7 Description,قطع اتصال وحدة التحكم
+PatFusty Level 8 Description,مسح جميع القرود
+PatFusty Level 9 Description,مسح جميع الصلاحيات
+PatFusty Level 10 Description,صامت
+PatFusty Level 11 Description,ضع قرد نشَّاب آخر ثم اضغط على [dpad_up] للتشغيل
+PatFusty Level 12 Description,كان هذا سهلاً أليس كذلك؟ اضغط على [dpad_up] لبدء الجولة التالية
+PatFusty Level 13 Description,السرعة × 1
+PatFusty Level 14 Description,السرعة × 3
+PatFusty Level 15 Description,بناء أبراج القردة خاصتك في منطقتك الصالحة
+PatFusty Level 16 Description,القرود الجاهزة!
+PatFusty Level 17 Description,عناصر التحكم
+PatFusty Level 18 Description,إرسال جولة/ إعادة التوجيه السريع
+PatFusty Level 19 Description,إرسال جولة السباق
+PatFusty Level 20 Description,غير معيَّن
 ,
-ObynGreenfoot Level 1 Description,يرسل أرواح الذئب لمهاجمة البالونات.
-ObynGreenfoot Level 2 Description,غضب الطبيعة - جميع الدرويد/تلاميذ الكاهن الموجودين في النطاق أكثر من طلقة واحدة خارقة.
-ObynGreenfoot Level 3 Description,برامبلز: إنشاء شجيرة مسننة على المسار بإمكانها فرقعة 50 بالونة.
-ObynGreenfoot Level 4 Description,"كل 18 ثانية ينشأ طوطم من شأنه إبطاء كل بالونة بالقرب من الطوطم بنسبة 30٪. أقل فعالية مقارنة بالبالونات فئة ""موآب""."
-ObynGreenfoot Level 5 Description,زيادة سرعة الهجوم. زيادة مدى درويد/تلميذ كاهن الغابة.
-ObynGreenfoot Level 6 Description,زيادة قوة فرقعة البالونات وسرعة القذائف التي تتحرك.
-ObynGreenfoot Level 7 Description,يمكن للبرامبلز فرقعة 100 بالونة.
-ObynGreenfoot Level 8 Description,تعمل طواطم جناح الطبيعة على إبطاء البالونات بنسبة 40٪.
-ObynGreenfoot Level 9 Description,يؤدي الهجوم إلى فرقعة طبقات إضافية. درويد العاصفة لها عواصف أكبر تتسبب في المزيد من الضرر للموآب.
-ObynGreenfoot Level 10 Description,حائط شجري: استدعاء حائط من الأشجار عبر المسار والذي من شأنه تدمير جميع البالونات التي تعبر. عند امتلاء المسار بالأشجار، تنفجر متحولة إلى أموال.
-ObynGreenfoot Level 11 Description,وضوح الطبيعة - تحصل جميع القرود السحرية الموجودة في النطاق على نطاق + 5 وأكثر من طلقتين خارقتين، كما يحصل قرود درويد على +1 طلقة خارقة.
-ObynGreenfoot Level 12 Description,زيادة سرعة الهجوم وتقليل فترات الهدوء للقردة السحرية بنسبة 5٪.
-ObynGreenfoot Level 13 Description,زيادة قوة الفرقعة وسرعة القذيفة.
-ObynGreenfoot Level 14 Description,يؤدي الهجوم إلى فرقعة طبقات إضافية.
-ObynGreenfoot Level 15 Description,"يعمل ""جناح الطبيعة"" على إبطاء البالونات بنسبة 60٪، والتقليل من فترة الإبطاء."
-ObynGreenfoot Level 16 Description,تعمل برامبلز على فرقعة 500 بالونة مرة واحدة ومن الممكن أن تتسبب في إلحاق الضرر بجميع أنواع البالونات.
-ObynGreenfoot Level 17 Description,زيادة سرعة الهجوم.
-ObynGreenfoot Level 18 Description,غضب على مستوى أعلى - تبدأ جميع فرقعات كاهن الغضب كل جولة عند 200.
-ObynGreenfoot Level 19 Description,يؤدي الهجوم إلى فرقعة طبقات إضافية.
-ObynGreenfoot Level 20 Description,يمكن للحائط الشجري استيعاب الكثير من البالونات.
+ObynGreenfoot Level 1 Description,غير معيَّن
+ObynGreenfoot Level 2 Description,مؤشر مجاني
+ObynGreenfoot Level 3 Description,تموضع سريع
+ObynGreenfoot Level 4 Description,تمرير
+ObynGreenfoot Level 5 Description,إظهار/ إخفاء اللوحة
+ObynGreenfoot Level 6 Description,غير معيَّن
+ObynGreenfoot Level 7 Description,توقف مؤقتًا
+ObynGreenfoot Level 8 Description,علامة التبويب السابقة
+ObynGreenfoot Level 9 Description,علامة التبويب التالية
+ObynGreenfoot Level 10 Description,"تعيين المستوى الدقيق، مفاتيح الاختصار الخاصة بالقدرة"
+ObynGreenfoot Level 11 Description,مفاتيح الاختصار الخاصة بالقدرة
+ObynGreenfoot Level 12 Description,غير معيَّن
+ObynGreenfoot Level 13 Description,تأكيد
+ObynGreenfoot Level 14 Description,إلغاء
+ObynGreenfoot Level 15 Description,غير معيَّن
+ObynGreenfoot Level 16 Description,علامة التبويب التبديل 
+ObynGreenfoot Level 17 Description,تحديث البيانات
+ObynGreenfoot Level 18 Description,علامة التبويب السابقة
+ObynGreenfoot Level 19 Description,علامة التبويب التالية
+ObynGreenfoot Level 20 Description,جاهز
 ,
-Ezili Level 1 Description,إيزيلي يلعن البالونات بقوة الشعوذة المظلمة.
-Ezili Level 2 Description,زيادة نطاق الهجوم.
-Ezili Level 3 Description,مُوقِف القلب: إبطاء البالونات، والسماح بفرقعة البالونات الوردية ومنع حدوث أي إعادة نمو لمدة 10 ثوانٍ.
-Ezili Level 4 Description,يؤدي الهجوم الرئيسي لإيزيلي الآن إلى إلحاق اللعنات بالكثير من البالونات.
-Ezili Level 5 Description,زيادة سرعة الهجوم.
-Ezili Level 6 Description,استمرار الضرر مع مرور الوقت لفترة أطول والتلف بوتيرة أسرع.
-Ezili Level 7 Description,الطوطم القرباني: طوطم من شأنه منح القرود القريبة وخصوصًا القرد الساحر القدرة على الكشف عن البالونات المموهة، وقدرة أكبر على الاختراق، وزيادة نطاق الهجوم وسرعته، وزيادة سرعة المقذوف. استنزاف 10 أرواح.
-Ezili Level 8 Description,"يتسبب هجوم إيزيلي في إلحاق ضرر أكبر بكثير من البالونات من فئة منطاد ""موآب""."
-Ezili Level 9 Description,"هجوم إيزيلي يعمل على تمزيق المباني المموهة والتي أعيد إنمائها والمحصنة من البالونات من فئة غير تابعة لمنطاد ""موآب""."
-Ezili Level 10 Description,"موآب هيكس: يلقي لعنة على بالون من فئة منطاد ""موآب""، ويأخذ في التلف كل ثانية حتى يتم القضاء عليها."
-Ezili Level 11 Description,Increased attack range. زيادة قدرة الاختراق لدى البالونات التي أعيد تنشيطها بنسبة 50٪.
-Ezili Level 12 Description,"يعمل هارتستوبر على التقليل من فترة التباطؤ وزيادة المدة الزمنية. زيادة الضرر الذي يلحق بمناطيد ""موآب""."
-Ezili Level 13 Description,هجوم قاعدي بنصف قطر رشاش أكبر وقدرة اختراق متزايدة.
-Ezili Level 14 Description,ضرر أسرع مع مرور الوقت.
-Ezili Level 15 Description,زيادة المدى. استمرار الضرر بمرور الوقت لفترة أطول.
-Ezili Level 16 Description,استمرار الطوطم القرباني لفترة أطول ولا تتجاوز التكلفة سوى حياة واحدة فقط.
-Ezili Level 17 Description,هجوم قاعدي بنصف قطر رشاش أكبر وقدرة اختراق متزايدة.
-Ezili Level 18 Description,زيادة سرعة الهجوم.
-Ezili Level 19 Description,كل علامة ضرر من الهجوم القاعدي يعمل على فرقعة 3 طبقات!
-Ezili Level 20 Description,"يعمل موآب هيكس بشكل أسرع ويمكنه تدمير بالونات منطاد ""باد""."
+Ezili Level 1 Description,أصدقاء
+Ezili Level 2 Description,الحد الأدنى من الجولات
+Ezili Level 3 Description,الحد الأقصى من الجولات
+Ezili Level 4 Description,أقصى عدد للقرود
+Ezili Level 5 Description,إضافة/ إزالة تبديل
+Ezili Level 6 Description,تبديل التحديد/ التعديل
+Ezili Level 7 Description,مموه
+Ezili Level 8 Description,لعب تعاوني
+Ezili Level 9 Description,هدية
+Ezili Level 10 Description,رمز تعبيري
+Ezili Level 11 Description,تعيين هدف
+Ezili Level 12 Description,العودة إلى المجموعات
+Ezili Level 13 Description,اتبع المؤشر
+Ezili Level 14 Description,تبديل فواصل الخريطة
+Ezili Level 15 Description,إرسال
+Ezili Level 16 Description,ترقية
+Ezili Level 17 Description,الترقية التالية
+Ezili Level 18 Description,الترقية الحالية
+Ezili Level 19 Description,مُقفِل
+Ezili Level 20 Description,اطلب إسقاط تجربة لعب برايم خاصتك
 ,
-//Hero Ability Names,
-Rapid Shot Ability,طلقة سريعة
-Storm of Arrows Ability,عاصفة الأسهم
-Concussive Shell Ability,قذيفة ارتجاجية
-Artillery Command Ability,قيادة سلاح المدفعية
-Armor Piercing Shells Ability,قذائف خارقة للدروع
-MOAB Barrage Ability,"وابل من منطاد ""مواب"""
-Cocktail of Fire Ability,كوكتيل النيران
-Firestorm Ability,العاصفة النارية:
-Biohack Ability,اختراق حيوي
-Syphon Funding Ability,تمويل السيفون
-Rallying Roar Ability,هدير صاخب
-Big Squeeze Ability,ضغط كبير
-Brambles Ability,برامبلز
-Wall of Trees Ability,حائط شجري
+//Hero Ability Names,احصل عليه الآن
+Rapid Shot Ability,زنزانات مظلمة
+Storm of Arrows Ability,واحد اثنان ثلاثة
+Concussive Shell Ability,مروض الوحوش
+Artillery Command Ability,مروضو الوحوش
+Armor Piercing Shells Ability,"يمكنه تدريب الوحوش الخطرة الموجودة على البر وفي الماء والهواء. فبدلاً من إنشاء المزيد من الوحوش، يستطيع المروضون المتعددون معًا زيادة قوة الوحوش الموجودة فعليًا."
+MOAB Barrage Ability,قرد الدعم
+Cocktail of Fire Ability,بيرانا
+Firestorm Ability,ميكرورابتور
+Biohack Ability,الشاهين البحري
+Syphon Funding Ability,العُقام
+Rallying Roar Ability,أداصور
+Big Squeeze Ability,بومة سنّورية
+Brambles Ability,القرش الابيض العظيم
+Wall of Trees Ability,فيلوسيرابتور
 ,
-//Hero Ability Descriptions,
-Rapid Shot Ability Description,سرعة هجوم مضاعفة ثلاث مرات لفترة زمنية قصيرة.
-Storm of Arrows Ability Description,تغطي الأسهم مساحة كبيرة في أمطار قاتلة من السهام.
-Concussive Shell Ability Description,إطلاق قذيفة موجهة على أكبر بالون موجود على الشاشة، مما يصيبك بالذهول.
-Artillery Command Ability Description,إعادة ضبط فترة التهدئة لجميع قاذفات القنابل وقرود مدفع الهاون.
-Armor Piercing Shells Ability Description,يمكن أن تؤدي الطلقات إلى فرقعة البالونات السوداء وإلحاق أضرار إضافية بالبالونات السيراميك. تزداد المدة الزمنية بارتفاع مستويات تشرشل.
-MOAB Barrage Ability Description,يطلق وابلًا من القذائف يصل إلى 10 بالونات من الفئة موآب على الشاشة، ويُحدث أضرارًا جسيمة في كل مرة.
-Cocktail of Fire Ability Description,إلقاء قارورة من سائل قابل للاشتعال، وحرق البالونات التي تمر عبر النيران.
-Firestorm Ability Description,إضاءة الشاشة بالكامل، ومن ثم حرق جميع البالونات وبالتالي منح درجة حرارة التسخين لجميع القرود.
-Biohack Ability Description,يقوم 4 من أقرب القرود بفرقعة طبقة إضافية في كل هجوم لمدة 6 ثوانٍ، حيث يتعذر على القرود المتضررة الهجوم لمدة ثانيتين بعد انتهاء الضرر.
-Syphon Funding Ability Description,خفض تصنيف معظم البالونات التي تم إنتاجها حديثًا بمقدار رتبة واحدة. يتضاعف النقد لكل فرقعة من البالونات المتضررة. الاستمرار 10 ثوان.
-Rallying Roar Ability Description,يمكن لجميع القرود القريبة فرقعة أكثر من طبقة واحدة لفترة زمنية قصيرة.
-Big Squeeze Ability Description,"الإمساك بموآب أو ""بي إف بي"" أو ""دي دي تي"" (إذا كان مرئيًا) أو ""زد أو إم جي"" وسحقها إلى أجزاء صغيرة خلال 5 ثوانٍ."
-Brambles Ability Description,إنشاء شجيرة مسننة على المسار بإمكانها فرقعة 50 بالونة.
-Wall of Trees Ability Description,استدعاء حائط من الأشجار عبر المسار والذي من شأنه تدمير جميع البالونات التي تعبر. عند امتلاء المسار بالأشجار، تنفجر متحولة إلى أموال.
-Heartstopper Ability Description,إبطاء البالونات، والسماح بفرقعة البالونات الوردية ومنع حدوث أي إعادة نمو لمدة 10 ثوانٍ.
-Sacrificial Totem Ability Description,طوطم من شأنه منح القرود القريبة وخصوصًا القرد الساحر القدرة على الكشف عن البالونات المموهة، وقدرة أكبر على الاختراق، وزيادة نطاق الهجوم وسرعته، وزيادة سرعة المقذوف. استنزاف 10 أرواح.
-MOAB Hex Ability Description,"إلقاء لعنة على بالونات من طراز منطاد ""موآب""، فإنه يأخذ الضرر كل ثانية لحين القضاء عليه."
+//Hero Ability Descriptions,الصقر الذهبي
+Rapid Shot Ability Description,حوت الأوركا
+Storm of Arrows Ability Description,تيرانوصور ريكس
+Concussive Shell Ability Description,طائر الكوندور العملاق
+Artillery Command Ability Description,ميغالودون
+Armor Piercing Shells Ability Description,جيجانوتوصور
+MOAB Barrage Ability Description,بواكاي
+Cocktail of Fire Ability Description,اطلب من سمكة صغيرة ولكنها مشاكسة أن تقفز من الماء في البالونات.
+Firestorm Ability Description,"يمكنك الاستمتاع بقيادة الديناصور الصغير ذي المخالب الحادة. بفضل هذه الترقية، يمكنك تطويرها بمزيد من مروضي الوحوش."
+Biohack Ability Description,يمكنك قيادة أحد الطيور الجارحة النبيلة الصغيرة الذي بإمكانه انتزاع وتحريك البالونات بمخالبه.
+Syphon Funding Ability Description,"يمكن لأسنان العُقام الحادة فرقعة الطبقات المتعددة للبالونات، حيث يتطلب مروض وحوش واحد آخر على الأقل للوحش مع ترقيات البيرانا. بحد أقصى 4 مروضي وحوش مساهمة"
+Rallying Roar Ability Description,"تتسبب أسنان أداصور الحادة في إلحاق أضرار بالغة قصيرة المدى، حيث يتطلب ما لا يقل عن مروض واحد آخر للوحش مع ترقيات ميكرورابتور. بحد أقصى 4 مروضي وحوش مساهمة"
+Big Squeeze Ability Description,"تتميز البومة القرناء بأنها قوية بما يكفي لجذب وفرقعة بالونات الرصاص والبالونات الخزفية (السيراميكية)، كما تتميز بعيون ثاقبة قادرة على اكتشاف البالونات المموهة."
+Brambles Ability Description,"ستقوم أسماك القرش الأبيض العظيم بسحق البالونات، بما في ذلك بالونات الرصاص بين فكيه، وسحبها مرة أخرى إلى الماء عند اللزوم، حيث يتطلب 2 على الأقل من مروضي الوحوش الأخرى مع ترقيات العُقام. بحد أقصى 4 مروضي وحوش مساهمة"
+Wall of Trees Ability Description,"يعمل فيلوسيرابتور على تقطيع البالونات وتشريحها بسرعة مفرطة، حيث يتطلب ما لا يقل عن 2 من مروضي الوحوش الأخرى مع ترقيات أداصور. بحد أقصى 4 مروضي وحوش مساهمة."
+Heartstopper Ability Description,لديه خبرة في الاستيلاء على أعداد كبيرة من البالونات دفعة واحدة. الصقر الذهبي كبير جدًا لدرجة حيث أنه يتطلب على الأقل 2 من مروضي الوحوش الأخرى مع ترقيات البومة القرناء. بحد أقصى 4 مروضي وحوش مساهمة.
+Sacrificial Totem Ability Description,"يمكن لفم حوت الأوركا الضخم الإمساك بجميع البالونات الضخمة ما عدا أكبرها في الأعماق، حيث يتطلب ما لا يقل عن 3 من مروضي الوحوش الأخرى مع ترقيات أسماك القرش الأبيض. بحد أقصى 4 من مروضي الوحوش المساهمة."
+MOAB Hex Ability Description,"يتسبب الفك الضخم للتيرانوصور ريكس وأسنانه الحادة في إلحاق قدر كبير من الضرر مع كل عضة، حيث يتطلب ما لا يقل عن 3 من مروضي الوحوش الأخرى مع ترقيات فيلوسيرابتور. بحد أقصى 4 من مروضي الوحوش المساهمة. قدرة تي ريكس على السحق: صعق جميع البالونات حتى منطاد زومجينيتور في منطقة واسعة النطاق."
 ,
-//Hero Misc,
-Level,المستوى
+//Hero Misc,"يمكن للمخالب الضخمة لحيوان الكوندور العملاق المخيف الإمساك بالبالونات من فئة منطاد ""موآب""، حيث يتطلب على الأقل 3 من مروضي الوحوش الأخرى مع ترقيات الصقر الذهبي. بحد أقصى 4 من مروضي الوحوش المساهمة."
+Level,سمكة قرش عملاقة حقًا بحاسة تذوق للبالونات تتطلب على الأقل 4 من مروضي الوحوش الأخرى مع ترقيات حوت الأوركا. بحد أقصى 8 من مروضي الوحوش المساهمة.
 ,
-//Upgrade Names,
-Sharp Shots,طلقات حادة
-Quick Shots,طلقات سريعة
-Long Range Darts,تصويبات طويلة المدى
-Razor Sharp Shots,طلقات حلاقة حادة
-Very Quick Shots,طلقات سريعة جدًا
-Enhanced Eyesight,منظار مُحسَّن
-Spike-o-pult,سبايك أو بولت
-Triple Shot,ضربة ثلاثية
-Crossbow,النشَّاب
-Juggernaut,الطاغوت
-Super Monkey Fan Club,نادي المعجبين بالقرد الخارق
-Sharp Shooter,قناص
-Ultra-Juggernaut,الطاغوت الفائق
-Plasma Monkey Fan Club,نادي المعجبين بقرد البلازما
-Crossbow Master,سيد النشابين
+//Upgrade Names,"أكبر الديناصورات وأكثرها شراسة على الإطلاق، يمكن لديناصور الجيجانوتوصور تمزيق أي بالون تقريبًا على الفور بمنتهى السهولة، حيث يتطلب ما لا يقل عن 4 من مروضي الوحوش الأخرى مع ترقيات تيرانوصور ريكس. بحد أقصى 8 من مروضي الوحوش المساهمة. تتسبب هذه القدرة في صعق جميع البالونات حتى منطاد ""زومجينيتور"" في جميع الأماكن لفترة أطول."
+Sharp Shots,"طائر بواكاي الأسطوري، هو طائر عملاق للغاية بحيث يمكنه التقاط أي عدد تقريبًا من البالونات مهما كان حجمها وحملها وتدميرها، حيث يتطلب 4 على الأقل من مروضي الوحوش الأخرى مع ترقيات كوندور العملاق. بحد أقصى 8 من مروضي الوحوش المساهمة."
+Quick Shots,قدرة تي ريكس على السحق
+Long Range Darts,يتميز بقدرته على صعق جميع البالونات الموجودة في منطقة واسعة النطاق.
+Razor Sharp Shots,قدرة الجيجانوتوصور على السحق
+Very Quick Shots,يتميز بقدرته على صعق جميع البالونات الموجودة في جميع الأماكن حتى منطاد الزومجينيتور لفترة أطول.
+Enhanced Eyesight,تحرك
+Spike-o-pult,يتطلب الوحش: {0}
+Triple Shot,في حاجة للماء
+Crossbow,في حاجة للمسار
+Juggernaut,البالون المخيف
+Super Monkey Fan Club,من أعماق الأرض المظلمة...
+Sharp Shooter,البهيموث المدرع!
+Ultra-Juggernaut,"\n• يتميز البالون المخيف بأن له ميزات مادة الرصاص ويعمل على التقليل من جميع الأضرار الواردة بمقدار 1.\n• عند وصول أي جمجمة، ينمو  لدى البالون المخيف درع صدفي سيراميكي وستبدأ البالونات الصخرية المخيفة الموجودة في بداية المسار بالتكاثر.\n• عندما يظهر البالون المخيف، يتضح معه أنه مُحصن ضد الأبراج الأساسية. في كل جمجمة، تتغير نوع الحصانة بتغير نوع البرج: البالونات العسكرية، والبالونات السحرية، بالونات الدعم.\n• تحظى البالونات الصخرية المخيفة أيضًا بهذه الحصانات.\n• تحظى البالونات الصخرية المخيفة بقوة على السخرية والتهكم، لذا كن حذرًا مما تستهدفه أبراجك!"
+Plasma Monkey Fan Club,محصن ضد: الأبراج الأساسية
+Crossbow Master,محصن ضد: الأبراج العسكرية
 ,
-Improved Rangs,خشبات مرتدة متطورة
-Faster Throwing,سرعة الرمي
-Long Range Rangs,خشبات مرتدة بعيدة المدى
-Glaives,قواطع حادة
-Faster Rangs,خشبات مرتدة أسرع
-Red Hot Rangs,ريد هات رانجز
-Glaive Ricochet,جلايف ريكوشيت
-Bionc Boomerang,بيونيك بوميرانج
-Kylie Boomerang,كايلي بوميرانج
-M.O.A.R Glaives,موور جلايفيز
-Turbo Charge,تيربو تشارج
-MOAB Press,ضغط موب
-Glaive Lord,سيد الجلايف
-Perma Charge,بيرما تشارج
-MOAB Domination,سيطرة موب
+Improved Rangs,محصن ضد: الأبراج السحرية
+Faster Throwing,محصن ضد: أبراج الدعم
+Long Range Rangs,مقاوم
+Glaives,محصن
+Faster Rangs,مظهر تشيرشل الزلاجة
+Red Hot Rangs,"تفجير البالونات بهتاف عيد الميلاد المجيد، وبقنبلة واحدة ملفوفة لفة فاخرة في كل مرة."
+Glaive Ricochet,تشيرشل الزلاجة
+Bionc Boomerang,لافتة تعريفية بتحيات فصول السنة
+Kylie Boomerang,لافتة مزينة بتحيات فصول السنة
+M.O.A.R Glaives,احتفل بمرح الأعياد هذا الشتاء أو طوال السنة مع لافتة المرح المتجمدة هذه. عنصر مُحصِّل لوقت محدود!
+Turbo Charge,لافتة تعريفية بقواطع حادة للخشبة المرتدة
+MOAB Press,لافتة قواطع حادة للخشبة المرتدة
+Glaive Lord,الفائز باللافتة من ريكونسكاوت تيمو
+Perma Charge,لافتة تعريفية بصورة رمزية
+MOAB Domination,لافتة بصور رمزية
 ,
-Bigger Bombs,بيجر بومز
-Faster Reload,إعادة تحميل أسرع
-Extra Range,مدى إضافي
-Heavy Bombs,قنابل ثقيلة
-Missile Launcher,قاذفة الصواريخ
-Frag Bombs,قنابل متشظية
-Really Big Bombs,قنابل كبيرة حقًا
-MOAB Mauler,"صاروخ المطرقة لمنطاد ""موآب"""
-Cluster Bombs,قنابل عنقودية
-Bloon Impact,تأثير البالونات
-MOAB Assassin,قاتل موآب المأجور
-Recursive Cluster,الكتلة المتكررة
-Bloon Crush,تحطيم البالونات
-MOAB Eliminator,"مزيل منطاد ""موآب"""
-Bomb Blitz,قنبلة مداهمات
+Bigger Bombs,الفائز باللافتة من الجندي ماجنوس
+Faster Reload,أفاتار مخصص - إكليل عيد الميلاد المجيد
+Extra Range,أفاترا بإكليل عيد الميلاد المجيد
+Heavy Bombs,"""انشر الحظ السعيد وابتهج للجميع مع الأفاتار المزين بإكليل عيد الميلاد المجيد. عنصر مُحصِّل لوقت محدود!"""
+Missile Launcher,أفاتار مخصص - أفاتار الغضب
+Frag Bombs,الصورة الرمزية لأفاتار الغضب
+Really Big Bombs,"أخيراً! ما هي طول المدة المستغرقة لأخذ دوري؟! أفاتار باسمي أنا، من أجل الموز!"
+MOAB Mauler,أفاتار مخصص - للإجازات سعيدة
+Cluster Bombs,أفاتار بالإجازات السعيدة
+Bloon Impact,"""حماس إتيان للحصول على طائرة مسيرة أخرى لعيد الميلاد المجيد سوف يملأ قلب أي شخص بالفرح والسرور. عنصر مُحصِّل لوقت محدود!"""
+MOAB Assassin,أفاتار مخصص - صفر مطلق
+Recursive Cluster,أفاتار على هيئة صفر مطلق
+Bloon Crush,"إذا كان المظهر الرائع يبدو أمرًا مهمًا، فستكون الصورة الرمزية للقرد الثلجي هي الخيار المناسب."
+MOAB Eliminator,الرسوم المتحركة للثلج وأجراس الزلاجات
+Bomb Blitz,أجراس الزلاجة
 ,
-Faster Shooting,إطلاق بسرعة أكبر
-Long Range Tacks,تصويبات طويلة المدى
-More Tacks,مزيد من المسامير
-Even Faster Shooting,إطلاق بسرعة أكبر
-Super Range Tacks,مسامير فائقة المدى
-Even More Tacks,مزيد من المسامير
-Hot Shots,طلقات قاتلة
-Blade Shooter,قاذف الشفرات
-Tack Sprayer,قاذف المسامير
-Ring of Fire,الحزام الناري
-Blade Maelstrom,دوامة الشفرات
-Overdrive,أوفردرايف
-Inferno Ring,حلقة الجحيم
-Super Maelstrom,الدوامة الفائقة
-The Tack Zone,منطقة المسامير
+Faster Shooting,احصل على أرض العجائب الشتوية هذه واملأ بها الشاشة وانشر البهجة للاعب 1 أو 2 أو 4! عنصر مُحصِّل لوقت محدود!
+Long Range Tacks,مزرعة الموز توزع الموز
+More Tacks,هدايا مزرعة الموز
+Even Faster Shooting,لا شيء أفضل من مزارع الموز التي تزرع الهدايا! ما الذي يوجد في الهدايا؟ الموز بالطبع! عنصر مُحصِّل لوقت محدود!
+Super Range Tacks,مقذوف كرات الثلج للقرد النشَّاب
+Even More Tacks,الكرات الثلجية الخاصة بالقرد النشَّاب
+Hot Shots,"لسنا متأكدين من التنشئة الاجتماعية الجيدة في الغابة، لكن جرب تبادل هذا المقذوف ونرى سبب فوز القرود النشَّابة دائمًا في معارك الكرات الثلجية. عنصر مُحصِّل لوقت محدود!"
+Blade Shooter,نتوءات جليدية ومقذوف الندفات الثلجية لقاذف الأشواك
+Tack Sprayer,نتوءات جليدية لقاذف الأشواك
+Ring of Fire,"إذا كنت تحب مجموعة قاذف الأشواك بالإضافة إلى القرد الثلجي، فسوف تتألق وتلمع أكثر عندما تكون الأشواك عبارة عن نتوءات ثلجية والشفرات عبارة عن ندفات ثلجية. عنصر مُحصِّل لوقت محدود!"
+Blade Maelstrom,مقذوف الندفة الثلجية لقرد النينجا
+Overdrive,الندفات الثلجية الخاصة بقرد النينجا
+Inferno Ring,بلورة ثلج رقيقة\nأطلقها النينجا بسرعة\nصنعت أشكال دقيقة\n\n عنصر مُحصّل لوقت محدود!
+Super Maelstrom,بناء شجرة عيد الميلاد المجيد
+The Tack Zone,بناء شجرة عيد الميلاد المجيد
 ,
-Permafrost,تجميد دائم
-Enhanced Freeze,تجميد مُحسَن
-Larger Radius,نصف قطر أكبر
-Metal Freeze,فرقعة باردة
-Deep Freeze,تجميد عميق
-Re-Freeze,إعادة تجميد
-Ice Shards,شظايا الثلج
-Arctic Wind,ريح قطبية شمالية
-Cryo Cannon,مدفع كرايو
-Embrittlement,قصافة
-Snowstorm,عاصفة جليدية
-Icicles,تجميد جليدي
-Super Brittle,سوبر بريتل
-Absolute Zero,أبسلوت زيرو
-Icicle Impale,طوق جليدي
+Permafrost,"هل تريد تغيير قاعدتك إلى شجرة!؟ اين ستعيش القرود؟ انتظر... لا عليك.\n بفضل قاعدة شجرة عيد الميلاد المجيد هذه، يمكنك جعل فريقك في مزاج احتفالي. [فتحة المبنى الرئيسي]"
+Enhanced Freeze,قرد الكيس القماشي المريح
+Larger Radius,قرد الكيس القماشي المريح
+Metal Freeze,كيس قماشي. الرمز المطلق للاسترخاء. يضم قرد الاسترخاء! [فتحة الجزيرة]
+Deep Freeze,لافتة ندفة الثلج الرقيقة
+Re-Freeze,لافتة ندفة الثلج الرقيقة
+Ice Shards,"التعقيد البسيط لندفة الثلج هو الكمال، تمامًا مثل فريقك."
+Arctic Wind,لافتة موز محمص
+Cryo Cannon,لافتة موز محمص
+Embrittlement,اجعل لعاب فريقك يسيل مع الموز المحمص على نار المخيم!
+Snowstorm,إطار بالون
+Icicles,إطار بالون
+Super Brittle,اجعل فريقك عدوًا للجميع مع إطار البالونات عديم الرحمة.
+Absolute Zero,الإطار العسكري
+Icicle Impale,الإطار العسكري
 ,
-Glue Soak,جلو سوك
-Bigger Globs,بيجر جلوبس
-Stickier Glue,غراء أكثر إلصاقًا
-Corrosive Glue,غراء آكالة
-Glue Splatter,رشاش الغراء
-Stronger Glue,غراء أقوى
-Bloon Dissolver,مذوِّب البالونات
-Glue Hose,خرطوم الغراء
-MOAB Glue,الغراء موآب
-Bloon Liquefier,مسيِّل البالونات
-Glue Strike,ضربة غراء
-Relentless Glue,صمغ عنيد
-The Bloon Solver,حلَّال مشاكل البالونات
-Glue Storm,عاصفة الغراء
-Super Glue,الغراء الفائق
+Glue Soak,الفريق المتحمس لا يساوي شيء بدون نظام وانضباط.
+Bigger Globs,أيقونة التاج
+Stickier Glue,أيقونة التاج
+Corrosive Glue,ادعم مطالبة فريقك بعرش السهام.
+Glue Splatter,أيقونة رجل الفضاء
+Stronger Glue,أيقونة رجل الفضاء
+Bloon Dissolver,أيقونة لفريقك عندما يكون خارج هذا العالم!
+Glue Hose,مهمة جانبية
+MOAB Glue,إنجاز المهمة
+Bloon Liquefier,تنشيط
+Glue Strike,احصل على 75 هاوٍ نشط على قرود دفعة واحدة
+Relentless Glue,التدريب على بطولة العالم
+The Bloon Solver,"احصل على 150,000 من خبرة مروضي الوحوش"
+Glue Storm,الانتهاء من المهمة
+Super Glue,تفتح المهمة <br> عند المستوى {0}
 ,
-Full Metal Jacket,سترة معدنية بالكامل
-Night Vision Goggles,نظارات الرؤية الليلية
-Fast Firing,إطلاق سريع
-Large Calibre,عيار كبير
-Shrapnel Shot,طلقة متشظية
-Even Faster Firing,إطلاق نار أسرع
-Deadly Precision,الدقة القاتلة
-Bouncing Bullet,رصاصة مرتدة
-Semi-Automatic,نصف - آلي
-Maim MOAB,"مشوه منطاد ""موآب"""
-Supply Drop,تراجع الإمداد
-Full Auto Rifle,بندقية آلية كاملة
-Cripple MOAB,"إعاقة منطاد ""موآب"""
-Elite Sniper,قناص النخبة
-Elite Defender,مدافع النخبة
+Full Metal Jacket,انتهت المهمة!
+Night Vision Goggles,المهمة الملحمية للوحش
+Fast Firing,افتح مروض وحوش + المزيد!
+Large Calibre,طريق الأرض
+Shrapnel Shot,تدريب الديناصورات القاتلة على المحجر
+Even Faster Firing,تهانينا! لقد أكملت طريق الأرض!
+Deadly Precision,طريق الماء
+Bouncing Bullet,تكاثر الأسماك الشرسة على جزر البهار
+Semi-Automatic,تهانينا! لقد انتهيت من طريق الماء!
+Maim MOAB,طريق الهواء
+Supply Drop,الطيور القوية تفقس بتصديع قشور بيضها
+Full Auto Rifle,تهانينا! لقد أكملت طريق الهواء!
+Cripple MOAB,غادر مروضو الوحوش القرية منذ سنوات في مهمة للعثور على وحوش ملحمية وهم الآن على وشك الانتهاء من هذه المهمة!
+Elite Sniper,"إذا كان بإمكانك مساعدتهم في إنجاز مهمتهم، فسوف يعودون وينضمون إلينا في معركتنا ضد البالونات!"
+Elite Defender,نما إلى علم مروضو الوحوش حكايات عن بيضة غامضة ومن ثم قاموا بترويض أول وحش ملحمي!
 ,
-Longer Range,مدى أطول
-Barbed Darts,السهام الشائكة
-Twin Guns,البنادق التوأم
-Advanced Intel,مخابرات متقدمة
-Heat-tipped Darts,السهام ذات الرؤوس الحرارية
-Airburst Darts,سهام أيربيرست
-Submerge and Support,الغمر والدعم
-Ballistic Missile,صاروخ باليستي
-Triple Guns,البنادق الثلاثية
-Bloontonium Reactor,مفاعل بلونتونيوم
-First Strike Capability,القدرة على الضربة الأولى
-Armor Piercing Darts,سهام خارقة للدروع
-Energizer,مُنشط
-Pre-emptive Strike,غارة استباقية
-Sub Commander,قائد الغواصة
+Longer Range,فساعدهم على تعلم كل ما يمكن معرفته عن هذه الطيور الجارحة المفترسة!
+Barbed Darts,مدهش! إن مروضي الوحوش يعملون مع وحوش شريرة كما لو كانت حيوانات أليفة. وقد توصلوا إلى كيفية دمجها وتقويتها عن طريق العمل معًا.
+Twin Guns,"أنا لا أفهم في علم الأحياء، لكن دمج المجموعات أقوى بالتأكيد. حيث قاموا بتوجيه مروضي الوحوش إلى بيضة أخرى."
+Advanced Intel,لا أطيق الانتظار لرؤية ما عثروا عليه!
+Heat-tipped Darts,"يا لك من بارع لتدريب مثل هذه الوحوش المائية المخيفة للمساعدة في محاربة البالونات في الماء، والعثور على كنوز مائية مخفية، مثل البيضة الثالثة."
+Airburst Darts,"بمجرد قيامك بمساعدة مروضي الوحوش في ترويض الوحش الثالث، سيصبح بمقدورهم الانضمام إلى الفريق!"
+Submerge and Support,هل أنت متأكد أنك تريد إزالة مقدم هذه الخدمة من حسابك؟ <br><br><b> قد يستغرق الأمر حتى 3 ساعات لحين الانتهاء من إزالة مقدم الخدمة من الحساب</b>
+Ballistic Missile,تمت إزالة مقدم الخدمة.<br><br> سيتم إغلاق هذه الصفحة بعد قليل
+Triple Guns,روابط حساب إضافية
+Bloontonium Reactor,تسجيل الدخول باستخدام حساب أمازون
+First Strike Capability,احصل على كود رابط
+Armor Piercing Darts,يُرجى فتح اللعبة على جهازك الآخر وإدخال الرمز التالي عندما يُطلب منك ذلك. هذا الرمز صالح لمدة 10 دقائق.
+Energizer,تنتهي صلاحية السعر في
+Pre-emptive Strike,السعر
+Sub Commander,فشل مزامنة إعدادات اللعبة. يُرجى تجربة لعبة جديدة.
 ,
-Buccaneer-Faster Shooting,إطلاق بسرعة أكبر
-Buccaneer-Grape Shot,طلقة عنقودية
-Buccaneer-Long Range,رماية بعيدة المدى
+Buccaneer-Faster Shooting,iCloud
+Buccaneer-Grape Shot,تم تعطيل iCloud
+Buccaneer-Long Range,تم تمكين iCloud
 Buccaneer-Double Shot,طلقة مزدوجة
 Buccaneer-Hot Shot,طلقة ساخنة
 Buccaneer-Crow's Nest,عش الغراب
@@ -697,10 +697,10 @@ Enhanced Eyesight Description,التسديد حتى لأبعد من ذلك با�
 Spike-o-pult Description,تحويل القرد النشاب إلى قرد المنجنيق الذي يقذف كرة كبيرة مزودة بنتوءات معدنية مسننة أقل سرعة. يمكن لكل كرة مسننة فرقعة الكثير من البالونات والارتداد من الموانع.
 Triple Shot Description,رمي 3 سهام نشابة في المرة الواحدة بدلاً من سهم واحد.
 Crossbow Description,استخدام قوس ونشاب بعيد المدى والذي بإمكانه تفجير 3 طبقات من البالونات لكل ضربة.
-Juggernaut Description,قذف كرة عملاقة ذات نتوءات معدنية مسننة والتي من شأنها فرقعة بالونات الرصاص والتفوق في سحق البالونات السيراميكية.
+Juggernaut Description,قذف كرة عملاقة ذات نتوءات معدنية مسننة والتي من شأنها فرقعة بالونات الرصاص والتفوق في سحق البالونات الخزفية (السيراميكية) والبالونات المحصنة.
 Super Monkey Fan Club Description,قدرة نادي معجبي القرد الخارق: تحويل ما يصل إلى 10 من القرود النَّشابة القريبة بما في ذلك نفسه إلى قرود خارقة مدة 15 ثانية؛ ومن ثم زيادة سرعة الهجوم المنتظم أيضًا.
 Sharp Shooter Description,يقوم القناص الحاد بالهجوم بشكل أسرع ويقوم بتسديد ضربات حرجة قوية كل بضع تسديدات من شأنها إحداث الكثير من الضرر.
-Ultra-Juggernaut Description,انقسام الكرة المسننة العملاقة مرتين إلى 6 كرات طاغوت لمزيد من القوة التدميرية.
+Ultra-Juggernaut Description,تنقسم الكرة المسننة العملاقة مرتين إلى 6 كرات طاغوتية لمزيد من القوة التدميرية المضادة للبالونات الخزفية (السيراميكية) والبالونات المُحصنَة.
 Plasma Monkey Fan Club Description,منح عضوية النخبة في هذا النادي القرود النَّشابة قوة أكثر!
 Crossbow Master Description,إطلاق سيد رماة الأسهم تسديدات سريعة حقًا وإنزال الدمار بمعظم أنواع البالونات بسهولة.
 ,
@@ -756,11 +756,11 @@ Permafrost Description,تحرك البالونات ببطء حتى بعد الذ
 Enhanced Freeze Description,الهجوم بشكل أسرع والتجمد لفترة أطول.
 Larger Radius Description,منطقة تجميد أكبر.
 Metal Freeze Description,يمكن تجميد وفرقعة بالونات الرصاص والبالونات المموهة.
-Deep Freeze Description,تجميد طبقة أخرى مع استمرار التجميد مدة أطول.
+Deep Freeze Description,العمل على زيادة القوة الخارقة وتجميد طبقة أخرى وتمديد فترة التجميد أكثر.
 Re-Freeze Description,يمكن إعادة تجميد البالونات المجمدة بالفعل.
 Ice Shards Description,شظايا حلاقة الحادة تتطاير عند فرقعة البالونات المجمدة.
 Arctic Wind Description,زيادة الثقب إلى حدٍ كبير واكتساب هالة شديدة البرودة تعمل على إبطاء البالونات وتجميد المياه القريبة.
-Cryo Cannon Description,إطلاق قنابل تجميد على البالونات الموجودة ضمن مدى أبعد.
+Cryo Cannon Description,إطلاق قنابل ثلجية أصغر حجمًا بسرعة أكبر وعلى مدى أطول.
 Embrittlement Description,"بإمكانه إصابة البالونات من فئة منطاد ""موآب"". تصبح جميع البالونات المصابة ضعيفة، مما يتسبب في أضرار إضافية أثناء التجميد، وفقدان خصائص التمويه."
 Snowstorm Description,"قدرة العاصفة الثلجية: تجمد جميع البالونات العادية التي تظهر على الشاشة، وتجميد البالونات البيضاء، والمخططة بنمط الحمار الوحشي، والمموهة لفترة وجيزة، وإبطاء حركة البالونات من فئة ""موآب""."
 Icicles Description,تعمل البالونات المجمدة على نمو رقاقات ثلجية حادة يمكن أن تتسبب في فرقعة البالونات التي تلمسها.
@@ -774,11 +774,11 @@ Stickier Glue Description,جعل تأثير الغراء يدوم لفترة أ�
 Corrosive Glue Description,انفجار البالونات اللاصقة طبقة واحدة كل بضع ثوان.
 Glue Splatter Description,رش الغراء عبر ما يصل إلى 6 بالونات لكل تسديدة.
 Stronger Glue Description,إبطاء البالونات أكثر.
-Bloon Dissolver Description,المذيبات الشديدة تعمل على إذابة طبقتين كل ثانية.
+Bloon Dissolver Description,يتميز بالقدرة على الالتصاق ببالونة أخرى في كل ضربة حيث تعمل المذيبات على إذابة طبقتين كل ثانية.
 Glue Hose Description,إطلاق الغراء ×3 بأسرع ما يمكن!
 MOAB Glue Description,"تركيبة صمغية محسّنة تتيح لها الالتصاق بالبالونات من فئة منطاد ""موآب""."
-Bloon Liquefier Description,يمكنها الالتصاق ببالون واحد إضافي في كل تسديدة واستعمال مركبات تسييل من شأنها عمل 10 فرقعات كل ثانية.
-Glue Strike Description,القدرة على ضرب الغراء: لصق جميع البالونات على الشاشة، مما يتسبب في إحداث المزيد من الضرر من جميع المصادر أثناء استمرارها.
+Bloon Liquefier Description,وضع مركبات إسالة تؤدي إلى حدوث 10 فرقعات كل ثانية.
+Glue Strike Description,"القدرة على ضرب الغراء: لصق جميع البالونات على الشاشة، مما يتسبب في إحداث المزيد من الضرر من جميع المصادر أثناء استمرارها."
 Relentless Glue Description,فرقعة البالونات التي تم لصقها يترك فقاعة من الغراء على المسار.
 The Bloon Solver Description,هل تشعر أن البالونات مشكلة؟ إليك الحل.
 Glue Storm Description,تعمل قدرة العاصفة على لصق الشاشة بالكامل على مدى 15 ثانية بالغراء. تتسبب البالونات اللاصقة في أضرار إضافية أثناء لصقها.
@@ -909,8 +909,8 @@ Shimmer Description,اكتساب هجوم سحري مظلم من شأنه أن �
 Arcane Spike Description,يعمل سحر إطلاق النار بوتيرة أسرع على إحداث أضرار جسيمة لمعظم أنواع البالونات.
 Summon Phoenix Description,قدرة استدعاء طائر العنقاء: طائر الفينيق القوي يعيث دمارًا في البالونات لمدة 20 ثانية.
 Necromancer: Unpopped Army Description,إعادة إحياء الأعداء الذين تمت فرقعتهم مؤخرًا بدرجة خدم لتدمير البالونات.
-Archmage Description,سيد حقيقي للشعوذة السحرية.
-Wizard Lord Phoenix Description,يصبح سيد السحرة سيد الشعلة، ويتحول إلى عنقاء الحمى البركانية فائق القوة لفترة قصيرة.
+Archmage Description,"أحد السادة الحقيقيين للشعوذة السحرية، حيث يهاجم بشكل أسرع ويقوم بإلحاق أضرار أكبر بكثير على البالونات من فئة منطاد ""موآب""."
+Wizard Lord Phoenix Description,"يصبح سيد السحرة سيد الشعلة، ويتحول إلى عنقاء الحمى البركانية فائق القوة لفترة قصيرة."
 Soulbind Description,إعادة إحياء خدام البالونات الأقوى للقضاء على العدو وتعزيز جميع مستحضري الأرواح الآخرين.
 ,
 Laser Blasts Description,إطلاق طلقات ليزر قوية بدلاً من السهام النشابة.
@@ -1660,11 +1660,11 @@ btd6_herobooster Description,سيصبح مستوى البطل المحدد في 
 btd6_powersattackpack,حزمة القِوَى الهجومية
 btd6_powersattackpack Description,مجموعة متنوعة من {0} قوى القرود التي ينصب تركيزها على المعركة.
 btd6_instatowerspack,مجموعة القرود الفورية
-btd6_instatowerspack Description,5 أبراج للقرود، جاهزة للتمركز بدون نقود داخل اللعبة! يحتوي على 2 المستوى 1، و2 المستوى 2، و1 المستوى 3
+btd6_instatowerspack Description,"5 أبراج للقرود، جاهزة للتمركز بدون نقود داخل اللعبة! يحتوي على 2 في المستوى 1، و2 في المستوى 2، و1 في المستوى 3، حيث تحظى القرود في كل مستوى بالفرصة نفسها للسحب."
 btd6_tier3instatowerspack,مجموعة قرود جاهزة من المستوى 3
-btd6_tier3instatowerspack Description,10 أبراج لعدد  قرود جاهزة، جاهزة للتمركز بدون نقود داخل اللعبة!
+btd6_tier3instatowerspack Description,"10 أبراج جاهزة للقرود من المستوى 3، جاهزة للتمركز بدون نقود داخل اللعبة! فرصة سحب كل قرد هي نفسها."
 btd6_tier4instatowerspack,مجموعة قرود جاهزة من المستوى 4
-btd6_tier4instatowerspack Description,10 أبراج لعدد  قرود جاهزة، جاهزة للتمركز بدون نقود داخل اللعبة!
+btd6_tier4instatowerspack Description,"10 أبراج جاهزة للقرود من المستوى 4، جاهزة للتمركز بدون نقود داخل اللعبة! فرصة سحب كل قرد هي نفسها."
 btd6_needmoremonkeymoneyprompt,عدم كفاية أموال القرود! شراء المزيد؟
 ,
 ,
@@ -1678,11 +1678,11 @@ btd6_extramonkeymoney Description,عرض خاص! {0} من أموال القرو�
 btd6_powerspandamonium,قوى الباندامونيوم
 btd6_powerspandamonium Description,بقوانا مجتمعة! {0} من أفضل قوى القرود التي يمكنك الحصول عليها في حزمة واحدة.
 btd6_instatowersmegabooster,داعم كبير للقرود الجاهزة
-btd6_instatowersmegabooster Description,تحتوي هذه الحزمة الضخمة على 5 أبراج قرود جاهزة من المستوى 2 و12 برج للقرود الجاهزة من المستوى 3 و3 أبراج قرود جاهزة من المستوى 4 لوضعها بدون نقود داخل اللعبة!
+btd6_instatowersmegabooster Description,تحتوي هذه الحزمة الضخمة على 5 أبراج جاهزة للقرود من المستوى 2 و12 برجًا جاهزة للقرود من المستوى 3 و3 أبراج جاهزة للقرود من المستوى 4 للتمركز بدون نقود داخل اللعبة! حيث تحظى القرود في كل مستوى بالفرصة نفسها للسحب.
 btd6_megamonkeycompendiumpack,حزمة متوافقة من القرود الضخمة
 btd6_megamonkeycompendiumpack Description,حزمة ضخمة مليئة بالأشياء الجديدة الرائعة! 25000 من أموال القرود و 100 من القوة الهجومية و30 برج جاهز من أبراج القرود على المستوى 3 و15 برج جاهز من أبراج القرود على المستوى 4 و5 أبراج قرود جاهزة  ومعارف مفتوحة (الرتبة 30، 5 نقاط إضافية معرفية للقرود)!
 btd6_tier5instatowerpack,مجموعة قرود جاهزة من المستوى 5
-btd6_tier5instatowerpack Description,10 أبراج قرود جاهزة على المستوى 5، جاهزة للتمركز بدون نقود داخل اللعبة!
+btd6_tier5instatowerpack Description,"10 أبراج قرود جاهزة على المستوى 5، جاهزة للتمركز بدون نقود داخل اللعبة! فرصة سحب كل قرد هي نفسها."
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,بيع كومة من أموال القرود
@@ -2042,6 +2042,8 @@ Swedish,السويدية
 Turkish,اللغة التركية
 Korean,الكورية
 Japanese,اليابانية
+Polish,اللغة البولندية
+Monkelish,لغة القرود
 ,
 Backup,دعم احتياطي
 Profile,الحساب
@@ -2751,8 +2753,8 @@ DarkKnightDarkshift,[I] إلى الانتفال في الظلام ضمن الن�
 DarkChampionDarkshift,[I] إلى الانتقال إلى أي مكان صالح
 SmallTowersMode,أبراج القرود الصغيرة
 BigTowersMode,أبراج القرود الكبيرة
-UpdatePopupTitle,تحديث 33!
-UpdatePopupDescription,"تحديث كبير للمحتوى!\n• إطلاق العنان لمنطاد ""سفينة هلاك جالوت""، باراغون القرد الطيار!\n• اغرس بعض من قوة فرقعة البالونات على الخريطة الوسيطة، الحديقة المغطاة! صُمِّم بواسطة ""سوبربسو"" الفائز في مسابقة خرائط المجتمع.\n• مطاردة قاعات الخريطة المتقدمة الجديدة المخيفة، قصر منتصف الليل!\n• عناصر متجر الكؤوس، وتحسين جودة الحياة، وتغييرات التوازن وغير ذلك الكثير!"
+UpdatePopupTitle,تحديث 34!
+UpdatePopupDescription,"التحديث الأضخم للأعياد!\n""•"" تَحكم في الوحوش البرية والبحرية والجوية باستخدام البرج الجديد، ""بديل الوحش""!\n""•"" حارب ضد المقاومة الرهيبة وحصانات بهيموث المدرعة، البالون المخيف!\n""•"" واستكشف مواضع تلميع البرج على خريطة المبتدئ الجديدة، واحد، اثنان، ثلاثة!\n""•"" فجّر البالونات بروح احتفالية مع مظهر الكابتن تشرشل الجديد، الزلاجة تشرشل!\n""•"" عناصر متجر المكافآت، وتحسين جودة الحياة، وتغييرات التوازن وغير ذلك الكثير!\n""•"" عطلات سعيدة وأطيب الأمنيات بعام جديد رائع، منا جميعًا في نينجا كيواي!"
 ResetDailyChest,إعادة ضبط الصدر اليومي
 JukeboxName,صندوق الموسيقى
 EnableFunction,تمكين
@@ -4561,8 +4563,7 @@ LoggedInAs,تسجيل دخولك باسم:
 EpicAccountId,"معرف حساب باسم ""Epic"":"
 NeedHelp,تحتاج مساعدة؟
 ContactSupport,اتصل بالدعم
-DeleteAccountText,"حذف حسابك يعني أنك تفقد الوصول إلى كل تقدم السحابة والبيانات.
-الرجاء إدخال معرف المستخدم الخاص بك (كما هو موضح أدناه) في المربع لحذف حسابك. قد تستغرق إزالة حسابك من 48 إلى 72 ساعة."
+DeleteAccountText,حذف حسابك يعني أنك تفقد الوصول إلى كل تقدم السحابة والبيانات.
 EnterUserId,أدخل معرف المستخدم هنا
 GetAllButton,احصل على كل شيء
 GetAllConfirmation,يرجى تأكيد رغبتك في إنفاق أموال القرود للحصول على جميع الأبطال والجلود المتاحة!
@@ -4723,17 +4724,17 @@ RelicMilitaryMonkeys,القرود العسكرية
 RelicMagicMonkeys,القرود السحرية
 RelicSupportSimians,دعم سيميان
 RelicMonkeyTycoon,قطب القرود
-RelicStartingStashDescription,ابدأ كل لعبة بمبلغ 300 نقدي إضافي (مداخن بمزيد من النقود على البلاط العادي)
-RelicExtraEmpoweredDescription,يبدأ بطلك لعبة بثلاثة مستويات إضافية (تكدس مع الأبطال المتمكنين على البلاط العادي)
+RelicStartingStashDescription,ابدأ كل لعبة بمبلغ 250 نقدي إضافي (تكدس مع المزيد من النقود بشكل متجانب منتظم)
+RelicExtraEmpoweredDescription,ابدأ كل لعبة بقرد مجاني واحد تكلفته 400 دولار أو أقل للوضع الأولي غير المعدل
 RelicBoxOfChocolatesDescription,ابدأ كل لعبة بـ 100 حياة إضافية
-RelicBoxOfMonkeyDescription,ابدأ كل لعبة بقرد مجاني واحد تكلفته 500 دولار أو أقل للوضع الأولي غير المعدل
-RelicMarchingBootsDescription,في ألعاب العدد المقيد، يمنح اللاعبين +1 كحد أقصى للعدد لكل برج في عتادهم أو +4 إجمالي عدد أقصى لكل لعبة
+RelicBoxOfMonkeyDescription,ابدأ كل لعبة بقرد مجاني واحد تكلفته 400 دولار أو أقل للوضع الأولي غير المعدل
+RelicMarchingBootsDescription,"في ألعاب العدد المقيد، يمنح اللاعبين +1 كحد أقصى للعدد لكل برج في عتادهم أو +4 إجمالي عدد أقصى لكل لعبة"
 RelicHeroBoostDescription,يكسب الأبطال نقاط خبرة بنسبة 15٪ أسرع في كل لعبة
 RelicBiggerBloonSabotageDescription,"إنتاج تفرخ جميع البالونات من فئة منطاد ""موآب"" بصحة أقل بنسبة 15٪ وتتحرك بسرعة 95٪"
 RelicRoundingUpDescription,الحصول على + 20 دولارًا في نهاية كل جولة
 RelicManaBulwarkDescription,يُنشئ درعًا يمتص ما يصل إلى 50 حياة (تكدس مع درع مانا على البلاط العادي)
-RelicRegenerationDescription,استعادة 10 نقاط حياة في كل جولة حتى قيمة حياة البداية لكل لعبة، إذا لم تفقد أي نقاط حياة في تلك الجولة
-RelicRestorationDescription,استعادة 20 نقاط الحياة في كل جولة إلى قيمة عمرية أكبر تبدأ من +200، إذا لم تفقد أي نقاط الحياة في تلك الجولة
+RelicRegenerationDescription,"استعادة 20 من الأرواح في كل جولة حتى قيمة الحياة الأولية لكل لعبة™، إذا لم تفقد أي أرواح في تلك الجولة"
+RelicRestorationDescription,"استعادة 10 أرواح في كل جولة إلى قيمة عمرية أكبر تبدأ من +200، إذا لم تفقد أي أرواح في تلك الجولة"
 RelicDurableShotsDescription,جميع المقذوفات لها عمر افتراضي يزيد عن 25٪
 RelicAlchemistTouchDescription,يمكن لجميع الهجمات أن تؤدي إلى تفجير بالونات
 RelicDeepHeatDescription,يمكن لجميع الهجمات أن تنفجر من بالونات الأبيض
@@ -4741,14 +4742,14 @@ RelicSharpsplosionDescription,يمكن لجميع الهجمات أن تنفجر
 RelicRoyalTreatmentDescription,يمكن لجميع الهجمات فرقعة بالونات الأرجواني
 RelicHardBakedDescription,جميع الهجمات تسبب +1 ضررًا لسيراميك بالونات
 RelicFortifriedDescription,جميع الهجمات تسبب +1 ضررًا للبالونات المحصنة
-RelicMoabClashDescription,تؤدي جميع الهجمات إلى ضرر +3+ إلى بالونات من فئة موآب
+RelicMoabClashDescription,"تؤدي جميع الهجمات إلى حدوث ضرر مضاعف (2+) إلى بالونات من فئة منطاد ""موآب"""
 RelicCamoFloggedDescription,تؤدي جميع الهجمات إلى ضرر +3 على بالونات كامو.
 RelicBrokenHeartDescription,تؤدي جميع الهجمات إلى ضرر +1 لإعادة نمو البالونات
 RelicGoingTheDistanceDescription,تكتسب جميع القرود نطاقًا يزيد عن 10٪
-RelicHeartlessDescription,تم تخفيض معدل تجديد بالونات بنسبة 25٪
+RelicHeartlessDescription,تم تخفيض معدل تجديد البالونات بنسبة 50%
 RelicFlintTipsDescription,تضيف المقذوفات الحادة نقطة نار إلى جميع البالونات التي تلحق الضرر بها (ضرر واحد كل ثانيتين ونصف لمجموع 5 ثوانٍ)
 RelicAbilitizedDescription,تم تقليل فترات الانتظار في جميع القدرات النشطة لجميع القرود بنسبة 10٪
-RelicAirAndSeaDescription,خفضت تكاليف الوضع والترقية للقرود الخبيرة وطيار المروحية والقرصان والغواص بنسبة 10٪ وتحسنت إعادة التحميل بنسبة 5٪
+RelicAirAndSeaDescription,انخفضت تكاليف الوضع والترقية للقرود الخبيرة وطيار المروحية والقرصان والغواص بنسبة 5% وتحسنت إعادة التحميل بنسبة 5٪
 RelicElDoradoDescription,تمت زيادة جميع مكافآت أموال القرود وجائزة الفريق من انتصارات اللعبة بنسبة 25٪ (بحد أدنى +1)
 RelicMonkeyShieldDescription,لمدة ساعة واحدة بعد الاستيلاء، لا يمكن مهاجمة البلاط من قبل الفرق المناوئة. النتيجة المحسّنة ستتم إعادة المشاركة.
 RelicMonkeyShieldMark2Description,"For 2 hours after capture, Tile cannot be attacked by opposing Teams. النتيجة المحسّنة ستتم إعادة المشاركة."
@@ -4763,11 +4764,11 @@ RelicRoadSpikesDescription,تمنح 10 حزم من مسامير الطريق ل�
 RelicMoabMineDescription,يمنح استخدام طاقة منجم موآب واحد لكل لعبة
 RelicGlueTrapDescription,يمنح استخدام 2 قوة فخ الغراء لكل لعبة
 RelicTechbotDescription,يمنح استخدام 1 تيكبوت باورأب لكل لعبة
-RelicPrimaryPrimatesDescription,يقلل من تكلفة جميع القرود الرئيسية بنسبة 10٪
-RelicMilitaryMonkeysDescription,يقلل تكلفة جميع القرود العسكرية بنسبة 10٪
-RelicMagicMonkeysDescription,يقلل من تكلفة جميع القرود السحرية بنسبة 10٪
+RelicPrimaryPrimatesDescription,خفض تكلفة جميع القرود الرئيسية بنسبة 8%
+RelicMilitaryMonkeysDescription,خفض تكلفة جميع القرود العسكرية بنسبة 8%
+RelicMagicMonkeysDescription,خفض تكلفة جميع القرود السحرية بنسبة 8%
 RelicSupportSimiansDescription,يقلل من تكلفة جميع قرود الدعم بنسبة 10٪
-RelicMonkeyTycoonDescription,احصل على +1 لجميع أبراج القرود في العتاد الخاص بك وسيتم تخفيض سعرها الأساسي بنسبة 5٪
+RelicMonkeyTycoonDescription,احصل على +1 لجميع أبراج القرود في العتاد الخاص بك وسيتم تخفيض سعرها الأساسي بنسبة 4%
 InviteToTeam,توجيه الدعوة للفريق
 TeamLeave,اترك الفريق
 Requests,الطلبات
@@ -4801,7 +4802,7 @@ TeamDemoteMember,هل أنت متأكد أنك تريد خفض رتبة هذا �
 TeamErrorShowPop,خطأ الفريق
 TeamOwnershipTransferTitle,نقل ملكية الفريق
 TeamOwnershipTransferFailed,فشل نقل الملكية إلى لاعب جديد
-TeamOwnershipTransferWarning,هل أنت متأكد من أنك تريد نقل ملكية الفريق إلى هذا العضو. هذا لا يمكن التراجع عنه!
+TeamOwnershipTransferWarning,هل أنت متأكد من أنك تريد نقل ملكية الفريق إلى هذا العضو؟ لا يمكن التراجع عن هذه الخطوة!
 TeamLeaveConfirm,هل أنت متأكد أنك تريد مغادرة الفريق؟
 TeamDisbandConfirm,هل أنت متأكد أنك تريد حل الفريق؟
 TeamOwnershipLeavingWarning,نقل ملكية الفريق إلى عضو آخر قبل المغادرة
@@ -5066,18 +5067,18 @@ TeamsBanner8ShortName,لافتة الإقليم المتنازع عليه
 TeamsBanner8Description,جهز هذه اللافتة لإظهار التزامك بالاستيلاء على البلاطات السداسية. لم يظهر اللون الأحمر مقابل الأزرق جيدًا أبدًا.
 TeamsEmblemIcon13Name,أيقونة كونغ فو كيواي
 TeamsEmblemIcon13ShortName,أيقونة كونغ فو كيواي
-TeamsEmblemIcon13Description,فاجئ خصومك بركلة طائرة من طائرك المفضل الذي لا يطير.
+TeamsEmblemIcon13Description,فاجئ خصومك بركلة طائرة من طائرك المفضل العاجز عن التحليق.
 TeamsEmblemIcon14Name,أيقونة العين التي ترى كل الأشياء
 TeamsEmblemIcon14ShortName,أيقونة العين التي ترى كل الأشياء
-TeamsEmblemIcon14Description,جهِّز أيقونة الفريق هذه وسوف يشك خصومك في كل حركة يقومون بها.
+TeamsEmblemIcon14Description,جهِّز أيقونة الفريق هذه وسوف يشك خصومك في كل حركة يقررون اتخاذها.
 TeamsEmblemFrame10Name,إطار تمرير النينجا
 TeamsEmblemFrame10ShortName,إطار تمرير النينجا
-TeamsEmblemFrame10Description,إطار لإظهار تفاني فرقك في فن النينجا القديم.
+TeamsEmblemFrame10Description,إطار لإظهار تفاني فريقك في ممارسة فن النينجا القديم.
 TeamsEmblemFrame11Name,إطار الإدراك المعرفي
 TeamsEmblemFrame11ShortName,إطار الإدراك المعرفي
 TeamsEmblemFrame11Description,يمكنك نقل المعرفة بشأن فرقعة البالونات الفائقة لفريقك الخاص عن طريق ظهور إطار الإدراك المعرفي.
-BasePropPirateCrewMonkeyName,طاقم القراصنة
-BasePropPirateCrewMonkeyShortName,طاقم القراصنة
+BasePropPirateCrewMonkeyName,قرد طاقم القراصنة
+BasePropPirateCrewMonkeyShortName,قرد طاقم القراصنة
 BasePropPirateCrewMonkeyDescription,"يار! رحِّب بهذا الوغد في قاعدة الأراضي المتنازع عليها وسوف تستدير الفرق الأخرى بأشرعتها بين أرجلها. ""فتحة الجزيرة"""
 BasePropTelescopeName,تلسكوب انكساري
 BasePropTelescopeShortName,تلسكوب انكساري
@@ -5116,5 +5117,256 @@ SelectCapturedRelics,حدد ما يصل إلى 4 آثار تم الاستيلا�
 NextBonusIn,المكافأة التالية في:
 MemberCount,عدد الأعضاء
 Min,الحد الأدنى
-PrimeGamingText,احصل على هدية Prime Gaming الخاصة بك!
-GetNow,Get Now
+Back,رجوع
+Purchase Monkey Money,شراء أموال القرود
+Player Profile,الملف الشخصي للاعب
+Toggle Info,تبديل المعلومات
+Store Info,معلومات المتجر
+Toggle mode,وضع التبديل 
+Toggle jukebox enabled,تم تفعيل تبديل صندوق جوك
+Play / Pause,تشغيل/ إيقاف مؤقت
+Move up,تحريك لأعلى
+Move down,تحريك لأسفل
+Buy Monkey Knowledge,شراء معرفة القرود
+Search,بحث
+Google Play,متجر تطبيقات جوجل
+Remove mode,وضع الإزالة
+Add mode,وضع الإضافة
+Toggle ranked mode,تبديل الوضع المصنف
+Info,معلومات
+Switch to MonkeyName,التبديل إلى القرود المسماة
+Rename monkey,إعادة تسمية القرد
+Switch to Medals,التبديل إلى الميداليات
+Switch to Settings,التبديل إلى الإعدادات
+Refresh,تحديث
+First Page,الصفحة الأولى
+Prev Page,الصفحة السابقة
+Next Page,الصفحة التالية
+Last Page,آخر صفحة
+Reset,إعادة تعيين
++,+
+-,-
+Show/Hide panel,إظهار/ إخفاء اللوحة
+Toggle Loop Track,تبديل المسار الحلقي
+Previous Track,المسار السابق
+Next Track,المسار التالي
+Info mode,وضع المعلومات
+Hero mode,وضع البطل
+Skin mode,وضع المظهر الخارجي
+Prev mode,الوضع السابق
+Next mode,الوضع التالي
+Disconnect controller,قطع اتصال وحدة التحكم
+Clear all monkeys,مسح جميع القرود
+Clear all powers,مسح جميع الصلاحيات
+Mute,صامت
+Place Second Tower Console,ضع قرد نشَّاب آخر ثم اضغط على [dpad_up] للتشغيل
+Finished Round One Console,كان هذا سهلاً أليس كذلك؟ اضغط على [dpad_up] لبدء الجولة التالية
+Speed x1,السرعة × 1
+Speed x3,السرعة × 3
+CouchBuildZoneMessage,بناء أبراج القردة خاصتك في منطقتك الصالحة
+Insta Monkeys,القرود الجاهزة!
+Controller.Title,عناصر التحكم
+Controller.DPadUp,إرسال جولة/ إعادة التوجيه السريع
+Controller.DPadDown,إرسال جولة السباق
+Controller.DPadLeft,غير معيَّن
+Controller.DPadRight,غير معيَّن
+Controller.LeftAnalog,مؤشر مجاني
+Controller.LeftAnalogButton,تموضع سريع
+Controller.RightAnalog,تمرير
+Controller.RightAnalogButton,إظهار/ إخفاء اللوحة
+Controller.Menu,غير معيَّن
+Controller.Start,توقف مؤقتًا
+Controller.LeftShoulder,علامة التبويب السابقة
+Controller.RightShoulder,علامة التبويب التالية
+Controller.LeftTrigger,"تعيين المستوى الدقيق، مفاتيح الاختصار الخاصة بالقدرة"
+Controller.RightTrigger,مفاتيح الاختصار الخاصة بالقدرة
+Controller.NorthButton,غير معيَّن
+Controller.SouthButton,تأكيد
+Controller.EastButton,إلغاء
+Controller.WestButton,غير معيَّن
+Toggle tab,علامة التبويب التبديل 
+Refresh data,تحديث البيانات
+Prev tab,علامة التبويب السابقة
+Next tab,علامة التبويب التالية
+Controller.Ready,جاهز
+Friends,أصدقاء
+MinimumRounds,الحد الأدنى من الجولات
+MaximumRounds,الحد الأقصى من الجولات
+Max Monkeys,أقصى عدد للقرود
+Toggle add / remove,إضافة/ إزالة تبديل
+Toggle select / edit,تبديل التحديد/ التعديل
+Camo,مموه
+Couch Co-op,لعب تعاوني
+Gift,هدية
+Emote,رمز تعبيري
+Set Target,تعيين هدف
+Return to groups,العودة إلى المجموعات
+TT_FollowCursor,اتبع المؤشر
+Toggle Map Dividers,تبديل فواصل الخريطة
+Send,إرسال
+Upgrade,ترقية
+NextUpgrade,الترقية التالية
+CurrentUpgrade,الترقية الحالية
+HeroBoosterLocked,مُقفِل
+PrimeGamingText,اطلب إسقاط تجربة لعب برايم خاصتك
+GetNow,احصل عليه الآن
+,
+DarkDungeons,زنزانات مظلمة
+OneTwoTree,واحد اثنان ثلاثة
+BeastHandler,مروض الوحوش
+BeastHandlers,مروضو الوحوش
+BeastHandler Description,"يمكنه تدريب الوحوش الخطرة الموجودة على البر وفي الماء والهواء. فبدلاً من إنشاء المزيد من الوحوش، يستطيع المروضون المتعددون معًا زيادة قوة الوحوش الموجودة فعليًا."
+BeastHandler Short Description,قرد الدعم
+Piranha,بيرانا
+Microraptor,ميكرورابتور
+Gyrfalcon,الشاهين البحري
+Barracuda,العُقام
+Adasaurus,أداصور
+Horned Owl,بومة سنّورية
+Great White,القرش الابيض العظيم
+Velociraptor,فيلوسيرابتور
+Golden Eagle,الصقر الذهبي
+Orca,حوت الأوركا
+Tyrannosaurus Rex,تيرانوصور ريكس
+Giant Condor,طائر الكوندور العملاق
+Megalodon,ميغالودون
+Giganotosaurus,جيجانوتوصور
+Pouakai,بواكاي
+Piranha Description,اطلب من سمكة صغيرة ولكنها مشاكسة أن تقفز من الماء في البالونات.
+Microraptor Description,"يمكنك الاستمتاع بقيادة الديناصور الصغير ذي المخالب الحادة. بفضل هذه الترقية، يمكنك تطويرها بمزيد من مروضي الوحوش."
+Gyrfalcon Description,يمكنك قيادة أحد الطيور الجارحة النبيلة الصغيرة الذي بإمكانه انتزاع وتحريك البالونات بمخالبه.
+Barracuda Description,"يمكن لأسنان العُقام الحادة فرقعة الطبقات المتعددة للبالونات، حيث يتطلب مروض وحوش واحد آخر على الأقل للوحش مع ترقيات البيرانا. بحد أقصى 4 مروضي وحوش مساهمة"
+Adasaurus Description,"تتسبب أسنان أداصور الحادة في إلحاق أضرار بالغة قصيرة المدى، حيث يتطلب ما لا يقل عن مروض واحد آخر للوحش مع ترقيات ميكرورابتور. بحد أقصى 4 مروضي وحوش مساهمة"
+Horned Owl Description,"تتميز البومة القرناء بأنها قوية بما يكفي لجذب وفرقعة بالونات الرصاص والبالونات الخزفية (السيراميكية)، كما تتميز بعيون ثاقبة قادرة على اكتشاف البالونات المموهة."
+Great White Description,"ستقوم أسماك القرش الأبيض العظيم بسحق البالونات، بما في ذلك بالونات الرصاص بين فكيه، وسحبها مرة أخرى إلى الماء عند اللزوم، حيث يتطلب 2 على الأقل من مروضي الوحوش الأخرى مع ترقيات العُقام. بحد أقصى 4 مروضي وحوش مساهمة"
+Velociraptor Description,"يعمل فيلوسيرابتور على تقطيع البالونات وتشريحها بسرعة مفرطة، حيث يتطلب ما لا يقل عن 2 من مروضي الوحوش الأخرى مع ترقيات أداصور. بحد أقصى 4 مروضي وحوش مساهمة."
+Golden Eagle Description,لديه خبرة في الاستيلاء على أعداد كبيرة من البالونات دفعة واحدة. الصقر الذهبي كبير جدًا لدرجة حيث أنه يتطلب على الأقل 2 من مروضي الوحوش الأخرى مع ترقيات البومة القرناء. بحد أقصى 4 مروضي وحوش مساهمة.
+Orca Description,"يمكن لفم حوت الأوركا الضخم الإمساك بجميع البالونات الضخمة ما عدا أكبرها في الأعماق، حيث يتطلب ما لا يقل عن 3 من مروضي الوحوش الأخرى مع ترقيات أسماك القرش الأبيض. بحد أقصى 4 من مروضي الوحوش المساهمة."
+Tyrannosaurus Rex Description,"يتسبب الفك الضخم للتيرانوصور ريكس وأسنانه الحادة في إلحاق قدر كبير من الضرر مع كل عضة، حيث يتطلب ما لا يقل عن 3 من مروضي الوحوش الأخرى مع ترقيات فيلوسيرابتور. بحد أقصى 4 من مروضي الوحوش المساهمة. قدرة تي ريكس على السحق: صعق جميع البالونات حتى منطاد زومجينيتور في منطقة واسعة النطاق."
+Giant Condor Description,"يمكن للمخالب الضخمة لحيوان الكوندور العملاق المخيف الإمساك بالبالونات من فئة منطاد ""موآب""، حيث يتطلب على الأقل 3 من مروضي الوحوش الأخرى مع ترقيات الصقر الذهبي. بحد أقصى 4 من مروضي الوحوش المساهمة."
+Megalodon Description,سمكة قرش عملاقة حقًا بحاسة تذوق للبالونات تتطلب على الأقل 4 من مروضي الوحوش الأخرى مع ترقيات حوت الأوركا. بحد أقصى 8 من مروضي الوحوش المساهمة.
+Giganotosaurus Description,"أكبر الديناصورات وأكثرها شراسة على الإطلاق، يمكن لديناصور الجيجانوتوصور تمزيق أي بالون تقريبًا على الفور بمنتهى السهولة، حيث يتطلب ما لا يقل عن 4 من مروضي الوحوش الأخرى مع ترقيات تيرانوصور ريكس. بحد أقصى 8 من مروضي الوحوش المساهمة. تتسبب هذه القدرة في صعق جميع البالونات حتى منطاد ""زومجينيتور"" في جميع الأماكن لفترة أطول."
+Pouakai Description,"طائر بواكاي الأسطوري، هو طائر عملاق للغاية بحيث يمكنه التقاط أي عدد تقريبًا من البالونات مهما كان حجمها وحملها وتدميرها، حيث يتطلب 4 على الأقل من مروضي الوحوش الأخرى مع ترقيات كوندور العملاق. بحد أقصى 8 من مروضي الوحوش المساهمة."
+T Rex Stomp Ability,قدرة تي ريكس على السحق
+T Rex Stomp Ability Description,يتميز بقدرته على صعق جميع البالونات الموجودة في منطقة واسعة النطاق.
+Giganotosaurus Stomp Ability,قدرة الجيجانوتوصور على السحق
+Giganotosaurus Stomp Ability Description,يتميز بقدرته على صعق جميع البالونات الموجودة في جميع الأماكن حتى منطاد الزومجينيتور لفترة أطول.
+Move,تحرك
+NeedsBeastHandlers,يتطلب الوحش: {0}
+NeedsWater,في حاجة للماء
+NeedsTrack,في حاجة للمسار
+Dreadbloon,البالون المخيف
+DreadbloonTagLine,من أعماق الأرض المظلمة...
+DreadbloonTagLine2,البهيموث المدرع!
+DreadbloonInfoPanelDescription,"\n• يتميز البالون المخيف بأن له ميزات مادة الرصاص ويعمل على التقليل من جميع الأضرار الواردة بمقدار 1.\n• عند وصول أي جمجمة، ينمو  لدى البالون المخيف درع صدفي سيراميكي وستبدأ البالونات الصخرية المخيفة الموجودة في بداية المسار بالتكاثر.\n• عندما يظهر البالون المخيف، يتضح معه أنه مُحصن ضد الأبراج الأساسية. في كل جمجمة، تتغير نوع الحصانة بتغير نوع البرج: البالونات العسكرية، والبالونات السحرية، بالونات الدعم.\n• تحظى البالونات الصخرية المخيفة أيضًا بهذه الحصانات.\n• تحظى البالونات الصخرية المخيفة بقوة على السخرية والتهكم، لذا كن حذرًا مما تستهدفه أبراجك!"
+DreadbloonPrimaryImmunity,محصن ضد: الأبراج الأساسية
+DreadbloonMilitaryImmunity,محصن ضد: الأبراج العسكرية
+DreadbloonMagicImmunity,محصن ضد: الأبراج السحرية
+DreadbloonSupportImmunity,محصن ضد: أبراج الدعم
+Resist,مقاوم
+Immune,محصن
+SleighCaptainChurchillSkinName,مظهر تشيرشل الزلاجة
+SleighCaptainChurchillSkinDescription,"تفجير البالونات بهتاف عيد الميلاد المجيد، وبقنبلة واحدة ملفوفة لفة فاخرة في كل مرة."
+SleighCaptainChurchillSkinNameFull,تشيرشل الزلاجة
+GameUIProfileBanner23Name,لافتة تعريفية بتحيات فصول السنة
+GameUIProfileBanner23ShortName,لافتة مزينة بتحيات فصول السنة
+GameUIProfileBanner23Description,احتفل بمرح الأعياد هذا الشتاء أو طوال السنة مع لافتة المرح المتجمدة هذه. عنصر مُحصِّل لوقت محدود!
+GameUIProfileBanner24Name,لافتة تعريفية بقواطع حادة للخشبة المرتدة
+GameUIProfileBanner24ShortName,لافتة قواطع حادة للخشبة المرتدة
+GameUIProfileBanner24Description,الفائز باللافتة من ريكونسكاوت تيمو
+GameUIProfileBanner25Name,لافتة تعريفية بصورة رمزية
+GameUIProfileBanner25ShortName,لافتة بصور رمزية
+GameUIProfileBanner25Description,الفائز باللافتة من الجندي ماجنوس
+GameUIProfileAvatar65Name,أفاتار مخصص - إكليل عيد الميلاد المجيد
+GameUIProfileAvatar65ShortName,أفاترا بإكليل عيد الميلاد المجيد
+GameUIProfileAvatar65Description,"""انشر الحظ السعيد وابتهج للجميع مع الأفاتار المزين بإكليل عيد الميلاد المجيد. عنصر مُحصِّل لوقت محدود!"""
+GameUIProfileAvatar66Name,أفاتار مخصص - أفاتار الغضب
+GameUIProfileAvatar66ShortName,الصورة الرمزية لأفاتار الغضب
+GameUIProfileAvatar66Description,"أخيراً! ما هي طول المدة المستغرقة لأخذ دوري؟! أفاتار باسمي أنا، من أجل الموز!"
+GameUIProfileAvatar67Name,أفاتار مخصص - للإجازات سعيدة
+GameUIProfileAvatar67ShortName,أفاتار بالإجازات السعيدة
+GameUIProfileAvatar67Description,"""حماس إتيان للحصول على طائرة مسيرة أخرى لعيد الميلاد المجيد سوف يملأ قلب أي شخص بالفرح والسرور. عنصر مُحصِّل لوقت محدود!"""
+GameUIProfileAvatar68Name,أفاتار مخصص - صفر مطلق
+GameUIProfileAvatar68ShortName,أفاتار على هيئة صفر مطلق
+GameUIProfileAvatar68Description,"إذا كان المظهر الرائع يبدو أمرًا مهمًا، فستكون الصورة الرمزية للقرد الثلجي هي الخيار المناسب."
+CoopEmoteAnimationSleighbellsName,الرسوم المتحركة للثلج وأجراس الزلاجات
+CoopEmoteAnimationSleighbellsShortName,أجراس الزلاجة
+CoopEmoteAnimationSleighbellsDescription,احصل على أرض العجائب الشتوية هذه واملأ بها الشاشة وانشر البهجة للاعب 1 أو 2 أو 4! عنصر مُحصِّل لوقت محدود!
+TowerProjectileBananaFarmPresentsName,مزرعة الموز توزع الموز
+TowerProjectileBananaFarmPresentsShortName,هدايا مزرعة الموز
+TowerProjectileBananaFarmPresentsDescription,لا شيء أفضل من مزارع الموز التي تزرع الهدايا! ما الذي يوجد في الهدايا؟ الموز بالطبع! عنصر مُحصِّل لوقت محدود!
+TowerProjectileDartmonkeySnowballsName,مقذوف كرات الثلج للقرد النشَّاب
+TowerProjectileDartmonkeySnowballsShortName,الكرات الثلجية الخاصة بالقرد النشَّاب
+TowerProjectileDartmonkeySnowballsDescription,"لسنا متأكدين من التنشئة الاجتماعية الجيدة في الغابة، لكن جرب تبادل هذا المقذوف ونرى سبب فوز القرود النشَّابة دائمًا في معارك الكرات الثلجية. عنصر مُحصِّل لوقت محدود!"
+TowerProjectileTackshooterIciclesName,نتوءات جليدية ومقذوف الندفات الثلجية لقاذف الأشواك
+TowerProjectileTackshooterIciclesShortName,نتوءات جليدية لقاذف الأشواك
+TowerProjectileTackshooterIciclesDescription,"إذا كنت تحب مجموعة قاذف الأشواك بالإضافة إلى القرد الثلجي، فسوف تتألق وتلمع أكثر عندما تكون الأشواك عبارة عن نتوءات ثلجية والشفرات عبارة عن ندفات ثلجية. عنصر مُحصِّل لوقت محدود!"
+TowerProjectileNinjaMonkeySnowflakesName,مقذوف الندفة الثلجية لقرد النينجا
+TowerProjectileNinjaMonkeySnowflakesShortName,الندفات الثلجية الخاصة بقرد النينجا
+TowerProjectileNinjaMonkeySnowflakesDescription,بلورة ثلج رقيقة\nأطلقها النينجا بسرعة\nصنعت أشكال دقيقة\n\n عنصر مُحصّل لوقت محدود!
+BuildingPropChristmasTreeName,بناء شجرة عيد الميلاد المجيد
+BuildingPropChristmasTreeShortName,بناء شجرة عيد الميلاد المجيد
+BuildingPropChristmasTreeDescription,"هل تريد تغيير قاعدتك إلى شجرة!؟ اين ستعيش القرود؟ انتظر... لا عليك.\n بفضل قاعدة شجرة عيد الميلاد المجيد هذه، يمكنك جعل فريقك في مزاج احتفالي. [فتحة المبنى الرئيسي]"
+BasePropCosyBeanbagMonkeyName,قرد الكيس القماشي المريح
+BasePropCosyBeanbagMonkeyShortName,قرد الكيس القماشي المريح
+BasePropCosyBeanbagMonkeyDescription,كيس قماشي. الرمز المطلق للاسترخاء. يضم قرد الاسترخاء! [فتحة الجزيرة]
+TeamsBanner9Name,لافتة ندفة الثلج الرقيقة
+TeamsBanner9ShortName,لافتة ندفة الثلج الرقيقة
+TeamsBanner9Description,"التعقيد البسيط لندفة الثلج هو الكمال، تمامًا مثل فريقك."
+TeamsBanner10Name,لافتة موز محمص
+TeamsBanner10ShortName,لافتة موز محمص
+TeamsBanner10Description,اجعل لعاب فريقك يسيل مع الموز المحمص على نار المخيم!
+TeamsEmblemFrame12Name,إطار بالون
+TeamsEmblemFrame12ShortName,إطار بالون
+TeamsEmblemFrame12Description,اجعل فريقك عدوًا للجميع مع إطار البالونات عديم الرحمة.
+TeamsEmblemFrame13Name,الإطار العسكري
+TeamsEmblemFrame13ShortName,الإطار العسكري
+TeamsEmblemFrame13Description,الفريق المتحمس لا يساوي شيء بدون نظام وانضباط.
+TeamsEmblemIcon15Name,أيقونة التاج
+TeamsEmblemIcon15ShortName,أيقونة التاج
+TeamsEmblemIcon15Description,ادعم مطالبة فريقك بعرش السهام.
+TeamsEmblemIcon16Name,أيقونة رجل الفضاء
+TeamsEmblemIcon16ShortName,أيقونة رجل الفضاء
+TeamsEmblemIcon16Description,أيقونة لفريقك عندما يكون خارج هذا العالم!
+Achievement 146 Name,مهمة جانبية
+Achievement 146 Description,إنجاز المهمة
+Achievement 147 Name,تنشيط
+Achievement 147 Description,احصل على 75 هاوٍ نشط على قرود دفعة واحدة
+Achievement 148 Name,التدريب على بطولة العالم
+Achievement 148 Description,"احصل على 150,000 من خبرة مروضي الوحوش"
+CompleteQuestMessage,الانتهاء من المهمة
+QuestUnlocksAtLevelXMessage,تفتح المهمة <br> عند المستوى {0}
+QuestComplete,انتهت المهمة!
+BeastHandlerQuestName,المهمة الملحمية للوحش
+BeastHandlerQuestReward,افتح مروض وحوش + المزيد!
+BeastHandlerQuest1Name,طريق الأرض
+BeastHandlerQuest1Description,تدريب الديناصورات القاتلة على المحجر
+BeastHandlerQuest1Victory,تهانينا! لقد أكملت طريق الأرض!
+BeastHandlerQuest2Name,طريق الماء
+BeastHandlerQuest2Description,تكاثر الأسماك الشرسة على جزر البهار
+BeastHandlerQuest2Victory,تهانينا! لقد انتهيت من طريق الماء!
+BeastHandlerQuest3Name,طريق الهواء
+BeastHandlerQuest3Description,الطيور القوية تفقس بتصديع قشور بيضها
+BeastHandlerQuest3Victory,تهانينا! لقد أكملت طريق الهواء!
+DialogBeastHandlerQuest1UI1,غادر مروضو الوحوش القرية منذ سنوات في مهمة للعثور على وحوش ملحمية وهم الآن على وشك الانتهاء من هذه المهمة!
+DialogBeastHandlerQuest1UI2,"إذا كان بإمكانك مساعدتهم في إنجاز مهمتهم، فسوف يعودون وينضمون إلينا في معركتنا ضد البالونات!"
+DialogBeastHandlerQuest1InGame1,نما إلى علم مروضو الوحوش حكايات عن بيضة غامضة ومن ثم قاموا بترويض أول وحش ملحمي!
+DialogBeastHandlerQuest1InGame2,فساعدهم على تعلم كل ما يمكن معرفته عن هذه الطيور الجارحة المفترسة!
+DialogBeastHandlerQuest2UI1,مدهش! إن مروضي الوحوش يعملون مع وحوش شريرة كما لو كانت حيوانات أليفة. وقد توصلوا إلى كيفية دمجها وتقويتها عن طريق العمل معًا.
+DialogBeastHandlerQuest2UI2,"أنا لا أفهم في علم الأحياء، لكن دمج المجموعات أقوى بالتأكيد. حيث قاموا بتوجيه مروضي الوحوش إلى بيضة أخرى."
+DialogBeastHandlerQuest2UI3,لا أطيق الانتظار لرؤية ما عثروا عليه!
+DialogBeastHandlerQuest3UI1,"يا لك من بارع لتدريب مثل هذه الوحوش المائية المخيفة للمساعدة في محاربة البالونات في الماء، والعثور على كنوز مائية مخفية، مثل البيضة الثالثة."
+DialogBeastHandlerQuest3UI2,"بمجرد قيامك بمساعدة مروضي الوحوش في ترويض الوحش الثالث، سيصبح بمقدورهم الانضمام إلى الفريق!"
+,
+RemoveProviderFromAccount,هل أنت متأكد أنك تريد إزالة مقدم هذه الخدمة من حسابك؟ <br><br><b> قد يستغرق الأمر حتى 3 ساعات لحين الانتهاء من إزالة مقدم الخدمة من الحساب</b>
+ProviderRemovedText,تمت إزالة مقدم الخدمة.<br><br> سيتم إغلاق هذه الصفحة بعد قليل
+AdditionalAccountLinks,روابط حساب إضافية
+LoginWithAmazon,تسجيل الدخول باستخدام حساب أمازون
+LinkingCodeButton,احصل على كود رابط
+LinkingCodeMessage,يُرجى فتح اللعبة على جهازك الآخر وإدخال الرمز التالي عندما يُطلب منك ذلك. هذا الرمز صالح لمدة 10 دقائق.
+Rate Expires In,تنتهي صلاحية السعر في
+Rate,السعر
+CoopGameSyncFailed,فشل مزامنة إعدادات اللعبة. يُرجى تجربة لعبة جديدة.
+iCloudTitle,iCloud
+iCloudDisabled,تم تعطيل iCloud
+iCloudEnabled,تم تمكين iCloud

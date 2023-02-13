@@ -101,7 +101,7 @@ Quincy Level 15 Description,La décharge rapide reçoit une vitesse d'attaque 4�
 Quincy Level 16 Description,Vitesse d'attaque encore plus augmentée.
 Quincy Level 17 Description,Les flèches durent 25 % plus longtemps. Tire des flèches explosives tous les deux tirs.
 Quincy Level 18 Description,Les attaques de Quincy sont plus rapides et Tempête de flèches a un temps de recharge réduit et 50 % de flèches en plus.
-Quincy Level 19 Description,Chaque flèche détient encore davantage de puissance d'éclatement.
+Quincy Level 19 Description,Tire 3 flèches à la fois et chaque flèche obtient encore davantage de puissance d'éclatement.
 Quincy Level 20 Description,Quincy attaque encore plus rapidement. Tempête de flèches inflige plus de dégâts par flèche et tire encore plus de flèches.
 ,
 StrikerJones Level 1 Description,Striker Jones utilise un puissant bazooka pour faire exploser les Bloons.
@@ -697,10 +697,10 @@ Enhanced Eyesight Description,Tire encore plus loin et peut détecter les Bloons
 Spike-o-pult Description,Convertit le singe à fléchettes en herse-a-pulte à la vitesse d'attaque moins rapide qui lance violemment des boules à pointes. Chaque boule peut faire éclater de nombreux Bloons et rebondit sur les obstacles.
 Triple Shot Description,Lance 3 fléchettes à la fois au lieu d’une.
 Crossbow Description,Utilise une arbalète qui peut faire éclater 3 couches de Bloon à chaque tir.
-Juggernaut Description,Lance violemment une boule à pointes géante qui fait éclater les Bloons en plomb et est idéale pour pulvériser les Bloons en céramique.
+Juggernaut Description,Lance violemment une boule à pointes géante qui fait éclater les Bloons en plomb et est idéale pour pulvériser les Bloons en céramique et fortifiés.
 Super Monkey Fan Club Description,"Aptitude Fan-club de super singes : transforme jusqu'à 10 singes à fléchettes à proximité en super singes pendant 15 secondes, y compris lui-même. Vitesse d'attaque ordinaire également augmentée."
 Sharp Shooter Description,Tireur d'élite attaque plus rapidement et effectue des tirs critiques à intervalles réguliers tous les quelques tirs qui infligent beaucoup plus de dégâts.
-Ultra-Juggernaut Description,Énorme boule à pointes qui se divise deux fois en 6 boules de force destructrice pour encore plus de pouvoir destructeur.
+Ultra-Juggernaut Description,Énorme boule à pointes qui se divise deux fois en 6 boules de Force destructrice pour encore plus de pouvoir destructeur contre les Bloons en céramique et fortifiés.
 Plasma Monkey Fan Club Description,Une adhésion d'élite à ce club accorde aux singes à fléchettes encore plus de puissance !
 Crossbow Master Description,L'expert arbalétrier tire très rapidement et dévaste plus de types de Bloons sans difficulté.
 ,
@@ -756,11 +756,11 @@ Permafrost Description,"Les Bloons se déplacent lentement, même après avoir d
 Enhanced Freeze Description,Attaque plus rapidement et gèle plus longtemps.
 Larger Radius Description,Zone de gel plus large.
 Metal Freeze Description,Peut geler et faire éclater les Bloons en plomb et camouflés.
-Deep Freeze Description,Gèle une couche supplémentaire et le gel dure plus longtemps.
+Deep Freeze Description,"Percée augmentée, gèle une couche supplémentaire et le gel dure plus longtemps."
 Re-Freeze Description,Peut regeler les Bloons qui ont déjà été gelés.
 Ice Shards Description,"Des éclats, tels des rasoirs, s'envolent lorsque les Bloons gelés éclatent."
 Arctic Wind Description,Augmente considérablement la percée et confère une aura super froide qui ralentit les Bloons et gèle l'eau à proximité.
-Cryo Cannon Description,"Tire des bombes glaciales sur les Bloons, à longue portée."
+Cryo Cannon Description,Tire rapidement de plus petites bombes glaciales sur une plus longue portée.
 Embrittlement Description,"Peut toucher les Bloons de classe MOAB. Tous les Bloons touchés s'effritent, subissent davantage de dégâts lorsqu'ils sont gelés et perdent leurs propriétés de camouflage."
 Snowstorm Description,"Aptitude Tempête de neige : gèle tous les Bloons ordinaires à l'écran, gèle brièvement les Bloons blancs, zébrés et camouflés, et ralentit les Bloons de classe MOAB."
 Icicles Description,Les Bloons gelés développent des stalactites tranchantes qui peuvent faire éclater les Bloons qui les touchent.
@@ -774,10 +774,10 @@ Stickier Glue Description,Prolonge la durée de l'effet de la colle.
 Corrosive Glue Description,"Toutes les quelques secondes, une couche des Bloons englués éclate."
 Glue Splatter Description,Éclabousse de la colle sur un maximum de 6 Bloons à la fois.
 Stronger Glue Description,Ralentit les Bloons encore plus.
-Bloon Dissolver Description,Les solvants extrêmes fondent deux couches par seconde.
+Bloon Dissolver Description,Peut coller un Bloon supplémentaire par tir et les solvents fondent deux couches par seconde.
 Glue Hose Description,Lance de la colle 3 fois plus vite !
 MOAB Glue Description,Formule de colle améliorée qui lui permet de se coller sur les Bloons de classe MOAB.
-Bloon Liquefier Description,Peut coller un Bloon supplémentaire par tir et applique des mélanges liquéfiants qui effectuent 10 éclatements à chaque seconde.
+Bloon Liquefier Description,Applique des mélanges liquéfiants qui effectuent 10 éclatements à chaque seconde.
 Glue Strike Description,"Aptitude Frappe de colle : colle tous les Bloons à l'écran, ce qui les fait subir plus de dégâts de toutes les sources pendant la durée de l'aptitude."
 Relentless Glue Description,Les Bloons collés qui se font éclater laissent un morceau gluant de colle sur le circuit.
 The Bloon Solver Description,Les Bloons te posent un problème ? Voilà la solution.
@@ -875,10 +875,10 @@ Heavy Shells Description,"Les obus lourds infligent davantage de dégâts aux Bl
 Signal Flare Description,Les Bloons camouflés éclatés par des fusées éclairantes perdent leur camouflage de façon permanente.
 The Big One Description,Les explosions dévastatrices font éclater 7 couches de Bloons chacune et les dégâts de Ça crame sont encore plus augmentés.
 Artillery Battery Description,Aptitude bombardement : déclenche une attaque à feu nourri sur une zone légèrement plus étendue. L'attaque principale inflige plus de dégâts aux BAD et aux boss Bloons et est améliorée à 3 canons pour effectuer des attaques extrêmement rapides. 
-Shattering Shells Description,Toutes les propriétés spéciales des Bloons sont détruites sur les Bloons (excepté les plus gros Bloons) touchés par les obus fracassants.
+Shattering Shells Description,Les propriétés spéciales des Bloons sont détruites sur les Bloons (excepté les plus gros Bloons) touchés par les obus fracassants et les Bloons de classe MOAB sont brûlés et subissent des dégâts supplémentaires.
 The Biggest One Description,Fait exploser de nombreuses couches de Bloons sur une vaste étendue et Ça crame inflige des dégâts puissants.
 Pop and Awe Description,"Aptitude Stupeur d'éclatement : fait pleuvoir des explosions sur tout l'écran, endommageant et immobilisant tous les Bloons pendant quelques secondes. Tous les Déluges d'artillerie infligent plus de dégâts aux BAD et aux boss Bloons. L'attaque principale inflige un bonus de dégâts supplémentaire aux Bloons étourdis."
-Blooncineration Description,"Des trucs super chauds et brûlants brûlent 5 couches de Bloons à chaque tour, peuvent brûler les Bloons de classe MOAB et leur infliger des dégâts supplémentaires."
+Blooncineration Description,"Des trucs super chauds et brûlants brûlent 5 couches de Bloons à chaque tir et incinèrent les Bloons de classe MOAB, leur infligeant d'énormes dégâts."
 ,
 Focused Firing Description,Augmente la précision de la mitrailleuse à fléchettes.
 Advanced Targeting Description,Permet aux mitrailleuses à fléchettes de toucher les Bloons camouflés.
@@ -909,7 +909,7 @@ Shimmer Description,Confère une attaque de magie noire qui révèle de temps en
 Arcane Spike Description,Des tirs de magie plus rapides infligent des dégâts énormes à la plupart des types de Bloons.
 Summon Phoenix Description,Aptitude Invocation du phénix : le puissant phénix fait des ravages sur les Bloons pendant 20 secondes.
 Necromancer: Unpopped Army Description,Réanime les ennemis récemment éclatés en les transformant en servants chargés de détruire les Bloons.
-Archmage Description,Un véritable maître de magie et de sorcellerie.
+Archmage Description,Un véritable maître de magie et de sorcellerie. Attaque plus rapidement et inflige plus de dégâts aux Bloons de classe MOAB.
 Wizard Lord Phoenix Description,"Le seigneur des sorciers devient un maître des flammes, se transformant en phénix de lave super puissant pendant une courte durée."
 Soulbind Description,Réanime des serviteurs Bloons encore plus puissants pour anéantir l'ennemi et renforce tous les autres nécromanciens.
 ,
@@ -971,7 +971,7 @@ Druid of the Storm Description,Les coups de vent emportent les Bloons loin du ci
 Druid of the Jungle Description,"Invoque une plante grimpante à partir du sol pour emmêler et écraser les Bloons, un par un, laissant derrière elle un tas de ronces mortel."
 Druid of Wrath Description,Gagne de la vitesse d'attaque durant la manche tant que le druide attaque des Bloons.
 Ball Lightning Description,Crée de puissantes boules de foudre qui lancent des éclairs supplémentaires et peuvent geler les Bloons.
-Jungle's Bounty Description,"Aptitude Abondance de la jungle : génère de l'argent à chaque utilisation, plus de l'argent supplémentaire pour chaque bananeraie près du druide. Peut également saisir deux Bloons à la fois avec des plantes grimpantes."
+Jungle's Bounty Description,"Aptitude Abondance de la jungle : génère de l'argent à chaque utilisation, plus de l'argent supplémentaire pour chaque bananeraie près du druide. Appelle deux plantes grimpantes pour saisir les Bloons et la percée des tas de ronces est augmentée."
 Poplust Description,Augmente la vitesse d'attaque et la percée des autres druides dans le rayon d'effet. Peut être cumulé jusqu'à 5 fois sur un même druide.
 Superstorm Description,La super tempête touche tous les types de Bloons en leur infligeant des dégâts considérables et les faisant reculer loin de la sortie.
 Spirit of the Forest Description,Fait pousser des plantes rampantes à épines sur le circuit qui infligent des dégâts constants ainsi qu'un bonus de dégâts aux Bloons en céramique. Les plantes rampantes les plus proches de l'Esprit de la forêt infligent plus de dégâts. L'aptitude activée génère des vies et plus d'argent. 
@@ -1660,11 +1660,11 @@ btd6_herobooster Description,Le héros sélectionné dans ta partie devient nive
 btd6_powersattackpack,Pack d'attaque de pouvoirs
 btd6_powersattackpack Description,Assortiment de {0} pouvoirs de singes concentrés sur les batailles.
 btd6_instatowerspack,Pack de singe instantané
-btd6_instatowerspack Description,"5 tours de singe, prêtes à être placées sans utiliser aucun argent du jeu ! Contient 2 tours niveau 1, 2 tours niveau 2, et 1 tour niveau 3"
+btd6_instatowerspack Description,"5 tours de singe, prêtes à être placées sans utiliser aucun argent du jeu ! Contient 2 de niveau 1, 2 de niveau 2 et 1 de niveau 3. Les singes au sein de chaque niveau ont les mêmes chances d'être tirés."
 btd6_tier3instatowerspack,Pack de singe instantané de niveau 3
-btd6_tier3instatowerspack Description,"10 tours de singe instantanées de niveau 3, prêtes à être placées sans utiliser aucun argent du jeu !"
+btd6_tier3instatowerspack Description,"10 tours de singe instantanées de niveau 3, prêtes à être placées sans utiliser aucun argent du jeu ! Les chances de tirer chaque singe sont les mêmes."
 btd6_tier4instatowerspack,Pack de singe instantané de niveau 4
-btd6_tier4instatowerspack Description,"10 tours de singe instantanées de niveau 4, prêtes à être placées sans utiliser aucun argent du jeu !"
+btd6_tier4instatowerspack Description,"10 tours de singe instantanées de niveau 4, prêtes à être placées sans utiliser aucun argent du jeu ! Les chances de tirer chaque singe sont les mêmes."
 btd6_needmoremonkeymoneyprompt,Pas assez de monnaie de singe ! En acheter davantage ?
 ,
 ,
@@ -1678,11 +1678,11 @@ btd6_extramonkeymoney Description,Offre spéciale ! {0} monnaie de singe à un 
 btd6_powerspandamonium,Pandémonium de pouvoirs
 btd6_powerspandamonium Description,Nos pouvoirs combinés ! {0} des meilleurs pouvoirs de singe disponibles en un seul pack.
 btd6_instatowersmegabooster,Méga boost de singe instantané
-btd6_instatowersmegabooster Description,"Ce méga pack contient 5 tours de singe instantanées de niveau 2, 12 tours de niveau 3 et 3 tours de niveau 4, prêtes à être placées sans utiliser aucun argent du jeu !"
+btd6_instatowersmegabooster Description,"Ce méga pack contient 5 tours de singe instantanées de niveau 2, 12 tours de niveau 3 et 3 tours de niveau 4, prêtes à être placées sans utiliser aucun argent du jeu ! Les singes au sein de chaque niveau ont les mêmes chances d'être tirés."
 btd6_megamonkeycompendiumpack,Pack de méga compendium de singe
-btd6_megamonkeycompendiumpack Description,"Un énorme pack rempli de plein de trucs super ! 25 000 monnaie de singe, 100 pouvoirs d'attaque, 30 tours de singe instantanées de niveau 3, 15 tours de singe instantanées de niveau 4, 5 tours de singe instantanées de niveau 5, et Connaissances débloquées"
+btd6_megamonkeycompendiumpack Description,"Un énorme pack rempli de plein de trucs super ! 25 000 monnaie de singe, 100 pouvoirs d'attaque, 30 tours de singe instantanées de niveau 3, 15 tours de singe instantanées de niveau 4, 5 tours de singe instantanées de niveau 5, et Connaissances débloquées (Rang 30, 5 points bonus de connaissances de singe) Les singes au sein de chaque niveau ont les mêmes chances d'être tirés."
 btd6_tier5instatowerpack,Pack de singe insta de niveau 5
-btd6_tier5instatowerpack Description,"10 tours de singe de niveau 5, prêtes à être placées sans utiliser aucun argent du jeu !"
+btd6_tier5instatowerpack Description,"10 tours de singe de niveau 5, prêtes à être placées sans utiliser aucun argent du jeu ! Les chances de tirer chaque singe sont les mêmes."
 ,
 // Store: Sale packs,
 btd6_pileomonkeymoney_sale,Offre Tas de monnaie de singe
@@ -2042,6 +2042,8 @@ Swedish,Suédois
 Turkish,Turc
 Korean,Coréen
 Japanese,Japonais
+Polish,Polonais
+Monkelish,Singelais
 ,
 Backup,Sauvegarde
 Profile,Compte
@@ -2461,11 +2463,11 @@ EditorLockedShareButtonDescription,"Pour pouvoir partager ton défi, tu dois pro
 ConflictScreenChoose,Choisir une partie sauvegardée
 ConflictThisDevice,Cet appareil
 ConflictCloud,Sur le cloud
-ConflictTimeHours,Sauvegardé(e) il y a {0} heures
 ConflictUseButton,Utiliser
 ConflictNoData,Aucune donnée
-ConflictTimeMinutes,Sauvegardé(e) il y a {0} minutes
 ConflictTimeSeconds,Sauvegardé(e) il y a {0} secondes
+ConflictTimeMinutes,Sauvegardé(e) il y a {0} minutes
+ConflictTimeHours,Sauvegardé(e) il y a {0} heures
 ConflictTimeDays,Sauvegardé(e) il y a {0} jours
 FasterMoabs,Vitesse des Bloons de classe MOAB augmentée
 SlowerMoabs,Vitesse des Bloons de classe MOAB réduite
@@ -2751,8 +2753,8 @@ DarkKnightDarkshift,[I] pour effectuer Téléportation obscure à portée
 DarkChampionDarkshift,[I] pour effectuer Téléportation obscure à tout endroit valide
 SmallTowersMode,Petites tours de singe
 BigTowersMode,Grandes tours de singe
-UpdatePopupTitle,Mise à jour 33 !
-UpdatePopupDescription,"Mise à jour importante de contenu !\n• Libérez le puissant Navire de la mort Goliath, Parangon singe pilote d'élite !\n• Cultivez de la puissance d'éclatement de Bloons sur la carte de niveau intermédiaire, Jardin couvert ! Conception par le vainqueur de la compétition de cartes de la communauté, SuperPsou.\n• Hantez les couloirs de l'effrayante nouvelle carte de niveau avancé, Manoir de minuit !\n• Articles de Boutique de trophées, améliorations de qualité de vie, modifications d'équilibrage et bien plus encore !"
+UpdatePopupTitle,Mise à jour 34 !
+UpdatePopupDescription,"Méga mise à jour des Fêtes !\n• Affrontez les prodigieuses résistances et immunités du mastodonte cuirassé, Dreadbloon !\n• Découvrez les placements qui renforcent les tours sur la nouvelle carte de niveau débutant, Un deux arbre !\n• Éliminez les Bloons dans l'esprit des Fêtes avec la nouvelle apparence du Capitaine Churchill, Churchill Traîneau !\n• Articles de Boutique de trophées, améliorations de qualité de vie, modifications d'équilibrage et bien plus encore !\n• Bonnes Fêtes et meilleurs vœux pour un merveilleux Nouvel An, de la part de nous tous ici à Ninja Kiwi !"
 ResetDailyChest,Réinitialiser le Coffre quotidien
 JukeboxName,Juke-box
 EnableFunction,Activer
@@ -4347,7 +4349,7 @@ Geraldo Level 14 Description,La Potion de détection d'invisibilité confère un
 Geraldo Level 15 Description,La Pierre à aiguiser augmente désormais les dégâts en plus de la percée et le Piège à lames génère un effet plus puissant lorsqu'il est déclenché.
 Geraldo Level 16 Description,"Le Tas de vieux clous devient une Mine à clous, le Bocal de cornichons confère un bonus de dégâts supplémentaire contre les Bloons fortifiés et le Feu de Gerry reçoit un bonus de dégâts brûlants."
 Geraldo Level 17 Description,L'attaque principale de Geraldo inflige plus de dégâts et la Super-glu a désormais un petit effet sur les Bloons de classe MOAB.
-Geraldo Level 18 Description,"Le singe génie obtient une deuxième attaque sur les cibles proches et inflige un bonus de dégâts aux Bloons de classe MOAB. Lorsque l'Idole sinistre expire, elle recouvre les Bloons de classe MOAB à proximité d'un Linceul mystique, qui inflige des dégâts lorsqu'ils sont éclatés.", l'Idole sinistre applique un Linceul mystique aux Bloons de classe MOAB qui inflige des dégâts importants à proximité lorsqu'ils s
+Geraldo Level 18 Description,"Le singe génie obtient une deuxième attaque sur les cibles proches et inflige un bonus de dégâts aux Bloons de classe MOAB. Lorsque l'Idole sinistre expire, elle recouvre les Bloons de classe MOAB à proximité d'un Linceul mystique, qui inflige des dégâts lorsqu'ils sont éclatés."
 Geraldo Level 19 Description,L'attaque principale de Geraldo est grandement améliorée et la Potion de détection d'invisibilité reçoit un bonus de dégâts contre les Bloons camouflés.
 Geraldo Level 20 Description,Nouvel article ! Totem de pouvoir de parangon - ajoute un pouvoir de parangon au prochain parangon créé. Le stock de la boutique est pleinement réapprovisionné ! L'attaque principale de Geraldo inflige plus de dégâts.
 Geraldo Shop shortname,Boutique
@@ -4723,17 +4725,17 @@ RelicMilitaryMonkeys,Singes militaires
 RelicMagicMonkeys,Singes magiques
 RelicSupportSimians,Soutien simiesque
 RelicMonkeyTycoon,Singe Tycoon
-RelicStartingStashDescription,Débutez chaque partie avec 300 en argent de plus (se cumule avec Plus d'argent sur les cases ordinaires)
+RelicStartingStashDescription,Débutez chaque partie avec 250 en argent de plus (se cumule avec Plus d'argent sur les cases ordinaires)
 RelicExtraEmpoweredDescription,Votre héros débute une partie avec 3 niveaux de plus (se cumule avec Héros renforcés sur les cases ordinaires)
 RelicBoxOfChocolatesDescription,Débutez chaque partie avec 100 vies supplémentaires
-RelicBoxOfMonkeyDescription,Débutez chaque partie avec un singe gratuit coûtant 500 $ ou moins pour un placement initial non modifié
+RelicBoxOfMonkeyDescription,Débutez chaque partie avec un singe gratuit coûtant 400 $ ou moins pour un placement initial non modifié
 RelicMarchingBootsDescription,"Dans les parties à quantité restreinte, donne aux joueurs +1 en quantité max. de chaque tour de leur configuration ou +4 en quantité totale max. par partie"
 RelicHeroBoostDescription,Les héros gagnent des XP 15 % plus vite dans chaque partie
 RelicBiggerBloonSabotageDescription,Tous les Bloons de classe MOAB apparaissent avec 15 % de santé en moins et se déplacent à 95 % de la vitesse
 RelicRoundingUpDescription,Gagnez +20 $ à la fin de chaque manche
 RelicManaBulwarkDescription,Crée un bouclier qui absorbe jusqu'à 50 vies (se cumule avec Bouclier de mana sur les cases ordinaires)
-RelicRegenerationDescription,"Restaure 10 vies par manche, jusqu'à la valeur de départ en vies de chaque partie, si aucune vie n'a été perdue lors de cette manche"
-RelicRestorationDescription,"Restaure 20 vies par manche, jusqu'à une valeur de départ en vies augmentée de +200, si aucune vie n'a été perdue lors de cette manche"
+RelicRegenerationDescription,"Restaure 20 vies par manche, jusqu'à la valeur de départ en vies de chaque partie, si aucune vie n'a été perdue lors de cette manche"
+RelicRestorationDescription,"Restaure 10 vies par manche, jusqu'à une valeur de départ en vies augmentée de +200, si aucune vie n'a été perdue lors de cette manche"
 RelicDurableShotsDescription,Tous les projectiles ont une durée de vie de +25 %
 RelicAlchemistTouchDescription,Toutes les attaques peuvent faire éclater les Bloons en plomb
 RelicDeepHeatDescription,Toutes les attaques peuvent faire éclater les Bloons blancs
@@ -4741,14 +4743,14 @@ RelicSharpsplosionDescription,Toutes les attaques peuvent faire éclater les Blo
 RelicRoyalTreatmentDescription,Toutes les attaques peuvent faire éclater les Bloons violets.
 RelicHardBakedDescription,Toutes les attaques infligent + 1 de dégâts aux Bloons en céramique
 RelicFortifriedDescription,Toutes les attaques infligent + 1 de dégâts aux Bloons fortifiés.
-RelicMoabClashDescription,Toutes les attaques infligent +3 de dégâts aux Bloons de classe MOAB
+RelicMoabClashDescription,Toutes les attaques infligent +2 de dégâts aux Bloons de classe MOAB
 RelicCamoFloggedDescription,Toutes les attaques infligent + 3 de dégâts aux Bloons camouflés
 RelicBrokenHeartDescription,Toutes les attaques infligent + 1 de dégâts aux Bloons regonflés
 RelicGoingTheDistanceDescription,Confère +20 % de portée à tous les singes
-RelicHeartlessDescription,Le taux de régénération des Bloons regonflés est réduit de 25 %
+RelicHeartlessDescription,Le taux de régénération des Bloons regonflés est réduit de 50 %
 RelicFlintTipsDescription,"Les projectiles acérés ajoutent des dégâts de feu au fil du temps à tous les Bloons auxquels ils infligent des dégâts (1 en dégâts toutes les 2,5 s pendant 5 s au total)"
 RelicAbilitizedDescription,Tous les temps de recharge des aptitudes activées pour tous les singes sont réduits de 10%.
-RelicAirAndSeaDescription,"Les coûts de placement et d'amélioration du pilote d'élite, du pilote d'hélicoptère, du boucanier et du sous-marin sont réduits de 10 % et le rechargement est amélioré de 5 %."
+RelicAirAndSeaDescription,"Les coûts de placement et d'amélioration du pilote d'élite, du pilote d'hélicoptère, du boucanier et du sous-marin sont réduits de 5 % et le rechargement est amélioré de 5 %."
 RelicElDoradoDescription,Toutes les récompenses en monnaie de singe et en trophées d'équipe découlant de victoires de parties sont augmentées de 25 % (+1 au minimum)
 RelicMonkeyShieldDescription,"Pendant 1 heure après sa capture, une case ne peut être attaquée par les autres équipes. Un score amélioré réinitialisera l'effet."
 RelicMonkeyShieldMark2Description,"Pendant 2 heures après sa capture, une case ne peut être attaquée par les autres équipes. Un score amélioré réinitialisera l'effet."
@@ -4763,11 +4765,11 @@ RelicRoadSpikesDescription,Confère 10 tas de Herses par partie
 RelicMoabMineDescription,Permet l'utilisation de 1 bonus Mine anti-MOAB par partie
 RelicGlueTrapDescription,Permet l'utilisation de 2 bonus Piège collant par partie
 RelicTechbotDescription,Permet l'utilisation de 1 bonus Robot techno par partie
-RelicPrimaryPrimatesDescription,Réduit le coût de tous les singes primaires de 10 %
-RelicMilitaryMonkeysDescription,Réduit le coût de tous les singes militaires de 10 %
-RelicMagicMonkeysDescription,Réduit le coût de tous les singes magiques de 10 %
+RelicPrimaryPrimatesDescription,Réduit le coût de tous les singes primaires de 8 %
+RelicMilitaryMonkeysDescription,Réduit le coût de tous les singes militaires de 8 %
+RelicMagicMonkeysDescription,Réduit le coût de tous les singes magiques de 8 %
 RelicSupportSimiansDescription,Réduit le coût de tous les singes de soutien de 10 %
-RelicMonkeyTycoonDescription,Obtenez +1 de chaque tour de singe dans votre configuration et leur prix de base est réduit de 5 %
+RelicMonkeyTycoonDescription,Obtenez +1 de chaque tour de singe dans votre configuration et leur prix de base est réduit de 4 %
 InviteToTeam,Inviter à l'équipe
 TeamLeave,Quitter l'équipe
 Requests,Demandes
@@ -5076,8 +5078,8 @@ TeamsEmblemFrame10Description,Un cadre pour montrer le dévouement de votre équ
 TeamsEmblemFrame11Name,Cadre Cognition
 TeamsEmblemFrame11ShortName,Cadre Cognition
 TeamsEmblemFrame11Description,Faites part des connaissances supérieures de votre équipe en termes d'éclatement de Bloons avec le cadre Cognition.
-BasePropPirateCrewMonkeyName,Équipage pirate
-BasePropPirateCrewMonkeyShortName,Équipage pirate
+BasePropPirateCrewMonkeyName,Singe d'équipage pirate
+BasePropPirateCrewMonkeyShortName,Singe d'équipage pirate
 BasePropPirateCrewMonkeyDescription,Yar ! Souhaitez la bienvenue à cette fripouille dans votre base de Territoires contestés et les autres équipes repartiront avec leurs voiles à leur cou. [Emplacement d'île]
 BasePropTelescopeName,Télescope réfracteur
 BasePropTelescopeShortName,Télescope réfracteur
@@ -5115,6 +5117,261 @@ PlaySocialCaps,JOUER EN SOCIAL
 SelectCapturedRelics,Sélectionner jusqu'à 4 reliques capturées
 NextBonusIn,Prochain bonus dans :
 MemberCount,Nombre de membres
-Min,Le minimum
-PrimeGamingText,Réclamez votre cadeau Prime Gaming !
-GetNow,Get Now
+Min,Min.
+Back,Retour
+Purchase Monkey Money,Acheter de la monnaie de singe
+Player Profile,Profil de joueur
+Toggle Info,Activer/désactiver infos
+Store Info,Infos sur la boutique
+Toggle mode,Activer/désactiver mode
+Toggle jukebox enabled,Activer/désactiver juke-box
+Play / Pause,Lecture / Pause
+Move up,Aller vers le haut
+Move down,Aller vers le bas
+Buy Monkey Knowledge,Acheter connaissances de singe
+Search,Recherche
+Google Play,Google Play
+Remove mode,Retirer mode
+Add mode,Ajouter mode
+Toggle ranked mode,Activer/désactiver mode classé
+Info,Infos
+Switch to MonkeyName,Passer aux singes nommés
+Rename monkey,Renommer singe
+Switch to Medals,Passer aux médailles
+Switch to Settings,Passer aux paramètres
+Refresh,Actualiser
+First Page,Première page
+Prev Page,Page préc.
+Next Page,Page suiv.
+Last Page,Dernière page
+Reset,Réinitialiser
++,+
+-,-
+Show/Hide panel,Afficher/Cacher panneau
+Toggle Loop Track,Activer/désactiver morceau en boucle
+Previous Track,Morceau précédent
+Next Track,Morceau suivant
+Info mode,Mode infos
+Hero mode,Mode héros
+Skin mode,Mode apparence
+Prev mode,Mode précédent
+Next mode,Mode suivant
+Disconnect controller,Déconnecter la manette
+Clear all monkeys,Supprimer tous les singes
+Clear all powers,Supprimer tous les pouvoirs
+Mute,Mettre en sourdine
+Place Second Tower Console,Placez un autre singe à fléchettes puis appuyez sur [dpad_up] pour Jouer
+Finished Round One Console,"C'était facile, pas vrai ? Appuyez sur [dpad_up] pour démarrer la prochaine manche"
+Speed x1,Vitesse x1
+Speed x3,Vitesse x3
+CouchBuildZoneMessage,Bâtissez vos tours de singe dans la zone valide
+Insta Monkeys,Singes instantanés
+Controller.Title,Commandes
+Controller.DPadUp,Lancer la manche / Avance rapide
+Controller.DPadDown,Lancer la manche de course
+Controller.DPadLeft,Non assigné
+Controller.DPadRight,Non assigné
+Controller.LeftAnalog,Curseur libre
+Controller.LeftAnalogButton,Placement rapide
+Controller.RightAnalog,Faire défiler
+Controller.RightAnalogButton,Afficher/Cacher panneau
+Controller.Menu,Non assigné
+Controller.Start,Pause
+Controller.LeftShoulder,Onglet préc.
+Controller.RightShoulder,Onglet suiv.
+Controller.LeftTrigger,"Placement précis, raccourcis aptitudes"
+Controller.RightTrigger,Raccourcis aptitudes
+Controller.NorthButton,Non assigné
+Controller.SouthButton,Confirmer
+Controller.EastButton,Annuler
+Controller.WestButton,Non assigné
+Toggle tab,Basculer onglet
+Refresh data,Actualiser les données
+Prev tab,Onglet préc.
+Next tab,Onglet suiv.
+Controller.Ready,Prêt
+Friends,Amis
+MinimumRounds,Nombre de manches min.
+MaximumRounds,Nombre de manches max.
+Max Monkeys,Singes max.
+Toggle add / remove,Activer ajouter/retirer
+Toggle select / edit,Activer sélectionner/modifier
+Camo,Camouflés
+Couch Co-op,Coop canapé
+Gift,Cadeau
+Emote,Émoticône
+Set Target,Définir la cible
+Return to groups,Retourner aux groupes
+TT_FollowCursor,Suivre le curseur
+Toggle Map Dividers,Activer/désactiver séparateurs de cartes
+Send,Envoyer
+Upgrade,Mise à jour
+NextUpgrade,Prochaine mise à jour
+CurrentUpgrade,Mise à jour actuelle
+HeroBoosterLocked,Verrouillé(e)
+PrimeGamingText,Récupérez votre colis Prime Gaming
+GetNow,Obtenir maintenant
+,
+DarkDungeons,Sombres donjons
+OneTwoTree,Un deux arbre
+BeastHandler,Dresseur de bêtes
+BeastHandlers,Dresseurs de bêtes
+BeastHandler Description,"Peut dresser des bêtes dangereuses sur terre, en mer et dans les airs. Plutôt que de créer d'autres bêtes, plusieurs dresseurs travaillent ensemble afin d'accroître le pouvoir des bêtes existantes."
+BeastHandler Short Description,Singe de soutien
+Piranha,Piranha
+Microraptor,Microraptor
+Gyrfalcon,Gerfaut
+Barracuda,Barracuda
+Adasaurus,Adasaure
+Horned Owl,Hibou grand-duc
+Great White,Grand requin blanc
+Velociraptor,Vélociraptor
+Golden Eagle,Aigle royal
+Orca,Orque
+Tyrannosaurus Rex,Tyrannosaure
+Giant Condor,Condor géant
+Megalodon,Mégalodon
+Giganotosaurus,Giganotosaure
+Pouakai,Pouakai
+Piranha Description,Commande à un poisson de petite taille mais agressif de sauter hors de l'eau sur les Bloons.
+Microraptor Description,Commande un petit dinosaure aux griffes acérées. Faites-le croître avec plus de dresseurs de bêtes avec cette amélioration.
+Gyrfalcon Description,Commande un petit oiseau de proie noble qui peut se saisir de Bloons avec ses serres et les déplacer.
+Barracuda Description,Les dents tranchantes comme un rasoir du barracuda peuvent faire éclater plusieurs couches de Bloons. Requiert au moins 1 autre dresseur de bêtes avec des améliorations piranha. 4 dresseurs de bêtes au maximum peuvent contribuer
+Adasaurus Description,Les dents acérées de l'adasaure infligent des dégâts élevés de courte portée. Requiert au moins 1 autre dresseur de bêtes avec des améliorations microraptor. 4 dresseurs de bêtes au maximum peuvent contribuer
+Horned Owl Description,"Le hibou grand-duc a suffisamment de force pour se saisir de Bloons en plomb et en céramique et les faire éclater, et il a une vue perçante capable de détecter les Bloons camouflés."
+Great White Description,"Le grand requin blanc brise les Bloons dans ses mâchoires, y compris les Bloons en plomb, et les traîne jusque dans l'eau si nécessaire. Requiert au moins 2 autres dresseurs de bêtes avec des améliorations barracuda. 4 dresseurs de bêtes au maximum peuvent contribuer"
+Velociraptor Description,Le vélociraptor taillade et mord les Bloons à une vitesse effrayante. Requiert au moins 2 autres dresseurs de bêtes avec des améliorations adasaure. 4 dresseurs de bêtes au maximum peuvent contribuer
+Golden Eagle Description,Expert dans l'art de se saisir d'un grand nombre de Bloons à la fois. L'aigle royal est si grand qu'il requiert au moins 2 autres dresseurs de bêtes avec des améliorations hibou grand-duc. 4 dresseurs de bêtes au maximum peuvent contribuer
+Orca Description,"La gueule énorme du redoutable orque peut attraper n'importe quel Bloon, sauf les plus gros d'entre tous, et l'emporter dans les profondeurs. Requiert au moins 3 autres dresseurs de bêtes avec des améliorations grand requin blanc. 4 dresseurs de bêtes au maximum peuvent contribuer"
+Tyrannosaurus Rex Description,L'énorme mâchoire et dentition acérée du tyrannosaure infligent des tonnes de dégâts à chaque morsure. Requiert au moins 3 autres dresseurs de bêtes avec des améliorations vélociraptor. 4 dresseurs de bêtes au maximum peuvent contribuer. Aptitude Piétinement du tyrannosaure : étourdit les Bloons jusqu'à la taille des ZOMG dans une zone étendue.
+Giant Condor Description,Les énormes serres du redoutable condor géant peuvent se saisir de Bloons de classe MOAB. Requiert au moins 3 autres dresseurs de bêtes avec des améliorations aigle royal. 4 dresseurs de bêtes au maximum peuvent contribuer
+Megalodon Description,Un requin absolument colossal qui apprécie la chair de Bloon et requiert au moins 4 autres dresseurs de bêtes avec des améliorations orque. 8 dresseurs de bêtes au maximum peuvent contribuer
+Giganotosaurus Description,"Le plus grand et le plus féroce de tous les dinosaures, le giganotosaure peut facilement tailler en pièces instantanément quasiment n'importe quel Bloon. Requiert au moins 4 autres dresseurs de bêtes avec des améliorations tyrannosaure. 8 dresseurs de bêtes au maximum peuvent contribuer. L'aptitude étourdit les Bloons jusqu'à la taille des ZOMG partout et pendant plus longtemps."
+Pouakai Description,"Le légendaire pouakai, un oiseau si grand qu'il peut saisir, emporter et détruire quasiment n'importe quel nombre de Bloons de n'importe quelle taille. Requiert au moins 4 autres dresseurs de bêtes avec des améliorations condor géant. 8 dresseurs de bêtes au maximum peuvent contribuer"
+T Rex Stomp Ability,Piétinement du tyrannosaure
+T Rex Stomp Ability Description,Étourdit les Bloons jusqu'à la taille des ZOMG dans une zone étendue.
+Giganotosaurus Stomp Ability,Piétinement du giganotosaure
+Giganotosaurus Stomp Ability Description,Étourdit les Bloons jusqu'à la taille des ZOMG partout et pendant plus longtemps.
+Move,Déplacer
+NeedsBeastHandlers,Requiert la bête
+NeedsWater,Requiert de l'eau
+NeedsTrack,Requiert du circuit
+Dreadbloon,Dreadbloon
+DreadbloonTagLine,Des profondeurs de la terre obscure...
+DreadbloonTagLine2,le mastodonte cuirassé !
+DreadbloonInfoPanelDescription,"\n• Dreadbloon possède les propriétés de Bloon de plomb et réduit tous les dégâts reçus de 1.\n• Lorsque chaque crâne est atteint, Dreadbloon développe une cuirasse en céramique et des Bloons Dreadroche se mettront à apparaître au début du circuit.\n• Lorsque Dreadbloon apparaît, il est immunisé contre les tours primaires. À chaque crâne, l'immunité passe à un type de tour différent : militaire, magique, soutien.\n• Les Bloons Dreadroche et la cuirasse en céramique possèdent également ces immunités.\n• Les Bloons Dreadroche provoquent le ciblage des tours au niveau Fort, alors faites attention à ce que ciblent vos tours !"
+DreadbloonPrimaryImmunity,Immunité contre : Primaire
+DreadbloonMilitaryImmunity,Immunité contre : Militaire
+DreadbloonMagicImmunity,Immunité contre : Magique
+DreadbloonSupportImmunity,Immunité contre : Soutien
+Resist,Résistance
+Immune,Immunité
+SleighCaptainChurchillSkinName,Apparence Churchill Traîneau
+SleighCaptainChurchillSkinDescription,"Éliminer les Bloons dans la bonne humeur de Noël, un cadeau explosif à la fois."
+SleighCaptainChurchillSkinNameFull,Churchill Traîneau
+GameUIProfileBanner23Name,Bannière de profil Meilleurs vœux
+GameUIProfileBanner23ShortName,Bannière Meilleurs vœux
+GameUIProfileBanner23Description,Célébrez la gaieté des fêtes cet hiver ou toute l'année avec cette bannière divertissante et givrée. Pièce de collection à durée limitée !
+GameUIProfileBanner24Name,Bannière de profil Glaives boomerang
+GameUIProfileBanner24ShortName,Bannière Glaives boomerang
+GameUIProfileBanner24Description,Bannière gagnante par ReconScoutTeemo
+GameUIProfileBanner25Name,Bannière de profil Glyphes
+GameUIProfileBanner25ShortName,Bannière Glyphes
+GameUIProfileBanner25Description,Bannière gagnante par PvtMagnuS
+GameUIProfileAvatar65Name,Avatar personnalisé - Couronne de Noël
+GameUIProfileAvatar65ShortName,Avatar Couronne de Noël
+GameUIProfileAvatar65Description,"Répandez la bonne fortune et la bonne humeur avec cet avatar Couronne de Noël. Pièce de collection à durée limitée !"
+GameUIProfileAvatar66Name,Avatar personnalisé - Avatar du courroux
+GameUIProfileAvatar66ShortName,Avatar Avatar du courroux
+GameUIProfileAvatar66Description,"Enfin ! Combien de temps a-t-il fallu pour me mettre dans la rotation ?! J'ai pourtant Avatar dans mon nom, nom d'une banane !"
+GameUIProfileAvatar67Name,Avatar personnalisé - Joyeuses Fêtes
+GameUIProfileAvatar67ShortName,Avatar Joyeuses Fêtes
+GameUIProfileAvatar67Description,"L'excitation d'Etienne à l'idée de recevoir un autre drone pour Noël remplirait de joie n'importe qui. Pièce de collection à durée limitée !"
+GameUIProfileAvatar68Name,Avatar personnalisé - Zéro absolu
+GameUIProfileAvatar68ShortName,Avatar Zéro absolu
+GameUIProfileAvatar68Description,"Si avoir l'air cool a de l'importance, vous ne pouvez pas vous tromper avec cet avatar de singe de glace."
+CoopEmoteAnimationSleighbellsName,Animation Neige et cloches de traîneau
+CoopEmoteAnimationSleighbellsShortName,Cloches de traîneau
+CoopEmoteAnimationSleighbellsDescription,"Obtenez cet émoticône plein écran d'un fabuleux paysage d'hiver et faites passer la bonne humeur au joueur 1, 2 ou 4 ! Pièce de collection à durée limitée !"
+TowerProjectileBananaFarmPresentsName,Cadeaux bananes de bananeraie
+TowerProjectileBananaFarmPresentsShortName,Cadeaux de bananeraie
+TowerProjectileBananaFarmPresentsDescription,"Rien de mieux qu'une bananeraie où poussent des cadeaux ! Qu'est-ce qu'il y a dans ces cadeaux ? Des bananes, bien sûr ! Pièce de collection à durée limitée !"
+TowerProjectileDartMonkeySnowballsName,Projectile de singe à fléchette Boules de neige
+TowerProjectileDartMonkeySnowballsShortName,Boules de neige de singe à fléchettes
+TowerProjectileDartMonkeySnowballsDescription,"Nous ignorons comment ils sont devenus aussi bons en grandissant dans la jungle, mais essayez cet échange de projectiles et vous verrez pourquoi les singes à fléchettes gagnent toujours les batailles de boules de neige. Pièce de collection à durée limitée !"
+TowerProjectileTackShooterIciclesName,Projectile de tireur de punaises Stalactites et flocons
+TowerProjectileTackShooterIciclesShortName,Stalactites de tireur de punaises
+TowerProjectileTackShooterIciclesDescription,"Si vous adorez le combo tireur de punaises et singe de glace, ça brillera encore plus quand les punaises sont des stalactites et les lames des flocons. Pièce de collection à durée limitée !"
+TowerProjectileNinjaMonkeySnowflakesName,Projectile de singe ninja Flocons
+TowerProjectileNinjaMonkeySnowflakesShortName,Flocons de singe ninja
+TowerProjectileNinjaMonkeySnowflakesDescription,Flocon délicat\nLancé vite de main ninja\nSymétrie tranchante\n\nPièce de collection à durée limitée !
+BuildingPropChristmasTreeName,Bâtiment Arbre de Noël
+BuildingPropChristmasTreeShortName,Bâtiment Arbre de Noël
+BuildingPropChristmasTreeDescription,Changer votre base en un arbre ?! Mais où vont vivre les singes ? Une seconde... je n'ai rien dit.\nMettez votre équipe d'humeur festive avec cette base Arbre de Noël. [Emplacement de bâtiment principal]
+BasePropCosyBeanbagMonkeyName,Singe à pouf douillet
+BasePropCosyBeanbagMonkeyShortName,Singe à pouf douillet
+BasePropCosyBeanbagMonkeyDescription,Le pouf. Symbole ultime de la détente. Inclut un singe en train de se détendre ! [Emplacement d'île]
+TeamsBanner9Name,Bannière Flocon délicat
+TeamsBanner9ShortName,Bannière Flocon délicat
+TeamsBanner9Description,"La simple complexité d'un flocon de neige est la perfection même, tout comme votre équipe."
+TeamsBanner10Name,Bannière Banane rôtie
+TeamsBanner10ShortName,Bannière Banane rôtie
+TeamsBanner10Description,Faites saliver votre équipe avec une banane rôtie au feu de joie !
+TeamsEmblemFrame12Name,Cadre Bloon
+TeamsEmblemFrame12ShortName,Cadre Bloon
+TeamsEmblemFrame12Description,Devenez l'équipe ennemie de tous avec ce cadre Bloon sans pitié.
+TeamsEmblemFrame13Name,Cadre Militaire
+TeamsEmblemFrame13ShortName,Cadre Militaire
+TeamsEmblemFrame13Description,"Sans structure et discipline, une équipe enthousiaste n'est rien."
+TeamsEmblemIcon15Name,Icône Couronne
+TeamsEmblemIcon15ShortName,Icône Couronne
+TeamsEmblemIcon15Description,Affichez la revendication de votre équipe du trône des fléchettes.
+TeamsEmblemIcon16Name,Icône Extraterrestre
+TeamsEmblemIcon16ShortName,Icône Extraterrestre
+TeamsEmblemIcon16Description,Une icône pour les moments où votre équipe laisse derrière elle les limites du monde !
+Achievement 146 Name,Quête secondaire
+Achievement 146 Description,Accomplissez une quête
+Achievement 147 Name,Dynamisation
+Achievement 147 Description,Ayez 75 bonus actifs sur vos singes en même temps
+Achievement 148 Name,Entraînement de ligue mondiale
+Achievement 148 Description,Obtenez 150 000 XP de dresseur de bêtes
+CompleteQuestMessage,Accomplissez la quête
+QuestUnlocksAtLevelXMessage,La quête est déverrouillée<br>au niveau {0}
+QuestComplete,Quête accomplie !
+BeastHandlerQuestName,Quête des bêtes épiques
+BeastHandlerQuestReward,Déverrouillez le dresseur de bêtes et plus !
+BeastHandlerQuest1Name,La Voie de la Terre
+BeastHandlerQuest1Description,Dressez des dinosaures mortels sur Carrière
+BeastHandlerQuest1Victory,Félicitations ! Vous avez terminé la Voie de la Terre !
+BeastHandlerQuest2Name,La Voie de l'Eau
+BeastHandlerQuest2Description,Élevez de féroces poissons sur L'île des épices
+BeastHandlerQuest2Victory,Félicitations ! Vous avez terminé la Voie de l'Eau !
+BeastHandlerQuest3Name,La Voie de l'Air
+BeastHandlerQuest3Description,Faites éclore de puissants oiseaux sur À sec
+BeastHandlerQuest3Victory,Félicitations ! Vous avez terminé la Voie de l'Air !
+DialogBeastHandlerQuest1UI1,"Les dresseurs de bêtes ont quitté le village il y a des années de cela, en quête de bêtes épiques, et ils ont presque atteint leur objectif !"
+DialogBeastHandlerQuest1UI2,"Si vous les aidez à accomplir leur quête, ils reviendront et se joindront à nous dans notre lutte contre les Bloons !"
+DialogBeastHandlerQuest1InGame1,Les dresseurs de bêtes ont entendu des rumeurs d'un œuf mystérieux et ont apprivoisé leur première bête épique !
+DialogBeastHandlerQuest1InGame2,Aidez-les à apprendre tout ce que l'on peut savoir au sujet de ces forces de la nature voraces !
+DialogBeastHandlerQuest2UI1,Incroyable ! Les dresseurs de bêtes travaillent avec des créatures redoutables comme si elles étaient des animaux de compagnie. Et ils ont compris comment les combiner et les rendre plus puissantes en travaillant ensemble.
+DialogBeastHandlerQuest2UI2,"Je ne comprends pas l'aspect biologique, mais les combinaisons sont clairement plus puissantes. Ils ont mené les dresseurs de bêtes jusqu'à un autre œuf."
+DialogBeastHandlerQuest2UI3,J'ai vraiment hâte de voir ce qu'ils ont trouvé !
+DialogBeastHandlerQuest3UI1,"C'est si ingénieux de dresser des bêtes aquatiques si redoutables à aider à combattre des Bloons sur l'eau, ainsi qu'à trouver des trésors cachés dans l'eau, comme le troisième œuf."
+DialogBeastHandlerQuest3UI2,"Lorsque vous aurez aidé les dresseurs de bêtes à apprivoiser la troisième bête, ils pourront se joindre à l'équipe !"
+,
+RemoveProviderFromAccount,Voulez-vous vraiment retirer ce fournisseur de votre compte ? <br><br><b>Retirer le fournisseur du compte peut prendre jusqu'à 3 heures</b>
+ProviderRemovedText,Fournisseur retiré.<br><br>Cette page se fermera bientôt
+AdditionalAccountLinks,Liens supplémentaires du compte
+LoginWithAmazon,Se connecter avec Amazon
+LinkingCodeButton,Obtenir un code de liaison
+LinkingCodeMessage,Veuillez ouvrir le jeu sur votre autre appareil et fournir le code suivant lorsqu'il vous sera demandé. Ce code est valide pendant 10 minutes.
+Rate Expires In,Taux expire dans
+Rate,Taux
+CoopGameSyncFailed,Échec de la synchronisation des paramètres de jeu. Veuillez essayer une nouvelle partie.
+iCloudTitle,iCloud
+iCloudDisabled,iCloud désactivé
+iCloudEnabled,iCloud activé
+DialogBeastHandlerQuest1InGameTowerUpgrade1,Wow, cette bête est si forte qu'il faut DEUX dresseurs de bêtes pour la garder sous contrôle !
+Buffed,Renforcé
+Assisting,Assistant
+Select Point On Track,Sélectionnez un point sur la piste
