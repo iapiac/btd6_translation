@@ -6,4 +6,4 @@ I just want to know if or how NK changes it.
 Check commit history to get what they changed.  
 Also, you can download releases for every major versions.
   
-Use [AssetStudio](https://github.com/Perfare/AssetStudio) to get TextAssets and export them.
+Use [AssetRipper](https://github.com/AssetRipper/AssetRipper) to get TextAssets and export them.
