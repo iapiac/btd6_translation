@@ -232,7 +232,7 @@ ObynGreenfoot Level 20 Description,Muralha de Árvores aguenta muito mais Bloons
 ,
 Ezili Level 1 Description,Ezili amaldiçoa Bloons com magia vodu obscura.
 Ezili Level 2 Description,Alcance aumentado.
-Ezili Level 3 Description,"Parar o Coração: desacelera Bloons, permite estourar Roxos e impede qualquer regeneração por 10 segundos."
+Ezili Level 3 Description,Parar o Coração: permite estourar Roxos e impede qualquer regeneração por 10 segundos.
 Ezili Level 4 Description,O ataque principal de Ezili agora amaldiçoa múltiplos Bloons.
 Ezili Level 5 Description,Velocidade de ataque aumentada.
 Ezili Level 6 Description,O dano por tempo dura mais tempo e causa dano mais rápido.
@@ -698,7 +698,7 @@ Spike-o-pult Description,Converte o Macaco Dardo numa Catapulta de Espinhos mais
 Triple Shot Description,Dispara 3 dardos de uma vez ao invés de um.
 Crossbow Description,Usa uma Besta de longo alcance que pode estourar 3 camadas de Bloon a cada acerto.
 Juggernaut Description,Lança uma bola de espinhos gigante que estoura chumbo é ótima pra destruir Bloons de Cerâmica e Fortificados.
-Super Monkey Fan Club Description,"Habilidade do Fã Clube do Supermacaco: Converte até 10 Macacos Dardos, incluindo a si próprio, em Supermacacos por 15 segundos. A velocidade do ataque básico também aumenta."
+Super Monkey Fan Club Description,"Habilidade do Fã Clube do Supermacaco: Converte até 10 Macacos Dardos próximos, incluindo a si próprio, em Supermacacos por 15 segundos. A velocidade do ataque básico também aumenta."
 Sharp Shooter Description,O Atirador Afiado dispara mais rápido e lança poderosos Disparos Críticos a cada poucos disparos que causam muito mais dano.
 Ultra-Juggernaut Description,Bola de espinhos gigantesca que se divide duas vezes em 6 bolas Jamanta para ainda mais poder destrutivo contra Bloons de Cerâmica e Fortificados.
 Plasma Monkey Fan Club Description,A assinatura de elite desse clube dá aos Macacos Dardos ainda mais poder!
@@ -819,7 +819,7 @@ Sub Commander Description,Concede perfuração e dano extras para Comandantes to
 Buccaneer-Faster Shooting Description,Todas as armas a bordo disparam mais rápido.
 Buccaneer-Grape Shot Description,Adiciona um jato de 5 balas fragmentadas ao navio.
 Buccaneer-Long Range Description,Alcance muito maior e projéteis voam mais rápido.
-Buccaneer-Double Shot Description,Duplica as armas de navios que disparam.
+Buccaneer-Double Shot Description,Aumenta as armas de navios que disparam.
 Buccaneer-Hot Shot Description,Disparo de dispersão incandescente pode estourar Bloons de Chumbo e incendiar Bloons.
 Buccaneer-Crow's Nest Description,Permite ao Bucaneiro atingir Bloons Camuflados.
 Buccaneer-Destroyer Description,"Ataca super, super rapidamente!"
@@ -829,7 +829,7 @@ Buccaneer-Aircraft Carrier Description,Lança ondas de caças que atacam seus al
 Buccaneer-Monkey Pirates Description,Adiciona 2 canhões ao navio e ataques causam mais dano. Habilidade Derrubar MOAB: arpoa um Bloon classe MOAB e o derruba.
 Buccaneer-Favored Trades Description,Ataca mais rápido e gera muito dinheiro por rodada. Macacos no alcance também possuem maior valor de venda.
 Buccaneer-Carrier Flagship Description,"Causa dano extra. Pode colocar outros macacos nos convés superiores do navio, aumenta a velocidade de ataque de todos os macacos aquáticos e Macacos Áses."
-Buccaneer-Pirate Lord Description,"Aumenta muito a velocidade de ataque para todos os ataques e pode atirar 3 ganchos de uma vez, saqueando dinheiro extra de cada Bloon classe MOAB eliminado."
+Buccaneer-Pirate Lord Description,"Aumenta muito o poder e pode atirar 3 ganchos de uma vez, saqueando dinheiro extra de cada Bloon classe MOAB eliminado."
 Buccaneer-Trade Empire Description,"Gera mais dinheiro por rodada, aumenta o dinheiro gerado por até 20 outros mercantes pelo número total de mercantes e impulsiona o dano de todos os mercantes."
 ,
 Rapid Fire Description,Dispara mais rápido que o normal.
@@ -902,7 +902,7 @@ Fireball Description,"A cada segundo, lança uma magia de bola de fogo explosiva
 Intense Magic Description,Rajadas mágicas mais poderosas se movem mais rápido e podem estourar mais Bloons.
 Arcane Blast Description,Rajadas mágicas maiores e mais poderosas estouram duas camadas de Bloons.
 Wall of Fire Description,Cria uma muralha de fogo superquente na pista para queimar os Bloons que passarem.
-Monkey Sense Description,Permite ao Mago atingir Bloons Camuflados.
+Monkey Sense Description,Aumenta um pouco o alcance e permite ao Mago atingir Bloons Camuflados.
 Arcane Mastery Description,"Ataques mais rápidos com aumento no alcance, dano e poder de estouro."
 Dragon's Breath Description,Cospe chamas intermináveis em Bloons próximos e melhora Bola de Fogo e Muralha de Chamas.
 Shimmer Description,Ganha uma magia obscura que periodicamente revela a localização de todos os Bloons Camuflados permanentemente.
@@ -942,7 +942,7 @@ Bloonjitsu Description,Lança 5 shurikens de vez!
 Bloon Sabotage Description,"Habilidade de Sabotagem: Dura 15 segundos. Durante a sabotagem, todos os Bloons se movem com metade da velocidade. "
 Sticky Bomb Description,Lança poderosas cargas temporizadas contra Bloons Classe MOAB.
 Grandmaster Ninja Description,"Dispara incrivelmente rápido, 8 shurikens por disparo!"
-Grand Saboteur Description,Duração da habilidade mais longa e Bloons Classe MOAB nascem com menos vida durante a sabotagem.
+Grand Saboteur Description,Duração da habilidade mais longa e Bloons Classe MOAB nascem com menos vida durante a sabotagem. Fortalece todos os Shinobi.
 Master Bomber Description,Um Macaco máquina de destruição MOAB.
 ,
 Larger Potions Description,Poções maiores afetam áreas maiores.
@@ -987,11 +987,11 @@ Banana Plantation Description,Cresce 16 cachos de banana por rodada.
 Monkey Bank Description,Todo o dinheiro gerado por esta fazenda agora é armazenado no banco e rende 15% de juros a cada rodada.
 Marketplace Description,Gera dinheiro a cada rodada e o adiciona ao seu total. Sem enrolação.
 Banana Research Facility Description,"Produz 5 caixas grandes de banana a cada rodada, no valor de $300 cada."
-IMF loan Description,"Habilidade Empréstimo do FMI: Empresta $10.000, mas você precisa devolver com o tempo."
+IMF loan Description,"Habilidade Empréstimo do FMI: Empresta $9.000, mas você precisa devolver com o tempo."
 Central Market Description,Ganha pilhas de dinheiro a cada rodada e dá aos Navios Mercantes +10% de receita.
 Banana Central Description,É banana que vocês querem? Nós temos bananas!
 Monkey-Nomics Description,Para quando se é muito grande para errar...
-Monkey Wall Street Description,Central de negócios símios gera quantias colossais e gera vidas a cada rodada.
+Monkey Wall Street Description,"Central de negócios símios gera quantias colossais, gera vidas a cada rodada e coleta renda no alcance."
 ,
 Sentry Gun Description,Cria temporariamente armas sentinelas e as posiciona por perto.
 Larger Service Area Description,Dispara mais longe e posiciona sentinelas numa área muito maior. Sentinelas possuem maior alcance.
@@ -1007,7 +1007,7 @@ Overclock Description,Habilidade Overclock: Mire em outra torre para supercarreg
 Bloon Trap Description,Armadilha Bloon os captura até encher. Selecione para esvaziar a armadilha cheia para ganhar dinheiro.
 Sentry Paragon Description,"Cria sentinelas superpoderosas, mas altamente instáveis."
 Ultraboost Description,"Macacos em Ultraoverclock ganham um pequeno, porém permanente, bônus a cada Overclock."
-XXXL Trap Description,Imensa armadilha Bloon que pode prender alguns dos maiores Bloons dentro dela…
+XXXL Trap Description,Imensa armadilha Bloon que pode prender alguns dos maiores Bloons dentro dela
 ,
 Bigger Stacks Description,Gera maiores pilhas de espinhos por disparo.
 Faster Production Description,Aumenta rapidamente a taxa de produção.
@@ -1051,7 +1051,7 @@ Primary Training Description,"Todos os Macacos Primários no raio ganham mais al
 Monkey Intelligence Bureau Description,"A Agência concede conhecimentos avançados em estouro de Bloons, permitindo aos macacos próximos estourar todos os tipos de Bloon."
 Monkey Town Description,Todos os Macacos dentro do raio da Cidade dos Macacos recebem dinheiro extra por cada estouro.
 Primary Mentoring Description,"Todos os Macacos Primários no raio recebem melhorias de primeiro nível gratuitamente, aumento no alcance e recarga de habilidade reduzida."
-Call to Arms Description,Habilidade Chamado às Armas: Dá aos Macacos próximos +50% de velocidade de ataque e estouros por um curto tempo.
+Call to Arms Description,Habilidade Chamado às Armas: Dá a todos os Macacos +50% de velocidade de ataque e estouros por um curto tempo.
 Monkey City Description,"Aumenta o alcance da influência, geração de dinheiro no alcance e dá um Macaco Dardo grátis a cada rodada."
 Primary Expertise Description,"Adiciona ataque de Mega Balista, mais todos os Macacos Primários no alcance ganham mais poder de estouro, maior redução nas recargas de habilidade e melhorias nível 1 e 2 grátis."
 Homeland Defense Description,A habilidade agora aumenta a velocidade de ataque e estoura em 100% para todos os Macacos por 20 segundos.
@@ -1115,7 +1115,7 @@ Super Maelstrom Ability Description,Habilidade Tempestade ainda mais poderosa e 
 Snowstorm Ability Description,Congela todos os Bloons na tela por um curto período de tempo.
 Absolute Zero Ability Description,"Essa habilidade é tão gélida que congela todos os tipos de Bloons, inclusive os imunes a gelo e Classe MOAB."
 Glue Strike Ability Description,Cola todos os Bloons na tela.
-Glue Storm Ability Description,A habilidade Tempestade de Cola envolve toda a tela de cola por 10 segundos.
+Glue Storm Ability Description,A habilidade Tempestade de Cola envolve toda a tela de cola por 15 segundos.
 Supply Drop Ability Description,Dá uma caixa cheia de dinheiro.
 Elite Sniper Ability Description,A descarga de suprimentos dá muito mais dinheiro.
 Elite Defender Ability Description,Uma vida perdida dá ao Atirador de Elite 2x velocidade de ataque por um curto período de tempo.
@@ -1140,14 +1140,14 @@ Legend of the Night Ability Description,"Quando toda a esperança se perde, nos 
 Bloon Sabotage Ability Description,Durante a sabotagem todos os Bloons se movem com velocidade reduzida.
 Grand Saboteur Ability Description,Duração da habilidade mais longa e Bloons Classe MOAB nascem com menos vida durante a sabotagem.
 Transforming Tonic Ability Description,Fazendas próximas ao Druida geram 50% mais dinheiro por um curto período.
-IMF loan Ability Description,"Empresta $10.000, mas você precisa devolver com o tempo."
+IMF loan Ability Description,"Empresta $9.000, mas você precisa devolver com o tempo."
 Monkey-Nomics Ability Description,Para quando se é muito grande para errar...
 Overclock Ability Description,O macaco alvo fica superpoderoso por um curto período.
 Spike Storm Ability Description,Dispara uma grossa camada de espinhos sobre toda a pista.
 Carpet of Spikes Ability Description,"Coloca um tapete de espinhos sobre toda a pista, todas as rodadas."
 Magic Arcanum Ability Description,Cria um poderoso macaco cujas habilidades são baseadas nos Macacos Mágicos próximos.
-Call to Arms Ability Description,Dá a todos os macacos o DOBRO da velocidade de ataque e estouros por 10 segundos.
-Homeland Defense Ability Description,A habilidade afeta TODOS os Macacos e dura 15 segundos.
+Call to Arms Ability Description,Dá a todos os macacos +50% de velocidade de ataque e estouros por 10 segundos.
+Homeland Defense Ability Description,Dá a todos os macacos +100% de velocidade de ataque e estouros por 20 segundos.
 ,
 //Maps,
 TownCentre,Centro da Cidade
@@ -1824,7 +1824,7 @@ InsiderTradesDescription,O desconto de Negócios Símios aumenta em 2%.
 BiggerBanks,Bancos Maiores
 BiggerBanksDescription,Os Bancos Símios estocam 2500 em dinheiro extra.
 BackroomDeals,Acordos Por Debaixo dos Panos
-BackroomDealsDescription,O Empréstimo do FMI é aumentado para $12000 e a taxa de devolução é 40%.
+BackroomDealsDescription,O Empréstimo do FMI é aumentado em $1000 e a taxa de devolução é 40%.
 ThickerFoams,Espumas Mais Grossas
 ThickerFoamsDescription,A Espuma de Limpeza pode atingir 3 Bloons a mais antes de expirar.
 BigTraps,Armadilhas Grandes
@@ -2014,7 +2014,7 @@ Set Round Description,"Define a rodada dos jogadores. Note que ao pressionar Jog
 Buy Insta Monkeys,Comprar Macacos Insta
 ,
 Mode Clicks,CHIMPS
-Mode DoubleMoabHealth,MOABs de Vida Dupla
+Mode DoubleMoabHealth,MOABs de Vida em Dobro
 Mode AlternateBloonsRounds,Rodadas Bloons Alternativas
 Mode Impoppable,Inestourável
 Mode HalfStartingCash,Metade do Dinheiro Inicial
@@ -2486,7 +2486,7 @@ SpringSpring,Primavera Saltitante
 ObynOceanGuardianSkinName,Visual de Guardião do Oceano
 ObynOceanGuardianSkinDescription,Nós viemos dos oceanos e a eles retornaremos.
 CollectionEventHeader,Evento de coleta
-CoopTriggerText,"Todos os jogos cooperativos dividem dinheiro e XP de herói igualmente. Neste jogo, você está jogando: {0} – {1}"
+CoopTriggerText,"Todos os jogos cooperativos dividem dinheiro e XP de herói igualmente. Neste jogo, você está jogando: {0}  {1}"
 Achievement 64 Name,Grandes Bloons
 Achievement 64 Description,Pat gosta ainda mais de abraçar Grandes Bloons
 OptionsExtras,Extras
@@ -2753,8 +2753,8 @@ DarkKnightDarkshift,[I] para usar Teleporte Sombrio no alcance
 DarkChampionDarkshift,[I] para usar Teleporte Sombrio para qualquer local válido
 SmallTowersMode,Torres Macacos Pequenos
 BigTowersMode,Torres Macacos Grandes
-UpdatePopupTitle,Atualização 34!
-UpdatePopupDescription,"Grande atualização de fim de ano!\n• Lute contra as incríveis resistências e imunidades da monstruosidade blindada, Dreadbloon!\n• Descubra as posições que beneficiam suas torres no novo mapa Iniciante, Um Dois Três!\n• Elimine os Bloons no clima das festas com o novo visual do Capitão Churchill, Churchill de Trenó!\n• Itens da loja de troféus, melhorias de qualidade de vida, mudanças de equilíbrio e muito mais!\n• A Ninja Kiwi deseja a todos um feliz Natal e que vocês tenham um incrível Ano Novo!"
+UpdatePopupTitle,Atualização 35!
+UpdatePopupDescription,"Novo ano, nova atualização!\n Encare as câmaras sombrias do novo mapa Expert: Masmorras Escuras. Idealizado pelo vencedor do desafio de mapas da comunidade, Lars_Overwick.\n Expulse os Bloons da cidade no novo mapa Iniciante: Meio da Estrada.\n Aperte aguns Bloons com uma força monstruosa com o novo visual do Pat Fusty, Pat Kaiju!\n Itens na loja de troféus, melhorias de qualidade de vida, ajustes de equilíbrio e muito mais!"
 ResetDailyChest,Zerar Baú Diário
 JukeboxName,Jukebox
 EnableFunction,Habilitar
@@ -3700,10 +3700,10 @@ Psi,Psi
 Psi Short Description,Macaco Psiônico
 Psi Description,"Uma criança macaco superdotada, Psi usa apenas o poder da mente para destruir Bloons de dentro para fora."
 Psi Level 1 Description,"Por qualquer distância ou obstáculo, Psi causa vibrações mortais que destroem completamente um Bloon por vez. Pode atingir Camuflados."
-Psi Level 2 Description,Ataca ligeiramente mais rápido.
+Psi Level 2 Description,As vibrações psiônicas destroem Bloons mais rápido que o normal.
 Psi Level 3 Description,Rajada Psíquica: Psi libera uma onda de poder que atordoa Bloons próximos por um longo tempo.
 Psi Level 4 Description,O ataque de Psi pode atingir outro Bloon se estiver bem perto do Bloon atingido.
-Psi Level 5 Description,As vibrações psiônicas destroem Bloons mais rápido que o normal.
+Psi Level 5 Description,Ataca ligeiramente mais rápido.
 Psi Level 6 Description,A poderosa mente de Psi pode penetrar Bloons de Chumbo.
 Psi Level 7 Description,A Rajada Psíquica pulsa duas vezes. Psi agora também pode destruir Bloons de Cerâmica.
 Psi Level 8 Description,Ressonância Destrutiva faz com que Bloons destruídos pelo ataque principal de Psi danifiquem Bloons próximos.
@@ -4343,7 +4343,7 @@ Geraldo Level 8 Description,"Novo item! Garrafa de ""Fogo de Gerry"" - 2,8 milh�
 Geraldo Level 9 Description,Novo item! Fertilizante - Fazendas de Bananas alvo que produzem bananas visíveis aumentam a produção e ganham um bônus de dinheiro por diversas rodadas. A área de explosão do ataque principal do Geraldo aumenta.
 Geraldo Level 10 Description,"Novo item! Coelho de Estimação - ahh, que coelhinho mais fofinho!"
 Geraldo Level 11 Description,"Novo item! Poção de Rejuvenescimento - zera a recarga de todas as torres de macaco e heróis, e recupera 50 vidas. A perfuração do ataque principal do Geraldo aumenta e Pote de Picles cauda dano bônus contra Bloons Fortificados."
-Geraldo Level 12 Description,Novo item! Garrafa de Gênio - invoca um Macaco Gênio de plasma que dura 3 rodadas. Estátua Assustadora agora pode aplicar um atordoamento curto ocasional a Bloons classe MOAB visíveis que passarem.
+Geraldo Level 12 Description,Novo item! Garrafa de Gênio - invoca um Macaco Gênio de plasma que dura 2 rodadas. Estátua Assustadora agora pode aplicar um atordoamento curto ocasional a Bloons classe MOAB visíveis que passarem.
 Geraldo Level 13 Description,"Torreta Atiradora dispara mais rápido e causa mais dano, e Punhado de Pregos Velhos causa mais dano."
 Geraldo Level 14 Description,Poção de Ver Invisível concede alcance adicional e dura mais tempo.
 Geraldo Level 15 Description,"Pedra de Amolar agora aumenta o dano além da perfuração, e Armadilha de Lâmina cria um efeito mais poderoso quando ativada."
@@ -5255,6 +5255,11 @@ Move,Mover
 NeedsBeastHandlers,Requer fera
 NeedsWater,Requer água
 NeedsTrack,Requer pista
+Buffed,FORTALECIDO
+Assisting,Ajudando
+Select Point On Track,Selecionar ponto na pista
+Select Point In Range,Selecionar ponto no alcance
+,
 Dreadbloon,Dreadbloon
 DreadbloonTagLine,Das profundezas da terra sombria...
 DreadbloonTagLine2,a monstruosidade blindada!
@@ -5370,7 +5375,71 @@ CoopGameSyncFailed,Falha ao sincronizar configurações do jogo. Tente um jogo n
 iCloudTitle,iCloud
 iCloudDisabled,iCloud desabilitada
 iCloudEnabled,iCloud habilitada
-DialogBeastHandlerQuest1InGameTowerUpgrade1,"Nossa, aquela fera é tão forte que são necessários DOIS manipuladores de feras para mantê-la sob controle!"
-Buffed,Fortalecido
-Assisting,auxiliando
-Select Point On Track,Selecionar ponto na trilha
+,
+Gamercard,Cartão de jogador
+ControllerDisconnected,Controle desconectado. Reconecte e tente novamente.
+PlayerStatsBossesPopped,Chefes estourados
+PlayerStatsDamageDoneToBosses,Dano causado a chefes
+DarkDungeons,Masmorras Sombrias
+MiddleOfTheRoad,Meio da Estrada
+Achievement 146 Name,Missão Paralela
+Achievement 146 Description,Conclua uma missão.
+Achievement 148 Name,Treinamento da Liga Mundial
+Achievement 148 Description,Obtenha 150.000 XP com o Domador de Feras.
+KaijuPatFustySkinName,Visual Pat Kaiju
+KaijuPatFustySkinNameFull,Pat Kaiju
+KaijuPatFustySkinDescription,"Uma estranha fera, mas ferozmente bondosa."
+HeroesStrikerJonesBikerBonesPlacementHellriftName,Posicionamento e Melhoria Fenda Infernal Ossos de Motoqueiro
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,Fenda Infernal Ossos de Motoqueiro
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,"Pegue esse efeito Fenda Infernal e veja o Ossos de Motoqueiro entrando na batalha em seu cavalo de ferro, pegando fogo com cada melhoria. Apenas Ossos de Motoqueiro."
+TowerPetSniperMonkeyChameleonName,Pet Camaleão do Macaco Atirador
+TowerPetSniperMonkeyChameleonShortName,Pet Camaleão do Atirador
+TowerPetSniperMonkeyChameleonDescription,"À espreita, perfeitamente camuflado entre as folhagens. Uma mosca passa voando e BAM! Uma língua dispara e a captura. Não, não é o Macaco Atirador, é seu pet camaleão!"
+GameUIProfileAvatar69Name,Avatar Personalizado - Bloonarius
+GameUIProfileAvatar69ShortName,Avatar Bloonarius
+GameUIProfileAvatar69Description,"Bloonarius, o Inflado, despertando de seu pântano borbulhante."
+GameUIProfileAvatar70Name,Avatar Personalizado - Patch Estudiosa
+GameUIProfileAvatar70ShortName,Patch Estudiosa
+GameUIProfileAvatar70Description,"Enquanto se mantém atualizada com as últimas notícias e ciência do mundo macaco, às vezes Patch só quer sentar e ler um bom livro."
+GameUIProfileAvatar71Name,Avatar Personalizado - Só um Macaquinho
+GameUIProfileAvatar71ShortName,Avatar Só um Macaquinho
+GameUIProfileAvatar71Description,Veja esses olhos. O que os Bloons querem? É apenas um macaquinho.
+GameUIProfileAvatar72Name,Avatar Personalizado - Fazendeiro de Bananas Feliz
+GameUIProfileAvatar72ShortName,Avatar Fazendeiro de Bananas Feliz
+GameUIProfileAvatar72Description,"O que um Fazendeiro de Bananas gosta mais que usar uma fantasia de banana? Nadar em uma piscina de bananas, entre caixas de bananas, vestindo uma fantasia de banana."
+GameUIProfileBanner26Name,Bandeira de Perfil Tempestade de Cola
+GameUIProfileBanner26ShortName,Bandeira Tempestade de Cola
+GameUIProfileBanner26Description,"Quando uma Tempestade de Cola bloquear o sol, equipe esta bandeira na sombra."
+GameUIProfileBanner27Name,Bandeira de Perfil Fênix do Lorde Mago
+GameUIProfileBanner27ShortName,Bandeira Fênix do Lorde Mago
+GameUIProfileBanner27Description,Bandeira vencedora por Flipp_Flopps
+GameUIProfileBanner28Name,Bandeira de Perfil Galinha de Fazenda
+GameUIProfileBanner28ShortName,Bandeira Galinha de Fazenda
+GameUIProfileBanner28Description,Bandeira vencedora por WhereThighs
+TeamsEmblemFrame14Name,Moldura Ano do Coelho
+TeamsEmblemFrame14ShortName,Moldura Ano do Coelho
+TeamsEmblemFrame14Description,Ajude sua equipe a ter paz e prosperidade com essa moldura do Ano do Coelho.
+TeamsEmblemFrame15Name,Moldura Verão de Kiwi
+TeamsEmblemFrame15ShortName,Moldura Verão de Kiwi
+TeamsEmblemFrame15Description,"Sandálias, kiwis e flores de pohutukawa. Uma escolha específica para uma equipe específica."
+TeamsEmblemIcon17Name,Ícone Ano do Coelho
+TeamsEmblemIcon17ShortName,Ícone Ano do Coelho
+TeamsEmblemIcon17Description,"Um ícone de Ano do Coelho, para as equipes vigilantes e determinadas."
+TeamsEmblemIcon18Name,Ícone Abelha Zumbindo
+TeamsEmblemIcon18ShortName,Ícone Abelha Zumbindo
+TeamsEmblemIcon18Description,Sua equipe vai zumbir rumo à vitória com este ícone de Abelha Zumbindo.
+BasePropCosyBeanbagMonkeyName,Macaco Pufe Aconchegante
+BasePropCosyBeanbagMonkeyShortName,Macaco Pufe Aconchegante
+BasePropCosyBeanbagMonkeyDescription,O pufe. O símbolo máximo do relaxamento. Inclui um macaco relaxando! [Espaço de ilha]
+RetryLastRoundDescriptionText,Tentar de novo da última rodada com as vidas e dinheiro salvos?
+PlayOffline,Jogar offline
+DarkDungeonsStatueName,Estátua da Masmorra
+DarkDungeonsStatueActivate,Ativar estátua: ${0}
+DarkDungeonsStatueLevelUp,Nível {0}\n${1}
+BossHPIncreased,Vida do chefe aumentada
+BossHPDecreased,Vida do chefe reduzida
+BossSpeedIncreased,Velocidade do chefe aumentada
+BossSpeedDecreased,Velocidade do chefe reduzida
+BossHealth,Vida do chefe
+BossSpeed,Velocidade do chefe
+EnterNewName,Insira o novo nome

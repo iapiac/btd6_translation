@@ -232,7 +232,7 @@ ObynGreenfoot Level 20 Description,Le mur d'arbres peut retenir bien plus de Blo
 ,
 Ezili Level 1 Description,Ezili maudit les Bloons avec son sombre pouvoir vaudou.
 Ezili Level 2 Description,Portée d'attaque augmentée.
-Ezili Level 3 Description,"Coup de cœur : ralentit les Bloons, permet de faire éclater les violets et empêche tout regonflage pendant 10 secondes."
+Ezili Level 3 Description,Coup de cœur : permet de faire éclater les violets et empêche tout regonflage pendant 10 secondes.
 Ezili Level 4 Description,L'attaque principale d'Ezili maudit désormais plusieurs Bloons.
 Ezili Level 5 Description,Vitesse d'attaque augmentée.
 Ezili Level 6 Description,Les dégâts au fil du temps durent plus longtemps et sont infligés plus rapidement.
@@ -819,7 +819,7 @@ Sub Commander Description,Ajoute un pouvoir perçant et des dégâts supplément
 Buccaneer-Faster Shooting Description,Toutes les armes à bord tirent plus rapidement.
 Buccaneer-Grape Shot Description,Ajoute une possibilité de tirer 5 tirs en grappe tranchants à partir du navire.
 Buccaneer-Long Range Description,Portée beaucoup plus longue et les projectiles volent plus vite.
-Buccaneer-Double Shot Description,Double le nombre d'armes de navire qui font feu.
+Buccaneer-Double Shot Description,Augmente le nombre d'armes de navire qui font feu.
 Buccaneer-Hot Shot Description,Les tirs en grappe brûlants peuvent faire éclater les Bloons de plomb et mettre le feu aux Bloons.
 Buccaneer-Crow's Nest Description,Permet au navire de toucher les Bloons camouflés.
 Buccaneer-Destroyer Description,Attaque super hyper rapidement !
@@ -829,7 +829,7 @@ Buccaneer-Aircraft Carrier Description,Lance des vagues d'avions de chasse qui m
 Buccaneer-Monkey Pirates Description,Ajoute 2 canons au navire et les attaques infligent plus de dégâts. Aptitude Démolition de MOAB : harponne un Bloon de classe MOAB et l'élimine.
 Buccaneer-Favored Trades Description,Attaque plus rapidement et génère beaucoup d'argent à chaque manche. La valeur de revente des singes situés dans le rayon est augmentée.
 Buccaneer-Carrier Flagship Description,Inflige davantage de dégâts. Peut placer d'autres singes sur les ponts supérieurs du navire et augmente la vitesse d'attaque de tous les singes aquatiques et singes pilotes d'élite.
-Buccaneer-Pirate Lord Description,"Vitesse d'attaque considérablement augmentée pour toutes les attaques et peut tirer 3 grappins à la fois, recevant de l'argent supplémentaire de chaque Bloon de classe MOAB abattu."
+Buccaneer-Pirate Lord Description,"Puissance considérablement augmentée et peut tirer 3 grappins à la fois, recevant de l'argent supplémentaire de chaque Bloon de classe MOAB abattu."
 Buccaneer-Trade Empire Description,Génère plus d'argent à chaque manche. Augmente l'argent obtenu par jusqu'à 20 autres navires de commerce par le nombre de navires de commerce et booste les dégâts de tous les navires de commerce.
 ,
 Rapid Fire Description,Tire plus vite que d'habitude.
@@ -902,7 +902,7 @@ Fireball Description,"À un intervalle régulier de quelques secondes, jette un 
 Intense Magic Description,Tirs magiques encore plus puissants qui se déplacent plus rapidement et peuvent faire exploser davantage de Bloons.
 Arcane Blast Description,Des explosions magiques encore plus grosses et puissantes qui font exploser 2 couches de Bloons.
 Wall of Fire Description,Crée un mur de feu super chaud à travers le circuit pour faire rôtir tout Bloon qui le traverserait.
-Monkey Sense Description,Permet au sorcier de toucher les Bloons camouflés.
+Monkey Sense Description,Augmente légèrement la portée et permet au sorcier de toucher les Bloons camouflés.
 Arcane Mastery Description,"Attaques plus rapides avec une portée, des dégâts et une puissance d'éclatement accrus."
 Dragon's Breath Description,Crache des flammes interminables sur les Bloons à proximité et améliore Boule de feu et Mur de feu.
 Shimmer Description,Confère une attaque de magie noire qui révèle de temps en temps l'emplacement de tous les Bloons camouflés à proximité de façon permanente.
@@ -942,7 +942,7 @@ Bloonjitsu Description,Lance 5 shurikens d’un coup !
 Bloon Sabotage Description,"Aptitude Sabotage : dure 15 secondes. Durant le sabotage, tous les Bloons se déplacent à une vitesse réduite de moitié. "
 Sticky Bomb Description,Lance des bombes à retardement puissantes sur les Bloons de classe MOAB.
 Grandmaster Ninja Description,Lance extrêmement rapidement. 8 shurikens à la fois !
-Grand Saboteur Description,"La durée de l'aptitude est plus longue, et les Bloons de classe MOAB apparaissent avec moins de santé durant le sabotage."
+Grand Saboteur Description,"La durée de l'aptitude est plus longue, et les Bloons de classe MOAB apparaissent avec moins de santé durant le sabotage. Donne un bonus à tous les shinobis."
 Master Bomber Description,Une véritable machine simiesque de démolition MOAB.
 ,
 Larger Potions Description,Les potions plus larges éclaboussent une zone plus large.
@@ -987,11 +987,11 @@ Banana Plantation Description,Fait pousser 16 régimes de bananes par manche.
 Monkey Bank Description,Tout l'argent généré par cette bananeraie est désormais placé dans la banque et génère 15 % d'intérêts à chaque manche.
 Marketplace Description,Génère de l'argent à chaque manche et l'ajoute à ton total. Tout simplement.
 Banana Research Facility Description,Produit 5 larges caisses de bananes à chaque manche qui valent 300 $ chacune.
-IMF loan Description,"Aptitude Prêt du FMI : te prête 10 000 $, mais il va te falloir repayer tout ça au fil du temps."
+IMF loan Description,"Aptitude Prêt du FMI : vous prête 9 000 $, mais il vous faudra le repayer au fil du temps."
 Central Market Description,Gagne des tonnes d'argent à chaque manche et fournit aux navires de commerce + 10 % de revenu.
 Banana Central Description,Tu veux des bananes ? On a des bananes !
 Monkey-Nomics Description,Quand tu es trop grand pour échouer…
-Monkey Wall Street Description,Centre de la finance simiesque génère un revenu colossal ainsi que des vies à chaque manche.
+Monkey Wall Street Description,"Centre de la finance simiesque génère un revenu colossal, génère des vies à chaque manche et encaisse des revenus dans un rayon."
 ,
 Sentry Gun Description,Crée des pistolets de sentinelle temporaires et les déploie à proximité.
 Larger Service Area Description,Tire plus loin et déploie des sentinelles dans une zone bien plus vaste. La portée des sentinelles est plus longue.
@@ -1051,7 +1051,7 @@ Primary Training Description,"Tous les singes primaires dans le rayon reçoivent
 Monkey Intelligence Bureau Description,"Le Bureau accorde une connaissance de puissance d'éclatement de Bloon spéciale, permettant aux singes à proximité de faire éclater tout type de Bloons."
 Monkey Town Description,Tous les singes dans le rayon de la Ville de singes reçoivent de l'argent supplémentaire à chaque éclatement de Bloon.
 Primary Mentoring Description,"Tous les singes primaires dans le rayon reçoivent des améliorations de niveau 1 gratuitement, une portée augmentée et des temps de recharge d'aptitudes réduits."
-Call to Arms Description,Aptitude Appel aux armes : +50 % à la vitesse d'attaque et aux éclatements des singes à proximité pendant un bref laps de temps.
+Call to Arms Description,Aptitude Appel aux armes : +50 % à la vitesse d'attaque et aux éclatements de tous les singes pendant un bref laps de temps.
 Monkey City Description,"Augmente le rayon d'influence, la génération d'argent au sein du rayon, et te donne un singe à fléchettes gratuit à chaque manche."
 Primary Expertise Description,"Ajoute l'attaque Méga Ballista et tous les singes primaires dans le rayon reçoivent plus de puissance d'éclatement, les temps de recharge des aptitudes sont encore plus réduits et les améliorations de niveaux 1 et 2 sont gratuites."
 Homeland Defense Description,L'aptitude augmente désormais la vitesse d'attaque et les éclatements de 100 % pour tous les singes pendant 20 secondes. 
@@ -1115,7 +1115,7 @@ Super Maelstrom Ability Description,"Aptitude Maelström encore plus puissante, 
 Snowstorm Ability Description,Gèle tous les Bloons à l'écran pendant une courte durée.
 Absolute Zero Ability Description,"L'aptitude est si froide qu'elle gèle tout type de Bloons, y compris ceux immunisés contre le froid et ceux de classe MOAB."
 Glue Strike Ability Description,Colle tous les Bloons à l'écran.
-Glue Storm Ability Description,L'aptitude Tempête de colle bombarde l'écran de colle pendant 10 secondes.
+Glue Storm Ability Description,L'aptitude Tempête de colle bombarde l'écran de colle pendant 15 secondes.
 Supply Drop Ability Description,Largue une caisse remplie d’argent.
 Elite Sniper Ability Description,Les caisses de ravitaillement rapportent davantage d'argent.
 Elite Defender Ability Description,"Une vie perdue donne à ce sniper une vitesse d'attaque 2 fois supérieure pendant une courte durée, en représailles."
@@ -1140,14 +1140,14 @@ Legend of the Night Ability Description,Nous nous tournons vers lui lorsque tout
 Bloon Sabotage Ability Description,"Durant le sabotage, tous les Bloons se déplacent à une vitesse réduite."
 Grand Saboteur Ability Description,"La durée de l'aptitude est plus longue, et les Bloons de classe MOAB apparaissent avec moins de santé durant le sabotage."
 Transforming Tonic Ability Description,Les bananeraies à proximité du druide perçoivent 50 % d'argent en plus pendant une courte durée.
-IMF loan Ability Description,"Te prête 10 000 $, mais il va te falloir repayer tout ça au fil du temps."
+IMF loan Ability Description,"Vous prête 9 000 $, mais il vous faudra le repayer au fil du temps."
 Monkey-Nomics Ability Description,Quand tu es trop grand pour échouer…
 Overclock Ability Description,Le singe ciblé devient super puissant pendant un bref laps de temps.
 Spike Storm Ability Description,Projette une couche épaisse de pointes sur tout le circuit.
 Carpet of Spikes Ability Description,"Place un tapis de pointes sur tout le circuit, à chaque manche."
 Magic Arcanum Ability Description,Crée un singe puissant dont les aptitudes sont basées sur les singes magiques à proximité.
-Call to Arms Ability Description,Donne à tous les singes une vitesse d'attaque et une puissance d'éclatement DOUBLÉES pendant 10 secondes.
-Homeland Defense Ability Description,L'aptitude affecte TOUS les singes pendant 15 secondes.
+Call to Arms Ability Description,+50 % à la vitesse d'attaque et aux éclatements de tous les singes pendant 10 secondes.
+Homeland Defense Ability Description,+100 % à la vitesse d'attaque et aux éclatements de tous les singes pendant 20 secondes.
 ,
 //Maps,
 TownCentre,Centre-ville
@@ -1824,7 +1824,7 @@ InsiderTradesDescription,La remise des singeries est augmentée de 2 %.
 BiggerBanks,De plus grosses banques
 BiggerBanksDescription,Les banques simiesques peuvent conserver 2 500 de monnaie supplémentaire.
 BackroomDeals,Accords en coulisse
-BackroomDealsDescription,Le prêt du FMI est augmenté à 12 000 $ et le taux de remboursement est fixé à 40 %.
+BackroomDealsDescription,Le prêt du FMI prête 1 000 $ de plus et le taux de remboursement est fixé à 40 %.
 ThickerFoams,Mousse plus épaisse
 ThickerFoamsDescription,La mousse nettoyante peut toucher 3 Bloons supplémentaires avant d'expirer.
 BigTraps,Gros pièges
@@ -2753,8 +2753,8 @@ DarkKnightDarkshift,[I] pour effectuer Téléportation obscure à portée
 DarkChampionDarkshift,[I] pour effectuer Téléportation obscure à tout endroit valide
 SmallTowersMode,Petites tours de singe
 BigTowersMode,Grandes tours de singe
-UpdatePopupTitle,Mise à jour 34 !
-UpdatePopupDescription,"Méga mise à jour des Fêtes !\n• Affrontez les prodigieuses résistances et immunités du mastodonte cuirassé, Dreadbloon !\n• Découvrez les placements qui renforcent les tours sur la nouvelle carte de niveau débutant, Un deux arbre !\n• Éliminez les Bloons dans l'esprit des Fêtes avec la nouvelle apparence du Capitaine Churchill, Churchill Traîneau !\n• Articles de Boutique de trophées, améliorations de qualité de vie, modifications d'équilibrage et bien plus encore !\n• Bonnes Fêtes et meilleurs vœux pour un merveilleux Nouvel An, de la part de nous tous ici à Ninja Kiwi !"
+UpdatePopupTitle,Mise à jour 35 !
+UpdatePopupDescription,"Nouvelle année, nouvelle mise à jour !\n• Bravez les salles ténébreuses de la nouvelle carte de niveau expert, Sombres donjons. Conçue par le gagnant du concours de carte de la communauté, Lars_Overwick.\n• Chassez les Bloons de la ville dans la nouvelle carte de niveau débutant, Milieu du chemin.\n• Serrez de manière monstrueuse des Bloons avec la nouvelle apparence de Pat Fusty, Pat Kaiju !\n• Articles de Boutique de trophées, améliorations de qualité de vie, modifications d'équilibrage et bien plus encore !"
 ResetDailyChest,Réinitialiser le Coffre quotidien
 JukeboxName,Juke-box
 EnableFunction,Activer
@@ -3700,10 +3700,10 @@ Psi,Psi
 Psi Short Description,Singe psionique
 Psi Description,"Enfant singe surdouée, Psi ne se sert que du pouvoir de l'esprit pour détruire les Bloons de l'intérieur."
 Psi Level 1 Description,"Quels que soient la distance ou les obstacles, Psi émet des vibrations mortelles qui détruisent complètement les Bloons un par un. Peut cibler les camouflés."
-Psi Level 2 Description,Attaque légèrement plus rapidement.
+Psi Level 2 Description,Les vibrations psioniques détruisent les Bloons plus rapidement que la normale.
 Psi Level 3 Description,Décharge psychique : Psi émet une vague de pouvoir qui étourdit les Bloons à proximité pendant longtemps.
 Psi Level 4 Description,L'attaque de Psi peut toucher un autre Bloon s'il est très proche du Bloon ciblé.
-Psi Level 5 Description,Les vibrations psioniques détruisent les Bloons plus rapidement que la normale.
+Psi Level 5 Description,Attaque légèrement plus rapidement.
 Psi Level 6 Description,L'esprit puissant de Psi peut pénétrer les Bloons en plomb.
 Psi Level 7 Description,La Décharge psychique émet deux pulsations. Psi peut désormais détruire les Bloons en céramique.
 Psi Level 8 Description,Résonance destructrice fait que les Bloons détruits par l'attaque principale de Psi infligent des dégâts aux autres Bloons à proximité.
@@ -4343,7 +4343,7 @@ Geraldo Level 8 Description,"Nouvel article ! Bouteille de « Feu de Gerry »
 Geraldo Level 9 Description,Nouvel article ! Engrais - la production des bananeraies ciblées qui produisent des bananes visibles est augmentée et un bonus d'argent est obtenu sur plusieurs manches. Le rayon d'impact de l'attaque principale de Geraldo est augmenté.
 Geraldo Level 10 Description,Nouvel article ! Lapin domestique - ohh le joli petit lapinou tout mignon !
 Geraldo Level 11 Description,"Nouvel article ! Potion de rajeunissement - réinitialise le temps de recharge de toutes les tours de singe et de tous les héros, restaure 50 vies. La percée de l'attaque principale de Geraldo est augmentée et le Bocal de cornichons donne un bonus de dégât"
-Geraldo Level 12 Description,Nouvel article ! Bouteille de génie - invoque un singe génie alimenté au plasma qui dure 3 manches. L'Idole sinistre peut désormais appliquer un bref étourdissement occasionnel aux Bloons de classe MOAB visibles qui passent.
+Geraldo Level 12 Description,Nouvel article ! Bouteille de génie - invoque un singe génie alimenté au plasma qui dure 2 manches. L'Idole sinistre peut désormais appliquer un bref étourdissement occasionnel aux Bloons de classe MOAB visibles qui passent.
 Geraldo Level 13 Description,"La Tourelle tireuse tire plus vite et inflige plus de dégâts, et le Tas de vieux clous inflige plus de dégâts."
 Geraldo Level 14 Description,La Potion de détection d'invisibilité confère une plus grande portée de détection et dure plus longtemps.
 Geraldo Level 15 Description,La Pierre à aiguiser augmente désormais les dégâts en plus de la percée et le Piège à lames génère un effet plus puissant lorsqu'il est déclenché.
@@ -4563,8 +4563,7 @@ LoggedInAs,Connecté(e) en tant que :
 EpicAccountId,Identifiant de compte Epic :
 NeedHelp,Besoin d'aide ?
 ContactSupport,Contacter l'assistance
-DeleteAccountText,"Supprimer votre compte vous fera perdre l'accès à toute la progression et les données sur le cloud.
-Veuillez saisir votre identifiant d'utilisateur (tel qu'il est indiqué ci-dessous) dans la case pour supprimer votre compte. La suppression de votre compte peut prendre entre 48 et 72 heures."
+DeleteAccountText,Supprimer votre compte vous fera perdre l'accès à toute la progression et les données sur le cloud.
 EnterUserId,Saisir l'identifiant d'utilisateur ici
 GetAllButton,Tout obtenir
 GetAllConfirmation,Veuillez confirmer que vous souhaitez dépenser votre monnaie de singe pour obtenir tous les héros et apparences disponibles !
@@ -5253,9 +5252,14 @@ T Rex Stomp Ability Description,Étourdit les Bloons jusqu'à la taille des ZOMG
 Giganotosaurus Stomp Ability,Piétinement du giganotosaure
 Giganotosaurus Stomp Ability Description,Étourdit les Bloons jusqu'à la taille des ZOMG partout et pendant plus longtemps.
 Move,Déplacer
-NeedsBeastHandlers,Requiert la bête
+NeedsBeastHandlers,Requiert une bête
 NeedsWater,Requiert de l'eau
 NeedsTrack,Requiert du circuit
+Buffed,SUJET À UN BONUS
+Assisting,En train d'aider
+Select Point On Track,Sélectionner un endroit sur le circuit
+Select Point In Range,Sélectionner un endroit à portée
+,
 Dreadbloon,Dreadbloon
 DreadbloonTagLine,Des profondeurs de la terre obscure...
 DreadbloonTagLine2,le mastodonte cuirassé !
@@ -5371,7 +5375,71 @@ CoopGameSyncFailed,Échec de la synchronisation des paramètres de jeu. Veuillez
 iCloudTitle,iCloud
 iCloudDisabled,iCloud désactivé
 iCloudEnabled,iCloud activé
-DialogBeastHandlerQuest1InGameTowerUpgrade1,Wow, cette bête est si forte qu'il faut DEUX dresseurs de bêtes pour la garder sous contrôle !
-Buffed,Renforcé
-Assisting,Assistant
-Select Point On Track,Sélectionnez un point sur la piste
+,
+Gamercard,Carte de joueur
+ControllerDisconnected,Manette déconnectée. Veuillez la reconnecter et réessayer.
+PlayerStatsBossesPopped,Boss éclatés
+PlayerStatsDamageDoneToBosses,Dégâts infligés aux boss
+DarkDungeons,Sombres donjons
+MiddleOfTheRoad,Milieu du chemin
+Achievement 146 Name,Quête secondaire
+Achievement 146 Description,Accomplissez une quête
+Achievement 148 Name,Entraînement de ligue mondiale
+Achievement 148 Description,Obtenez 150 000 XP de dresseur de bêtes
+KaijuPatFustySkinName,Apparence Pat Kaiju
+KaijuPatFustySkinNameFull,Pat Kaiju
+KaijuPatFustySkinDescription,"Une bête étrange, mais farouchement aimable."
+HeroesStrikerJonesBikerBonesPlacementHellriftName,Placement et amélioration de Biker Bones Faille des Enfers
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,Biker Bones Faille des Enfers
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,"Procurez-vous cet effet Faille des Enfers et voyez Biker Bones rejoindre la bataille sur sa monture de métal, effectuant un burnout d'enfer à chaque amélioration. Biker Bones uniquement."
+TowerPetSniperMonkeyChameleonName,Compagnon caméléon de singe tireur d'élite
+TowerPetSniperMonkeyChameleonShortName,Compagnon caméléon de tireur d'élite
+TowerPetSniperMonkeyChameleonDescription,"Il attend, parfaitement camouflé dans le feuillage. Une mouche passe et BAM ! Une langue surgit pour s'en emparer. Non, ce n'est pas le singe tireur d'élite, c'est le compagnon caméléon du singe tireur d'élite !"
+GameUIProfileAvatar69Name,Avatar personnalisé - Bloonarius
+GameUIProfileAvatar69ShortName,Avatar Bloonarius
+GameUIProfileAvatar69Description,"Bloonarius le Gonfleur, qui s'éveille de son marécage bouillonnant."
+GameUIProfileAvatar70Name,Avatar personnalisé - Patch studieuse
+GameUIProfileAvatar70ShortName,Patch studieuse
+GameUIProfileAvatar70Description,"Bien que Patch reste toujours au fait des dernières actualités et découvertes du monde des singes, parfois elle aime juste s'asseoir et lire un bon bouquin. "
+GameUIProfileAvatar71Name,Avatar personnalisé - Juste un petit singe
+GameUIProfileAvatar71ShortName,Avatar Juste un petit singe
+GameUIProfileAvatar71Description,Regardez un peu ces yeux. Mais que veulent donc les Bloons ? C'est juste un petit singe.
+GameUIProfileAvatar72Name,Avatar personnalisé - Cultivateur de bananes heureux
+GameUIProfileAvatar72ShortName,Avatar Cultivateur de bananes heureux
+GameUIProfileAvatar72Description,"Qu'est-ce qu'un cultivateur de bananes aime encore plus que porter un costume de banane ? Nager dans une piscine de bananes, parmi des caisses remplies de bananes, en portant un costume de banane."
+GameUIProfileBanner26Name,Bannière de profil Tempête de colle
+GameUIProfileBanner26ShortName,Bannière Tempête de colle
+GameUIProfileBanner26Description,"Lorsqu'une Tempête de colle obscurcit le soleil, équipez cette bannière à l'ombre."
+GameUIProfileBanner27Name,Bannière de profil Phénix seigneur des sorciers
+GameUIProfileBanner27ShortName,Bannière Phénix seigneur des sorciers
+GameUIProfileBanner27Description,Bannière gagnante par Flipp_Flopps
+GameUIProfileBanner28Name,Bannière de profil Poulet de ferme
+GameUIProfileBanner28ShortName,Bannière Poulet de ferme
+GameUIProfileBanner28Description,Bannière gagnante par WhereThighs
+TeamsEmblemFrame14Name,Cadre Année du lapin
+TeamsEmblemFrame14ShortName,Cadre Année du lapin
+TeamsEmblemFrame14Description,Apportez à votre équipe la paix et la prospérité avec ce cadre Année du lapin.
+TeamsEmblemFrame15Name,Cadre Été kiwi
+TeamsEmblemFrame15ShortName,Cadre Été kiwi
+TeamsEmblemFrame15Description,"Tongs, kiwis et fleurs de pōhutukawa. Un cadre de choix pour une équipe de choix."
+TeamsEmblemIcon17Name,Icône Année du lapin
+TeamsEmblemIcon17ShortName,Icône Année du lapin
+TeamsEmblemIcon17Description,"Une icône de l'Année du lapin, pour les équipes vigilantes et déterminées."
+TeamsEmblemIcon18Name,Icône Buzzy Bee
+TeamsEmblemIcon18ShortName,Icône Buzzy Bee
+TeamsEmblemIcon18Description,Triomphez en cliquetant avec cette icône Buzzy Bee.
+BasePropCosyBeanbagMonkeyName,Singe à pouf douillet
+BasePropCosyBeanbagMonkeyShortName,Singe à pouf douillet
+BasePropCosyBeanbagMonkeyDescription,Le pouf. Symbole ultime de la détente. Inclut un singe en train de se détendre ! [Emplacement d'île]
+RetryLastRoundDescriptionText,Réessayer à partir de la dernière manche avec les vies et l'argent sauvegardés ?
+PlayOffline,Jouer hors ligne
+DarkDungeonsStatueName,Statue des donjons
+DarkDungeonsStatueActivate,Activer la statue : {0} $
+DarkDungeonsStatueLevelUp,Niveau {0}\n{1} $
+BossHPIncreased,Santé du boss augmentée
+BossHPDecreased,Santé du boss réduite
+BossSpeedIncreased,Vitesse du boss augmentée
+BossSpeedDecreased,Vitesse du boss réduite
+BossHealth,Santé du boss
+BossSpeed,Vitesse du boss
+EnterNewName,Saisir un nouveau nom

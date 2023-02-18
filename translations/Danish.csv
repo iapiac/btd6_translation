@@ -232,7 +232,7 @@ ObynGreenfoot Level 20 Description,Træmur kan holde mange flere bloons.
 ,
 Ezili Level 1 Description,Ezili forbander bloons med sort voodoo-magi.
 Ezili Level 2 Description,Øget angrebsrækkevidde.
-Ezili Level 3 Description,"Hjertestandser: sinker bloons, giver evnen til at springe lilla bloons og forhindrer bloons i at regenerere I 10 sekunder."
+Ezili Level 3 Description,"Hjertestandser: sinker bloons, giver evnen til at springe lilla bloons og forhindrer bloons i at regenerere i 10 sekunder."
 Ezili Level 4 Description,Ezilis hovedangreb kan nu forhekse flere bloons.
 Ezili Level 5 Description,Øget angrebshastighed.
 Ezili Level 6 Description,Skade over tid varer længere og skader hurtigere.
@@ -820,7 +820,7 @@ Sub Commander Description,Giver ekstra springkraft og skade til kommandøren og 
 Buccaneer-Faster Shooting Description,Alle våben om bord skyder hurtigere.
 Buccaneer-Grape Shot Description,Føjer en salve på 5 skarpe drueskud til skibet.
 Buccaneer-Long Range Description,"Meget større rækkevidde, og projektiler flyver hurtigere."
-Buccaneer-Double Shot Description,Fordobler skibets ildkraft.
+Buccaneer-Double Shot Description,Øger skibets ildkraft. 
 Buccaneer-Hot Shot Description,Brændende varm drueskud kan springe bloons og sætte ild til dem.
 Buccaneer-Crow's Nest Description,Giver skibet evnen til at ramme camo-bloons.
 Buccaneer-Destroyer Description,Angriber super duper hurtigt!
@@ -903,7 +903,7 @@ Fireball Description,Kaster eksplosive ildkugler med sekunders mellemrum.
 Intense Magic Description,"Flere kraftfulde magiske skud, der flyver hurtigere og kan springe flere bloons."
 Arcane Blast Description,"Større, mere kraftfulde magiske eksplosioner, der springer 2 bloon-lag."
 Wall of Fire Description,"Genererer en super varm ildmur på tværs af vejen, der rister enhver bloon, der passerer."
-Monkey Sense Description,Lader Troldmanen ramme camo-bloons.
+Monkey Sense Description,Øger angrebsrækkevidden lidt og giver Troldmanden evnen til at ramme camo-bloons.
 Arcane Mastery Description,"Hurtigere angreb med øget rækkevidde, skade, og springkraft."
 Dragon's Breath Description,Spyr uophørligt flammer imod nærliggende bloons og forstærker ildkugle og ildmur.
 Shimmer Description,Sort magi som periodevis permanent afslører beliggenheden af camo-bloons i nærheden.
@@ -943,7 +943,7 @@ Bloonjitsu Description,Kaster 5 ninjastjerner på én gang!
 Bloon Sabotage Description,"Sabotageevne: varer 15 sekunder. Mens sabotagen står på, bevæger alle bloons sig med halv hastighed. "
 Sticky Bomb Description,Kaster kraftige tidsindstillede sprængladninger mod MOAB-klasse-bloons.
 Grandmaster Ninja Description,Kaster utroligt hurtigt - 8 ninjastjerner pr. skud!
-Grand Saboteur Description,"Evnens varighed forøges, og MOAB-klasse-bloons har mindre liv, mens sabotagen står på."
+Grand Saboteur Description,"Evnens varighed forøges, og MOAB-klasse-bloons har mindre liv, mens sabotagen står på. Styrker alle Shinobi."
 Master Bomber Description,En abekattens MOAB-ødelæggelsesmaskine.
 ,
 Larger Potions Description,Større eliksirer dynges over et større område.
@@ -988,7 +988,7 @@ Banana Plantation Description,Gror 16 bananklaser pr. runde.
 Monkey Bank Description,Alle penge genereret af farmen puttes i banken og tjener 15% i rente i hver runde.
 Marketplace Description,Genererer flere penge hver runde og føjer dem til din saldo. Ingen ballade.
 Banana Research Facility Description,"Producerer 5 store banankasser hver runde, som hver er 300 $ værd."
-IMF loan Description,"IMF-lån-evne: giver dig 10.000 $, som dog skal betales tilbage over tid."
+IMF loan Description,"IMF-lån-evne: giver dig 9.000 $, som dog skal betales tilbage over tid."
 Central Market Description,"Tjener bunkevis af penge hver runde, og handelsskibe tjener +10 % mere."
 Banana Central Description,Vil du have en banan? Vi har masser af bananer!
 Monkey-Nomics Description,Når du er for stor til at fejle...
@@ -1116,7 +1116,7 @@ Super Maelstrom Ability Description,"Endnu kraftigere malstrøm-evne, som varer 
 Snowstorm Ability Description,Fryser kortvarigt alle bloons på skærmen.
 Absolute Zero Ability Description,"En evne så kold, at den fryser alle bloons-typer - også dem der er immune og MOAB-klasse-bloons."
 Glue Strike Ability Description,Limer alle bloons på skærmen.
-Glue Storm Ability Description,Limstorm-evne bombarderer hele skærmen med lim i 10 sekunder.
+Glue Storm Ability Description,Limstorm-evne bombarderer hele skærmen med lim i 15 sekunder.
 Supply Drop Ability Description,Kaster en kasse fuld af penge ned.
 Elite Sniper Ability Description,Forsyningsnedkastning giver flere penge.
 Elite Defender Ability Description,Et mistet liv giver kortvarigt denne snigskytte 2x angrebshastighed til at hævne sig.
@@ -1141,14 +1141,14 @@ Legend of the Night Ability Description,"Vi sætter vor lid til ham, når alt h�
 Bloon Sabotage Ability Description,Mens sabotagen står på vil alle bloons bevæge sig med nedsat hastighed.
 Grand Saboteur Ability Description,"Evnens varighed forøges, og MOAB-klasse-bloons har mindre liv, mens sabotagen står på."
 Transforming Tonic Ability Description,Farme i nærheden af druiden tjener kortvarigt 50 % flere penge.
-IMF loan Ability Description,"Giver dig 10.000 $, som dog skal betales tilbage over tid."
+IMF loan Ability Description,"Giver dig 9.000 $, som dog skal betales tilbage over tid."
 Monkey-Nomics Ability Description,Når du er for stor til at fejle...
 Overclock Ability Description,Gør at en abe får super-styrke i et kort stykke tid.
 Spike Storm Ability Description,Udspyr et tykt lag søm over hele vejen.
 Carpet of Spikes Ability Description,Lægger et tæppe med søm over hele sporet i hver runde.
 Magic Arcanum Ability Description,"Skaber en kraftfuld abe, hvis evner er baseret på magi-aber i nærheden."
-Call to Arms Ability Description,Giver alle aber i nærheden DOBBELT angrebshastighed og springstyrke i 10 sekunder.
-Homeland Defense Ability Description,Evne berører ALLE aber og varer i 15 sekunder.
+Call to Arms Ability Description,Giver alle aber i nærheden +50% angrebshastighed og springstyrke i 10 sekunder.
+Homeland Defense Ability Description,Giver alle aber +100% angrebshastighed og springkraft og varer i 20 sekunder.
 ,
 //Maps,
 TownCentre,Bymidte
@@ -1825,7 +1825,7 @@ InsiderTradesDescription,Abestreger-rabat øges med 2 %.
 BiggerBanks,Større Bank(er)
 BiggerBanksDescription,Abebanker har plads til 2500 ekstra penge.
 BackroomDeals,Handel i Porten
-BackroomDealsDescription,IMF-lån øges til 12.000 $ og tilbagebetalingsraten er 40 %.
+BackroomDealsDescription,IMF-lån øges til 1000 $ og tilbagebetalingsraten er 40 %.
 ThickerFoams,Tykkere Skum
 ThickerFoamsDescription,"Rensende skum kan ramme 3 flere bloons, før den opløses."
 BigTraps,Store Fælder
@@ -2754,8 +2754,8 @@ DarkKnightDarkshift,[I] for at Mørke-skifte indenfor rækkevidde
 DarkChampionDarkshift,[I] for at Mørke-skifte til ethvert gyldigt sted
 SmallTowersMode,Små abetårne
 BigTowersMode,Store abetårne
-UpdatePopupTitle,Opdatering 34!
-UpdatePopupDescription,"Stor juleopdatering!\n• Kæmp mod den pansrede gigant, Rædsels-bloonen, med dens vilde modstand og immunitet!\n• Afdæk de fordelagtige tårnplaceringer på den nye begynderbane, Et-to-træ!\n• Nedkæmp bloons med et smil på læben med det nye kaptajn Churchill-skin, Kælke-Churchill!\n• Nye varer i trofæbutikken, livskvalitetsforbedringer, balanceændringer og meget mere!\n• Glædelig jul og de bedste ønsker om et vidunderligt nytår fra os alle os hos Ninja Kiwi!"
+UpdatePopupTitle,Opdatering 35!
+UpdatePopupDescription,"Nyt år, ny opdatering!\n• Trods de skyggefulde kamre på den nye ekspertbane, Mørkets Fangekældre, der er designet af vinderen af ​​community map-konkurrencen, Lars_Overwick.\n• Jag de stygge Bloons ud af byen på den nye begynderbane, Midt på vejen.\n• Giv nogle Bloons et ordentligt klem med det nye Pat Fusty-skin, Kaiju Pat!\n • Nye emner i Trofæbutikken, livskvalitetsforbedringer, balanceændringer og meget mere!"
 ResetDailyChest,Geninstil den daglige belønning
 JukeboxName,Jukebox
 EnableFunction,Tillad
@@ -3701,10 +3701,10 @@ Psi,Psi
 Psi Short Description,Psionisk abe
 Psi Description,"Et talentfuldt abebarn, Psi bruger hjernens kraft til at destruere bloons indefra."
 Psi Level 1 Description,Over enhver afstand eller forhindring kan Psi sende dødbringende vibrationer som destruerer en bloon ad gangen. Kan også spore camo-bloons.
-Psi Level 2 Description,Angriber lidt hurtigere
+Psi Level 2 Description,De psioniske vibrationer ødelægger bloons hurtigere end normalt.
 Psi Level 3 Description,Psykisk eksplosion: Psi udsender en bølge af energi som lammer bloons i nærheden i lang tid.
 Psi Level 4 Description,Psis angreb kan træffe endnu en ballon hvis den er meget tæt på mål-bloonen
-Psi Level 5 Description,De psioniske vibrationer ødelægger bloons hurtigere end normalt.
+Psi Level 5 Description,Angriber lidt hurtigere
 Psi Level 6 Description,Psis kraftfulde psykiske angreb kan gennemtrænge bly-bloons.
 Psi Level 7 Description,Psykisk eksplosion pulserer to gange. Psi kan nu destruere keramiske bloons.
 Psi Level 8 Description,Destruktiv resonans gør at bloons som Psi destruerer i sit hoved-angreb skader andre bloons i nærheden.
@@ -4345,7 +4345,7 @@ Geraldo Level 8 Description,"Nyt! En flaske 'Gerrys Ild' - 2.8 million Bloonvill
 Geraldo Level 9 Description,Nyt! Gødning - Bananfarmene som producerer synlige bananer øger deres produktion og får en pengebonus over flere runder. Geraldos hovedangreb får større sprængradius.
 Geraldo Level 10 Description,"Nyt! Kanin - nøøøøj, en nuttet lille haremis!"
 Geraldo Level 11 Description,"Nyt! Foryngelses-eliksir - nulstiller alle abetårnes og heltes nedkølingstid, gendanner 50 liv. Geraldos hovedangrebs springkraft øges, og Syltede agurker giver bonus-skade på forstærkede bloons."
-Geraldo Level 12 Description,Nyt! Flaskeånd - hidkalder en plasma-drevet abe-flaskeånd som holder i 3 runder. Skummel statue kan nu lejlighedsvis give passerende synlig MOAB-klasse bloons et kort stød.
+Geraldo Level 12 Description,Nyt! Flaskeånd - hidkalder en plasma-drevet abe-flaskeånd som holder i 2 runder. Skummel statue kan nu lejlighedsvis give passerende synlig MOAB-klasse bloons et kort stød.
 Geraldo Level 13 Description,"Skydetårn skyder hurtigere med øget skade, og Sømstak gør mere skade."
 Geraldo Level 14 Description,Se usynlighed eliksir giver øget rækkevidde og holder længere.
 Geraldo Level 15 Description,"Slibesten øger nu både skade og springkraft, og Klingefælde skaber en kraftigere effekt når den udløses."
@@ -5258,6 +5258,11 @@ Move,Flyt
 NeedsBeastHandlers,Kræver dyr
 NeedsWater,Kræver vand
 NeedsTrack,Kræver sti
+Buffed,STYRKET
+Assisting,Hjælper
+Select Point On Track,Vælg punkt på vejen
+Select Point In Range,Vælg punkt inden for rækkevidde
+,
 Dreadbloon,Rædsels-bloon
 DreadbloonTagLine,Fra dybt i jordens indre...
 DreadbloonTagLine2,den pansrede gigant!
@@ -5373,8 +5378,72 @@ CoopGameSyncFailed,Synkronisering af spilindstillinger mislykkedes. Prøv et nyt
 iCloudTitle,iCloud
 iCloudDisabled,iCloud deaktiveret
 iCloudEnabled,iCloud aktiveret
-DialogBeastHandlerQuest1InGameTowerUpgrade1,"Wow, det udyr er så stærkt, at det kræver TO udyrehåndtere at holde det under kontrol!"
-Buffed,Styrket
-Assisting,Assistere
-Select Point On Track,Vælg et punkt på sporet
-
+,
+Gamercard,Gamerkort
+ControllerDisconnected,"Forbindelse til controller tabt. Tilslut controller, og prøv igen."
+PlayerStatsBossesPopped,Bosser sprunget
+PlayerStatsDamageDoneToBosses,Skade påført bosser
+DarkDungeons,Dunkle fangekældre
+MiddleOfTheRoad,Midt på vejen
+Achievement 146 Name,Sidemission
+Achievement 146 Description,Fuldfør en mission
+Achievement 148 Name,VM-træning
+Achievement 148 Description,Opnå 150.000 dyrepasser-XP
+KaijuPatFustySkinName,Kaiju Pat-skin
+KaijuPatFustySkinNameFull,Kaiju Pat
+KaijuPatFustySkinDescription,"Et mærkeligt dyr, men voldsomt godmodigt."
+HeroesStrikerJonesBikerBonesPlacementHellriftName,Biker Bones Hellrift-lokation og opgradering
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,Biker Bones Hellrift
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,"Grib denne Hellrift-effekt, og se Biker Bones køre i kamp på sin jernhest, mens han fyrer den af med en syg burnout for hver opgradering. Kun Biker Bones."
+TowerPetSniperMonkeyChameleonName,Snigskytte-abe kæledyrskamæleon
+TowerPetSniperMonkeyChameleonShortName,Snigskytte-kæledyrskamæleon
+TowerPetSniperMonkeyChameleonDescription,"Den ligger perfekt camoufleret på lur i løvet. En flue flyver forbi og HAPS! En tunge skyder ud for at gribe den. Nej, det er ikke Snigskytte-abe, det er Snigskytte-abes kæledyrskamæleon!"
+GameUIProfileAvatar69Name,Brugertilpasset avatar - Bloonarius
+GameUIProfileAvatar69ShortName,Bloonarius-avatar
+GameUIProfileAvatar69Description,Oppusteren Bloonarius vågner fra sin boblende sump.
+GameUIProfileAvatar70Name,Brugertilpasset avatar - Studious Patch
+GameUIProfileAvatar70ShortName,Studious Patch
+GameUIProfileAvatar70Description,"Selvom Patch altid holder sig ajour med de seneste nyheder og videnskaben om abeverdenen, kan hun nogle gange bare godt lide at sætte sig ned med en god bog."
+GameUIProfileAvatar71Name,Brugertilpasset avatar - Bare en lille abe
+GameUIProfileAvatar71ShortName,Bare en lille abe-avatar
+GameUIProfileAvatar71Description,Se bare de søde øjne. Hvad vil Bloons overhovedet med den? Det er bare en lille abe.
+GameUIProfileAvatar72Name,Custom avatar - Glad bananbonde
+GameUIProfileAvatar72ShortName,Glad bananbonde-avatar
+GameUIProfileAvatar72Description,"Hvad holder en bananbonde mere af end at bære et banankostume? Svømme i et hav  af bananer, blandt kasser proppet med bananer, mens du er iført et banankostume."
+GameUIProfileBanner26Name,Limstorm-profilbanner
+GameUIProfileBanner26ShortName,Limstorm-banner
+GameUIProfileBanner26Description,"Når en limstorm blokerer for solens lys, skal du bruge dette banner i skyggen."
+GameUIProfileBanner27Name,Troldmandsmester Fønix-profilbanner
+GameUIProfileBanner27ShortName,Troldmandsmester Fønix-banner
+GameUIProfileBanner27Description,Bannervinder af Flipp_Flopps
+GameUIProfileBanner28Name,Kyllingefarm-profilbanner
+GameUIProfileBanner28ShortName,Kyllingefarm-banner
+GameUIProfileBanner28Description,Bannervinder af WhereThighs
+TeamsEmblemFrame14Name,Kaninens år-ramme
+TeamsEmblemFrame14ShortName,Kaninens år-ramme
+TeamsEmblemFrame14Description,Giv dit team fred og velstand med Kaninens år-ramme.
+TeamsEmblemFrame15Name,Kiwi-sommer-ramme
+TeamsEmblemFrame15ShortName,Kiwi-sommer-ramme
+TeamsEmblemFrame15Description,"Jandaler, kiwifrugt og PÅhutukawa-blomster. En populær ramme til et populært team."
+TeamsEmblemIcon17Name,Kaninens år-ikon
+TeamsEmblemIcon17ShortName,Kaninens år-ikon
+TeamsEmblemIcon17Description,Et Kaninens år-ikon for de årvågne og beslutsomme teams derude.
+TeamsEmblemIcon18Name,Summende bi-ikon
+TeamsEmblemIcon18ShortName,Summende bi-ikon
+TeamsEmblemIcon18Description,Dit hold vil klikke sig vej til sejr med dette Summende bi-ikon.
+BasePropCosyBeanbagMonkeyName,Hyggelig beanbag-abe
+BasePropCosyBeanbagMonkeyShortName,Hyggelig beanbag-abe
+BasePropCosyBeanbagMonkeyDescription,Beanbag’en. Det ultimative symbol på afslapning. Tilbagelænet abe medfølger! [Ø-plads]
+RetryLastRoundDescriptionText,Prøv igen fra sidste runde med liv og kontanter i behold?
+PlayOffline,Spil offline
+DarkDungeonsStatueName,Fangekælderstatue
+DarkDungeonsStatueActivate,Aktivér statue: ${0}
+DarkDungeonsStatueLevelUp,Niveau {0}\n${1}
+BossHPIncreased,Bosses liv øget
+BossHPDecreased,Bosses liv reduceret
+BossSpeedIncreased,Bosses hastighed øget
+BossSpeedDecreased,Bosses hastighed reduceret
+BossHealth,Bosses liv
+BossSpeed,Bosses hastighed
+EnterNewName,Indtast et nyt navn
+,

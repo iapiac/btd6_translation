@@ -698,7 +698,7 @@ Spike-o-pult Description,Förvandlar Pilapan till en mera långsamt attackerande
 Triple Shot Description,Kastar 3 pilar åt gången istället för 1.
 Crossbow Description,Använder ett långdistansarmborst som kan smälla 3 Bloonlager för varje träff.
 Juggernaut Description,Slungar ett enormt spikklot som smäller Blybloons och är extra bra på att krossa Keramik- och Förstärkta Bloons.
-Super Monkey Fan Club Description,"Superapans fan club-förmåga: Förvandlar upp till 10 Pilapor, inklusive själva Stålapan, i närheten till Stålapor i 15 sekunder. Den normala attackhastigheten ökar också."
+Super Monkey Fan Club Description,Superapans fan club-förmåga: Förvandlar upp till 10 Pilapor i närheten av och inklusive själva Stålapan till Stålapor i 15 sekunder. Den normala attackhastigheten ökar också.
 Sharp Shooter Description,Prickskytten avfyrar snabbare och får iväg kraftfulla kritiska skott med några sekunders mellanrum som åsamkar mycket större skada.
 Ultra-Juggernaut Description,Gigantiskt spikklot som delas två gånger i 6 Vidunderklot för ännu större destruktiv kraft mot Keramik- och Förstärkta Bloons.
 Plasma Monkey Fan Club Description,Elitmedlemskap i denna klubb ger Pilapan ännu större kraft!
@@ -829,7 +829,7 @@ Buccaneer-Aircraft Carrier Description,Skickar upp vågor av jaktplan som skjute
 Buccaneer-Monkey Pirates Description,Lägger till 2 kanoner till fartyget och attackerna ger större skada. MOAB-nerdragningsförmåga: harpunerar en Bloon i MOAB-klassen och drar ner den.
 Buccaneer-Favored Trades Description,Attackerar snabbare och genererar massor av pengar varje runda. Apor inom radien har ökat säljvärde.
 Buccaneer-Carrier Flagship Description,Ger extra skada. Kan placera andra apor på fartygets övre däck och öka attackhastigheten för alla vattenbaserade apor och apess.
-Buccaneer-Pirate Lord Description,Mycket högre attackhastighet för alla attacker och kan skjuta 3 änterhakar samtidigt vilket plundrar extra pengar från varje Bloon i MOAB-klassen som skjuts ner.
+Buccaneer-Pirate Lord Description,Mycket förbättrad kraft och kan skjuta 3 änterhakar samtidigt vilket plundrar extra pengar från varje Bloon i MOAB-klassen som skjuts ner.
 Buccaneer-Trade Empire Description,"Alstrar mer pengar per runda, ökar intjänade pengar med upp till 20 andra handelsfartyg med antalet handelsfartyg och ökar skada åsamkad av samtliga handelsfartyg."
 ,
 Rapid Fire Description,Skjuter snabbare än normalt.
@@ -942,7 +942,7 @@ Bloonjitsu Description,Kastar 5 kaststjärnor samtidigt!
 Bloon Sabotage Description,Sabotageförmåga: Varar i 15 sekunder. Under sabotaget rör sig alla Bloons hälften så snabbt.  
 Sticky Bomb Description,Kastar kraftfulla tidsinställda laddningar på MOAB-klass-Bloons.
 Grandmaster Ninja Description,"Kastar otroligt snabbt, 8 shurikens per skott!"
-Grand Saboteur Description,Förmågans varaktighet är längre och MOAB-klass-Bloons återföds med mindre hälsa under sabotaget.
+Grand Saboteur Description,Förmågans varaktighet är längre och MOAB-klass-Bloons återföds med mindre hälsa under sabotaget. Buffar alla Shinobi
 Master Bomber Description,En ap-MOAB-förstörelsemaskin.
 ,
 Larger Potions Description,Större trolldrycker stänker i ett större område.
@@ -987,11 +987,11 @@ Banana Plantation Description,Får det att växa 16 bananklasar per runda.
 Monkey Bank Description,Alla pengar som genereras av denna plantage sparas nu i banken och ger en ränta på 15 % varje runda.
 Marketplace Description,Alstrar pengar varje runda och lägger till det till din totalsumma. Inget jidder.
 Banana Research Facility Description,Producerar 5 stora bananlådor varje runda som är värda $300 styck.
-IMF loan Description,"IMF-lånförmåga: Ger dig $10 000, men du måste betala tillbaka över tid."
+IMF loan Description,"IMF-lånförmåga: Ger dig $9 000, men du måste betala tillbaka över tid."
 Central Market Description,Ger högar med pengar varje runda och ger handelsfartygen +10 % i inkomst.
 Banana Central Description,Vill du ha bananer? Vi har bananer!
 Monkey-Nomics Description,För när du är för stor för att misslyckas...
-Monkey Wall Street Description,Apindustriområdet tjänar in kolossala inkomster och genererar liv varje runda.
+Monkey Wall Street Description,Handel i Apindustriområdet ger kolossala inkomster och genererar liv varje runda.
 ,
 Sentry Gun Description,Skapar tillfälliga vaktkulsprutor och grupperar dem i närheten.
 Larger Service Area Description,Skjuter längre och placerar ut vaktkulsprutor över ett mycket större område. Vaktkulsprutor har längre räckvidd.
@@ -1007,7 +1007,7 @@ Overclock Description,Överklockningsförmåga: Väljer ett annat torn för att 
 Bloon Trap Description,Bloonfällan fångar Bloons till den är full. Peka på fällan för att tömma den mot pengar.
 Sentry Paragon Description,Skapar superstarka med mycket instabila vakttorn.
 Ultraboost Description,Apor i överklockat läge får en liten men permanent effekthöjning varje gång de överklockas.
-XXXL Trap Description,Stora Bloonfällor kan fånga även några av de största Bloontyperna…
+XXXL Trap Description,Stora Bloonfällor kan fånga även några av de största Bloontyperna
 ,
 Bigger Stacks Description,Skapar större högar av spikar per skott.
 Faster Production Description,Höjer produktionshastigheten snabbt.
@@ -1115,7 +1115,7 @@ Super Maelstrom Ability Description,Ännu mera kraftfull Malströmförmåga och 
 Snowstorm Ability Description,Fryser alla Bloons på skärmen en kort stund.
 Absolute Zero Ability Description,"Förmågan är så kall att den fryser alla Bloontyper, inklusive de som är immuna mot kyla och MOAB-klass."
 Glue Strike Ability Description,Klistrar fast alla Bloons på skärmen.
-Glue Storm Ability Description,Klisterstormförmåga täcker hela skärmen med klister i 10 sekunder.
+Glue Storm Ability Description,Klisterstormförmåga täcker hela skärmen med klister i 15 sekunder.
 Supply Drop Ability Description,Släpper en låda full med pengar.
 Elite Sniper Ability Description,Släpp av förnödenheter ger mycket mera pengar.
 Elite Defender Ability Description,Ett förlorat liv ger denna Prickskytt 2x attackhastighet under en kort stund som vedergällning.
@@ -1140,14 +1140,14 @@ Legend of the Night Ability Description,Vi vänder oss till honom när allt hopp
 Bloon Sabotage Ability Description,Under sabotaget rör sig alla Bloons med reducerad hastighet.
 Grand Saboteur Ability Description,Förmågans varaktighet är längre och MOAB-klass-Bloons återföds med mindre hälsa under sabotaget.
 Transforming Tonic Ability Description,Odlingar nära Druiden tjänar 50 % mer pengar under en kort tid.
-IMF loan Ability Description,"Ger dig $10 000, men du måste betala tillbaka över tid."
+IMF loan Ability Description,"Ger dig $9 000, men du måste betala tillbaka över tid."
 Monkey-Nomics Ability Description,För när du är för stor för att misslyckas...
 Overclock Ability Description,Målapan får superkrafter under en kort stund.
 Spike Storm Ability Description,Skjuter ut ett tjockt lager spikar över hela banan.
 Carpet of Spikes Ability Description,Lägger en spikmatta över hela banan varje runda.
 Magic Arcanum Ability Description,Skapar en kraftfull apa vars förmågor baseras på vilka Magiska Apor som är i närheten.
-Call to Arms Ability Description,Ger alla apor i närheten DUBBEL attackhastighet och smällningar i 10 sekunder.
-Homeland Defense Ability Description,Förmågan påverkar ALLA apor i 15 sekunder.
+Call to Arms Ability Description,Ger alla apor i närheten +50 % attackhastighet och smällningar i 10 sekunder.
+Homeland Defense Ability Description,Ger alla apor i närheten +100 % attackhastighet och smällningar i 20 sekunder.
 ,
 //Maps,
 TownCentre,Stadskärna
@@ -1824,7 +1824,7 @@ InsiderTradesDescription,Apaffärsrabatten ökar med 2 %.
 BiggerBanks,Större banker
 BiggerBanksDescription,Apbankerna får plats med 2 500 extra pengar.
 BackroomDeals,Hemliga avtal
-BackroomDealsDescription,IMF-lånet ökas till $ 12 000 och återbetalningsräntan är 40 %.
+BackroomDealsDescription,IMF-lånet ökas till $ 10 000 och återbetalningsräntan är 40 %.
 ThickerFoams,Tjockare skum
 ThickerFoamsDescription,Rengöringsskummet kan träffa ytterligare 3 Bloons innan det upphör att verka.
 BigTraps,Stora fällor
@@ -2014,7 +2014,7 @@ Set Round Description,"Väljer den aktuella spelarens runda. Var vänlig observe
 Buy Insta Monkeys,Köp direktapor
 ,
 Mode Clicks,CHIMPANSER
-Mode DoubleMoabHealth,MOAB:er med dubbel Hp
+Mode DoubleMoabHealth,MOAB:er med dubbel HP
 Mode AlternateBloonsRounds,Alternativa Bloonrundor
 Mode Impoppable,Osmällbar
 Mode HalfStartingCash,Halva startkapitalet
@@ -2043,7 +2043,7 @@ Turkish,Turkiska
 Korean,Koreanska
 Japanese,Japanska
 Polish,Polska
-Monkelish,Aplig
+Monkelish,Apspråk
 ,
 Backup,Säkerhetskopia
 Profile,Konto
@@ -2753,8 +2753,8 @@ DarkKnightDarkshift,[I] till Mörkskifte inom räckvidden
 DarkChampionDarkshift,[I] till Mörkskifte till valfri giltig plats
 SmallTowersMode,Små aptorn
 BigTowersMode,Stora aptorn
-UpdatePopupTitle,Uppdatering 34!
-UpdatePopupDescription,"Megajuluppdatering!\n• Kämpa mot den imponerande motståndskraften och immuniteten hos Bepansrade Behemoth, en Skräckbloon!\n• Upptäck de tornförstärkande utplaceringsplatserna på den nya nybörjarbanan Ett Två Träd!\n• Slakta Bloonsen med julstämning med vårt nya Kapten Churchill-skin, Släde-Churchill!\n• Trofébutikartiklar, livskvalitetsförbättringar, balansändringar och mycket mera!\n• God jul och gott nytt år önskar alla vi på Ninja Kiwi!"
+UpdatePopupTitle,Uppdatering 35!
+UpdatePopupDescription,"Nytt år, ny uppdatering!\n Våga dig ner i de mörka tunnlarna på den nya expertbanan Mörka Fängelsehålor. Design av vinnaren i communityns bantävling Lars_Overwick.\n Kör ut Bloonsen ur staden på den nya nybörjarbanan Vägens Mitt.\n Låt några Bloons få smaka på en monstruös kram från vårt nya Pat Fusty-skin, Kaiju Pat!\n Trofébutikartiklar, livskvalitetsförbättringar, balansändringar och mycket mera!"
 ResetDailyChest,Återställ daglig kista
 JukeboxName,Jukebox
 EnableFunction,Aktivera
@@ -3700,10 +3700,10 @@ Psi,Psi
 Psi Short Description,Psionisk Apa
 Psi Description,"Psi, som är en begåvad apunge, använder bara sin sinnesstyrka för att förstöra Bloons, inifrån och ut."
 Psi Level 1 Description,"Över valfri distans och över alla hinder skapar Psi dödliga vibrationer som förstör Bloons fullständigt, en i taget. Kan rikta in sig på Kamobloons."
-Psi Level 2 Description,Attackerar något snabbare.
+Psi Level 2 Description,De psioniska vibrationerna förstör Bloons snabbare än normalt.
 Psi Level 3 Description,Psykisk stötvåg: Psi släpper lös en stötvåg som bedövar Bloons i närheten länge.
 Psi Level 4 Description,Psis attack kan träffa en annan Bloon om den är väldigt nära Bloonen som attacken riktades mot.
-Psi Level 5 Description,De psioniska vibrationerna förstör Bloons snabbare än normalt.
+Psi Level 5 Description,Attackerar något snabbare.
 Psi Level 6 Description,Psis kraftfulla sinne kan tränga igenom Blybloons.
 Psi Level 7 Description,Psykisk stötvåg pulserar två gånger. Psi kan nu förstöra Keramikbloons.
 Psi Level 8 Description,Destruktiv resonans gör så att Bloons som förstörs av Psis huvudattack skadar andra Bloons i närheten.
@@ -4343,7 +4343,7 @@ Geraldo Level 8 Description,"Ny artikel! Flaska med ""Gerrys eld"" - 2,8 miljone
 Geraldo Level 9 Description,Ny artikel! Gödning - utvalda Bananodlingar som producerar synliga bananer får högre produktionstakt och en pengabonus över flera rundor. Sprängradien för Geraldos huvudattack blir större.
 Geraldo Level 10 Description,Ny artikel! Tamkanin - ååh vilken söt liten kanin!
 Geraldo Level 11 Description,"Ny artikel! Föryngringsdryck - återställer alla nedkylningar för Aptorn och Hjältar, återställer 50 liv. Genomslaget för Geraldos huvudattack ökar och Inlagd Gurkburk ger bonusskada mot förstärkta Bloons."
-Geraldo Level 12 Description,Ny artikel! Anden i flaskan - frammanar en plasmadriven Andeapa som varar i 3 rundor. Läskig Avgudabild kan nu använda en tillfällig kort bedövning på passerade synliga Bloons i MOAB-klassen.
+Geraldo Level 12 Description,Ny artikel! Anden i flaskan  frammanar en plasmadriven Andeapa som varar i 2 rundor. Läskig Avgudabild kan nu använda en tillfällig kort bedövning på passerade synliga Bloons i MOAB-klassen.
 Geraldo Level 13 Description,Skjutigt Torn avfyrar snabbare med högre skada och Hög med gamla spikar åsamkar mer skada.
 Geraldo Level 14 Description,Se osynlighetsdryck får större räckvidd och varar längre.
 Geraldo Level 15 Description,Slipsten ger ökad skada utöver genomslag och Bladfälla ger en mera kraftfull effekt när den utlöses.
@@ -5256,6 +5256,11 @@ Move,Flytta
 NeedsBeastHandlers,Kräver Best
 NeedsWater,Behöver vatten
 NeedsTrack,Behöver väg
+Buffed,BUFFAD
+Assisting,Assisterar
+Select Point On Track,Välj punkt på banan
+Select Point In Range,Välj punkt inom räckvidd
+,
 Dreadbloon,Skräckbloon
 DreadbloonTagLine,Från den mörka jordens djup...
 DreadbloonTagLine2,Bepansrade Behemoth!
@@ -5371,7 +5376,71 @@ CoopGameSyncFailed,Synkroniseringen av spelinställningarna misslyckades. Var v�
 iCloudTitle,iCloud
 iCloudDisabled,iCloud inaktiverat
 iCloudEnabled,iCloud aktiverat
-DialogBeastHandlerQuest1InGameTowerUpgrade1,"Wow, det odjuret är så starkt att det krävs TVÅ Odjurshanterare för att hålla det under kontroll!"
-Buffed,Förstärkt
-Assisting,Assistera
-Select Point On Track,Välj en punkt på banan
+,
+Gamercard,Gamerkort
+ControllerDisconnected,Handkontroll bortkopplad. Var vänlig återanslut den och försök igen.
+PlayerStatsBossesPopped,Smällda bossar
+PlayerStatsDamageDoneToBosses,Skada åsamkad på bossar
+DarkDungeons,Mörka fängelsehålor
+MiddleOfTheRoad,Vägens mitt
+Achievement 146 Name,Sidouppdrag
+Achievement 146 Description,Slutför ett uppdrag
+Achievement 148 Name,Träning för Världsligan
+Achievement 148 Description,Samla ihop 150 000 Besthanterar-XP
+KaijuPatFustySkinName,Kaiju Pat-skin
+KaijuPatFustySkinNameFull,Kaiju Pat
+KaijuPatFustySkinDescription,"En märkliga best, men våldsamt godmodig."
+HeroesStrikerJonesBikerBonesPlacementHellriftName,Biker Bones Hellrift Placera och uppgradera
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,Biker Bones Hellrift
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,"Skaffa denna Hellrift-effekt och se hur Biker Bones kör mot striden på sin stålspringare, med en häftig burnout för varje uppgradering. Endast Biker Bones."
+TowerPetSniperMonkeyChameleonName,Prickskyttapans kameleont
+TowerPetSniperMonkeyChameleonShortName,Prickskyttens kameleont
+TowerPetSniperMonkeyChameleonDescription,"Ligger och lurar, perfekt kamouflerad i lövverket. En fluga svävar förbi och SMACK! En tunga skjuter ut och fångar den. Nej, det är inte Prickskyttapan, det är Prickskyttapans tama kameleont!"
+GameUIProfileAvatar69Name,Anpassad Avatar  Bloonarius
+GameUIProfileAvatar69ShortName,Bloonarius-avatar
+GameUIProfileAvatar69Description,Bloonarius Uppblåsaren vaknar upp från sitt bubblande träsk
+GameUIProfileAvatar70Name,Anpassad Avatar  Flitiga Patch
+GameUIProfileAvatar70ShortName,Flitiga Patch
+GameUIProfileAvatar70Description,"Även om Patch alltid håller sig uppdaterad om de senaste nyheterna och vetenskapen i apvärlden, gillar hon då och då att bara sätta sig ner med en bra bok. "
+GameUIProfileAvatar71Name,Anpassad Avatar  Bara en liten apa
+GameUIProfileAvatar71ShortName,Bara en liten apa-avatar
+GameUIProfileAvatar71Description,Se på de där ögonen. Vad vill de där Bloonsen egentligen? Det är bara en liten apa.
+GameUIProfileAvatar72Name,Anpassad Avatar  Glad Bananodlare
+GameUIProfileAvatar72ShortName,Glad Bananodlare-avatar
+GameUIProfileAvatar72Description,"Vad gillar en Bananodlare mer än att ha på sig en banankostym? Att simma i en bassäng med bananer, bland lådor fulla av bananer, iklädd en banankostym."
+GameUIProfileBanner26Name,Klisterstorm-profilbanner
+GameUIProfileBanner26ShortName,Klisterstorm-banner
+GameUIProfileBanner26Description,"När en Klisterstorm skymmer solen, använd denna banner i skuggan."
+GameUIProfileBanner27Name,Trollkarlsherren Phoenix-profilbanner
+GameUIProfileBanner27ShortName,Trollkarlsherrens Phoenix-banner
+GameUIProfileBanner27Description,Bannervinnare av Flipp_Flopps
+GameUIProfileBanner28Name,Gårdskyckling-profilbanner
+GameUIProfileBanner28ShortName,Gårdskyckling-banner
+GameUIProfileBanner28Description,Bannervinnare av WhereThighs
+TeamsEmblemFrame14Name,Kaninens år-ram
+TeamsEmblemFrame14ShortName,Kaninens år-ram
+TeamsEmblemFrame14Description,Ge ditt team fred och välgång med denna Kaninens år-ram.
+TeamsEmblemFrame15Name,Kiwisommar-ram
+TeamsEmblemFrame15ShortName,Kiwisommar-ram
+TeamsEmblemFrame15Description,"Jandals, kiwifrukt och pohutukawa-blommor. En utvald ram för ett utvalt team."
+TeamsEmblemIcon17Name,Kaninens år-ikon
+TeamsEmblemIcon17ShortName,Kaninens år-ikon
+TeamsEmblemIcon17Description,En Kaninens år-ikon för de vaksamma och beslutsamma teamen därute.
+TeamsEmblemIcon18Name,Surrande bi-ikon
+TeamsEmblemIcon18ShortName,Surrande bi-ikon
+TeamsEmblemIcon18Description,Ditt team kommer att steppa hela vägen till seger med denna Surrande bi-ikon.
+BasePropCosyBeanbagMonkeyName,Mysig sittsäckapa
+BasePropCosyBeanbagMonkeyShortName,Mysig sittsäckapa
+BasePropCosyBeanbagMonkeyDescription,Sittsäcken. Den ultimata symbolen för avslappning. En avslappnad apa ingår! [Öplats]
+RetryLastRoundDescriptionText,Prova igen från senaste rundan med sparade liv och pengar?
+PlayOffline,Spela offline
+DarkDungeonsStatueName,Fängelsehåla-staty
+DarkDungeonsStatueActivate,Aktivera staty: ${0}
+DarkDungeonsStatueLevelUp,Nivå {0}\n${1}
+BossHPIncreased,Bosshälsa ökad
+BossHPDecreased,Bosshälsa minskad
+BossSpeedIncreased,Bosshastighet ökad
+BossSpeedDecreased,Bosshastighet minskad
+BossHealth,Bosshälsa
+BossSpeed,Bosshastighet
+EnterNewName,Ange nytt namn

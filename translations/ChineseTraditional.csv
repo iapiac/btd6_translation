@@ -232,7 +232,7 @@ ObynGreenfoot Level 20 Description,樹牆現可阻止更多的氣球。
 ,
 Ezili Level 1 Description,Ezili使用巫毒力量詛咒氣球。
 Ezili Level 2 Description,攻擊範圍增大。
-Ezili Level 3 Description,心跳终止：減緩氣球移動速度，允許擊破紫氣球，並防止任何氣球再生，效果持續10秒。
+Ezili Level 3 Description,心跳终止：允許擊破紫氣球，並防止任何氣球再生，效果持續10秒。
 Ezili Level 4 Description,Ezili的主要攻擊現在可詛咒多個氣球。
 Ezili Level 5 Description,攻速提升。
 Ezili Level 6 Description,持續傷害持續時間更長，傷害更快。
@@ -698,7 +698,7 @@ Spike-o-pult Description,將飛鏢猴子轉換為針刺投石機，不再投擲�
 Triple Shot Description,一次扔3支飛鏢，而不是1支。
 Crossbow Description,使用長射程弩車，每次攻擊擊破三層氣球。
 Juggernaut Description,投擲巨大刺球，能擊破鉛氣球，對陶瓷氣球和強化氣球極具破壞力。
-Super Monkey Fan Club Description,超猴粉絲團技能：最多可將包括自己在內附近的 10 個飛鏢猴轉換成超級猴，持續 15 秒，並使普通攻擊速度加快。
+Super Monkey Fan Club Description,超猴粉絲團技能：最多可將附近的 10 個飛鏢猴轉換成超猴，持續 15 秒，並使普通攻擊速度加快。
 Sharp Shooter Description,尖銳射手每幾秒射出強大的暴擊，可造成大得多的傷害。
 Ultra-Juggernaut Description,巨大刺球經過兩次分裂，變成6個小刺釘球，對陶瓷和強化氣球具有更大的破壞力。
 Plasma Monkey Fan Club Description,粉絲團的精英會員身份，可以給飛鏢猴子還要更大的力量！
@@ -819,7 +819,7 @@ Sub Commander Description,使作用範圍的指揮官和所有潛艇穿透力和
 Buccaneer-Faster Shooting Description,船上的所有武器射速加快。
 Buccaneer-Grape Shot Description,給船添加一噴5個鋒利葡萄。
 Buccaneer-Long Range Description,射程大幅增加，射彈飛行速度加快。
-Buccaneer-Double Shot Description,發射的船艦武器翻倍。
+Buccaneer-Double Shot Description,增加船艦武器數量。
 Buccaneer-Hot Shot Description,燃燒熱葡萄射擊可擊破鉛氣球，並點燃氣球。
 Buccaneer-Crow's Nest Description,允許船打擊偽裝氣球。
 Buccaneer-Destroyer Description,進攻速度超超快！
@@ -829,7 +829,7 @@ Buccaneer-Aircraft Carrier Description,啟動一波波的戰鬥機掃射氣球�
 Buccaneer-Monkey Pirates Description,為戰船增加2門大砲，並且大砲攻擊可造成更高傷害。MOAB追擊技能：追擊MOAB級氣球，將它擊毀。
 Buccaneer-Favored Trades Description,攻擊速度加快，每回合的收入增加。作用範圍內猴子的售價增加。
 Buccaneer-Carrier Flagship Description,造成額外傷害。可將其他猴子放置在船的上層甲板，增加所有水面猴子王牌猴子的攻擊速度。
-Buccaneer-Pirate Lord Description,大幅加快所有攻擊的速度，一次可射出3個抓鉤，每用它們擊落一艘MOAB級氣球，可掉落額外現金。
+Buccaneer-Pirate Lord Description,大幅強化威力，一次可射出3個抓鉤，每用它們擊落一艘MOAB級氣球，可掉落額外現金。
 Buccaneer-Trade Empire Description,每回合產生更多的資金，根據商船數量增加多達20艘其他商船的現金收入，並增強所有商船的傷害。
 ,
 Rapid Fire Description,比正常情況的射速更快。
@@ -902,7 +902,7 @@ Fireball Description,每幾秒施出爆炸火球法術。
 Intense Magic Description,更多強大的魔法，射擊速度更快，並可擊破更多氣球。
 Arcane Blast Description,更大更強的魔法，爆炸可擊破2層氣球。
 Wall of Fire Description,在路徑上創建一個超熱火牆，能燒掉路過的氣球。
-Monkey Sense Description,允許法師打擊偽裝氣球。
+Monkey Sense Description,略微增加射程，並允許法師命中偽裝氣球。
 Arcane Mastery Description,攻擊速度加快，射程、傷害和擊破力得到增強。
 Dragon's Breath Description,向附近的氣球噴出無盡火焰，並增強化火球和火牆。
 Shimmer Description,獲得黑魔法攻擊，可周期性地顯示附近所有偽裝氣球的位置。
@@ -942,7 +942,7 @@ Bloonjitsu Description,一次擲出5把手裡劍！
 Bloon Sabotage Description,陰謀破壞技能：持續15秒。在陰謀破壞期間，所有氣球都以一半的速度移動。 
 Sticky Bomb Description,對MOAB級氣球投擲強大的定時炸彈。
 Grandmaster Ninja Description,投擲速度非常快，每次射8把手裡劍！
-Grand Saboteur Description,技能持續時間更長，陰謀破壞期間，MOAB級氣球生成時生命值降低。
+Grand Saboteur Description,技能持續時間更長，破壞期間，MOAB級氣球生成時生命值降低。強化所有忍者。
 Master Bomber Description,猴子MOAB爆破機。
 ,
 Larger Potions Description,更多藥水在更大的區域潑灑。
@@ -987,11 +987,11 @@ Banana Plantation Description,每回合長出16串香蕉。
 Monkey Bank Description,農場生產的所有金錢現在都存儲到銀行，每一回合賺取15%的利息。
 Marketplace Description,每回合生成一筆錢並存入銀行。乾脆俐落。
 Banana Research Facility Description,每回合生產5個大香蕉寶箱，每個價值$300。
-IMF loan Description,"IMF貸款技能：給你$10,000，但你必須慢慢歸還。"
+IMF loan Description,IMF貸款技能：給你$9000，不過你必須慢慢歸還。
 Central Market Description,每回合獲得一堆錢都給商船+10%的收入。
 Banana Central Description,你想要香蕉？我們有香蕉！
 Monkey-Nomics Description,當你大到不能失敗時..
-Monkey Wall Street Description,猴子交易中心每回合可賺取巨額收入和恢復生命。
+Monkey Wall Street Description,猴子交易中心每回合可賺取巨額收入、恢復生命和收集作用範圍内的收入。
 ,
 Sentry Gun Description,製造臨時崗哨槍並在附近部署。
 Larger Service Area Description,射得更遠，並在還要更大的區域部署哨兵。
@@ -1115,7 +1115,7 @@ Super Maelstrom Ability Description,更強大的漩渦技能，持續時間更�
 Snowstorm Ability Description,短時間內凍結螢幕上所有氣球。
 Absolute Zero Ability Description,該技能非常強大，可以凍結所有類型的氣球，包括寒冷免疫氣球和MOAB級氣球。
 Glue Strike Ability Description,短時間內凍結螢幕上所有氣球。
-Glue Storm Ability Description,粘膠風暴技能可將整個螢幕都塗上粘膠，持續時間10秒。
+Glue Storm Ability Description,粘膠風暴技能可將整個螢幕都塗上粘膠，持續15秒。
 Supply Drop Ability Description,掉一個裝滿現金的寶箱。
 Elite Sniper Ability Description,搖錢樹掉多得多的現金。
 Elite Defender Ability Description,失去一條性命，此狙擊手可獲得2x的攻擊速度，在短時間內進行報復時有效。
@@ -1140,14 +1140,14 @@ Legend of the Night Ability Description,在我們徹底失去希望的時候，�
 Bloon Sabotage Ability Description,持續15秒。在破壞期間，所有氣球移速減慢。
 Grand Saboteur Ability Description,技能持續時間更長，陰謀破壞期間，MOAB級氣球生成時生命值降低。
 Transforming Tonic Ability Description,督伊德的附近農場可以多賺50%的錢，短時間內有效。
-IMF loan Ability Description,"給你$10,000，但你必須慢慢歸還。"
+IMF loan Ability Description,給你$9000，不過你必須慢慢歸還。
 Monkey-Nomics Ability Description,當你大到不能失敗時..
 Overclock Ability Description,目標猴子在短時間內超級充能。
 Spike Storm Ability Description,在整條路徑上射出一層厚厚的針刺。
 Carpet of Spikes Ability Description,每回合在整條路徑上放置一條針刺地毯。
 Magic Arcanum Ability Description,創造一個強大的猴子，其技能基於附近的魔法猴子。
-Call to Arms Ability Description,給予所有猴子雙倍攻擊速度和擊破力，持續10秒。
-Homeland Defense Ability Description,技能影響所有猴子並持續15秒。
+Call to Arms Ability Description,使所有猴子的攻擊速度加快50%，效果持續10秒。
+Homeland Defense Ability Description,使所有猴子的攻擊速度加快100%，效果持續20秒。
 ,
 //Maps,
 TownCentre,鎮中心
@@ -1824,7 +1824,7 @@ InsiderTradesDescription,猴子商業折扣增加2%。
 BiggerBanks,更大銀行
 BiggerBanksDescription,猴子銀行可以額外儲存2500塊。
 BackroomDeals,後房交易
-BackroomDealsDescription,IMF貸款增加到$12000，償還率為40%。
+BackroomDealsDescription,IMF貸款增加到$1000，償還率為40%。
 ThickerFoams,更厚泡沫
 ThickerFoamsDescription,清潔泡沫在失效前可以多擊中3個氣球。
 BigTraps,大陷阱
@@ -2753,8 +2753,8 @@ DarkKnightDarkshift,[I]黑暗轉移至範圍內
 DarkChampionDarkshift,[I]黑暗轉移至任何有效位置
 SmallTowersMode,小猴子塔
 BigTowersMode,大猴子塔
-UpdatePopupTitle,更新 34！
-UpdatePopupDescription,超級節日更新！\n• 對抗裝甲巨獸恐怖氣球的強大抗性和傷害免疫特性！\n• 在新的初學者地圖「一兩棵樹」上，發現放置防禦塔的增益！\n• 用新的丘吉爾船長皮膚「丘吉爾雪橇」，以節日的氣氛擊破氣球！\n• 獎盃商店物品：生活素質改進、平衡性修改等！\n• Ninja Kiwi 全體人員祝大家節日快樂，致以美好的新年祝福！
+UpdatePopupTitle,更新 35！
+UpdatePopupDescription,新年，新更新！\n 全新專家級地圖 - 黑暗地牢，在陰暗房間裡勇敢前行吧。由社区地图竞赛获胜者Lars_Overwick设计。\n• 全新初學者地圖 - 路之中間，將氣球趕出鎮子。\n•使用新的Pat Fusty皮肤 - 怪獸 Pa，讓那些氣球感受一下怪獸恐怖的擠壓力！\n 獎杯商店物品、生活素質改進、平衡性修改等！
 ResetDailyChest,重設每日寶箱
 JukeboxName,自動唱機
 EnableFunction,啟用
@@ -3700,10 +3700,10 @@ Psi,靈能術士
 Psi Short Description,靈能術士
 Psi Description,靈能術士是一個天賦異稟的猴孩，僅憑心靈力量就能徹底摧毀氣球。
 Psi Level 1 Description,靈能術士發出的致命震擊無視距離或障礙，一次可以完全消滅一個氣球。並且可以瞄準僞裝氣球。
-Psi Level 2 Description,攻擊速度略微加快。
+Psi Level 2 Description,靈能震擊比平常更快地摧毀氣球。
 Psi Level 3 Description,心靈震爆：靈能術士釋放出心靈震波，使附近的氣球長時間陷入昏迷。
 Psi Level 4 Description,靈能術士的攻擊可以擊中目標氣球附近的另一個氣球。
-Psi Level 5 Description,靈能震擊比平常更快地摧毀氣球。
+Psi Level 5 Description,攻擊速度略微加快。
 Psi Level 6 Description,靈能術士强大的心靈力量可以擊穿鉛氣球
 Psi Level 7 Description,心靈震爆產生兩次衝擊破。靈能術士現在可以摧毀陶瓷氣球。
 Psi Level 8 Description,毀滅共鳴使被靈能術士的心靈攻擊殲滅的氣球對附近的氣球造成傷害。
@@ -4343,7 +4343,7 @@ Geraldo Level 8 Description,新物品！一瓶傑瑞之火 - 280萬Bloonville單
 Geraldo Level 9 Description,新物品！肥料 - 使目標香蕉農場的香蕉產量大幅增加，並獲得現金獎勵，效果持續幾個回合。Geraldo主攻擊的爆炸範圍增加。
 Geraldo Level 10 Description,新物品！兔子寵物 - 噢，多可愛的小兔寶寶啊！
 Geraldo Level 11 Description,新物品！回春藥劑 - 重置所有猴子塔和英雄的技能冷卻時間，恢復50點生命。Geraldo主攻擊的穿透力增加，罐裝腌菜使猴子塔對強化氣球造成額外傷害。
-Geraldo Level 12 Description,新物品！瓶中精靈 - 召喚一個電漿驅動的精靈猴子，存在3個回合。恐怖神像現在有幾率使經過的可見MOAB級氣球陷入短暫眩暈。
+Geraldo Level 12 Description,新物品！瓶中精靈 - 召喚一個電漿驅動的精靈猴子，存在2個回合。恐怖神像現在有幾率使經過的可見MOAB級氣球陷入短暫眩暈。
 Geraldo Level 13 Description,射擊塔射速加快，造成的傷害增加，一堆舊釘子造成的傷害增加。
 Geraldo Level 14 Description,識別隱形藥劑的作用範圍增加，效果持續更久。
 Geraldo Level 15 Description,磨刀石除了增加穿透力外，現在還可以增加傷害，利刃陷阱被觸發時可產生更強大的效果。
@@ -5253,9 +5253,14 @@ T Rex Stomp Ability Description,擊暈廣闊範圍內最高ZOMG級的氣球。
 Giganotosaurus Stomp Ability,南方巨獸龍踐踏
 Giganotosaurus Stomp Ability Description,擊暈範圍內最高ZOMG級的氣球，並且效果持續時間更長。
 Move,移動
-NeedsBeastHandlers,需要野獸
+NeedsBeastHandlers,需要野獸：
 NeedsWater,需要水
 NeedsTrack,需求跟踪
+Buffed,已增益
+Assisting,輔助
+Select Point On Track,選擇軌道上的點
+Select Point In Range,選擇範圍內的點
+,
 Dreadbloon,恐怖氣球
 DreadbloonTagLine,來自黑暗世界深處...
 DreadbloonTagLine2,裝甲巨獸！
@@ -5371,7 +5376,71 @@ CoopGameSyncFailed,同步遊戲設定失敗。請嘗試開始新遊戲。
 iCloudTitle,iCloud
 iCloudDisabled,iCloud 已停用
 iCloudEnabled,iCloud 已啟用
-DialogBeastHandlerQuest1InGameTowerUpgrade1,"哇，那頭野獸好強，兩個馴獸師才把它控制住！"
-Buffed,強化
-Assisting,協助
-Select Point On Track,選擇軌道上的一個點
+,
+Gamercard,玩家卡
+ControllerDisconnected,控制器已斷開連接。請重新連接並重試。
+PlayerStatsBossesPopped,已擊破頭目
+PlayerStatsDamageDoneToBosses,對頭目造成的傷害
+DarkDungeons,黑暗地牢
+MiddleOfTheRoad,路之中間
+Achievement 146 Name,怪獸帕特皮膚
+Achievement 146 Description,怪獸帕特
+Achievement 148 Name,一頭奇怪的野獸，但脾氣非常好。
+Achievement 148 Description,飛車黨伯恩斯地獄裂痕地點與升級
+KaijuPatFustySkinName,怪獸Pat皮膚
+KaijuPatFustySkinNameFull,怪獸Pat
+KaijuPatFustySkinDescription,這頭猛獸雖然有點古怪，但性情卻極其溫和。
+HeroesStrikerJonesBikerBonesPlacementHellriftName,骷髏騎手地獄裂痕放置和升級
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,骷髏騎手地獄裂痕
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,利用這個地獄裂痕的效果，看著骷髏騎手騎著他的鋼鐵坐騎進入戰場，每一次升級都會出現燒胎效果。僅限骷髏騎手。
+TowerPetSniperMonkeyChameleonName,狙擊手猴子變色龍寵物
+TowerPetSniperMonkeyChameleonShortName,狙擊手變色龍寵物
+TowerPetSniperMonkeyChameleonDescription,埋伏著，完美地偽裝在樹葉間。一隻蒼蠅發過，砰！吐出舌頭抓住了它。不，這不是狙擊手猴子，而是狙擊手猴子的寵物變色龍！
+GameUIProfileAvatar69Name,自訂化身 - 氣球至尊
+GameUIProfileAvatar69ShortName,氣球至尊化身
+GameUIProfileAvatar69Description,打氣筒氣球至尊，從冒泡的沼澤中甦醒過來。
+GameUIProfileAvatar70Name,自訂化身 - 勤奮的Patch
+GameUIProfileAvatar70ShortName,勤奮的Patch
+GameUIProfileAvatar70Description,虽然Patch總是關注著猴子世界的最新動態和科學，但有時她只是喜歡坐下來讀一本好書。 
+GameUIProfileAvatar71Name,自訂化身 -  只是一隻小猴子
+GameUIProfileAvatar71ShortName,只是一隻小猴子化身
+GameUIProfileAvatar71Description,看看這些眼睛。氣球們到底想要什麼？它只是一隻小猴子。
+GameUIProfileAvatar72Name,自訂化身 -  快樂的蕉農
+GameUIProfileAvatar72ShortName,快樂的蕉農化身
+GameUIProfileAvatar72Description,有什麼比穿上香蕉服飾更讓蕉農歡喜的呢？那就是穿著穿著香蕉服飾，在香蕉池中暢遊，而周圍遍布裝滿香蕉的箱子。
+GameUIProfileBanner26Name,粘膠風暴個人檔案橫幅
+GameUIProfileBanner26ShortName,粘膠風暴橫幅
+GameUIProfileBanner26Description,當粘膠風暴擋住太陽時，在陰涼處裝備這個橫幅。
+GameUIProfileBanner27Name,大法師不死鳥個人檔案橫幅
+GameUIProfileBanner27ShortName,大法師不死鳥橫幅
+GameUIProfileBanner27Description,橫幅獲勝者Flipp_Flopps
+GameUIProfileBanner28Name,農場雞個人檔案橫幅
+GameUIProfileBanner28ShortName,農場雞橫幅
+GameUIProfileBanner28Description,橫幅獲勝者WhereThighs
+TeamsEmblemFrame14Name,兔年地圖框
+TeamsEmblemFrame14ShortName,兔年地圖框
+TeamsEmblemFrame14Description,為您的戰隊設定這個兔年地圖框，寓意太平與富貴。
+TeamsEmblemFrame15Name,奇異果夏日地圖框
+TeamsEmblemFrame15ShortName,奇異果夏日地圖框
+TeamsEmblemFrame15Description,人字拖，奇異果與聖誕花。精選地圖框配優質戰隊
+TeamsEmblemIcon17Name,兔年圖標
+TeamsEmblemIcon17ShortName,兔年圖標
+TeamsEmblemIcon17Description,兔年的圖標，專為機警、果敢的戰隊而設。
+TeamsEmblemIcon18Name,嗡嗡蜜蜂圖標
+TeamsEmblemIcon18ShortName,嗡嗡蜜蜂圖標
+TeamsEmblemIcon18Description,使用這個嗡嗡蜜蜂圖標，您的戰隊將以咔嗒咔嗒的方式取得勝利。
+BasePropCosyBeanbagMonkeyName,等級 {0}\n${1}
+BasePropCosyBeanbagMonkeyShortName,頭目生命值增加
+BasePropCosyBeanbagMonkeyDescription,頭目生命值減少
+RetryLastRoundDescriptionText,是否要從保存了生命值和現金的上一回合重試？
+PlayOffline,離綫遊戲
+DarkDungeonsStatueName,地牢雕像
+DarkDungeonsStatueActivate,激活雕像：${0}
+DarkDungeonsStatueLevelUp,{0}級\n${1}
+BossHPIncreased,頭目生命值增加
+BossHPDecreased,頭目生命值減少
+BossSpeedIncreased,頭目速度加快
+BossSpeedDecreased,頭目速度變慢
+BossHealth,頭目生命值
+BossSpeed,頭目速度
+EnterNewName,輸入新名稱

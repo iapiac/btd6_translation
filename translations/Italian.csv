@@ -232,7 +232,7 @@ ObynGreenfoot Level 20 Description,La Muraglia d'alberi è in grado di trattener
 ,
 Ezili Level 1 Description,Ezili è in grado di maledire i bloon grazie ai suoi oscuri poteri vudù.
 Ezili Level 2 Description,Portata di attacco aumentata.
-Ezili Level 3 Description,"Cuore in gola: rallenta i bloon, permette di scoppiare quelli viola e impedisce la rigenerazione per 10 secondi."
+Ezili Level 3 Description,Cuore in gola: permette di scoppiare i bloon viola e impedisce la rigenerazione per 10 secondi.
 Ezili Level 4 Description,L'attacco principale di Ezili ora maledice più bloon.
 Ezili Level 5 Description,Velocità d'attacco aumentata.
 Ezili Level 6 Description,Il danno a tempo ha una durata maggiore e infligge danni più rapidamente.
@@ -698,7 +698,7 @@ Spike-o-pult Description,Converte la scimmia lancia freccette in una catapulta p
 Triple Shot Description,Consente di lanciare 3 dardi alla volta anziché 1.
 Crossbow Description,"Usa la balestra a lungo raggio che,  con ogni colpo, può far scoppiare 3 strati di bloon."
 Juggernaut Description,Lancia una sfera acuminata gigante capace di far scoppiare i bloon di piombo e particolarmente adatta contro i bloon fortificati e di ceramica.
-Super Monkey Fan Club Description,Abilità Fan club della super scimmia: trasforma fino a 10 Scimmie lancia freccette vicine (se stessa inclusa) in Super scimmie per 15 secondi. Aumenta anche la velocità d'attacco normale.
+Super Monkey Fan Club Description,Abilità Fan club della super scimmia: trasforma fino a 10 scimmie lancia freccette vicine (se stessa inclusa) in Super scimmie per 15 secondi. Aumenta anche la velocità d'attacco normale.
 Sharp Shooter Description,Tiratore scelto attacca più velocemente e dopo qualche colpo mette a segno potenti colpi critici che provocano molti più danni.
 Ultra-Juggernaut Description,La sfera acuminata gigante si divide due volte in 6 sfere colossali per una maggiore devastazione contro i bloon fortificati e di ceramica.
 Plasma Monkey Fan Club Description,L'appartenenza a questo club d'élite conferisce ancora più potere alle scimmie lancia freccette!
@@ -829,7 +829,7 @@ Buccaneer-Aircraft Carrier Description,Lancia ondate di caccia che sorvolano il 
 Buccaneer-Monkey Pirates Description,Aggiunge 2 cannoni alla nave e gli attacchi infliggono più danni. Abilità Abbattimento MOAB: arpiona un bloon di classe MOAB e lo trascina a terra.
 Buccaneer-Favored Trades Description,Attacca più velocemente e genera molto denaro ogni round. Le scimmie nel raggio hanno maggior valore di vendita.
 Buccaneer-Carrier Flagship Description,Infligge danni extra. Può collocare altre scimmie sui ponti superiori della nave e aumenta la velocità d'attacco di tutte le scimmie acquatiche e delle scimmie asso.
-Buccaneer-Pirate Lord Description,"Velocità d'attacco considerevolmente maggiore, è in grado di lanciare 3 rampini alla volta e di ricavare contante extra da ogni bloon di classe MOAB catturato."
+Buccaneer-Pirate Lord Description,"Potenza considerevolmente maggiore, è in grado di lanciare 3 rampini alla volta e di ricavare contante extra da ogni bloon di classe MOAB abbattuto."
 Buccaneer-Trade Empire Description,"Genera più contante durante ogni round, aumenta fino a 20 il denaro guadagnato da tutti gli altri mercanti per il numero di mercanti presenti e potenzia il danno di tutti i mercanti."
 ,
 Rapid Fire Description,Spara più rapidamente del normale.
@@ -902,7 +902,7 @@ Fireball Description,Lancia ogni pochi secondi una sfera di fuoco esplosiva.
 Intense Magic Description,I colpi magici più potenti sono in grado di muoversi più rapidamente e di far scoppiare un maggior numero di bloon.
 Arcane Blast Description,Raffiche magiche più potenti e dal raggio d'azione più ampio capaci di far scoppiare 2 strati di bloon.
 Wall of Fire Description,Crea un muro di fuoco da un punto all'altro del tracciato capace di incenerire i bloon mentre passano.
-Monkey Sense Description,Consente al mago di colpire i bloon mimetizzati.
+Monkey Sense Description,Aumenta lievemente la portata e consente al mago di colpire i bloon mimetizzati.
 Arcane Mastery Description,Attacchi più veloci con portata e danni aumentati e maggior numero di bloon distrutti.
 Dragon's Breath Description,Sputa fiamme in direzione dei bloon e potenzia Palla di fuoco e Muro di fuoco.
 Shimmer Description,Ottiene un attacco di magia nera che rivela periodicamente la posizione di tutti i bloon mimetizzati nelle vicinanze in modo permanente.
@@ -942,7 +942,7 @@ Bloonjitsu Description,Lancia 5 shuriken alla volta.
 Bloon Sabotage Description,Abilità Sabotaggio: per i 15 secondi della sua durata tutti i bloon si muovono a velocità dimezzata. 
 Sticky Bomb Description,Lancia potenti cariche esplosive temporizzate contro i bloon classe MOAB.
 Grandmaster Ninja Description,Lancia 8 shuriken per colpo e con velocità incredibile!
-Grand Saboteur Description,L'abilità ha una durata superiore e durante il sabotaggio vengono generati bloon classe MOAB con meno PV.
+Grand Saboteur Description,L'abilità ha una durata superiore e durante il sabotaggio vengono generati bloon di classe MOAB con meno PV. Potenzia tutti i ninja.
 Master Bomber Description,Una scimmia capace da sola di demolire i bloon classe MOAB.
 ,
 Larger Potions Description,Le pozioni maxi hanno effetto su un'area più vasta.
@@ -987,11 +987,11 @@ Banana Plantation Description,Genera 16 caschi di banane per round.
 Monkey Bank Description,In ogni round genera denaro e lo deposita in banca con un interesse del 15% per round.
 Marketplace Description,In ogni round genera denaro che si aggiunge al tuo totale. Sul serio.
 Banana Research Facility Description,In ogni round produce 5 grandi casse di banane del valore di 300 $ ciascuna.
-IMF loan Description,Abilità Prestito del FSI: ottieni 10.000 $ che dovrai restituire col tempo.
+IMF loan Description,Abilità Prestito del FSI: ottieni 9.000 $ che dovrai restituire col tempo.
 Central Market Description,Fornisce un bel po' di denaro e le entrate dei mercantili superano il 10%.
 Banana Central Description,Cerchi banane? Ce le abbiamo noi!
-Monkey-Nomics Description,Per quando sei troppo grande per fallire….
-Monkey Wall Street Description,Centro nevralgico dei commerci. Le sue entrate sono enormi e genera vite in ogni round.
+Monkey-Nomics Description,Per quando sei troppo grande per fallire.
+Monkey Wall Street Description,"Centro nevralgico dei commerci. Le sue entrate sono enormi, genera vite in ogni round e raccoglie le entrate entro il suo raggio di azione."
 ,
 Sentry Gun Description,Crea cannoni sentinella temporanei e schierali nelle vicinanze.
 Larger Service Area Description,Spara più lontano e schiera sentinelle su un'area più vasta. Le sentinelle hanno una portata maggiore.
@@ -1007,7 +1007,7 @@ Overclock Description,Abilità sovraccarico: bersaglia un'altra torre per sovral
 Bloon Trap Description,La trappola per bloon cattura bloon fino a riempirsi. Seleziona per svuotarla in cambio di contante.
 Sentry Paragon Description,Crea sentinelle super potenti ma molto instabili.
 Ultraboost Description,Le scimmie ultra-sovraccaricate ottengono un potenziamento di lieve entità ma permanente ogni volta che vengono sovraccaricate.
-XXXL Trap Description,Enormi trappole per bloon in grado di intrappolare al loro interno alcuni dei bloon più imponenti…
+XXXL Trap Description,Enormi trappole per bloon in grado di intrappolare al loro interno alcuni dei bloon più imponenti
 ,
 Bigger Stacks Description,Genera pile di aculei più grandi con ogni colpo.
 Faster Production Description,Aumenta rapidamente il tasso di produzione.
@@ -1051,7 +1051,7 @@ Primary Training Description,"Tutte le scimmie primarie nel suo raggio d'azione 
 Monkey Intelligence Bureau Description,L'Agenzia conferisce conoscenze speciali in materia di scoppio dei bloon rendendo le scimmie vicine capaci di far scoppiare bloon di tutti i tipi.
 Monkey Town Description,Tutte le scimmie nel raggio d'azione della Città delle scimmie ottengono contante extra per ogni bloon scoppiato.
 Primary Mentoring Description,"Tutte le scimmie primarie nel suo raggio d'azione ottengono gratuitamente potenziamenti di livello 1, portata aumentata e tempi di recupero delle abilità ridotti."
-Call to Arms Description,Abilità Chiamata alle armi: conferisce alle scimmie vicine +50% velocità d'attacco e scoppi per un breve lasso di tempo.
+Call to Arms Description,Abilità Chiamata alle armi: conferisce a tutte le scimmie +50% velocità d'attacco e potenza perforatrice per un breve lasso di tempo.
 Monkey City Description,"Aumenta il raggio d'azione e la generazione di contante al suo interno, e ti conferisce una scimmia a freccette gratis per ciascun round."
 Primary Expertise Description,"Aggiunge l'attacco Mega ballista, e tutte le scimmie primarie nel raggio ottengono maggior potenza di scoppio, tempi di recupero delle abilità ulteriormente ridotti e aggiornamenti livello 1 e 2 gratis."
 Homeland Defense Description,L'abilità ora aumenta la velocità d'attacco e lo scoppio del 100% per tutte le scimmie per 20 secondi.
@@ -1115,7 +1115,7 @@ Super Maelstrom Ability Description,Abilità Vortice ancora più potente e di du
 Snowstorm Ability Description,Congela per un breve lasso di tempo tutti i bloon sullo schermo.
 Absolute Zero Ability Description,"Questa abilità ha effetto su tutti i tipi di bloon, inclusi quelli immuni al congelamento e quelli di classe MOAB."
 Glue Strike Ability Description,Ricopre di colla tutti i bloon presenti sullo schermo.
-Glue Storm Ability Description,L'abilità Tempesta di colla bombarda per 10 secondi l'intera schermata con la colla.
+Glue Storm Ability Description,L'abilità Tempesta di colla bombarda per 15 secondi l'intera schermata con la colla.
 Supply Drop Ability Description,Rilascia una cassa piena di contante.
 Elite Sniper Ability Description,Il rilascio scorte fornisce molto più contante.
 Elite Defender Ability Description,"Per una vita perduta un cecchino riceve, in contraccambio, un attacco 2 volte più rapido per un breve lasso di tempo."
@@ -1140,14 +1140,14 @@ Legend of the Night Ability Description,"Quando ogni speranza è perduta, è a l
 Bloon Sabotage Ability Description,Durante il sabotaggio tutti i bloon si muovono a velocità ridotta.
 Grand Saboteur Ability Description,L'abilità ha una durata superiore e durante il sabotaggio vengono generati bloon classe MOAB con meno PV.
 Transforming Tonic Ability Description,Per un breve lasso di tempo i vivai accanto ai druidi guadagnano il 50% in più di denaro.
-IMF loan Ability Description,Ottieni 10.000 $ che dovrai restituire col tempo.
-Monkey-Nomics Ability Description,Per quando sei troppo grande per fallire….
+IMF loan Ability Description,Ottieni 9.000 $ che dovrai restituire col tempo.
+Monkey-Nomics Ability Description,Per quando sei troppo grande per fallire.
 Overclock Ability Description,"Per un breve lasso di tempo, conferisce super poteri alla scimmia sotto il suo effetto."
 Spike Storm Ability Description,Cosparge l'intero tracciato di uno spesso strato di aculei.
 Carpet of Spikes Ability Description,In ogni round stende un tappeto di aculei sull'intero tracciato.
 Magic Arcanum Ability Description,Crea una potente scimmia le cui abilità si basano su quelle delle scimmie magiche vicine.
-Call to Arms Ability Description,RADDOPPIA la velocità d'attacco e la potenza perforatrice di tutte le scimmie per 10 secondi.
-Homeland Defense Ability Description,Questa abilità ha effetto su TUTTE le scimmie e dura 15 secondi.
+Call to Arms Ability Description,Conferisce a tutte le scimmie +50% velocità d'attacco e potenza perforatrice per 10 secondi.
+Homeland Defense Ability Description,Conferisce a tutte le scimmie +100% velocità d'attacco e potenza perforatrice per 20 secondi.
 ,
 //Maps,
 TownCentre,Centrocittà
@@ -1824,7 +1824,7 @@ InsiderTradesDescription,Lo sconto su Affari scimmieschi aumenta del 2%.
 BiggerBanks,Banche maxi
 BiggerBanksDescription,Le banche possono detenere denaro extra pari a 2500.
 BackroomDeals,Accordi sottobanco
-BackroomDealsDescription,Il Prestito del FSI aumenta a 12.000 $ e il tasso di rimborso è del 40%.
+BackroomDealsDescription,Il Prestito del FSI conferisce 1000 $ in più e il tasso di rimborso è del 40%.
 ThickerFoams,Schiuma densissima
 ThickerFoamsDescription,"Prima di dissolversi, la schiuma detergente può colpire altri 3 bloon."
 BigTraps,Grandi trappole
@@ -2753,8 +2753,8 @@ DarkKnightDarkshift,[I] per effettuare Passaggio oscuro nel raggio d'azione
 DarkChampionDarkshift,[I] per effettuare Passaggio oscuro in qualsiasi posizione valida
 SmallTowersMode,Torri scimmia piccola
 BigTowersMode,Torri scimmia grandi
-UpdatePopupTitle,Aggiornamento 34!
-UpdatePopupDescription,"Sostanzioso aggiornamento per le feste!\n• Affronta il fantastico il Gigante corazzato Orribloon, con tutte le sue resistenze e immunità!\n• Scopri le posizioni dei potenziamenti per le torri sulla nuova mappa livello principiante, Uno due tre!\n• Distruggi i bloon con spirito festivo grazie alla nuova skin Capitan Churchill, Slitta Churchill!\n• Oggetti nel Negozio trofei, miglioramenti all'interfaccia, ribilanciamenti e molto altro!\n• Buone feste e felice anno nuovo da tutti noi di Ninja Kiwi!"
+UpdatePopupTitle,Aggiornamento 35!
+UpdatePopupDescription,"Nuovo anno, nuovo aggiornamento!\n Affronta le oscure sale della nuova mappa di livello Esperto, Dungeon bui. Questa mappa è stata progettata da Lars_Overwick, che ha vinto la rispettiva competizione di design.\n Scaccia i bloon dalla città nella nuova mappa di livello Principiante, Centro della strada\n Fai venire uno spavento mostruoso a bloon con la nuova skin per Pat Fusty, Pat Kaiju!\n Nuovi oggetti nel Negozio trofei, miglioramenti all'interfaccia, ribilanciamenti e molto altro!"
 ResetDailyChest,Azzera cassa delle ricompense giornaliere
 JukeboxName,Jukebox
 EnableFunction,Attiva
@@ -3700,10 +3700,10 @@ Psi,Psi
 Psi Short Description,Scimmia psionica
 Psi Description,"Psi, una scimmietta molto dotata, usa il solo potere della mente per distruggere i bloon dall'interno."
 Psi Level 1 Description,"Psi emette delle vibrazioni letali che distruggono un bloon alla volta, a qualsiasi distanza e al di là di qualunque ostacolo. È in grado di colpire i bloon mimetizzati."
-Psi Level 2 Description,Attacca un po' più velocemente.
+Psi Level 2 Description,Le vibrazioni psioniche distruggono i bloon più velocemente del normale.
 Psi Level 3 Description,Raffica psichica: Psi scatena una potente ondata che stordisce a lungo i bloon nelle vicinanze.
 Psi Level 4 Description,"L'attacco di Psi può colpire anche un altro bloon, se è vicino a quello preso di mira."
-Psi Level 5 Description,Le vibrazioni psioniche distruggono i bloon più velocemente del normale.
+Psi Level 5 Description,Attacca un po' più velocemente.
 Psi Level 6 Description,La potente mente di Psi riesce a penetrare i bloon di piombo.
 Psi Level 7 Description,La Raffica psichica pulsa due volte. Ora Psi può distruggere i bloon di ceramica.
 Psi Level 8 Description,La Risonanza devastante fa sì che i bloon distrutti dall'attacco principale di Psi danneggino quelli vicini.
@@ -4343,7 +4343,7 @@ Geraldo Level 8 Description,"Nuovo oggetto! Bottiglia di ""Fuoco di Gerry"": 2,8
 Geraldo Level 9 Description,Nuovo oggetto! Fertilizzante: i Vivai di banane presi di mira che producono banane visibili aumentano la loro produzione e ottengono bonus contante per diversi round. Aumenta il raggio dell'esplosione dell'attacco principale di Geraldo.
 Geraldo Level 10 Description,"Nuovo oggetto! Animaletto coniglio: oh, che bel coniglietto!"
 Geraldo Level 11 Description,"Nuovo oggetto! Elisir di lunga vita: azzera tutti i tempi di recupero delle torri scimmiesche e degli eroi e ripristina 50 vite. Aumenta la perforazione dell'attacco principale di Geraldo, mentre il barattolo di cetriolini infligge danni bonus ai bloon fo"
-Geraldo Level 12 Description,Nuovo oggetto! Lampada del genio: evoca una scimmia genio al plasma che dura 3 round. L'idolo inquietante può così applicare uno stordimento occasionale di breve durata ai bloon di classe MOAB visibili di passaggio.
+Geraldo Level 12 Description,Nuovo oggetto! Lampada del genio: evoca una scimmia genio al plasma che dura 2 round. L'idolo inquietante può così applicare uno stordimento occasionale di breve durata ai bloon di classe MOAB visibili di passaggio.
 Geraldo Level 13 Description,"La torre spara freccette è più veloce e infligge danni maggiori, mentre il mucchio di vecchi chiodi infligge più danni."
 Geraldo Level 14 Description,La pozione anti-invisibilità estende la portata e dura di più.
 Geraldo Level 15 Description,"La pietra cote aumenta i danni oltre a perforare, mentre la trappola di lame crea un effetto più potete quando viene fatta scattare."
@@ -5253,9 +5253,14 @@ T Rex Stomp Ability Description,Stordisce i bloon ZOMG in un'area vasta.
 Giganotosaurus Stomp Ability,Carica del giganotosaurus
 Giganotosaurus Stomp Ability Description,Stordisce tutti i bloon ZOMG più a lungo.
 Move,Sposta
-NeedsBeastHandlers,Bestie richieste
+NeedsBeastHandlers,Richiede bestie
 NeedsWater,Ha bisogno di acqua
 NeedsTrack,Ha bisogno di tracciato
+Buffed,POTENZIAMENTO APPLICATO
+Assisting,Assistenza
+Select Point On Track,Seleziona punto sul tracciato
+Select Point In Range,Seleziona punto a portata
+,
 Dreadbloon,Orribloon
 DreadbloonTagLine,Dalle profondità della terra oscura...
 DreadbloonTagLine2,il gigante corazzato!
@@ -5371,7 +5376,71 @@ CoopGameSyncFailed,Sincronizzazione delle impostazioni di gioco non riuscita. Pr
 iCloudTitle,iCloud
 iCloudDisabled,iCloud disabilitato
 iCloudEnabled,iCloud abilitato
-DialogBeastHandlerQuest1InGameTowerUpgrade1,"Wow, quella bestia è così forte che ci vogliono DUE Addestratori di Bestia per tenerla sotto controllo!"
-Buffed,Rafforzato
-Assisting,Assistere
-Select Point On Track,Seleziona un punto della pista
+,
+Gamercard,Gamercard
+ControllerDisconnected,Controller scollegato. Collegalo e riprova.
+PlayerStatsBossesPopped,Boss scoppiati
+PlayerStatsDamageDoneToBosses,Danni inflitti ai boss
+DarkDungeons,Dungeon bui
+MiddleOfTheRoad,Centro della strada
+Achievement 146 Name,Missione secondaria
+Achievement 146 Description,Completa una missione
+Achievement 148 Name,Addestramento Lega mondiale
+Achievement 148 Description,Ottieni 150.000 PE domatore
+KaijuPatFustySkinName,Skin Pat Kaiju
+KaijuPatFustySkinNameFull,Pat Kaiju
+KaijuPatFustySkinDescription,"Una bestia particolare, ma con un carattere ferocemente docile."
+HeroesStrikerJonesBikerBonesPlacementHellriftName,Posizionamento e potenziamento Fenditura infernale di Ossa da biker
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,Fenditura infernale di Ossa da biker
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,"Usa l'effetto Fenditura infernale e osserva Ossa da biker lanciarsi in battaglia sul suo destriero di ferro, che si surriscalda a ogni potenziamento. Solo per Ossa da biker."
+TowerPetSniperMonkeyChameleonName,Animaletto camaleonte della scimmia cecchino
+TowerPetSniperMonkeyChameleonShortName,Animaletto camaleonte del cecchino
+TowerPetSniperMonkeyChameleonDescription,"Giace in attesa, perfettamente nascosto tra la vegetazione. Una mosca lo supera in volo e BAM! ecco che una lingua la acchiappa fulminea. No, non è la Scimmia cecchino, è l'animaletto camaleonte della scimmia cecchino!"
+GameUIProfileAvatar69Name,Avatar personalizzato - Bloonarius
+GameUIProfileAvatar69ShortName,Avatar Bloonarius
+GameUIProfileAvatar69Description,Bloonarius il Gonfiatore si sveglia nella sua palude gorgogliante.
+GameUIProfileAvatar70Name,Avatar personalizzato - Patch studiosa
+GameUIProfileAvatar70ShortName,Patch studiosa
+GameUIProfileAvatar70Description,"Anche se Patch è sempre aggiornata sulle ultime notizie e scoperte scientifiche del mondo delle scimmie, a volte desidera solo rilassarsi con un buon libro. "
+GameUIProfileAvatar71Name,Avatar personalizzato - Solo una scimmietta
+GameUIProfileAvatar71ShortName,Avatar Solo una scimmietta
+GameUIProfileAvatar71Description,Guarda quegli occhietti. Cosa vogliono i bloon? È solo una scimmietta.
+GameUIProfileAvatar72Name,Avatar personalizzato - Coltivatore di banane felice
+GameUIProfileAvatar72ShortName,Avatar Coltivatore di banane felice
+GameUIProfileAvatar72Description,"Cosa rende più felice un coltivatore di banane rispetto a indossare un costume da banana? Nuotare in una piscina di banane, tra casse di banane, indossando un costume da banana."
+GameUIProfileBanner26Name,Banner profilo Tempesta di colla
+GameUIProfileBanner26ShortName,Banner Tempesta di colla
+GameUIProfileBanner26Description,"Quando una Tempesta di colla oscura il sole, equipaggia questo banner all'ombra."
+GameUIProfileBanner27Name,Banner profilo Mago supremo fenice
+GameUIProfileBanner27ShortName,Banner Mago supremo fenice
+GameUIProfileBanner27Description,Banner vincitore di Flipp_Flopps
+GameUIProfileBanner28Name,Banner profilo Pollo del Vivaio
+GameUIProfileBanner28ShortName,Banner Pollo del Vivaio
+GameUIProfileBanner28Description,Banner vincitore di WhereThighs
+TeamsEmblemFrame14Name,Cornice Anno del coniglio
+TeamsEmblemFrame14ShortName,Cornice Anno del coniglio
+TeamsEmblemFrame14Description,Garantisci alla tua squadra pace e prosperità con questa cornice Anno del coniglio.
+TeamsEmblemFrame15Name,Cornice Kiwi estivo
+TeamsEmblemFrame15ShortName,Cornice Kiwi estivo
+TeamsEmblemFrame15Description,"Infradito, macedonia di kiwi e fiori di pohutukawa. Una cornice d'elezione per una squadra speciale."
+TeamsEmblemIcon17Name,Icona Anno del coniglio
+TeamsEmblemIcon17ShortName,Icona Anno del coniglio
+TeamsEmblemIcon17Description,"Un'icona dell'Anno del coniglio, per le squadre all'erta e determinate che ci sono là fuori."
+TeamsEmblemIcon18Name,Icona Ape ronzante
+TeamsEmblemIcon18ShortName,Icona Ape ronzante
+TeamsEmblemIcon18Description,"La tua squadra si farà strada verso la vittoria a suon di ronzii, con questa icona Ape ronzante."
+BasePropCosyBeanbagMonkeyName,Scimmia pouf comodo
+BasePropCosyBeanbagMonkeyShortName,Scimmia pouf comodo
+BasePropCosyBeanbagMonkeyDescription,"Il pouf, simbolo del relax supremo. Include una scimmia rilassata! [Slot Isola]"
+RetryLastRoundDescriptionText,Vuoi riprovare l'ultimo round con vite salvate e contante?
+PlayOffline,Gioca offline
+DarkDungeonsStatueName,Statua del dungeon
+DarkDungeonsStatueActivate,Attiva statua: ${0}
+DarkDungeonsStatueLevelUp,Livello {0}\n${1}
+BossHPIncreased,Salute boss aumentata
+BossHPDecreased,Salute boss diminuita
+BossSpeedIncreased,Velocità boss aumentata
+BossSpeedDecreased,Velocità boss diminuita
+BossHealth,Salute boss
+BossSpeed,Velocità boss
+EnterNewName,Inserisci nuovo nome

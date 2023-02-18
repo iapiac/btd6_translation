@@ -902,7 +902,7 @@ Fireball Description,Beschwört alle paar Sekunden einen explosiven Feuerballzau
 Intense Magic Description,Mächtigere Zauberschüsse bewegen sich schneller und können mehr Bloons platzen lassen.
 Arcane Blast Description,Größere und stärkere magische Explosionen lassen 2 Schichten Bloons platzen.
 Wall of Fire Description,"Erzeugt eine superheiße Feuerwand über der Strecke, die darüber schwebende Bloons röstet."
-Monkey Sense Description,"Ermöglicht es dem Zauberer, Tarn-Bloons zu treffen."
+Monkey Sense Description,"Erhöht ein wenig die Reichweite und ermöglicht es dem Zauberer, Tarn-Bloons zu treffen."
 Arcane Mastery Description,"Schnellere Angriffe mit erhöhter Reichweite, erhöhtem Schaden und Kraft zum Platzenlassen."
 Dragon's Breath Description,Speit unaufhörlich Flammen auf Bloons in seiner Nähe und verstärkt Feuerkugel und Feuerwall.
 Shimmer Description,"Erhält einen Angriff mit schwarzer Magie, der dauerhaft den Standort aller Tarn-Bloons in der Nähe zeigt."
@@ -942,7 +942,7 @@ Bloonjitsu Description,Wirft gleichzeitig 5 Shuriken!
 Bloon Sabotage Description,Sabotage-Fähigkeit: Hält 15 Sekunden lang an. Während der Sabotage werden alle Bloons auf halbe Geschwindigkeit gedrosselt.  
 Sticky Bomb Description,Wirft mächtige Zeitbomben auf Bloons der MOAB-Klasse.
 Grandmaster Ninja Description,Wirft unheimlich schnell 8 Shuriken pro Wurf!
-Grand Saboteur Description,Die Fähigkeit dauert länger und Bloons der MOAB-Klasse erscheinen während der Sabotage mit weniger Gesundheit.
+Grand Saboteur Description,Die Fähigkeit dauert länger und Bloons der MOAB-Klasse erscheinen während der Sabotage mit weniger Gesundheit. Gewährt allen Shinobi den Vorteil.
 Master Bomber Description,Eine Affen-MOAB-Vernichtungsmaschine.
 ,
 Larger Potions Description,Größere Trankmengen wirken über einen größeren Bereich.
@@ -987,11 +987,11 @@ Banana Plantation Description,Lässt 16 Bananenstauden pro Runde wachsen.
 Monkey Bank Description,Sämtliches von dieser Farm generierte Geld wird jetzt in der Bank gelagert und in jeder Runde mit 15 % verzinst.
 Marketplace Description,Generiert jede Runde Geld und fügt es deiner Gesamtsumme hinzu. Kein Witz.
 Banana Research Facility Description,"Produziert jede Runde 5 große Bananenkisten, die je 300 $ wert sind."
-IMF loan Description,"IAF-Kredit-Fähigkeit: Bringt dir 10.000 $, die du jedoch mit der Zeit zurückzahlen musst."
+IMF loan Description,"IAF-Kredit-Fähigkeit: Bringt dir 9.000 $, die du jedoch mit der Zeit zurückzahlen musst."
 Central Market Description,Bringt dir haufenweise Geld jede Runde ein und Handelsschiffen +10 % Einkommen.
 Banana Central Description,Du willst Bananen? Wir haben Bananen!
 Monkey-Nomics Description,Wenn du bereits zu groß für den Untergang bist ...
-Monkey Wall Street Description,Ein zentraler Affenhandelspunkt bringt jede Runde kolossale Einnahmen und generiert Leben.
+Monkey Wall Street Description,"Ein zentraler Affenhandelspunkt bringt jede Runde kolossale Einnahmen, generiert Leben und sammelt Einnahmen im Umkreis."
 ,
 Sentry Gun Description,Fertigt zeitlich begrenzte Überwachungskanonen und startet sie in seiner Nähe.
 Larger Service Area Description,Schießt weiter und setzt Wachtürme in einem viel größeren Gebiet ein. Die Wachtürme haben eine längere Reichweite.
@@ -1051,7 +1051,7 @@ Primary Training Description,"Alle Primäraffen im Radius erhalten mehr Reichwei
 Monkey Intelligence Bureau Description,"Das Büro verleiht spezielles Wissen zum Platzenlassen von Bloons und ermöglicht es Affen in der Nähe, alle Bloon-Arten platzen zu lassen."
 Monkey Town Description,"Alle Affen, die innerhalb des Radius der Affenstadt sind, erhalten Extrageld pro geplatztem Bloon."
 Primary Mentoring Description,"Alle Primäraffen im Radius erhalten kostenlos Upgrades der Stufe 1, mehr Reichweite und reduzierte Abkühlphase für Fähigkeiten."
-Call to Arms Description,Zu-den-Waffen-Fähigkeit: Verleiht Affen in der Nähe +50 % Angriffsgeschwindigkeit und lässt Bloons für kurze Zeit platzen.
+Call to Arms Description,Zu-den-Waffen-Fähigkeit: Verleiht allen Affen +50 % Angriffsgeschwindigkeit und lässt Bloons für kurze Zeit platzen.
 Monkey City Description,"Erhöht Einflussradius, Geldgenerierung im Radius und bringt dir jede Runde einen kostenlosen Wurfpfeilaffen."
 Primary Expertise Description,"Fügt den Angriff Mega-Ballista hinzu. Außerdem erhalten alle Primär-Affen in Reichweite mehr Kraft zum Platzenlassen, Fähigkeits-Abkühlphasen weiter reduziert und kostenlose Upgrades der Stufen 1 und 2."
 Homeland Defense Description,Fähigkeit erhöht jetzt die Angriffsgeschwindigkeit und platzt 20 Sekunden lang bei 100 % aller Affen.
@@ -1115,7 +1115,7 @@ Super Maelstrom Ability Description,"Noch stärkere Infernofähigkeit, die noch 
 Snowstorm Ability Description,Friert für kurze Zeit alle Bloons auf dem Bildschirm ein.
 Absolute Zero Ability Description,"Die Fähigkeit ist so kalt, dass sie alle Bloons einfriert, darunter auch kälteimmune und diejenigen von der MOAB-Klasse."
 Glue Strike Ability Description,Verklebt alle Bloons auf dem Bildschirm.
-Glue Storm Ability Description,Die Klebstoffsturm-Fähigkeit bewirft den ganzen Bildschirm 10 Sekunden lang mit Klebstoff.
+Glue Storm Ability Description,Die Klebstoffsturm-Fähigkeit bewirft den ganzen Bildschirm 15 Sekunden lang mit Klebstoff.
 Supply Drop Ability Description,Wirft eine Kiste voller Geld ab.
 Elite Sniper Ability Description,Die Versorgung wirft viel mehr Geld ab.
 Elite Defender Ability Description,Ein verlorenes Leben verleiht diesem Scharfschützen beim Gegenschlag für kurze Zeit 2-fache Angriffsgeschwindigkeit.
@@ -1140,14 +1140,14 @@ Legend of the Night Ability Description,"Wir wenden uns an ihn, wenn alle Hoffnu
 Bloon Sabotage Ability Description,Während der Sabotage bewegen sich alle Bloons noch langsamer
 Grand Saboteur Ability Description,Die Fähigkeit dauert länger und Bloons der MOAB-Klasse erscheinen während der Sabotage mit weniger Gesundheit.
 Transforming Tonic Ability Description,Plantagen in der Nähe des Druiden bringen für kurze Zeit 50 % mehr Geld.
-IMF loan Ability Description,"Bringt dir 10.000 $, die du jedoch mit der Zeit zurückzahlen musst."
+IMF loan Ability Description,"Bringt dir 9.000 $, die du jedoch mit der Zeit zurückzahlen musst."
 Monkey-Nomics Ability Description,Wenn du bereits zu groß für den Untergang bist ...
 Overclock Ability Description,Der Zielaffe verfügt für kurze Zeit über Superkraft.
 Spike Storm Ability Description,Verteilt eine dicke Schicht Nägel über die gesamte Strecke.
 Carpet of Spikes Ability Description,Bedeckt jede Runde die gesamte Strecke mit einem Nagelteppich.
 Magic Arcanum Ability Description,"Erzeugt einen mächtigen Affen, dessen Fähigkeiten darauf basieren, welche Zauberaffen in der Nähe sind."
-Call to Arms Ability Description,Verleiht allen Affen DOPPELTE Angriffsgeschwindigkeit und lässt 10 Sekunden lang Bloons platzen.
-Homeland Defense Ability Description,Die Fähigkeit betrifft ALLE Affen und dauert 15 Sekunden lang.
+Call to Arms Ability Description,Verleiht allen Affen +50 % Angriffsgeschwindigkeit und lässt 10 Sekunden lang Bloons platzen.
+Homeland Defense Ability Description,Verleiht allen Affen +100 % Angriffsgeschwindigkeit und lässt 20 Sekunden lang Bloons platzen.
 ,
 //Maps,
 TownCentre,Stadtmitte
@@ -1550,7 +1550,7 @@ Achievement 33 Description,{0} Spiele im Schwierigkeitsgrad Unplatzbar gewinnen
 Achievement 34 Name,Geizig
 Achievement 34 Description,Gewinne {0} Spiele im Halbes Geld-Modus
 Achievement 35 Name,Bloonzilla!
-Achievement 35 Description,{0} Spiele gegen MOABs mit doppelten TP gewinnen
+Achievement 35 Description,{0} Spiele gegen MOABs mit doppelten HP gewinnen
 Achievement 36 Name,Rollenumwandler
 Achievement 36 Description,Ein Spiel im Modus Rückwärts gewinnen
 Achievement 37 Name,Medaillengewinner
@@ -1824,7 +1824,7 @@ InsiderTradesDescription,Der Rabatt für das Affen-Business erhöht sich um 2 %.
 BiggerBanks,Größere Banken
 BiggerBanksDescription,Affen-Banken können 2.500 Extrageld besitzen.
 BackroomDeals,Hinterzimmerhandel
-BackroomDealsDescription,Der IAF-Kredit wird auf 12.000 $ erhöht und die Rückzahlrate liegt bei 40 %.
+BackroomDealsDescription,Der IAF-Kredit wird um 1.000 $ erhöht und die Rückzahlrate liegt bei 40 %.
 ThickerFoams,Dickerer Schaum
 ThickerFoamsDescription,"Reinigungsschaum trifft 3 weitere Bloons, bevor er abläuft."
 BigTraps,Großfallen
@@ -2014,7 +2014,7 @@ Set Round Description,"Lege die Runde des aktuellen Spielers fest. Denk bitte da
 Buy Insta Monkeys,Insta-Affen kaufen
 ,
 Mode Clicks,SCHIMPANSEN
-Mode DoubleMoabHealth,Doppel-GP-MOABs
+Mode DoubleMoabHealth,Doppel-HP-MOABs
 Mode AlternateBloonsRounds,Alternative Bloonrunden
 Mode Impoppable,Unplatzbar
 Mode HalfStartingCash,Halbes Startgeld
@@ -2412,8 +2412,7 @@ Gameplay,Spielablauf
 Revert,Umkehren
 Save,Speichern
 HotkeyModeDescription,Hotkeys können nur im Klicken-und-Ablegen-Modus verwendet werden
-DemoSplashText,"Diese Version von Bloons TD 6 wurde speziell für Vorführzwecke erschaffen.
-"
+DemoSplashText,Diese Version von Bloons TD 6 wurde speziell für Vorführzwecke erschaffen.
 EditorClearSaveProgressWarning,Deine Herausforderung hat den Spielablauf ändernde Modifikationen – dadurch wird deine aktuelle Fortschrittsspeicherung im Spiel gelöscht.
 EditorInfiniteMaxTowers,Unbegrenzt
 EditorDefaultValue,Standard
@@ -2754,8 +2753,8 @@ DarkKnightDarkshift,"[I], um Dunkelsprung in Reichweite zu machen"
 DarkChampionDarkshift,"[I], um Dunkelsprung zu einem gültigen Ort zu machen"
 SmallTowersMode,Kleine Affentürme
 BigTowersMode,Große Affentürme
-UpdatePopupTitle,Update 34!
-UpdatePopupDescription,"Großes Weihnachts-Update!\n• Kämpfe gegen die ehrfurchteinflößenden Widerstände und Immunitäten des gepanzerten Behemoths, Terrorbloon!\n•Entdecke die turm-verstärkenden Platzierungen auf der neuen Anfängerkarte, Eins Zwei Baum!\n• Lass die Bloons festlich platzen mit der neuen Captain Churchill-Skin, Schlitten Churchill\n• Gegenstände für den Trophäenshop, Verbesserungen für die Lebensqualität, Balance-Änderungen und vieles mehr!\n• Frohe Weihnachten und alles Gute für ein wunderbares neues Jahr, von uns allen bei Ninja Kiwi!"
+UpdatePopupTitle,Update 35!
+UpdatePopupDescription,"Neues Jahr, neues Update!\n• Wage dich in die düsteren Kammern der neuen Experten-Karte „Düstere Dungeons“. Das Design stammt von Lars_Overwick, dem Gewinner des Community-Karten-Wettbewerbs.\n• Vertreibe die Bloons auf der neuen Einsteiger-Karte „Straßenmitte"", aus der Stadt.\n• Übe mit der neuen Pat-Futsy-Skin, Kaiju Pat, mächtig Druck auf die Bloons aus!\n• Gegenstände aus dem Trophäenladen, Verbesserung der Lebensqualität, Balance-Änderungen und vieles mehr!"
 ResetDailyChest,Tägliche Truhe zurücksetzen
 JukeboxName,Musikbox
 EnableFunction,Aktivieren
@@ -3701,10 +3700,10 @@ Psi,Psi
 Psi Short Description,Psionischer Affe
 Psi Description,"Psi ist ein begabtes Affenkind und nutzt nur die Kraft des Geistes, um Bloons von innen heraus zu zerstören."
 Psi Level 1 Description,"Über jede Reichweite oder jedes Hindernis hinweg erzeugt Psi tödliche Vibrationen, die einen Bloon nach dem anderen komplett zerstören. Kann Tarn-Bloons sehen."
-Psi Level 2 Description,Greift ein wenig schneller an.
+Psi Level 2 Description,Die psionischen Schwingungen zerstören Bloons schneller als normal.
 Psi Level 3 Description,"Psychische Explosion: Psi entfesselt eine Welle der Macht, die Bloons in der Nähe für eine lange Zeit betäubt."
 Psi Level 4 Description,"Psis Attacke kann einen anderen Bloon treffen, wenn er sich sehr nahe an dem anvisierten Bloon befindet."
-Psi Level 5 Description,Die psionischen Schwingungen zerstören Bloons schneller als normal.
+Psi Level 5 Description,Greift ein wenig schneller an.
 Psi Level 6 Description,Psis mächtiger Geist kann durch Blei-Bloons hindurchdringen.
 Psi Level 7 Description,Physische Explosionen treffen zweimal: Psi kann jetzt Keramik-Bloons zerstören.
 Psi Level 8 Description,"Zerstörerische Resonanz bewirkt, dass Bloons, die von Psis Hauptangriff zerstört werden, andere Bloons in der Nähe beschädigen."
@@ -4344,7 +4343,7 @@ Geraldo Level 8 Description,"Neuer Artikel! Flasche 'Gerrys Feuer' – eine 2,8 
 Geraldo Level 9 Description,"Neuer Artikel! Dünger – Empfänger-Bananenfarmen, die sichtbare Bananen erzeugen, steigern ihren Ertrag und erhalten über mehrere Runden einen Geldbonus. Geraldos Hauptangriff  hat einen vergrößerten Explosionsradius."
 Geraldo Level 10 Description,"Neuer Artikel! Häschen – ach, was für ein süßes Schnuffelwuffel-Häschen!"
 Geraldo Level 11 Description,"Neuer Artikel! Verjüngungstrank – setzt alle Abkühlphasen der Affentürme und Helden zurück, stellt 50 Leben wieder her. Erhöhte Durchschlagskraft von Geraldos Hauptangriff und Gurkenglas gewährt Extraschaden gegen Wehrbloons."
-Geraldo Level 12 Description,"Neuer Artikel! Genie-Flasche – ruft einen plasma-angetriebenen Genieaffen herbei, der 3 Runden lang anhält. Gruselidol kann jetzt vorbeifliegenden Bloons der MOAB-Klasse gelegentlich eine Kurzbetäubung verpassen."
+Geraldo Level 12 Description,"Neuer Artikel! Genie-Flasche – ruft einen plasma-angetriebenen Genieaffen herbei, der 2 Runden lang anhält. Gruselidol kann jetzt vorbeifliegenden Bloons der MOAB-Klasse gelegentlich eine Kurzbetäubung verpassen."
 Geraldo Level 13 Description,"Schießwütiger Turm feuert schneller mit größerem Schaden, und der Haufen alter Nägel richtet mehr Schaden an."
 Geraldo Level 14 Description,Sichtbarkeitstrank gewährt mehr Reichweite und hält länger.
 Geraldo Level 15 Description,"Der Wetzstein macht jetzt größeren Schaden und dazu mehr Durchschlagskraft und die Klingenfalle erzeugt eine noch stärkere Wirkung, wenn sie ausgelöst wird."
@@ -4564,8 +4563,7 @@ LoggedInAs,Angemeldet als:
 EpicAccountId,Epic Account-ID:
 NeedHelp,Brauchst du Hilfe?
 ContactSupport,Support kontaktieren
-DeleteAccountText,"Wenn du dein Konto löschst, verlierst du den Zugriff auf alle in der Cloud gespeicherten Fortschritte und Daten.
-Bitte gib deine User-ID (wie unten zu sehen) in dem Kästchen ein, um dein Konto zu löschen. Es kann 48-72 Stunden dauern, bis dein Konto entfernt wurde."
+DeleteAccountText,"Wenn du dein Konto löschst, verlierst du den Zugriff auf alle in der Cloud gespeicherten Fortschritte und Daten."
 EnterUserId,User-ID hier eingeben
 GetAllButton,Alle erhalten
 GetAllConfirmation,"Bestätige bitte, dass du dein Affengeld dafür einsetzen möchtest, alle verfügbaren Helden und Skins zu erhalten!"
@@ -5254,9 +5252,14 @@ T Rex Stomp Ability Description,Betäubt bis zu ZOMG-Bloons in einem weiten Umkr
 Giganotosaurus Stomp Ability,Gigantosaurier-Stampfen
 Giganotosaurus Stomp Ability Description,Betäubt überall länger bis zu ZOMG-Bloons
 Move,Bewegen
-NeedsBeastHandlers,Erfordert Bestie
+NeedsBeastHandlers,Erfordert Biest: {0}
 NeedsWater,Braucht Wasser
 NeedsTrack,Braucht Strecke
+Buffed,VORTEIL ERHALTEN
+Assisting,Hilft
+Select Point On Track,Punkt auf Strecke auswählen
+Select Point In Range,Punkt in Reichweite auswählen
+,
 Dreadbloon,Terrorbloon
 DreadbloonTagLine,Aus den Tiefen in der dunklen Erde …
 DreadbloonTagLine2,der gepanzerte Behemoth!
@@ -5373,7 +5376,71 @@ CoopGameSyncFailed,Konnte Spieleinstellungen nicht synchronisieren. Versuche es 
 iCloudTitle,iCloud
 iCloudDisabled,iCloud deaktiviert
 iCloudEnabled,iCloud aktiviert
-DialogBeastHandlerQuest1InGameTowerUpgrade1,Wow, dieses Biest ist so stark, dass es ZWEI Beast Handlers braucht, um es unter Kontrolle zu halten!
-Buffed,Gestärkt
-Assisting,Assistenz
-Select Point On Track,Wählen Sie einen Punkt auf dem Pfad aus
+,
+Gamercard,Gamer-Karte
+ControllerDisconnected,Controller getrennt. Bitte neu anschließen und noch einmal probieren
+PlayerStatsBossesPopped,Bosse platzen lassen
+PlayerStatsDamageDoneToBosses,Bossen zugefügter Schaden
+DarkDungeons,Düstere Dungeons
+MiddleOfTheRoad,Straßenmitte
+Achievement 146 Name,Neben-Quest
+Achievement 146 Description,Eine Quest abschließen
+Achievement 148 Name,Weltliga-Training
+Achievement 148 Description,Erreiche 150.000 Biestzähmer-EP
+KaijuPatFustySkinName,Kaiju-Pat-Skin
+KaijuPatFustySkinNameFull,Kaiju Pat
+KaijuPatFustySkinDescription,"Eine seltsame Bestie, aber mit einer fürchterlich guten Natur"
+HeroesStrikerJonesBikerBonesPlacementHellriftName,Biker Bones Höllenriss platzieren und verbessern
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,Biker Bones Höllenriss
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,"Hol dir diesen Höllenriss-Effekt und sieh zu, wie Biker Bones auf seinem Stahlross in die Schlacht zieht und bei jedem Upgrade einen geilen Burnout hinlegt. Nur Biker Bones."
+TowerPetSniperMonkeyChameleonName,Chamäleon-Haustier des Scharfschützen-Affen
+TowerPetSniperMonkeyChameleonShortName,Chamäleon-Haustier des Scharfschützen
+TowerPetSniperMonkeyChameleonDescription,"Es lauert perfekt getarnt im Laub. Kommt eine Fliege vorbei - ZACK!  Eine Zunge schießt hervor und schnappt sie sich. Nein, nicht der Scharfschützenaffe, sondern das Chamäleon-Haustier des Scharfschützenaffen!"
+GameUIProfileAvatar69Name,Eigener Avatar - Bloonarius
+GameUIProfileAvatar69ShortName,Bloonarius Avatar
+GameUIProfileAvatar69Description,Bloonarius der Aufblaser erwacht in seinem blubberndem Sumpf.
+GameUIProfileAvatar70Name,Eigener Avatar - gelehrige Patch
+GameUIProfileAvatar70ShortName,Gelehrige Patch
+GameUIProfileAvatar70Description,"Patch ist zwar immer auf dem aktuellen Stand der Nachrichten und Wissenschaft in der Affenwelt, aber manchmal weil sie einfach nur in einem guten Buch schmökert."
+GameUIProfileAvatar71Name,Eigener Avatar - Nur ein kleines Äffchen
+GameUIProfileAvatar71ShortName,Nur ein kleines Äffchen-Avatar
+GameUIProfileAvatar71Description,Sieh dir nur diese Augen an. Was haben die Bloons nur? Es ist doch nur ein kleines Äffchen.
+GameUIProfileAvatar72Name,Eigener Avatar - glücklicher Bananenanbauer
+GameUIProfileAvatar72ShortName,Glücklicher Bananenbauer-Avatar
+GameUIProfileAvatar72Description,"Was mag ein Bananenbauer noch lieber als ein Bananenkostüm tragen? In einem Bananenbecken schwimmen, unter Kisten voller Bananen, und dabei ein Bananenkostüm tragen."
+GameUIProfileBanner26Name,Profilbanner Leimsturm
+GameUIProfileBanner26ShortName,Klebstoffsturm-Banner
+GameUIProfileBanner26Description,"Wenn ein Klebstoffsturm die Sonne verdunkelt, rüste diesen Banner im Schatten aus."
+GameUIProfileBanner27Name,Profilbanner Hexenlord Phönix
+GameUIProfileBanner27ShortName,Banner Hexenlord Phönix
+GameUIProfileBanner27Description,Bannergewinner von  Flipp_Flopps
+GameUIProfileBanner28Name,Profilbanner Hühnchen vom Bauernhof
+GameUIProfileBanner28ShortName,Banner Hühnchen vom Bauernhof
+GameUIProfileBanner28Description,Bannergewinner von WhereThighs
+TeamsEmblemFrame14Name,Jahr-des-Kaninchens-Rahmen
+TeamsEmblemFrame14ShortName,Jahr-des-Kaninchens-Rahmen
+TeamsEmblemFrame14Description,Mit diesem Jahr-des-Kaninchens-Rahmen bereitest du dein Team auf Frieden und Wohlstand vor.
+TeamsEmblemFrame15Name,Kiwisommer-Rahmen
+TeamsEmblemFrame15ShortName,Kiwisommer-Rahmen
+TeamsEmblemFrame15Description,"Jandals, Kiwis und PÅhutukawa-Blüten. Eine gute Rahmenwahl für ein gutes Team."
+TeamsEmblemIcon17Name,Jahr-des-Kaninchens-Symbol
+TeamsEmblemIcon17ShortName,Jahr-des-Kaninchens-Symbol
+TeamsEmblemIcon17Description,Ein Jahr-des-Kaninchens-Symbol für die wachsamen und entschlossenen Teams da draußen
+TeamsEmblemIcon18Name,Bienen-Symbol
+TeamsEmblemIcon18ShortName,Bienen-Symbol
+TeamsEmblemIcon18Description,Mit diesem Bienen-Symbol summt dein Team zum Sieg.
+BasePropCosyBeanbagMonkeyName,Kuscheliger Sitzsack-Affe
+BasePropCosyBeanbagMonkeyShortName,Kuscheliger Sitzsack-Affe
+BasePropCosyBeanbagMonkeyDescription,Der Sitzsack. Das ultimative Symbol der Entspannung. Mit entspanntem Affen! [Insel-Slot]
+RetryLastRoundDescriptionText,Möchtest es noch einmal ab der letzten Runde mit gespeicherten Leben und Geld versuchen?
+PlayOffline,Offline spielen
+DarkDungeonsStatueName,Dungeon-Statue
+DarkDungeonsStatueActivate,Statue aktivieren: ${0}
+DarkDungeonsStatueLevelUp,Stufe {0}\n${1}
+BossHPIncreased,Boss-Gesundheit erhöht
+BossHPDecreased,Boss-Gesundheit gesenkt
+BossSpeedIncreased,Boss-Geschwindigkeit erhöht
+BossSpeedDecreased,Boss-Geschwindigkeit gesenkt
+BossHealth,Boss-Gesundheit
+BossSpeed,Boss-Geschwindigkeit
+EnterNewName,Neuen Namen eingeben

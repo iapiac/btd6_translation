@@ -233,7 +233,7 @@ ObynGreenfoot Level 20 Description,Ściana drzew może zatrzymać o wiele więce
 ,
 Ezili Level 1 Description,Ezili rzuca na blony klątwę za pomocą ciemnych mocy voodoo.
 Ezili Level 2 Description,Zwiększony zasięg ataku.
-Ezili Level 3 Description,"Zatrzymanie serca: spowalnia blony, pozwala przekłuwać fioletowy blony i zatrzymuje wszelkie odrastanie na 10 sekund."
+Ezili Level 3 Description,"Zatrzymanie serca: spowalnia blony, pozwala przekłuwać fioletowe blony i zatrzymuje wszelkie odrastanie na 10 sekund."
 Ezili Level 4 Description,Główny atak Ezili teraz nakłada klątwę na wiele blonów.
 Ezili Level 5 Description,Zwiększona prędkość ataku.
 Ezili Level 6 Description,Obrażenia z czasem trwają dłużej i działają szybciej.
@@ -820,7 +820,7 @@ Sub Commander Description,Dodaje dodatkowe przebicie i obrażenia dla dowódcy i
 Buccaneer-Faster Shooting Description,Wszystkie bronie na pokładzie strzelają szybciej.
 Buccaneer-Grape Shot Description,Dodaje do statku rozrzut 5 ostrych winogron.
 Buccaneer-Long Range Description,"Znacznie większy zasięg, a pociski lecą szybciej."
-Buccaneer-Double Shot Description,Podwaja ilość broni na statku.
+Buccaneer-Double Shot Description,Zwiększa ilość broni na statku.
 Buccaneer-Hot Shot Description,Strzał gorącym winogronem może przekłuwać ołowiane blony i podpalać blony.
 Buccaneer-Crow's Nest Description,Pozwala statkowi uderzać w kamuflażowe blony.
 Buccaneer-Destroyer Description,Atakuje super duper szybko!
@@ -903,7 +903,7 @@ Fireball Description,Co kilka sekund rzuca zaklęcie wybuchowej kuli ognia.
 Intense Magic Description,Potężniejsze magiczne strzały są szybsze i mogą przekłuwać więcej blonów.
 Arcane Blast Description,Większe i potężniejsze magiczne wybuchy przekłuwają 2 warstwy blonów.
 Wall of Fire Description,"Tworzy w poprzek ścieżki super gorącą ścianę ognia, która smaży blony, gdy przez nią przechodzą."
-Monkey Sense Description,Pozwala czarodziejowi uderzać w kamuflażowe blony.
+Monkey Sense Description,Nieznacznie zwiększa zasięg i pozwala czarodziejowi uderzać w kamuflażowe blony.
 Arcane Mastery Description,"Szybsze ataki ze zwiększonym zasięgiem, obrażeniami i siłą przekłucia."
 Dragon's Breath Description,Wypluwa niekończące się płomienie na najbliższe blony i zwiększa kulę ognia oraz ścianę ognia.
 Shimmer Description,"Zyskuje atak czarnej magii, który okresowo trwale ukazuje lokalizację wszystkich pobliskich kamuflażowych blonów."
@@ -943,7 +943,7 @@ Bloonjitsu Description,Rzuca 5 shurikenów naraz!
 Bloon Sabotage Description,Umiejętność sabotaż: trwa przez 15 sekund. Podczas sabotażu wszystkie blony poruszają się z połową prędkości.
 Sticky Bomb Description,Rzuca potężnymi ładunkami na czas w blony klasy MOAB.
 Grandmaster Ninja Description,Rzuca niezwykle szybko po 8 shurikenów na strzał!
-Grand Saboteur Description,"Umiejętność działa dłużej, a blony klasy MOAB podczas sabotażu przywołują się z niższym zdrowiem."
+Grand Saboteur Description,"Umiejętność działa dłużej, a blony klasy MOAB podczas sabotażu przywołują się z niższym zdrowiem. Wzmacnia wszystkie Shinobi."
 Master Bomber Description,Maszyna niszcząca MOAB-y na jedną małpkę.
 ,
 Larger Potions Description,Większe rozbryzgi mikstur na większym obszarze.
@@ -988,11 +988,11 @@ Banana Plantation Description,Hoduje 16 kiści bananów na rundę.
 Monkey Bank Description,Cała gotówka generowana przez tę farmę jest teraz przechowywana w banku i zyskuje 15% odsetek co każdą rundę.
 Marketplace Description,Generuje gotówkę co każdą rundę i dodaje do kwoty całkowitej. Bez problemu.
 Banana Research Facility Description,W każdej rundzie wytwarza 5 wielkich skrzynek bananów wartych 300 $ każda.
-IMF loan Description,"Umiejętność pożyczka: daje ci 10 000 $, ale z czasem musisz to spłacić."
+IMF loan Description,"Umiejętność pożyczka: daje ci 9000 $, ale z czasem musisz je spłacić."
 Central Market Description,Zarabia góry pieniędzy w każdej rundzie i daje kupcom +10% do zarobku.
 Banana Central Description,Chcesz banana? My mamy banany!
 Monkey-Nomics Description,"Gdy jesteś zbyt wielki, by zawieść…"
-Monkey Wall Street Description,Centrum małpiego handu ma kolosalne przychody i generuje życia co każdą rundę.
+Monkey Wall Street Description,"Centrum małpiego handu ma kolosalne przychody, generuje życia co każdą rundę i zbiera gotówkę w zasięgu."
 ,
 Sentry Gun Description,Tworzy tymczasowych strzelających strażników i stawia ich w pobliżu.
 Larger Service Area Description,Strzela dalej i stawia strażników na znacznie większej powierzchni. Strażnicy mają większy zasięg.
@@ -1052,7 +1052,7 @@ Primary Training Description,"Wszystkie podstawowe małpki w promieniu otrzymuj�
 Monkey Intelligence Bureau Description,"Biuro daje specjalną wiedzę o przekłuwaniu blonów, pozwalając pobliskim małpkom przekłuwać wszystkie typy blonów."
 Monkey Town Description,Wszystkie małpki w promieniu małpiego miasteczka dostają dodatkową gotówkę za przebicie blona.
 Primary Mentoring Description,"Wszystkie podstawowe małpki w promieniu otrzymują ulepszenia rzędu 1 za darmo, a także zwiększony zasięg i skrócony czas odnowienia umiejętności."
-Call to Arms Description,Umiejętność do broni: daje pobliskim małpkom +50% do prędkości ataku i przekłuć na krótki czas.
+Call to Arms Description,Umiejętność do broni: daje wszystkim małpkom +50% do prędkości ataku i przekłuć na krótki czas.
 Monkey City Description,"Zwiększa promień wpływu, generowanie gotówki w promieniu, i daje darmową małpkę z rzutką w każdej rundzie."
 Primary Expertise Description,"Dodaje atak mega balista plus wszystkie podstawowe małpki w promieniu otrzymują większą siłę przekłucia, jeszcze bardziej skrócony czas odnowienia oraz darmowe ulepszenia rzędu 1 i 2."
 Homeland Defense Description,Teraz umiejętność zwiększa prędkość ataku i przekłucia o 100% dla wszystkich małpek przez 20 sekund.
@@ -1116,7 +1116,7 @@ Super Maelstrom Ability Description,Jeszcze potężniejsza i dłużej działają
 Snowstorm Ability Description,Zamraża wszystkie blony na ekranie na krótki czas.
 Absolute Zero Ability Description,"Umiejętność tak zimna, że zamraża wszystkie typy blonów, w tym odporne na zimno, i klasę MOAB."
 Glue Strike Ability Description,Skleja wszystkie blony na ekranie.
-Glue Storm Ability Description,Umiejętność burza kleju bombarduje cały ekran klejem na ponad 10 sekund.
+Glue Storm Ability Description,Umiejętność burza kleju bombarduje cały ekran klejem na 15 sekund.
 Supply Drop Ability Description,Zrzuca skrzynkę pełną gotówki.
 Elite Sniper Ability Description,Zrzut zaopatrzenia daje o wiele więcej gotówki.
 Elite Defender Ability Description,Stracone życie daje temu snajperowi 2x szybszy atak na krótki czas odwetu.
@@ -1141,14 +1141,14 @@ Legend of the Night Ability Description,"Zwracamy się do niego, gdy nie ma już
 Bloon Sabotage Ability Description,Trwa przez 15 sekund. Podczas sabotażu wszystkie blony poruszają się z połową prędkości.
 Grand Saboteur Ability Description,"Umiejętność działa dłużej, a blony klasy MOAB podczas sabotażu przywołują się z niższym zdrowiem."
 Transforming Tonic Ability Description,Farmy w pobliżu druida zarabiają 50% więcej przez krótki czas.
-IMF loan Ability Description,"Daje ci 10 000 $, ale z czasem musisz to spłacić."
+IMF loan Ability Description,"Daje ci 9000 $, ale z czasem musisz je spłacić."
 Monkey-Nomics Ability Description,"Gdy jesteś zbyt wielki, by zawieść…"
 Overclock Ability Description,Wybrana małpka staje się super naładowana na krótki czas.
 Spike Storm Ability Description,Pokrywa grubą warstwą kolców całą ścieżkę.
 Carpet of Spikes Ability Description,W każdej rundzie ścieli dywan z kolców na całej ścieżce.
 Magic Arcanum Ability Description,"Tworzy potężną małpkę, której umiejętności bazują na pobliskich magicznych małpkach."
-Call to Arms Ability Description,Daje wszystkim małpkom PODWÓJNĄ prędkość ataku i przekłucia na 10 sekund.
-Homeland Defense Ability Description,Umiejętność obejmuje WSZYSTKIE małpki i trwa 15 sekund.
+Call to Arms Ability Description,Daje wszystkim małpkom +50% do prędkości ataku i przekłucia na 10 sekund.
+Homeland Defense Ability Description,Daje wszystkim małpkom +100% do prędkości ataku i przekłucia na 10 sekund.
 ,
 //Maps,
 TownCentre,Centrum miasta
@@ -1825,7 +1825,7 @@ InsiderTradesDescription,Zniżka małpi biznes zwiększa się o 2%.
 BiggerBanks,Większe banki
 BiggerBanksDescription,Małpie banki mogą trzymać 2500 dodatkowej gotówki.
 BackroomDeals,Handel pod stołem
-BackroomDealsDescription,"Kwota pożyczki wzrasta do 12 000 $, a odsetki wynoszą 40%."
+BackroomDealsDescription,"Kwota pożyczki wzrasta do 1000 $, a odsetki wynoszą 40%."
 ThickerFoams,Gęstsza pianka
 ThickerFoamsDescription,Pianka czyszcząca trafia 3 blony więcej przed przeterminowaniem.
 BigTraps,Wielkie pułapki
@@ -2754,8 +2754,8 @@ DarkKnightDarkshift,"[I], aby użyć zdolności skok mroku w obszarze działania
 DarkChampionDarkshift,"[I], aby użyć zdolności skok mroku do dowolnego prawidłowego miejsca"
 SmallTowersMode,Wieże małych małpek
 BigTowersMode,Wieże dużych małpek
-UpdatePopupTitle,Ulepszenie 34!
-UpdatePopupDescription,"Wielka świąteczna aktualizacja!\n•Walcz z niesamowitą obroną Opancerzonego Behemota, Dreadblona!\n• Odkryj miejsca wzmacniające wieże na nowej mapie dla początkujących, Drzewko Szczęścia!\n• Zabij blony w świątecznym nastroju dzięki nowej skórce Kapitana Churchilla, Jedzie Churchill!\n• Trofea do zakupu w sklepie, wiele drobnych poprawek ułatwiających zabawę, zmiany w balansie i wiele innych!\n• Wesołych Świąt i wszystkiego najlepszego w Nowym Roku, życzy cała ekipa Ninja Kiwi!"
+UpdatePopupTitle,Ulepszenie 35!
+UpdatePopupDescription,"Nowy Rok, nowa aktualizacja!\n• Odkryj tajemnicze komnaty w nowej mapie dla ekspertów Mroczne Lochy. Projekt autorstwa Lars_Overwicka, zwycięzcy konkursu społecznościowego na mapę.\n• Wypędź blony z miasta na nowej mapie dla początkujących, Środek Drogi.\n• Daj blonom popalić z nową skórką od Pat Fusty’ego, Klepnięcie Kaiju!\n•Trofea do zakupu w sklepie, wiele drobnych poprawek ułatwiających zabawę, zmiany w balansie i wiele innych zmian!"
 ResetDailyChest,Zresetuj dzienną skrzynię
 JukeboxName,Szafa grająca
 EnableFunction,Włącz
@@ -3701,10 +3701,10 @@ Psi,Psi
 Psi Short Description,Małpka psioniczna
 Psi Description,"Utalentowane małpiątko Psi używa tylko siły umysłu, aby zniszczyć blony od środka."
 Psi Level 1 Description,"Na dowolnym dystansie lub przeszkodzie Psi wywołuje śmiertelne wibracje, które całkowicie niszczą jednego blona na raz. Może celować w kamuflażowe blony."
-Psi Level 2 Description,Atakuje nieznacznie szybciej.
+Psi Level 2 Description,Wibracje psioniczne niszczą blony szybciej niż normalnie.
 Psi Level 3 Description,"Psychiczny pocisk: Psi uwalnia falę mocy, która na długi czas ogłusza najbliższe blony."
 Psi Level 4 Description,"Atak Psi może trafić innego blona, jeśli znajduje się w bliskiej odległości od wybranego blona."
-Psi Level 5 Description,Wibracje psioniczne niszczą blony szybciej niż normalnie.
+Psi Level 5 Description,Atakuje nieznacznie szybciej.
 Psi Level 6 Description,Potężny umysł Psi potrafi przeniknąć przez ołowiane blony.
 Psi Level 7 Description,Psychiczny pocisk wystrzeliwuje dwukrotnie. Psi może teraz niszczyć ceramiczne blony.
 Psi Level 8 Description,"Niszczycielski rezonans powoduje, że blony zniszczone przez główny atak Psi uszkadzają inne najbliższe blony."
@@ -4344,7 +4344,7 @@ Geraldo Level 8 Description,"Nowy przedmiot! Butelka „Ostrego Gerry’ego” �
 Geraldo Level 9 Description,"Nowy przedmiot! Nawóz – wybrane farmy bananowe, które produkują widoczne banany, zwiększają produkcję i otrzymują bonus pieniężny w ciągu kilku rund. Zwiększa się główny promień wybuchu ataku Geraldo."
 Geraldo Level 10 Description,Nowy przedmiot! Zwierzak królik – jaki słodki króliczek!
 Geraldo Level 11 Description,"Nowy przedmiot! Mikstura odmładzania - resetuje wszystkie czasy odnowienia małpiej wieży i bohatera, przywraca 50 żyć. Zwiększa się główne przebicie ataku Geralda, a słój ogórków zapewnia dodatkowe obrażenia przeciwko ufortyfikowanym blonom."
-Geraldo Level 12 Description,"Nowy przedmiot! Butelka z dżinem – przywołuje zasilaną plazmą małpę dżina, która działa przez 3 rundy. Dziwaczny posąg może teraz okazjonalnie zastosować krótkie ogłuszenie na mijające widoczne blony klasy MOAB."
+Geraldo Level 12 Description,"Nowy przedmiot! Butelka z dżinem – przywołuje zasilaną plazmą małpę dżina, która działa przez 2 rundy. Dziwaczny posąg może teraz okazjonalnie zastosować krótkie ogłuszenie na mijające widoczne blony klasy MOAB."
 Geraldo Level 13 Description,"Wieżyczka strzelnicza strzela szybciej ze zwiększonymi obrażeniami, a stos starych gwoździ zadaje więcej obrażeń."
 Geraldo Level 14 Description,Mikstura niewidzialności zapewnia dodatkowy zasięg i trwa dłużej.
 Geraldo Level 15 Description,"Ostrzałka od teraz zwiększa obrażenia oprócz przebijania, a pułapka ostrzy tworzy potężniejszy efekt po uruchomieniu."
@@ -5257,6 +5257,10 @@ Move,Przesuń
 NeedsBeastHandlers,Wymaga bestii
 NeedsWater,Potrzebuje wody
 NeedsTrack,Potrzebuje lądu
+Buffed,WZMOCNIONE
+Assisting,Asysta
+Select Point On Track,Wybierz punkt na ścieżce
+Select Point In Range,Wybierz punkt w zasięgu
 Dreadbloon,Dreadblon
 DreadbloonTagLine,Z głębi mrocznych czeluści...
 DreadbloonTagLine2,wydobywa się Opancerzony Behemoth!
@@ -5372,7 +5376,70 @@ CoopGameSyncFailed,Nieudana synchronizacja ustawień gry. Zagraj w nową grę.
 iCloudTitle,iCloud
 iCloudDisabled,Wyłączono iCloud
 iCloudEnabled,Włączono iCloud
-DialogBeastHandlerQuest1InGameTowerUpgrade1,"Wow, ta bestia jest tak silna, że potrzeba DWÓCH Opiekunów Bestii, aby ją opanować!"
-Buffed,Wzmocniony
-Assisting,Pomaganie
-Select Point On Track,Wybierz punkt na ścieżce
+Gamercard,Karta gracza
+ControllerDisconnected,Odłączono kontroler. Połącz się i spróbuj ponownie.
+PlayerStatsBossesPopped,Przekłuci bossowie
+PlayerStatsDamageDoneToBosses,Obrażenia zadane bossom
+DarkDungeons,Środek Drogi
+MiddleOfTheRoad,Środek Drogi
+Achievement 146 Name,Klepnięcie Kaiju
+Achievement 146 Description,"Dziwna bestia, ale strasznie dobroduszna."
+Achievement 148 Name,Umieszczanie i ulepszanie piekielnych wrót Szkieletowego motocyklisty
+Achievement 148 Description,Piekielne wrota szczelina Szkieletowego motocyklisty
+KaijuPatFustySkinName,Skórka Klepnięcie Kaiju
+KaijuPatFustySkinNameFull,Klepnięcie Kaiju
+KaijuPatFustySkinDescription,"Dziwna bestia, ale strasznie dobroduszna."
+HeroesStrikerJonesBikerBonesPlacementHellriftName,Umieszczanie i ulepszanie piekielnych wrót Szkieletowego motocyklisty
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,Piekielne wrota szczelina Szkieletowego motocyklisty
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,"Skorzystaj z efektu Piekielne wrota i obserwuj, jak Szkieletowy motocyklista wjeżdża do bitwy na swoim żelaznym rumaku, siejąc ogromne zniszczenie z każdym ulepszeniem. Tylko Szkieletowy motocyklista."
+TowerPetSniperMonkeyChameleonName,Zwierzak kameleon małpki snajpera
+TowerPetSniperMonkeyChameleonShortName,Zwierzak kameleon snajpera
+TowerPetSniperMonkeyChameleonDescription,"Czai się, doskonale zakamuflowany wśród listowia. Mucha przelatuje obok i BAM! Język wysuwa się, by ją schwytać. Nie, to nie jest małpka snajper, to zwierzak kameleon małpki snajper!"
+GameUIProfileAvatar69Name,Niestandardowy awatar – Blonarius
+GameUIProfileAvatar69ShortName,Awatar Blonarius
+GameUIProfileAvatar69Description,Inflator Blonarius budzi się z bulgoczącego bagna.
+GameUIProfileAvatar70Name,Niestandardowy awatar – Łatka intelektualna
+GameUIProfileAvatar70ShortName,Łatka intelektualna
+GameUIProfileAvatar70Description,Łatka jest zawsze na bieżąco z najnowszymi wiadomościami i naukami ze świata małpek. Czasami po prostu lubi zrelaksować się z dobrą książką. 
+GameUIProfileAvatar71Name,Niestandardowy awatar – Zwykła małpeczka
+GameUIProfileAvatar71ShortName,Awatar Zwykła małpeczka
+GameUIProfileAvatar71Description,Tylko spójrz na te śliczne oczka. Czego w ogóle chcą blony? To zwykła małpeczka.
+GameUIProfileAvatar72Name,Niestandardowy awatar – Wesoły farmer bananów
+GameUIProfileAvatar72ShortName,Awatar Wesoły farmer bananów
+GameUIProfileAvatar72Description,"Co farmer bananów lubi bardziej niż noszenie kostiumu banana? Pływanie w basenie pełnym bananów, wśród skrzynek pełnych bananów, w przebraniu banana."
+GameUIProfileBanner26Name,Baner profilu Burza kleju
+GameUIProfileBanner26ShortName,Baner Burza kleju
+GameUIProfileBanner26Description,"Kiedy burza kleju zasłania słońce, ustaw ten baner w cieniu."
+GameUIProfileBanner27Name,Baner profilu Lord czarodziej Feniks
+GameUIProfileBanner27ShortName,Baner Lord czarodziej Feniks
+GameUIProfileBanner27Description,Zwycięski baner autorstwa Flipp_Flopps
+GameUIProfileBanner28Name,Baner profilu Kurczak z farmy
+GameUIProfileBanner28ShortName,Baner Kurczak z farmy
+GameUIProfileBanner28Description,Zwycięski baner autorstwa WhereThighs
+TeamsEmblemFrame14Name,Ramka Rok Królika
+TeamsEmblemFrame14ShortName,Ramka Rok Królika
+TeamsEmblemFrame14Description,Niech drużyna osiągnie pokój i dobrobyt dzięki tej ramce Rok Królika.
+TeamsEmblemFrame15Name,Ramka Letnie Kiwi
+TeamsEmblemFrame15ShortName,Ramka Letnie Kiwi
+TeamsEmblemFrame15Description,"Japonki, kiwi i kwiaty PÅhutukawa. Specjalna ramka dla wybranego zespołu."
+TeamsEmblemIcon17Name,Ikona Rok Królika
+TeamsEmblemIcon17ShortName,Ikona Rok Królika
+TeamsEmblemIcon17Description,Ikona Rok Królika dla czujnych i zdeterminowanych drużyn.
+TeamsEmblemIcon18Name,Ikona Bzycząca Pszczółka
+TeamsEmblemIcon18ShortName,Ikona Bzycząca Pszczółka
+TeamsEmblemIcon18Description,Dzięki ikonie Bzycząca Pszczółka twoja drużyna latająco odniesie zwycięstwo.
+BasePropCosyBeanbagMonkeyName,Rozpocząć od ostatniej rundy z zapisanymi życiami i gotówką?
+BasePropCosyBeanbagMonkeyShortName,Graj offline
+BasePropCosyBeanbagMonkeyDescription,Posąg lochu
+RetryLastRoundDescriptionText,Rozpocząć od ostatniej rundy z zapisanymi życiami i gotówką?
+PlayOffline,Graj offline
+DarkDungeonsStatueName,Posąg lochu
+DarkDungeonsStatueActivate,Aktywuj posąg: {0} $
+DarkDungeonsStatueLevelUp,Poziom {0}\n{1} $
+BossHPIncreased,Zdrowie bossów zwiększa się
+BossHPDecreased,Zdrowie bossów zmniejsza się
+BossSpeedIncreased,Prędkość bossów zwiększa się
+BossSpeedDecreased,Prędkość bossów zmniejsza się
+BossHealth,Zdrowie bossów
+BossSpeed,Prędkość bossów
+EnterNewName,Wprowadź nową nazwę

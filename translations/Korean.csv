@@ -819,7 +819,7 @@ Sub Commander Description,사령관과 반경 내 모든 잠수함에게 추가 
 Buccaneer-Faster Shooting Description,선상의 모든 무기의 공격 속도가 증가합니다.
 Buccaneer-Grape Shot Description,선상에 5개의 뾰족한 포도 분무를 추가합니다.
 Buccaneer-Long Range Description,사정거리가 훨씬 더 길어지고 발사무기의 이동 속도가 증가합니다.
-Buccaneer-Double Shot Description,함선의 발사 무기가 두 배가 됩니다.
+Buccaneer-Double Shot Description,함선의 발사 무기를 늘립니다.
 Buccaneer-Hot Shot Description,불타는 뜨거운 포도탄이 납 풍선을 터트릴 수 있으며 풍선에 불을 붙입니다.
 Buccaneer-Crow's Nest Description,해적선이 캐모 풍선을 공격할 수 있습니다.
 Buccaneer-Destroyer Description,엄청 빠르게 공격합니다!
@@ -902,7 +902,7 @@ Fireball Description,몇 초마다 폭발하는 불덩이 주문을 시전합니
 Intense Magic Description,"마법 공격의 위력과 이동 속도가 증가하며, 더 많은 풍선을 터트립니다."
 Arcane Blast Description,더욱 강력하고 규모가 커진 마법 공격이 풍선 2겹을 터트립니다.
 Wall of Fire Description,트랙을 가로지르는 매우 뜨거운 화염의 벽을 생성하여 지나가는 풍선을 구워버립니다.
-Monkey Sense Description,마법사가 캐모 풍선을 공격할 수 있습니다.
+Monkey Sense Description,사정 거리를 약간 늘리며 마법사가 캐모 풍선을 공격할 수 있습니다.
 Arcane Mastery Description,"공격 속도가 빨라지며 사정거리, 공격력, 터트리는 힘이 증가합니다."
 Dragon's Breath Description,주변의 풍선에 끝없는 화염을 분출하며 불덩이와 화염벽을 향상합니다.
 Shimmer Description,주기적으로 주변의 캐모 풍선의 위치를 영구히 드러내는 흑마법 효과가 추가됩니다.
@@ -942,7 +942,7 @@ Bloonjitsu Description,한번에 5개의 표창을 던집니다!
 Bloon Sabotage Description,사보타주 능력: 15초 동안 지속됩니다. 사보타주 동안 모든 풍선의 이동 속도가 절반이 됩니다.  
 Sticky Bomb Description,MOAB급 풍선을 향해 위력적인 시한폭탄을 투척합니다.
 Grandmaster Ninja Description,공격당 8개의 표창을 엄청나게 빨리 던집니다!
-Grand Saboteur Description,"능력 지속 시간이 증가하며, 사보타주 동안 나타나는 MOAB급 풍선의 체력이 감소합니다."
+Grand Saboteur Description,"능력 지속 시간이 증가하며, 사보타주 동안 나타나는 MOAB급 풍선의 체력이 감소합니다. 모든 시노비를 버프합니다."
 Master Bomber Description,MOAB 파괴 전담 원숭이입니다.
 ,
 Larger Potions Description,큰 물약은 넓은 영역에 영향을 줍니다.
@@ -987,11 +987,11 @@ Banana Plantation Description,라운드마다 바나나 다발 16개를 생산�
 Monkey Bank Description,라운드마다 머니를 생산하며 은행에 저장합니다. 라운드마다 15%의 이자를 법니다.
 Marketplace Description,라운드마다 머니를 생산하며 총액에 추가합니다. 간단하지요.
 Banana Research Facility Description,라운드마다 개당 $300 가치의 바나나 상자를 5개 생산합니다.
-IMF loan Description,"IMF 대출 능력: $10,000을 빌리며, 이는 시간이 지나면 되갚아야 합니다."
+IMF loan Description,"IMF 대출 능력: $9,000를 빌리며, 이는 시간이 지나면 되갚아야 합니다."
 Central Market Description,"라운드마다 머니를 잔뜩 벌며, 상인의 수입이 10% 증가합니다."
 Banana Central Description,바나나를 원하세요? 여기 바나나 있어요!
 Monkey-Nomics Description,절대로 망해선 안 되는 상황이라면...
-Monkey Wall Street Description,원숭이 무역의 중심지가 라운드마다 엄청난 수입을 벌어들이고 라운드마다 목숨을 생성합니다.
+Monkey Wall Street Description,"원숭이 무역의 중심지가 라운드마다 엄청난 수입을 벌어들이고 라운드마다 목숨을 생성하며, 주위에서 수입을 얻습니다."
 ,
 Sentry Gun Description,임시로 감시 총을 만들고 근처에 배치합니다.
 Larger Service Area Description,사정거리가 증가하며 더욱 넓은 영역에 경비 탑을 배치합니다. 경비 탑의 범위가 증가합니다.
@@ -1140,14 +1140,14 @@ Legend of the Night Ability Description,"마지막 희망까지 사그라졌을 
 Bloon Sabotage Ability Description,사보타주 동안 모든 풍선의 이동 속도가 감소합니다.
 Grand Saboteur Ability Description,"능력 지속 시간이 증가하며, 사보타주 동안 나타나는 MOAB급 풍선의 체력이 감소합니다."
 Transforming Tonic Ability Description,드루이드 주변의 농장이 잠시 머니를 50% 더 법니다.
-IMF loan Ability Description,"$10,000을 빌리며, 이는 시간이 지나면서 되갚아야 합니다."
+IMF loan Ability Description,"$9,000를 빌리며, 이는 시간이 지나면서 되갚아야 합니다."
 Monkey-Nomics Ability Description,절대로 망해선 안 되는 상황이라면...
 Overclock Ability Description,대상 원숭이가 잠시 동안 슈퍼 능력자가 됩니다.
 Spike Storm Ability Description,트랙 전체를 덮을 정도의 스파이크를 발사합니다.
 Carpet of Spikes Ability Description,트랙 전체에 스파이크 카펫을 라운드마다 깝니다.
 Magic Arcanum Ability Description,주변에 어떤 마법 원숭이가 있느냐에 따라 능력이 정해지는 강력한 원숭이를 생산합니다.
-Call to Arms Ability Description,10초 동안 모든 원숭이의 공격 속도와 터트리는 힘을 두 배로 만듭니다.
-Homeland Defense Ability Description,"능력이 모든 원숭이에게 적용되며, 15초 동안 지속됩니다."
+Call to Arms Ability Description,10초 동안 모든 원숭이의 공격 속도와 터트리는 힘을 50% 증가시킵니다.
+Homeland Defense Ability Description,20초 동안 모든 원숭이의 공격 속도와 터트리는 힘을 100% 증가시킵니다.
 ,
 //Maps,
 TownCentre,타운 센터
@@ -1824,7 +1824,7 @@ InsiderTradesDescription,원숭이 사업의 할인율이 2% 증가합니다.
 BiggerBanks,은행 확장
 BiggerBanksDescription,원숭이 은행이 저장할 수 있는 머니의 양이 추가로 2500 증가합니다.
 BackroomDeals,뒷거래
-BackroomDealsDescription,"IMF 대출 금액이 $12,000로 증가하며 상환율은 40%입니다."
+BackroomDealsDescription,"IMF 대출 금액이 $1,000 증가하며 상환율은 40%입니다."
 ThickerFoams,짙은 거품
 ThickerFoamsDescription,클렌징 폼이 꺼지기 전에 풍선 3개를 더 묻힐 수 있습니다.
 BigTraps,커다란 함정
@@ -2753,8 +2753,8 @@ DarkKnightDarkshift,[I] 눌러 사정거리 내로 어둠포털을 통해 이동
 DarkChampionDarkshift,[I] 눌러 아무 가능한 장소로 어둠포털을 통해 이동하기
 SmallTowersMode,작은 원숭이 타워
 BigTowersMode,커다란 원숭이 타워
-UpdatePopupTitle,업데이트 34!
-UpdatePopupDescription,"메가 연말연시 업데이트!\n• 어마어마한 내성과 면역 능력을 자랑하는 중장갑 거대전함 드레드 풍선을 상대해요!\n• 새로 추가된 초보 맵 '원, 투, 트리'에서 타워에 버프를 추가하는 배치법을 알아보세요!\n• 새로 나온 캡틴 처칠 스킨 '썰매 처칠'로 명절 분위기를 내며 풍선들을 퇴치할 수 있어요!\n• 트로피 상점 신상, 편의성 개선, 밸런스 수정 등 여러 가지가 더 바뀌었습니다!\n• 여러분 모두 즐거운 연말연시 보내시고 새해 복 많이 받으시기를 Ninja Kiwi 전 직원이 기원합니다!"
+UpdatePopupTitle,업데이트 35!
+UpdatePopupDescription,"새해맞이 업데이트!\n• 신규 전문 맵 '어두운 지하감옥'에서 어두컴컴한 옥실을 탐험해 보세요. 커뮤니티 맵 공모전 우승자 Lars_Overwick 님의 작품입니다.\n• 신규 초보 맵 '길 한복판'에서 풍선들을 모조리 쫓아내세요!\n• 새로운 팻 퍼스티 스킨 '카이주 팻'으로 풍선들에게 무시무시한 괴수의 포옹을 선사해 터뜨리세요!\n• 트로피 상점 신상, 편의성 개선, 밸런스 수정 등 여러 가지가 더 바뀌었습니다!"
 ResetDailyChest,일일 상자 초기화
 JukeboxName,주크박스
 EnableFunction,사용
@@ -3700,10 +3700,10 @@ Psi,사이
 Psi Short Description,초능력자 원숭이
 Psi Description,초능력을 보유한 어린 원숭이 사이가 정신력을 이용해 풍선을 안쪽에서부터 파괴합니다.
 Psi Level 1 Description,사이가 거리와 장애물에 구애받지 않고 아무 풍선이든 한 번에 하나씩 완전히 파괴하는 무시무시한 진동을 발생시킵니다. 캐모 풍선도 공격할 수 있습니다.
-Psi Level 2 Description,공격 속도가 약간 빨라집니다.
+Psi Level 2 Description,초능력 진동이 풍선을 더 빨리 파괴합니다.
 Psi Level 3 Description,초능력 폭발: 사이가 주변의 풍선들을 제법 오래 기절시키는 힘의 파동을 방출합니다.
 Psi Level 4 Description,사이의 공격이 표적에 매우 가까운 풍선을 한 개 더 맞힙니다.
-Psi Level 5 Description,초능력 진동이 풍선을 더 빨리 파괴합니다.
+Psi Level 5 Description,공격 속도가 약간 빨라집니다.
 Psi Level 6 Description,사이의 강한 정신력이 납 풍선도 뚫습니다.
 Psi Level 7 Description,초능력 폭발이 두 번의 파동을 방출합니다. 사이가 이제 세라믹 풍선도 파괴합니다.
 Psi Level 8 Description,파멸의 울림이 사이의 기본 공격으로 파괴된 풍선을 이용해 주변 풍선에 피해를 줍니다.
@@ -4343,7 +4343,7 @@ Geraldo Level 8 Description,"신규 아이템! 병에 든 '제랄도의 불' - �
 Geraldo Level 9 Description,신규 아이템! 비료 - 눈에 보이는 바나나를 생산하는 바나나 농장을 대상으로 지정하면 여러 라운드 동안 생산량이 증가하고 캐시 보너스가 나옵니다. 제랄도의 기본 공격의 폭발 반경이 증가합니다.
 Geraldo Level 10 Description,신규 아이템! 애완 토끼 - 정말 깜찍하고 귀여운 토깽이!
 Geraldo Level 11 Description,"신규 아이템! 회춘의 물약 - 모든 원숭이 타워와 영웅의 쿨다운을 초기화하고, 목숨 50개를 회복합니다. 제랄도의 기본 공격의 관통력이 증가하고, 피클 항아리가 강화 풍선에게 추가 피해를 줍니다. "
-Geraldo Level 12 Description,신규 아이템! 지니의 호리병 - 3라운드 동안 플라스마를 동력으로 쓰는 지니 원숭이를 소환합니다. 음산한 우상이 눈에 보이는 MOAB급 풍선이 지나갈 때 잠깐 기절시킬 때도 있습니다.
+Geraldo Level 12 Description,신규 아이템! 지니의 호리병 - 2라운드 동안 플라스마를 동력으로 쓰는 지니 원숭이를 소환합니다. 음산한 우상이 눈에 보이는 MOAB급 풍선이 지나갈 때 잠깐 기절시킬 수 있습니다.
 Geraldo Level 13 Description,"다트 포탑이 더 빠르게 발사하고 더 많은 피해를 주며, 녹슨 못더미의 공격력도 증가합니다."
 Geraldo Level 14 Description,투명 보기 물약이 사정거리도 증가하고 더 오래 지속됩니다.
 Geraldo Level 15 Description,"숫돌이 관통력 외에 공격력도 증가하고, 칼날 함정의 발동 위력이 증가합니다."
@@ -5252,9 +5252,14 @@ T Rex Stomp Ability Description,넓은 범위 내 ZOMG 이하 풍선을 기절�
 Giganotosaurus Stomp Ability,기가노토사우루스 발바닥쿵
 Giganotosaurus Stomp Ability Description,맵 전체의 ZOMG 이하 풍선을 더 오래 기절시킵니다.
 Move,이동
-NeedsBeastHandlers,필요
+NeedsBeastHandlers,맹수 필요
 NeedsWater,물 필요
 NeedsTrack,트랙 필요
+Buffed,버프 받음
+Assisting,어시스트 중
+Select Point On Track,트랙 위 지점 선택
+Select Point In Range,사정거리 내 지점 선택
+,
 Dreadbloon,드레드 풍선
 DreadbloonTagLine,지구의 어둡고 깊은 곳에서 나타난...
 DreadbloonTagLine2,중장갑 거대전함!
@@ -5370,7 +5375,71 @@ CoopGameSyncFailed,게임 설정 연동 실패. 새 게임을 시도하세요.
 iCloudTitle,iCloud
 iCloudDisabled,iCloud 사용 안 함
 iCloudEnabled,iCloud 사용
-DialogBeastHandlerQuest1InGameTowerUpgrade1,"와우, 그 야수는 너무 강해서 두 명의 야수 조련사가 계속 통제해야 합니다!"
-Buffed,강화
-Assisting,도움
-Select Point On Track,트랙에서 지점 선택
+,
+Gamercard,게이머 카드
+ControllerDisconnected,컨트롤러 연결 해제됨. 연결한 후 다시 시도하세요.
+PlayerStatsBossesPopped,터트린 보스
+PlayerStatsDamageDoneToBosses,보스에게 준 피해
+DarkDungeons,어두운 지하감옥
+MiddleOfTheRoad,길 한복판
+Achievement 146 Name,보조 퀘스트
+Achievement 146 Description,퀘스트 완료하기
+Achievement 148 Name,세계 리그 훈련
+Achievement 148 Description,"맹수 조련사 XP 150,000 획득"
+KaijuPatFustySkinName,카이주 팻 스킨
+KaijuPatFustySkinNameFull,카이주 팻
+KaijuPatFustySkinDescription,맹렬하게 착한 심성을 지닌 기이한 맹수.
+HeroesStrikerJonesBikerBonesPlacementHellriftName,바이커 본즈 지옥균열 배치 & 업그레이드
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,바이커 본즈 지옥균열
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,이 지옥균열 효과를 장착하면 바이커 본즈가 철마를 타고 전장에 나가면서 업그레이드할 때마다 폼나게 번아웃하는 모습을 볼 수 있습니다. 바이커 본즈 전용.
+TowerPetSniperMonkeyChameleonName,저격 원숭이 카멜레온 펫
+TowerPetSniperMonkeyChameleonShortName,저격 카멜레온 펫
+TowerPetSniperMonkeyChameleonDescription,수풀 속에서 완벽한 보호색으로 숨어 있다가 파리가 지나가면 호로록! 혀를 쏜살같이 내밀어 잡아챕니다. 저격 원숭이가 아니라 저격 원숭이의 펫 카멜레온입니다!
+GameUIProfileAvatar69Name,커스텀 아바타 - 블루나리우스
+GameUIProfileAvatar69ShortName,블루나리우스 아바타
+GameUIProfileAvatar69Description,풍선확대기 블루나리우스가 보글보글 늪에서 깨어납니다.
+GameUIProfileAvatar70Name,커스텀 아바타 - 책벌레 패치
+GameUIProfileAvatar70ShortName,책벌레 패치
+GameUIProfileAvatar70Description,"원숭이 세상의 최신 뉴스와 과학 동향을 항상 살피는 패치지만, 가끔은 그냥 재밌는 책을 들고 독서삼매경에 빠지기도 합니다. "
+GameUIProfileAvatar71Name,커스텀 아바타 - 평범한 꼬마 원숭이
+GameUIProfileAvatar71ShortName,평범한 꼬마 원숭이 아바타
+GameUIProfileAvatar71Description,저 눈망울을 보세요. 대체 풍선들은 뭐가 문제일까요? 그냥 평범한 꼬마 원숭이일 뿐인데요.
+GameUIProfileAvatar72Name,커스텀 아바타 - 행복한 바나나 농부
+GameUIProfileAvatar72ShortName,행복한 바나나 농부 아바타
+GameUIProfileAvatar72Description,바나나 농부가 바나나 의상을 입는 것보다 더 좋아하는 게 뭘까요? 바로 바나나 의상을 입은 상태에서 바나나가 가득한 상자로 둘러싸인 채 바나나로 채워진 풀장에서 헤엄치는 거지요.
+GameUIProfileBanner26Name,글루 폭풍 프로필 배너
+GameUIProfileBanner26ShortName,글루 폭풍 배너
+GameUIProfileBanner26Description,"글루 폭풍이 해를 가리면, 그 그늘에서 이 배너를 장착하세요."
+GameUIProfileBanner27Name,마법사 군주 피닉스 프로필 배너
+GameUIProfileBanner27ShortName,마법사 군주 피닉스 배너
+GameUIProfileBanner27Description,Flipp_Flopps 님의 배너 공모전 당선작
+GameUIProfileBanner28Name,농장 닭 프로필 배너
+GameUIProfileBanner28ShortName,농장 닭 배너
+GameUIProfileBanner28Description,WhereThighs 님의 배너 공모전 당선작
+TeamsEmblemFrame14Name,토끼의 해 액자
+TeamsEmblemFrame14ShortName,토끼의 해 액자
+TeamsEmblemFrame14Description,토끼의 해 액자로 팀의 평안과 번영을 기원하세요.
+TeamsEmblemFrame15Name,키위 여름 액자
+TeamsEmblemFrame15ShortName,키위 여름 액자
+TeamsEmblemFrame15Description,잰들과 키위와 포후투카와 꽃까지. 독보적인 팀을 돋보이게 하는 액자입니다.
+TeamsEmblemIcon17Name,토끼의 해 아이콘
+TeamsEmblemIcon17ShortName,토끼의 해 아이콘
+TeamsEmblemIcon17Description,신중하며 끈기 있는 팀에 어울리는 토끼의 해 아이콘.
+TeamsEmblemIcon18Name,붕붕 벌 아이콘
+TeamsEmblemIcon18ShortName,붕붕 벌 아이콘
+TeamsEmblemIcon18Description,이 붕붕 벌 아이콘과 함께 또각또각 팀의 승리를 굳혀보세요.
+BasePropCosyBeanbagMonkeyName,아늑한 빈백 원숭이
+BasePropCosyBeanbagMonkeyShortName,아늑한 빈백 원숭이
+BasePropCosyBeanbagMonkeyDescription,빈백. 느긋함의 궁극적인 상징. 여유롭게 쉬는 원숭이도 포함합니다! [섬 슬롯]
+RetryLastRoundDescriptionText,마지막 라운드에서 저장된 목숨과 캐시로 다시 도전하시겠습니까?
+PlayOffline,오프라인 플레이
+DarkDungeonsStatueName,던전 조각상
+DarkDungeonsStatueActivate,조각상 발동: ${0}
+DarkDungeonsStatueLevelUp,레벨 {0}\n${1}
+BossHPIncreased,보스 체력 증가
+BossHPDecreased,보스 체력 감소
+BossSpeedIncreased,보스 속도 증가
+BossSpeedDecreased,보스 속도 감소
+BossHealth,보스 체력
+BossSpeed,보스 속도
+EnterNewName,새 이름 입력

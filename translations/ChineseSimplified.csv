@@ -232,7 +232,7 @@ ObynGreenfoot Level 20 Description,树木之墙可拦截更多气球。
 ,
 Ezili Level 1 Description,艾泽里使用黑暗巫毒力量诅咒气球。
 Ezili Level 2 Description,攻击范围增加。
-Ezili Level 3 Description,心脏止博器：减缓气球移动速度，允许击破紫气球，并防止任何气球再生，效果持续10秒。
+Ezili Level 3 Description,心脏止博器：允许击破紫气球，并防止任何气球再生，效果持续10秒。
 Ezili Level 4 Description,艾泽里的主要攻击现在可诅咒多个气球。
 Ezili Level 5 Description,提高攻击速度。
 Ezili Level 6 Description,随着时间的推移，伤害持续时间更长，伤害更快。
@@ -819,7 +819,7 @@ Sub Commander Description,在其半徑內對指揮官與所有潛艇提供更高
 Buccaneer-Faster Shooting Description,船上所有的武器射速都比较快。
 Buccaneer-Grape Shot Description,向船上添加5连发散弹炮。
 Buccaneer-Long Range Description,射程更远，弹丸飞得也更快。
-Buccaneer-Double Shot Description,使船只的火力翻倍。
+Buccaneer-Double Shot Description,增加船只发射的火力。
 Buccaneer-Hot Shot Description,灼热的散弹射击可击破铅气球，并让气球陷入一片火海。
 Buccaneer-Crow's Nest Description,允许该船击中迷彩气球。
 Buccaneer-Destroyer Description,极速攻击！
@@ -829,7 +829,7 @@ Buccaneer-Aircraft Carrier Description,出动成批战斗机猛烈轰击气球�
 Buccaneer-Monkey Pirates Description,为战船增加2门大炮，并且大炮攻击攻击可造成更高伤害。MOAB追击技能：追击MOAB级气球，将它击毁。
 Buccaneer-Favored Trades Description,攻击速度加快，每回合的收入增加。作用范围内猴子的售价增加。
 Buccaneer-Carrier Flagship Description,造成额外伤害。可将其他猴子放置在船的上层甲板，增加所有水面猴子和皇家飞行员的攻击速度。
-Buccaneer-Pirate Lord Description,大大提高了所有攻击的攻击速度，可一次发射3个爪钩，每次击落MOAB级气球可获得更多现金。
+Buccaneer-Pirate Lord Description,大大提高了所有攻击的攻击速度，可一次发射3个爪钩，每次击落MOAB级气球可获得额外的现金。
 Buccaneer-Trade Empire Description,每回合生产更多现金，增加最多额外20艘商船生产的现金，并使所有商船造成的伤害增加。
 ,
 Rapid Fire Description,射击速度比平时快。
@@ -902,7 +902,7 @@ Fireball Description,每隔几秒施放一个爆炸性的火球法术符咒。
 Intense Magic Description,更强大的魔法炮弹，飞行得更快，并可以击破更多气球。
 Arcane Blast Description,更大、更强的魔法炮弹，可击破2层气球。
 Wall of Fire Description,在路径上设置一道超热的火墙，在气球经过时将其烤熟。
-Monkey Sense Description,允许法师攻击迷彩气球。
+Monkey Sense Description,范围稍微增加，并允许法师攻击迷彩气球。
 Arcane Mastery Description,攻击速度加快，射程、伤害和击破力得到增强。
 Dragon's Breath Description,向附近的气球喷出无尽的火焰，并增强火球和火墙的威力。
 Shimmer Description,获得黑暗魔法攻击，周期性永久显示附近所有迷彩气球的位置。
@@ -942,7 +942,7 @@ Bloonjitsu Description,一次投掷5支手里剑！
 Bloon Sabotage Description,破坏技能：持续15秒。在破坏期间，所有气球移速减半。
 Sticky Bomb Description,向MOAB级气球发起定时猛攻。
 Grandmaster Ninja Description,投掷速度非常快，每次8支手里剑！
-Grand Saboteur Description,技能持续时间更长，MOAB级气球在破坏期间孵化的气球生命值较低。
+Grand Saboteur Description,技能持续时间更长，MOAB级气球在破坏期间孵化的气球健康值较低。对所有神兵都有增益。
 Master Bomber Description,一台猴子MOAB拆卸机。
 ,
 Larger Potions Description,更大的药剂会溅到更大的区域。
@@ -987,11 +987,11 @@ Banana Plantation Description,每回合长出16串香蕉。
 Monkey Bank Description,该农场生成的所有钱现在都被存储在银行中，每回合可获得15%的利息。
 Marketplace Description,每回合生成一笔钱并将其计入总额。别大惊小怪。
 Banana Research Facility Description,每回合生产5大箱香蕉，每箱价值300块。
-IMF loan Description,IMF贷款技能：给你10000块，但你必须按时还款。
+IMF loan Description,IMF贷款技能：给你9000块，但你必须按时还款。
 Central Market Description,每回合获得大量金钱，并使商人收入+ 10％。
 Banana Central Description,你想要香蕉？我们有香蕉！
 Monkey-Nomics Description,当你规模太大而不能失败时可以考虑…
-Monkey Wall Street Description,猴子交易中心每回合可赚取巨额收入并恢复生命。
+Monkey Wall Street Description,猴子交易中心赚取巨大的收入，每回合产生生命并在半径范围内收集收入。
 ,
 Sentry Gun Description,制造临时岗哨枪并在附近部署。
 Larger Service Area Description,射程增加，并在更大的区域部署哨兵。
@@ -1051,7 +1051,7 @@ Primary Training Description,所有半径中的初级猴子都会获得更大的
 Monkey Intelligence Bureau Description,情报局教授特种气球爆破技能，允许附近的猴子击破所有类型的气球。
 Monkey Town Description,在猴子镇半径内每次击破气球都能获得额外的现金。
 Primary Mentoring Description,作用范围内的所有初级猴子获得1阶免费升级，射程增加，技能冷却时间缩短。
-Call to Arms Description,战争召唤技能：短时间内使附近猴子的攻击速度和击破力提升50%。
+Call to Arms Description,武器召唤技能：使所有猴子的攻击速度提升50%，并在短时间内击破气球。
 Monkey City Description,扩大作用范围，增加范围内的金钱生成，并且每回合免费为你提供一个飞镖猴。
 Primary Expertise Description,增加超级弩炮攻击，并且作用范围内所有初级猴子的击破力增加，技能冷却时间进一步减少，免费获得1级和2级免费升级。
 Homeland Defense Description,所有猴子的技能攻速和击破力提高100%，持续20秒。
@@ -1115,7 +1115,7 @@ Super Maelstrom Ability Description,更强大的漩涡技能和更长的持续�
 Snowstorm Ability Description,在短时间内冻结屏幕上的所有气球。
 Absolute Zero Ability Description,极寒技能，可冻结所有的气球类型，包括免疫寒冷的气球和MOAB级气球。
 Glue Strike Ability Description,粘住屏幕上的所有气球。
-Glue Storm Ability Description,胶水风暴技能可在10秒内对全屏气球发起胶水攻击。
+Glue Storm Ability Description,胶水风暴技能可在15秒内对全屏气球发起胶水攻击。
 Supply Drop Ability Description,空投一个装满现金的箱子。
 Elite Sniper Ability Description,空投补给带来了更多的现金。
 Elite Defender Ability Description,失去生命会让狙击手在短时间内以2倍的攻击速度进行报复。
@@ -1140,14 +1140,14 @@ Legend of the Night Ability Description,当所有的希望都破灭时，我们�
 Bloon Sabotage Ability Description,持续15秒。在破坏期间，所有气球移速变慢。
 Grand Saboteur Ability Description,技能持续时间更长，MOAB级气球在破坏期间孵化的气球生命值较低。
 Transforming Tonic Ability Description,德鲁伊附近的农场额外获得50%的金钱，持续一小段时间。
-IMF loan Ability Description,给你10000块，但你必须按时还款。
+IMF loan Ability Description,给你9000块，但你必须按时还款。
 Monkey-Nomics Ability Description,当你规模太大而不能失败时可以考虑…
 Overclock Ability Description,目标猴子的攻击力在短时间内获得极大增强。
 Spike Storm Ability Description,在整条路径上射出层层尖刺。
 Carpet of Spikes Ability Description,每回合在整条路径上设置一个刺钉地毯。
 Magic Arcanum Ability Description,基于附近魔法猴子的技能创造一个强大的猴子。
-Call to Arms Ability Description,为所有猴子提供双倍攻速和爆破力，持续10秒。
-Homeland Defense Ability Description,技能影响所有猴子，持续15秒。
+Call to Arms Ability Description,为所有猴子提供+50%攻击速度，持续10秒。
+Homeland Defense Ability Description,为所有猴子提供+100%攻击速度，持续20秒。
 ,
 //Maps,
 TownCentre,市中心
@@ -1824,7 +1824,7 @@ InsiderTradesDescription,猴子商业折扣增加2％。
 BiggerBanks,更大的银行
 BiggerBanksDescription,猴子银行可以额外存储2500块。
 BackroomDeals,后房交易
-BackroomDealsDescription,IMF贷款增至12000块，偿还率为40％。
+BackroomDealsDescription,IMF贷款增加1000块，偿还率为40％。
 ThickerFoams,更厚的泡沫
 ThickerFoamsDescription,清洁泡沫在失效前可以多击中3个气球。
 BigTraps,大陷阱
@@ -2753,8 +2753,8 @@ DarkKnightDarkshift,按[I]在范围内进行黑暗漂移
 DarkChampionDarkshift,按[I]黑暗漂移至任何有效位置
 SmallTowersMode,小猴子塔
 BigTowersMode,大猴子塔
-UpdatePopupTitle,更新 34！
-UpdatePopupDescription,海量节日更新！\n• 对抗拥有出色的抗性和伤害免疫特性的装甲巨兽，恐怖气球！\n• 在新的新手地图 - 一二三 - 探索放置防御塔获得的增益。\n• 使用新的上尉丘吉尔皮肤 - 雪橇丘吉尔，在节日氛围的烘托下消灭气球！\n• 奖杯商店物品、生活质量改进、平衡性修改等！\n• Ninja Kiwi 全体人员祝各位玩家节日愉快，新年快乐！
+UpdatePopupTitle,更新 35！
+UpdatePopupDescription,新年，新更新！\n• 全新专家地图 - 黑暗地下城，玩家需要勇敢面对其中的幽暗房间。由社区地图比赛获胜者Lars_Overwick设计。\n•全新新手地图 - 道路中间，玩家需要将气球赶出猴子镇。\n• 使用新推出的帕特·法斯第皮肤 - 怪兽帕特，让那些气球感受一下怪兽恐怖的挤压力！\n• 奖杯商店物品、生活质量改进、平衡性修改等！
 ResetDailyChest,重置每日奖励
 JukeboxName,点唱机
 EnableFunction,启用
@@ -3700,10 +3700,10 @@ Psi,灵机
 Psi Short Description,灵能
 Psi Description,灵机是一位天赋异禀的猴子宝宝，它只要使用念力便能彻底摧毁气球。
 Psi Level 1 Description,不论距离远近，不论有无障碍，灵机都能释放致命震荡，一次便能彻底摧毁一只气球。灵机现在可以锁定BFB。
-Psi Level 2 Description,攻速略微提升。
+Psi Level 2 Description,相比普通攻击，灵能震荡可以更快地摧毁气球。
 Psi Level 3 Description,心灵冲击波：灵机释放出力量波，长时间眩晕附近的气球。
 Psi Level 4 Description,灵机的攻击波可以连带攻击距离目标气球非常近的其他气球。
-Psi Level 5 Description,相比普通攻击，灵能震荡可以更快地摧毁气球。
+Psi Level 5 Description,攻速略微提升。
 Psi Level 6 Description,灵机强大的念力可以穿透铅气球的护甲。
 Psi Level 7 Description,心灵冲击波可以造成两次冲击。灵机现在可以摧毁陶瓷气球了。
 Psi Level 8 Description,具有杀伤力的共振，不单能摧毁目标气球，还能对其附近的其他气球造成伤害。
@@ -4146,7 +4146,7 @@ MonkeyBuccaneer Paragon,海洋主宰
 MonkeyBuccaneer Paragon Description,有史以来最强大的海上王者。
 HeroesPsiPetBisonName,灵机野牛宠物
 HeroesPsiPetBisonShortName,灵机野牛宠物
-HeroesPsiPetBisonDescription,偶蹄类动物的骄子，碰巧灵机觉得它非常可爱。仅限初始灵机,)
+HeroesPsiPetBisonDescription,偶蹄类动物的骄子，碰巧灵机觉得它非常可爱。仅限初始灵机
 TowerPropMonkeyVillageAustralianFlagName,猴子村澳大利亚国旗
 TowerPropMonkeyVillageAustralianFlagShortName,猴村澳大利亚国旗
 TowerPropMonkeyVillageAustralianFlagDescription,澳洲 澳洲 澳洲，嗷 嗷 嗷！这面猴村国旗显示所有升级
@@ -4343,7 +4343,7 @@ Geraldo Level 8 Description,新道具！一瓶“格里之火” — 富含280 �
 Geraldo Level 9 Description,新道具！肥料 — 使目标香蕉农场的香蕉产量大幅增加，并获得现金奖励，效果持续几个回合。杰拉尔多主攻击爆炸半径增加。
 Geraldo Level 10 Description,新道具！宠物兔 — 哇，好可爱的小兔子啊！
 Geraldo Level 11 Description,新道具！回春药剂 — 重置所有猴子塔和英雄的冷却时间，恢复50点生命。杰拉尔多主攻击的穿透力增加，泡菜罐对强化气球造成额外伤害。
-Geraldo Level 12 Description,新道具！精灵瓶 — 召唤一只等离子驱动的精灵猴，持续3回合。令人毛骨悚然的神像现在可以偶尔对经过的可见 MOAB 级气球施加短暂眩晕。
+Geraldo Level 12 Description,新道具！精灵瓶 — 召唤一只等离子驱动的精灵猴，持续2回合。令人毛骨悚然的神像现在可以偶尔对经过的可见 MOAB 级气球施加短暂眩晕。
 Geraldo Level 13 Description,射击炮塔射速加快，伤害增加，旧钉子堆造成的伤害增加。
 Geraldo Level 14 Description,识破隐形药水作用范围增加，效果持续更久。
 Geraldo Level 15 Description,磨刀石现在除了增加穿透力外还会增加伤害，利刃陷阱在触发时会产生更强大的效果。
@@ -5257,6 +5257,11 @@ Move,移动
 NeedsBeastHandlers,需求野兽
 NeedsWater,需要水
 NeedsTrack,需要路径
+Buffed,已获得增益
+Assisting,援助
+Select Point On Track,选择路径上的位置
+Select Point In Range,选择范围内的位置
+,
 Dreadbloon,恐怖气球
 DreadbloonTagLine,来自黑暗世界的深处…
 DreadbloonTagLine2,装甲巨兽
@@ -5372,7 +5377,71 @@ CoopGameSyncFailed,未能同步游戏设置。请尝试开始一个新游戏。
 iCloudTitle,iCloud
 iCloudDisabled,iCloud 已禁用
 iCloudEnabled,iCloud 已启用
-DialogBeastHandlerQuest1InGameTowerUpgrade1,"哇，那只野兽好强，需要两个御兽师才能控制住它！"
-Buffed,强化
-Assisting,协助
-Select Point On Track,选择轨道上的一个点
+,
+Gamercard,游戏卡
+ControllerDisconnected,控制器已断开连接。请重新连接，然后重试。
+PlayerStatsBossesPopped,击败的Boss
+PlayerStatsDamageDoneToBosses,对Boss造成的伤害
+DarkDungeons,黑暗地下城
+MiddleOfTheRoad,道路中间
+Achievement 146 Name,支线任务
+Achievement 146 Description,完成一个任务
+Achievement 148 Name,世界联盟训练
+Achievement 148 Description,获得150000点野兽之主经验值
+KaijuPatFustySkinName,怪兽帕特皮肤
+KaijuPatFustySkinNameFull,怪兽帕特
+KaijuPatFustySkinDescription,这头猛兽虽然有点古怪，但性情却极其温和。
+HeroesStrikerJonesBikerBonesPlacementHellriftName,骷髅骑手地狱裂隙放置和升级
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,骷髅骑手地狱裂隙
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,获取地狱裂隙效果，观看骷髅骑手骑着他的钢铁坐骑，每次升级都会出现酷炫的烧胎效果。仅限骷髅骑手。
+TowerPetSniperMonkeyChameleonName,狙击手猴变色龙宠物
+TowerPetSniperMonkeyChameleonShortName,狙击手猴变色龙宠物
+TowerPetSniperMonkeyChameleonDescription,埋伏以待，利用周围的植物完美伪装。一只苍蝇飞过，只听见啪的一声！一条舌头吐出抓住了它。不，不是狙击手猴，而是狙击手猴的宠物变色龙！
+GameUIProfileAvatar69Name,自定义化身 - 布隆纳留斯
+GameUIProfileAvatar69ShortName,布隆纳留斯化身
+GameUIProfileAvatar69Description,布隆纳留斯充气泵，从冒着泡的沼泽地苏醒过来。
+GameUIProfileAvatar70Name,自定义化身 - 布隆纳留斯
+GameUIProfileAvatar70ShortName,勤奋的帕奇
+GameUIProfileAvatar70Description,虽然帕奇总是随时关注猴子世界的最新动态和科学，但她有时就喜欢坐下来读一本好书。
+GameUIProfileAvatar71Name,自定义化身 - 只是一只小猴子
+GameUIProfileAvatar71ShortName,只是一只小猴子化身
+GameUIProfileAvatar71Description,看看那对眼睛。气球还想要什么？它只是一只小猴子。
+GameUIProfileAvatar72Name,自定义化身 - 快乐的蕉农
+GameUIProfileAvatar72ShortName,快乐的蕉农化身
+GameUIProfileAvatar72Description,还有什么比穿着香蕉服装更让蕉农开心的事吗？那就是穿着香蕉服装，徜徉在装满香蕉的泳池中，周围到处是装满了香蕉的箱子。
+GameUIProfileBanner26Name,胶水风暴档案横幅
+GameUIProfileBanner26ShortName,胶水风暴横幅
+GameUIProfileBanner26Description,当胶水风暴遮挡住太阳时，在阴凉处装备这个横幅。
+GameUIProfileBanner27Name,高阶法师菲尼克斯档案横幅
+GameUIProfileBanner27ShortName,高阶法师菲尼克斯横幅
+GameUIProfileBanner27Description,横幅获胜者Flipp_Flopps
+GameUIProfileBanner28Name,农场鸡档案横幅
+GameUIProfileBanner28ShortName,农场鸡横幅
+GameUIProfileBanner28Description,横幅获胜者WhereThighs
+TeamsEmblemFrame14Name,兔年地图框
+TeamsEmblemFrame14ShortName,兔年地图框
+TeamsEmblemFrame14Description,为您的战队设置兔年地图框，寓意太平富贵。
+TeamsEmblemFrame15Name,猕猴桃夏日地图框
+TeamsEmblemFrame15ShortName,猕猴桃夏日地图框
+TeamsEmblemFrame15Description,人字拖、猕猴桃和圣诞花。优质地图框配优秀战队。
+TeamsEmblemIcon17Name,兔年图标
+TeamsEmblemIcon17ShortName,兔年图标
+TeamsEmblemIcon17Description,兔年图标，专为机警、果敢的战队而准备。
+TeamsEmblemIcon18Name,嗡嗡蜜蜂图标
+TeamsEmblemIcon18ShortName,嗡嗡蜜蜂图标
+TeamsEmblemIcon18Description,使用这个嗡嗡蜜蜂图标，您的战队将以咔哒咔哒的方式取得胜利。
+BasePropCosyBeanbagMonkeyName,舒适的懒人沙发猴
+BasePropCosyBeanbagMonkeyShortName,舒适的懒人沙发猴
+BasePropCosyBeanbagMonkeyDescription,懒人沙发。放松的最终象征。包括一只悠闲的猴子！[岛屿栏]
+RetryLastRoundDescriptionText,是否要从保存了生命值和现金的上一回合重试？
+PlayOffline,离线游戏
+DarkDungeonsStatueName,地下城雕像
+DarkDungeonsStatueActivate,激活雕像：${0}
+DarkDungeonsStatueLevelUp,{0}级\n${1}
+BossHPIncreased,Boss生命值增加
+BossHPDecreased,Boss生命值减少
+BossSpeedIncreased,Boss速度加快
+BossSpeedDecreased,Boss速度减慢
+BossHealth,Boss生命值
+BossSpeed,Boss速度
+EnterNewName,输入新名称

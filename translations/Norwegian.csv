@@ -698,7 +698,7 @@ Spike-o-pult Description,Konverterer Dart-apen til en langsomt angripende Pigg-o
 Triple Shot Description,Kaster 3 dartpiler om gangen istedenfor 1.
 Crossbow Description,Bruker en armbrøst med lang rekkevidde som kan poppe 3 lag med bloons for hvert treff.
 Juggernaut Description,Slynger en gigantisk spikerkule som popper bly og er utmerket til å knuse keramiske og forsterkede bloons.
-Super Monkey Fan Club Description,"Superape-fanklubb-evne: Konverterer opptil 10 dart-aper, inkludert seg selv, i nærheten om til Superaper i 15 sekunder. Vanlig angrepshastighet økes også."
+Super Monkey Fan Club Description,"Superape-fanklubbevne: Konverterer opptil 10 dart-aper i nærheten, inkludert seg selv, om til Superaper i 15 sekunder. Vanlig angrepshastighet økes også."
 Sharp Shooter Description,"Skarpskyttere angriper raskere og får av og til inn kraftfulle kritiske skudd, som gjør masse skade."
 Ultra-Juggernaut Description,Gigantisk spikerkule deles to ganger til seks Juggernaut-baller for enda mer ødelggende skade mot keramiske og forsterkede bloons.
 Plasma Monkey Fan Club Description,Elite-medlemskap i denne klubben gir Dart-aper enda flere krefter!
@@ -819,7 +819,7 @@ Sub Commander Description,Gir ekstra gjennomtrengningskraft og skade på Kommand
 Buccaneer-Faster Shooting Description,Alle våpen om bord skyter raskere.
 Buccaneer-Grape Shot Description,Legger 5 spissede druer til skipet.
 Buccaneer-Long Range Description,Mye større rekkevidde og prosjektiler flyr raskere.
-Buccaneer-Double Shot Description,Dobler brukte skipsvåpen.
+Buccaneer-Double Shot Description,Dobler antallet avfyrte skipsvåpen.
 Buccaneer-Hot Shot Description,Brennende varme drueskudd kan poppe bly-bloons og sette fyr på bloons.
 Buccaneer-Crow's Nest Description,Lar piraten treffe kamuflerte bloons.
 Buccaneer-Destroyer Description,Angriper superduperraskt!
@@ -1140,13 +1140,13 @@ Legend of the Night Ability Description,Vi går til ham når alt håp er ute …
 Bloon Sabotage Ability Description,Under sabotasjen beveger alle bloons seg med redusert hastighet.
 Grand Saboteur Ability Description,"Evnen varer lenger, og bloons av MOAB-klasse fornyes med mindre helse under sabotasjen."
 Transforming Tonic Ability Description,Gårder i nærheten av Druiden tjener 50% mer penger i en kort periode.
-IMF loan Ability Description,"Gir deg 10 000$, men du må betale tilbake over tid."
+IMF loan Ability Description,"Gir deg 9000$, men du må betale tilbake over tid."
 Monkey-Nomics Ability Description,Når du er for stor til å feile …
 Overclock Ability Description,Målape får superkrefter i kort tid.
 Spike Storm Ability Description,Skyter et tykt lag med spiker over hele banen.
 Carpet of Spikes Ability Description,"Legger en spikermatte over hele banen, i alle runder."
 Magic Arcanum Ability Description,Skaper en mektig ape med evner som baseres på Magiske aper som er i nærheten.
-Call to Arms Ability Description,Gir alle aper DOBBELT angrepshastighet og popper i 10 sekunder.
+Call to Arms Ability Description,Gir alle aper DOBBEL angrepshastighet og popper i 10 sekunder.
 Homeland Defense Ability Description,Evner påvirker ALLE aper og varer i 15 sekunder.
 ,
 //Maps,
@@ -1824,7 +1824,7 @@ InsiderTradesDescription,Ape-business-rabatt øker med 2%.
 BiggerBanks,Større banker
 BiggerBanksDescription,Apebanker kan oppbevare 2500 ekstra penger.
 BackroomDeals,Bakromsavtaler
-BackroomDealsDescription,IMF-lån økt til 12 000$ og tilbakebetalingsrenten er 40%.
+BackroomDealsDescription,IMF-lån gir 1000$ mer og tilbakebetalingsraten er 40%.
 ThickerFoams,Tykkere skum
 ThickerFoamsDescription,Renseskum kan treffe 3 flere bloons før det utløper.
 BigTraps,Store feller
@@ -2753,8 +2753,8 @@ DarkKnightDarkshift,[I] for å Mørkehoppe innen rekkevidde
 DarkChampionDarkshift,[I] for å Mørkehoppe til et gyldig sted
 SmallTowersMode,Små apetårn
 BigTowersMode,Store apetårn
-UpdatePopupTitle,Oppdatering 34!
-UpdatePopupDescription,"Megahøytid-oppdatering!\n• Kjemp mot det fantastiske forsvaret og motstandkraften til den pansrede behemoth, Fryktbloon!\n• Oppdag plasseringene av tårnøkningene på det nye nybegynnerkartet «Én, to, tre!»\n• Ta knekken på bloonsene og spre julestemning med det nye Kaptein Churchill-skinnet, Churchill på slede!\n• Trofégjenstander i butikken, endringer, balansering og mye mer!\n• Vi i Ninja Kiwi ønsker deg god jul og et riktig godt nyttår!"
+UpdatePopupTitle,Oppdatering 35!
+UpdatePopupDescription,"Nytt år, ny oppdatering!\n• Begi deg ut i de skyggelagte kammerne på det nye ekspertkartet «Mørke fangehull». Designet er lagd av vinneren av fellesskapets kartkonkurranse, Lars_Overwick.\n• Driv bloonsene ut av byen på det nye nybegynnerkartet «Midt i veien».\n• La noen av bloonsene få føle på et enormt trykk fra den nye Pat Fusty-drakten «Kaiju Pat»!\n• Trofégjenstander i butikken, endringer, balanseringer og mye mer!"
 ResetDailyChest,Tilbakestill den Daglige kisten
 JukeboxName,Jukeboks
 EnableFunction,Aktiver
@@ -3700,10 +3700,10 @@ Psi,Psi
 Psi Short Description,Psionisk ape
 Psi Description,Psi er et begavet apebarn som bruker tankekraft til å knuse bloons fra innsiden.
 Psi Level 1 Description,"Uansett område eller hindring, frigjør Psi sjelerystende vibrasjoner som fullstendig knuser én bloon om gangen. Kan angripe kamuflerte bloons."
-Psi Level 2 Description,Angriper litt raskere.
+Psi Level 2 Description,De psioniske vibrasjonene ødelegger bloons raskere enn normalt.
 Psi Level 3 Description,Psykisk eksplosjon: Psi slipper løs en kraftbølge som lamslår Bloons i nærheten i lang tid.
 Psi Level 4 Description,Psis angrep kan treffe en annen bloon om den kommer nær den målrettede bloonen.
-Psi Level 5 Description,De psioniske vibrasjonene ødelegger bloons raskere enn normalt.
+Psi Level 5 Description,Angriper litt raskere.
 Psi Level 6 Description,Psis kraftige hjerne kan penetrere blybloons.
 Psi Level 7 Description,Psykisk eksplosjon pulserer to ganger. Psi kan nå ødelegge keramiske bloons.
 Psi Level 8 Description,Destruktiv resonans får bloons som ødelegges av Psis hovedangrep til å skade andre bloons i nærheten.
@@ -5252,9 +5252,14 @@ T Rex Stomp Ability Description,Lammer opp til ZOMG-bloons i et vidstrakt områd
 Giganotosaurus Stomp Ability,Gigantosaurus-tramp
 Giganotosaurus Stomp Ability Description,Lammer opp til ZOMG-bloons overalt i en lengre periode.
 Move,Flytt
-NeedsBeastHandlers,Krever beistet
+NeedsBeastHandlers,Krever beist
 NeedsWater,Trenger vann
 NeedsTrack,Trenger bane
+Buffed,ØKNING AKTIVERT
+Assisting,Assisterer
+Select Point On Track,Velg punkt på bane
+Select Point In Range,Velg punkt i område
+,
 Dreadbloon,Fryktbloon
 DreadbloonTagLine,Fra dypt i jordens indre …
 DreadbloonTagLine2,den panserede behemoth!
@@ -5370,7 +5375,71 @@ CoopGameSyncFailed,Kunne ikke synkronisere spillinnstillingene. Prøv et nytt sp
 iCloudTitle,iCoud
 iCloudDisabled,iCloud er deaktivert
 iCloudEnabled,iCloud er aktivert
-DialogBeastHandlerQuest1InGameTowerUpgrade1,"Wow, det beistet er så sterkt at det trengs TO Beast Handlers for å holde det under kontroll!"
-Buffed,Styrket
-Assisting,Assistere
-Select Point On Track,Velg et punkt på banen
+,
+Gamercard,Spillerkort
+ControllerDisconnected,Kontrolleren er koblet fra. Koble til og prøv på nytt.
+PlayerStatsBossesPopped,Sjefer som er poppet
+PlayerStatsDamageDoneToBosses,Skade påført sjefer
+DarkDungeons,Mørke fangetårn
+MiddleOfTheRoad,Midt i veien
+Achievement 146 Name,Sideoppgrad
+Achievement 146 Description,Fullfør et oppdrag
+Achievement 148 Name,Verdensliga-trening
+Achievement 148 Description,Sikre deg 150 000 Beisthåndterer-XP
+KaijuPatFustySkinName,Kaiju Pat-drakt
+KaijuPatFustySkinNameFull,Kaiju Pat
+KaijuPatFustySkinDescription,"Et merkelig beist, men voldsomt godsinnet."
+HeroesStrikerJonesBikerBonesPlacementHellriftName,Plassering og oppgradering av Motorsyklistbein-helvetesrift
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,Motorsyklistbein-helvetesrift
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,Sikre deg denne Helvetesrift-effekten og se Motorsyklistbein sykle inn i kamp på jernhesten sin og gjennomføre en vanvittig burnout for hver oppgradering. Kun Motorsyklistbein. 
+TowerPetSniperMonkeyChameleonName,Snikskytterapes kameleon-kjæledyr
+TowerPetSniperMonkeyChameleonShortName,Snikskytters kameleon-kjæledyr
+TowerPetSniperMonkeyChameleonDescription,"Ligger på lur, perfekt kamuflert blant bladene. En flue flyr forbi og PANG! En tunge skyter ut for å gripe den. Nei, det er ikke Snikskytterape. Det er Snikskytterapens kjæledyr-kameleon!"
+GameUIProfileAvatar69Name,Tilpasset avatar – Bloonarius
+GameUIProfileAvatar69ShortName,Bloonarius-avatar
+GameUIProfileAvatar69Description,Inflatoren Bloonarius som stiger opp fra den boblende sumpen.
+GameUIProfileAvatar70Name,Tilpasset avatar – Bloonarius
+GameUIProfileAvatar70ShortName,Flittig Patch
+GameUIProfileAvatar70Description,"Selv om Patch alltid er oppdatert på siste nytt og vitenskapen om apeverdenen, liker hun noen ganger å bare sette seg ned med en god bok."
+GameUIProfileAvatar71Name,Tilpasset avatar – Bare en liten ape
+GameUIProfileAvatar71ShortName,Bare en liten ape-avatar
+GameUIProfileAvatar71Description,Se på de øynene. Hva er det egentlig bloonsene vil? Det er bare en liten ape.
+GameUIProfileAvatar72Name,Tilpasset avatar - Glad bananbonde
+GameUIProfileAvatar72ShortName,Glad bananbonde-avatar
+GameUIProfileAvatar72Description,Hva liker en bananbonde mer enn å ha på seg et banankostyme? Å svømme i et basseng av bananer blant kasser fulle av bananer iført et banankostyme.
+GameUIProfileBanner26Name,Limstorm-profilbanner
+GameUIProfileBanner26ShortName,Limstorm-banner
+GameUIProfileBanner26Description,Plasser dette banneret i skyggen når en limstorm blokkerer for solen.
+GameUIProfileBanner27Name,Trollmannherren Føniks-profilbanner
+GameUIProfileBanner27ShortName,Trollmannherren Føniks-banner
+GameUIProfileBanner27Description,Bannervinner av Flipp_Flopps
+GameUIProfileBanner28Name,Gårdskylling-profilbanner
+GameUIProfileBanner28ShortName,Gårdskylling-banner
+GameUIProfileBanner28Description,Bannervinner av WhereThighs
+TeamsEmblemFrame14Name,Kaninens år-ramme
+TeamsEmblemFrame14ShortName,Kaninens år-ramme
+TeamsEmblemFrame14Description,Forbered laget ditt på fred og velstand med denne Kaninens år-rammen.
+TeamsEmblemFrame15Name,Kiwisommer-ramme
+TeamsEmblemFrame15ShortName,Kiwisommer-ramme
+TeamsEmblemFrame15Description,"Sandaler, kiwi og pōhutukawa-blomster. Et utsøkt valg for et utsøkt lag."
+TeamsEmblemIcon17Name,Kaninens år-ikon
+TeamsEmblemIcon17ShortName,Kaninens år-ikon
+TeamsEmblemIcon17Description,Et Kaninens år-ikon for de årvåkne og målbevisste lagene der ute.
+TeamsEmblemIcon18Name,Summende bie-ikon
+TeamsEmblemIcon18ShortName,Summende bie-ikon
+TeamsEmblemIcon18Description,Laget ditt vil sikre seg seier med dette Summende bie-ikonet.
+BasePropCosyBeanbagMonkeyName,Koselig saccosekk-ape
+BasePropCosyBeanbagMonkeyShortName,Koselig saccosekk-ape
+BasePropCosyBeanbagMonkeyDescription,Saccosekken. Det ultimate symbolet på avslapning. Inkluderer en ape som slapper av! [øyfelt]
+RetryLastRoundDescriptionText,Vil du prøve på nytt fra forrige runde med lagrede liv og penger?
+PlayOffline,Spill i frakoblet modus
+DarkDungeonsStatueName,Fangehullsstatue
+DarkDungeonsStatueActivate,Aktiver statue: ${0}
+DarkDungeonsStatueLevelUp,Nivå {0}\n${1}
+BossHPIncreased,Sjefens helse ble økt
+BossHPDecreased,Sjefens helse ble redusert
+BossSpeedIncreased,Sjefens hastighet ble økt
+BossSpeedDecreased,Sjefens hastighet ble redusert
+BossHealth,Sjefens helse
+BossSpeed,Sjefens hastighet
+EnterNewName,Oppgi nytt navn

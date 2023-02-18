@@ -232,7 +232,7 @@ ObynGreenfoot Level 20 Description,Wall of Trees can hold a lot more Bloons.
 ,
 Ezili Level 1 Description,Ezili curses Bloons with dark voodoo power.
 Ezili Level 2 Description,Increased attack range.
-Ezili Level 3 Description,"Heartstopper: slows Bloons, allows Purple popping and prevents any regrow from happening for 10 seconds."
+Ezili Level 3 Description,"Heartstopper: allows Purple popping and prevents any regrow from happening for 10 seconds."
 Ezili Level 4 Description,Ezili's main attack now curses multiple Bloons.
 Ezili Level 5 Description,Increased attack speed.
 Ezili Level 6 Description,Damage over time lasts longer and damages faster.
@@ -589,7 +589,7 @@ Banana Plantation,Banana Plantation
 Monkey Bank,Monkey Bank
 Marketplace,Marketplace
 Banana Research Facility,Banana Research Facility
-IMF loan,IMF loan
+IMF loan,IMF Loan
 Central Market,Central Market
 Banana Central,Banana Central
 Monkey-Nomics,Monkey-Nomics
@@ -779,7 +779,7 @@ Glue Hose Description,Shoots glue 3x as fast!
 MOAB Glue Description,Improved glue formula allows it to stick to MOAB-Class Bloons.
 Bloon Liquefier Description,Applies liquifying compounds that do 10 pops every second.
 Glue Strike Description,"Glue Strike Ability: Glues all Bloons on screen, causing them to take more damage from all sources while it lasts"
-Relentless Glue Description,Popped Bloons that were glued leave a blob of glue on the track.
+Relentless Glue Description,Popped Bloons that were glued stun nearby Bloons.
 The Bloon Solver Description,Bloons a problem? Here's the solution.
 Glue Storm Description,Glue Storm ability pelts the whole screen over 15 seconds with glue. Glued Bloons take extra damage while glued.
 Super Glue Description,Glue so strong it temporarily immobilizes all affected Bloons!
@@ -819,7 +819,7 @@ Sub Commander Description,Adds extra pierce and damage to Commander and all Subs
 Buccaneer-Faster Shooting Description,All weapons on board shoot faster.
 Buccaneer-Grape Shot Description,Adds a spray of 5 sharpened grapes to the ship.
 Buccaneer-Long Range Description,Much longer range and projectiles fly faster.
-Buccaneer-Double Shot Description,Doubles ship weapons fired.
+Buccaneer-Double Shot Description,Increases ship weapons fired.
 Buccaneer-Hot Shot Description,Burning hot grape shot can pop Lead Bloons and set Bloons on fire.
 Buccaneer-Crow's Nest Description,Allows the ship to hit Camo Bloons.
 Buccaneer-Destroyer Description,Attacks super duper fast!
@@ -829,7 +829,7 @@ Buccaneer-Aircraft Carrier Description,Launches waves of fighter planes that str
 Buccaneer-Monkey Pirates Description,Adds 2 cannons to the ship and attacks do more damage. MOAB Takedown Ability: harpoons a MOAB class Bloon and brings it down.
 Buccaneer-Favored Trades Description,Attacks faster and generates lots of money per round. Monkeys in radius have increased sell value.
 Buccaneer-Carrier Flagship Description,Does extra damage. Can place other Monkeys on the upper decks of the ship and increases attack speed of all water based Monkeys and Monkey Aces.
-Buccaneer-Pirate Lord Description,"Greatly increased attack speed for all attacks and can shoot 3 grappling hooks at once, plundering extra cash from each MOAB-class Bloon taken down."
+Buccaneer-Pirate Lord Description,"Greatly improved power and can shoot 3 grappling hooks at once, plundering extra cash from each MOAB-class Bloon taken down."
 Buccaneer-Trade Empire Description,"Generates more cash per round, increases cash earned by up to 20 other Merchantmen by the number of Merchantmen, and boosts all Merchantmen damage."
 ,
 Rapid Fire Description,Shoots faster than normal.
@@ -902,7 +902,7 @@ Fireball Description,Every few seconds casts an explosive fireball spell.
 Intense Magic Description,More powerful magic shots move faster and can pop more Bloons.
 Arcane Blast Description,"Bigger, more powerful magic blasts pop through 2 layers of Bloon."
 Wall of Fire Description,Creates a super hot wall of fire across the track to roast the Bloons as they pass.
-Monkey Sense Description,Allows the Wizard to hit Camo Bloons.
+Monkey Sense Description,Increases range slightly and allows the Wizard to hit Camo Bloons.
 Arcane Mastery Description,"Faster attacks with increased range, damage, and popping power."
 Dragon's Breath Description,Spews endless flames at nearby Bloons and enhances Fireball and Wall of Fire.
 Shimmer Description,Gains a dark magic attack that periodically reveals location of all nearby Camo Bloons permanently.
@@ -942,7 +942,7 @@ Bloonjitsu Description,Throws 5 shurikens at once!
 Bloon Sabotage Description,"Sabotage ability: Lasts 15 seconds. During the sabotage, all Bloons move at half speed. "
 Sticky Bomb Description,Throws powerful timed charges at MOAB-Class Bloons.
 Grandmaster Ninja Description,"Throws incredibly fast, 8 shurikens per shot!"
-Grand Saboteur Description,"Ability duration is longer, and MOAB-Class Bloons spawn with less health during the sabotage."
+Grand Saboteur Description,"Ability duration is longer, and MOAB-Class Bloons spawn with less health during the sabotage. Buffs all Shinobi."
 Master Bomber Description,One Monkey MOAB demolition machine.
 ,
 Larger Potions Description,Larger potions splash in a larger area.
@@ -987,11 +987,11 @@ Banana Plantation Description,Grows 16 Banana bunches per round.
 Monkey Bank Description,All money generated by this farm is now stored in the bank and earns 15% interest each round.
 Marketplace Description,Generates money each round and adds it to your total. No fuss.
 Banana Research Facility Description,Produces 5 large Banana crates every round worth $300 each.
-IMF loan Description,"IMF Loan ability: Gives you $10,000 but you have to pay it back over time."
+IMF loan Description,"IMF Loan ability: Gives you $9,000 but you have to pay it back over time."
 Central Market Description,Earns heaps of money each round and gives Merchantmen +10% income.
 Banana Central Description,You want Banana? We have Banana!
 Monkey-Nomics Description,For when you're too big to fail...
-Monkey Wall Street Description,Hub of Monkey trades earns colossal income and generates lives each round.
+Monkey Wall Street Description,Hub of Monkey trades earns colossal income, generates lives each round and collects income in radius.
 ,
 Sentry Gun Description,Creates temporary sentry guns and deploys them nearby.
 Larger Service Area Description,Shoots further and deploys sentries in a much larger area. Sentries have longer range.
@@ -1051,7 +1051,7 @@ Primary Training Description,"All Primary Monkeys in radius get more range, pier
 Monkey Intelligence Bureau Description,"The Bureau grants special Bloon popping knowledge, allowing nearby Monkeys to pop all Bloon types."
 Monkey Town Description,All Monkeys within the radius of the Monkey Town get extra cash per Bloon pop.
 Primary Mentoring Description,"All Primary Monkeys in radius get tier 1 upgrades for free, increased range and reduced ability cooldowns."
-Call to Arms Description,Call to Arms Ability: Gives nearby Monkeys +50% attack speed and pops for a short time.
+Call to Arms Description,Call to Arms Ability: Gives all Monkeys +50% attack speed and pops for a short time.
 Monkey City Description,"Increases influence radius, cash generation in radius, and gives you a free Dart Monkey every round."
 Primary Expertise Description,"Adds Mega Ballista attack, plus all Primary Monkeys in radius get more popping power, ability cooldowns reduced further and tier 1 and 2 upgrades for free. "
 Homeland Defense Description,Ability now increases attack speed and pops by 100% for all Monkeys for 20 seconds
@@ -1094,7 +1094,7 @@ Legend of the Night Ability,Legend of the Night
 Bloon Sabotage Ability,Sabotage
 Grand Saboteur Ability,Grand Saboteur
 Transforming Tonic Ability,Transforming Tonic
-IMF loan Ability,IMF loan
+IMF loan Ability,IMF Loan
 Monkey-Nomics Ability,Monkey-Nomics
 Overclock Ability,Overclock
 Spike Storm Ability,Spike Storm
@@ -1115,7 +1115,7 @@ Super Maelstrom Ability Description,Even more powerful Maelstrom ability and las
 Snowstorm Ability Description,Freezes all Bloons on screen for a short time.
 Absolute Zero Ability Description,Ability is so cold it freezes all Bloon types including cold immune and MOAB-Class.
 Glue Strike Ability Description,Glues all Bloons on screen.
-Glue Storm Ability Description,Glue Storm ability pelts the whole screen over 10 seconds with glue.
+Glue Storm Ability Description,Glue Storm ability pelts the whole screen over 15 seconds with glue.
 Supply Drop Ability Description,Drops a crate full of cash.
 Elite Sniper Ability Description,Supply drop gives much more cash.
 Elite Defender Ability Description,A lost life gives this Sniper 2x attack speed for a short time in retaliation.
@@ -1140,14 +1140,14 @@ Legend of the Night Ability Description,"We turn to him, when all hope is lost..
 Bloon Sabotage Ability Description,"Lasts 15 seconds. During the sabotage, all Bloons move at reduced speed. "
 Grand Saboteur Ability Description,"Ability duration is longer, and MOAB-Class Bloons spawn with less health during the sabotage."
 Transforming Tonic Ability Description,Farms nearby the Druid earn 50% more money for a short time.
-IMF loan Ability Description,"Gives you $10,000 but you have to pay it back over time."
+IMF loan Ability Description,"Gives you $9,000 but you have to pay it back over time."
 Monkey-Nomics Ability Description,For when you're too big to fail...
 Overclock Ability Description,Target Monkey becomes super powered for a short time.
 Spike Storm Ability Description,Shoots out a thick layer of spikes over the entire track.
 Carpet of Spikes Ability Description,"Sets a carpet of spikes over the whole track, every round."
 Magic Arcanum Ability Description,Creates a powerful Monkey whose abilities are based on Magic Monkeys nearby.
-Call to Arms Ability Description,Gives all Monkeys DOUBLE attack speed and pops for 10 seconds.
-Homeland Defense Ability Description,Ability affects ALL Monkeys and lasts for 15 seconds.
+Call to Arms Ability Description,Gives all Monkeys +50% attack speed and pops for 10 seconds.
+Homeland Defense Ability Description,Gives all Monkeys +100% attack speed and pops for 20 seconds.
 ,
 //Maps,
 TownCentre,Town Center
@@ -1824,7 +1824,7 @@ InsiderTradesDescription,Monkey Business discount increases by 2%.
 BiggerBanks,Bigger Banks
 BiggerBanksDescription,Monkey Banks can hold 2500 extra money.
 BackroomDeals,Backroom Deals
-BackroomDealsDescription,IMF Loan is increased to $12000 and repay rate is 40%.
+BackroomDealsDescription,IMF Loan grants $1000 more and repay rate is 40%.
 ThickerFoams,Thicker Foams
 ThickerFoamsDescription,Cleansing Foam can hit 3 more Bloons before expiring.
 BigTraps,Big Traps
@@ -2014,7 +2014,7 @@ Set Round Description,"Set the current players round. Please note, upon pressing
 Buy Insta Monkeys,Buy Insta Monkeys
 ,
 Mode Clicks,CHIMPS
-Mode DoubleMoabHealth,Double Hp MOABs
+Mode DoubleMoabHealth,Double HP MOABs
 Mode AlternateBloonsRounds,Alternate Bloons Rounds
 Mode Impoppable,Impoppable
 Mode HalfStartingCash,Half Starting Cash
@@ -2753,8 +2753,8 @@ DarkKnightDarkshift,[I] to Darkshift within range
 DarkChampionDarkshift,[I] to Darkshift to any valid location
 SmallTowersMode,Small Monkey Towers
 BigTowersMode,Big Monkey Towers
-UpdatePopupTitle,Update 34!
-UpdatePopupDescription,"Mega Holidays Update!\n• Battle against the awesome resistances and immunities of The Armored Behemoth, Dreadbloon!\n• Uncover the tower-buffing placements on the new Beginner map, One Two Tree!\n• Slay the Bloons in festive spirit with the new Captain Churchill skin, Sleigh Churchill!\n• Trophy store items, quality of life improvements, balance changes and much more!\n• Happy holidays and best wishes for a wonderful New Year, from all of us at Ninja Kiwi!"
+UpdatePopupTitle,Update 35!
+UpdatePopupDescription,"New Year, New Update!\n• Brave the shadowy chambers of the new Expert map, Dark Dungeons. Design by community map competition winner Lars_Overwick.\n• Run the Bloons out of town on the new Beginner map, Middle of the Road.\n• Treat some Bloons to a monstrous squeeze from the new Pat Fusty skin, Kaiju Pat!\n• Trophy store items, quality of life improvements, balance changes and much more!"
 ResetDailyChest,Reset Daily Chest
 JukeboxName,Jukebox
 EnableFunction,Enable
@@ -3700,10 +3700,10 @@ Psi,Psi
 Psi Short Description,Psionic Monkey
 Psi Description,"A gifted monkey child, Psi uses only the power of the mind to destroy Bloons from the inside out."
 Psi Level 1 Description,"Over any range or obstacle, Psi sets up deadly vibrations that completely destroy one Bloon at a time. Can target Camo."
-Psi Level 2 Description,Attacks slightly faster.
+Psi Level 2 Description,The psionic vibrations destroy Bloons faster than normal.
 Psi Level 3 Description,Psychic Blast: Psi unleashes a wave of power that stuns nearby Bloons for a long time.
 Psi Level 4 Description,Psi's attack can hit another Bloon if very close to the targeted Bloon.
-Psi Level 5 Description,The psionic vibrations destroy Bloons faster than normal.
+Psi Level 5 Description,Attacks slightly faster.
 Psi Level 6 Description,Psi's powerful mind can penetrate through Lead Bloons.
 Psi Level 7 Description,Psychic Blast pulses twice. Psi can now destroy Ceramic Bloons.
 Psi Level 8 Description,Destructive Resonance causes Bloons destroyed by Psi's main attack to damage other Bloons nearby.
@@ -4186,8 +4186,8 @@ GameUIProfileBanner8Description,Banner winner by Galaksyz
 GameUIProfileBanner9Name,Face The Sun Profile Banner
 GameUIProfileBanner9ShortName,Face The Sun Banner
 GameUIProfileBanner9Description,Banner winner by Bohrokki
-GameUIPowerSkinEnergisingTotemChristmasTreeName,Custom Power - Christmas Tree Energising Totem
-GameUIPowerSkinEnergisingTotemChristmasTreeShortName,Energised Christmas Tree
+GameUIPowerSkinEnergisingTotemChristmasTreeName,Custom Power - Christmas Tree Energizing Totem
+GameUIPowerSkinEnergisingTotemChristmasTreeShortName,Energized Christmas Tree
 GameUIPowerSkinEnergisingTotemChristmasTreeDescription,Keep your monkeys energized with this colorful Christmas Tree! Limited Time Collector's Item!
 GameUIPowerSkinDartTimeMatrixName,Custom Power - Dart Time Stop
 GameUIPowerSkinDartTimeMatrixShortName,Dart Time Stop
@@ -4343,7 +4343,7 @@ Geraldo Level 8 Description,"New Item! Bottle of 'Gerry's Fire' - 2.8 million Bl
 Geraldo Level 9 Description,New Item! Fertilizer - targeted Banana Farms that produce visible bananas increase production and get a cash bonus over several rounds. Geraldo's main attack blast radius increases.
 Geraldo Level 10 Description,New Item! Pet Rabbit - aww what a cute widdle bunny wabbit!
 Geraldo Level 11 Description,"New Item! Rejuv Potion - resets all Monkey Tower and Hero cooldowns, restores 50 lives. Geraldo's main attack pierce increases, and Jar of Pickles grants bonus damage vs. Fortified Bloons."
-Geraldo Level 12 Description,New Item! Genie Bottle - summons a plasma-powered Genie Monkey that lasts for 3 rounds. Creepy Idol can now apply an occasional short stun to passing visible MOAB-class Bloons.
+Geraldo Level 12 Description,New Item! Genie Bottle - summons a plasma-powered Genie Monkey that lasts for 2 rounds. Creepy Idol can now apply an occasional short stun to passing visible MOAB-class Bloons.
 Geraldo Level 13 Description,"Shooty Turret fires faster with increased damage, and Stack of Old Nails do more damage."
 Geraldo Level 14 Description,See Invisibility Potion grants additional range and lasts longer.
 Geraldo Level 15 Description,"Sharpening Stone now increases damage in addition to pierce, and Blade Trap creates a more powerful effect when triggered."
@@ -5307,9 +5307,6 @@ TowerProjectileNinjaMonkeySnowflakesDescription,Delicate snowflake\nThrown fast 
 BuildingPropChristmasTreeName,Christmas Tree Building
 BuildingPropChristmasTreeShortName,Christmas Tree Building
 BuildingPropChristmasTreeDescription,Change your Base into a tree!? Where will the monkeys live? Wait... nevermind.\nGet your team in a festive mood with this Christmas Tree base. [Main Building Slot]
-BasePropCosyBeanbagMonkeyName,Cozy Beanbag Monkey
-BasePropCosyBeanbagMonkeyShortName,Cozy Beanbag Monkey
-BasePropCosyBeanbagMonkeyDescription,The Beanbag. Ultimate symbol of relaxation. Includes a relaxing monkey! [Island Slot]
 TeamsBanner9Name,Delicate Snowflake Banner
 TeamsBanner9ShortName,Delicate Snowflake Banner
 TeamsBanner9Description,"The simple complexity of a snowflake is perfection, just like your team."
@@ -5328,12 +5325,8 @@ TeamsEmblemIcon15Description,Support your Team's claim to the dart throne.
 TeamsEmblemIcon16Name,Alien Icon
 TeamsEmblemIcon16ShortName,Alien Icon
 TeamsEmblemIcon16Description,An icon for when your Team is out of this world!
-Achievement 146 Name,Side Quest
-Achievement 146 Description,Complete a quest
 Achievement 147 Name,Invigoration
 Achievement 147 Description,Have 75 buffs active on your Monkeys at once
-Achievement 148 Name,World League Training
-Achievement 148 Description,"Acquire 150,000 Beast Handler XP"
 CompleteQuestMessage,Complete Quest
 QuestUnlocksAtLevelXMessage,Quest Unlocks<br>Level {0}
 QuestComplete,Quest Complete!
@@ -5355,9 +5348,8 @@ DialogBeastHandlerQuest1InGame2,Help them learn everything there is to know abou
 DialogBeastHandlerQuest2UI1,Amazing! The Beast Handlers work with vicious beasts as if they were pets. And they figured out how to combine and strengthen them by working together.
 DialogBeastHandlerQuest2UI2,"I don't understand the biology, but combinations are definitely more powerful. They've led the Beast Handlers to another egg."
 DialogBeastHandlerQuest2UI3,I can't wait to see what they've found!
-DialogBeastHandlerQuest3UI1,"So crafty to train such fearsome water beasts to help fight the Bloons on water, and to find hidden watery treasures, like the 3rd egg."
+DialogBeastHandlerQuest3UI1,"So crafty to train such fearsome water beasts to help fight the Bloons on water, and to find hidden watery treasures, like the third egg."
 DialogBeastHandlerQuest3UI2,"Once you help the Beast Handlers tame the third beast, they'll be able to join the team!"
-,
 RemoveProviderFromAccount,Are you sure you want to remove this provider from your account? <br><br><b>It can take up to 3 hours for the provider to be removed from the account</b>
 ProviderRemovedText,Provider Removed.<br><br>This page will close shortly
 AdditionalAccountLinks,Additional Account Links
@@ -5370,8 +5362,75 @@ CoopGameSyncFailed,Failed syncing game settings. Please try a new game.
 iCloudTitle,iCloud
 iCloudDisabled,iCloud Disabled
 iCloudEnabled,iCloud Enabled
-,
 DialogBeastHandlerQuest1InGameTowerUpgrade1,"Wow, that beast is so strong, it's taking TWO Beast Handlers to keep it under control!"
 Buffed,BUFFED
 Assisting,Assisting
 Select Point On Track,Select Point On Track
+Gamercard,Gamer card
+ControllerDisconnected,Controller disconnected. Please reconnect and try again.
+Select Point In Range,Select Point In Range
+PlayerStatsBossesPopped,Bosses Popped
+PlayerStatsDamageDoneToBosses,Damage Done To Bosses
+DarkDungeons,Dark Dungeons
+MiddleOfTheRoad,Middle of the Road
+Achievement 146 Name,Side Quest
+Achievement 146 Description,Complete a quest
+Achievement 148 Name,World League Training
+Achievement 148 Description,"Acquire 150,000 Beast Handler XP"
+KaijuPatFustySkinName,Kaiju Pat Skin
+KaijuPatFustySkinNameFull,Kaiju Pat
+KaijuPatFustySkinDescription,"A strange beast, but ferociously good natured."
+HeroesStrikerJonesBikerBonesPlacementHellriftName,Biker Bones Infernal Rift Place & Upgrade
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,Biker Bones Infernal Rift
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,"Grab this Infernal Rift effect and watch Biker Bones ride into battle on his iron steed, pulling a sick burnout with every upgrade. Biker Bones only."
+TowerPetSniperMonkeyChameleonName,Sniper Monkey Chameleon Pet
+TowerPetSniperMonkeyChameleonShortName,Sniper Chameleon Pet
+TowerPetSniperMonkeyChameleonDescription,"Lying in wait, perfectly camouflaged amongst the foliage. A fly floats past and WHAM! A tongue shoots out to grab it. No, it’s not the Sniper Monkey, it’s the Sniper Monkey’s pet chameleon!"
+GameUIProfileAvatar69Name,Custom Avatar - Bloonarius
+GameUIProfileAvatar69ShortName,Bloonarius Avatar
+GameUIProfileAvatar69Description,"Bloonarius the Inflator, awakening from its bubbling swamp."
+GameUIProfileAvatar70Name,Custom Avatar - Studious Patch
+GameUIProfileAvatar70ShortName,Studious Patch
+GameUIProfileAvatar70Description,"While Patch always stays up to date with the latest news and science of the monkey world, sometimes she just likes to sit down with a good book. "
+GameUIProfileAvatar71Name,Custom Avatar - Just A Little Monkey
+GameUIProfileAvatar71ShortName,Just A Little Monkey Avatar
+GameUIProfileAvatar71Description,Look at those eyes. What do the Bloons even want? It's just a little monkey.
+GameUIProfileAvatar72Name,Custom Avatar - Happy Banana Farmer
+GameUIProfileAvatar72ShortName,Happy Banana Farmer Avatar
+GameUIProfileAvatar72Description,"What does a Banana Farmer like more than wearing a banana costume? Swimming in a pool of bananas, among crates full of bananas, while wearing a banana costume."
+GameUIProfileBanner26Name,Glue Storm Profile Banner
+GameUIProfileBanner26ShortName,Glue Storm Banner
+GameUIProfileBanner26Description,"When a Glue Storm blocks out the sun, equip this banner in the shade."
+GameUIProfileBanner27Name,Wizard Lord Phoenix Profile Banner
+GameUIProfileBanner27ShortName,Wizard Lord Phoenix Banner
+GameUIProfileBanner27Description,Banner winner by Flipp_Flopps
+GameUIProfileBanner28Name,Farm Chicken Profile Banner
+GameUIProfileBanner28ShortName,Farm Chicken Banner
+GameUIProfileBanner28Description,Banner winner by WhereThighs
+TeamsEmblemFrame14Name,Year of the Rabbit Frame
+TeamsEmblemFrame14ShortName,Year of the Rabbit Frame
+TeamsEmblemFrame14Description,Set your Team up for peace and prosperity with this Year of the Rabbit frame.
+TeamsEmblemFrame15Name,Kiwi Summer Frame
+TeamsEmblemFrame15ShortName,Kiwi Summer Frame
+TeamsEmblemFrame15Description,"Jandals, kiwifruit and Pōhutukawa flowers. A choice frame for a choice Team."
+TeamsEmblemIcon17Name,Year of the Rabbit Icon
+TeamsEmblemIcon17ShortName,Year of the Rabbit Icon
+TeamsEmblemIcon17Description,"A Year of the Rabbit icon, for the vigilant and determined Teams out there."
+TeamsEmblemIcon18Name,Buzzy Bee Icon
+TeamsEmblemIcon18ShortName,Buzzy Bee Icon
+TeamsEmblemIcon18Description,Your Team will clickety clack its way to victory with this Buzzy Bee icon.
+BasePropCosyBeanbagMonkeyName,Cozy Beanbag Monkey
+BasePropCosyBeanbagMonkeyShortName,Cozy Beanbag Monkey
+BasePropCosyBeanbagMonkeyDescription,The Beanbag. Ultimate symbol of relaxation. Includes a relaxing monkey! [Island Slot]
+RetryLastRoundDescriptionText,Retry from last round with saved lives and cash?
+PlayOffline,Play Offline
+DarkDungeonsStatueName,Dungeon Statue
+DarkDungeonsStatueActivate,Activate Statue: ${0}
+DarkDungeonsStatueLevelUp,Level {0}\n${1}
+BossHPIncreased,Boss Health Increased
+BossHPDecreased,Boss Health Decreased
+BossSpeedIncreased,Boss Speed Increased
+BossSpeedDecreased,Boss Speed Decreased
+BossHealth,Boss Health
+BossSpeed,Boss Speed
+EnterNewName,Enter new name

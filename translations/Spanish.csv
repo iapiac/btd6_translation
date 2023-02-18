@@ -232,7 +232,7 @@ ObynGreenfoot Level 20 Description,Pared de árboles puede contener muchos más 
 ,
 Ezili Level 1 Description,Ezili maldice a los bloons con poder vudú oscuro.
 Ezili Level 2 Description,Alcance de ataque aumentado.
-Ezili Level 3 Description,"Infartador: lentifica a los bloons, permite reventar morados e impide cualquier regeneración durante 10 segundos."
+Ezili Level 3 Description,Infartador: permite reventar morados e impide cualquier regeneración durante 10 segundos.
 Ezili Level 4 Description,El ataque principal de Ezili ahora maldice a varios bloons.
 Ezili Level 5 Description,Velocidad de ataque aumentada.
 Ezili Level 6 Description,El daño por tiempo dura más y daña más rápido.
@@ -819,7 +819,7 @@ Sub Commander Description,Otorga perforación y daño adicional al comandante y 
 Buccaneer-Faster Shooting Description,Todas las armas a bordo disparan más rápido.
 Buccaneer-Grape Shot Description,Agrega una ráfaga de 5 uvas afiladas al barco.
 Buccaneer-Long Range Description,Alcance mucho más grande y mayor velocidad de proyectiles.
-Buccaneer-Double Shot Description,Duplica el doble de armas que dispara el barco.
+Buccaneer-Double Shot Description,Aumenta las armas que dispara el barco.
 Buccaneer-Hot Shot Description,Metralla de uvas muy calientes que puede reventar bloons emplomados e incendiar bloons.
 Buccaneer-Crow's Nest Description,Permite que el barco ataque a los camufloons.
 Buccaneer-Destroyer Description,¡Ataca supermegarrápido!
@@ -829,7 +829,7 @@ Buccaneer-Aircraft Carrier Description,Lanza olas de aviones caza que bombardean
 Buccaneer-Monkey Pirates Description,Agrega 2 cañones a la nave y los ataques hacen más daño. Habilidad Derribador de MOAB: Arponea a un Bloon clase MOAB y lo derriba.
 Buccaneer-Favored Trades Description,Ataca más rápido y genera muchísimo dinero por ronda. Los monos en el radio tienen un valor de venta aumentado.
 Buccaneer-Carrier Flagship Description,Hace daño extra. Puede poner a otros Monos en los niveles superiores de la nave y aumenta la velocidad de ataque de todos los Monos acuáticos y Monos Ases.
-Buccaneer-Pirate Lord Description,Aumenta mucho la velocidad de todos los ataques y puede disparar 3 ganchos a la vez y saquear más dinero de cada bloon clase MOAB que derriba.
+Buccaneer-Pirate Lord Description,Aumenta mucho la potencia y puede disparar 3 ganchos a la vez y saquear más dinero de cada bloon clase MOAB que derriba.
 Buccaneer-Trade Empire Description,Genera más dinero por ronda. Aumenta el dinero que ganan hasta otros 20 buques mercantes según la cantidad que haya y potencia el daño de todos ellos.
 ,
 Rapid Fire Description,Dispara más rápido de lo normal.
@@ -902,7 +902,7 @@ Fireball Description,"Cada varios segundos, lanza una bola de fuego explosiva."
 Intense Magic Description,Estos disparos mágicos más poderosos se mueven más rápido y revientan más bloons.
 Arcane Blast Description,Estallidos mágicos más grandes y más poderosos que atraviesan 2 capas de bloons.
 Wall of Fire Description,Crea una pared de fuego supercaliente en el camino que cocina a los bloons que la cruzan.
-Monkey Sense Description,Permite que el hechicero ataque a los Camufloons.
+Monkey Sense Description,Aumenta un poco el alcance y permite que el hechicero ataque a los Camufloons.
 Arcane Mastery Description,"Ataques más rápidos y con más alcance, daño y poder reventador."
 Dragon's Breath Description,Arroja llamas interminables a los bloons cercanos y mejora Bola de fuego y Pared de fuego.
 Shimmer Description,Gana un ataque de magia oscura que revela la ubicación de todos los camufloons cercanos de forma permanente cada tanto.
@@ -942,7 +942,7 @@ Bloonjitsu Description,¡Lanza 5 shuriken a la vez!
 Bloon Sabotage Description,"Habilidad Sabotaje: dura 15 segundos. Durante el sabotaje, todos los bloons se mueven la mitad de rápido.  "
 Sticky Bomb Description,Lanza bombas de tiempo poderosas a los bloons clase MOAB.
 Grandmaster Ninja Description,"Lanza a una velocidad increíble, 8 shuriken por tiro."
-Grand Saboteur Description,La habilidad dura más tiempo y los bloons clase MOAB se generan con menos vida durante el sabotaje.
+Grand Saboteur Description,La habilidad dura más tiempo y los bloons clase MOAB se generan con menos vida durante el sabotaje. Potencia a todos los shinobi.
 Master Bomber Description,Un mono que es una máquina de demolición de MOAB.
 ,
 Larger Potions Description,Las pociones más grandes afectan un área más grande.
@@ -987,11 +987,11 @@ Banana Plantation Description,Hace crecer 16 racimos de bananas por ronda.
 Monkey Bank Description,Todo el dinero generado por este platanal ahora se guarda en el banco y gana un 15 % de interés en cada ronda.
 Marketplace Description,Genera dinero en cada ronda y lo suma a tu total. Sin complicaciones.
 Banana Research Facility Description,Produce 5 cajas grandes de bananas en cada ronda que valen $300 cada una.
-IMF loan Description,"Habilidad Préstamo del FMI: te da $10 000, pero tienes que devolverlos de a poco."
+IMF loan Description,"Habilidad Préstamo del FMI: te da $9 000, pero tienes que devolverlos de a poco."
 Central Market Description,Gana grandes sumas de dinero en cada ronda y da +10 % de ingresos a los buques mercantes.
 Banana Central Description,¿Quieres bananas? ¡Tenemos bananas!
 Monkey-Nomics Description,Para cuando eres demasiado grande para quebrar...
-Monkey Wall Street Description,Las negociaciones del centro de monos ganan ingresos colosales y generan vidas en cada ronda.
+Monkey Wall Street Description,"Las negociaciones del centro de monos ganan ingresos colosales, generan vidas en cada ronda y reciben ingresos en el radio."
 ,
 Sentry Gun Description,Crea armas centinelas temporales y las despliega cerca.
 Larger Service Area Description,Dispara más lejos y despliega centinelas en un área mucho más grande. Los centinelas tienen más alcance.
@@ -1007,7 +1007,7 @@ Overclock Description,Habilidad Sobreaceleración: ataca a otra torre para aumen
 Bloon Trap Description,La trampa para bloons los captura hasta llenarse. Selecciona una trampa llena para vaciarla a cambio de dinero.
 Sentry Paragon Description,Crea centinelas superpoderosos y muy inestables.
 Ultraboost Description,Los monos sobreacelerados reciben un incremento pequeño y permanente cada vez que reciben sobreaceleración.
-XXXL Trap Description,Las trampas de bloons enormes pueden atrapar algunos de los bloons más grandes…
+XXXL Trap Description,Las trampas de bloons enormes pueden atrapar algunos de los bloons más grandes
 ,
 Bigger Stacks Description,Crea pilas de clavos más grandes por disparo.
 Faster Production Description,Aumenta el ritmo de producción muy rápido.
@@ -1051,7 +1051,7 @@ Primary Training Description,"Todos los monos primarios en el radio reciben más
 Monkey Intelligence Bureau Description,La agencia otorga conocimientos especiales que permiten que los monos cercanos revienten todo tipo de bloons.
 Monkey Town Description,Todos los monos dentro del radio del pueblo moneril otorgan más dinero por cada bloon que revientas.
 Primary Mentoring Description,"Todos los Monos Primarios en el radio reciben mejoras de grado 1 gratis, alcance aumentado y una reducción a los tiempos de recuperación de habilidades."
-Call to Arms Description,Habilidad A las Armas: otorga a los Monos cercanos +50 % de velocidad de ataque y reventadas durante un tiempo corto.
+Call to Arms Description,Habilidad A las Armas: otorga a todos los Monos +50 % de velocidad de ataque y reventadas durante un tiempo corto.
 Monkey City Description,"Aumenta el radio de influencia y la regeneración de dinero, y te da un mono dardero gratis en cada ronda."
 Primary Expertise Description,"Agrega el ataque de Megabalista. Además, todos los Monos Primarios en el radio reciben más poder reventador, más reducción de tiempos de recuperación de habilidades y mejoras de grados 1 y 2 gratis."
 Homeland Defense Description,La habilidad ahora aumenta la velocidad de ataque y de reventadas en un 100 % para todos los Monos durante 20 segundos.
@@ -1115,7 +1115,7 @@ Super Maelstrom Ability Description,La habilidad vorágine es aún más poderosa
 Snowstorm Ability Description,Congela a todos los bloons en pantalla por poco tiempo.
 Absolute Zero Ability Description,"La habilidad es tan fría que congela a todos los tipos de bloons, incluidos los inmunes al frío y los clase MOAB."
 Glue Strike Ability Description,Pega a todos los bloons en pantalla.
-Glue Storm Ability Description,La habilidad Tormenta de pegamento baña de pegamento la pantalla entera durante 10 segundos.
+Glue Storm Ability Description,La habilidad Tormenta de pegamento baña de pegamento la pantalla entera durante 15 segundos.
 Supply Drop Ability Description,Suelta una caja llena de dinero.
 Elite Sniper Ability Description,Entrega de provisiones da mucho más dinero.
 Elite Defender Ability Description,Una vida perdida duplica la velocidad de ataque de este francotirador por poco tiempo.
@@ -1140,14 +1140,14 @@ Legend of the Night Ability Description,Recurrimos a él cuando se pierde toda e
 Bloon Sabotage Ability Description,"Durante el sabotaje, todos los Bloons se mueven más lento."
 Grand Saboteur Ability Description,La habilidad dura más tiempo y los bloons clase MOAB se generan con menos vida durante el sabotaje.
 Transforming Tonic Ability Description,Los bananales cercanos al Druida ganan un 50 % más de dinero por poco tiempo.
-IMF loan Ability Description,Te da $10 000 pero tienes que devolverlos de a poco.
+IMF loan Ability Description,"Te da $9 000, pero tienes que devolverlos de a poco."
 Monkey-Nomics Ability Description,Para cuando eres demasiado grande para quebrar...
 Overclock Ability Description,El mono afectado se vuelve superpoderoso durante un tiempo corto.
 Spike Storm Ability Description,Dispara una capa gruesa de clavos sobre todo el camino.
 Carpet of Spikes Ability Description,Extiende una alfombra de clavos en todo el camino en cada ronda.
 Magic Arcanum Ability Description,Crea un mono poderoso cuyas habilidades se basan en los monos mágicos que tiene cerca.
-Call to Arms Ability Description,Otorga el DOBLE de velocidad de ataque y capacidad de reventar bloons durante 10 segundos a todos los monos cercanos.
-Homeland Defense Ability Description,La habilidad afecta a TODOS los monos y dura 15 segundos.
+Call to Arms Ability Description,Otorga +50 % de velocidad de ataque y reventadas durante 10 segundos a todos los monos.
+Homeland Defense Ability Description,Otorga +100 % de velocidad de ataque y reventadas durante 20 segundos a todos los monos.
 ,
 //Maps,
 TownCentre,Centro del pueblo
@@ -1824,7 +1824,7 @@ InsiderTradesDescription,El descuento de Negocios moneriles aumenta en 2 %.
 BiggerBanks,Bancos más grandes
 BiggerBanksDescription,Los bancos moneriles pueden guardar 2500 mónares más.
 BackroomDeals,Acuerdos clandestinos
-BackroomDealsDescription,Préstamo del FMI aumenta a $12 000 y la tasa de devolución es del 40 %.
+BackroomDealsDescription,Préstamo del FMI otorga $1000 más y la tasa de devolución es del 40 %.
 ThickerFoams,Espuma más espesa
 ThickerFoamsDescription,Espuma limpiadora puede alcanzar a 3 bloons más antes de expirar.
 BigTraps,Trampas grandes
@@ -2753,8 +2753,8 @@ DarkKnightDarkshift,[I] para usar Desvío oscuro dentro del alcance
 DarkChampionDarkshift,[I] para usar Desvío oscuro a cualquier ubicación válida
 SmallTowersMode,Torres moneriles pequeñas
 BigTowersMode,Torres moneriles grandes
-UpdatePopupTitle,¡Actualización 34!
-UpdatePopupDescription,"¡Gran actualización para las fiestas!\n• Lucha contra las resistencias e inmunidades impresionantes del leviatán blindado, el bloon acorazado.\n• Descubre las colocaciones para potenciar las torres en el mapa nuevo para principiantes Uno, dos, tres.\n• Elimina bloons con espíritu festivo gracias al aspecto nuevo Churchill con trineo.\n• Objetos de la tienda de trofeos, mejoras de calidad, cambios de equilibrio y mucho más.\n• ¡Felices fiestas y los mejores deseos de Año Nuevo de todo el equipo de Ninja Kiwi!"
+UpdatePopupTitle,¡Actualización 35!
+UpdatePopupDescription,"¡Año nuevo, actualización nueva!\n Desafía los rincones sombríos del nuevo mapa para expertos, Calabozos oscuros. Diseñado por el ganador de la competencia de mapas de la compunidad Lars_Overwick.\n Echa a los bloons de la ciudad con el nuevo mapa para principiantes, Medio del camino.\n Dales un apretón monstruoso a los bloons con el nuevo aspecto de Pat Fusty, Pat kaiju\n Objetos de la tienda de trofeos, mejoras de calidad, cambios de equilibrio y más."
 ResetDailyChest,Restablecer cofre diario
 JukeboxName,Rocola
 EnableFunction,Habilitar
@@ -3700,10 +3700,10 @@ Psi,Psi
 Psi Short Description,Mono psiónico
 Psi Description,Psi nació con dones especiales y usa el poder de la mente para destruir a los bloons desde adentro.
 Psi Level 1 Description,Psi nació con dones especiales y usa el poder de la mente para destruir a los bloons desde adentro. Ataca a los camuflados.
-Psi Level 2 Description,Ataca un poco más rápido.
+Psi Level 2 Description,Las vibraciones psiónicas destruyen bloons más rápido de lo normal.
 Psi Level 3 Description,Estallido psíquico: Psi lanza una oleada de energía que aturde a los bloons cercanos durante mucho tiempo.
 Psi Level 4 Description,El ataque de Psi golpea a otro bloon si está muy cerca del objetivo.
-Psi Level 5 Description,Las vibraciones psiónicas destruyen bloons más rápido de lo normal.
+Psi Level 5 Description,Ataca un poco más rápido.
 Psi Level 6 Description,La mente poderosa de Psi atraviesa a los bloons emplumados.
 Psi Level 7 Description,Estallido psíquico tiene dos pulsos y Psi puede destruir bloons cerámicos.
 Psi Level 8 Description,Resonancia destructiva hace que los bloons eliminados por el ataque principal de Psi dañen a otros cercanos.
@@ -4343,7 +4343,7 @@ Geraldo Level 8 Description,"¡Objeto nuevo! Botella de Llamarada Geri: salsa hi
 Geraldo Level 9 Description,¡Objeto nuevo! Fertilizante. Los bananales afectados que producen bananas visibles aumentan la producción y reciben más dinero durante varias rondas. Aumenta el radio de alcance del ataque principal de Geraldo.
 Geraldo Level 10 Description,"¡Objeto nuevo! Conejo mascota. Aaah, qué ternura."
 Geraldo Level 11 Description,¡Objeto nuevo! Poción regeneradora que restablece las recuperaciones de torres moneriles y héroes y restaura 50 vidas. Aumenta la perforación del ataque principal de Geraldo y Frasco de encurtidos hace más daño contra bloons fortificados.
-Geraldo Level 12 Description,¡Objeto nuevo! Lámpara de genio para invocar a un mono genio con poderes de plasma que dura 3 rondas. Ídolo aterrador ahora aplica un aturdimiento adicional a los bloons clase MOAB visibles.
+Geraldo Level 12 Description,¡Objeto nuevo! Lámpara de genio para invocar a un mono genio con poderes de plasma que dura 2 rondas. Ídolo aterrador ahora aplica un aturdimiento adicional a los bloons clase MOAB visibles.
 Geraldo Level 13 Description,Torreta tiradora dispara más rápido y hace más daño. Montón de clavos viejos hace más daño.
 Geraldo Level 14 Description,Poción de visibilidad otorga más alcance y dura más.
 Geraldo Level 15 Description,Piedra de afilar aumenta el daño además de la perforación y Trampa cortante crea un efecto más potente cuando se activa.
@@ -4768,7 +4768,7 @@ RelicPrimaryPrimatesDescription,Reduce el costo de todos los monos primarios en 
 RelicMilitaryMonkeysDescription,Reduce el costo de todos los monos militares en un 8 %
 RelicMagicMonkeysDescription,Reduce el costo de todos los monos mágicos en un 8 %
 RelicSupportSimiansDescription,Reduce el costo de todos los monos de refuerzo en un 10 %
-RelicMonkeyTycoonDescription,Obtienes +1 en todas las torres de monos de tu arsenal y su precio de base se reduce en un 4 %.
+RelicMonkeyTycoonDescription,Obtienes +1 en todas las torres de monos de tu arsenal y su precio de base se reduce en un 54 %.
 InviteToTeam,Invitar al equipo
 TeamLeave,Abandonar equipo
 Requests,Solicitudes
@@ -5255,6 +5255,11 @@ Move,Mover
 NeedsBeastHandlers,Requiere bestia
 NeedsWater,Necesita agua
 NeedsTrack,Necesita camino
+Buffed,POTENCIADA
+Assisting,Asistencia
+Select Point On Track,Selecciona un punto en la pista
+Select Point In Range,Selecciona un punto al alcance
+,
 Dreadbloon,Bloon acorazado
 DreadbloonTagLine,Desde lo profundo de la tierra oscura...
 DreadbloonTagLine2,¡Llega el leviatán blindado!
@@ -5370,7 +5375,71 @@ CoopGameSyncFailed,No se pudo sincronizar la configuración. Inténtalo en una p
 iCloudTitle,iCloud
 iCloudDisabled,iCloud desactivada
 iCloudEnabled,iCloud activada
-DialogBeastHandlerQuest1InGameTowerUpgrade1,"¡Vaya, esa bestia es tan fuerte que se necesitan DOS adiestradores de bestias para mantenerla bajo control!"
-Buffed,Fortificado
-Assisting,Asistiendo
-Select Point On Track,Seleccione un punto en la pista
+,
+Gamercard,Gamer card
+ControllerDisconnected,Control desconectado. Conéctalo otra vez y reintenta.
+PlayerStatsBossesPopped,Jefes reventados
+PlayerStatsDamageDoneToBosses,Daño causado a jefes
+DarkDungeons,Calabozos oscuros
+MiddleOfTheRoad,Medio del camino
+Achievement 146 Name,Misión secundaria
+Achievement 146 Description,Completa una misión
+Achievement 148 Name,Entrenamiento mundial
+Achievement 148 Description,Adquiere 150 000 PE de domador
+KaijuPatFustySkinName,Aspecto de Pat kaiju
+KaijuPatFustySkinNameFull,Pat kaiju
+KaijuPatFustySkinDescription,"Una bestia extraña, pero de buen corazón y feroz."
+HeroesStrikerJonesBikerBonesPlacementHellriftName,Ubicación y mejora de fisura infernal de Biker Bones
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,Fisura infernal de Biker Bones
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,Consigue este efecto y verás cómo Biker Bones se lanza a la batalla en su corcel de acero e incinera todo en cada mejora. Solo para Biker Bones.
+TowerPetSniperMonkeyChameleonName,Camaleón mascota de mono francotirador
+TowerPetSniperMonkeyChameleonShortName,Camaleón mascota de francotirador
+TowerPetSniperMonkeyChameleonDescription,"Espera camuflado por completo entre el follaje. Pasa una mosca y ¡pum! Se asoma una lengua que la atrapa. No, no es el mono francotirador, es su camaleón mascota."
+GameUIProfileAvatar69Name,Avatar personalizado: Bloonarius
+GameUIProfileAvatar69ShortName,Avatar de Bloonarius
+GameUIProfileAvatar69Description,Bloonarius el inflador despierta en el pantano burbujeante.
+GameUIProfileAvatar70Name,Avatar personalizado: Patch estudiosa
+GameUIProfileAvatar70ShortName,Patch estudiosa
+GameUIProfileAvatar70Description,"Aunque Patch siempre está al tanto de las últimas noticias científicas del mundo moneril, a veces le encanta sentarse a leer un buen libro. "
+GameUIProfileAvatar71Name,Avatar personalizado: un monito
+GameUIProfileAvatar71ShortName,Avatar de un monito
+GameUIProfileAvatar71Description,Mira esos ojos. ¿Qué quieren los bloons? Es solo un monito.
+GameUIProfileAvatar72Name,Avatar personalizado: bananero feliz
+GameUIProfileAvatar72ShortName,Avatar de bananero feliz
+GameUIProfileAvatar72Description,¿Qué disfruta un bananero más que usar un disfraz de banana? Nadar en una piscina de bananas entre cajas llenas de bananas y con un disfraz de banana.
+GameUIProfileBanner26Name,Banderola de perfil de tormenta de pegamento
+GameUIProfileBanner26ShortName,Banderola de tormenta de pegamento
+GameUIProfileBanner26Description,"Cuando una tormenta de pegamento tapa el sol, usa esta banderola a la sombra."
+GameUIProfileBanner27Name,Banderola de perfil de amo hechicero fénix
+GameUIProfileBanner27ShortName,Banderola de amo hechicero fénix
+GameUIProfileBanner27Description,Banderola ganadora de Flipp_Flopps
+GameUIProfileBanner28Name,Banderola de perfil de pollo de granja
+GameUIProfileBanner28ShortName,Banderola de pollo de granja
+GameUIProfileBanner28Description,Banderola ganadora de WhereThighs
+TeamsEmblemFrame14Name,Marco del año del conejo
+TeamsEmblemFrame14ShortName,Marco del año del conejo
+TeamsEmblemFrame14Description,Prepara al equipo para la paz y la prosperidad con esta banderola del año del conejo.
+TeamsEmblemFrame15Name,Marco de verano kiwi
+TeamsEmblemFrame15ShortName,Marco de verano kiwi
+TeamsEmblemFrame15Description,"Chinelas, kiwis y flores de pohutukawa. Un marco ideal para un equipo ideal."
+TeamsEmblemIcon17Name,Ícono del año del conejo
+TeamsEmblemIcon17ShortName,Ícono del año del conejo
+TeamsEmblemIcon17Description,"Ícono del año del conejo, para los equipos decididos y vigilantes."
+TeamsEmblemIcon18Name,Ícono de abeja zumbona
+TeamsEmblemIcon18ShortName,Ícono de abeja zumbona
+TeamsEmblemIcon18Description,El equipo zumbará hacia la victoria con este ícono.
+BasePropCosyBeanbagMonkeyName,Mono de puff cómodo
+BasePropCosyBeanbagMonkeyShortName,Mono de puff cómodo
+BasePropCosyBeanbagMonkeyDescription,"El sillón puff, símbolo máximo de la relajación. Incluye mono relajado. [Ranura de isla]"
+RetryLastRoundDescriptionText,¿Reintentar desde la última ronda con las vidas y el dinero guardado?
+PlayOffline,Jugar sin conexión
+DarkDungeonsStatueName,Estatua de calabozo
+DarkDungeonsStatueActivate,Activar estatua: ${0}
+DarkDungeonsStatueLevelUp,Nivel {0}\n${1}
+BossHPIncreased,Aumentó la vida del jefe
+BossHPDecreased,Disminuyó la vida del jefe
+BossSpeedIncreased,Aumentó la velocidad del jefe
+BossSpeedDecreased,Disminuyó la velocidad del jefe
+BossHealth,Vida del jefe
+BossSpeed,Velocidad del jefe
+EnterNewName,Escribe otro nombre

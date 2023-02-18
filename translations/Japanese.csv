@@ -819,7 +819,7 @@ Sub Commander Description,半径内の司令官と全ての潜水艦対し、貫
 Buccaneer-Faster Shooting Description,搭載された全ての武器が、より高速に発砲する。
 Buccaneer-Grape Shot Description,5個の尖ったブドウ弾からなる噴出を船に追加する。
 Buccaneer-Long Range Description,さらに広い範囲で、発射物がより速く飛ぶ。
-Buccaneer-Double Shot Description,船が発射する武器が二倍になる。
+Buccaneer-Double Shot Description,船が発射する武器が2倍になる。
 Buccaneer-Hot Shot Description,燃える厚いブドウ弾が、鉛ブルーンを割り、ブルーンを燃やす。
 Buccaneer-Crow's Nest Description,海賊がカモフラージュブルーンを撃てるようになる。
 Buccaneer-Destroyer Description,スーパー素早い攻撃！
@@ -943,7 +943,7 @@ Bloonjitsu Description,一度に五枚の手裏剣を投げる！
 Bloon Sabotage Description,サボタージ能力：15秒間有効。サボタージ期間中は、全てのブルーンの移動速度が半分になる。 
 Sticky Bomb Description,パワフルな時さ攻撃をMOAB級ブルーンに投げる。
 Grandmaster Ninja Description,信じられない速さで投げる。一撃の手裏剣数8枚！
-Grand Saboteur Description,能力の期間がもっと長く、サボタージ中にスポーンするMOAB級ブルーンのヘルスが減少する。
+Grand Saboteur Description,能力の期間がもっと長く、サボタージ中にスポーンするMOAB級ブルーンのHPが減少する。
 Master Bomber Description,モンキーMOAB破壊マシン。
 ,
 Larger Potions Description,より広い地域に、より大量のポーションを散らす。
@@ -988,11 +988,11 @@ Banana Plantation Description,ランドごとに16束のバナナを栽培する
 Monkey Bank Description,この農場が生成した全てのお金がバンクで保管されるようになり、ラウンドごとに15%の利子を得る。
 Marketplace Description,ラウンドごとにお金を作り、合計に加える。いたってシンプル。
 Banana Research Facility Description,ラウンドごとに、各＄300の価値のあるバナナの大箱を生産する。
-IMF loan Description,"IMFローン能力：$10,000くれるが、徐々に返済しなくてはならない。"
+IMF loan Description,"IMFローン能力：$9,000くれるが、徐々に返済しなくてはならない。"
 Central Market Description,ラウンドごとにたくさんのお金を獲得し、商人に渡す。収入が+10％増加。
 Banana Central Description,バナナが必要ですか？バナナありますよ！
 Monkey-Nomics Description,失敗できないくらいの大物になったら…
-Monkey Wall Street Description,モンキー貿易の中心地、ラウンドごとにすごい収入を獲得し、ラウンドごとに命を生み出す。
+Monkey Wall Street Description,モンキー貿易の中心地、ラウンドごとに大量の収入を獲得し、ラウンドごとに命を生み出す。
 ,
 Sentry Gun Description,一時的に見張り番を作り、付近に展開する。
 Larger Service Area Description,より遠くに発射し、もっと広い地域に見張り番を送り出す。見張り番はより長射程距離。
@@ -1052,7 +1052,7 @@ Primary Training Description,半径内全てのメインモンキーが、射程
 Monkey Intelligence Bureau Description,当局が特別ブルーン割り知識を与えてくれ、付近のモンキーが全ての種類のブルーンを割れるようになる。
 Monkey Town Description,モンキータウンの半径内のすべてのモンキーが、ブルーンを割るごとに現金を追加で得る。
 Primary Mentoring Description,半径内の全てのメインモンキーが無料で1段階アップグレードを獲得する。
-Call to Arms Description,戦闘召集能力：近くの全てのモンキーに、プラス50％の攻撃速度と風船割りが10秒間与えられる。
+Call to Arms Description,戦闘召集能力：近くの全てのモンキーが、攻撃速度50％上昇と風船割りを短時間得る。
 Monkey City Description,影響を及ぼす半径を広げ、半径内のキャッシュ生成を増やし、ラウンドごとにダーツモンキーを1匹無料でもらえる。
 Primary Expertise Description,メガバリスタ攻撃を追加するほか、半径内の全てのメインモンキーの破裂パワーが増え、能力のクールダウンがさらに減少され、ティア1とティア2のアップグレードを無料で取得する。
 Homeland Defense Description,能力が攻撃速度を増やし、20秒間、全てのモンキーが二倍の速度で風船を割れるようになる。
@@ -1116,7 +1116,7 @@ Super Maelstrom Ability Description,もっとパワフルな大混乱能力で�
 Snowstorm Ability Description,画面上の全てのブルーンを、短時間の間凍結させる。
 Absolute Zero Ability Description,とても冷たい能力なので、冷たさに耐性があるものやMOAB級も含め、全種類のブルーンを凍らせる。
 Glue Strike Ability Description,画面上全てのブルーンを糊付けする。
-Glue Storm Ability Description,グルーの嵐の能力が、10秒間以上、ノリで画面全体を強打する。
+Glue Storm Ability Description,グルーの嵐の能力が、15秒間以上、のりで画面全体を強打する。
 Supply Drop Ability Description,能力：箱一杯のキャッシュをドロップする。
 Elite Sniper Ability Description,供給品ドロップにもっとキャッシュが入っている。
 Elite Defender Ability Description,失われたライフルが、短時間の間、報復としてこのスナイパーに2倍の攻撃速度を与える。
@@ -1141,14 +1141,14 @@ Legend of the Night Ability Description,全ての望みを失ったときに頼�
 Bloon Sabotage Ability Description,サボタージの間、全てのブルーンの速度が遅くなる。
 Grand Saboteur Ability Description,能力の期間がもっと長く、サボタージ中にスポーンするMOAB級ブルーンのヘルスが減少する。
 Transforming Tonic Ability Description,ドルイドの近くの農場が、短時間に50％増しのキャッシュを獲得する。
-IMF loan Ability Description,"$10,000出してくれるが、時間をかけて返済しなくてはならない。"
+IMF loan Ability Description,"$9,000出してくれるが、時間をかけて返済しなくてはならない。"
 Monkey-Nomics Ability Description,失敗できないくらいの大物になったら…
 Overclock Ability Description,ターゲットモンキーが短時間の間、スーパーパワーを備える。
 Spike Storm Ability Description,トラック全体に厚い層のスパイクを発射する。
 Carpet of Spikes Ability Description,ラウンドごとに、トラック全体にスパイクのじゅうたんを敷き詰める。
 Magic Arcanum Ability Description,パワフルなモンキーを作り出す。その能力は、近くの魔法モンキーによる。
-Call to Arms Ability Description,付近のモンキー全てに、10秒間、二倍の攻撃速度と破裂パワーを与える。
-Homeland Defense Ability Description,能力が全てのモンキーに対し15秒間影響を与える。
+Call to Arms Ability Description,付近のモンキー全員が10秒間攻撃速度50％上昇と破裂パワーを得る。
+Homeland Defense Ability Description,モンキー全員の攻撃速度が100%上昇し、風船割りを20秒間得る。
 ,
 //Maps,
 TownCentre,タウンセンター
@@ -1825,7 +1825,7 @@ InsiderTradesDescription,モンキービジネス割引が2％増加。
 BiggerBanks,もっと大銀行
 BiggerBanksDescription,モンキー銀行で保管できるお金が2500増える。
 BackroomDeals,裏部屋での取引
-BackroomDealsDescription,IMFローンが$12000まで増え、返済レートが40％に。
+BackroomDealsDescription,IMFローンが$1000まで増え、返済レートが40％に。
 ThickerFoams,分厚い泡
 ThickerFoamsDescription,クレンジング剤の期限が切れるまでに、あと3個のブルーンに命中できる。
 BigTraps,ビッグトラップ
@@ -2755,8 +2755,8 @@ DarkKnightDarkshift,[I]で範囲内にダークシフト
 DarkChampionDarkshift,[I]で任意の有効な場所にダークシフト
 SmallTowersMode,スモールモンキータワー
 BigTowersMode,ビッグモンキータワー
-UpdatePopupTitle,アップデート34！
-UpdatePopupDescription,大型ホリデーアップデート！\n• 装甲ベヒモス、ドレッドブルーンの恐るべき抵抗力と耐性力に立ち向かおう！\n• 新しい初級マップ、ワン ツー ツリーでタワーを強化する配置を発見しよう！\n• 新しいキャプテン チャーチル、スキン、チャーチルのそりでお祝い気分ブルーンを倒そう！\n• トロフィーストア アイテム、生活の質の向上、バランスの変更などなど!\n• Ninja Kiwi一同、楽しい休日と素晴らしい新年をお祈りしています！
+UpdatePopupTitle,アップデート35！
+UpdatePopupDescription,新年のアップデート！\n• 新たなエキスパートマップ、ダークダンジョンの暗い部屋に勇敢に立ち向かおう。コミュニティマップトーナメント優勝者 Lars_Overwick によるデザイン。\n• 新しいビギナーマップ、ミドル・オブ・ザ ロードでブルーンを町から追い出せ。\n• 新しいパット・ファスティ スキン、怪ビーストパットがブーンを強く握る！\n • トロフィーストアのアイテム、生活の質の向上、バランスの変更など！
 ResetDailyChest,日替わり宝箱をリセット
 JukeboxName,ジュークボックス
 EnableFunction,有効化
@@ -3702,10 +3702,10 @@ Psi,サイ
 Psi Short Description,サイオニックモンキー
 Psi Description,才能に恵まれた子ザルのサイは、マインドパワーだけを使ってブルーンを内側から破壊する。
 Psi Level 1 Description,どのような範囲や障害物があっても、サイはブルーンを一度に一個ずつ完全破壊する致命的な振動を設定する。カモフラージュも標的にできる。
-Psi Level 2 Description,少し素早く攻撃するようになる。
+Psi Level 2 Description,サイオニック振動が、通常より素早くブルーンを破壊する。
 Psi Level 3 Description,サイキックブラスト：付近のブルーンを長時間マヒさせる力の波動をサイが発動する。
 Psi Level 4 Description,サイの攻撃は、狙ったブルーンのすぐそばの別のブルーンがある場合、それにも命中する。
-Psi Level 5 Description,サイオニック振動が、通常より素早くブルーンを破壊する。
+Psi Level 5 Description,少し素早く攻撃するようになる。
 Psi Level 6 Description,サイの強力なマインドは、鉛ブルーンをも貫通する。
 Psi Level 7 Description,サイキックブラストが二度パルスを出す。サイが陶器ブルーンを破壊できるようになった。
 Psi Level 8 Description,破壊的共振はサイの主攻撃でブルーンを破壊させ、その際、近く別のブルーンにダメージを与える。
@@ -4347,7 +4347,7 @@ Geraldo Level 8 Description,新しいアイテム！「ジェリーの炎」の�
 Geraldo Level 9 Description,新しいアイテム！肥料：目に見えるバナナを生産する、標的になったバナナ農場は、生産量を増やし、数ラウンドにわたって現金ボーナスを獲得する。ジェラルドの主な攻撃の爆破半径が増大。
 Geraldo Level 10 Description,新しいアイテム！ペットのうさぎ：なんてかわいくて小ちゃなうさぎちゃん！
 Geraldo Level 11 Description,新しいアイテム！回復のポーション：すべてのモンキータワーとヒーローのクールダウンをリセットし、ライフを50回復。ジェラルドの主な攻撃の貫通度が増加し、ピクルスのビンは強化ブルーンに対して追加ダメージを与える。
-Geraldo Level 12 Description,新しいアイテム！精霊のボトル：3ラウンド持続するプラズマ動力の精霊モンキーを召喚します。目に見えるMOABクラスのブルーンが通過すると、不気味なアイドルがたまに短いマヒを適用できるようになった。
+Geraldo Level 12 Description,新しいアイテム！精霊のボトル：3ラウンド持続するプラズマ動力の精霊モンキーを召喚します。目に見えるMOABクラスのブルーンが通過すると、不気味なアイドルがたまに短時間麻痺を適用できるようになります。
 Geraldo Level 13 Description,射撃砲塔はダメージが大きくなると発砲が速くなり、古い釘の山はより大きなダメージを与える。
 Geraldo Level 14 Description,不可視が見えるポーションは追加の範囲を付与し、より長く持続。
 Geraldo Level 15 Description,砥石は貫通度に加えてダメージを大きくし、ブレードトラップはトリガーされるとさらに強力な効果を生み出す。
@@ -5256,9 +5256,14 @@ T Rex Stomp Ability Description,広範囲のZOMGブルーンまでマヒさせ�
 Giganotosaurus Stomp Ability,ギガノトサウルスの足音
 Giganotosaurus Stomp Ability Description,どこでもZOMGブルーンをより長くマヒさせます。
 Move,動く
-NeedsBeastHandlers,ビーストが必要
+NeedsBeastHandlers,ビーストが必要: {0}
 NeedsWater,水が必要
 NeedsTrack,トラックが必要
+Buffed,バフ
+Assisting,アシスト
+Select Point On Track,トラック上のポイントを選択
+Select Point In Range,範囲内のポイントを選択
+,
 Dreadbloon,ドレッドブルーン
 DreadbloonTagLine,暗い地球の奥深くから...
 DreadbloonTagLine2,武装ベヒーモス！
@@ -5374,7 +5379,71 @@ CoopGameSyncFailed,ゲーム設定の同期に失敗しました。 新しいゲ
 iCloudTitle,iCloud
 iCloudDisabled,iCloudが無効
 iCloudEnabled,iCloudが有効
-DialogBeastHandlerQuest1InGameTowerUpgrade1,うわー、その野獣はとても強いので、制御下に置くには 2 人のビースト ハンドラーが必要です!
-Buffed,強化されました
-Assisting,アシスト
-Select Point On Track,パス上のポイントを選択
+,
+Gamercard,ゲーマーカード
+ControllerDisconnected,コントローラーが切断されました。 再接続して、もう一度お試しください。
+PlayerStatsBossesPopped,割ったボス
+PlayerStatsDamageDoneToBosses,ボスに与えたダメージ
+DarkDungeons,道の真ん中
+MiddleOfTheRoad,ミドル・オブ・ザ ロード
+Achievement 146 Name,怪獣パット
+Achievement 146 Description,クエストを完了する
+Achievement 148 Name,ワールドリーグのトレーニング
+Achievement 148 Description,"150,000 ビーストハンドラーXPを獲得する"
+KaijuPatFustySkinName,怪獣ビーストパットスキン
+KaijuPatFustySkinNameFull,怪獣ビーストパット
+KaijuPatFustySkinDescription,ちょっぴり変わったビーストだが、とても心が美しい。
+HeroesStrikerJonesBikerBonesPlacementHellriftName,バイカーボーンズヘルリフトプレイス & アップグレード
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,バイカーボーンズヘルリフト
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,このヘルリフト効果を利用し、バイカーボーンズが鉄の馬に乗って戦いに乗り込み、アップグレードのたびに暴れ回る。バイカーボーンのみ有効。
+TowerPetSniperMonkeyChameleonName,スナイパーモンキー ・カメレオンのペット
+TowerPetSniperMonkeyChameleonShortName,スナイパーカメレオンのペット
+TowerPetSniperMonkeyChameleonDescription,体を葉の色にカモフラージュし、通り過ぎたハエを勢い良く伸ばした舌でキャッチ！これはスナイパーモンキーではなく、スナイパー モンキーのペットのカメレオンだ。
+GameUIProfileAvatar69Name,カスタムアバター - ブルーニー
+GameUIProfileAvatar69ShortName,ブルーニーのアバター
+GameUIProfileAvatar69Description,泡立つ沼地から目覚めたインフレーターのブルーニー。
+GameUIProfileAvatar70Name,カスタムアバター - 努力家のパッチ
+GameUIProfileAvatar70ShortName,努力家のパッチ
+GameUIProfileAvatar70Description,パッチは常にモンキーの世界のニュースと科学を最新の状態に保っているが、読書も大好き。
+GameUIProfileAvatar71Name,カスタムアバター - ちっちゃなモンキー
+GameUIProfileAvatar71ShortName,ちっちゃなモンキーのアバター
+GameUIProfileAvatar71Description,その瞳を覗いてごらん…そこにいるのはちっちゃなモンキーだ。ブルーンは何を望んでいるのだろう？
+GameUIProfileAvatar72Name,カスタムアバター - 幸せなバナナ園の農夫
+GameUIProfileAvatar72ShortName,幸せなバナナ園の農夫のアバター
+GameUIProfileAvatar72Description,バナナ園の農夫は、ただバナナのコスチュームを着るより、バナナのコスチュームを着てバナナでいっぱいの木箱の中を泳ぐのが大好きだ。
+GameUIProfileBanner26Name,グルーストームのプロフィールバナー
+GameUIProfileBanner26ShortName,グルーストームのバナー
+GameUIProfileBanner26Description,グルーストームが日差しを遮る時、日陰でこのバナーを身に着けよう。
+GameUIProfileBanner27Name,魔界の不死鳥のプロフィール バナー
+GameUIProfileBanner27ShortName,魔界の不死鳥バナー
+GameUIProfileBanner27Description,バナーの獲得者 by Flipp_Flopps
+GameUIProfileBanner28Name,農場のひよこのプロフィールバナー
+GameUIProfileBanner28ShortName,農場のひよこのバナー
+GameUIProfileBanner28Description,バナーの獲得者 by WhereThighs
+TeamsEmblemFrame14Name,うさぎ年のフレーム
+TeamsEmblemFrame14ShortName,うさぎ年のフレーム
+TeamsEmblemFrame14Description,うさぎ年のフレームで平和と繁栄を祈りながらチームを編成しよう。
+TeamsEmblemFrame15Name,キウイサマーのフレーム
+TeamsEmblemFrame15ShortName,キウイサマーのフレーム
+TeamsEmblemFrame15Description,ジャンダル、キウイフルーツ、ポフツカワの花。 選ばれしチームだけが使える選ばれしフレーム。
+TeamsEmblemIcon17Name,卯年アイコン
+TeamsEmblemIcon17ShortName,卯年アイコン
+TeamsEmblemIcon17Description,用心深く、決断力のあるチームのための卯年アイコン。
+TeamsEmblemIcon18Name,バジービーのアイコン
+TeamsEmblemIcon18ShortName,バジービーのアイコン
+TeamsEmblemIcon18Description,バジービーのアイコンが君のチームを勝利へと導く。
+BasePropCosyBeanbagMonkeyName,救った命と現金で最後のラウンドからやり直しますか?
+BasePropCosyBeanbagMonkeyShortName,オフラインでプレイする
+BasePropCosyBeanbagMonkeyDescription,ダンジョン像
+RetryLastRoundDescriptionText,溜めたライフと現金で前回のラウンドからやり直しますか?
+PlayOffline,オフラインでプレイする
+DarkDungeonsStatueName,ダンジョンの像
+DarkDungeonsStatueActivate,像を起動する: ${0}
+DarkDungeonsStatueLevelUp,レベル {0}\n${1}
+BossHPIncreased,ボスのHPが上昇
+BossHPDecreased,ボスのHPが減少
+BossSpeedIncreased,ボスの速さ上昇
+BossSpeedDecreased,ボスの速さ減少
+BossHealth,ボスのHP
+BossSpeed,ボスの速さ
+EnterNewName,新しい名前を入力してください

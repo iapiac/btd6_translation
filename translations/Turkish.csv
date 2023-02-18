@@ -232,7 +232,7 @@ ObynGreenfoot Level 20 Description,Ağaç Duvarı çok daha fazla Bloon’u tuta
 ,
 Ezili Level 1 Description,"Ezili, karanlık vudu gücü ile Bloon’ları lanetler."
 Ezili Level 2 Description,Yüksek saldırı menzili.
-Ezili Level 3 Description,"Yürek Hoplatan: Bloon’ları yavaşlatır, Mor bloon patlatmayı sağlar ve 10 saniye boyunca herhangi bir yeniden şişme etkinliğini engeller."
+Ezili Level 3 Description,Yürek Hoplatan: Mor bloon patlatmayı sağlar ve 10 saniye boyunca herhangi bir yeniden şişme etkinliğini engeller.
 Ezili Level 4 Description,Ezili’nin ana saldırısı artık birden fazla Bloon’u lanetler.
 Ezili Level 5 Description,Yüksek saldırı hızı.
 Ezili Level 6 Description,Zamanla oluşan hasar daha uzun sürer ve daha hızlı hasar verir.
@@ -819,7 +819,7 @@ Sub Commander Description,Komutan ve yarıçapındaki tüm Denizaltılara ekstra
 Buccaneer-Faster Shooting Description,Güvertedeki tüm silahlar daha hızlı vurur.
 Buccaneer-Grape Shot Description,Gemiye 5 keskinleştirilmiş üzüm ekler.
 Buccaneer-Long Range Description,Çok daha uzun menzile sahiptir ve fırlatıcılar daha hızlı uçar.
-Buccaneer-Double Shot Description,Ateşlenen gemi silahlarını iki katına çıkarır.
+Buccaneer-Double Shot Description,Ateşlenen gemi silahlarını artırır.
 Buccaneer-Hot Shot Description,Yanan sıcak üzüm atışı Kurşun Bloon’ları patlatabilir ve Bloon’ları ateşe verir.
 Buccaneer-Crow's Nest Description,Geminin Kamuflajlı Bloon’ları vurmasını sağlar.
 Buccaneer-Destroyer Description,Muhteşem bir hızla saldırır!
@@ -829,7 +829,7 @@ Buccaneer-Aircraft Carrier Description,Hedeflerini bombalayan avcı uçağı dal
 Buccaneer-Monkey Pirates Description,Gemiye 2 top ekler ve saldırılar daha fazla hasar yaratır. MOAB Parçalama Yeteneği: Bir MOAB sınıfı bloon’u yakalar ve alt eder.
 Buccaneer-Favored Trades Description,Daha hızlı saldırır ve tur başına bir sürü para oluşturur.
 Buccaneer-Carrier Flagship Description,Ekstra hasar verir. Diğer Maymunları geminin üst güvertesine yerleştirebilir ve suda konuşlanan tüm Maymunların ve Pilot Maymunların saldırı hızını artırır.
-Buccaneer-Pirate Lord Description,"Tüm saldırılar için son derece yüksek saldırı hızına sahiptir ve tek seferde 3 yakalayıcı kanca fırlatabilir, indirilen her bir MOAB Sınıfı Bloon’dan ekstra nakit yağar."
+Buccaneer-Pirate Lord Description,"Son derece yüksek saldırı hızına sahiptir ve tek seferde 3 yakalayıcı kanca fırlatabilir, indirilen her bir MOAB Sınıfı Bloon’dan ekstra nakit yağar."
 Buccaneer-Trade Empire Description,Tur başına daha fazla nakit oluşturur. Tüccar sayısına göre diğer tüm Tüccarlarla kazanılan nakit miktarını 20’ye kadar artırır ve tüm Tüccar hasarını artırır.
 ,
 Rapid Fire Description,Normalden daha hızlı fırlatır.
@@ -902,7 +902,7 @@ Fireball Description,Her birkaç saniyede bir patlayıcı ateş topu büyüsü y
 Intense Magic Description,Daha güçlü büyülü atışlar daha hızlı hareket eder ve daha fazla Bloon patlatabilir.
 Arcane Blast Description,"Daha büyük, daha güçlü büyülü patlamalar Bloon’un 2 katmanını patlatır."
 Wall of Fire Description,"Parkurda, geçerken Bloon’ları kızartacak süper sıcak bir ateş duvarı oluşturur."
-Monkey Sense Description,Sihirbazın Kamuflajlı Bloon’ları vurmasını sağlar.
+Monkey Sense Description,Menzili biraz artırır ve Sihirbazın Kamuflajlı Bloon’ları vurmasını sağlar.
 Arcane Mastery Description,"Yüksek menzil, hasar ve patlatma gücüne sahip daha hızlı saldırılar."
 Dragon's Breath Description,"Yakındaki Bloon’lara sınırsız alev püskürtür, Ateş Topu ve Ateş Duvarı’nı daha fazla iyileştirir."
 Shimmer Description,Yakındaki tüm Kamuflajlı bloon’ların yerini belirli aralıklarla ortaya çıkaran bir kara büyü saldırısı kazanır.
@@ -942,7 +942,7 @@ Bloonjitsu Description,Tek seferde 5 ninja yıldızı fırlatır!
 Bloon Sabotage Description,Sabotaj yeteneği: 15 saniye sürer. Sabotaj sırasında tüm Bloon’lar yarı hızda hareket eder.  
 Sticky Bomb Description,"MOAB Sınıfı Bloon’lara güçlü, isabetli yükler fırlatır."
 Grandmaster Ninja Description,Atış başına inanılmaz hızlı 8 Ninja yıldızı fırlatır!
-Grand Saboteur Description,Yetenek süresi daha uzundur ve MOAB Sınıfı Bloon’lar sabotaj sırasında daha düşük can sayısıyla canlanır.
+Grand Saboteur Description,Yetenek süresi daha uzundur ve MOAB Sınıfı Bloon’lar sabotaj sırasında daha düşük can sayısıyla canlanır. Tüm Shinobi'leri güçlendirir.
 Master Bomber Description,Bir MOAB imha makinesi Maymun.
 ,
 Larger Potions Description,Daha büyük iksirler daha büyük bir alana yayılır.
@@ -987,11 +987,11 @@ Banana Plantation Description,Tur başına 16 Muz salkımı yetiştirir.
 Monkey Bank Description,Bu çiftlik tarafından oluşturulan tüm para artık bankada saklanır ve her turda %15 faiz kazanır.
 Marketplace Description,Her turda para oluşturur ve toplamına ekler. Sorun yok.
 Banana Research Facility Description,"Her turda, her biri 300 Dolar değerinde 5 büyük Muz sandığı üretir."
-IMF loan Description,IMF Kredisi: 10.000 Dolar verir ama bunu zamanla geri ödemen gerekir.
+IMF loan Description,IMF Kredi Yeteneği: 9.000 Dolar verir ama bunu zamanla geri ödemen gerekir.
 Central Market Description,Her turda yığınla para kazanır ve Tüccarlara +%10 gelir sağlar.
 Banana Central Description,Muz mu istiyorsun? Bizde Muz var!
 Monkey-Nomics Description,Batamayacak kadar büyük olduğunda...
-Monkey Wall Street Description,Maymun Merkezi ticaretleri her turda muazzam bir gelir sağlar ve can oluşturur.
+Monkey Wall Street Description,Maymun Merkezi ticaretleri her turda muazzam bir gelir sağlar ve can oluşturur ve etki alanı  içinde gelir toplar.
 ,
 Sentry Gun Description,Geçici gözcü silahlar oluşturur ve onları yakında konuşlandırır.
 Larger Service Area Description,Daha uzağa fırlatır ve çok daha geniş bir alanda gözcüler görevlendirir. Gözcüler daha uzun menzile sahip olur.
@@ -1115,7 +1115,7 @@ Super Maelstrom Ability Description,Çok daha güçlü Girdap yeteneği ve daha 
 Snowstorm Ability Description,Kısa süreliğine ekrandaki tüm Bloon’ları dondurur.
 Absolute Zero Ability Description,"Bu yetenek öyle soğuktur ki, soğuğa dayanıklı ve MOAB Sınıfı Bloon’lar dahil, tüm Bloon türlerini dondurur."
 Glue Strike Ability Description,Ekrandaki tüm Bloon’lara yapışkan bulaştırır.
-Glue Storm Ability Description,"Yapışkan Fırtınası yeteneği, 10 saniye boyunca ekrana yapışkan yağdırır."
+Glue Storm Ability Description,"Yapışkan Fırtınası yeteneği, 15 saniye boyunca tüm ekrana yapışkan yağdırır."
 Supply Drop Ability Description,Nakitle dolu bir sandık düşürür.
 Elite Sniper Ability Description,İkmal malzemesi düşürme çok daha fazla nakit kazandırır.
 Elite Defender Ability Description,Kayıp bir ömür bu Keskin Nişancıya kısa süreliğine 2 kat saldırı hızı kazandırır.
@@ -1140,14 +1140,14 @@ Legend of the Night Ability Description,Tüm ümitler tükenince ona döndük...
 Bloon Sabotage Ability Description,Sabotaj sırasında tüm Bloon’lar yavaşlatılmış hızda hareket eder.
 Grand Saboteur Ability Description,Yetenek süresi daha uzundur ve MOAB Sınıfı Bloon’lar sabotaj sırasında daha düşük can sayısıyla canlanır.
 Transforming Tonic Ability Description,Medyumun yakınındaki çiftlikler kısa süreliğine %50 daha fazla para kazanır.
-IMF loan Ability Description,10.000 Dolar verir ama bunu zamanla geri ödemen gerekir.
+IMF loan Ability Description,9.000 Dolar verir ama bunu zamanla geri ödemen gerekir.
 Monkey-Nomics Ability Description,Batamayacak kadar büyük olduğunda...
 Overclock Ability Description,Hedef Maymun kısa süreliğine süper güçlü hale gelir.
 Spike Storm Ability Description,Tüm parkura kalın bir çivi katmanı fırlatır.
 Carpet of Spikes Ability Description,Her turda tüm parkura çivi halısı gönderir.
 Magic Arcanum Ability Description,Yetenekleri yakındaki Sihirli Maymunlara dayanan güçlü bir Maymun yaratır.
-Call to Arms Ability Description,Tüm Maymunlara 10 saniye boyunca ÇİFT saldırı hızı ve patlatma kazandırır.
-Homeland Defense Ability Description,Bu yetenek TÜM Maymunları etkiler ve 15 saniye sürer.
+Call to Arms Ability Description,Tüm Maymunlara +%50 saldırı hızı sağlar ve 10 saniye boyunca patlatır.
+Homeland Defense Ability Description,Tüm Maymunlara +%100 saldırı hızı sağlar ve 20 saniye boyunca patlatır.
 ,
 //Maps,
 TownCentre,Kasaba Merkezi
@@ -1824,7 +1824,7 @@ InsiderTradesDescription,Maymun İşi indirimi %2 artar.
 BiggerBanks,Daha Büyük Bankalar
 BiggerBanksDescription,Maymun Bankaları 2500 ekstra para saklayabilir.
 BackroomDeals,Gizli Oda Fırsatları
-BackroomDealsDescription,IMF Kredisi 12.000 Dolara yükselir ve geri ödeme oranı %40’dır.
+BackroomDealsDescription,IMF Kredisi 1.000 Dolar daha verir ve geri ödeme oranı %40’dır.
 ThickerFoams,Daha Yoğun Köpükler
 ThickerFoamsDescription,Temizleyici Köpük süresi dolmadan 3 Bloon daha vurabilir.
 BigTraps,Büyük Tuzaklar
@@ -2753,8 +2753,8 @@ DarkKnightDarkshift,Menzilde Karanlık Kayması için [I]
 DarkChampionDarkshift,Herhangi bir geçerli konuma Karanlık Kayması için [I]
 SmallTowersMode,Küçük Maymun Atıcılar
 BigTowersMode,Büyük Maymun Atıcılar
-UpdatePopupTitle,34. Güncelleme!
-UpdatePopupDescription,"Mega Mutlu Yıllar Güncellemesi!\n• Zırhlı Zebella, Korkutanbloon’un muhteşem dirençlerine ve dayanıklılıklarına karşı savaş!\n• Yeni Acemi haritası, Bir İki Üç’teki atıcı güçlendirici yerleşimleri keşfet!\n• Yeni Yüzbaşı Churchill dış görünümü, Kızaklı Churchill ile Bloon’ları neşeyle katlet!\n• Ganimet Mağazası eşyaları, yaşam kalitesi iyileştirmeleri, denge değişiklikleri ve çok daha fazlası!\n• Ninja Kiwi ekibi olarak muhteşem bir Yeni Yıl için en iyi dileklerimizi sunar ve mutlu yıllar dileriz!"
+UpdatePopupTitle,35. Güncelleme!
+UpdatePopupDescription,"Yeni Yıl, Yeni Güncelleme!\n• Yeni Uzman haritası Karanlık Zindanların loş odalarında cesaretini göster. Tasarım: Topluluk haritası yarışması galibi, Lars_Overwick.\n• Yeni Acemi haritası Yolun Ortasında Bloon’ları kasabadan çıkar.\n• Yeni Pat Fusty dış görünümü Kaiju Pat ile birkaç Bloon’a korkunç bir stres yaşat!\n• Ganimet Mağazası eşyaları, yaşam kalitesi iyileştirmeleri, denge değişiklikleri ve çok daha fazlası!"
 ResetDailyChest,Günlük Sandığı Sıfırla
 JukeboxName,Müzik Kutusu
 EnableFunction,Etkinleştir
@@ -3700,10 +3700,10 @@ Psi,Psi
 Psi Short Description,Psionik Maymun
 Psi Description,"Yetenekli maymun çocuk, Psi, Bloon’ları en iyi şekilde yok etmek için yalnızca zihin gücünü kullanır."
 Psi Level 1 Description,"Menzil veya engel nasıl olursa olsun, Psi, tek seferde bir Bloon’u tamamen yok eden ölümcül titreşimler yayar. Kamuflajlıları hedefleyebilir."
-Psi Level 2 Description,Biraz daha hızlı saldırır.
+Psi Level 2 Description,Psionik titreşimler Bloon’ları normalden daha hızlı yok eder.
 Psi Level 3 Description,"Psişik Patlama: Psi, yakındaki Bloon’ları uzun süre için sersemleten bir güç dalgasını serbest bırakır."
 Psi Level 4 Description,"Psi’nin saldırısı, hedeflenen Bloon’a çok yakınsa başka bir Bloon’u da vurabilir."
-Psi Level 5 Description,Psionik titreşimler Bloon’ları normalden daha hızlı yok eder.
+Psi Level 5 Description,Biraz daha hızlı saldırır.
 Psi Level 6 Description,"Psi’nin güçlü zihni, Kurşun Bloon’lara nüfuz edebilir."
 Psi Level 7 Description,Psişik Patlama iki dalga halinde yayılır. Psi artık Seramik Bloon’ları yok edebilir.
 Psi Level 8 Description,"Yıkıcı Rezonans, Psi’nin ana saldırısı tarafından yok edilen Bloon’ların, yakındaki diğer Bloon’lara hasar vermesine neden olur."
@@ -4343,7 +4343,7 @@ Geraldo Level 8 Description,"Yeni Eşya! Gerry’nin Ateşi Şişesi - 2,8 milyo
 Geraldo Level 9 Description,"Yeni Eşya! Gübre - görünür muzlar üreten, hedeflenen Muz Çiftliklerinin üretimi artar ve birkaç tur boyunca nakit bonusu kazanır. Geraldo’nun ana saldırısının patlatma yarıçapı artar."
 Geraldo Level 10 Description,"Yeni Eşya! Evcil Hayvan Tavşan - ooo ne de tatlı, kıpır kıpır bir tavşancık!"
 Geraldo Level 11 Description,"Yeni Eşya! Yenilenme İksiri - tüm Maymun Atıcılarını ve Kahraman gecikme sürelerini sıfırlar, 50 can geri yükler. Geraldo’nun ana saldırısında delme artar ve Turşu Kavanozu, Güçlendirilmiş Bloon’lar karşısında bonus hasar kazandırır."
-Geraldo Level 12 Description,Yeni Eşya! Peri Şişesi - Plazma ile çalışan bir Peri Maymun çağırır ve 3 tur boyunca sürer. Ürpertici İdol artık görünür geçen MOAB Sınıfı Bloon’lara rastgele bir kısa sersemletme uygular.
+Geraldo Level 12 Description,Yeni Eşya! Peri Şişesi - Plazma ile çalışan bir Peri Maymun çağırır ve 2 tur boyunca sürer. Ürpertici İdol artık görünür geçen MOAB Sınıfı Bloon’lara rastgele bir kısa sersemletme uygular.
 Geraldo Level 13 Description,"Vurucu Taret, yüksek hasar ile daha hızlı atış yapar ve Bir Yığın Eski Çivi daha fazla hasar verir."
 Geraldo Level 14 Description,Görünmezliği Gör İksiri ek menzil kazandırır ve daha uzun sürer.
 Geraldo Level 15 Description,Biley Taşının artık delmeye ek olarak verdiği hasar da artar ve Bıçak Tuzağı tetiklendiğinde daha güçlü bir etki oluşturur.
@@ -5253,9 +5253,14 @@ T Rex Stomp Ability Description,Geniş bir alanda ZOMG Bloon’lara kadar sersem
 Giganotosaurus Stomp Ability,Giganotozor Ezmesi
 Giganotosaurus Stomp Ability Description,ZOMG Bloon’lara kadar her yerde daha uzun süre sersemletme gücü sağlar.
 Move,Hamle Yap
-NeedsBeastHandlers,Gerektirdiği Canavar
+NeedsBeastHandlers,Gerektirdiği Canavar: {0}
 NeedsWater,Su Gerekir
 NeedsTrack,Parkur Gerekir
+Buffed,GÜÇLENDİRİLDİ
+Assisting,Destekleniyor
+Select Point On Track,Parkurda Bir Nokta Seç
+Select Point In Range,Menzilde Bir Nokta Seç
+,
 Dreadbloon,Korkutanbloon
 DreadbloonTagLine,Karanlık Diyarın Derinliklerinden...
 DreadbloonTagLine2,Zırhlı Zebella!
@@ -5371,7 +5376,72 @@ CoopGameSyncFailed,Oyun ayarları eşitlenemedi. Lütfen yeni bir oyun dene.
 iCloudTitle,iCloud
 iCloudDisabled,iCloud Devre Dışı
 iCloudEnabled,iCloud Etkin
-DialogBeastHandlerQuest1InGameTowerUpgrade1,"Vay canına, o canavar o kadar güçlü ki, onu kontrol altında tutmak için İKİ Canavar İşleyicisi gerekiyor!"
-Buffed,Güçlendi
-Assisting,yardımcı
-Select Point On Track,Yolda bir nokta seçin
+,
+Gamercard,Oyuncu kartı
+ControllerDisconnected,Kumanda bağlı değil. Lütfen yeniden bağla ve tekrar dene.
+PlayerStatsBossesPopped,Patlatılan Patronlar
+PlayerStatsDamageDoneToBosses,Patronlara Verilen Hasar
+DarkDungeons,Yolun Ortası
+MiddleOfTheRoad,Yolun Ortası
+Achievement 146 Name,Kaiju Pat
+Achievement 146 Description,Tuhaf bir canavar ama aşırı derecede iyi huylu.
+Achievement 148 Name,Biker Bones Cehennem Yarığı Yerleştirmesi ve Yükseltmesi
+Achievement 148 Description,Biker Bones Cehennem Yarığı
+KaijuPatFustySkinName,Kaiju Pat Dış Görünümü
+KaijuPatFustySkinNameFull,Kaiju Pat
+KaijuPatFustySkinDescription,Tuhaf bir canavar ama aşırı derecede iyi huylu.
+HeroesStrikerJonesBikerBonesPlacementHellriftName,Biker Bones Cehennem Yarığı Yerleştirmesi ve Yükseltmesi
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,Biker Bones Cehennem Yarığı
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,Bu Cehennem Yarığı etkisini kap ve her yükseltmede kötü bir yangın saçan demir atıyla savaşa giren Biker Bones’u izle. Yalnızca Biker Bones.
+TowerPetSniperMonkeyChameleonName,Nişancı Maymun Bukalemun Evcil Hayvanı
+TowerPetSniperMonkeyChameleonShortName,Nişancı Bukalemun Evcil Hayvanı
+TowerPetSniperMonkeyChameleonDescription,"Bekleme halinde uzanırken, yeşillikler arasında mükemmel şekilde kamufle olur. Bir sinek yakınından geçiyor ve BAM! Dil, onu yakalamak için fırlıyor. Hayır, bu Nişancı Maymun değil, Nişancı Maymunun evcil hayvanı bukalemun!"
+GameUIProfileAvatar69Name,Özel Avatar - Bloonaryus
+GameUIProfileAvatar69ShortName,Bloonaryus Avatarı
+GameUIProfileAvatar69Description,"Şişirici Bloonaryus, fokurdayan bataklığından uyanıyor."
+GameUIProfileAvatar70Name,Özel Avatar - Özenli Patch
+GameUIProfileAvatar70ShortName,Özenli Patch
+GameUIProfileAvatar70Description,"Patch, en yeni haberler ve maymun dünyası bilimi ile her zaman güncel kalsa da bazen sadece iyi bir kitapla oturmak ister."
+GameUIProfileAvatar71Name,Özel Avatar - Sadece Küçük Bir Maymun
+GameUIProfileAvatar71ShortName,Sadece Küçük Bir Maymun Avatarı
+GameUIProfileAvatar71Description,Şu gözlere bak. Bloon’lar bile ne ister? Sadece küçük bir maymun.
+GameUIProfileAvatar72Name,Özel Avatar - Mutlu Muz Yetiştiricisi
+GameUIProfileAvatar72ShortName,Mutlu Muz Yetiştiricisi Avatarı
+GameUIProfileAvatar72Description,Bir Muz Yetiştiricisinin muz kostümü giymekten daha çok sevdiği nedir? Bir muz kostümü giyip muzlarla dolu sandıklar arasında bir muz havuzunda yüzmek.
+GameUIProfileBanner26Name,Yapışkan Fırtınası Profil Afişi
+GameUIProfileBanner26ShortName,Yapışkan Fırtınası Afişi
+GameUIProfileBanner26Description,"Yapışkan Fırtınası güneşi engellediğinde, gölgede bu afişi donan."
+GameUIProfileBanner27Name,Sihir Lordu Anka Kuşu Profil Afişi
+GameUIProfileBanner27ShortName,Sihir Lordu Anka Kuşu Afişi
+GameUIProfileBanner27Description,"Flipp_Flopps, Afiş galibi"
+GameUIProfileBanner28Name,Çiftlik Tavuğu Profil Afişi
+GameUIProfileBanner28ShortName,Çiftlik Tavuğu Afişi
+GameUIProfileBanner28Description,"WhereThighs, Afiş galibi"
+TeamsEmblemFrame14Name,Tavşan Yılı Çerçevesi
+TeamsEmblemFrame14ShortName,Tavşan Yılı Çerçevesi
+TeamsEmblemFrame14Description,Bu Tavşan Yılı çerçevesi ile Takımını huzura ve ikbale hazırla.
+TeamsEmblemFrame15Name,Kiwi Yaz Çerçevesi
+TeamsEmblemFrame15ShortName,Kiwi Yaz Çerçevesi
+TeamsEmblemFrame15Description,"Parmak arası terlikler, kivi meyvesi ve noel ağacı çiçekleri. Seçkin Takıma seçkin çerçeve."
+TeamsEmblemIcon17Name,Tavşan Yılı Simgesi
+TeamsEmblemIcon17ShortName,Tavşan Yılı Simgesi
+TeamsEmblemIcon17Description,Dikkatli ve kararlı Takımlar için Tavşan Yılı simgesi.
+TeamsEmblemIcon18Name,Vızıltılı Arı Simgesi
+TeamsEmblemIcon18ShortName,Vızıltılı Arı Simgesi
+TeamsEmblemIcon18Description,Takımın bu Vızıltılı Arı simgesiyle zafere vız diye ulaşacak.
+BasePropCosyBeanbagMonkeyName,Sevimli Armut Koltuk Maymun
+BasePropCosyBeanbagMonkeyShortName,Sevimli Armut Koltuk Maymun
+BasePropCosyBeanbagMonkeyDescription,Armut Koltuk. Muhteşem dinlenme sembolü. Dinlendirici bir maymun içerir! [Ada Yuvası]
+RetryLastRoundDescriptionText,Kaydedilen canlar ve nakit ile son tur tekrar denensin mi?
+PlayOffline,Çevrimdışı Oyna
+DarkDungeonsStatueName,Zindan Heykeli
+DarkDungeonsStatueActivate,Heykeli Etkinleştir: ${0}
+DarkDungeonsStatueLevelUp,Seviye {0}\n${1}
+BossHPIncreased,Patron Sağlığı Arttı
+BossHPDecreased,Patron Sağlığı Azaldı
+BossSpeedIncreased,Patron Hızı Arttı
+BossSpeedDecreased,Patron Hızı Azaldı
+BossHealth,Patron Sağlığı
+BossSpeed,Patron Hızı
+EnterNewName,Yeni bir ad gir
+,

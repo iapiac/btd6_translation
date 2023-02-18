@@ -232,7 +232,7 @@ ObynGreenfoot Level 20 Description,Puumuuri voi pidätellä paljon enemmän bloo
 ,
 Ezili Level 1 Description,Ezili kiroaa blooneja pimeän voodoon voimalla.
 Ezili Level 2 Description,Suurempi hyökkäysalue.
-Ezili Level 3 Description,"Sydämenpysäytin: Hidastaa blooneja, mahdollistaa purppurabloonien vahingoittamisen ja estää uusiutumisen 10 sekunnin ajaksi."
+Ezili Level 3 Description,Sydämenpysäytin: Mahdollistaa purppurabloonien vahingoittamisen ja estää uusiutumisen 10 sekunnin ajaksi.
 Ezili Level 4 Description,Ezilin päähyökkäys kiroaa nyt useita blooneja.
 Ezili Level 5 Description,Suurempi hyökkäysnopeus.
 Ezili Level 6 Description,Vahinko ajan mittaan kestää pidempään ja vahingoittaa nopeammin.
@@ -819,7 +819,7 @@ Sub Commander Description,Lisää läpäisykykyä ja vahinkoa komentajalle ja ka
 Buccaneer-Faster Shooting Description,Kaikki kannella olevat aseet ampuvat nopeammin.
 Buccaneer-Grape Shot Description,Lisää 5 terävän raehaulin suihkun laivaan.
 Buccaneer-Long Range Description,Paljon pidempi kantama ja nopeammat ammukset.
-Buccaneer-Double Shot Description,Tuplaa aluksen ampumat aseet.
+Buccaneer-Double Shot Description,"Lisää aseita, joilla alus ampuu."
 Buccaneer-Hot Shot Description,Polttavan kuuma rypäleammus voi poksauttaa lyijybloonit ja sytyttää bloonit.
 Buccaneer-Crow's Nest Description,Merirosvolaiva voi osua maastokuvioituihin blooneihin.
 Buccaneer-Destroyer Description,Ampuu superdupernopeasti!
@@ -829,7 +829,7 @@ Buccaneer-Aircraft Carrier Description,"Lähettää liikkeelle aallon hävittäj
 Buccaneer-Monkey Pirates Description,Lisää 2 tykkiä laivaan ja hyökkäykset tekevät enemmän vahinkoa. MOABin alasveto -kyky: ampuu harppuunan MOAB-luokan blooniin ja kiskoo sen alas.
 Buccaneer-Favored Trades Description,Hyökkää nopeammin ja tuottaa paljon enemmän rahaa joka kierroksella. Alueella olevilla apinoilla on suurempi myyntiarvo.
 Buccaneer-Carrier Flagship Description,Tekee lisävahinkoa. Voi asettaa muita apinoita laivan yläkannelle ja lisää kaikkien vesipohjaisten apinoiden ja lentäjä-ässien hyökkäysnopeutta.
-Buccaneer-Pirate Lord Description,"Huomattavasti suurempi hyökkäysnopeus kaikille hyökkäyksille, ja voi ampua 3 heittokoukkua kerralla ryöstäen lisävaroja kultakin alas kiskotulta MOAB-luokan bloonilta."
+Buccaneer-Pirate Lord Description,Huomattavasti tehokkaampi ja voi ampua 3 heittokoukkua kerralla ryöstäen lisävaroja kultakin alas kiskotulta MOAB-luokan bloonilta.
 Buccaneer-Trade Empire Description,Tuottaa enemmän käteistä kierrosta kohti. Lisää jopa 20 muun kauppiaan ansaitsemaa käteistä kauppiaiden lukumäärän mukaisesti ja tehostaa kaikkien kauppiaiden tekemää vahinkoa.
 ,
 Rapid Fire Description,Ampuu tavallista nopeammin.
@@ -902,7 +902,7 @@ Fireball Description,Sinkoaa aina muutaman sekunnin välein räjähtävän tulip
 Intense Magic Description,Voimakkaammat maagiset laukaukset liikkuvat nopeammin ja voivat poksauttaa enemmän blooneja.
 Arcane Blast Description,"Suuremmat, voimakkaammat maagiset räjähdykset poksauttavat blooneista 2 kerrosta."
 Wall of Fire Description,Luo superkuuman tuliseinän reitin halki paahtaakseen blooneja niiden kulkiessa ohi.
-Monkey Sense Description,Velho voi osua maastokuvioituihin blooneihin.
+Monkey Sense Description,"Lisää kantamaa hieman, ja velho voi osua maastokuvioituihin blooneihin."
 Arcane Mastery Description,"Nopeammat hyökkäykset, joilla on suurempi kantama, vahinko ja poksautusvoima."
 Dragon's Breath Description,Sylkee loputtomia liekkejä läheisiin blooneihin ja parantaa tulipalloa ja tuliseinää.
 Shimmer Description,"Saa musta magian hyökkäyksen, joka ajoittain paljastaa kaikkien lähellä olevien maastokuvioitujen bloonien sijainnin pysyvästi."
@@ -942,7 +942,7 @@ Bloonjitsu Description,Heittää 5 shurikenia kerralla!
 Bloon Sabotage Description,Sabotointi-kyky: Kestää 15 sekuntia. Sabotaasin aikana kaikki bloonit liikkuvat puolella nopeudella.  
 Sticky Bomb Description,Heittää voimakkaita ajastettuja pommeja MOAB-luokan blooneja kohti.
 Grandmaster Ninja Description,Heittää uskomattoman nopeasti 8 shurikenia laukausta kohti!
-Grand Saboteur Description,Kyky kestää pidempään ja MOAB-luokan bloonit syntyvät heikompina sabotaasin aikana.
+Grand Saboteur Description,Kyky kestää pidempään ja MOAB-luokan bloonit syntyvät heikompina sabotaasin aikana. Tehostaa kaikkia shinobeja.
 Master Bomber Description,Yhden apinan MOAB-tuhokone.
 ,
 Larger Potions Description,Laajemmat juomat roiskuvat laajemmalle alueelle.
@@ -987,11 +987,11 @@ Banana Plantation Description,Kasvattaa 16 banaaniterttua joka kierroksella.
 Monkey Bank Description,"Kaikki tämän farmin tuottamat rahat talletetaan pankkiin, ja ne saavat 15 % korkoa kullakin kierroksella."
 Marketplace Description,Tuottaa rahaa kullakin kierroksella ja lisää sen kokonaismäärääsi. Helppoa ja vaivatonta.
 Banana Research Facility Description,"Tuottaa kullakin kierroksella 5 suurta banaanilaatikkoa, jotka ovat kukin arvoltaan 300 $."
-IMF loan Description,"IMF-laina-kyky: saat 10 000 $, mutta sinun täytyy maksaa se takaisin ajan mittaan."
+IMF loan Description,"IMF-laina-kyky: saat 9 000 $, mutta sinun täytyy maksaa se takaisin ajan mittaan."
 Central Market Description,Tuottaa roppakaupalla rahaa joka kierroksella ja antaa kauppiaille +10 % tulon.
 Banana Central Description,Haluatko banaanin? Meillä on banaani!
 Monkey-Nomics Description,Kun olet liian suuri epäonnistumaan...
-Monkey Wall Street Description,Apinakauppojen keskiö tuottaa kolossaalisia tuloja ja lisää elämiä joka kierroksella.
+Monkey Wall Street Description,"Apinakauppojen keskiö tuottaa kolossaalisia tuloja, tuo lisää elämiä joka kierroksella ja kerää tulot kantamaltaan."
 ,
 Sentry Gun Description,Luo väliaikaisia vartiotykkejä ja asettaa ne lähelle.
 Larger Service Area Description,Ampuu kauemmas ja asettaa vartiotykkejä suuremmalle alueelle. Vartiotykin kantama kasvaa.
@@ -1051,7 +1051,7 @@ Primary Training Description,"Kaikki alueella olevat perusapinat saavat lisää 
 Monkey Intelligence Bureau Description,Virasto antaa erityistä tietämystä bloonien poksautuksesta ja mahdollistaa lähellä olevien apinoiden poksauttavan kaikkia bloonityyppejä.
 Monkey Town Description,Kaikki Apinakylän kantamalla olevat apinat saavat jokaisesta bloonin poksautuksesta ylimääräistä käteistä.
 Primary Mentoring Description,"Kaikki alueella olevat perusapinat saavat tason 1 päivitykset veloituksetta, suuremman kantaman ja lyhyemmät kykyjen palautumisajat."
-Call to Arms Description,Aseisiinkutsu-kyky: Antaa läheisille apinoille +50 % hyökkäysnopeuteen ja poksautukseen hetkeksi.
+Call to Arms Description,Aseisiinkutsu-kyky: Antaa kaikille apinoille +50 % hyökkäysnopeuteen ja poksautukseen hetkeksi.
 Monkey City Description,"Lisää vaikutusaluetta, käteisen keräämisaluetta ja antaa ilmaisen Tikka-apinan joka kierros."
 Primary Expertise Description,"Lisää megaballista-hyökkäyksen, ja lisäksi kaikki alueella olevat perusapinat saavat lisää poksautustehoa, kykyjen palautumisaika lyhenee entisestään ja tason 1 ja 2 päivitykset saa veloituksetta."
 Homeland Defense Description,Kyky kasvattaa nyt hyökkäysnopeutta ja poksautusta 100 % kaikille apinoille 20 sekunniksi.
@@ -1115,7 +1115,7 @@ Super Maelstrom Ability Description,Vieläkin tehokkaampi ja pidempikestoinen my
 Snowstorm Ability Description,Jäädyttää kaikki bloonit näytöllä hetkellisesti.
 Absolute Zero Ability Description,"Kyky on niin kylmä, että se jäädyttää kaikki bloonityypit, mukaan lukien kylmälle immuunit ja MOAB-luokan."
 Glue Strike Ability Description,Liimaa kaikki bloonit näytölle.
-Glue Storm Ability Description,Liimamyrsky-kyky tykittää koko näytölle liimaa 10 sekunnin ajan.
+Glue Storm Ability Description,Liimamyrsky-kyky tykittää koko näytölle liimaa 15 sekunnin ajan.
 Supply Drop Ability Description,Pudottaa rahaa täynnä olevan laatikon.
 Elite Sniper Ability Description,Tarvikepudotus antaa paljon enemmän käteistä.
 Elite Defender Ability Description,Menetetty elämä antaa tälle tarkka-ampujalle 2x hyökkäysnopeuden lyhyeksi ajaksi kostoa varten.
@@ -1140,14 +1140,14 @@ Legend of the Night Ability Description,"Käännymme hänen puoleensa, kun kaikk
 Bloon Sabotage Ability Description,Sabotaasin aikana kaikki bloonit liikkuvat hitaammin.
 Grand Saboteur Ability Description,Kyky kestää pidempään ja MOAB-luokan bloonit syntyvät heikompina sabotaasin aikana.
 Transforming Tonic Ability Description,Druidin lähellä olevat farmit ansaitsevat 50 % enemmän rahaa hetken aikaa.
-IMF loan Ability Description,"Saat 10 000 $, mutta sinun täytyy maksaa se takaisin ajan mittaan."
+IMF loan Ability Description,"Saat 9 000 $, mutta sinun täytyy maksaa se takaisin ajan mittaan."
 Monkey-Nomics Ability Description,Kun olet liian suuri epäonnistumaan...
 Overclock Ability Description,Kohdeapinasta tulee supertehokas lyhyeksi aikaa.
 Spike Storm Ability Description,Ampuu paksun piikkimaton koko reitille.
 Carpet of Spikes Ability Description,Asettaa piikkimaton koko reitille joka kierroksella.
 Magic Arcanum Ability Description,"Luo voimakkaan apinan, jonka kyvyt perustuvat siihen, millaisia läheiset maagiset apinat ovat."
-Call to Arms Ability Description,Antaa kaikille apinoille KAKSINKERTAISEN hyökkäysnopeuden ja poksautuksen 10 sekunnin ajaksi.
-Homeland Defense Ability Description,Kyky vaikuttaa KAIKKIIN apinoihin ja kestää 15 sekunnin ajan.
+Call to Arms Ability Description,Antaa kaikille apinoille +50 % hyökkäysnopeutta ja poksausta 10 sekunnin ajaksi.
+Homeland Defense Ability Description,Antaa kaikille apinoille +100 % hyökkäysnopeutta ja poksausta 20 sekunnin ajaksi.
 ,
 //Maps,
 TownCentre,Kaupungin keskusta
@@ -1824,7 +1824,7 @@ InsiderTradesDescription,Apinabisneksen alennus nousee 2 %.
 BiggerBanks,Suuremmat pankit
 BiggerBanksDescription,Apinapankit voivat säilyttää 2 500 rahaa enemmän.
 BackroomDeals,Kaupat takahuoneessa
-BackroomDealsDescription,IMF-laina on nostettu tasolle 12 000 $ ja takaisinmaksun suhde on 40 %.
+BackroomDealsDescription,"IMF-laina antaa 1 000 $ enemmän, ja takaisinmaksun suhde on 40 %."
 ThickerFoams,Paksummat vaahdot
 ThickerFoamsDescription,Puhdistusvaahto voi osua vielä 3 lisäblooniin ennen haihtumistaan.
 BigTraps,Suuret ansat
@@ -2753,8 +2753,8 @@ DarkKnightDarkshift,[I] synkkäsiirtyäksesi alueella
 DarkChampionDarkshift,[I] synkkäsiirtyäksesi mihin tahansa kelvolliseen sijaintiin
 SmallTowersMode,Pienet apinatornit
 BigTowersMode,Suuret apinatornit
-UpdatePopupTitle,Päivitys 34!
-UpdatePopupDescription,"Jättimäinen joulupäivitys!\n• Taistele panssaroitua jättiä, Kauhubloonia vastaan!\n• Paljasta torneja tehostavia paikkoja uudessa aloittelijakartassa: Kaksi vanhaa puuta!\n• Tuhoa blooneja joulutunnelmissa uudella kapteeni Churchillin ulkoasulla: reki-Churchill.\n• Pokaalikaupan esineitä, parannuksia peliin, tasapainotusta ja paljon muuta!\n• Hauskaa joulua ja mahtavaa uutta vuotta toivottavat kaikki Ninja Kiwillä!"
+UpdatePopupTitle,Päivitys 35!
+UpdatePopupDescription,"Uusi vuosi, uusi päivitys!\n• Uskaltaudu varjoisiin kammioihin uudessa asiantuntijakartassa Synkkä tyrmä. Sen on suunnitellut yhteisön kartantekokilpailun voittaja Lars_Overwick.\n• Aja bloonit pakoon kylästä uudella aloittelijakartalla Keskitien kulkija.\n• Tarjoa blooneille hirviömäinen rutistus uudella Pat Fusty -ulkoasulla Kaiju-Pat!\n• Pokaalikaupan esineitä, elämänlaatuparannuksia, tasapainomuutoksia ja paljon muuta!"
 ResetDailyChest,Nollaa päivittäinen arkku
 JukeboxName,Jukeboksi
 EnableFunction,Ota käyttöön
@@ -3700,10 +3700,10 @@ Psi,Psi
 Psi Short Description,Psioninen apina
 Psi Description,"Psi on lahjakas apinalapsi, joka käyttää pelkkää mielenvoimaa tuhoamaan blooneja sisältäpäin."
 Psi Level 1 Description,"Psi pystyy miltä tahansa etäisyydeltä ja esteistä välittämättä luomaan tappavia värinöitä, jotka tuhoavat yhden bloonin kerrallaan. Voi tähdätä maastokuvioituja blooneja."
-Psi Level 2 Description,Hyökkää hieman nopeammin.
+Psi Level 2 Description,Psioniset väreilyt tuhoavat blooneja tavallista nopeammin.
 Psi Level 3 Description,"Psyykkinen isku: Psi iskee voima-aallolla, joka tyrmää läheiset bloonit pitkäksi aikaa."
 Psi Level 4 Description,"Psin hyökkäys voi osua toiseen blooniin, jos se on erittäin lähellä kohteena ollutta bloonia."
-Psi Level 5 Description,Psioniset väreilyt tuhoavat blooneja tavallista nopeammin.
+Psi Level 5 Description,Hyökkää hieman nopeammin.
 Psi Level 6 Description,Psin voimakas mieli voi läpäistä lyijybloonit.
 Psi Level 7 Description,Psyykkinen isku tekee kaksi pulssia. Psi voi nyt tuhota keraamisia blooneja.
 Psi Level 8 Description,"Tuhovoimainen resonanssi aiheuttaa sen, että Psin päähyökkäyksen tuhoamat bloonit vahingoittavat läheisiä blooneja."
@@ -4343,7 +4343,7 @@ Geraldo Level 8 Description,"Uusi esine! Pullollinen Gerryn tulta – 2,8 miljoo
 Geraldo Level 9 Description,"Uusi esine! Lannoite – valittu banaanifarmi, joka tuottaa näkyviä banaaneja, lisää tuotantoa ja saa käteisbonuksen muutaman kierroksen aikana. Geraldon päähyökkäyksen räjähdyksen kantama kasvaa."
 Geraldo Level 10 Description,Uusi esine! Lemmikkipupu – voi kuinka suloinen pieni pupujussikka!
 Geraldo Level 11 Description,"Uusi esine! Parannusjuoma – nollaa kaikkien apinatornien ja sankarien palautumisajat, palauttaa 50 elämää. Geraldon päähyökkäyksen kantama kasvaa ja pikkelssipurnukka tekee enemmän vahinkoa vahvistettuja blooneja vastaan."
-Geraldo Level 12 Description,"Uusi esine! Pullon henki – kutsuu esiin plasmavoimaa käyttävän henkiapinan, joka kestää 3 kierrosta. Karmiva idoli tyrmää nyt välillä ohi menevät näkyvät MOAB-luokan bloonit."
+Geraldo Level 12 Description,"Uusi esine! Pullon henki – kutsuu esiin plasmavoimaa käyttävän henkiapinan, joka kestää 2 kierrosta. Karmiva idoli tyrmää nyt välillä ohi menevät näkyvät MOAB-luokan bloonit."
 Geraldo Level 13 Description,"Amputorni tulittaa nopeammin ja tekee enemmän vahinkoa, ja kasa vanhoja nauloja tekee enemmän vahinkoa."
 Geraldo Level 14 Description,Näe näkymättömät -taikajuoma antaa lisäkantamaa ja kestää pidempään.
 Geraldo Level 15 Description,"Teroituskivi lisää nyt vahinkoa läpäisyn lisäksi ja teräansa luo tehokkaamman vaikutuksen, kun se laukeaa."
@@ -5255,6 +5255,11 @@ Move,Liiku
 NeedsBeastHandlers,Vaadíttu peto
 NeedsWater,Vaatii vettä
 NeedsTrack,Vaatii radan
+Buffed,BUFFATTU
+Assisting,Avustaa
+Select Point On Track,Valitse piste reitiltä
+Select Point In Range,Valitse piste kantamalta
+,
 Dreadbloon,Kauhublooni
 DreadbloonTagLine,Syvältä synkän maan ytimestä...
 DreadbloonTagLine2,panssaroitu jätti!
@@ -5370,7 +5375,71 @@ CoopGameSyncFailed,Peliasetusten synkronointi epäonnistui Kokeile uutta peliä.
 iCloudTitle,iCloud
 iCloudDisabled,iCloud pois käytöstä
 iCloudEnabled,iCloud käytössä
-DialogBeastHandlerQuest1InGameTowerUpgrade1,"Vau, tuo peto on niin vahva, että tarvitaan KAKSI pedonkäsittelijää pitämään se hallinnassa!"
-Buffed,vahvistaa
-Assisting,Avustaminen
-Select Point On Track,Valitse piste radalta
+,
+Gamercard,Pelaajakortti
+ControllerDisconnected,Ohjaimen yhteys katkaistu. Yhdistä uudelleen ja yritä uudelleen.
+PlayerStatsBossesPopped,Pomoja poksautettu
+PlayerStatsDamageDoneToBosses,Pomoille tehty vahinkoa
+DarkDungeons,Synkät tyrmät
+MiddleOfTheRoad,Keskitien kulkija
+Achievement 146 Name,Sivutehtävä
+Achievement 146 Description,Suorita tehtävä
+Achievement 148 Name,Maailmanluokan treenausta
+Achievement 148 Description,Hanki 150 000 pedonkäsittelijän KP:tä
+KaijuPatFustySkinName,Kaiju-Pat-ulkoasu
+KaijuPatFustySkinNameFull,Kaiju-Pat
+KaijuPatFustySkinDescription,"Kummallinen peto, mutta hurjan hyväluonteinen."
+HeroesStrikerJonesBikerBonesPlacementHellriftName,Prätkä-Bonesin hornanrailon asettelu ja päivitys
+HeroesStrikerJonesBikerBonesPlacementHellriftShortName,Prätkä-Bonesin hornanrailo
+HeroesStrikerJonesBikerBonesPlacementHellriftDescription,"Nappaa tämä hornanrailo-tehoste ja katso, kuinka Prätkä-Bones kiitää taisteluun rautaratsullaan polttaen kumia jokaisen päivityksen myötä. Vain Prätkä-Bones."
+TowerPetSniperMonkeyChameleonName,Tarkka-ampuja-apinan kameleonttilemmikki
+TowerPetSniperMonkeyChameleonShortName,Tarkka-ampujan kameleonttilemmikki
+TowerPetSniperMonkeyChameleonDescription,"Odottaa rauhassa täydellisen naamioituneena lehvästössä. Kärpänen lentää ohi ja PAM! Kieli singahtaa nappaamaan sen. Ei, kyseessä ei ole tarkka-ampuja-apina vaan tarkka-ampuja-apinan lemmikkikameleontti!"
+GameUIProfileAvatar69Name,Oma avatar – Bloonarius
+GameUIProfileAvatar69ShortName,Bloonarius-avatar
+GameUIProfileAvatar69Description,Kupliva Bloonarius nousee kuplivasta suosta.
+GameUIProfileAvatar70Name,Oma avatar – opiskeleva Patch
+GameUIProfileAvatar70ShortName,Opiskeleva Patch
+GameUIProfileAvatar70Description,"Vaikka Patch pysyykin aina ajan tasalla uusimmista uutisista ja apinamaailman tieteestä, joskus hän vain istahtaa lukemaan hyvää kirjaa."
+GameUIProfileAvatar71Name,Oma avatar – Vain pieni apina
+GameUIProfileAvatar71ShortName,Vain pieni apina -avatar
+GameUIProfileAvatar71Description,Katso noita silmiä. Mitä bloonit edes haluavat? Se on vain pieni apina.
+GameUIProfileAvatar72Name,Oma avatar – onnellinen banaaninviljelijä
+GameUIProfileAvatar72ShortName,Onnellinen banaaninviljelijä -avatar
+GameUIProfileAvatar72Description,"Mikä on banaaninviljelijästä hauskempaa kuin pitää banaaniasua? Sukellella banaaneissa kuin pyöriäinen, kaivautua niihin kuin myyrä ja viskellä niitä ilmaan banaaniasussa."
+GameUIProfileBanner26Name,Liimamyrsky-profiilibanneri
+GameUIProfileBanner26ShortName,Liimamyrsky-banneri
+GameUIProfileBanner26Description,"Kun liimamyrsky peittää auringon, käytä tätä banneria varjossa."
+GameUIProfileBanner27Name,Velhoherra Feenix -profiilibanneri
+GameUIProfileBanner27ShortName,Velhoherra Feenix -banneri
+GameUIProfileBanner27Description,Bannerivoittaja: Flipp_Flopps
+GameUIProfileBanner28Name,Farmikana-profiilibanneri
+GameUIProfileBanner28ShortName,Farmikana-banneri
+GameUIProfileBanner28Description,Bannerivoittaja: WhereThighs
+TeamsEmblemFrame14Name,Jäniksen vuosi -kehys
+TeamsEmblemFrame14ShortName,Jäniksen vuosi -kehys
+TeamsEmblemFrame14Description,Valmistele ryhmäsi rauhaa ja vaurautta varten tällä Jäniksen vuosi -kehyksellä.
+TeamsEmblemFrame15Name,Kiivikesä-kehys
+TeamsEmblemFrame15ShortName,Kiivikesä-kehys
+TeamsEmblemFrame15Description,"Sandaalit, kiivihedelmä ja maorihehkupuun kukkia. Upea kehys upealle ryhmälle."
+TeamsEmblemIcon17Name,Jäniksen vuosi -kuvake
+TeamsEmblemIcon17ShortName,Jäniksen vuosi -kuvake
+TeamsEmblemIcon17Description,Jäniksen vuosi -kuvake valppaille ja määrätietoisille ryhmille.
+TeamsEmblemIcon18Name,Mehiläiskuvake
+TeamsEmblemIcon18ShortName,Mehiläiskuvake
+TeamsEmblemIcon18Description,Ryhmäsi pörisee voittoon tällä mehiläiskuvakkeella.
+BasePropCosyBeanbagMonkeyName,Mukava säkkituoli -apina
+BasePropCosyBeanbagMonkeyShortName,Mukava säkkituoli -apina
+BasePropCosyBeanbagMonkeyDescription,Säkkituoli. Äärimmäisen rentoutumisen merkki. Mukana rentoutuva apina! [Saaripaikka]
+RetryLastRoundDescriptionText,Yritetäänkö uudelleen edellisestä kierroksesta tallennetuilla elämillä ja käteisellä?
+PlayOffline,Pelaa offline-tilassa
+DarkDungeonsStatueName,Tyrmäpatsas
+DarkDungeonsStatueActivate,Aktiivinen patsas: ${0}
+DarkDungeonsStatueLevelUp,Taso {0}\n${1}
+BossHPIncreased,Pomon terveyttä lisätty
+BossHPDecreased,Pomon terveyttä vähennetty
+BossSpeedIncreased,Pomon nopeutta lisätty
+BossSpeedDecreased,Pomon nopeutta vähennetty
+BossHealth,Pomon terveys
+BossSpeed,Pomon nopeus
+EnterNewName,Anna uusi nimi
